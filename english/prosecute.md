@@ -1,5 +1,7 @@
 # prosecute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosecute.md)
+
 <p><span class="chinese">也没有人去起诉！哦！</span><span class="english">And no one to prosecute too! Ooooh!</span></p>
 
 <p><span class="chinese">他们会找藉口不去起诉骇客。</span><span class="english">They find pretexts not to prosecute.</span></p>

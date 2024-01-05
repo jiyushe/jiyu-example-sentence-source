@@ -1,5 +1,7 @@
 # checklist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/checklist.md)
+
 <p><span class="chinese">这是我的考评清单。</span><span class="english">Here's my checklist.</span></p>
 
 <p><span class="chinese">为你的小孩列一个清单。</span><span class="english">Create a checklist for your kids.</span></p>

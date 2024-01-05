@@ -1,5 +1,7 @@
 # 年尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianwei.md)
+
 <p><span class="chinese">工作组在2007年尾就开始开会。</span><span class="english">The work groups began meeting in late 2007.</span></p>
 
 <p><span class="chinese">到了1706年尾，他离开了正职牧师职务。</span><span class="english">In late 1706 he withdrew from active priesthood.</span></p>

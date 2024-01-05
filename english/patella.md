@@ -1,5 +1,7 @@
 # patella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patella.md)
+
 <p><span class="chinese">一次事故中她摔折了膑骨。</span><span class="english">She broke her patella in an accident.</span></p>
 
 <p><span class="chinese">探讨陈旧性髌骨骨折的治疗方法。</span><span class="english">To explore the therapy to old patella fracture.</span></p>

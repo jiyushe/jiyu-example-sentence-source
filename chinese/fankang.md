@@ -1,5 +1,7 @@
 # 反抗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fankang.md)
+
 <p><span class="chinese">牧羊座需要反抗。</span><span class="english">Aries need to rebel.</span></p>
 
 <p><span class="chinese">他们敢反抗洛西斯？</span><span class="english">They dare oppose Noxus?</span></p>

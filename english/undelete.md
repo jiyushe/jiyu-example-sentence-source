@@ -1,5 +1,7 @@
 # undelete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undelete.md)
+
 <p><span class="chinese">对删除的一个或多个标题的恢复失败。</span><span class="english">Failed to undelete one or more headers.</span></p>
 
 <p><span class="chinese">你的数据库中不能“取消”或者“恢复被删除的文件”。</span><span class="english">There is no "undo" or "undelete" in your database.</span></p>

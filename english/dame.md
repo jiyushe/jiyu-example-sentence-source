@@ -1,5 +1,7 @@
 # dame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dame.md)
+
 <p><span class="chinese">她真是一个性感迷人的小妞儿！</span><span class="english">What a foxy dame she is!</span></p>
 
 <p><span class="chinese">“有福不享！”猫跟着又说了一遍。</span><span class="english">"On Dame Fortune, " repeated the Cat.</span></p>

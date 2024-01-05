@@ -1,5 +1,7 @@
 # 卓有成效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoyouchengxiao.md)
+
 <p><span class="chinese">伊丽莎白提不出卓有成效的办法。</span><span class="english">Elizabeth had nothing to propose of deeper efficacy.</span></p>
 
 <p><span class="chinese">许多持久而卓有成效的关系由此而开始。</span><span class="english">And that started many long-lasting and fruitful relationships.</span></p>

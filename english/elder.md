@@ -1,5 +1,7 @@
 # elder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elder.md)
+
 <p><span class="chinese">这是一个老者。</span><span class="english">It was an elder.</span></p>
 
 <p><span class="chinese">在尊长的面前。</span><span class="english">In front of an elder.</span></p>

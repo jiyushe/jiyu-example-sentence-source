@@ -1,5 +1,7 @@
 # difficulty 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/difficulty.md)
+
 <p><span class="chinese">这是我的苦处。</span><span class="english">This is my difficulty.</span></p>
 
 <p><span class="chinese">第一，入睡困难。</span><span class="english">First, difficulty sleeping.</span></p>

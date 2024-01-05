@@ -1,5 +1,7 @@
 # imminence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imminence.md)
+
 <p><span class="chinese">他不相信战争已迫在眉睫。</span><span class="english">He had doubt about the imminence of war.</span></p>
 
 <p><span class="chinese">我国药品安全形势严峻，研究药品安全相关问题非常迫切。</span><span class="english">The research of drug safety is imminence to all of us.</span></p>

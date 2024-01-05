@@ -1,5 +1,7 @@
 # murderous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/murderous.md)
+
 <p><span class="chinese">热得要命，我受不了。</span><span class="english">I could n't withstand the murderous heat.</span></p>
 
 <p><span class="chinese">对于一堆杀人的怪物来说…</span><span class="english">Not bad for a bunch of murderous heathens.</span></p>

@@ -1,5 +1,7 @@
 # 老翁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoweng.md)
+
 <p><span class="chinese">那个年逾古稀的老翁经常出国。</span><span class="english">Not infrequently does the septuagenarian go abroad.</span></p>
 
 <p><span class="chinese">最近，我遇见了一位看上去像60岁的80老翁。</span><span class="english">Recently, I met an 80-year-old-man who looked like 60.</span></p>

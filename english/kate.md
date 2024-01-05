@@ -1,5 +1,7 @@
 # kate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kate.md)
+
 <p><span class="chinese">凯特是我的大姐姐。</span><span class="english">Kate is my big sister.</span></p>
 
 <p><span class="chinese">她是我堂妹凯特。</span><span class="english">She is my cousin Kate.</span></p>

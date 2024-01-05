@@ -1,5 +1,7 @@
 # 区县
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quxian.md)
+
 <p><span class="chinese">在三个区县医院也正在设立更多的隔离病房。</span><span class="english">Additional isolation wards are also being established in three district hospitals.</span></p>
 
 <p><span class="chinese">世卫组织国家办事处正在协助卫生部国家现场小组和区县卫生官员开展工作。</span><span class="english">WHO Country office is assisting the MOH national field team and the District health officials.</span></p>

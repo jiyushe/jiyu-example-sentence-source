@@ -1,5 +1,7 @@
 # brownie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brownie.md)
+
 <p><span class="chinese">巧克力方饼</span><span class="english">Brownie.</span></p>
 
 <p><span class="chinese">本杰里给我的巧克力软糖布朗尼任何一天。</span><span class="english">Give me Ben & Jerry's Chocolate Fudge Brownie any day.</span></p>

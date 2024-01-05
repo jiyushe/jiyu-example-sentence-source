@@ -1,5 +1,7 @@
 # sheva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheva.md)
+
 <p><span class="chinese">斯科拉里该给舍瓦机会吗？</span><span class="english">Should Scolari give Sheva a chance?</span></p>
 
 <p><span class="chinese">达拉拉球场总是给舍瓦带来好运。</span><span class="english">The Dall'Ara stadium brings Sheva luck.</span></p>

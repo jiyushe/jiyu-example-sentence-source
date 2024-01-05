@@ -1,5 +1,7 @@
 # skulduggery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skulduggery.md)
+
 <p><span class="chinese">波动的市场可掩盖各种欺诈行为。</span><span class="english">Volatile markets can mask all kinds of skulduggery.</span></p>
 
 <p><span class="chinese">他在一家调查商业诈骗的公司任职。</span><span class="english">He is working in a firm that investigates commercial skulduggery.</span></p>

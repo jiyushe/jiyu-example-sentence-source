@@ -1,5 +1,7 @@
 # bide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bide.md)
+
 <p><span class="chinese">和我一起呆一会儿吧。</span><span class="english">Bide with me awhile.</span></p>
 
 <p><span class="chinese">爸爸才受不了我呢，因为我乱骂他。</span><span class="english">Daddy cannot bide me, because I swear at him.</span></p>

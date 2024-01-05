@@ -1,5 +1,7 @@
 # 写字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezi.md)
+
 <p><span class="chinese">读书和写字呢？</span><span class="english">Reading and writing?</span></p>
 
 <p><span class="chinese">我们用油笔写字。</span><span class="english">We write with ball pens.</span></p>

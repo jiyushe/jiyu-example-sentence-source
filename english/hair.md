@@ -1,5 +1,7 @@
 # hair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hair.md)
+
 <p><span class="chinese">红头发？</span><span class="english">Red hair?</span></p>
 
 <p><span class="chinese">黑头发。</span><span class="english">Dark hair.</span></p>

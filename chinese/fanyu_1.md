@@ -1,5 +1,7 @@
 # 繁育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyu_1.md)
+
 <p><span class="chinese">药物繁育是医药学的一个恩惠。</span><span class="english">Breeding drugs would be a medical boon.</span></p>
 
 <p><span class="chinese">为什么不让水族馆爱好者们繁育自己的品种呢？</span><span class="english">Why not let the aquarist breed their own?</span></p>

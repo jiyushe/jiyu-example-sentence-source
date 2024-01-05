@@ -1,5 +1,7 @@
 # typeset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typeset.md)
+
 <p><span class="chinese">电脑排版，节省材料。</span><span class="english">Typeset and saving material.</span></p>
 
 <p><span class="chinese">我想问问你爱人会排版吗？</span><span class="english">I want to ask if your husband can typeset?</span></p>

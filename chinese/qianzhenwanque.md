@@ -1,5 +1,7 @@
 # 千真万确
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzhenwanque.md)
+
 <p><span class="chinese">从你身上，我知道这是千真万确的。</span><span class="english">I know it is true from you.</span></p>
 
 <p><span class="chinese">千真万确，弗里曼是正确的。</span><span class="english">Freeman is dead right, of course.</span></p>

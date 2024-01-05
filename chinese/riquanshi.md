@@ -1,5 +1,7 @@
 # 日全食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riquanshi.md)
+
 <p><span class="chinese">日全食历时最长的一次是百年难遇。</span><span class="english">Total solar eclipse to come, longest in 500 years.</span></p>
 
 <p><span class="chinese">下次日全食将会发生在2010年7月11日。</span><span class="english">The next total solar eclipse will occur on 11 July, 2010.</span></p>

@@ -1,5 +1,7 @@
 # 递补
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dibu.md)
+
 <p><span class="chinese">空缺已经递补了。</span><span class="english">I have got a vacancy, yes.</span></p>
 
 <p><span class="chinese">递补选举看起来作弊了。</span><span class="english">The by-elections seemed rigged.</span></p>

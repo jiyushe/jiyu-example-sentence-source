@@ -1,5 +1,7 @@
 # 宿命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suming.md)
+
 <p><span class="chinese">前进，走向宿命的坟冢。</span><span class="english">Ever onward to the grave.</span></p>
 
 <p><span class="chinese">那么，这是宿命吗？</span><span class="english">And this was foreordination?</span></p>

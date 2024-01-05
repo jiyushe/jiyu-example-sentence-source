@@ -1,5 +1,7 @@
 # 鹧鸪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhegu.md)
+
 <p><span class="chinese">和一只鹧鸪在梨树。</span><span class="english">And a Partridge in a Pear Tree.</span></p>
 
 <p><span class="chinese">鹧鸪声里倒清尊。</span><span class="english">Pour clear sound Partridge respect.</span></p>

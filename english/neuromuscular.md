@@ -1,5 +1,7 @@
 # neuromuscular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuromuscular.md)
+
 <p><span class="chinese">结论①肌肉神经组织起源于间质组织。</span><span class="english">Conclusions Neuromuscular tissue of pylorus originates from mesenchyme.</span></p>
 
 <p><span class="chinese">至目前为止，并无病例在脱臼，也无神经肌肉损伤之并发症。</span><span class="english">For the time being there was neither recurrence nor neuromuscular complication.</span></p>

@@ -1,5 +1,7 @@
 # postmodern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postmodern.md)
+
 <p><span class="chinese">一个叫“我们是后现代”的碱性萨达特。</span><span class="english">One is called "We Are Postmodern" by Alka Sadat.</span></p>
 
 <p><span class="chinese">我也不会给它起一个狂妄的后现代书名。</span><span class="english">Nor would I give it a pretentious postmodern title.</span></p>

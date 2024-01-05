@@ -1,5 +1,7 @@
 # 薪水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshui.md)
+
 <p><span class="chinese">他要求加薪水。</span><span class="english">He aked for raise.</span></p>
 
 <p><span class="chinese">薪水排在第六位。</span><span class="english">Salary came in sixth.</span></p>

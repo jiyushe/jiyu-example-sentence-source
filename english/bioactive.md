@@ -1,5 +1,7 @@
 # bioactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioactive.md)
+
 <p><span class="chinese">超卓越优质的非变性胺基酸生物活性乳清！</span><span class="english">Superior Bioactive Whey With Quality Aminos That Is Non-Denatured!</span></p>
 
 <p><span class="chinese">研究了活性大豆粉对小麦粉面团的流变学性质的影响。</span><span class="english">The effect of bioactive soybean powder on the wheat flour quality was studied.</span></p>

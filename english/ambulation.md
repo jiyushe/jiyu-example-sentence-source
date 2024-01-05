@@ -1,5 +1,7 @@
 # ambulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambulation.md)
+
 <p><span class="chinese">鼠标控制左右移动。</span><span class="english">The mouse controls or so ambulation.</span></p>
 
 <p><span class="chinese">游戏用鼠标移动扔橄榄球。</span><span class="english">The game throws rugby with the mouse ambulation.</span></p>

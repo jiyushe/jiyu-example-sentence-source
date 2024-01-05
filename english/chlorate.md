@@ -1,5 +1,7 @@
 # chlorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chlorate.md)
+
 <p><span class="chinese">电是生产氯酸盐的主要原料。</span><span class="english">Electricity is the main material for chlorate production.</span></p>
 
 <p><span class="chinese">利用氧阴极与DSA阳极组装成一种新型氯酸盐电解槽。</span><span class="english">A new chlorate cell system with a DSA anode and an oxygen cathode was set up.</span></p>

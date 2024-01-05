@@ -1,5 +1,7 @@
 # fettle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fettle.md)
+
 <p><span class="chinese">为什么我天天无精打采的？</span><span class="english">I why in poor fettle every day of?</span></p>
 
 <p><span class="chinese">你怎么这么无精打采？失恋啦。</span><span class="english">You how so in poor fettle?Brokenhearted.</span></p>

@@ -1,5 +1,7 @@
 # 硬碰硬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingpengying.md)
+
 <p><span class="chinese">同时，卡梅拉和草甸硬碰硬。</span><span class="english">Meanwhile, Carmela and Meadow butt heads.</span></p>
 
 <p><span class="chinese">公司决定跟工会硬碰硬。</span><span class="english">The company is prepared to play hardball with the union.</span></p>

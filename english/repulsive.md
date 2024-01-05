@@ -1,5 +1,7 @@
 # repulsive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repulsive.md)
+
 <p><span class="chinese">你这个讨厌的癞蛤蟆！</span><span class="english">You repulsive little toad !</span></p>
 
 <p><span class="chinese">所以这是一个排斥场。</span><span class="english">So that is a repulsive term.</span></p>

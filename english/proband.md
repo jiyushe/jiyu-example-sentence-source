@@ -1,5 +1,7 @@
 # proband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proband.md)
+
 <p><span class="chinese">先证者EXT2基因没有发现变异。</span><span class="english">No variant was found in EXT2 gene of this proband.</span></p>
 
 <p><span class="chinese">先证者兄弟姐妹患病的风险取决于其父母。</span><span class="english">The risk to the sibs of the proband depends on the status of the parents.</span></p>

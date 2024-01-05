@@ -1,5 +1,7 @@
 # 开门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaimen.md)
+
 <p><span class="chinese">芝麻，开门！</span><span class="english">Open Sesame!</span></p>
 
 <p><span class="chinese">露易丝，开开门！</span><span class="english">Louise, open the door!</span></p>

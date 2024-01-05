@@ -1,5 +1,7 @@
 # 镜面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingmian.md)
+
 <p><span class="chinese">别再凝视那苦涩惨凄的镜面</span><span class="english">Gaze no more in the bitter glass</span></p>
 
 <p><span class="chinese">把主轴颈抛光至镜面。</span><span class="english">Polish the crosshead pin to mirror surface.</span></p>

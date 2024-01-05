@@ -1,5 +1,7 @@
 # 运转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunzhuan.md)
+
 <p><span class="chinese">机器运转良好。</span><span class="english">The machine works well.</span></p>
 
 <p><span class="chinese">你们的思维开始运转了吗</span><span class="english">The cogs are spinning now?</span></p>

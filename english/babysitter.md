@@ -1,5 +1,7 @@
 # babysitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babysitter.md)
+
 <p><span class="chinese">他给临时来照看孩子的保姆付了钱。</span><span class="english">He paid the babysitter.</span></p>
 
 <p><span class="chinese">你是个男保姆？</span><span class="english">You are a man babysitter.</span></p>

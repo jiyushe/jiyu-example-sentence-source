@@ -1,5 +1,7 @@
 # update
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/update.md)
+
 <p><span class="chinese">业务进展情况暂未更新。</span><span class="english">No update on progress.</span></p>
 
 <p><span class="chinese">这是一个重要更新。</span><span class="english">This is a major update.</span></p>

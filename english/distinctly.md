@@ -1,5 +1,7 @@
 # distinctly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distinctly.md)
+
 <p><span class="chinese">一个明显的长大衣。</span><span class="english">A distinctly long coat.</span></p>
 
 <p><span class="chinese">老师能清晰地发音。</span><span class="english">The teacher pronounces distinctly.</span></p>

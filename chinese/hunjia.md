@@ -1,5 +1,7 @@
 # 婚嫁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunjia.md)
+
 <p><span class="chinese">婚嫁状况并不能驱动历史。</span><span class="english">Material conditions do not drive history.</span></p>
 
 <p><span class="chinese">天主教的教士不准婚嫁。</span><span class="english">Catholic priests are not allowed to marry.</span></p>

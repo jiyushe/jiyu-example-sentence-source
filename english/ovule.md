@@ -1,5 +1,7 @@
 # ovule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovule.md)
+
 <p><span class="chinese">十一月中旬时胚珠原体凸出胎座表面。</span><span class="english">Ovule primordia occur from placenta in mid November.</span></p>
 
 <p><span class="chinese">营养物质通过珠柄传递到胚珠和种子。</span><span class="english">Nutrients pass through the funicle to the ovule and seed.</span></p>

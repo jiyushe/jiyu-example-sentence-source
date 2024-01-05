@@ -1,5 +1,7 @@
 # awake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awake.md)
+
 <p><span class="chinese">我刚醒。</span><span class="english">I am awake now.</span></p>
 
 <p><span class="chinese">今霄酒醒何处？</span><span class="english">From wine awake?</span></p>

@@ -1,5 +1,7 @@
 # kenaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kenaf.md)
+
 <p><span class="chinese">对红麻酸法制浆生产文化用纸进行了研究。</span><span class="english">How to produce kenaf pulp by bisulfite was studied in this paper.</span></p>
 
 <p><span class="chinese">麻秆芯缓冲包装材料具有优良的抗蠕变特性。</span><span class="english">The Kenaf core buffer packing material has a fine anti-creep property.</span></p>

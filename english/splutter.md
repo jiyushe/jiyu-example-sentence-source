@@ -1,5 +1,7 @@
 # splutter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splutter.md)
+
 <p><span class="chinese">我一边拿纸巾擤鼻涕一边问他。</span><span class="english">I ask as I splutter into a tissue.</span></p>
 
 <p><span class="chinese">雨水打得油灯噼啪响。</span><span class="english">The rain caused the lamp to splutter.</span></p>

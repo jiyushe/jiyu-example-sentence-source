@@ -1,5 +1,7 @@
 # 丢开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diukai.md)
+
 <p><span class="chinese">你想丢开工作吗？</span><span class="english">Do you feel like quitting your job?</span></p>
 
 <p><span class="chinese">你就把一切丢开,安心休息</span><span class="english">Then just drop it all, and give up to rest</span></p>

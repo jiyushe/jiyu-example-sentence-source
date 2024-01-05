@@ -1,5 +1,7 @@
 # lamarckian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamarckian.md)
+
 <p><span class="chinese">蚂蚁算法是拉马克检索的一种形式。</span><span class="english">Ant algorithms are a type of Lamarckian search.</span></p>
 
 <p><span class="chinese">要获得拉马克生物学还需要别的什么？</span><span class="english">What else would it take to have a Lamarckian biology?</span></p>

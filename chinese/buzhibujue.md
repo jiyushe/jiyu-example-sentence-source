@@ -1,5 +1,7 @@
 # 不知不觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhibujue.md)
+
 <p><span class="chinese">我不知不觉掉进了梦网。</span><span class="english">I unawares fall in the dream net.</span></p>
 
 <p><span class="chinese">麻醉品成瘾是在不知不觉中的。</span><span class="english">Narcotics addiction is insidious.</span></p>

@@ -1,5 +1,7 @@
 # soaked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soaked.md)
+
 <p><span class="chinese">他浑身都湿透了。</span><span class="english">He soaked all over.</span></p>
 
 <p><span class="chinese">她把面包浸在牛奶里。</span><span class="english">She soaked bread in milk.</span></p>

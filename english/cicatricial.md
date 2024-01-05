@@ -1,5 +1,7 @@
 # cicatricial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cicatricial.md)
+
 <p><span class="chinese">这就是所谓的疤痕性眼睑外翻及可能的后续伤口或烧伤。</span><span class="english">This is called cicatricial ectropion and may follow wounds or burns.</span></p>
 
 <p><span class="chinese">目的探讨腋部瘢痕挛缩的防治方法。</span><span class="english">Objective To explore the treatment of axillary deformity caused by post-burn cicatricial contracture.</span></p>

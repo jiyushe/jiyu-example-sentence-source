@@ -1,5 +1,7 @@
 # 寒心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanxin.md)
+
 <p><span class="chinese">他的话使全医院为之寒心。</span><span class="english">His speech cast a chill over the hospital.</span></p>
 
 <p><span class="chinese">所有这些都会对团队的活力造成让人寒心的效果。</span><span class="english">All this has a chilling effect on the team dynamic.</span></p>

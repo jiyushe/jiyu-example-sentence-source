@@ -1,5 +1,7 @@
 # breathless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breathless.md)
+
 <p><span class="chinese">爬了十层楼，他已上气不接下气了。</span><span class="english">He was breathless after climbing ten floors.</span></p>
 
 <p><span class="chinese">他听到门口有上气不接下气的喘息声。</span><span class="english">He heard a breathless voice from his doorway.</span></p>

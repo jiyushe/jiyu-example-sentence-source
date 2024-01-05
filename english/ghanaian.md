@@ -1,5 +1,7 @@
 # ghanaian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghanaian.md)
+
 <p><span class="chinese">不过我不会觉得自己成了一个加纳人。</span><span class="english">but I won't feel Ghanaian.</span></p>
 
 <p><span class="chinese">第二辆车插着加纳的三角旗。</span><span class="english">The second car was flying the Ghanaian pennant.</span></p>

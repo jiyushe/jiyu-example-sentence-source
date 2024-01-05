@@ -1,5 +1,7 @@
 # kickback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kickback.md)
+
 <p><span class="chinese">这回扣是非法的。</span><span class="english">This kickback is illegal.</span></p>
 
 <p><span class="chinese">每一个交了钱的人部可以得到回扣。</span><span class="english">Everyone who paid will receive a kickback.</span></p>

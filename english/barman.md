@@ -1,5 +1,7 @@
 # barman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barman.md)
+
 <p><span class="chinese">"又是个神经病，"酒吧招待说过后，转过头去。</span><span class="english">"Otro loco mas," said the barman and turned away.</span></p>
 
 <p><span class="chinese">“牡鹿？”酒吧老板吼道，“那是只山羊，白痴！”</span><span class="english">"Stag?" roared the barman. "It's a goat, idiot! "</span></p>

@@ -1,5 +1,7 @@
 # 空儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/konger.md)
+
 <p><span class="chinese">我现在没空儿。</span><span class="english">Sorry, I'm not free now.</span></p>
 
 <p><span class="chinese">公共汽车一点空儿都没有了。</span><span class="english">There isn't any room on the bus.</span></p>

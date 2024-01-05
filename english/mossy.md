@@ -1,5 +1,7 @@
 # mossy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mossy.md)
+
 <p><span class="chinese">和苔藓的曲径。</span><span class="english">And winding mossy ways.</span></p>
 
 <p><span class="chinese">噢这野物苔藓色的凝望。</span><span class="english">Oh the mossy gaze of the wild thing.</span></p>

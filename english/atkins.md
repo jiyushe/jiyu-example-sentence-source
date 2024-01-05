@@ -1,5 +1,7 @@
 # atkins
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atkins.md)
+
 <p><span class="chinese">阿特金是我们这个时代的英雄。</span><span class="english">Atkins is a hero of our time.</span></p>
 
 <p><span class="chinese">阿提金的饮食就是这方面的一个例子</span><span class="english">And Atkins diet is an example of that.</span></p>

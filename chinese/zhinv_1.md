@@ -1,5 +1,7 @@
 # 织女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhinv_1.md)
+
 <p><span class="chinese">那就意味着织女正在哭泣。</span><span class="english">It means that Zhinu is weeping.</span></p>
 
 <p><span class="chinese">去偷织女的白如雪的衣裙。</span><span class="english">Weaver steal the dress of white as snow.</span></p>

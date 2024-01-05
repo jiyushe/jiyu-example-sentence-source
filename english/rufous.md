@@ -1,5 +1,7 @@
 # rufous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rufous.md)
+
 <p><span class="chinese">棕煌蜂鸟悬停时引发的尾流。</span><span class="english">ON THE WING The wake of a hovering rufous hummingbird, top.</span></p>
 
 <p><span class="chinese">它在全株各部分较小和红棕色的粗糙的绒毛层的方面不同。</span><span class="english">It differs in the smaller size of all parts and rufous scabrous tomentum.</span></p>

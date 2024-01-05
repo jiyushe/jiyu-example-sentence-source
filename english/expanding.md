@@ -1,5 +1,7 @@
 # expanding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expanding.md)
+
 <p><span class="chinese">我只是把它展开了。</span><span class="english">I'm just expanding it out.</span></p>
 
 <p><span class="chinese">贵公司在扩厂吗？</span><span class="english">Are you expanding your plant?</span></p>

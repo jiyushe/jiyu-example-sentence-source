@@ -1,5 +1,7 @@
 # mezzanine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mezzanine.md)
+
 <p><span class="chinese">还有一些中厅的座位。</span><span class="english">I still have a few seats in the mezzanine.</span></p>
 
 <p><span class="chinese">在中层楼，你可以坐那里的电梯。</span><span class="english">It's on the mezzanine. You can take the elevator over there.</span></p>

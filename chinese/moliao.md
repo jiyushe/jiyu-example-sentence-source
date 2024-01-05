@@ -1,5 +1,7 @@
 # 末了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moliao.md)
+
 <p><span class="chinese">那么多手摸你，是她末了说的话。</span><span class="english">Too many hands is what she said.</span></p>
 
 <p><span class="chinese">末了，有空时在再涂上更多的灰泥。</span><span class="english">Then, when there is time more plastering.</span></p>

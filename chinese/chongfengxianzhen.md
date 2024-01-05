@@ -1,5 +1,7 @@
 # 冲锋陷阵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongfengxianzhen.md)
+
 <p><span class="chinese">为刘昌强冲锋陷阵的得力干将樊金文今年25岁。</span><span class="english">Liu Changjiang strikes skeleton staff for the 25-year-old Fan Jinwen.</span></p>
 
 <p><span class="chinese">骑兵的职责就是胆大无畏敢于冲锋陷阵，这同时也是他们应该引以为自豪的东西。</span><span class="english">Cavalry's duty is intrepid dare to take the lead, this is also what they should be proud of.</span></p>

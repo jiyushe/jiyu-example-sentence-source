@@ -1,5 +1,7 @@
 # 迫降
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pojiang.md)
+
 <p><span class="chinese">坏消息是我们得迫降了。</span><span class="english">The bad news is we're crash-landing.</span></p>
 
 <p><span class="chinese">第四架飞机在一艘荷兰拖网渔船旁迫降。</span><span class="english">He and i were shipmates on a trawler once.</span></p>

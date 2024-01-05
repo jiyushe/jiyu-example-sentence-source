@@ -1,5 +1,7 @@
 # plesiosaur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plesiosaur.md)
+
 <p><span class="chinese">授予“怪物”的称号。这是一种我们之前没有发现过的蛇颈龙。</span><span class="english">Dubbed "the Monster, " it's thought to be a previously unknown species of plesiosaur.</span></p>
 
 <p><span class="chinese">据说这是蛇颈龙的一种，六千五百万年前由于某种原因在此搁浅。</span><span class="english">It was said to be a sort of plesiosaur , somehow stranded in the loch from 65m years ago.</span></p>

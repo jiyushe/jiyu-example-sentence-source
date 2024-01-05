@@ -1,5 +1,7 @@
 # 地广人稀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diguangrenxi.md)
+
 <p><span class="chinese">埃及有丰富的土地，但大部分是地广人稀。</span><span class="english">Egypt has plenty of land, but much of it is sparsely inhabited.</span></p>
 
 <p><span class="chinese">这是阿拉斯加这个地广人稀的州不到两个星期里发生的第三起坠机事件。</span><span class="english">This is the third plane crash in less than two weeks in the large, sparsely populated state.</span></p>

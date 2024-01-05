@@ -1,5 +1,7 @@
 # taurus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taurus.md)
+
 <p><span class="chinese">巨蟹，跟金牛座有干连。</span><span class="english">Cancer, linked with Taurus.</span></p>
 
 <p><span class="chinese">狮子座男与金牛座女的相融性</span><span class="english">Leo Man Taurus Woman Compatibility</span></p>

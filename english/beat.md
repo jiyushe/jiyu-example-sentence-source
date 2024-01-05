@@ -1,5 +1,7 @@
 # beat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beat.md)
+
 <p><span class="chinese">击败热火队？</span><span class="english">Beat the Heat?</span></p>
 
 <p><span class="chinese">那这个鼓点就是</span><span class="english">So the beat is.</span></p>

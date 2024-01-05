@@ -1,5 +1,7 @@
 # unconquerable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconquerable.md)
+
 <p><span class="chinese">不可征服的灵魂。</span><span class="english">For my unconquerable soul.</span></p>
 
 <p><span class="chinese">我有不可征服的灵魂。</span><span class="english">For my unconquerable soul.</span></p>

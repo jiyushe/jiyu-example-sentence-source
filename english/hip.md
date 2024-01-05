@@ -1,5 +1,7 @@
 # hip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hip.md)
+
 <p><span class="chinese">拉鍊夹到我的屁股。</span><span class="english">The zip bit my hip.</span></p>
 
 <p><span class="chinese">放松胯关节。</span><span class="english">Relieves hip joints.</span></p>

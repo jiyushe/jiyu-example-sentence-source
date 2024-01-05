@@ -1,5 +1,7 @@
 # Olympian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olympian.md)
+
 <p><span class="chinese">接着，她教了我五道奥数题。</span><span class="english">Then she taught me five Olympian math problems.</span></p>
 
 <p><span class="chinese">那是她那本奥数书的最后一讲了。</span><span class="english">It is the last topic for her Olympian math book.</span></p>

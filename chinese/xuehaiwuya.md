@@ -1,5 +1,7 @@
 # 学海无涯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuehaiwuya.md)
+
 <p><span class="chinese">书山有路勤为径，is。学海无涯苦作舟。</span><span class="english">There is no roy's road to learning.</span></p>
 
 <p><span class="chinese">让您的孩子从此学海无涯“习”作舟！</span><span class="english">Teaching kids how to learn & love learn!</span></p>

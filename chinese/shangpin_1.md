@@ -1,5 +1,7 @@
 # 商品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangpin_1.md)
+
 <p><span class="chinese">买商店的自产商品。</span><span class="english">Buy store brands.</span></p>
 
 <p><span class="chinese">我买他们的商品。</span><span class="english">I buy their products.</span></p>

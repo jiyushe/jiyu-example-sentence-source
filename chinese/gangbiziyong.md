@@ -1,5 +1,7 @@
 # 刚愎自用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gangbiziyong.md)
+
 <p><span class="chinese">刚愎自用总是会刺伤耶稣基督。</span><span class="english">Obstinacy and self-will will always stab Jesus Christ.</span></p>
 
 <p><span class="chinese">也许波斯纳刚愎自用，但他还有些尖锐和魄力。</span><span class="english">Posner may be wrong-headed, but he has bite and verve.</span></p>

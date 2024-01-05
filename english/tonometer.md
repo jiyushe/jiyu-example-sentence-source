@@ -1,5 +1,7 @@
 # tonometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tonometer.md)
+
 <p><span class="chinese">最早的血压计用于测量谁的血压？</span><span class="english">At whose blood pressure measuring is the earliest tonometer used?</span></p>
 
 <p><span class="chinese">医生测量眼压使用的仪器叫做眼压仪。</span><span class="english">The instrument the doctor uses to measure pressure is called a tonometer.</span></p>

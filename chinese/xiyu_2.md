@@ -1,5 +1,7 @@
 # 细雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyu_2.md)
+
 <p><span class="chinese">这一天落着蒙蒙细雨。</span><span class="english">The day was drizzling.</span></p>
 
 <p><span class="chinese">这是冷而下着蒙蒙细雨天。</span><span class="english">It was a cold, drizzly day.</span></p>

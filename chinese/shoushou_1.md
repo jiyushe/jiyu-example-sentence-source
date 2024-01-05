@@ -1,5 +1,7 @@
 # 收受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoushou_1.md)
+
 <p><span class="chinese">任何人不许收受礼物。</span><span class="english">No one shall accept of any present.</span></p>
 
 <p><span class="chinese">搓，给眼霜减温，使之更随便被肌肤收受。</span><span class="english">Rub the cream, for heating, which is more easily absorbed by the skin.</span></p>

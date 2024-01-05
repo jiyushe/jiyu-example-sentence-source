@@ -1,5 +1,7 @@
 # 刑事诉讼法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshisusongfa.md)
+
 <p><span class="chinese">不起诉是我国刑事诉讼法的一项重要制度。</span><span class="english">Not-suing is an important instition of our country's criminal suit law.</span></p>
 
 <p><span class="chinese">我国刑事诉讼法对刑事缺席审判制度缺乏明文规定。</span><span class="english">Our country's law of criminal procedure lacks the regulations to the system.</span></p>

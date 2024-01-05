@@ -1,5 +1,7 @@
 # mailbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mailbox.md)
+
 <p><span class="chinese">我的信箱是空的。</span><span class="english">My mailbox was empty.</span></p>
 
 <p><span class="chinese">如何申请一个免费的电子邮箱？</span><span class="english">How to apply for a free mailbox ?</span></p>

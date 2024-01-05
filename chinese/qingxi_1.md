@@ -1,5 +1,7 @@
 # 清洗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxi_1.md)
+
 <p><span class="chinese">在温水中清洗。</span><span class="english">Wash in warm water.</span></p>
 
 <p><span class="chinese">我给你清洗头发。</span><span class="english">Let me rinse your hir.</span></p>

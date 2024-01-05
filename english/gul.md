@@ -1,5 +1,7 @@
 # gul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gul.md)
+
 <p><span class="chinese">娜木钟策划着为博古尔报仇。</span><span class="english">Na clock planning revenge for Po gul.</span></p>
 
 <p><span class="chinese">在奥期间，居尔还将出席土奥经济论坛。</span><span class="english">In the Olympic period, Gul will also attend the soil Austrian economic forum.</span></p>

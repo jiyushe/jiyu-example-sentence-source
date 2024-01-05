@@ -1,5 +1,7 @@
 # basel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basel.md)
+
 <p><span class="chinese">边锋/攻击型中场，19岁，巴塞尔</span><span class="english">Winger or attacking midfielder, 19, Basel</span></p>
 
 <p><span class="chinese">巴塞尔镇距离酒店仅有200米。</span><span class="english">Basel Town is just 200 meters from our hotel.</span></p>

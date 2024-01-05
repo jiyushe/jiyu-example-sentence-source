@@ -1,5 +1,7 @@
 # pyruvate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyruvate.md)
+
 <p><span class="chinese">这两个氨基酸从丙酮酸获得它们的碳架。</span><span class="english">These two amino acids derive their carbon skeletons from pyruvate.</span></p>
 
 <p><span class="chinese">本文研究了酒石酸合成丙酮酸钠的工艺。</span><span class="english">This article studies the synthesis of sodium pyruvate from tartaric acid.</span></p>

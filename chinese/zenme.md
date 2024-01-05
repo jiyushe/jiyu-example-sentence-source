@@ -1,5 +1,7 @@
 # 怎么
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zenme.md)
+
 <p><span class="chinese">怎么弄的一团糟？</span><span class="english">What a mess!</span></p>
 
 <p><span class="chinese">它是怎么编写的呢</span><span class="english">What was it?</span></p>

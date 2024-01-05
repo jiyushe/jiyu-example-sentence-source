@@ -1,5 +1,7 @@
 # cisco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cisco.md)
+
 <p><span class="chinese">我们有一个路由器，以及思科的e300。</span><span class="english">We have a Cisco E300 router as well.</span></p>
 
 <p><span class="chinese">她也是思科公司的董事会成员之一。</span><span class="english">She serves on the board of Cisco Systems.</span></p>

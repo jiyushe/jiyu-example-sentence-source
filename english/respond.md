@@ -1,5 +1,7 @@
 # respond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respond.md)
+
 <p><span class="chinese">我们该如何回应？</span><span class="english">How do we respond?</span></p>
 
 <p><span class="chinese">那你要怎么反应？</span><span class="english">How will you respond?</span></p>

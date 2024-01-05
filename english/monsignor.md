@@ -1,5 +1,7 @@
 # monsignor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monsignor.md)
+
 <p><span class="chinese">臣推荐黄大人。</span><span class="english">I recommend Monsignor Huang Jiashan.</span></p>
 
 <p><span class="chinese">包大人该如何处理呢？</span><span class="english">What would Monsignor Bao deal with this case?</span></p>

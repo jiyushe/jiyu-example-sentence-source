@@ -1,5 +1,7 @@
 # 袈裟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiasha_1.md)
+
 <p><span class="chinese">让那身穿着白色袈裟。</span><span class="english">Let the priest in surplice white.</span></p>
 
 <p><span class="chinese">你披上婚纱我披了袈裟！</span><span class="english">You covered wedding I grasped the cassocks!</span></p>

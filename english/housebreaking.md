@@ -1,5 +1,7 @@
 # housebreaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housebreaking.md)
+
 <p><span class="chinese">你用什么训练狗狗良好排泄习惯？</span><span class="english">What do you use when housebreaking the new puppy?</span></p>
 
 <p><span class="chinese">去年抢劫和入室行窃成灾。</span><span class="english">Last year there was a plague of robbery and housebreaking.</span></p>

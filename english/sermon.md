@@ -1,5 +1,7 @@
 # sermon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sermon.md)
+
 <p><span class="chinese">对我唠叨可没用。</span><span class="english">It is no use to sermon me.</span></p>
 
 <p><span class="chinese">她在听布道时睡著了。</span><span class="english">She dropped off during the sermon.</span></p>

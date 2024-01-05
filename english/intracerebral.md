@@ -1,5 +1,7 @@
 # intracerebral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intracerebral.md)
+
 <p><span class="chinese">脑出血与瘀血、痰水、火热、毒邪密切相关。</span><span class="english">Acute period of intracerebral hemorrhage is associated with Blood Stasis.</span></p>
 
 <p><span class="chinese">脑梗塞是继发性颅内出血最常见的诱因。</span><span class="english">Infarction is the most common cause of secondary intracerebral hemorrhage.</span></p>

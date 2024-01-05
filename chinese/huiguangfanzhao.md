@@ -1,5 +1,7 @@
 # 回光返照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiguangfanzhao.md)
+
 <p><span class="chinese">究竟是一线希望抑或仅仅是回光返照？</span><span class="english">GLIMMER of recovery or a dead-cat bounce?</span></p>
 
 <p><span class="chinese">“这并非不正常，”有人对我说，“这种恢复通常是临终前的回光返照。</span><span class="english">Not unusual, "I was told, " a rally is often a sign of imminent death. "</span></p>

@@ -1,5 +1,7 @@
 # 阴干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingan.md)
+
 <p><span class="chinese">阴干一下试试吧，也许可以恢复一些。</span><span class="english">Dry your Marine Band in the shade, and that might help.</span></p>
 
 <p><span class="chinese">这种丝绸衣服应阴干。</span><span class="english">This kind of silk clothing should be dried in the shade.</span></p>

@@ -1,5 +1,7 @@
 # generality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generality.md)
+
 <p><span class="chinese">大多数瑞典人都是金发白肤碧眼者。</span><span class="english">The generality of Swedes are blonde.</span></p>
 
 <p><span class="chinese">更多的，我专注与一般性和性能。</span><span class="english">Instead, I concentrated on generality and performance.</span></p>

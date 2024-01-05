@@ -1,5 +1,7 @@
 # erroneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erroneous.md)
+
 <p><span class="chinese">这是错误而又危险的。</span><span class="english">This is erroneous and dangerous.</span></p>
 
 <p><span class="chinese">抛弃舛误的观念。</span><span class="english">We should discard erroneous concepts.</span></p>

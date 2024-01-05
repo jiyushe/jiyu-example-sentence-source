@@ -1,5 +1,7 @@
 # judea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judea.md)
+
 <p><span class="chinese">彼拉多是朱迪亚的罗马直接统治者之一。</span><span class="english">Pilate was one of these direct Roman rulers of Judea.</span></p>
 
 <p><span class="chinese">所以罗马人自公元前63年开始统治朱迪亚。</span><span class="english">So the Romans were in charge of Judea from 63 BCE on.</span></p>

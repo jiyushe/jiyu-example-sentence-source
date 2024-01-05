@@ -1,5 +1,7 @@
 # 脱离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoli.md)
+
 <p><span class="chinese">拯救我们脱离邪恶。</span><span class="english">Deliver us from evil.</span></p>
 
 <p><span class="chinese">他们毫发无伤的脱离了。</span><span class="english">They escaped unharmed.</span></p>

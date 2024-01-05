@@ -1,5 +1,7 @@
 # 淤积
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuji.md)
+
 <p><span class="chinese">街沟中淤积着污物。</span><span class="english">The gutters were choked with filth.</span></p>
 
 <p><span class="chinese">疏浚解决河口淤积问题只治标。</span><span class="english">Dredging is only a temporary solution to this problem.</span></p>

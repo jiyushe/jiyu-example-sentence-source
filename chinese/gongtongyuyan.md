@@ -1,5 +1,7 @@
 # 共同语言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongtongyuyan.md)
+
 <p><span class="chinese">我们没有共同语言。</span><span class="english">We don't share a common language.</span></p>
 
 <p><span class="chinese">尼采和李白有共同语言吗？</span><span class="english">What does Nietzsche have to share with Li Bai?</span></p>

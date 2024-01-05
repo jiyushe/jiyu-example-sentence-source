@@ -1,5 +1,7 @@
 # admonish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admonish.md)
+
 <p><span class="chinese">私下告诫朋友，公开赞扬朋友。</span><span class="english">Admonish your friends privately, praise them openly.</span></p>
 
 <p><span class="chinese">私下里劝告你的朋友，公开场合表扬他们。</span><span class="english">Admonish your friend in private , praise them in public.</span></p>

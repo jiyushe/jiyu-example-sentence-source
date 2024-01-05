@@ -1,5 +1,7 @@
 # inexperience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inexperience.md)
+
 <p><span class="chinese">缺乏经验与简单性。</span><span class="english">Inexperience versus simplicity.</span></p>
 
 <p><span class="chinese">指控民主党缺乏经验或许并不足以令人信服。</span><span class="english">The charge of inexperience may not stick.</span></p>

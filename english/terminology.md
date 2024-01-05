@@ -1,5 +1,7 @@
 # terminology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terminology.md)
+
 <p><span class="chinese">这么多的新名词有什么用？</span><span class="english">What's with all the new terminology?</span></p>
 
 <p><span class="chinese">是多么让人头痛欲裂的术语啊？</span><span class="english">What kind of crackhead terminology is that?</span></p>

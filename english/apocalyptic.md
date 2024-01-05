@@ -1,5 +1,7 @@
 # apocalyptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apocalyptic.md)
+
 <p><span class="chinese">它具有启示力量。</span><span class="english">It's almost apocalyptic in its force.</span></p>
 
 <p><span class="chinese">还有谁是启示主义先知？保罗。</span><span class="english">Who else was an apocalyptic prophet? Paul.</span></p>

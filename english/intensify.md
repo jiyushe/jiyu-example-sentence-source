@@ -1,5 +1,7 @@
 # intensify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intensify.md)
+
 <p><span class="chinese">那个调度员加紧调车。</span><span class="english">The dispatcher to intensify shunting.</span></p>
 
 <p><span class="chinese">现在是我们在各条战线上加强斗争的时候了。</span><span class="english">Now is the time to intensify the struggle on all fronts.</span></p>

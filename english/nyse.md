@@ -1,5 +1,7 @@
 # nyse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nyse.md)
+
 <p><span class="chinese">许多著名运动员敲过纽交所的钟。</span><span class="english">Many famous athletes have rung the NYSE bell.</span></p>
 
 <p><span class="chinese">Liffe是纽泛交易所的国际金融衍生品交易市场。</span><span class="english">Liffe is the international derivatives business of NYSE Euronext.</span></p>

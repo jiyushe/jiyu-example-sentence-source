@@ -1,5 +1,7 @@
 # si
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/si.md)
+
 <p><span class="chinese">电影有英文字幕吗？</span><span class="english">Come si chiama il film?</span></p>
 
 <p><span class="chinese">朋友昰第二个自己。</span><span class="english">A friend si a second seif.</span></p>

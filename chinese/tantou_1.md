@@ -1,5 +1,7 @@
 # 滩头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tantou_1.md)
+
 <p><span class="chinese">部队被送到滩头堡登陆。</span><span class="english">The troops were landed at a beachhead.</span></p>
 
 <p><span class="chinese">我告诉你，我们愿意抓住这一滩头。</span><span class="english">And i tell you, we are ready to seize that beachhead.</span></p>

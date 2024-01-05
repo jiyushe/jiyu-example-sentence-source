@@ -1,5 +1,7 @@
 # jersey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jersey.md)
+
 <p><span class="chinese">因为新泽西先挑的。</span><span class="english">New Jersey had first pick.</span></p>
 
 <p><span class="chinese">你说你是从泽西州来的？</span><span class="english">And you say you're from jersey ?</span></p>

@@ -1,5 +1,7 @@
 # natasha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/natasha.md)
+
 <p><span class="chinese">娜塔莎也感到自己很幸运。</span><span class="english">Natasha felt lucky, too.</span></p>
 
 <p><span class="chinese">娜塔莎睡醒了，看见索尼娅。</span><span class="english">Natasha waked up and saw Sonya.</span></p>

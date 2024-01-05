@@ -1,5 +1,7 @@
 # 事主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhu.md)
+
 <p><span class="chinese">跟从和服事主是好的。</span><span class="english">Following and serving the Lord is good.</span></p>
 
 <p><span class="chinese">当上帝唤醒一个人的时候，他会兴奋，喜乐，愿意服事主。</span><span class="english">When God awakens, we are excited, we want to serve.</span></p>

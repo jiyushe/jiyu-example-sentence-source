@@ -1,5 +1,7 @@
 # ordination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ordination.md)
+
 <p><span class="chinese">你要将承接圣职所献公羊的肉煮在圣处。</span><span class="english">Take the ram for the ordination and cook the meat in a sacred place.</span></p>
 
 <p><span class="chinese">戒尺用于皈依、剃度、传戒、说法等场合。</span><span class="english">The ferule is used for conversion, tonsure, ordination and parlance.</span></p>

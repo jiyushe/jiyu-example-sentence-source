@@ -1,5 +1,7 @@
 # cherry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cherry.md)
+
 <p><span class="chinese">看，一个小樱桃。</span><span class="english">Look, a small cherry.</span></p>
 
 <p><span class="chinese">还是樱桃小嘴呢。</span><span class="english">Or cherry small mouth.</span></p>

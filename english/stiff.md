@@ -1,5 +1,7 @@
 # stiff 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stiff.md)
+
 <p><span class="chinese">我的颈脖僵疼。</span><span class="english">My neck is stiff.</span></p>
 
 <p><span class="chinese">它烦死我了。</span><span class="english">It bored me stiff.</span></p>

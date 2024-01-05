@@ -1,5 +1,7 @@
 # 文卷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenjuan.md)
+
 <p><span class="chinese">将这函件放入文卷总档中。</span><span class="english">Put this letter in the main file.</span></p>
 
 <p><span class="chinese">德文卷毛猫是一种很好的无毛猫种。</span><span class="english">Devon Rex is a great hairless cat.</span></p>

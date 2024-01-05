@@ -1,5 +1,7 @@
 # overbearing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overbearing.md)
+
 <p><span class="chinese">被宠坏的小羊将会长成蛮横的大羊。</span><span class="english">A spoiled lamb will become an overbearing sheep.</span></p>
 
 <p><span class="chinese">于是，我们的本地恋运动不会一杆子打。</span><span class="english">No, our Date Local movement won't be overbearing.</span></p>

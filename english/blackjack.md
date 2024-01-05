@@ -1,5 +1,7 @@
 # blackjack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackjack.md)
+
 <p><span class="chinese">他进到里面试图要买筹码来玩黑杰克。</span><span class="english">He went inside and tried to buy chips to play blackjack.</span></p>
 
 <p><span class="chinese">这些可能足以令银行重回赌桌.</span><span class="english">That may be enough to send banks back to the blackjack table.</span></p>

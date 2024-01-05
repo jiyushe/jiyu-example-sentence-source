@@ -1,5 +1,7 @@
 # articulatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/articulatory.md)
+
 <p><span class="chinese">关节镜手术成功率有多高？</span><span class="english">Does articulatory lens operation have many into power tall?</span></p>
 
 <p><span class="chinese">关节腔液检查有淋菌存在。</span><span class="english">Examination of articulatory antrum fluid has gonococcus to exist.</span></p>

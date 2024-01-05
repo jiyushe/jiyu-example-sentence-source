@@ -1,5 +1,7 @@
 # send 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/send.md)
+
 <p><span class="chinese">谁送过来的？</span><span class="english">Who send it?</span></p>
 
 <p><span class="chinese">发张邮件。</span><span class="english">Send an email.</span></p>

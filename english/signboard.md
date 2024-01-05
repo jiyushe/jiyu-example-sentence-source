@@ -1,5 +1,7 @@
 # signboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/signboard.md)
+
 <p><span class="chinese">做一个布告板。</span><span class="english">I make a signboard.</span></p>
 
 <p><span class="chinese">我在TA网上贴了一张这个告示板的照片。</span><span class="english">I have posted a photo of this signboard on TA.</span></p>

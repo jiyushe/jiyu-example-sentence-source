@@ -1,5 +1,7 @@
 # equally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equally.md)
+
 <p><span class="chinese">每个人都会做梦，但梦与梦不同。</span><span class="english">All men dream, but not equally.</span></p>
 
 <p><span class="chinese">我们将钱分平了。</span><span class="english">We divided up the money equally.</span></p>

@@ -1,5 +1,7 @@
 # estella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estella.md)
+
 <p><span class="chinese">她与匹普和艾斯黛拉有什么样的关系？</span><span class="english">How does she relate to Pip and Estella ?</span></p>
 
 <p><span class="chinese">我想我听到了埃斯特拉在花园里歌唱</span><span class="english">I thought I heard Estella in the garden singing</span></p>

@@ -1,5 +1,7 @@
 # 将士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangshi_1.md)
+
 <p><span class="chinese">英国说，179名将士在伊拉克战争中殉职。</span><span class="english">Britain says 179 of its troops have died in Iraq.</span></p>
 
 <p><span class="chinese">下周一,美国市场将因阵亡将士纪念日休市一天.</span><span class="english">U.S. markets will be closed Monday for Memorial Day.</span></p>

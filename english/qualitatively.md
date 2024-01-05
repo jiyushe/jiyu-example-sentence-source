@@ -1,5 +1,7 @@
 # qualitatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qualitatively.md)
+
 <p><span class="chinese">搅拌就是使物料趋于匀质化的过程。</span><span class="english">Stir evenly tends to make the material qualitatively.</span></p>
 
 <p><span class="chinese">质优良，超宽，孔柱齿。</span><span class="english">Qualitatively superior, extra wide, bore column gear teeth.</span></p>

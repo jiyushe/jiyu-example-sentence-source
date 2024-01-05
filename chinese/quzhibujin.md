@@ -1,5 +1,7 @@
 # 取之不尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quzhibujin.md)
+
 <p><span class="chinese">南阳盆地周围有取之不尽的石材资源。</span><span class="english">Nanyang Basin was abundant in stone resource.</span></p>
 
 <p><span class="chinese">据说这口井很大，它的水是取之不尽用之不竭的。</span><span class="english">The well is, they say, great and inexhaustible.</span></p>

@@ -1,5 +1,7 @@
 # 历尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijin.md)
+
 <p><span class="chinese">穷到历尽煎熬。</span><span class="english">Poor to have gone through suffering.</span></p>
 
 <p><span class="chinese">他的祖父曾经历尽艰难。</span><span class="english">His grandfather once went through hardships.</span></p>

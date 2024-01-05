@@ -1,5 +1,7 @@
 # 布设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushe_1.md)
+
 <p><span class="chinese">在离海岸200英里的海中布设浮标站网。</span><span class="english">Buoys are developed 20 miles off the coast.</span></p>
 
 <p><span class="chinese">应尽可能将其布设在走道或工作区域的上方。</span><span class="english">They should be suspended over aisles or work areas, where possible.</span></p>

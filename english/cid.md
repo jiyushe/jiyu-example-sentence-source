@@ -1,5 +1,7 @@
 # cid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cid.md)
+
 <p><span class="chinese">不过，我会尽我所能告诉您如何摆脱侦缉弹出免费。</span><span class="english">Still, I'll do my best to show you how to get rid of CiD popups for free.</span></p>
 
 <p><span class="chinese">一位伦敦警察厅的发言人说，格林威治刑事侦查部发起了一项调查。</span><span class="english">A Metropolitan police spokesman said Greenwich CID had launched an investigation.</span></p>

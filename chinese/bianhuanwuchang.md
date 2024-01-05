@@ -1,5 +1,7 @@
 # 变幻无常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianhuanwuchang.md)
+
 <p><span class="chinese">但是音乐行业变幻无常。</span><span class="english">But the music business is fickle.</span></p>
 
 <p><span class="chinese">但变幻无常更为美丽。</span><span class="english">but uncertainty is more beautiful still.</span></p>

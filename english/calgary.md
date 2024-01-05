@@ -1,5 +1,7 @@
 # calgary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calgary.md)
+
 <p><span class="chinese">期待来卡加利旅行看到美丽的风景。</span><span class="english">Expect beautiful scenery when you visit Calgary.</span></p>
 
 <p><span class="chinese">行政人员的需求在卡尔加里特别高。</span><span class="english">Demand for executives is particularly high in Calgary.</span></p>

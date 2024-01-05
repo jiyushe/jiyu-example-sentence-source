@@ -1,5 +1,7 @@
 # reliance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reliance.md)
+
 <p><span class="chinese">人们过分依赖抗酸剂。</span><span class="english">Too much reliance is placed on antacids.</span></p>
 
 <p><span class="chinese">因为在团队内部，信赖即是根本。</span><span class="english">In a team, reliance on others is essential.</span></p>

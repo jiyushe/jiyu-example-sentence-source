@@ -1,5 +1,7 @@
 # panorama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panorama.md)
+
 <p><span class="chinese">它是一个全景?。</span><span class="english">Isit a panorama ?</span></p>
 
 <p><span class="chinese">这里可以看到亚拉拉特山美丽的全貌。</span><span class="english">A wonderful panorama of the Ararat valley.</span></p>

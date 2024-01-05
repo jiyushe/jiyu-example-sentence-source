@@ -1,5 +1,7 @@
 # divvy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divvy.md)
+
 <p><span class="chinese">我们两人把它平分吧。</span><span class="english">Divvy it up between us.</span></p>
 
 <p><span class="chinese">我们把钱平分了吧。</span><span class="english">Divvy up the money between us.</span></p>

@@ -1,5 +1,7 @@
 # illusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illusion.md)
+
 <p><span class="chinese">幻相的逻辑。</span><span class="english">Logic of Illusion.</span></p>
 
 <p><span class="chinese">但这只是一个幻觉。</span><span class="english">But this is an illusion.</span></p>

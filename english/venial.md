@@ -1,5 +1,7 @@
 # venial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venial.md)
+
 <p><span class="chinese">什麽是小罪？</span><span class="english">What is a venial sin?</span></p>
 
 <p><span class="chinese">是可恕之罪，或是死罪？</span><span class="english">Venial sin or mortal sin?</span></p>

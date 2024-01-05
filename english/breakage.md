@@ -1,5 +1,7 @@
 # breakage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breakage.md)
+
 <p><span class="chinese">我们可以为你们加保破碎险。</span><span class="english">We can cover the Risk of Breakage for you.</span></p>
 
 <p><span class="chinese">并非一切的破碎险都属于单独海损。</span><span class="english">Not every breakage is a particular average.</span></p>

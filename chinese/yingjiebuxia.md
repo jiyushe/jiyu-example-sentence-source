@@ -1,5 +1,7 @@
 # 应接不暇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingjiebuxia.md)
+
 <p><span class="chinese">来访者多得让他应接不暇。</span><span class="english">He's swamped with visitors.</span></p>
 
 <p><span class="chinese">新的定货单实在使他们应接不暇了。</span><span class="english">You do not have to take in new orders.</span></p>

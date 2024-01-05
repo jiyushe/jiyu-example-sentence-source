@@ -1,5 +1,7 @@
 # elusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elusion.md)
+
 <p><span class="chinese">网路世界提供了我们一个现实的逃避。</span><span class="english">The Internet provides us an elusion of reality.</span></p>
 
 <p><span class="chinese">人均住房面积标准可以杜绝‘假离婚避税法’。</span><span class="english">It could eliminate the tax elusion by way of false divorce.</span></p>

@@ -1,5 +1,7 @@
 # suitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suitor.md)
+
 <p><span class="chinese">门口来了一位求婚者。</span><span class="english">A suitor is outside.</span></p>
 
 <p><span class="chinese">求婚者，赢得美人归。</span><span class="english">The last suitor wins the maid.</span></p>

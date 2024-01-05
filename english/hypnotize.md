@@ -1,5 +1,7 @@
 # hypnotize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypnotize.md)
+
 <p><span class="chinese">玛丽知道如何施催眠术。</span><span class="english">Mary knows how to hypnotize people.</span></p>
 
 <p><span class="chinese">有些颜色则可以催眠。</span><span class="english">Some of the colors are designed to hypnotize.</span></p>

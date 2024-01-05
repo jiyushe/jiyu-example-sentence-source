@@ -1,5 +1,7 @@
 # 走回头路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouhuitoulu.md)
+
 <p><span class="chinese">不要走回头路。</span><span class="english">Do not turn back.</span></p>
 
 <p><span class="chinese">我们不可能走回头路。</span><span class="english">We can't turn back now.</span></p>

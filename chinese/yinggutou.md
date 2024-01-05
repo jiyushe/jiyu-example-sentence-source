@@ -1,5 +1,7 @@
 # 硬骨头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinggutou.md)
+
 <p><span class="chinese">好一个硬骨头老家伙！</span><span class="english">What a fierce old fellow!</span></p>
 
 <p><span class="chinese">我还是让我的老板来啃这块儿硬骨头吧。</span><span class="english">I'll let my boss crack this hard nut.</span></p>

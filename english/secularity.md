@@ -1,5 +1,7 @@
 # secularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secularity.md)
+
 <p><span class="chinese">休闲文化具有诗性和世俗性双重品格。</span><span class="english">Leisure culture is characteristic of both poetry and secularity.</span></p>
 
 <p><span class="chinese">世俗性这也是岭南文化主要特征之一。</span><span class="english">Secularity This is also one of the main characteristics of Lingnan culture.</span></p>

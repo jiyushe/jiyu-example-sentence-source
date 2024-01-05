@@ -1,5 +1,7 @@
 # mef
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mef.md)
+
 <p><span class="chinese">MEF将组件从静态依赖中解放出来</span><span class="english">MEF abstracts components from static dependencies.</span></p>
 
 <p><span class="chinese">MEF可以组合组件中的深层次对象结构</span><span class="english">MEF composes deep object hierarchies of components</span></p>

@@ -1,5 +1,7 @@
 # conjunctive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjunctive.md)
+
 <p><span class="chinese">音乐护理是音乐、心理学、护理学结合的产物。</span><span class="english">Music nursing was the conjunctive product of music, psychology and nursing.</span></p>
 
 <p><span class="chinese">在谓词演算的反驳树中，被证明的合式公式。</span><span class="english">In the refutation tree of predicate calculus, the proved conjunctive formula.</span></p>

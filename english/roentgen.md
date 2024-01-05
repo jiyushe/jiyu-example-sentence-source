@@ -1,5 +1,7 @@
 # roentgen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roentgen.md)
+
 <p><span class="chinese">本章主要通过伦琴的三篇通讯和一篇采访伦琴的报告论述发现过程。</span><span class="english">Roentgens communications and a newspapers report for Roentgen are referred.</span></p>
 
 <p><span class="chinese">伦软一名医生解剖一名死者的大肠。</span><span class="english">The roentgen soft famous doctor biology and anatomy splits a dead's large intestine.</span></p>

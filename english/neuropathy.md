@@ -1,5 +1,7 @@
 # neuropathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuropathy.md)
+
 <p><span class="chinese">他们跑来一看，都以为他俩得了神经病。</span><span class="english">They came to see one, they all thought had neuropathy.</span></p>
 
 <p><span class="chinese">申请了两个谷歌广告全给我封了，神经病。</span><span class="english">Google filed two letters to me the whole ad, and neuropathy.</span></p>

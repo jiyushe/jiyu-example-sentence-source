@@ -1,5 +1,7 @@
 # sibling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sibling.md)
+
 <p><span class="chinese">你有弟弟或妹妹吗？</span><span class="english">Do you have a younger sibling?</span></p>
 
 <p><span class="chinese">是的，我有。</span><span class="english">Yes, I have a younger sibling.</span></p>

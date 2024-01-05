@@ -1,5 +1,7 @@
 # extremeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extremeness.md)
+
 <p><span class="chinese">对抗罪恶的措施假如太过分则几兴罪恶本身─样不好。</span><span class="english">The extremeness of the measures to fight against crime is almost as bad as the crime itself.</span></p>
 
 <p><span class="chinese">钟道隆的“逆向学习法”是另一个更极端的要求“自律”的例子。</span><span class="english">Zhong Daolong's Converse Method is another example of extremeness in demanding "self-discipline".</span></p>

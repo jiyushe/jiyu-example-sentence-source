@@ -1,5 +1,7 @@
 # 无功而返
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wugongerfan.md)
+
 <p><span class="chinese">他们将试图干扰日籍捕鲸船的行动或令其无功而返。</span><span class="english">They will try to interfere with or disable the Japanese whalers.</span></p>
 
 <p><span class="chinese">安迪11岁时就做报童，这成了他的第一份工作，但是后来无功而返。</span><span class="english">Andy took his first job as a paperboy at age 11 and never looked back.</span></p>

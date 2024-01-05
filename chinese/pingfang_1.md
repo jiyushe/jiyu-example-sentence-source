@@ -1,5 +1,7 @@
 # 平方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingfang_1.md)
+
 <p><span class="chinese">它是a，y的平方。</span><span class="english">It's a y squared.</span></p>
 
 <p><span class="chinese">每一平方厘米！</span><span class="english">In every square centimeter!</span></p>

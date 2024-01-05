@@ -1,5 +1,7 @@
 # glaze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glaze.md)
+
 <p><span class="chinese">他们目光呆滞。</span><span class="english">Their eyes glaze over.</span></p>
 
 <p><span class="chinese">刷上打散的鸡蛋上光。</span><span class="english">Brush on beaten egg glaze.</span></p>

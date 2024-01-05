@@ -1,5 +1,7 @@
 # waveguide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waveguide.md)
+
 <p><span class="chinese">设计了一种新的波导结构。</span><span class="english">II. A novel waveguide structure was designed.</span></p>
 
 <p><span class="chinese">YIG是制备磁光波导器件的良好材料。</span><span class="english">Bi-YIG are good materials for waveguide devices.</span></p>

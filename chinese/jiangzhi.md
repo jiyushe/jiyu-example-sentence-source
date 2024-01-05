@@ -1,5 +1,7 @@
 # 僵直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangzhi.md)
+
 <p><span class="chinese">无底的寒泉使他僵直。</span><span class="english">The bottomless cold paralyzes him.</span></p>
 
 <p><span class="chinese">最后，金色的田野里，僵直的麦子</span><span class="english">Till the gold fields of stiff wheat</span></p>

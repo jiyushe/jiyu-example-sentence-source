@@ -1,5 +1,7 @@
 # necessary 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necessary.md)
+
 <p><span class="chinese">这真的是必须品么？</span><span class="english">Is it really necessary?</span></p>
 
 <p><span class="chinese">穿长袜有必要吗？</span><span class="english">Are stockings necessary?</span></p>

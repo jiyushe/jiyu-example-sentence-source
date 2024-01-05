@@ -1,5 +1,7 @@
 # osteoporosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteoporosis.md)
+
 <p><span class="chinese">骨质疏松症是一种骨密度变稀的疾病。</span><span class="english">Osteoporosis is a bone-thinning disease.</span></p>
 
 <p><span class="chinese">笼养蛋鸡疲劳症是骨质疏松症的一种类型。</span><span class="english">Cage layer fatigue is a type of osteoporosis.</span></p>

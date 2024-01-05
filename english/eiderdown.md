@@ -1,5 +1,7 @@
 # eiderdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eiderdown.md)
+
 <p><span class="chinese">还是柔软若鸭绒?。</span><span class="english">Or soft as eiderdown fluff?</span></p>
 
 <p><span class="chinese">还是柔软似棉凫的绒毛?。</span><span class="english">Or soft as eiderdown fluff?</span></p>

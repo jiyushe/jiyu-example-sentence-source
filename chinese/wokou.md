@@ -1,5 +1,7 @@
 # 倭寇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wokou.md)
+
 <p><span class="chinese">快来看倭寇全光着屁股啊！羞羞！</span><span class="english">Come and watch pics of Japs Bare Ass!</span></p>
 
 <p><span class="chinese">洪金宝是一个日本倭寇，很厉害的坏人！</span><span class="english">Sammo has a great part as a japanese pirate. He is a fierce bad guy!</span></p>

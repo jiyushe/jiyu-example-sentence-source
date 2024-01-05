@@ -1,5 +1,7 @@
 # recently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recently.md)
+
 <p><span class="chinese">这本书是最近刚出版的。</span><span class="english">Came out recently.</span></p>
 
 <p><span class="chinese">所做的那样。</span><span class="english">Feder recently did.</span></p>

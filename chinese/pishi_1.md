@@ -1,5 +1,7 @@
 # 皮实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pishi_1.md)
+
 <p><span class="chinese">哈罗德特鲁皮实说“不管怎么说他们想法控制住飞机着陆。</span><span class="english">Harold Trupish. "Somehow they were able to control the aircraft to land."</span></p>
 
 <p><span class="chinese">因为我们昨天思维、语言、行动的累积造就了现在皮实的我们。</span><span class="english">Coz the accumulation what we thought, spoke and took then make what us we are exactly now.</span></p>

@@ -1,5 +1,7 @@
 # chrysanthemum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chrysanthemum.md)
+
 <p><span class="chinese">谁泡的菊花茶呀？好香哦！</span><span class="english">Who brewed this chrysanthemum tea?</span></p>
 
 <p><span class="chinese">菊花傲霜斗雪。</span><span class="english">The chrysanthemum resists the snow.</span></p>

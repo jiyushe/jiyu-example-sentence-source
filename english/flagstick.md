@@ -1,5 +1,7 @@
 # flagstick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagstick.md)
+
 <p><span class="chinese">要我为您执旗杆吗？</span><span class="english">Shall I hold the flagstick for you?</span></p>
 
 <p><span class="chinese">一名球员的球停靠在了旗杆旁边。</span><span class="english">A players ball is resting against the flagstick.</span></p>

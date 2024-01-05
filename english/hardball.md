@@ -1,5 +1,7 @@
 # hardball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardball.md)
+
 <p><span class="chinese">这家伙耍手段了。</span><span class="english">This guy's playing hardball.</span></p>
 
 <p><span class="chinese">也许我们该来点硬的。</span><span class="english">Maybe we should have some hardball.</span></p>

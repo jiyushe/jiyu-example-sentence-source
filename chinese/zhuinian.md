@@ -1,5 +1,7 @@
 # 追念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuinian.md)
+
 <p><span class="chinese">拽着追念不放，伤的是你还是谁。</span><span class="english">Pull remember not to put, you were injured or who.</span></p>
 
 <p><span class="chinese">之后，韦瓦第在他的歌剧中追念此一事件。</span><span class="english">The event was later memorialized in a Verdi opera.</span></p>

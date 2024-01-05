@@ -1,5 +1,7 @@
 # 奔跑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benpao.md)
+
 <p><span class="chinese">楼道里禁止奔跑！</span><span class="english">No running in the hall!</span></p>
 
 <p><span class="chinese">在田野上奔跑。</span><span class="english">Running ober the fields.</span></p>

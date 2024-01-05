@@ -1,5 +1,7 @@
 # 资产负债表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zichanfuzhaibiao.md)
+
 <p><span class="chinese">扣篮得分，也希望有更多的资产负债表的数据。</span><span class="english">Dunk also would like more balance-sheet data.</span></p>
 
 <p><span class="chinese">这家公司拥有坚若磐石的资产负债表。</span><span class="english">The company boasts a rock-solid balance sheet.</span></p>

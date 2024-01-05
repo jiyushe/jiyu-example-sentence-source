@@ -1,5 +1,7 @@
 # fluent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluent.md)
+
 <p><span class="chinese">他操一口流利的德语。</span><span class="english">He speaks fluent German.</span></p>
 
 <p><span class="chinese">他操一口流利的英语。</span><span class="english">He speaks fluent English.</span></p>

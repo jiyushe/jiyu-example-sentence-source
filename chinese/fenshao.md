@@ -1,5 +1,7 @@
 # 焚烧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshao.md)
+
 <p><span class="chinese">焚烧某人的肖像以泄恨。</span><span class="english">Burn a person in effigy.</span></p>
 
 <p><span class="chinese">有一些在焚化炉内被焚烧。</span><span class="english">Some is burned in incinerators.</span></p>

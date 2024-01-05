@@ -1,5 +1,7 @@
 # conservation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conservation.md)
+
 <p><span class="chinese">避免按键错误。</span><span class="english">Conservation of keystrokes.</span></p>
 
 <p><span class="chinese">谁将为保护节约买单？</span><span class="english">Who will pay for conservation?</span></p>

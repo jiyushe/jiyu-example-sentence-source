@@ -1,5 +1,7 @@
 # epistasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epistasis.md)
+
 <p><span class="chinese">一次支梗数表现有明显的上位性效应。</span><span class="english">Epistasis was detected for the primary branch.</span></p>
 
 <p><span class="chinese">在上位机软件中再对数据进行其他的处理。</span><span class="english">More processing will be done with the data in epistasis software.</span></p>

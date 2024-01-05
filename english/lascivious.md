@@ -1,5 +1,7 @@
 # lascivious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lascivious.md)
+
 <p><span class="chinese">男人曾是个好色之徒。</span><span class="english">That man used to be a lascivious person.</span></p>
 
 <p><span class="chinese">风险是个人的，组织对资本是饥渴的。</span><span class="english">Risk is personal and organization is lascivious.</span></p>

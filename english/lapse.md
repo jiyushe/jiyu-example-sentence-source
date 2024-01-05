@@ -1,5 +1,7 @@
 # lapse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lapse.md)
+
 <p><span class="chinese">但是去年议会废止了这项税收。</span><span class="english">But Congress let the tax lapse last year.</span></p>
 
 <p><span class="chinese">他希望他的老婆原谅他的失检。</span><span class="english">He expected his wife to forgive his lapse.</span></p>

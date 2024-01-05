@@ -1,5 +1,7 @@
 # 虚情假意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuqingjiayi.md)
+
 <p><span class="chinese">任何少年都虚情假意。</span><span class="english">Any lad was born untrue.</span></p>
 
 <p><span class="chinese">他做了一个虚情假意的承诺。</span><span class="english">He made an unctuous assurance.</span></p>

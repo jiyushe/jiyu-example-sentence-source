@@ -1,5 +1,7 @@
 # harare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harare.md)
+
 <p><span class="chinese">这家主要的水处理厂负责处理哈拉雷以及周边地区的水处理。</span><span class="english">The main water-treatment plant serves Harare and the surrounding area.</span></p>
 
 <p><span class="chinese">哈拉雷一位年轻商人马可斯说。</span><span class="english">"Once he was our darling, " said Marcus, a young businessman in Harare.</span></p>

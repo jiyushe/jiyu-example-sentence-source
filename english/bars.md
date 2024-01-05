@@ -1,5 +1,7 @@
 # bars
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bars.md)
+
 <p><span class="chinese">用铁栏把它建筑起来。</span><span class="english">Build it up with iron bars.</span></p>
 
 <p><span class="chinese">他不再常去酒吧了。</span><span class="english">He no longer frequents bars.</span></p>

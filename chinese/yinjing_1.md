@@ -1,5 +1,7 @@
 # 阴茎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinjing_1.md)
+
 <p><span class="chinese">伊拉克特拉情结其实是阴茎嫉妒。</span><span class="english">The Electra complex is the penis envy story.</span></p>
 
 <p><span class="chinese">她们本来是拥有阴茎的,但却被某人夺去了。</span><span class="english">You had once had a penis but somebody had taken it from you.</span></p>

@@ -1,5 +1,7 @@
 # 污浊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzhuo.md)
+
 <p><span class="chinese">性命是一束污浊的火焰。</span><span class="english">Life is apure flame.</span></p>
 
 <p><span class="chinese">让别人去走污浊的道路</span><span class="english">Leave the dusty road to others</span></p>

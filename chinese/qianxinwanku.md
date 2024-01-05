@@ -1,5 +1,7 @@
 # 千辛万苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianxinwanku.md)
+
 <p><span class="chinese">我经历了千辛万苦才找把你弄回来。</span><span class="english">I've gone to a great deal of trouble to get you back.</span></p>
 
 <p><span class="chinese">玛丽费尽千辛万苦才把阅读的任务完成。</span><span class="english">Mary had a hard time finishing all the reading tasks.</span></p>

@@ -1,5 +1,7 @@
 # carmel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carmel.md)
+
 <p><span class="chinese">所有在卡梅尔山聚集。</span><span class="english">All the people gathered on Mount Carmel.</span></p>
 
 <p><span class="chinese">来自印第安纳州的Carmel高中赢得了初级组的胜利。</span><span class="english">Carmel High School from Indiana won the beginners division.</span></p>

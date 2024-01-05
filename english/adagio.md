@@ -1,5 +1,7 @@
 # adagio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adagio.md)
+
 <p><span class="chinese">这里你必须慢慢地演奏。</span><span class="english">Here you must play adagio.</span></p>
 
 <p><span class="chinese">从头来…不对，是慢板这里。</span><span class="english">Okay, at the beginning. No, no. Adagio. Adagio.</span></p>

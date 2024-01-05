@@ -1,5 +1,7 @@
 # stateside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stateside.md)
+
 <p><span class="chinese">在美国，耳穴压籽法长期作为为成瘾治疗。</span><span class="english">Ear seeds have long been used stateside for addiction treatment.</span></p>
 
 <p><span class="chinese">豆荚车运输技术甚至引起了美国的关注。</span><span class="english">Pod transport technology is even starting gain some stateside attention.</span></p>

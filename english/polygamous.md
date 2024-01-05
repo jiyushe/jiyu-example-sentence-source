@@ -1,5 +1,7 @@
 # polygamous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polygamous.md)
+
 <p><span class="chinese">从本性上讲，男人是花心的。</span><span class="english">Men are polygamous by nature.</span></p>
 
 <p><span class="chinese">波兰特教授通过对一夫多妻家庭的研究来证明。</span><span class="english">Dr Pollet tests it by studying polygamous households.</span></p>

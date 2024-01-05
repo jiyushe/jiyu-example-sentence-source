@@ -1,5 +1,7 @@
 # 雨水管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushuiguan.md)
+
 <p><span class="chinese">雨水流下雨水管从我们的屋顶流到了地上。</span><span class="english">Rain runs down a spout from our roof to the ground.</span></p>
 
 <p><span class="chinese">过道路下的雨水管就近排入河道。</span><span class="english">Rainwater is outlet naturally by conduits to the nearby rivers.</span></p>

@@ -1,5 +1,7 @@
 # infinity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infinity.md)
+
 <p><span class="chinese">无限是多少？</span><span class="english">What is infinity?</span></p>
 
 <p><span class="chinese">这是无穷的原因。</span><span class="english">That's why the infinity.</span></p>

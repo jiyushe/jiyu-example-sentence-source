@@ -1,5 +1,7 @@
 # 称说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengshuo.md)
+
 <p><span class="chinese">凡在他殿中的，都称说他的荣耀。</span><span class="english">And in his temple all cry, 'Glory!'</span></p>
 
 <p><span class="chinese">在过去的两年、我们经常听闻科学家称说有一个属灵的基因。</span><span class="english">During the last two years we hear about the possible discovery of a spiritual gene.</span></p>

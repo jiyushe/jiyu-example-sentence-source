@@ -1,5 +1,7 @@
 # troublous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troublous.md)
+
 <p><span class="chinese">哎，中国，今年实在是多事之秋。</span><span class="english">The ah, China, really is a troublous times this year.</span></p>
 
 <p><span class="chinese">纷乱的心情，是为了应付外界的干扰而产生的。</span><span class="english">The troublous feeling is due to the disturbance of outer world.</span></p>

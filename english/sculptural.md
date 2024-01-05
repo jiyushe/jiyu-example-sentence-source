@@ -1,5 +1,7 @@
 # sculptural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sculptural.md)
+
 <p><span class="chinese">即使不放水果，这一水果盘本身就具有雕刻艺术之美感。</span><span class="english">Even without fruit there's a nice sculptural quality to it.</span></p>
 
 <p><span class="chinese">他们还特意强化了建筑的雕塑感。</span><span class="english">They also intensify the sculptural characteristic of the volume.</span></p>

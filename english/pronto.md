@@ -1,5 +1,7 @@
 # pronto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pronto.md)
+
 <p><span class="chinese">希望很快再见到你！</span><span class="english">Nos vemos pronto. See you soon.</span></p>
 
 <p><span class="chinese">我希望你立即回到这里来！…</span><span class="english">I expect to see you back here, pronto !</span></p>

@@ -1,5 +1,7 @@
 # 间隔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiange.md)
+
 <p><span class="chinese">你将间隔填补上了</span><span class="english">You fill in the gap.</span></p>
 
 <p><span class="chinese">它不在这段间隔时间。</span><span class="english">It is nowhere on this interval.</span></p>

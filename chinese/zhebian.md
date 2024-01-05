@@ -1,5 +1,7 @@
 # 这边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhebian.md)
+
 <p><span class="chinese">这边儿请。</span><span class="english">This way, please.</span></p>
 
 <p><span class="chinese">这边的热量是。</span><span class="english">q1 And it's got q1.</span></p>

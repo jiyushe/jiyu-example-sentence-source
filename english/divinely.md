@@ -1,5 +1,7 @@
 # divinely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divinely.md)
+
 <p><span class="chinese">你的意识是具有神圣创造性的。</span><span class="english">Your consciousness is divinely creative.</span></p>
 
 <p><span class="chinese">因此你会认为它曾经是得到神明允许的</span><span class="english">You can therefore assume it was divinely sanctioned.</span></p>

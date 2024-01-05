@@ -1,5 +1,7 @@
 # 花粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huafen.md)
+
 <p><span class="chinese">什么是“花粉热”？</span><span class="english">What is hay fever?</span></p>
 
 <p><span class="chinese">我对花粉过敏。</span><span class="english">I'm allergic to farina.</span></p>

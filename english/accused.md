@@ -1,5 +1,7 @@
 # accused
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accused.md)
+
 <p><span class="chinese">他被控犯有谋杀罪。</span><span class="english">He was accused of murder.</span></p>
 
 <p><span class="chinese">他被指控凡有偷窃罪。</span><span class="english">He was accused of stealing.</span></p>

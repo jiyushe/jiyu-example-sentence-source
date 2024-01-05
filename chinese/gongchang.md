@@ -1,5 +1,7 @@
 # 工厂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchang.md)
+
 <p><span class="chinese">工厂平面图.</span><span class="english">The factory plan.</span></p>
 
 <p><span class="chinese">那是一个工厂。</span><span class="english">That is a factory.</span></p>

@@ -1,5 +1,7 @@
 # 凡俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fansu.md)
+
 <p><span class="chinese">凡俗而不洁净的物，从来没有入过我的口。</span><span class="english">Nothing impure or unclean has ever entered my mouth.</span></p>
 
 <p><span class="chinese">彼得却说，主阿，这是不可的，凡俗物，和不洁净的物，我从来没有吃过。</span><span class="english">Peter replied. "I have never eaten anything impure or unclean."</span></p>

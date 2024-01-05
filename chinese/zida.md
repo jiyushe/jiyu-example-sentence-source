@@ -1,5 +1,7 @@
 # 自大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zida.md)
+
 <p><span class="chinese">有点小自大。</span><span class="english">a little cocky.</span></p>
 
 <p><span class="chinese">我选择诚实的自大。</span><span class="english">I chose honest arrogance.</span></p>

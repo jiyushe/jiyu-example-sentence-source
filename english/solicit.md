@@ -1,5 +1,7 @@
 # solicit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solicit.md)
+
 <p><span class="chinese">积极的征求好的或者不好的反馈。</span><span class="english">Actively solicit good and bad feedback.</span></p>
 
 <p><span class="chinese">我们需要招募五十名员工。</span><span class="english">We need to solicit 50 staff and workers.</span></p>

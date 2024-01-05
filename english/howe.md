@@ -1,5 +1,7 @@
 # howe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/howe.md)
+
 <p><span class="chinese">谁是莱恩·默里和杰弗里·豪爵士？</span><span class="english">Who are Len Murry and Sir Jeffery Howe?</span></p>
 
 <p><span class="chinese">丽萨•豪拒绝就此协议发表评论。</span><span class="english">Howe declined to comment on the agreement.</span></p>

@@ -1,5 +1,7 @@
 # gist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gist.md)
+
 <p><span class="chinese">这只是其中的要点。</span><span class="english">This was the gist of it.</span></p>
 
 <p><span class="chinese">流言蜚语是有益处的。</span><span class="english">THE GIST Gossiping can be beneficial.</span></p>

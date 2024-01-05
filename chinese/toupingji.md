@@ -1,5 +1,7 @@
 # 透平机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toupingji.md)
+
 <p><span class="chinese">蒸汽纯度对透平机的运行有较大影响。</span><span class="english">The steam purity has an effect on operation of turbine.</span></p>
 
 <p><span class="chinese">介绍了透平机转子的部件检验和强度分析，探讨了国产透平机的寿命评估。</span><span class="english">The life evaluation method for key components of 300 MW units boiler is introduced.</span></p>

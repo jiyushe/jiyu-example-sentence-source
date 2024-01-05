@@ -1,5 +1,7 @@
 # 树蛙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuwa.md)
+
 <p><span class="chinese">我们这里有一个拉洛马树蛙，Gratwicke说。</span><span class="english">"Here we have a La Loma tree frog, " Gratwicke said.</span></p>
 
 <p><span class="chinese">其它用来做实验的动物种类包括，欧洲青蛙和树蛙。</span><span class="english">The other species examined was the European common frog, Rana temporaria.</span></p>

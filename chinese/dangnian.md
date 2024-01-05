@@ -1,5 +1,7 @@
 # 当年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangnian.md)
+
 <p><span class="chinese">但当年我二十一岁。</span><span class="english">But I was one-and-twenty.</span></p>
 
 <p><span class="chinese">当年她败给了金·贝辛格。</span><span class="english">She lost to Kim Basinger.</span></p>

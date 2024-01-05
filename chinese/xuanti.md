@@ -1,5 +1,7 @@
 # 选题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanti.md)
+
 <p><span class="chinese">其实这是多选题…</span><span class="english">This is mulity-selection Topic.</span></p>
 
 <p><span class="chinese">本文选题为“洋铁酸模质量标准及应用研究”。</span><span class="english">The research is Quality and application study of Rumex patientia L.</span></p>

@@ -1,5 +1,7 @@
 # 额定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eding.md)
+
 <p><span class="chinese">一个82额定值。</span><span class="english">An 82 nom.</span></p>
 
 <p><span class="chinese">电缆交流额定电压为750V。</span><span class="english">Rated AC voltage of the cables covers 750V.</span></p>

@@ -1,5 +1,7 @@
 # 己任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiren_1.md)
+
 <p><span class="chinese">格拉司通一直以满足客户日益增长的需求为己任。</span><span class="english">Glaston is well positioned to meet growing customer needs.</span></p>
 
 <p><span class="chinese">仁以为己任，不亦重乎？</span><span class="english">Is it not a heavy responsibility, which is to practice benevolence?</span></p>

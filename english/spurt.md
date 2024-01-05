@@ -1,5 +1,7 @@
 # spurt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spurt.md)
+
 <p><span class="chinese">擦亮的火柴开一朵蓝花</span><span class="english">And blue spurt of a lighted match</span></p>
 
 <p><span class="chinese">再搏一下子，眼看就要成功了。</span><span class="english">Spurt  on for success could be seen.</span></p>

@@ -1,5 +1,7 @@
 # 火花塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huohuasai.md)
+
 <p><span class="chinese">埃文鲁德火花塞。</span><span class="english">Evinrude spark plugs.</span></p>
 
 <p><span class="chinese">力舷外机火花塞。</span><span class="english">Force outboard engine spark plugs.</span></p>

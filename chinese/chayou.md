@@ -1,5 +1,7 @@
 # 茶油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chayou.md)
+
 <p><span class="chinese">一般人们常把苦茶油。</span><span class="english">Generally people Chang Baku tea oil.</span></p>
 
 <p><span class="chinese">茶油或者橄榄油可以做精油底油吗？</span><span class="english">Tea oil or olive oil, essential oil base oil can do it?</span></p>

@@ -1,5 +1,7 @@
 # relating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relating.md)
+
 <p><span class="chinese">拱点的或与之相关的。</span><span class="english">Of or relating an apse.</span></p>
 
 <p><span class="chinese">一周的周末去布赖顿的姘妇那儿。</span><span class="english">Of or relating to a week.</span></p>

@@ -1,5 +1,7 @@
 # 乐章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuezhang.md)
+
 <p><span class="chinese">还会有更多的华彩乐章将在你面前展开。</span><span class="english">There'll be more.</span></p>
 
 <p><span class="chinese">这一乐章就结束了。</span><span class="english">That piece is over.</span></p>

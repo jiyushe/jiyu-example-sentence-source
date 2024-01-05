@@ -1,5 +1,7 @@
 # 选定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanding.md)
+
 <p><span class="chinese">请取消选定一些区域。</span><span class="english">Please unselect some areas.</span></p>
 
 <p><span class="chinese">你选定了哪一块表？</span><span class="english">This is a Swiss made watch.</span></p>

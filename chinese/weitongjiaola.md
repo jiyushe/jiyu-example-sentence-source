@@ -1,5 +1,7 @@
 # 味同嚼蜡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weitongjiaola.md)
+
 <p><span class="chinese">枯燥的书味同嚼蜡。</span><span class="english">A dull book lacks interest.</span></p>
 
 <p><span class="chinese">这种面包味同嚼蜡。</span><span class="english">The bread tastes like cardboard.</span></p>

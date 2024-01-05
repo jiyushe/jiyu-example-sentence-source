@@ -1,5 +1,7 @@
 # quantify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quantify.md)
+
 <p><span class="chinese">你会如何量化呢？</span><span class="english">How would you quantify it?</span></p>
 
 <p><span class="chinese">你如何来定量衡量变化呢？</span><span class="english">How do you quantify change?</span></p>

@@ -1,5 +1,7 @@
 # 遗传学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichuanxue.md)
+
 <p><span class="chinese">妈妈教我遗传学。</span><span class="english">My mother taught me genetics.</span></p>
 
 <p><span class="chinese">查拉卡也知道遗传学的基本原理。</span><span class="english">Charaka also knew the fundamentals of genetics.</span></p>

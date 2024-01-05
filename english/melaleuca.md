@@ -1,5 +1,7 @@
 # melaleuca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melaleuca.md)
+
 <p><span class="chinese">激起千层浪一石了。</span><span class="english">Melaleuca waves stirred up with one stone.</span></p>
 
 <p><span class="chinese">那美乐家是如何销售他的产品的呢？</span><span class="english">And how does Melaleuca market its products?</span></p>

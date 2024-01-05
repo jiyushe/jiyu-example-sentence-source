@@ -1,5 +1,7 @@
 # 家训
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaxun.md)
+
 <p><span class="chinese">第三部分，家训与店规。</span><span class="english">Part III Advice of family and rule of ship.</span></p>
 
 <p><span class="chinese">“与人为善，严于律己”是祖父教导的家训。</span><span class="english">"Tolerate to others, discipline myself" was also a teaching from him.</span></p>

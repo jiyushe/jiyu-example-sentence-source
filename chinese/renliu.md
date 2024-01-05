@@ -1,5 +1,7 @@
 # 人流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renliu.md)
+
 <p><span class="chinese">适用于人流后体虚的调养。</span><span class="english">Apply to people the aftercare.</span></p>
 
 <p><span class="chinese">人流是想都别想的。</span><span class="english">An abortion is out of the question.</span></p>

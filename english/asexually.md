@@ -1,5 +1,7 @@
 # asexually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asexually.md)
+
 <p><span class="chinese">无性繁殖作物，如马铃薯、甘薯、甘蔗以及多年生果树等。</span><span class="english">Asexually propagated crops, such as potato, sweet potato, sugar cane, fruit trees, etc.</span></p>
 
 <p><span class="chinese">2006年12月，英国切斯特动物园发现一条雌性巨蜥无性繁殖。</span><span class="english">Flora, a female Komodo dragon, reproduced asexually at Chester Zoo in Britain in December 2006.</span></p>

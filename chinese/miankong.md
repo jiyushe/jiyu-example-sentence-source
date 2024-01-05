@@ -1,5 +1,7 @@
 # 面孔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miankong.md)
+
 <p><span class="chinese">他摆出一副严肃的面孔。</span><span class="english">He put on a serious look.</span></p>
 
 <p><span class="chinese">从轮船上望去，这是一个棕色面孔的海洋。</span><span class="english">It is a sea of brown faces.</span></p>

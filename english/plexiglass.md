@@ -1,5 +1,7 @@
 # plexiglass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plexiglass.md)
+
 <p><span class="chinese">树脂玻璃门一触即开。</span><span class="english">The plexiglass doors open in one-touch.</span></p>
 
 <p><span class="chinese">标度盘装了有机玻璃视窗，读数清晰。</span><span class="english">The dial is provided with a plexiglass window for clear reading.</span></p>

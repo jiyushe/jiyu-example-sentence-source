@@ -1,5 +1,7 @@
 # senor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/senor.md)
+
 <p><span class="chinese">易事特先生我还能做什么？</span><span class="english">Senor East, what can I do?</span></p>
 
 <p><span class="chinese">各传感器开关位于每条给料皮带的末端附近。</span><span class="english">Senor switches are located near the end of each feed belts.</span></p>

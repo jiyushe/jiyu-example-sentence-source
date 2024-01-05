@@ -1,5 +1,7 @@
 # 眼福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanfu_1.md)
+
 <p><span class="chinese">女人看到你真是眼福不浅。</span><span class="english">You were the joy of a woman's eye.</span></p>
 
 <p><span class="chinese">能看到郑板桥的真迹我们太有眼福了。</span><span class="english">We are so lucky to be able to see an authentic work of his.</span></p>

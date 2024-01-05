@@ -1,5 +1,7 @@
 # jay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jay.md)
+
 <p><span class="chinese">杰伊•伯吉斯死了!</span><span class="english">Jay Burgess was dead.</span></p>
 
 <p><span class="chinese">周杰伦是个超棒的歌手。</span><span class="english">Jay is a good singer.</span></p>

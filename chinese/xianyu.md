@@ -1,5 +1,7 @@
 # 羡余
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyu.md)
+
 <p><span class="chinese">信息羡余是语言运用中加强信息传递的手段。</span><span class="english">The redundancy is a method which strengthens the transmitted message in language.</span></p>
 
 <p><span class="chinese">这些词被称为否定羡余或否定赘词。</span><span class="english">These negative words are called redundancy of negators in Chinese and ne explétif in French.</span></p>

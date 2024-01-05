@@ -1,5 +1,7 @@
 # locomotive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locomotive.md)
+
 <p><span class="chinese">火车头前的排障器。</span><span class="english">The cowcatcher of a locomotive.</span></p>
 
 <p><span class="chinese">这台机车是用电运转的。</span><span class="english">This locomotive runs upon electricity.</span></p>

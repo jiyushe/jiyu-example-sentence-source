@@ -1,5 +1,7 @@
 # 慈心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cixin.md)
+
 <p><span class="chinese">对国家的慈心，就是忠。</span><span class="english">Third, the country's Metta is allegiance.</span></p>
 
 <p><span class="chinese">是什么使祂动了慈心？</span><span class="english">What caused Him to be moved with compassion?</span></p>

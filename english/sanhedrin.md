@@ -1,5 +1,7 @@
 # sanhedrin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanhedrin.md)
+
 <p><span class="chinese">犹太高等参议院和法庭由70个人组成。</span><span class="english">The Sanhedrin was made up of 70 men.</span></p>
 
 <p><span class="chinese">在当时，立法是公会的职责。</span><span class="english">The Sanhedrin the law makers of the day.</span></p>

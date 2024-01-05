@@ -1,5 +1,7 @@
 # 以致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhi_3.md)
+
 <p><span class="chinese">他太老了，以致走不动了。</span><span class="english">He is too old to walk.</span></p>
 
 <p><span class="chinese">她太生气了以致于说不出一句话。</span><span class="english">She was too angry to say a word.</span></p>

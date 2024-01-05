@@ -1,5 +1,7 @@
 # 对牛弹琴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duiniutanqin.md)
+
 <p><span class="chinese">对他讲笑话是对牛弹琴。</span><span class="english">Jokes are lost on him.</span></p>
 
 <p><span class="chinese">不要对牛弹琴。</span><span class="english">Don't cast pearls before swine.</span></p>

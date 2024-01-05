@@ -1,5 +1,7 @@
 # trapping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trapping.md)
+
 <p><span class="chinese">猎人们正忙于设陷阱。</span><span class="english">The hunters were busy trapping.</span></p>
 
 <p><span class="chinese">方法采用夹日法、食饵法。</span><span class="english">Methods Night trapping and feeding method.</span></p>

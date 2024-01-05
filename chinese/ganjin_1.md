@@ -1,5 +1,7 @@
 # 赶紧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjin_1.md)
+
 <p><span class="chinese">现在就赶紧去买这张CD吧。</span><span class="english">Buy it. Now.</span></p>
 
 <p><span class="chinese">我得赶紧走。</span><span class="english">I have to rush.</span></p>

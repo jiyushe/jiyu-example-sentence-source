@@ -1,5 +1,7 @@
 # crux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crux.md)
+
 <p><span class="chinese">这是问题的症结所在。</span><span class="english">That is the crux of the issue.</span></p>
 
 <p><span class="chinese">这就是问题的关键所在。</span><span class="english">This is the crux of the matter.</span></p>

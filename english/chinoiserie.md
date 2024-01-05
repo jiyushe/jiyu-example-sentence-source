@@ -1,5 +1,7 @@
 # chinoiserie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chinoiserie.md)
+
 <p><span class="chinese">洛可可音乐风格与18世纪“中国热”。</span><span class="english">Part 3 Rococo music and Chinoiserie in the 18th century.</span></p>
 
 <p><span class="chinese">18世纪欧洲音乐中的“中国热”。</span><span class="english">Part 2 Chinoiserie of European music in the 18th century.</span></p>

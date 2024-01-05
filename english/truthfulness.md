@@ -1,5 +1,7 @@
 # truthfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truthfulness.md)
+
 <p><span class="chinese">但，我认为仍旧有一些反应事实的东西存在。</span><span class="english">But I think there remains some truthfulness.</span></p>
 
 <p><span class="chinese">他对党非常忠诚，而且他会永远忠诚。</span><span class="english">The virtues of loyalty, courage, and truthfulness.</span></p>

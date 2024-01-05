@@ -1,5 +1,7 @@
 # equity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equity.md)
+
 <p><span class="chinese">公正性是其灵魂。</span><span class="english">Equity is its soul.</span></p>
 
 <p><span class="chinese">这就是衡平法。</span><span class="english">This became known as Equity.</span></p>

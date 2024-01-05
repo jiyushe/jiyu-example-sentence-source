@@ -1,5 +1,7 @@
 # 芭蕉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bajiao_1.md)
+
 <p><span class="chinese">流年容易把人遗忘。红了樱桃。绿了芭蕉。</span><span class="english">Time to forget. Red cherry. Green banana.</span></p>
 
 <p><span class="chinese">鲜或干的香蕉，包括芭蕉。</span><span class="english">Bananas, including plantains, fresh or dried.</span></p>

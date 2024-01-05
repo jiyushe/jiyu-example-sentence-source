@@ -1,5 +1,7 @@
 # 美德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meide_1.md)
+
 <p><span class="chinese">即如美德是什么？</span><span class="english">What is virtue?</span></p>
 
 <p><span class="chinese">容是一种美德。</span><span class="english">Let is a virtue.</span></p>

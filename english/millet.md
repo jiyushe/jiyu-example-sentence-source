@@ -1,5 +1,7 @@
 # millet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millet.md)
+
 <p><span class="chinese">小米。</span><span class="english">millet.</span></p>
 
 <p><span class="chinese">春种一粒粟。</span><span class="english">Spring for a millet.</span></p>

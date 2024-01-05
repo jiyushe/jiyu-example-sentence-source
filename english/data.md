@@ -1,5 +1,7 @@
 # data 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/data.md)
+
 <p><span class="chinese">它是原始数据。</span><span class="english">It is raw data.</span></p>
 
 <p><span class="chinese">数据是有据可依的。</span><span class="english">Data is factual.</span></p>

@@ -1,5 +1,7 @@
 # 换气扇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanqishan.md)
+
 <p><span class="chinese">窗户太少，必须得安个换气扇。</span><span class="english">The room has too few windows. A ventilator must be installed.</span></p>
 
 <p><span class="chinese">安装灶具的房间必须安装强力换气扇。</span><span class="english">The room installed with stoves should have powerful ventilator.</span></p>

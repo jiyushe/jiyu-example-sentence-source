@@ -1,5 +1,7 @@
 # benzaldehyde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benzaldehyde.md)
+
 <p><span class="chinese">图式1吡咯与苯甲醛的缩合反应。</span><span class="english">Scheme 1 . condensation of pyrrole and benzaldehyde.</span></p>
 
 <p><span class="chinese">从桂叶油出发，通过碱性水解制备天然苯甲醛。</span><span class="english">Natural benzaldehyde is prepared by hydrolysis cassia leaf oil.</span></p>

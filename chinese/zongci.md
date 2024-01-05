@@ -1,5 +1,7 @@
 # 宗祠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongci.md)
+
 <p><span class="chinese">海口，大宗祠分发-奖学金。</span><span class="english">Foo Clan Bursary Awards to family members.</span></p>
 
 <p><span class="chinese">哇，没想到这座宗祠里面还这么大！</span><span class="english">Wow! I didn't expect it to be this large inside.</span></p>

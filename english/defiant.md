@@ -1,5 +1,7 @@
 # defiant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defiant.md)
+
 <p><span class="chinese">迄今为止，中国一直在挑衅。</span><span class="english">So far, China has been defiant.</span></p>
 
 <p><span class="chinese">一个是对教条不顾一切地重新肯定。</span><span class="english">One is the defiant reaffirmation of dogma.</span></p>

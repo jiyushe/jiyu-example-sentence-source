@@ -1,5 +1,7 @@
 # bureaucratic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bureaucratic.md)
+
 <p><span class="chinese">官僚又开始搞破坏。</span><span class="english">Bureaucratic vandals strike again.</span></p>
 
 <p><span class="chinese">我们不能摆官架子。</span><span class="english">We must not put on bureaucratic airs.</span></p>

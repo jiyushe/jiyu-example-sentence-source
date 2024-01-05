@@ -1,5 +1,7 @@
 # pte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pte.md)
+
 <p><span class="chinese">PTE学术英语考试的成绩两年内有效。</span><span class="english">PTE Academic scores are valid for two years.</span></p>
 
 <p><span class="chinese">通联药业有限公司成立于1998年八月二十日。</span><span class="english">Kenlife Corporation Pte Ltd was setup in 20th August 1998.</span></p>

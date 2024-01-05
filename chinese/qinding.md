@@ -1,5 +1,7 @@
 # 钦定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinding.md)
+
 <p><span class="chinese">我从未读过詹姆士国王钦定白勺圣经英译本。</span><span class="english">I have never read the King James version of the Bible.</span></p>
 
 <p><span class="chinese">然而，犹他教会却宁可使用英王詹姆斯一世钦定的圣经英译本。</span><span class="english">The church in Utah, however, prefers the King James Version.</span></p>

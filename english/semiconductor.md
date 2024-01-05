@@ -1,5 +1,7 @@
 # semiconductor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiconductor.md)
+
 <p><span class="chinese">震惊了整个半导体业。</span><span class="english">Shocked the semiconductor industry.</span></p>
 
 <p><span class="chinese">垂直金属氧化物半导体?。</span><span class="english">VMOS? Vertical Metal Oxide Semiconductor?</span></p>

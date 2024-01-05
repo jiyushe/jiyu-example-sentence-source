@@ -1,5 +1,7 @@
 # magically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magically.md)
+
 <p><span class="chinese">它神奇地出现在我。</span><span class="english">It magically reappeared for me as well.</span></p>
 
 <p><span class="chinese">时间魔法般地悬浮在表内。</span><span class="english">Time Floats magically inside this wathch.</span></p>

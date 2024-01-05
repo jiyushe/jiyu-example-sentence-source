@@ -1,5 +1,7 @@
 # aftertime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aftertime.md)
+
 <p><span class="chinese">希望在今后的日子里与大家相处愉快。</span><span class="english">Hope in the day of aftertime to get along with everyone delectation.</span></p>
 
 <p><span class="chinese">我们已经从齐塔人之声的开始时就强调了生活中的这个方面。</span><span class="english">We have stressed this aspect of life in the Aftertime from the start of ZetaTalk.</span></p>

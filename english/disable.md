@@ -1,5 +1,7 @@
 # disable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disable.md)
+
 <p><span class="chinese">禁用其他的复选框。</span><span class="english">Disable other checkboxes.</span></p>
 
 <p><span class="chinese">禁用无用的推理。</span><span class="english">Disable Useless Theorizing.</span></p>

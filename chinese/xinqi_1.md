@@ -1,5 +1,7 @@
 # 新奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinqi_1.md)
+
 <p><span class="chinese">这是一个很新奇的概念。</span><span class="english">The concept is quite novel.</span></p>
 
 <p><span class="chinese">所以，这令人觉得很新奇兴奋。</span><span class="english">So it makes it quite exciting.</span></p>

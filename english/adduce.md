@@ -1,5 +1,7 @@
 # adduce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adduce.md)
+
 <p><span class="chinese">让我举出更多的证据。</span><span class="english">Let me adduce more evidence.</span></p>
 
 <p><span class="chinese">我能够提议休息一下，喝杯咖啡吗?。</span><span class="english">May I adduce that we break for coffee now?</span></p>

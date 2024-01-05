@@ -1,5 +1,7 @@
 # 突起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuqi_3.md)
+
 <p><span class="chinese">可能是平的也可能是突起的。</span><span class="english">It can be flat or raised.</span></p>
 
 <p><span class="chinese">圆形的隆起或突起。</span><span class="english">A rounded hump or protuberance.</span></p>

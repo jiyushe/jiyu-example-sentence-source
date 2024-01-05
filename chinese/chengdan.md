@@ -1,5 +1,7 @@
 # 承担
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengdan.md)
+
 <p><span class="chinese">不承担风险。</span><span class="english">Not risk taking.</span></p>
 
 <p><span class="chinese">你要学会承担风险。</span><span class="english">You learn to take risks.</span></p>

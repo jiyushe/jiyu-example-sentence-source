@@ -1,5 +1,7 @@
 # lcf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lcf.md)
+
 <p><span class="chinese">低周被劳寿命可由塑性应变能表达。</span><span class="english">LCF life could be well expressed by plastic strain energy.</span></p>
 
 <p><span class="chinese">使用未经本公司认可的部件引起损坏。</span><span class="english">The damage caused by using parts without the approval of LCF.</span></p>

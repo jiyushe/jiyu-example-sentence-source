@@ -1,5 +1,7 @@
 # 争气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengqi.md)
+
 <p><span class="chinese">他这个人真不争气。</span><span class="english">This chap has let us down.</span></p>
 
 <p><span class="chinese">我已经知道那些个不争气的车子。</span><span class="english">I already knew about the lousy cars.</span></p>

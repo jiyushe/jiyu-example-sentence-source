@@ -1,5 +1,7 @@
 # 岩浆岩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjiangyan.md)
+
 <p><span class="chinese">斜长石广泛出现在各类岩浆岩中。</span><span class="english">Plagioclase widely appear in all kinds of magmatite in.</span></p>
 
 <p><span class="chinese">岩浆岩的结构和构造岩浆岩的分类。</span><span class="english">Texture and structure of igneous rocks and classification.</span></p>

@@ -1,5 +1,7 @@
 # leu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leu.md)
+
 <p><span class="chinese">含量较高的氨基酸依次是谷氨酸、精氨酸、门冬氨酸和亮氨酸。</span><span class="english">The contents of Glu, Arg, Asp and Leu were heighter.</span></p>
 
 <p><span class="chinese">成立于1990年，伊北塞浦路斯也是一个比较新的大学。</span><span class="english">Established in 1990, LEU is also a relatively new North Cyprus university.</span></p>

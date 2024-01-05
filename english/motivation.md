@@ -1,5 +1,7 @@
 # motivation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motivation.md)
+
 <p><span class="chinese">睡眠是一个动力。</span><span class="english">Sleep is a motivation.</span></p>
 
 <p><span class="chinese">你的动机是什么？</span><span class="english">What’s Your Motivation?</span></p>

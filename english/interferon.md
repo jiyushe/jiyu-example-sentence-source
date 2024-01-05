@@ -1,5 +1,7 @@
 # interferon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interferon.md)
+
 <p><span class="chinese">例如基于干扰素滴新药。</span><span class="english">new drugs based on the interferon.</span></p>
 
 <p><span class="chinese">干扰素在功能上通常是宿主种特异性。</span><span class="english">Interferon is almost always host species-specific in function.</span></p>

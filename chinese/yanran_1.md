@@ -1,5 +1,7 @@
 # 嫣然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanran_1.md)
+
 <p><span class="chinese">嫣然国色带朝酲。</span><span class="english">Sweet ribbon toward the alcoholic state.</span></p>
 
 <p><span class="chinese">她为什么要杀顾嫣然？</span><span class="english">Why does she want to kill to heed to sweetly?</span></p>

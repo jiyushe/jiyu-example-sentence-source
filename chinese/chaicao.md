@@ -1,5 +1,7 @@
 # 柴草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaicao.md)
+
 <p><span class="chinese">什么是错误的该死的你！您没有同性恋柴草？</span><span class="english">What is wrong damn you! You do not have homosexual Shibakusa?</span></p>
 
 <p><span class="chinese">屠户于是奔过去倚靠在柴草堆下，放下担子拿起屠刀。</span><span class="english">So Ben butchers in the past rely on the straw heap below, pick up the butcher's knife lay down their burden.</span></p>

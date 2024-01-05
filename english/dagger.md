@@ -1,5 +1,7 @@
 # dagger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dagger.md)
+
 <p><span class="chinese">收起你的匕首。</span><span class="english">Sheathe your dagger.</span></p>
 
 <p><span class="chinese">大衣和短剑挂进衣橱</span><span class="english">The cloak and dagger dangles</span></p>

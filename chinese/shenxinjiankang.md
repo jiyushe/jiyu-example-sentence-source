@@ -1,5 +1,7 @@
 # 身心健康
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenxinjiankang.md)
+
 <p><span class="chinese">这不仅有益身心健康，还很便宜。</span><span class="english">It`s also better for your health and cheaper.</span></p>
 
 <p><span class="chinese">它是身心健康这一重要问题的核心代表之一。</span><span class="english">It goes to the heart of the mind-body problem.</span></p>

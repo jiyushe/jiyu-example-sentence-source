@@ -1,5 +1,7 @@
 # 离奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liqi.md)
+
 <p><span class="chinese">说来离奇</span><span class="english">It was a strange thing.</span></p>
 
 <p><span class="chinese">情节变得更曲折离奇。</span><span class="english">The plot gets more involved.</span></p>

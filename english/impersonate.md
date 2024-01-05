@@ -1,5 +1,7 @@
 # impersonate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impersonate.md)
+
 <p><span class="chinese">这将允许黑客冒充受害者。</span><span class="english">It allows the attacker to impersonate the victim.</span></p>
 
 <p><span class="chinese">我在大学里所要做的工作就是扮演“乔伊斯·卡洛尔·欧茨”。</span><span class="english">My job at the university is to impersonate “Joyce Carol Oates.”</span></p>

@@ -1,5 +1,7 @@
 # playfield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playfield.md)
+
 <p><span class="chinese">这里是同学们的乐园，同时也让孩子们在这里安康生长。</span><span class="english">This playfield is a paradise for students where they can grow healthily!</span></p>
 
 <p><span class="chinese">目前他们与混沌操场和建立游戏围绕消除它。</span><span class="english">Present them with a chaotic playfield and build the game around erasing it.</span></p>

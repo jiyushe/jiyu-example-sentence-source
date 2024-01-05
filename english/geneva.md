@@ -1,5 +1,7 @@
 # geneva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geneva.md)
+
 <p><span class="chinese">我们在日内瓦湖畔度过夏天。</span><span class="english">We summered by Lake Geneva.</span></p>
 
 <p><span class="chinese">日内瓦——有人怨大豆。</span><span class="english">GENEVA — Some blamed soybeans.</span></p>

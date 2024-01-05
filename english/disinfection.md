@@ -1,5 +1,7 @@
 # disinfection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disinfection.md)
+
 <p><span class="chinese">如医疗卷械消毒不严。</span><span class="english">If the medical volume weapon disinfection is lax.</span></p>
 
 <p><span class="chinese">铁制笼具也可采用火焰消毒。</span><span class="english">Iron is made basket also can use blaze disinfection.</span></p>

@@ -1,5 +1,7 @@
 # 所有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoyou.md)
+
 <p><span class="chinese">所有这些都是质数。</span><span class="english">All primes.</span></p>
 
 <p><span class="chinese">今天你取得其他所有男人的心这还不够吗？</span><span class="english">heart today?</span></p>

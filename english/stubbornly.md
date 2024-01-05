@@ -1,5 +1,7 @@
 # stubbornly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stubbornly.md)
+
 <p><span class="chinese">首先所有的政治依然是地区化的。</span><span class="english">Above all politics remains stubbornly local.</span></p>
 
 <p><span class="chinese">但那时，北约仍是固执己见。</span><span class="english">But its thinking remained stubbornly the same.</span></p>

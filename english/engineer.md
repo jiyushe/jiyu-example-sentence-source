@@ -1,5 +1,7 @@
 # engineer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engineer.md)
+
 <p><span class="chinese">他是个工程师。</span><span class="english">He is an engineer.</span></p>
 
 <p><span class="chinese">我是一名工程师。</span><span class="english">I work as an engineer.</span></p>

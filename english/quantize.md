@@ -1,5 +1,7 @@
 # quantize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quantize.md)
+
 <p><span class="chinese">删除措施，删除轨道，抹除，复制，量化。</span><span class="english">Delete Measure, Delete Track, Erase, Copy, Quantize.</span></p>
 
 <p><span class="chinese">熵是判断系统演化方向的重要依据，因此有必要对生态系统熵进行量化。</span><span class="english">Entropy was the importance gist of estimating system's evolvement, so it was ver'y necessary to quantize system entropy.</span></p>

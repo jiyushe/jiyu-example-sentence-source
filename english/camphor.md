@@ -1,5 +1,7 @@
 # camphor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camphor.md)
+
 <p><span class="chinese">樟脑在酒精中可以溶化。</span><span class="english">Camphor is soluble in alcohol.</span></p>
 
 <p><span class="chinese">樟脑的味道使我感到恶心。</span><span class="english">The smell of camphor makes me sick.</span></p>

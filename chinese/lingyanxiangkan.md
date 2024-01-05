@@ -1,5 +1,7 @@
 # 另眼相看
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingyanxiangkan.md)
+
 <p><span class="chinese">但同时也使阿瑞对他另眼相看。</span><span class="english">But also to make Arui him a new light?</span></p>
 
 <p><span class="chinese">汤姆另眼相看他的上司。</span><span class="english">Tom is regarded with favour by his supervisor.</span></p>

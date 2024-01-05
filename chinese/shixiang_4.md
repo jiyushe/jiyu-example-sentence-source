@@ -1,5 +1,7 @@
 # 试想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixiang_4.md)
+
 <p><span class="chinese">试想一下。</span><span class="english">Imagine that.</span></p>
 
 <p><span class="chinese">试想，一个裸猿怎么样？</span><span class="english">How about a naked ape?</span></p>

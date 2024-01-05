@@ -1,5 +1,7 @@
 # 扬尘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangchen.md)
+
 <p><span class="chinese">二是运动差造成扬尘。</span><span class="english">The second is movement caused by dust.</span></p>
 
 <p><span class="chinese">增加了可以关闭坦克行驶时的烟雾和扬尘的选项。</span><span class="english">Added an option to turn off smoke and dust off the tank tracks.</span></p>

@@ -1,5 +1,7 @@
 # 神出鬼没
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenchuguimo.md)
+
 <p><span class="chinese">那神出鬼没的偷吃蛋糕的人又来过这儿了！</span><span class="english">The phantom cake eater has been here again!</span></p>
 
 <p><span class="chinese">神出鬼没地盗取预告的目标，玩弄警察于掌中。</span><span class="english">Elusive goal to steal notice, playing the police in their hands.</span></p>

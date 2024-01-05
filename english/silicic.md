@@ -1,5 +1,7 @@
 # silicic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silicic.md)
+
 <p><span class="chinese">从硅酸衍生而来的盐或酯。</span><span class="english">A salt or ester derived from silicic acid.</span></p>
 
 <p><span class="chinese">随着在身体组织里的进一步水解，可以生成硅酸。</span><span class="english">With further hydrolysis in the body tissues, silicic acid could be formed.</span></p>

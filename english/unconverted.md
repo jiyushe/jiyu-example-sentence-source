@@ -1,5 +1,7 @@
 # unconverted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconverted.md)
+
 <p><span class="chinese">这些都是教外人所寻求的，你们的天父原知道你们需要这一切。</span><span class="english">For the unconverted pursue these things, and your heavenly Father knows that you need them.</span></p>
 
 <p><span class="chinese">在露点条件下苯乙烯和二烯烃的聚合反应会加速进行。</span><span class="english">Polymerization of any unconverted styrene and diolefins is accelerated at the dew point condition.</span></p>

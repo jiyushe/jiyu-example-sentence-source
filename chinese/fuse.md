@@ -1,5 +1,7 @@
 # 肤色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuse.md)
+
 <p><span class="chinese">那颜色适合你的肤色。</span><span class="english">That color suits your complexion.</span></p>
 
 <p><span class="chinese">他那白皙的肤色，宛如夏雪。</span><span class="english">White his rode as the summer snow.</span></p>

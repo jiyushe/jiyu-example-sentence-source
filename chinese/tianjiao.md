@@ -1,5 +1,7 @@
 # 天骄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianjiao.md)
+
 <p><span class="chinese">天骄特卫，与您同行！</span><span class="english">Tianjiao Special Guard peers at you!</span></p>
 
 <p><span class="chinese">我的双眼也将长久迷汝天骄。</span><span class="english">Hath motion, and mine eye may be deceived.</span></p>

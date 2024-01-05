@@ -1,5 +1,7 @@
 # uninsured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uninsured.md)
+
 <p><span class="chinese">难道有“向未投保者征税是有益的”的论据吗？</span><span class="english">Is there a good rationale for taxing the uninsured?</span></p>
 
 <p><span class="chinese">未保险的儿童数量是一个国家的不光彩。</span><span class="english">The numbers of uninsured children remains a national disgrace.</span></p>

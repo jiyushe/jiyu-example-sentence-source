@@ -1,5 +1,7 @@
 # 同归于尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongguiyujin.md)
+
 <p><span class="chinese">布哈依这次去，就是想和公猪来个同归于尽的。</span><span class="english">Buha by the go, just want to die and come to a boar's.</span></p>
 
 <p><span class="chinese">我的主啊！求你不要使我与不义的民众同归于尽。</span><span class="english">Then, O my Lord! put me not amongst the people who do wrong!</span></p>

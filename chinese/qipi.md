@@ -1,5 +1,7 @@
 # 漆皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qipi.md)
+
 <p><span class="chinese">门上的漆皮已经剥落了。</span><span class="english">The coat of paint on the door has spalled.</span></p>
 
 <p><span class="chinese">剥除墙壁上的漆皮是一件很麻烦的事。</span><span class="english">Stripping the paint off the wall is a painful task.</span></p>

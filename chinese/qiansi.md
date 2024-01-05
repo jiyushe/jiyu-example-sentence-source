@@ -1,5 +1,7 @@
 # 铅丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiansi.md)
+
 <p><span class="chinese">测取主轴承压铅丝读数。</span><span class="english">Take the wire readings of all the main bearings.</span></p>
 
 <p><span class="chinese">必须用压铅丝体例调剂间隙。</span><span class="english">Clearance must be adjusted by means of lead wire.</span></p>

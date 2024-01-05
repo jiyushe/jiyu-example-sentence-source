@@ -1,5 +1,7 @@
 # 鼓点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudian_1.md)
+
 <p><span class="chinese">那这个鼓点就是</span><span class="english">So the beat is.</span></p>
 
 <p><span class="chinese">节奏和鼓点</span><span class="english">Rhythm and beat.</span></p>

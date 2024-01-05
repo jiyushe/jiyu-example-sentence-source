@@ -1,5 +1,7 @@
 # 水道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuidao_1.md)
+
 <p><span class="chinese">水道壅塞。</span><span class="english">The waterway is blocked up.</span></p>
 
 <p><span class="chinese">这条水道在这里变浅了。</span><span class="english">The channel shallows just here.</span></p>

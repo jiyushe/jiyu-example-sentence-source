@@ -1,5 +1,7 @@
 # badge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/badge.md)
+
 <p><span class="chinese">我们能给他弄个徽章吗？</span><span class="english">Can we get him a badge?</span></p>
 
 <p><span class="chinese">哦，把你的记者证给我。</span><span class="english">Oh, give me your press badge.</span></p>

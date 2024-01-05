@@ -1,5 +1,7 @@
 # cauterize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cauterize.md)
+
 <p><span class="chinese">激光束可以烧灼和愈合溃疡。</span><span class="english">Laser beams may cauterize and heal ulcers.</span></p>
 
 <p><span class="chinese">就好像腐蚀根群然后使之死亡。</span><span class="english">They kind of cauterize them and the roots die.</span></p>

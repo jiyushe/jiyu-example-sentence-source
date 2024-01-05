@@ -1,5 +1,7 @@
 # paramount
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paramount.md)
+
 <p><span class="chinese">像派拉蒙影业公司、环球或者索尼。</span><span class="english">like Paramount or Universal or Sony.</span></p>
 
 <p><span class="chinese">该义务是至高无上的。</span><span class="english">This duty is paramount to all the others.</span></p>

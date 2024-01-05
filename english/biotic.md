@@ -1,5 +1,7 @@
 # biotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biotic.md)
+
 <p><span class="chinese">也就是，它能使我们在这个生物群体中变的更好吗？</span><span class="english">Which is, does it make us better citizens of the biotic community?</span></p>
 
 <p><span class="chinese">限制的生命透过怎样并且适应极端外部生命和无生命的原素？</span><span class="english">How is life limited by and adapted to extreme external biotic and abiotic factors?</span></p>

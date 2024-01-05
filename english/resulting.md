@@ -1,5 +1,7 @@
 # resulting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resulting.md)
+
 <p><span class="chinese">最终结果会是什么？</span><span class="english">What's the resulting form?</span></p>
 
 <p><span class="chinese">以致分泌乳汁。</span><span class="english">Resulting in the secretion of milk.</span></p>

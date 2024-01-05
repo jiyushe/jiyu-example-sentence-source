@@ -1,5 +1,7 @@
 # 和盘托出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hepantuochu.md)
+
 <p><span class="chinese">因此，希拉里打算为了选票把真相和盘托出。</span><span class="english">So Hillary's going to come clean for the votes.</span></p>
 
 <p><span class="chinese">你把你稳定的工作和盘托出，她们却头也不回的走了！</span><span class="english">You tell them all about your stable job, they turn their backs.</span></p>

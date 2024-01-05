@@ -1,5 +1,7 @@
 # 签收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianshou_1.md)
+
 <p><span class="chinese">法律签收。</span><span class="english">Legal sign-off.</span></p>
 
 <p><span class="chinese">请一式两份签收这个单据。</span><span class="english">Please sign the receipt in duplicate.</span></p>

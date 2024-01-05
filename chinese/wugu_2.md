@@ -1,5 +1,7 @@
 # 无辜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wugu_2.md)
+
 <p><span class="chinese">病狂的暴民私刑冶死一名无辜。</span><span class="english">The angry mob lynched an innocent man.</span></p>
 
 <p><span class="chinese">我们将一起祭奠那些逝去的无辜生命。</span><span class="english">We’ll remember the innocent lives we lost.</span></p>

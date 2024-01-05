@@ -1,5 +1,7 @@
 # beer 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beer.md)
+
 <p><span class="chinese">你们有啤酒吗？</span><span class="english">Do you have beer?</span></p>
 
 <p><span class="chinese">那温啤酒好了，温的。</span><span class="english">How is that beer?</span></p>

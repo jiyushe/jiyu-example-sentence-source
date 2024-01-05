@@ -1,5 +1,7 @@
 # anteroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anteroom.md)
+
 <p><span class="chinese">在休息室里，他迅速地打开皮包。</span><span class="english">In an anteroom he hastily opened his briefcase.</span></p>
 
 <p><span class="chinese">他在前厅耐心地等了一个小时。</span><span class="english">He had been patiently waiting in the anteroom for an hour.</span></p>

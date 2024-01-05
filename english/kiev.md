@@ -1,5 +1,7 @@
 # kiev
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kiev.md)
+
 <p><span class="chinese">粉刷一新的基辅地铁车厢81-714。</span><span class="english">Freshly painted 81-714 car for Kiev subway.</span></p>
 
 <p><span class="chinese">乌克兰将在周四对战苏格兰队。</span><span class="english">Ukraine play Scotland in Kiev on Wednesday.</span></p>

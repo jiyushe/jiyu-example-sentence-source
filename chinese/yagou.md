@@ -1,5 +1,7 @@
 # 牙垢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yagou.md)
+
 <p><span class="chinese">什么是牙垢和牙石？</span><span class="english">What are dental calculus and odontolith?</span></p>
 
 <p><span class="chinese">牙垢和牙石可以预防吗？</span><span class="english">Can we prevent dental calculus and odontolith?</span></p>

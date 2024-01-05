@@ -1,5 +1,7 @@
 # 转让
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanrang.md)
+
 <p><span class="chinese">我想转让这个汽车修理厂。</span><span class="english">I want to transfer the garage.</span></p>
 
 <p><span class="chinese">本卡不可以转让。</span><span class="english">This card is not transferable.</span></p>

@@ -1,5 +1,7 @@
 # 没落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moluo.md)
+
 <p><span class="chinese">有势力的人是如何没落的。</span><span class="english">How the mighty have fallen.</span></p>
 
 <p><span class="chinese">首都耶路撒冷也随之没落。</span><span class="english">The capital, Jerusalem, fell.</span></p>

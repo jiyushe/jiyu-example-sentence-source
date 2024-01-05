@@ -1,5 +1,7 @@
 # collection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collection.md)
+
 <p><span class="chinese">集合字面值。</span><span class="english">Collection Literals.</span></p>
 
 <p><span class="chinese">托收款未得照付。</span><span class="english">Collection is not paid. ?</span></p>

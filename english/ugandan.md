@@ -1,5 +1,7 @@
 # ugandan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ugandan.md)
+
 <p><span class="chinese">乌干达政府发言人欧波洛特解释说</span><span class="english">Ugandan government spokesperson Fred Opolot explains that decision.</span></p>
 
 <p><span class="chinese">记者暂未联系到乌干达国家林业局置评。</span><span class="english">The Ugandan forestry agency couldn't immediately be reached for comment.</span></p>

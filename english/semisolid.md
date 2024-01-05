@@ -1,5 +1,7 @@
 # semisolid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semisolid.md)
+
 <p><span class="chinese">该法适用于固体和半固体样品的前处理。</span><span class="english">ASE is applicable fo solid or semisolid samples.</span></p>
 
 <p><span class="chinese">半固态的物质，如污水处理后沉淀下来的那种物质。</span><span class="english">Semisolid material such as the type precipitated by sewage treatment.</span></p>

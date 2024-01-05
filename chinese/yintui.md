@@ -1,5 +1,7 @@
 # 引退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yintui.md)
+
 <p><span class="chinese">所以，1953年，他带着卡顿一起引退了。</span><span class="english">In 1953, Harman resigned and took Kardon with him.</span></p>
 
 <p><span class="chinese">华盛顿1796年的引退意味着美国人民权力的崛起。</span><span class="english">Washington's "falling" in 1796 was his people's rising.</span></p>

@@ -1,5 +1,7 @@
 # 分隔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenge_1.md)
+
 <p><span class="chinese">他们去年夏天分隔隔离分袂了。</span><span class="english">They broke up last summer.</span></p>
 
 <p><span class="chinese">用分隔器整理好东西。</span><span class="english">Use dividers to organize stuff.</span></p>

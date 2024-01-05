@@ -1,5 +1,7 @@
 # 鱼叉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yucha.md)
+
 <p><span class="chinese">鱼叉有倒刺的顶端。</span><span class="english">The barbed tip of a harpoon.</span></p>
 
 <p><span class="chinese">这就是所谓“鱼叉式钓鱼”。</span><span class="english">This is known as “spear-phishing”.</span></p>

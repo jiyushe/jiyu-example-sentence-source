@@ -1,5 +1,7 @@
 # hack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hack.md)
+
 <p><span class="chinese">他平常说话并不结巴。</span><span class="english">He doesn't often hack.</span></p>
 
 <p><span class="chinese">你能容忍受欺骗吗?</span><span class="english">Do you hack to be cheated?</span></p>

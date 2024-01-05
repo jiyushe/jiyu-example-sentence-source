@@ -1,5 +1,7 @@
 # deprivation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deprivation.md)
+
 <p><span class="chinese">缺乏睡眠会搞坏记忆。</span><span class="english">Sleep deprivation zaps memory.</span></p>
 
 <p><span class="chinese">拿睡眠剥夺来举个例子。</span><span class="english">Take sleep deprivation for example.</span></p>

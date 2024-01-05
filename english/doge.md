@@ -1,5 +1,7 @@
 # doge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doge.md)
+
 <p><span class="chinese">狗现在是你的朋友了呀。</span><span class="english">Doge are your friends now.</span></p>
 
 <p><span class="chinese">保罗承认是他下毒谋害总督。</span><span class="english">Paolo admits that he poisoned the doge.</span></p>

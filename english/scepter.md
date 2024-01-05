@@ -1,5 +1,7 @@
 # scepter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scepter.md)
+
 <p><span class="chinese">权杖是权力的标志。</span><span class="english">A scepter is the attribute of power.</span></p>
 
 <p><span class="chinese">他会用铁杖管辖他们的。</span><span class="english">He will rule them with an iron scepter.</span></p>

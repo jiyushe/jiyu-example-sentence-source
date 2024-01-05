@@ -1,5 +1,7 @@
 # predestination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predestination.md)
+
 <p><span class="chinese">宿命论是一个谜团。</span><span class="english">Predestination is a myth.</span></p>
 
 <p><span class="chinese">宿命里等我的人。</span><span class="english">Wait my person in predestination.</span></p>

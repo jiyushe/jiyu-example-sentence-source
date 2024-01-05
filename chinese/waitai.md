@@ -1,5 +1,7 @@
 # 外胎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waitai.md)
+
 <p><span class="chinese">父亲给我的自行车安上了新的外胎。</span><span class="english">Father fitted a new tyre on my bike.</span></p>
 
 <p><span class="chinese">不要让你外胎碰到煞车皮。</span><span class="english">Do not rub your tire against your brake pads.</span></p>

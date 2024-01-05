@@ -1,5 +1,7 @@
 # bouncing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bouncing.md)
+
 <p><span class="chinese">快速弹回来会有帮助！</span><span class="english">Bouncing helps!</span></p>
 
 <p><span class="chinese">那是一个健康活泼的婴儿。</span><span class="english">That is a bouncing baby.</span></p>

@@ -1,5 +1,7 @@
 # shark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shark.md)
+
 <p><span class="chinese">塞姆遇见一条鲨鱼。</span><span class="english">Sam meets a shark.</span></p>
 
 <p><span class="chinese">马来西亚的白尖鳍鲨鱼。</span><span class="english">White tip shark Malaysia.</span></p>

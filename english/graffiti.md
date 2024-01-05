@@ -1,5 +1,7 @@
 # graffiti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graffiti.md)
+
 <p><span class="chinese">在桌上用立可白画的涂鸦。</span><span class="english">The graffiti I drew on the desk.</span></p>
 
 <p><span class="chinese">很多涂鸦艺术家，就像班克斯。</span><span class="english">A lot graffiti artists, kind of Banksy.</span></p>

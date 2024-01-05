@@ -1,5 +1,7 @@
 # brix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brix.md)
+
 <p><span class="chinese">现在，让我们看一下关于白利度造成耗资的影响因素。</span><span class="english">Now let us look at some cost implications related to Brix.</span></p>
 
 <p><span class="chinese">然而，白利度在更多的行业也都非常重要。</span><span class="english">There are, however, more areas in which Brix is of vital importance.</span></p>

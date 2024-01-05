@@ -1,5 +1,7 @@
 # 傀儡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuilei.md)
+
 <p><span class="chinese">日本就是个傀儡。</span><span class="english">Japan is the puppet.</span></p>
 
 <p><span class="chinese">政权的傀儡木偶？</span><span class="english">Puppets of the state?</span></p>

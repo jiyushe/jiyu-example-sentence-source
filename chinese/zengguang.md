@@ -1,5 +1,7 @@
 # 增光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengguang.md)
+
 <p><span class="chinese">为国增光是他的雄心。</span><span class="english">The glory of his country is his ambition.</span></p>
 
 <p><span class="chinese">为国增光是他的雄心。</span><span class="english">The glory of his country was his ambition.</span></p>

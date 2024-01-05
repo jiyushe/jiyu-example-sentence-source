@@ -1,5 +1,7 @@
 # quilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quilt.md)
+
 <p><span class="chinese">把他们塞入被子。</span><span class="english">Make them into a quilt.</span></p>
 
 <p><span class="chinese">我有一床百衲被。</span><span class="english">I have a patchwork quilt.</span></p>

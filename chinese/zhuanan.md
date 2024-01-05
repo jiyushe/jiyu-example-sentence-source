@@ -1,5 +1,7 @@
 # 专案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanan.md)
+
 <p><span class="chinese">下一个体育比赛专案是链球。</span><span class="english">The next athletics event is the hammer.</span></p>
 
 <p><span class="chinese">建立新的巨集专案和模组。</span><span class="english">Creating new macro projects and modules.</span></p>

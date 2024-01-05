@@ -1,5 +1,7 @@
 # hardiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardiness.md)
+
 <p><span class="chinese">这种抗寒力可保持一个月。</span><span class="english">The cold hardiness could keep one month.</span></p>
 
 <p><span class="chinese">坚韧性人格对心理健康没有间接预测作用。</span><span class="english">Hardiness has no indirect effect on mental health.</span></p>

@@ -1,5 +1,7 @@
 # 千里光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianliguang.md)
+
 <p><span class="chinese">建立了HPLC法测定全缘千里光碱脂质体凝胶剂的含量。</span><span class="english">HPLC method was established for the determination ofintegerrimine liposome gel.</span></p>
 
 <p><span class="chinese">经MP、IR鉴定的结果判定，白色粉末状物为倒千里光裂碱-活性酯结合的季铵盐。</span><span class="english">The white powder was quatermary salt of retronecine ester identified by MP, IR.</span></p>

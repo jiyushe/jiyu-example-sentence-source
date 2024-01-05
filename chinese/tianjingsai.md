@@ -1,5 +1,7 @@
 # 田径赛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianjingsai.md)
+
 <p><span class="chinese">我们有田径赛。</span><span class="english">We have a track meet.</span></p>
 
 <p><span class="chinese">友好运动会田径赛。</span><span class="english">Goodwill Games Track and Field.</span></p>

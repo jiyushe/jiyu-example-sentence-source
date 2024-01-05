@@ -1,5 +1,7 @@
 # pulmonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulmonic.md)
+
 <p><span class="chinese">你认为这个肺动脉瓣有多少个瓣叶？</span><span class="english">How many cusps are there supposed to be on this pulmonic valve.</span></p>
 
 <p><span class="chinese">最常见的原因是主动脉瓣或肺动脉瓣反流。</span><span class="english">The most common causes are aortic or pulmonic valve regurgitation.</span></p>

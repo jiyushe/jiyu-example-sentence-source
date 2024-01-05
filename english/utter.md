@@ -1,5 +1,7 @@
 # utter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utter.md)
+
 <p><span class="chinese">那电影完全是一堆垃圾。</span><span class="english">The movie is utter dreck.</span></p>
 
 <p><span class="chinese">我觉得这些纯属废话。</span><span class="english">I think that’s utter crap.</span></p>

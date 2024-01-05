@@ -1,5 +1,7 @@
 # mull
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mull.md)
+
 <p><span class="chinese">经理需要时间来审慎考虑我们的提案。</span><span class="english">The manager needs time to mull over our proposals.</span></p>
 
 <p><span class="chinese">但谁会有时间仔细琢磨这种天性之特征呢？</span><span class="english">But who has time to mull over things of this nature?</span></p>

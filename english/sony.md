@@ -1,5 +1,7 @@
 # sony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sony.md)
+
 <p><span class="chinese">日本有索尼，墨西哥有科罗娜，德国有宝马，韩国有三星。</span><span class="english">Japan has Sony. Mexico has Corona.</span></p>
 
 <p><span class="chinese">斯蒂夫•瞿，索尼公司市场部经理</span><span class="english">STEVE CHU, MARKETING MANAGER, SONY</span></p>

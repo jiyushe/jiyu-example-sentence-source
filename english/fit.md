@@ -1,5 +1,7 @@
 # fit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fit.md)
+
 <p><span class="chinese">他的牛仔裤紧绷绷的。</span><span class="english">His jeans fit snugly.</span></p>
 
 <p><span class="chinese">这个榫头对不上。</span><span class="english">This tenon won't fit.</span></p>

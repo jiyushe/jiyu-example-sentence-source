@@ -1,5 +1,7 @@
 # mf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mf.md)
+
 <p><span class="chinese">隔日，MF市值损失四分之一。</span><span class="english">The next day MF disclosed a quarterly loss.</span></p>
 
 <p><span class="chinese">这样，数码相机就把转接环上手动镜头当作自动镜头来处理。</span><span class="english">Thus, the digital camera will treat the MF lens as the AF lens.</span></p>

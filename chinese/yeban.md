@@ -1,5 +1,7 @@
 # 夜半
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeban.md)
+
 <p><span class="chinese">夜半，我睁开双眼。</span><span class="english">At midnight, I open my eyes.</span></p>
 
 <p><span class="chinese">等到夜半钟响，上帝就会获胜。</span><span class="english">At stoke of midnight God shall win.</span></p>

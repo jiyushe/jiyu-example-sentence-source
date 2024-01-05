@@ -1,5 +1,7 @@
 # rampancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rampancy.md)
+
 <p><span class="chinese">它为假冒产品的猖厥提供了广阔的市场空间。</span><span class="english">It provided vast market space for the rampancy of sham product.</span></p>
 
 <p><span class="chinese">假货的猖獗降低了社会道德标准。</span><span class="english">The rampancy of fake commodities cause the decline of social moral standards.</span></p>

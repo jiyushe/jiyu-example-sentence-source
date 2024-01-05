@@ -1,5 +1,7 @@
 # eyed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyed.md)
+
 <p><span class="chinese">我并未对此泪眼摩挲。</span><span class="english">I’m not teary eyed about it.</span></p>
 
 <p><span class="chinese">他问了一个很蠢的问题。</span><span class="english">He asked a cock- eyed question.</span></p>

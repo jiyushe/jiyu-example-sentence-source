@@ -1,5 +1,7 @@
 # 活受罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshouzui.md)
+
 <p><span class="chinese">我干嘛要活受罪阿?。</span><span class="english">Why did I have a living death?</span></p>
 
 <p><span class="chinese">大热天穿着件大衣简直使他活受罪。</span><span class="english">He cumbered himself with an overcoat on a warm day.</span></p>

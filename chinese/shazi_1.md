@@ -1,5 +1,7 @@
 # 沙子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shazi_1.md)
+
 <p><span class="chinese">他吹掉沙子。</span><span class="english">He blew the sands away.</span></p>
 
 <p><span class="chinese">沙子很容易抖掉。</span><span class="english">Sand shakes off easily.</span></p>

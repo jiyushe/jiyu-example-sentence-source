@@ -1,5 +1,7 @@
 # 独木舟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dumuzhou.md)
+
 <p><span class="chinese">没错儿，就是独木舟。</span><span class="english">Exactly, it is a canoe.</span></p>
 
 <p><span class="chinese">他划独木舟很拿手。</span><span class="english">He can kayak very well.</span></p>

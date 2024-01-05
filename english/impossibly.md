@@ -1,5 +1,7 @@
 # impossibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impossibly.md)
+
 <p><span class="chinese">它们难以置信的完美，而且可以食用。</span><span class="english">They are impossibly perfect, and edible.</span></p>
 
 <p><span class="chinese">我发现那读起来实在太难，太慢，毫无收获可言。</span><span class="english">I found it just too hard, impossibly slow, and unrewarding.</span></p>

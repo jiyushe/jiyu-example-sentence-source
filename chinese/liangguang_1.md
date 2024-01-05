@@ -1,5 +1,7 @@
 # 亮光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangguang_1.md)
+
 <p><span class="chinese">照在床前明月的亮光。</span><span class="english">The moon shines on my bed.</span></p>
 
 <p><span class="chinese">这时天空开始泛出亮光。</span><span class="english">Light was pouring into the sky now.</span></p>

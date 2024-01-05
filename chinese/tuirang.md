@@ -1,5 +1,7 @@
 # 退让
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuirang.md)
+
 <p><span class="chinese">电视机是不会退让的。</span><span class="english">Television will not go away.</span></p>
 
 <p><span class="chinese">怎样也不能够先退让！</span><span class="english">How to also can't first fluffing!</span></p>

@@ -1,5 +1,7 @@
 # 旁听席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangtingxi.md)
+
 <p><span class="chinese">他又一次抬起头，朝旁听席望去。</span><span class="english">He looked up into the gallery again.</span></p>
 
 <p><span class="chinese">下议院的旁听席上坐满了人。</span><span class="english">The visitor's gallery in the House of Commons was full.</span></p>

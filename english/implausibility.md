@@ -1,5 +1,7 @@
 # implausibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implausibility.md)
+
 <p><span class="chinese">卡夫卡的小说则打开了一个无限扩张的非理性世界。</span><span class="english">Kafka's novels opened up a yawning "frontier to implausibility".</span></p>
 
 <p><span class="chinese">首先，让我们来分析一下令人难以置信的中国官方统计数据。</span><span class="english">First, let's deal with the implausibility of the official Chinese statistics.</span></p>

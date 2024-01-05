@@ -1,5 +1,7 @@
 # wormwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wormwood.md)
+
 <p><span class="chinese">我的话在他听来一定逆耳。</span><span class="english">My words must be gall and wormwood to him.</span></p>
 
 <p><span class="chinese">苦艾茶是身体排毒不错的选择。</span><span class="english">Wormwood dis a good way to detoxify your body.</span></p>

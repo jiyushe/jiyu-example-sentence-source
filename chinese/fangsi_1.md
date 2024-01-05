@@ -1,5 +1,7 @@
 # 纺丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangsi_1.md)
+
 <p><span class="chinese">粉体在纺丝时最易产生“团聚”现象。</span><span class="english">The fluorescent powder was easy to generate " gobbet".</span></p>
 
 <p><span class="chinese">将共聚物通过湿法纺丝，得到了阻燃纤维。</span><span class="english">The copolymer was wet spun to get flame-retardant fiber.</span></p>

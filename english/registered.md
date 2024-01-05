@@ -1,5 +1,7 @@
 # registered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/registered.md)
+
 <p><span class="chinese">您要寄挂号？</span><span class="english">Do you want it registered?</span></p>
 
 <p><span class="chinese">她脸上露出惊恐的神色。</span><span class="english">Her face registered terror.</span></p>

@@ -1,5 +1,7 @@
 # 形式逻辑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshiluoji.md)
+
 <p><span class="chinese">你这个结论是按照形式逻辑的方法推论出来的。</span><span class="english">You arrived at your conclusion using the methods of formal logic.</span></p>
 
 <p><span class="chinese">经典命题逻辑是现代形式逻辑的基础。</span><span class="english">The classical proposition logic is the basis of modern formal logic.</span></p>

@@ -1,5 +1,7 @@
 # dolce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dolce.md)
+
 <p><span class="chinese">爱上奢华，爱上爱醇葡萄酒。</span><span class="english">If you love the "dolce vita", you love Amore Wine.</span></p>
 
 <p><span class="chinese">这位时尚达人穿了一件杜嘉班纳的蜘蛛网图案连衣裙。</span><span class="english">The fashionista was wearing a Dolce & Gabbana spider web dress.</span></p>

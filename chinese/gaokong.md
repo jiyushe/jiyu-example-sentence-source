@@ -1,5 +1,7 @@
 # 高空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaokong.md)
+
 <p><span class="chinese">高空乘骑。</span><span class="english">Riding High.</span></p>
 
 <p><span class="chinese">你是一位高空飞行员吗？</span><span class="english">Are you a high flier?</span></p>

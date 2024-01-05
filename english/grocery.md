@@ -1,5 +1,7 @@
 # grocery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grocery.md)
+
 <p><span class="chinese">他把他的杂货店关闭了。</span><span class="english">He shut his grocery.</span></p>
 
 <p><span class="chinese">我们喜欢杂货店。</span><span class="english">We love grocery stores.</span></p>

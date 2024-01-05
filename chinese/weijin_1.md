@@ -1,5 +1,7 @@
 # 违禁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weijin_1.md)
+
 <p><span class="chinese">此外，甾体激素类使用和违禁药物使用也应当避免。</span><span class="english">Also, steroid use and illegal drug use should be avoided.</span></p>
 
 <p><span class="chinese">世贸组织裁定，这类贷款属违禁出口补贴。</span><span class="english">The WTO ruled that the loans were prohibited export subsidies.</span></p>

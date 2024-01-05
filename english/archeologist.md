@@ -1,5 +1,7 @@
 # archeologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archeologist.md)
+
 <p><span class="chinese">考古学家追踪象形文字。</span><span class="english">The archeologist traced the hieroglyphs.</span></p>
 
 <p><span class="chinese">就职业而言，他是个考古学家，和一个多梦的诗人。</span><span class="english">He was an archeologist by trade, a dreamy poet.</span></p>

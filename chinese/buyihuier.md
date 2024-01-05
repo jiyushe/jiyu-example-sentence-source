@@ -1,5 +1,7 @@
 # 不一会儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyihuier.md)
+
 <p><span class="chinese">不一会儿，窗户拼出来了。</span><span class="english">Soon, the windows come out.</span></p>
 
 <p><span class="chinese">不一会儿，一只猫又来了。</span><span class="english">Soon a cat came into the room.</span></p>

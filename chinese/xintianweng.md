@@ -1,5 +1,7 @@
 # 信天翁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xintianweng.md)
+
 <p><span class="chinese">而到了夏末，连信天翁都离开了小岛。</span><span class="english">In late summer even the albatrosses left.</span></p>
 
 <p><span class="chinese">信天翁使用风来帮助他们飞。</span><span class="english">Albatrosses use the wind to help them fly.</span></p>

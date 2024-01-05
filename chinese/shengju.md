@@ -1,5 +1,7 @@
 # 盛举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengju.md)
+
 <p><span class="chinese">我非常欢喜能够共襄盛举。</span><span class="english">I am very happy to be part of it.</span></p>
 
 <p><span class="chinese">这次展出将是一个盛举。</span><span class="english">The exhibition will be a big affair.</span></p>

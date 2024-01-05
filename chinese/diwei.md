@@ -1,5 +1,7 @@
 # 低微
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diwei.md)
+
 <p><span class="chinese">古代中国女人地位很低微。</span><span class="english">Women have a low status in ancient time.</span></p>
 
 <p><span class="chinese">许多伟人出身低微。</span><span class="english">Many great men have arisen from humble beginnings.</span></p>

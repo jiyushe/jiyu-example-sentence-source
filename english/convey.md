@@ -1,5 +1,7 @@
 # convey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convey.md)
+
 <p><span class="chinese">管道排送水。</span><span class="english">Pipelines convey water.</span></p>
 
 <p><span class="chinese">学习如何传达风险。</span><span class="english">Learn how to convey risk.</span></p>

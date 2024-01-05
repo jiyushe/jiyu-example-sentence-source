@@ -1,5 +1,7 @@
 # permittivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permittivity.md)
+
 <p><span class="chinese">真空中的介电常数是。</span><span class="english">This is the permittivity of vacuum.</span></p>
 
 <p><span class="chinese">0是真空中的介电常数。</span><span class="english">Epsilon zero is the permittivity of vacuum.</span></p>

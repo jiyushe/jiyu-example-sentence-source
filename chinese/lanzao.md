@@ -1,5 +1,7 @@
 # 蓝藻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanzao.md)
+
 <p><span class="chinese">他们测试了从蓝藻中得到的褐藻胶。</span><span class="english">They tested alginate from brown algae.</span></p>
 
 <p><span class="chinese">转基因蓝藻的使用方法略有不同。</span><span class="english">A different method was used with the GM algae.</span></p>

@@ -1,5 +1,7 @@
 # pragmatism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pragmatism.md)
+
 <p><span class="chinese">真理观是詹姆士实用主义哲学的核心内容。</span><span class="english">Outlook of truth is the core of James' pragmatism.</span></p>
 
 <p><span class="chinese">我们需要召集同样的实用主义去拯救全人类。</span><span class="english">We need to muster the same pragmatism to save humanity.</span></p>

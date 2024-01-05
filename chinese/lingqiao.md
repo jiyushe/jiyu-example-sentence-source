@@ -1,5 +1,7 @@
 # 灵巧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingqiao.md)
+
 <p><span class="chinese">这把重斧头不好用。③笨拙的，不灵巧的。</span><span class="english">The heavy ax was awkward to use.</span></p>
 
 <p><span class="chinese">但是他很灵巧，技术也很棒。</span><span class="english">But he is also nimble and skillful.</span></p>

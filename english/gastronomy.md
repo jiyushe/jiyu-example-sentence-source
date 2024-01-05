@@ -1,5 +1,7 @@
 # gastronomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastronomy.md)
+
 <p><span class="chinese">什么是分子烹饪?</span><span class="english">What Is Molecular Gastronomy?</span></p>
 
 <p><span class="chinese">他学习了烹饪但却无法靠厨艺过活。</span><span class="english">He studied gastronomy but cannot make a living as a cook.</span></p>

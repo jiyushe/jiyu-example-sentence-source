@@ -1,5 +1,7 @@
 # 值夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiye.md)
+
 <p><span class="chinese">我可以不值夜。</span><span class="english">I am excused night duty.</span></p>
 
 <p><span class="chinese">那人的喊叫声惊醒了镇上的值夜人。</span><span class="english">The man's cry aroused the town watch.</span></p>

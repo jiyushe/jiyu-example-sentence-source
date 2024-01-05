@@ -1,5 +1,7 @@
 # dermabrasion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dermabrasion.md)
+
 <p><span class="chinese">它们可用于皮肤擦伤处。</span><span class="english">They can be used for skin dermabrasion.</span></p>
 
 <p><span class="chinese">的术后恢复期多久？</span><span class="english">How long is the period of recovery for "Novel Painless Sciton Dermabrasion"?</span></p>

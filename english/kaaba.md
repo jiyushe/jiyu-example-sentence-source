@@ -1,5 +1,7 @@
 # kaaba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kaaba.md)
+
 <p><span class="chinese">如何精确测量克尔白方向?。</span><span class="english">How to measure the exact direction of Kaaba?</span></p>
 
 <p><span class="chinese">院的西面是女王哈特谢普苏特的一座小圣堂。</span><span class="english">Courtyard west side is Queen Hatshepsut a small Kaaba.</span></p>

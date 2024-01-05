@@ -1,5 +1,7 @@
 # 凄然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiran.md)
+
 <p><span class="chinese">埃伦对我凄然一笑。</span><span class="english">Ellen gave me a rueful smile.</span></p>
 
 <p><span class="chinese">凄然地低语，爱为何消逝</span><span class="english">Murmur, a little sadly, how love fled</span></p>

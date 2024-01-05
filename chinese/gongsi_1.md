@@ -1,5 +1,7 @@
 # 公私
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongsi_1.md)
+
 <p><span class="chinese">阳市酱油厂是1956年公私合营时组建的国营企业。</span><span class="english">It is a state-run enterprise set up in 1956.</span></p>
 
 <p><span class="chinese">我们的信条一直是公私分明。</span><span class="english">Our creed has always been that business is business.</span></p>

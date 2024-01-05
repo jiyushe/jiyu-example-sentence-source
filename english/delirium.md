@@ -1,5 +1,7 @@
 # delirium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delirium.md)
+
 <p><span class="chinese">他在高烧中不停地说胡话。</span><span class="english">He raved in his delirium.</span></p>
 
 <p><span class="chinese">今晚不单是高兴，简直有点要热昏了头。</span><span class="english">The evening was no longer joy, but delirium.</span></p>

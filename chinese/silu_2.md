@@ -1,5 +1,7 @@
 # 死路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/silu_2.md)
+
 <p><span class="chinese">这是一条有去无回的死路。</span><span class="english">This is a one-way ticket to hell.</span></p>
 
 <p><span class="chinese">我们已经走进死路了。</span><span class="english">We're coming to the end of the road.</span></p>

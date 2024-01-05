@@ -1,5 +1,7 @@
 # 狗腿子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goutuizi.md)
+
 <p><span class="chinese">4个狗腿子——或者在媒体中有200个成员。</span><span class="english">Serves four—or approximately two hundred members of the press.</span></p>
 
 <p><span class="chinese">我确信其它俘虏都是狗腿子或告密者。</span><span class="english">I am convinced the other captives are flunkies and maybe snitches.</span></p>

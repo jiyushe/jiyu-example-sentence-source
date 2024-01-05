@@ -1,5 +1,7 @@
 # 吃亏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chikui.md)
+
 <p><span class="chinese">诚实不会吃亏的。</span><span class="english">It pays to be honest.</span></p>
 
 <p><span class="chinese">风水轮流转，轮到我吃亏…</span><span class="english">It's just my turn to suffer loses.</span></p>

@@ -1,5 +1,7 @@
 # ammo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ammo.md)
+
 <p><span class="chinese">一个弹药箱包括5个弹夹。</span><span class="english">An ammo box holds 5 clips.</span></p>
 
 <p><span class="chinese">你成箱购买廉价弹丅药。</span><span class="english">You buy cheap ammo by the case.</span></p>

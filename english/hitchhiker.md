@@ -1,5 +1,7 @@
 # hitchhiker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hitchhiker.md)
+
 <p><span class="chinese">他是搭便车的。</span><span class="english">He's a hitchhiker.</span></p>
 
 <p><span class="chinese">我一路搭便车来的.</span><span class="english">I hitchhiker all the way.</span></p>

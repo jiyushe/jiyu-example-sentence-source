@@ -1,5 +1,7 @@
 # prosperity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosperity.md)
+
 <p><span class="chinese">如何才是真富贵？</span><span class="english">What is true prosperity?</span></p>
 
 <p><span class="chinese">逆境通向成功路。</span><span class="english">Adversity leads to prosperity.</span></p>

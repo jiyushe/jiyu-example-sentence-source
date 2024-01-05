@@ -1,5 +1,7 @@
 # malleable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malleable.md)
+
 <p><span class="chinese">可锻铸铁。</span><span class="english">Malleable cast iron.</span></p>
 
 <p><span class="chinese">大脑是可塑的。</span><span class="english">The brain is malleable.</span></p>

@@ -1,5 +1,7 @@
 # 妙方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaofang.md)
+
 <p><span class="chinese">这里的十一条妙方能让钱来得有够快！</span><span class="english">Here are eleven ideas to make money fast.</span></p>
 
 <p><span class="chinese">按摩是舒缓压力的一剂妙方。</span><span class="english">Massage is a wonderful antidote to stress.</span></p>

@@ -1,5 +1,7 @@
 # readjust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/readjust.md)
+
 <p><span class="chinese">司机的座位太高了，我必须把它重新调节一下。</span><span class="english">The driver's seat is too high,I have to readjust it.</span></p>
 
 <p><span class="chinese">但是我们开始就新环境重新调整。</span><span class="english">But we are beginning to readjust to the new environment.</span></p>

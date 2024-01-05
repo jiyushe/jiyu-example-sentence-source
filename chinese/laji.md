@@ -1,5 +1,7 @@
 # 垃圾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laji.md)
+
 <p><span class="chinese">去把垃圾拖出去。</span><span class="english">Pull it out.</span></p>
 
 <p><span class="chinese">避免发送垃圾邮件。</span><span class="english">Avoid spamming.</span></p>

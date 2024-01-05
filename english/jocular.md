@@ -1,5 +1,7 @@
 # jocular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jocular.md)
+
 <p><span class="chinese">他是个诙谐的人，特别当著女人的面时。</span><span class="english">He is a jocular man, especially around women.</span></p>
 
 <p><span class="chinese">海尔赛打趣地用两个手指戳了维克多·亨利一下。</span><span class="english">Halsey gave Victor Henry jocular prod with two fingers.</span></p>

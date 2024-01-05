@@ -1,5 +1,7 @@
 # 爽快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangkuai.md)
+
 <p><span class="chinese">我现在爽快地原谅你。</span><span class="english">I freely forgive you now.</span></p>
 
 <p><span class="chinese">“是的，”我儿子爽快地说.”</span><span class="english">"Yes," my son said brightly.</span></p>

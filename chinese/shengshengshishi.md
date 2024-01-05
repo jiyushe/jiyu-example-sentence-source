@@ -1,5 +1,7 @@
 # 生生世世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshengshishi.md)
+
 <p><span class="chinese">我们是天造的一对，生生世世，只有你和我。</span><span class="english">Suited perfectly, for eternity, me and you.</span></p>
 
 <p><span class="chinese">亲亲你抱抱你生生世世我爱你。</span><span class="english">Kiss you, hold you and I will love you all my life.</span></p>

@@ -1,5 +1,7 @@
 # jinn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jinn.md)
+
 <p><span class="chinese">晋国人口知多少?。</span><span class="english">What about the Population of Jinn State?</span></p>
 
 <p><span class="chinese">一位探险者绳降进入到阿曼的马吉里斯尔金洞穴。</span><span class="english">An explorer descends into the Majlis al Jinn cave in Oman.</span></p>

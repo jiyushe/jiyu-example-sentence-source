@@ -1,5 +1,7 @@
 # keywords
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keywords.md)
+
 <p><span class="chinese">使用连字符-分隔关键字</span><span class="english">Use hyphens to separate keywords.</span></p>
 
 <p><span class="chinese">有28个关键词不能被当作变量名？</span><span class="english">Twenty-eight keywords that are blocked?</span></p>

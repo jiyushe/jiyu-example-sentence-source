@@ -1,5 +1,7 @@
 # kneed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kneed.md)
+
 <p><span class="chinese">你顶住我的小先生了！</span><span class="english">You kneed me in my misters!</span></p>
 
 <p><span class="chinese">他用膝盖猛撞攻击者的下身。</span><span class="english">He kneed his attacker in the groin.</span></p>

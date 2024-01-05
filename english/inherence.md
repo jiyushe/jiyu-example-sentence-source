@@ -1,5 +1,7 @@
 # inherence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inherence.md)
+
 <p><span class="chinese">自由是外在自由和内在自由的高度统一。</span><span class="english">Liberty is highly integrated with inherence and exterior.</span></p>
 
 <p><span class="chinese">谁说九零后的孩子不求上进？</span><span class="english">Who says the children not far cry from those halcyon inherence. for?</span></p>

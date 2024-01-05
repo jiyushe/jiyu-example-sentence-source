@@ -1,5 +1,7 @@
 # 南边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanbian.md)
+
 <p><span class="chinese">风从南边吹来。</span><span class="english">The wind blows from south.</span></p>
 
 <p><span class="chinese">咯吱，从南边来的！</span><span class="english">Shriek, it's from the south!</span></p>

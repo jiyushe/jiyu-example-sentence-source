@@ -1,5 +1,7 @@
 # 坦露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanlu.md)
+
 <p><span class="chinese">这就好比他一丝不挂的坦露在我面前，而我却是隐形的。</span><span class="english">He was naked. I was not.</span></p>
 
 <p><span class="chinese">“如何向明月坦露心声”与“我本将心向明月”意境不同。</span><span class="english">How I'd lay bare my heart to the moon bright!</span></p>

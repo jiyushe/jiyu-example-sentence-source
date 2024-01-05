@@ -1,5 +1,7 @@
 # 正规军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengguijun.md)
+
 <p><span class="chinese">可这33家“北京人家”只是北京民宿中为数不多的“正规军”。</span><span class="english">The 33 Beijing people " " Beijing B & B in just a few " regular army ".</span></p>
 
 <p><span class="chinese">一般说来，不从正规军里抽出入人来做骨干，便很难发动群众拿起武器。</span><span class="english">Without support of a few regular troops, the people generally are not encouraged to take up arms.</span></p>

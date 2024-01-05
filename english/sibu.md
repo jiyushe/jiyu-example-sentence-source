@@ -1,5 +1,7 @@
 # sibu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sibu.md)
+
 <p><span class="chinese">诗巫的一小步。</span><span class="english">One small step in Sibu.</span></p>
 
 <p><span class="chinese">食补平安，养身体，壮阳药伤身体。</span><span class="english">Sibu peace, raise the body, bodily injury aphrodisiac.</span></p>

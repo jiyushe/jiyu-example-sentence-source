@@ -1,5 +1,7 @@
 # 新大陆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xindalu.md)
+
 <p><span class="chinese">这就是哥伦布发现新大陆航行的海道。</span><span class="english">They achieved this long before Columbus ever set sail.</span></p>
 
 <p><span class="chinese">在北美洲北部繁殖的新大陆杓鹬。</span><span class="english">New World curlew that breeds in northern North America.</span></p>

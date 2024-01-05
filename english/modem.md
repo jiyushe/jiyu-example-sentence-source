@@ -1,5 +1,7 @@
 # modem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modem.md)
+
 <p><span class="chinese">你的调制解调器够快吗？</span><span class="english">Is your modem fast enough?</span></p>
 
 <p><span class="chinese">虚拟调制解调器协议?。</span><span class="english">VMP? Virtual Modem Protocol?</span></p>

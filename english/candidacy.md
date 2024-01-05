@@ -1,5 +1,7 @@
 # candidacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candidacy.md)
+
 <p><span class="chinese">他们高声谈论竞选问题。</span><span class="english">They were yammering away about candidacy.</span></p>
 
 <p><span class="chinese">然而，利文斯通当选也有很多不足。</span><span class="english">Still, there are drawbacks to a Livingstone candidacy.</span></p>

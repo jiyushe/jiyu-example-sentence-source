@@ -1,5 +1,7 @@
 # docket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/docket.md)
+
 <p><span class="chinese">关于安娜。妮可。史密斯的官司分别在两个法庭审理。</span><span class="english">Anna Nicole Smith is on the docket in two courtrooms.</span></p>
 
 <p><span class="chinese">她能说出许多无限期分居案例的案卷摘要。</span><span class="english">She can cite a docket of cases of endless separation.</span></p>

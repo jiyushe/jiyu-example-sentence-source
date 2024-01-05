@@ -1,5 +1,7 @@
 # 性急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingji_1.md)
+
 <p><span class="chinese">你太性急了。</span><span class="english">You are impatient.</span></p>
 
 <p><span class="chinese">请你不必这样性急。</span><span class="english">Not so hasty, if you please.</span></p>

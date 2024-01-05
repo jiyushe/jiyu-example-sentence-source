@@ -1,5 +1,7 @@
 # 失灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiling.md)
+
 <p><span class="chinese">车闸失灵了。</span><span class="english">The brake doesn't grip properly.</span></p>
 
 <p><span class="chinese">他的车闸在陡峭的山路上失灵了。</span><span class="english">His brakes failed on a steep hill.</span></p>

@@ -1,5 +1,7 @@
 # 下辈子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiabeizi.md)
+
 <p><span class="chinese">下辈子开始。</span><span class="english">Next life started.</span></p>
 
 <p><span class="chinese">“也许下辈子吧，”他说。</span><span class="english">“Maybe next life, ” he said.</span></p>

@@ -1,5 +1,7 @@
 # 新闻记者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinwenjizhe.md)
+
 <p><span class="chinese">他是一个美国新闻记者。</span><span class="english">He is an American news reporter.</span></p>
 
 <p><span class="chinese">他假装新闻记者混了进去。</span><span class="english">He posed as a newsman to get in.</span></p>

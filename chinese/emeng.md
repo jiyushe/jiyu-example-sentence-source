@@ -1,5 +1,7 @@
 # 噩梦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/emeng.md)
+
 <p><span class="chinese">他在做着噩梦。</span><span class="english">He is having a nightmare.</span></p>
 
 <p><span class="chinese">也可能是噩梦的世界。</span><span class="english">Maybe it's a nightmare world.</span></p>

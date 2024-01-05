@@ -1,5 +1,7 @@
 # 尔格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erge_2.md)
+
 <p><span class="chinese">多少人同意比尔•巴尔格的立场？</span><span class="english">the position of Billy Bulger?</span></p>
 
 <p><span class="chinese">米尔格林姆有惊人的想象力。</span><span class="english">Milgram had a powerful imagination.</span></p>

@@ -1,5 +1,7 @@
 # 全家福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanjiafu.md)
+
 <p><span class="chinese">我可以看一下你的全家福吗?。</span><span class="english">Can Ithe photos of your family?</span></p>
 
 <p><span class="chinese">我想照张全家福。</span><span class="english">I wanna take a family portrait.</span></p>

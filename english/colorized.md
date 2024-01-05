@@ -1,5 +1,7 @@
 # colorized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorized.md)
+
 <p><span class="chinese">以下是着色之后的乌奴奴</span><span class="english">Here's Uluru after being colorized</span></p>
 
 <p><span class="chinese">本文主要介绍彩色视觉系统的设计与实现。</span><span class="english">The colorized vision system is mainly introduced in this paper.</span></p>

@@ -1,5 +1,7 @@
 # to
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/to.md)
+
 <p><span class="chinese">我选择这样做。</span><span class="english">I chose to.</span></p>
 
 <p><span class="chinese">任其流动。</span><span class="english">To just be.</span></p>

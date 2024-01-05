@@ -1,5 +1,7 @@
 # cropland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cropland.md)
+
 <p><span class="chinese">“股田制”是一条路子。</span><span class="english">"Cropland is made " it is a way.</span></p>
 
 <p><span class="chinese">太田痣是否可治疗彻底？</span><span class="english">Too is cropland mole medicable complete?</span></p>

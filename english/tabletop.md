@@ -1,5 +1,7 @@
 # tabletop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tabletop.md)
+
 <p><span class="chinese">把一个念头想象成一张桌面。</span><span class="english">Imagine an idea as a tabletop.</span></p>
 
 <p><span class="chinese">这个桌面能擦得很亮。</span><span class="english">This tabletop polished up nicely.</span></p>

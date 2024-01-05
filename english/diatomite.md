@@ -1,5 +1,7 @@
 # diatomite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diatomite.md)
+
 <p><span class="chinese">可不断地加入硅藻土。</span><span class="english">Diatomite may be continuously added.</span></p>
 
 <p><span class="chinese">过滤设备以烛式硅藻土过滤机为好。</span><span class="english">The candle type diatomite filter is most ideal.</span></p>

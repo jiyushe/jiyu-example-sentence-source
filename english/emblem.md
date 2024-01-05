@@ -1,5 +1,7 @@
 # emblem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emblem.md)
+
 <p><span class="chinese">那是世博会的会徽吗?</span><span class="english">Is that the Expo emblem?</span></p>
 
 <p><span class="chinese">关于世界卫生组织会徽的进一步信息</span><span class="english">Further information on the WHO emblem</span></p>

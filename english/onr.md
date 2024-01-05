@@ -1,5 +1,7 @@
 # onr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onr.md)
+
 <p><span class="chinese">那是一部极端有趣的电视剧。</span><span class="english">That is a helpful TV thedined onr.</span></p>
 
 <p><span class="chinese">许多年老人在追求那个姑娘。</span><span class="english">Many young men are running ldined onr girl.</span></p>

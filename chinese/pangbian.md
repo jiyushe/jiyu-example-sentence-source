@@ -1,5 +1,7 @@
 # 旁边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangbian.md)
+
 <p><span class="chinese">坐在我旁边。</span><span class="english">Sit down beside me.</span></p>
 
 <p><span class="chinese">我睡在他旁边的铺位。</span><span class="english">I berthed beside him.</span></p>

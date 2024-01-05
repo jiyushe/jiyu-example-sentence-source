@@ -1,5 +1,7 @@
 # reimbursement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reimbursement.md)
+
 <p><span class="chinese">“，”偿付一个退单。“</span><span class="english">Reimbursement for a chargeback.</span></p>
 
 <p><span class="chinese">你需要上交所有要报销的单据。</span><span class="english">You need all your receipts for reimbursement.</span></p>

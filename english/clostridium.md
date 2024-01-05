@@ -1,5 +1,7 @@
 # clostridium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clostridium.md)
+
 <p><span class="chinese">肉毒杆菌毒谢特征气体。</span><span class="english">Clostridium botulinum is gas production.</span></p>
 
 <p><span class="chinese">它是由一种叫肉毒杆菌的细菌合成。</span><span class="english">It is made by a bacterium called Clostridium botulinum.</span></p>

@@ -1,5 +1,7 @@
 # been
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/been.md)
+
 <p><span class="chinese">我上当了!</span><span class="english">I've been diddled!</span></p>
 
 <p><span class="chinese">我有爱人了，玛姬，我有爱人了。</span><span class="english">I've been in love.</span></p>

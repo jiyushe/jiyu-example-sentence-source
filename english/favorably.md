@@ -1,5 +1,7 @@
 # favorably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favorably.md)
+
 <p><span class="chinese">他新写的小说获得好评。</span><span class="english">His new novel has been favorably reviewed.</span></p>
 
 <p><span class="chinese">投资者似乎对这个消息的反应良好。</span><span class="english">Investors appeared to react favorably to the news.</span></p>

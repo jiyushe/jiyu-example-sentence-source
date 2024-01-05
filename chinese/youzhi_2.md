@@ -1,5 +1,7 @@
 # 有志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzhi_2.md)
+
 <p><span class="chinese">鸟贵有翼，人贵有志。</span><span class="english">Birds have wings, people have ambition.</span></p>
 
 <p><span class="chinese">有志不在年高，无志空长百岁。</span><span class="english">Are not in high, no ambition empty long age.</span></p>

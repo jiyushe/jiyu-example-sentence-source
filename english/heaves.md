@@ -1,5 +1,7 @@
 # heaves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heaves.md)
+
 <p><span class="chinese">他长吁一口气。</span><span class="english">He heaves a sigh.</span></p>
 
 <p><span class="chinese">船随着波浪颠簸。</span><span class="english">The ship heaves with wave.</span></p>

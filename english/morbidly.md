@@ -1,5 +1,7 @@
 # morbidly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morbidly.md)
+
 <p><span class="chinese">德国病态地兴奋，并失去平衡。</span><span class="english">Germany was morbidly overexcited and unbalanced.</span></p>
 
 <p><span class="chinese">当BMI大于40时就可认为是病态的肥胖。</span><span class="english">A person with a BMI of oer 40 is considered morbidly obese.</span></p>

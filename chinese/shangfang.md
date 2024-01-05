@@ -1,5 +1,7 @@
 # 上房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangfang.md)
+
 <p><span class="chinese">蟋蟀上房叫，庄稼挨水泡。</span><span class="english">Cricket is built by blisters, crops.</span></p>
 
 <p><span class="chinese">请在这里签名并写上房号，先生。</span><span class="english">Please sign here and write down your room number, sir.</span></p>

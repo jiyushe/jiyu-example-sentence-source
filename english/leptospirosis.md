@@ -1,5 +1,7 @@
 # leptospirosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leptospirosis.md)
+
 <p><span class="chinese">也许从来也没人听说过钩端螺旋体病是最常见的疾病。</span><span class="english">Leptospirosis may be the most common disease no one has ever heard of.</span></p>
 
 <p><span class="chinese">钩端螺旋体病由致病性螺旋体引起。</span><span class="english">Leptospirosis is an infectious disease caused by pathogenic spirochetes.</span></p>

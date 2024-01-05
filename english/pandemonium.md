@@ -1,5 +1,7 @@
 # pandemonium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pandemonium.md)
+
 <p><span class="chinese">这个群魔堡垒真是一个奇迹。</span><span class="english">This Pandemonium Fortress is truly miraculous.</span></p>
 
 <p><span class="chinese">这消息一宣布，立即乱成一片。</span><span class="english">Pandemonium broke out when the news was announced.</span></p>

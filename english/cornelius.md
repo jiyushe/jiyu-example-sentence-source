@@ -1,5 +1,7 @@
 # cornelius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornelius.md)
+
 <p><span class="chinese">哥尼流•塔西佗是罗马历史学家，生活在大约公元56-120年间。</span><span class="english">Cornelius Tacitus was a Roman historian who lived circa 56-120 AD.</span></p>
 
 <p><span class="chinese">科尔内利乌斯。西庇阿在西班牙阵亡后不久，尼禄继任。</span><span class="english">After Publius Cornelius Scipio was killed in Spain, Nero took over not that long afterwards.</span></p>

@@ -1,5 +1,7 @@
 # troche
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troche.md)
+
 <p><span class="chinese">研究该片剂的抗氧化作用。</span><span class="english">The antioxidative effects of the troche were studied.</span></p>
 
 <p><span class="chinese">本发明公开了具有多元醇分子的缓慢溶解锭剂。</span><span class="english">A slow-dissolving troche with polyol molecules is disclosed.</span></p>

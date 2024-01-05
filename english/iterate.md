@@ -1,5 +1,7 @@
 # iterate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iterate.md)
+
 <p><span class="chinese">我们重申对同仁堂科技的“买入”评级。</span><span class="english">We iterate our "Buy" rating for TRTT.</span></p>
 
 <p><span class="chinese">迭代的是人，递归的是神。</span><span class="english">To iterate is human, to recurse divine.</span></p>

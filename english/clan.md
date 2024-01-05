@@ -1,5 +1,7 @@
 # clan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clan.md)
+
 <p><span class="chinese">我是一名月光族。</span><span class="english">I'm a moonlight clan.</span></p>
 
 <p><span class="chinese">在你们国家有战队吗？</span><span class="english">You do your country a clan?</span></p>

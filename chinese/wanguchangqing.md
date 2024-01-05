@@ -1,5 +1,7 @@
 # 万古长青
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanguchangqing.md)
+
 <p><span class="chinese">万古长青的理性的纪念物。</span><span class="english">Monuments of unageing intellect.</span></p>
 
 <p><span class="chinese">愿我们的友谊万古长青！</span><span class="english">May our friendship be ever green!</span></p>

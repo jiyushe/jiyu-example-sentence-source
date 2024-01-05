@@ -1,5 +1,7 @@
 # improved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improved.md)
+
 <p><span class="chinese">我的棋艺有了很大的提高。</span><span class="english">My chess has improved a lot.</span></p>
 
 <p><span class="chinese">那部车已改良了很多。</span><span class="english">The car is very much improved.</span></p>

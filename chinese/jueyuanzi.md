@@ -1,5 +1,7 @@
 # 绝缘子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueyuanzi.md)
+
 <p><span class="chinese">火花塞是由不锈钢与可丽耐绝缘子。</span><span class="english">The spark plugs are from stainless steel with a corian insulator.</span></p>
 
 <p><span class="chinese">这种偏移电流的典型来源是绝缘子和电缆。</span><span class="english">Typical sources of such offset currents are insulators and cables.</span></p>

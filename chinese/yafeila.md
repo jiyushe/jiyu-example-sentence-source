@@ -1,5 +1,7 @@
 # 亚非拉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yafeila.md)
+
 <p><span class="chinese">欧美没有变矮，但亚非拉长高了。</span><span class="english">Europe does not grow shorter, but the Asian-African elongated high.</span></p>
 
 <p><span class="chinese">一些亚非拉和东欧等国家的使馆也被安置在这里。</span><span class="english">Some embassies of Asian-African-Latin countries and East-Europe also situate here.</span></p>

@@ -1,5 +1,7 @@
 # admirably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admirably.md)
+
 <p><span class="chinese">他是个令人赞赏的主人。</span><span class="english">He does the host admirably.</span></p>
 
 <p><span class="chinese">他世界语讲得极好。</span><span class="english">He speaks Esperanto admirably.</span></p>

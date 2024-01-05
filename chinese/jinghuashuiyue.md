@@ -1,5 +1,7 @@
 # 镜花水月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinghuashuiyue.md)
+
 <p><span class="chinese">成就不过是镜花水月？</span><span class="english">That achievement is at bottom empty?</span></p>
 
 <p><span class="chinese">过去就是过去了，不要留恋镜花水月。</span><span class="english">The past is the past, don't miss nothing else.</span></p>

@@ -1,5 +1,7 @@
 # 老太婆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laotaipo.md)
+
 <p><span class="chinese">老太婆果然有了一只新木盆。</span><span class="english">He had a new woman tub.</span></p>
 
 <p><span class="chinese">老太婆，为什么不快点走！</span><span class="english">Carline, why to go quickly!</span></p>

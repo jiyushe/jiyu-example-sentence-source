@@ -1,5 +1,7 @@
 # interstellar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interstellar.md)
+
 <p><span class="chinese">为何他们要打击我们对星际旅行抱有的信心？</span><span class="english">Why don't they want us to believe in interstellar travel?</span></p>
 
 <p><span class="chinese">科学家相信四年内它将进入星际空间</span><span class="english">Scientists think it will enter interstellar space in about four years.</span></p>

@@ -1,5 +1,7 @@
 # eulogy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eulogy.md)
+
 <p><span class="chinese">妹妹对史蒂夫·乔布斯的悼文</span><span class="english">A Sister’s Eulogy for Steve Jobs</span></p>
 
 <p><span class="chinese">他们连悼词也不发.</span><span class="english">They won't even deliver a eulogy.</span></p>

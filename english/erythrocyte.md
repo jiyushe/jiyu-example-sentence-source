@@ -1,5 +1,7 @@
 # erythrocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erythrocyte.md)
+
 <p><span class="chinese">纤维海泡石对红细胞有毒性。</span><span class="english">Fibrous sepiolite has cytotoxicity to human erythrocyte.</span></p>
 
 <p><span class="chinese">M6所对应的区域可能就是P195蛋白的红细胞结合区域。</span><span class="english">M6 may be the binding region of P195 to human erythrocyte.</span></p>

@@ -1,5 +1,7 @@
 # facade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facade.md)
+
 <p><span class="chinese">那栋房子有石造的建筑物之正面。</span><span class="english">The house has a stone facade.</span></p>
 
 <p><span class="chinese">是基础还是门面？</span><span class="english">A foundation or just a facade?</span></p>

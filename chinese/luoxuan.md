@@ -1,5 +1,7 @@
 # 落选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luoxuan.md)
+
 <p><span class="chinese">他自己就长年是诺贝尔和平奖落选者。</span><span class="english">He himself is a perennial Nobel also-ran.</span></p>
 
 <p><span class="chinese">我拿200英镑和她打赌，说她在选举中肯定落选。</span><span class="english">I bet her ￡200 that she would lose the vote.</span></p>

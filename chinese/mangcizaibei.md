@@ -1,5 +1,7 @@
 # 芒刺在背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangcizaibei.md)
+
 <p><span class="chinese">她感觉芒刺在背。</span><span class="english">She feels prickles down her back.</span></p>
 
 <p><span class="chinese">此刻，将军只觉得粮官让他感到芒刺在背。</span><span class="english">The general now feels the quartermaster to be a thorn in his side.</span></p>

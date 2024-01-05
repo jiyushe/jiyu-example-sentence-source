@@ -1,5 +1,7 @@
 # expressional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expressional.md)
+
 <p><span class="chinese">语言是文化的表现形式。</span><span class="english">Language is the expressional form of culture.</span></p>
 
 <p><span class="chinese">抑郁症的表现症状是什么样?。</span><span class="english">Is the expressional symptom of depressed disease what kind of?</span></p>

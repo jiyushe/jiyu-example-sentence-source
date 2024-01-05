@@ -1,5 +1,7 @@
 # 见利忘义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianliwangyi.md)
+
 <p><span class="chinese">我不干这种见利忘义的事。</span><span class="english">To forsake good for the sake of gold is not for me.</span></p>
 
 <p><span class="chinese">观察观察一些见利忘义的密友，让我知道人不为己天诛地灭！</span><span class="english">Look around the selfish close friend , i know that a man lives only for itself!</span></p>

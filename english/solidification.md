@@ -1,5 +1,7 @@
 # solidification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solidification.md)
+
 <p><span class="chinese">阳光水一样地在玻璃窗里凝固着。</span><span class="english">Sunshine water in glass windows solidification with.</span></p>
 
 <p><span class="chinese">让她的笑容在刹那之间凝固？</span><span class="english">Let her smile at the moment between the solidification?</span></p>

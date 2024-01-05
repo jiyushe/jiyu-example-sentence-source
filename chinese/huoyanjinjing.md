@@ -1,5 +1,7 @@
 # 火眼金睛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoyanjinjing.md)
+
 <p><span class="chinese">火眼金睛也看不出你的虚伪。</span><span class="english">Piercing eye cannot see your hypocrisy.</span></p>
 
 <p><span class="chinese">让我们共同期望隐形眼睛可以帮助她们火眼金睛。</span><span class="english">Let's hope the lenses help them see more clearly.</span></p>

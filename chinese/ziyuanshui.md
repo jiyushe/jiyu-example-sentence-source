@@ -1,5 +1,7 @@
 # 资源税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyuanshui.md)
+
 <p><span class="chinese">土地使用税属于资源税类。</span><span class="english">Land used tax attribute resources tax.</span></p>
 
 <p><span class="chinese">推进资源税改革。</span><span class="english">We will carry forward the reform of resource taxes.</span></p>

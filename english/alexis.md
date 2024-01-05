@@ -1,5 +1,7 @@
 # alexis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alexis.md)
+
 <p><span class="chinese">但阿列克谢根本听不进去</span><span class="english">But Alexis doesn't get the point.</span></p>
 
 <p><span class="chinese">麦欧维克也不知道亚历克西斯在哪。</span><span class="english">Myovic does not know where Alexis is.</span></p>

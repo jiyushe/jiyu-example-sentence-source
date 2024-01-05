@@ -1,5 +1,7 @@
 # 有关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youguan.md)
+
 <p><span class="chinese">但是不管怎样，他既然说是有关爱情的，那就算是爱情的吧。</span><span class="english">Anyhow. About love.</span></p>
 
 <p><span class="chinese">我觉得这一定与钱有关。</span><span class="english">I snuffed the money.</span></p>

@@ -1,5 +1,7 @@
 # 赋役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyi.md)
+
 <p><span class="chinese">一条鞭法的颁行堪称中国赋役制度变迁历程中的一次重大变革。</span><span class="english">The implementation of One Lash Method was a great reform in Chinas tax system reform.</span></p>
 
 <p><span class="chinese">三是经济史研究，包括土地制度、税收制度、赋役制度、货币制度。</span><span class="english">Thirdly, the economic system such as the land system, tax system, and monetary system.</span></p>

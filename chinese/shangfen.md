@@ -1,5 +1,7 @@
 # 上坟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangfen.md)
+
 <p><span class="chinese">没人给他上坟怪可怜的。</span><span class="english">Did not give him strange people poor.</span></p>
 
 <p><span class="chinese">扫墓俗称上坟，祭奠死者的一种活动。</span><span class="english">This grave, the shrine of the dead an activity.</span></p>

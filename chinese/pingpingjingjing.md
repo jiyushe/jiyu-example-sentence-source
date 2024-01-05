@@ -1,5 +1,7 @@
 # 平平静静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingpingjingjing.md)
+
 <p><span class="chinese">一些野猫打扰了他平平静静的生活。</span><span class="english">Some wild cats disturbed his vegetable life.</span></p>
 
 <p><span class="chinese">简简单单而平平静静、这就是我想要的小幸福。</span><span class="english">Simple and calm, this is what I want happiness.</span></p>

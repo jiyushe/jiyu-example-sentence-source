@@ -1,5 +1,7 @@
 # 送交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songjiao.md)
+
 <p><span class="chinese">这封短信经由专人送交。</span><span class="english">The note was delivered by hand.</span></p>
 
 <p><span class="chinese">我必须把它送交给警察。</span><span class="english">I must hand it over to the police.</span></p>

@@ -1,5 +1,7 @@
 # maternal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maternal.md)
+
 <p><span class="chinese">母性会怎么样？</span><span class="english">How about maternal instincts?</span></p>
 
 <p><span class="chinese">遇见六叔和六舅。</span><span class="english">Met Sixth Uncle, and six maternal uncles.</span></p>

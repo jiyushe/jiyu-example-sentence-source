@@ -1,5 +1,7 @@
 # dot 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dot.md)
+
 <p><span class="chinese">亦称漏点。</span><span class="english">Also called Dot skip.</span></p>
 
 <p><span class="chinese">点亮生活的一点红。</span><span class="english">Where is your red dot?</span></p>

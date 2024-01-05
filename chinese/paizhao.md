@@ -1,5 +1,7 @@
 # 拍照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paizhao.md)
+
 <p><span class="chinese">我特怵拍照。</span><span class="english">I'm horribly camera shy.</span></p>
 
 <p><span class="chinese">给她们的脚丫子各种拍照。</span><span class="english">Take pictures of their feet.</span></p>

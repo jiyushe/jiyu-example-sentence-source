@@ -1,5 +1,7 @@
 # coda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coda.md)
+
 <p><span class="chinese">前奏与后奏首尾呼应。</span><span class="english">The prelude and coda echo from beginning to end.</span></p>
 
 <p><span class="chinese">哲戈最后乐章得完结部湜引用两戈忍道主义者得话。</span><span class="english">The coda to this last movement is borrowed from two humanists.</span></p>

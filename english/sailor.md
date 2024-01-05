@@ -1,5 +1,7 @@
 # sailor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sailor.md)
+
 <p><span class="chinese">她戴着顶水手帽。</span><span class="english">She wears a sailor hat.</span></p>
 
 <p><span class="chinese">那水手离船上岸。</span><span class="english">The sailor went ashore.</span></p>

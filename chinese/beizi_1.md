@@ -1,5 +1,7 @@
 # 辈子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beizi_1.md)
+
 <p><span class="chinese">我承认，我就是一个自寻烦恼的人，我这辈子都是这样。</span><span class="english">I admit it. I’m a worrywart.</span></p>
 
 <p><span class="chinese">“我总算这辈子没有白活”。阿们！</span><span class="english">I have not lived in vain. ' Amen!</span></p>

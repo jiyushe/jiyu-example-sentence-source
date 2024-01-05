@@ -1,5 +1,7 @@
 # kanagawa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kanagawa.md)
+
 <p><span class="chinese">学生最远的来自神奈川县的藤泽。</span><span class="english">Students come from as far away as Fujisawa, Kanagawa Prefecture.</span></p>
 
 <p><span class="chinese">学生最远的来自神奈川县的藤泽。</span><span class="english">Students come from as far away as fujisawa , kanagawa prefecture.</span></p>

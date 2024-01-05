@@ -1,5 +1,7 @@
 # 嘁嘁喳喳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqizhazha.md)
+
 <p><span class="chinese">他总是嘁嘁喳喳讲个不停。</span><span class="english">He's always twittering on.</span></p>
 
 <p><span class="chinese">小鸟在林间嘁嘁喳喳地叫。</span><span class="english">Birds twittered in the trees.</span></p>

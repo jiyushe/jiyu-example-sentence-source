@@ -1,5 +1,7 @@
 # 高峻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojun_1.md)
+
 <p><span class="chinese">艾伦是一个非常高峻的男孩。</span><span class="english">Allen is a very tall boy.</span></p>
 
 <p><span class="chinese">你是雄伟高峻的山。</span><span class="english">You're an eagle flying high.</span></p>

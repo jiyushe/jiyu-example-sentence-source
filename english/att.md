@@ -1,5 +1,7 @@
 # att
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/att.md)
+
 <p><span class="chinese">你可以告诉我ATT对方付款的号码吗？</span><span class="english">Could you tell me the ATT collecting call number ?</span></p>
 
 <p><span class="chinese">条约应具有普遍性、客观性和非歧视性。</span><span class="english">The ATT should be universal, objective and non-discriminatory.</span></p>

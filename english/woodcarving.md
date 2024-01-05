@@ -1,5 +1,7 @@
 # woodcarving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodcarving.md)
+
 <p><span class="chinese">玛斯是该岛著名的木雕中心。</span><span class="english">Masi island is famous woodcarving centre.</span></p>
 
 <p><span class="chinese">老威尔斯人精于木雕。</span><span class="english">The old Welshman was skillful in woodcarving.</span></p>

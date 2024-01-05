@@ -1,5 +1,7 @@
 # speculum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speculum.md)
+
 <p><span class="chinese">注意边缘的窥器是尖锐的。</span><span class="english">Note the edge of the speculum is sharp.</span></p>
 
 <p><span class="chinese">然后，慢慢的把检查镜插入耳道。</span><span class="english">Then, insert the speculum gently into the ear canal.</span></p>

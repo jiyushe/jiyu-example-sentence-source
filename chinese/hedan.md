@@ -1,5 +1,7 @@
 # 核弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hedan.md)
+
 <p><span class="chinese">他想用核弹轰掉那个地区。</span><span class="english">He wanted to nuke the area.</span></p>
 
 <p><span class="chinese">世界应该禁止核弹。</span><span class="english">World should bann the nuclear bombs.</span></p>

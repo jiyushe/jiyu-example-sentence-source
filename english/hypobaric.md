@@ -1,5 +1,7 @@
 # hypobaric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypobaric.md)
+
 <p><span class="chinese">讨论了减压贮藏研究和应用中存在的问题，展望了其发展前景。</span><span class="english">The problems and prospect of hypobaric storage are discussed as well.</span></p>
 
 <p><span class="chinese">从而有效地保持了膜完整性、减缓衰老进程、大幅延长贮藏时间。</span><span class="english">The hypobaric storage is a effective method of prolonging the shelf life of bamboo shoots.</span></p>

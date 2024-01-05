@@ -1,5 +1,7 @@
 # 草皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caopi.md)
+
 <p><span class="chinese">我削起一大块草皮。</span><span class="english">I takes a big divot.</span></p>
 
 <p><span class="chinese">济南租草皮?。</span><span class="english">Does Jinan rent a sward?</span></p>

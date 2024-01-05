@@ -1,5 +1,7 @@
 # 加减
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiajian.md)
+
 <p><span class="chinese">是21。35，加减0。</span><span class="english">That is 21.35, plus or minus .03.</span></p>
 
 <p><span class="chinese">连富幻想的心也不能加减丝毫。</span><span class="english">Want nothing that the thought of hearts can mend.</span></p>

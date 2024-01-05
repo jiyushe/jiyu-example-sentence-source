@@ -1,5 +1,7 @@
 # doubletree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doubletree.md)
+
 <p><span class="chinese">我被穿梭巴士送到市中心的Doubletree酒店。</span><span class="english">I was sent by shuttle bus to Doubletree Hotel in the downtown.</span></p>
 
 <p><span class="chinese">赶快加入我们一起感受上海东锦江希尔顿逸林酒店提供的全新体验吧！</span><span class="english">Join us and experience the new DoubleTree by Hilton Shanghai – Pudong.</span></p>

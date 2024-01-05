@@ -1,5 +1,7 @@
 # tenacity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenacity.md)
+
 <p><span class="chinese">睡眠和韧度设置。</span><span class="english">The sleep and tenacity settings.</span></p>
 
 <p><span class="chinese">显示出生命的顽强不屈。</span><span class="english">Shown unyielding tenacity of life.</span></p>

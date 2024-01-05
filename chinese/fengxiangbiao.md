@@ -1,5 +1,7 @@
 # 风向标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengxiangbiao.md)
+
 <p><span class="chinese">他抬起头看风向标。</span><span class="english">He looked up at the weathercock.</span></p>
 
 <p><span class="chinese">气象风向标在冬季经常僵立不动。</span><span class="english">In winter the weathervane often freezes up.</span></p>

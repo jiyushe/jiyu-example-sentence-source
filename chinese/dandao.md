@@ -1,5 +1,7 @@
 # 单刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dandao.md)
+
 <p><span class="chinese">数控铣床上的单刀架。</span><span class="english">Single-tool holder within a CNC mill.</span></p>
 
 <p><span class="chinese">配备有单刀夹持器的数控铣床。</span><span class="english">CNC mill equipped with a single-tool holder.</span></p>

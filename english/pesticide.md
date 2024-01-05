@@ -1,5 +1,7 @@
 # pesticide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pesticide.md)
+
 <p><span class="chinese">厂内没有发现杀虫剂。</span><span class="english">No pesticide was found in the plant.</span></p>
 
 <p><span class="chinese">避免灭虫剂对人体的危害。</span><span class="english">To avoid pesticide hazards to humans.</span></p>

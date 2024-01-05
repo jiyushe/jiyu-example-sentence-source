@@ -1,5 +1,7 @@
 # deconvolution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deconvolution.md)
+
 <p><span class="chinese">卷积反演是卷积的逆运算。</span><span class="english">Deconvolution is the inverse algorithm of convolution.</span></p>
 
 <p><span class="chinese">因此，对可控震源资料做零相位反褶积处理是合适的。</span><span class="english">Therefore, zero phase deconvolution is suitable for vibroseis data.</span></p>

@@ -1,5 +1,7 @@
 # dinnerware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dinnerware.md)
+
 <p><span class="chinese">我们有餐具出售。</span><span class="english">We are having a sale on dinnerware.</span></p>
 
 <p><span class="chinese">除了人们以外，一些正餐餐具居住在这座城镇。</span><span class="english">In addition to people, some dinnerware lived in the town.</span></p>

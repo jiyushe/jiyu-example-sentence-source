@@ -1,5 +1,7 @@
 # freon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freon.md)
+
 <p><span class="chinese">这样，氟里昂可以被反复不断地使用。</span><span class="english">Freon could be used over and over again.</span></p>
 
 <p><span class="chinese">未来的制冷剂将不会使用氟利昂。</span><span class="english">Freon will not be used as refrigerant in the future.</span></p>

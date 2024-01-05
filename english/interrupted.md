@@ -1,5 +1,7 @@
 # interrupted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interrupted.md)
+
 <p><span class="chinese">他打断我的话。</span><span class="english">He interrupted me.</span></p>
 
 <p><span class="chinese">他不愿受人打扰。</span><span class="english">He hates being interrupted.</span></p>

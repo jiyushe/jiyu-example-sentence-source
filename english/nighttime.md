@@ -1,5 +1,7 @@
 # nighttime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nighttime.md)
+
 <p><span class="chinese">你晚上都做什么呢？</span><span class="english">What do you usually do at nighttime?</span></p>
 
 <p><span class="chinese">休斯敦仍然实行夜间宵禁。</span><span class="english">Houston remains under a nighttime curfew.</span></p>

@@ -1,5 +1,7 @@
 # flagrantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagrantly.md)
+
 <p><span class="chinese">他悍然漠视法律。</span><span class="english">He is flagrantly disregarding the law.</span></p>
 
 <p><span class="chinese">大多数例子都有让人难以忍受的偏差和错误。</span><span class="english">Most of it is flagrantly skewed or incorrect.</span></p>

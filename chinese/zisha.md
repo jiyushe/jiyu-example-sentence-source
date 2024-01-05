@@ -1,5 +1,7 @@
 # 自杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zisha.md)
+
 <p><span class="chinese">他自杀而亡。</span><span class="english">He took his own life.</span></p>
 
 <p><span class="chinese">陷入绝望的纳达尝试过自杀。</span><span class="english">Nada attempted suicide.</span></p>

@@ -1,5 +1,7 @@
 # 剩余产品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyuchanpin.md)
+
 <p><span class="chinese">我们今年不可能有剩余产品。</span><span class="english">We are unlikely to produce any surplus this year.</span></p>
 
 <p><span class="chinese">我们今年不可能有剩余产品。</span><span class="english">And Europe offered subsidies to help their farmers export surplus product.</span></p>

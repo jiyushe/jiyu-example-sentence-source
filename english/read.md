@@ -1,5 +1,7 @@
 # read 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/read.md)
+
 <p><span class="chinese">我读过它。</span><span class="english">I read it.</span></p>
 
 <p><span class="chinese">我有用功在读书。</span><span class="english">I try read.</span></p>

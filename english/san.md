@@ -1,5 +1,7 @@
 # san
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/san.md)
+
 <p><span class="chinese">这些是在圣安东尼奥。</span><span class="english">These are in San Antonios.</span></p>
 
 <p><span class="chinese">他本人于2005年从伯特利神学院毕业。</span><span class="english">Seminary San Diego in 2005.</span></p>

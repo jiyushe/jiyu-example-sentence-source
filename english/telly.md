@@ -1,5 +1,7 @@
 # telly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telly.md)
+
 <p><span class="chinese">他看电视。</span><span class="english">He watched telly.</span></p>
 
 <p><span class="chinese">你有告诉你他连小弟弟都切了吗?。</span><span class="english">Did I telly ou even his dick got sliced?</span></p>

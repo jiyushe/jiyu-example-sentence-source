@@ -1,5 +1,7 @@
 # 伤天害理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangtianhaili.md)
+
 <p><span class="chinese">我想帮你的忙，但是这牵涉到一桩伤天害理的事。</span><span class="english">I want to help, but there is a tyranny involved.</span></p>
 
 <p><span class="chinese">但人们如果为了钱去做伤天害理的事就不应该了。</span><span class="english">But people for money to do if the terrible thing shouldn't.</span></p>

@@ -1,5 +1,7 @@
 # serena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serena.md)
+
 <p><span class="chinese">你认为塞蕾娜威廉姆斯性感吗？</span><span class="english">IS SERENA WILLIAMS SEXY OR NOT?</span></p>
 
 <p><span class="chinese">难怪瑟琳娜把你给甩了。雪莉，你好啊。</span><span class="english">No wonder serena dumped you. Hello, shirley.</span></p>

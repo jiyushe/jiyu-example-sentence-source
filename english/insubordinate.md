@@ -1,5 +1,7 @@
 # insubordinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insubordinate.md)
+
 <p><span class="chinese">状态报告不顺眼。</span><span class="english">Status reports are seen as insubordinate.</span></p>
 
 <p><span class="chinese">很多教师不喜欢不服从的儿童。</span><span class="english">Many teachers dislike insubordinate children.</span></p>

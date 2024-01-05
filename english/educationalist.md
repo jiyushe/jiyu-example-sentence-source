@@ -1,5 +1,7 @@
 # educationalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/educationalist.md)
+
 <p><span class="chinese">经济学家、教育家。</span><span class="english">Tao Dayong, economist and educationalist.</span></p>
 
 <p><span class="chinese">姜传宗教授是一名建筑教育家和一级注册建筑师。</span><span class="english">Professor Chuanzong Jiang is an educationalist and 1 RA- PRC.</span></p>

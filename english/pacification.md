@@ -1,5 +1,7 @@
 # pacification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pacification.md)
+
 <p><span class="chinese">这项平定行动不断的加剧。</span><span class="english">These pacification operations continue to grow.</span></p>
 
 <p><span class="chinese">其目的是宗教安抚的波西米亚。</span><span class="english">Its object was the religious pacification of Bohemia.</span></p>

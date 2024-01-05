@@ -1,5 +1,7 @@
 # repricing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repricing.md)
+
 <p><span class="chinese">这些重新定价功能应该被用来决定符合资格的费用。</span><span class="english">These repricing features should be used to determine the eligible expense.</span></p>
 
 <p><span class="chinese">最后，本文亦发现放松重定价条件会使重定价选择权价格增加。</span><span class="english">We also find that the effect of relaxing the repricing term on the repriceable ESOs' value is positive.</span></p>

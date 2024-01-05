@@ -1,5 +1,7 @@
 # depreciable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depreciable.md)
+
 <p><span class="chinese">应计折旧的固定资产平均总值…</span><span class="english">Average total value of depreciable fixed assets n.</span></p>
 
 <p><span class="chinese">设立一个基金来替代折旧的资产。</span><span class="english">To establish a fund for replacing depreciable assets.</span></p>

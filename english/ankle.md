@@ -1,5 +1,7 @@
 # ankle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ankle.md)
+
 <p><span class="chinese">扣脚踝包。</span><span class="english">Buckled ankle wrap.</span></p>
 
 <p><span class="chinese">我的脚踝扭伤了。</span><span class="english">I twisted my ankle.</span></p>

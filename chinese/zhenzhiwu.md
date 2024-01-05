@@ -1,5 +1,7 @@
 # 针织物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhiwu.md)
+
 <p><span class="chinese">玻纤复丝经编针织物的用途。</span><span class="english">End uses of warp knitted fabrics from glass filament.</span></p>
 
 <p><span class="chinese">双钩针织物缝创造更多更快。</span><span class="english">The double crochet stitch creates more fabric faster.</span></p>

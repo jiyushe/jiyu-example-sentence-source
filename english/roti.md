@@ -1,5 +1,7 @@
 # roti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roti.md)
+
 <p><span class="chinese">在这三天里还没有售出的印度煎饼的数量是多少？</span><span class="english">How many roti canai were not sold in three days?</span></p>
 
 <p><span class="chinese">在这三天里还没有售出的印度煎饼的数量是多少？</span><span class="english">How many roti canai sold altogether in three days?</span></p>

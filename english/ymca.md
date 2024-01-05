@@ -1,5 +1,7 @@
 # ymca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ymca.md)
+
 <p><span class="chinese">观察你附近的区域是否有基督教青年会。</span><span class="english">See if your area has a YMCA.</span></p>
 
 <p><span class="chinese">我在基督教青年会教小朋友。</span><span class="english">I work at the YMCA with kids.</span></p>

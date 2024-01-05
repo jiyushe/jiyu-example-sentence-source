@@ -1,5 +1,7 @@
 # chemotherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemotherapy.md)
+
 <p><span class="chinese">我不想再一次接受化学治疗。</span><span class="english">I didn't want chemotherapy again.</span></p>
 
 <p><span class="chinese">化学治疗的可选方案有很多。</span><span class="english">There are many choices of chemotherapy.</span></p>

@@ -1,5 +1,7 @@
 # acoustical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acoustical.md)
+
 <p><span class="chinese">这里就有一个听觉的因素</span><span class="english">There's an acoustical reason for this.</span></p>
 
 <p><span class="chinese">韩华先跟大家打声招呼。</span><span class="english">Han Hua makes acoustical call with everybody first.</span></p>

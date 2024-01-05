@@ -1,5 +1,7 @@
 # molder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molder.md)
+
 <p><span class="chinese">学校可以培养人才，也可以毁灭人才。</span><span class="english">Not only a school can prosper education, but also molder education.</span></p>
 
 <p><span class="chinese">跟进新模具的加工流程并解决现场的所有问题。</span><span class="english">Follow up new molder machining process and solve all issues on site.</span></p>

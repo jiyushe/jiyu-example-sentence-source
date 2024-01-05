@@ -1,5 +1,7 @@
 # profiteering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profiteering.md)
+
 <p><span class="chinese">到了1987年，这种倒买倒卖的行为才被禁止。</span><span class="english">This profiteering was outlawed in 1987.</span></p>
 
 <p><span class="chinese">那些医院简直就是惟利是图。</span><span class="english">It is invidious profiteering those hospitals.</span></p>

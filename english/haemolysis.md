@@ -1,5 +1,7 @@
 # haemolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haemolysis.md)
+
 <p><span class="chinese">注意光疗不能防止溶血。</span><span class="english">Notice phototherapy cannot prevent haemolysis.</span></p>
 
 <p><span class="chinese">所以，溶血磷脂对红细胞具有潜在的损害作用。</span><span class="english">So, haemolysis phosphatide has potential harm to red blood cell action.</span></p>

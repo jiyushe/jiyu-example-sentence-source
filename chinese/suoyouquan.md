@@ -1,5 +1,7 @@
 # 所有权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoyouquan.md)
+
 <p><span class="chinese">晶圆厂的所有权是关键。</span><span class="english">Ownership of the fab is the key.</span></p>
 
 <p><span class="chinese">所有权，因此，今天是伟大的一天。</span><span class="english">Allright, so today is the big day.</span></p>

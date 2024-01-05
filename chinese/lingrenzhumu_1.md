@@ -1,5 +1,7 @@
 # 令人注目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingrenzhumu_1.md)
+
 <p><span class="chinese">毫无疑问，这是一个令人注目的故事。</span><span class="english">It is a compelling story, no doubt.</span></p>
 
 <p><span class="chinese">在这一问题上有很多令人注目的例子。</span><span class="english">There is plenty of compelling evidence.</span></p>

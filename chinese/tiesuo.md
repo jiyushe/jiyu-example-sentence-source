@@ -1,5 +1,7 @@
 # 铁索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiesuo.md)
+
 <p><span class="chinese">更多的红军蜂拥爬上了铁索。</span><span class="english">More reds now swarmed over the chains.</span></p>
 
 <p><span class="chinese">那条狗用铁索拴在柱子上了。</span><span class="english">The dog is fastened to the post by an iron chain.</span></p>

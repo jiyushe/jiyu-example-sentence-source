@@ -1,5 +1,7 @@
 # 帮衬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangchen.md)
+
 <p><span class="chinese">我哥哥时常赐顾帮衬我。</span><span class="english">My brother often takes care of me.</span></p>
 
 <p><span class="chinese">你应该好好赐顾帮衬你的眼睛。</span><span class="english">You should take good care of your eyes.</span></p>

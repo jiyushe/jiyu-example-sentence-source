@@ -1,5 +1,7 @@
 # crucian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crucian.md)
+
 <p><span class="chinese">如何养鲤鱼和鲫鱼最好？</span><span class="english">How to raise carp and crucian best?</span></p>
 
 <p><span class="chinese">形似鲫鱼，又称非洲鲫鱼。</span><span class="english">Like carp, crucian carp, also known as Africa.</span></p>

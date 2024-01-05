@@ -1,5 +1,7 @@
 # 蝰蛇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuishe.md)
+
 <p><span class="chinese">我们非常喜欢新的蝰蛇设计。</span><span class="english">We like the design of Viper overall.</span></p>
 
 <p><span class="chinese">蝰蛇是它们最怕的掠食者。</span><span class="english">Saw-scale vipers are their most feared predators.</span></p>

@@ -1,5 +1,7 @@
 # caption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caption.md)
+
 <p><span class="chinese">准备一个标题栏。</span><span class="english">Prepare a caption.</span></p>
 
 <p><span class="chinese">由丽贝卡·林赛加注。</span><span class="english">Caption by Rebecca Lindsey.</span></p>

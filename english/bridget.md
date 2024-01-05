@@ -1,5 +1,7 @@
 # bridget
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bridget.md)
+
 <p><span class="chinese">电话里亲亲你,真的,布丽姬特抽泣著.</span><span class="english">Kisses over the phone, indeed, Bridget sniffled.</span></p>
 
 <p><span class="chinese">布里奇特问他是否想查看一下那房屋。</span><span class="english">Bridget asked if he'd like to see over the house.</span></p>

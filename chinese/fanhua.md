@@ -1,5 +1,7 @@
 # 反话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanhua.md)
+
 <p><span class="chinese">希望大自然的力量甚于反话。</span><span class="english">Hopefully Mother Nature appreciates irony.</span></p>
 
 <p><span class="chinese">别说反话，你也知道只有我妈才会喜欢它。</span><span class="english">Drop the sarcasm. You know only my mom would love it.</span></p>

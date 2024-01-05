@@ -1,5 +1,7 @@
 # ultrapure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrapure.md)
+
 <p><span class="chinese">纯净水。超纯水等水处理。</span><span class="english">Pure water. Ultrapure water such as water treatment.</span></p>
 
 <p><span class="chinese">仅仅四年之后，全球首个超纯纤维就于1970年问世。</span><span class="english">The first ultrapure fiber was made just four years later, in 1970.</span></p>

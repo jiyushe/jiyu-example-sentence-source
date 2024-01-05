@@ -1,5 +1,7 @@
 # 空运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongyun.md)
+
 <p><span class="chinese">所有的东西都空运。</span><span class="english">All of the items were freighted by air.</span></p>
 
 <p><span class="chinese">悬挂椅子是从苏荷空运过来的。</span><span class="english">The hanging chair is from Aero in Soho.</span></p>

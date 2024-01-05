@@ -1,5 +1,7 @@
 # hydroxide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroxide.md)
+
 <p><span class="chinese">碱是金属的氢氧化物。</span><span class="english">A base is the hydroxide of a metal.</span></p>
 
 <p><span class="chinese">水解在氢氧化钠溶液中进行。</span><span class="english">Hydrolysis was going on in sodium hydroxide solution.</span></p>

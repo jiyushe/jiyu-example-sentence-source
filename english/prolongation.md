@@ -1,5 +1,7 @@
 # prolongation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prolongation.md)
+
 <p><span class="chinese">此时对生命的延伸应该是超越了繁殖。</span><span class="english">In this case, prolongation of life should trump reproduction.</span></p>
 
 <p><span class="chinese">既然这样，延长寿命就要重于繁衍后代。</span><span class="english">In this case, prolongation of life should trump reproduction.</span></p>

@@ -1,5 +1,7 @@
 # length 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/length.md)
+
 <p><span class="chinese">车长?。</span><span class="english">Vehicle Length?</span></p>
 
 <p><span class="chinese">儿童尺寸24“的长度。</span><span class="english">Child-sized 24" length."</span></p>

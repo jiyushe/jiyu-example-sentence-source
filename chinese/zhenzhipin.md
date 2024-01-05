@@ -1,5 +1,7 @@
 # 针织品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhipin.md)
+
 <p><span class="chinese">针织品部在哪里？</span><span class="english">Where is the knitwear department?</span></p>
 
 <p><span class="chinese">我们是购买男用针织品的老客户。</span><span class="english">We are regular buyers of men's knitwear.</span></p>

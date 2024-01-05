@@ -1,5 +1,7 @@
 # brocade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brocade.md)
+
 <p><span class="chinese">消光棉锦绸。</span><span class="english">Extinction cotton and silk brocade.</span></p>
 
 <p><span class="chinese">时不时的就在锦绣耳边唠叨。</span><span class="english">Often of loquacious in the rich brocade ear.</span></p>

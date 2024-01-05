@@ -1,5 +1,7 @@
 # 鲜为人知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianweirenzhi.md)
+
 <p><span class="chinese">这是一个鲜为人知的凄美的故事。</span><span class="english">This is a little-known story of the Qimei.</span></p>
 
 <p><span class="chinese">传记作者们善于发掘鲜为人知的事实。</span><span class="english">Biographers excel at dredging up little known facts.</span></p>

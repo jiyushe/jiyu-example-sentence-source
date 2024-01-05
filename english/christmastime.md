@@ -1,5 +1,7 @@
 # christmastime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christmastime.md)
+
 <p><span class="chinese">那是1925年的圣诞前后。</span><span class="english">It was Christmastime 1925.</span></p>
 
 <p><span class="chinese">斯德哥尔摩的圣诞时分。</span><span class="english">It's Christmastime in Stockholm.</span></p>

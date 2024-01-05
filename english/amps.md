@@ -1,5 +1,7 @@
 # amps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amps.md)
+
 <p><span class="chinese">放大器来了，他们走。</span><span class="english">Amps come, and they go.</span></p>
 
 <p><span class="chinese">茱莉亚说，“帮助那些因战争致残的人。</span><span class="english">Help an amputee with the War Amps.</span></p>

@@ -1,5 +1,7 @@
 # oma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oma.md)
+
 <p><span class="chinese">大都会建筑事务所的发言人证实了舍人的话。</span><span class="english">A spokesman for OMA confirmed Mr. Scheeren's remarks.</span></p>
 
 <p><span class="chinese">OMA的一位发言人称这次大火为“巨大的悲剧”。</span><span class="english">A spokesman for OMA called the fire "a great tragedy".</span></p>

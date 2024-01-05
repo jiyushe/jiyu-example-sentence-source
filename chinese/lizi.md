@@ -1,5 +1,7 @@
 # 梨子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizi.md)
+
 <p><span class="chinese">好多黄澄澄的梨子！</span><span class="english">So many yellow pears!</span></p>
 
 <p><span class="chinese">你已经吃了一个梨子。</span><span class="english">You have eaten a pear.</span></p>

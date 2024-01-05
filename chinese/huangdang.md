@@ -1,5 +1,7 @@
 # 晃荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangdang.md)
+
 <p><span class="chinese">小船在江面上晃荡。</span><span class="english">The small boat is rocking on the river.</span></p>
 
 <p><span class="chinese">水在船底晃晃荡荡的。</span><span class="english">Water was slopping around in the bottom of the boat.</span></p>

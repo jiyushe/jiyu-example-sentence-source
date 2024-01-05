@@ -1,5 +1,7 @@
 # alice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alice.md)
+
 <p><span class="chinese">艾丽斯问。</span><span class="english">Alice.</span></p>
 
 <p><span class="chinese">这是爱丽斯。</span><span class="english">This is Alice.</span></p>

@@ -1,5 +1,7 @@
 # 驻军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujun_1.md)
+
 <p><span class="chinese">岛上有大量的韩方驻军。</span><span class="english">The island has a large military garrison.</span></p>
 
 <p><span class="chinese">让我们把汉尼拔驻军的营地卖了吧。</span><span class="english">Let us sell the field on which Hannibal is encamped.</span></p>

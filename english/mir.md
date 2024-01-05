@@ -1,5 +1,7 @@
 # mir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mir.md)
+
 <p><span class="chinese">窗户对我来说是最重要的。</span><span class="english">Das Fenster ist mir am wichtigsten.</span></p>
 
 <p><span class="chinese">叫王先生明天到我这儿来。</span><span class="english">Herr Wang soll morgen zu mir kommen!</span></p>

@@ -1,5 +1,7 @@
 # psychologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychologic.md)
+
 <p><span class="chinese">我想这就是事故发生的心理根源。</span><span class="english">This is the psychologic root of accidents.</span></p>
 
 <p><span class="chinese">这种疲劳指的是心理学上的。</span><span class="english">This kind of fatigue is referred to as psychologic.</span></p>

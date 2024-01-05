@@ -1,5 +1,7 @@
 # nailing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nailing.md)
+
 <p><span class="chinese">那意味着明确地定下细节。</span><span class="english">That means nailing down the details.</span></p>
 
 <p><span class="chinese">但是，敲定这次谈话花了斯科蒂六个月的准备时间。</span><span class="english">Butt nailing the talk took months of preparation.</span></p>

@@ -1,5 +1,7 @@
 # ketosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ketosis.md)
+
 <p><span class="chinese">牛的酮病会有一种甜而令人讨厌的气味。</span><span class="english">There may be a sweet sickly smell of ketosis in cattle.</span></p>
 
 <p><span class="chinese">酮病是奶牛的一种重要的营养代谢病。</span><span class="english">Ketosis is a common nutrition metabolic disease of dairy cows.</span></p>

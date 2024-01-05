@@ -1,5 +1,7 @@
 # edible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edible.md)
+
 <p><span class="chinese">都是可食用的哦。</span><span class="english">All is edible.</span></p>
 
 <p><span class="chinese">毒菌是不能吃的。</span><span class="english">Toadstools are not edible.</span></p>

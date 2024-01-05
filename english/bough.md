@@ -1,5 +1,7 @@
 # bough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bough.md)
+
 <p><span class="chinese">河里漂着一个大树枝。</span><span class="english">A bough floats in the river.</span></p>
 
 <p><span class="chinese">你买的钢笔不能用。</span><span class="english">The pen you bough didn't work.</span></p>

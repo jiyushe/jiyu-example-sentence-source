@@ -1,5 +1,7 @@
 # adduction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adduction.md)
+
 <p><span class="chinese">保证一星期内收录。</span><span class="english">Make sure adduction is recorded one week.</span></p>
 
 <p><span class="chinese">握拳时多数是拇指内收。</span><span class="english">Make a fist when the majority of the thumb adduction.</span></p>

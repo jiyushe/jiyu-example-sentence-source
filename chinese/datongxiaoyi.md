@@ -1,5 +1,7 @@
 # 大同小异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/datongxiaoyi.md)
+
 <p><span class="chinese">他们都是大同小异的。</span><span class="english">They are all much of a muchness.</span></p>
 
 <p><span class="chinese">约翰和罗伯特穿着大同小异。</span><span class="english">John and Robert dressed much of a muchness.</span></p>

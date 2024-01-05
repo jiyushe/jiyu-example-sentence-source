@@ -1,5 +1,7 @@
 # defame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defame.md)
+
 <p><span class="chinese">不要诽谤人民。</span><span class="english">Don't defame people.</span></p>
 
 <p><span class="chinese">这些人利用谣言抹黑中国的企图决不会得逞。</span><span class="english">Their attempt to defame China will get nowhere.</span></p>

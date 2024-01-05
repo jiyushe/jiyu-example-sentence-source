@@ -1,5 +1,7 @@
 # volition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volition.md)
+
 <p><span class="chinese">他们出于自己的意志力才这么做。</span><span class="english">They did so of their own volition.</span></p>
 
 <p><span class="chinese">人的意志什么时候最坚强?。</span><span class="english">The person's volition when the firmest?</span></p>

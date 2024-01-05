@@ -1,5 +1,7 @@
 # workday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workday.md)
+
 <p><span class="chinese">像对待学习日一样对待每一个工作日。</span><span class="english">Treat every workday like a school day.</span></p>
 
 <p><span class="chinese">在公司上班的典型的工作日是什么样的？</span><span class="english">What was your typical workday like at the firm?</span></p>

@@ -1,5 +1,7 @@
 # unadorned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unadorned.md)
+
 <p><span class="chinese">甚至没有装饰的口罩销售也在增加。</span><span class="english">Even unadorned masks are selling.</span></p>
 
 <p><span class="chinese">他的作品朴实无华，非常动人。</span><span class="english">His works were simple , unadorned and very moving.</span></p>

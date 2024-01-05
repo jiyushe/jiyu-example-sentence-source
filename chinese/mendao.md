@@ -1,5 +1,7 @@
 # 门道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mendao.md)
+
 <p><span class="chinese">这其中有许多门道。</span><span class="english">Many useful studies up on this.</span></p>
 
 <p><span class="chinese">张先生赚钱总是很有门道。</span><span class="english">Helen always has the means of study.</span></p>

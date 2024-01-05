@@ -1,5 +1,7 @@
 # rampantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rampantly.md)
+
 <p><span class="chinese">在那时热天气经常会带来很多疾病，有的甚至是传染性很强的疾病。</span><span class="english">The hot weather used to bring various diseases, which could spread rampantly.</span></p>
 
 <p><span class="chinese">印度所有玩具店大肆出售便宜的中国玩具，完全不顾我们孩子的安全。</span><span class="english">All toy stores rampantly sell cheap Chinese toys imported without regards to safety of our children.</span></p>

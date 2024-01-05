@@ -1,5 +1,7 @@
 # ravage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ravage.md)
+
 <p><span class="chinese">你认为海洋和陆地将被破坏吗？</span><span class="english">Is it for you to ravage seas and land?</span></p>
 
 <p><span class="chinese">艾滋病毒和根深蒂固的贫穷蹂躏着人民.</span><span class="english">HIV and entrenched poverty ravage the population.</span></p>

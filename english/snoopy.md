@@ -1,5 +1,7 @@
 # snoopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snoopy.md)
+
 <p><span class="chinese">这是“查理布朗和史努比的表演”！</span><span class="english">It's 'The Charlie Brown and Snoopy Show'!</span></p>
 
 <p><span class="chinese">出售史努比洋娃娃对儿童没有好处。</span><span class="english">Seliing Snoopy dolls wasn't good for children.</span></p>

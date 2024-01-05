@@ -1,5 +1,7 @@
 # cholestasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cholestasis.md)
+
 <p><span class="chinese">PN支持中主要并发症有肠源性感染、淤胆等。</span><span class="english">Major complications of PN were enterogenous infection and cholestasis.</span></p>
 
 <p><span class="chinese">结论病理性黄疸患儿可能存在胆汁淤积。</span><span class="english">Conclusion Cholestasis probably exists in neonates with pathologic jaundice.</span></p>

@@ -1,5 +1,7 @@
 # 衣冠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiguan_1.md)
+
 <p><span class="chinese">表演者必须衣冠端正。</span><span class="english">Performers must be in neat and suitable attires.</span></p>
 
 <p><span class="chinese">大人们都是这个样子，以衣冠取人。</span><span class="english">The adults are like this, take people to the headgear.</span></p>

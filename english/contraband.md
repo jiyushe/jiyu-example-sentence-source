@@ -1,5 +1,7 @@
 # contraband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contraband.md)
+
 <p><span class="chinese">什么是禁运品，都包括什么？</span><span class="english">What does the contraband include?</span></p>
 
 <p><span class="chinese">非规定服装，违禁品。</span><span class="english">Non-regulation clothing, contraband.</span></p>

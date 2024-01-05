@@ -1,5 +1,7 @@
 # 签署
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianshu.md)
+
 <p><span class="chinese">重新签署组件。</span><span class="english">Re-sign the assembly.</span></p>
 
 <p><span class="chinese">但Blanco拒绝签署这一协议。</span><span class="english">Blanco refused to sign it.</span></p>

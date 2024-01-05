@@ -1,5 +1,7 @@
 # pressurization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pressurization.md)
+
 <p><span class="chinese">主缸加压装置。</span><span class="english">Kier pressurization device.</span></p>
 
 <p><span class="chinese">增压的量成为升压量。</span><span class="english">The amount of pressurization is called boost.</span></p>

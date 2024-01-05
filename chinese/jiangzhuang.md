@@ -1,5 +1,7 @@
 # 奖状
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangzhuang.md)
+
 <p><span class="chinese">你有得过什么奖励或者奖状么？</span><span class="english">Do you have any awards or commendations?</span></p>
 
 <p><span class="chinese">猜测正确的孩子将赢得一个奖状。</span><span class="english">Children who guessed right won a sticker prize.</span></p>

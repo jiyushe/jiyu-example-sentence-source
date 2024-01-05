@@ -1,5 +1,7 @@
 # regulus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regulus.md)
+
 <p><span class="chinese">JK说“雷古勒斯陷的有点太深了。</span><span class="english">JK tells us " Regulus got in a little too deep."</span></p>
 
 <p><span class="chinese">雷古勒斯是小天狼星布莱克的弟弟。</span><span class="english">Regulus was the younger brother of Sirius Black.</span></p>

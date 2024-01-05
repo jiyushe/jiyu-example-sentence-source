@@ -1,5 +1,7 @@
 # 作恶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoe.md)
+
 <p><span class="chinese">但能说是作恶吗？</span><span class="english">But is that evil?</span></p>
 
 <p><span class="chinese">恶人作恶，自造地狱。</span><span class="english">A wicked man is his own hell.</span></p>

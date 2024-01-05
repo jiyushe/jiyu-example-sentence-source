@@ -1,5 +1,7 @@
 # pawnbroking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pawnbroking.md)
+
 <p><span class="chinese">典当业是一个既古老而又新兴的行业。</span><span class="english">The pawnbroking is an old and new developing trade.</span></p>
 
 <p><span class="chinese">典当业在新时期越来越明显地具备了“第二银行”的功能。</span><span class="english">Traditional pawnbroking are taking a great change in new times.</span></p>

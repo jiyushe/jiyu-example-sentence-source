@@ -1,5 +1,7 @@
 # 情景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjing_1.md)
+
 <p><span class="chinese">我的确还记得当时的情景。</span><span class="english">I do remember.</span></p>
 
 <p><span class="chinese">我想问的是，当时是何种情景？</span><span class="english">I mean how did it go?</span></p>

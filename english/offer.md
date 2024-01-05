@@ -1,5 +1,7 @@
 # offer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offer.md)
+
 <p><span class="chinese">他对我的提议不屑一顾。</span><span class="english">He sniffed at my offer.</span></p>
 
 <p><span class="chinese">这是你们的最优惠价吗？</span><span class="english">Is that your best offer?</span></p>

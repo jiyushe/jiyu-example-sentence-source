@@ -1,5 +1,7 @@
 # amtrak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amtrak.md)
+
 <p><span class="chinese">当地的列车不和美国铁路客运公司的列车相连。</span><span class="english">The local train does not connect with the Amtrak train.</span></p>
 
 <p><span class="chinese">所以这就是为什么我呼吁创造一个特拉克没有骑列表。</span><span class="english">So that's why I'm calling for the creation of an Amtrak no ride list.</span></p>

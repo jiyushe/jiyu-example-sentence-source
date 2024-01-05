@@ -1,5 +1,7 @@
 # coring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coring.md)
+
 <p><span class="chinese">在取芯钻井井段，选用金刚石取芯钻头。</span><span class="english">Diamond coring bits are utilized for core drilling.</span></p>
 
 <p><span class="chinese">煤层颗粒疏松、岩心成柱性差，给取心工作带来了极大困难。</span><span class="english">Coring operation in coal seams is very difficult as they are very loose.</span></p>

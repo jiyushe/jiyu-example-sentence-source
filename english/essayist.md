@@ -1,5 +1,7 @@
 # essayist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/essayist.md)
+
 <p><span class="chinese">你把阿狄生列为哪一类散文家?。</span><span class="english">Where do you rank Addison as an essayist?</span></p>
 
 <p><span class="chinese">作为散文作家，他经常被比作佩因和黑兹利特。</span><span class="english">As an essayist he is compared frequently to paine and hazlitt.</span></p>

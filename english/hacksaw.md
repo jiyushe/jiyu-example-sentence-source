@@ -1,5 +1,7 @@
 # hacksaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hacksaw.md)
+
 <p><span class="chinese">最好用截管器，不过用钢锯也能凑合。</span><span class="english">A tube cutter works best but you can use a hacksaw.</span></p>
 
 <p><span class="chinese">PVC管材切割面板的扩散织物钢锯。</span><span class="english">Cut PVC pipe for diffusion panel fabric with a hacksaw.</span></p>

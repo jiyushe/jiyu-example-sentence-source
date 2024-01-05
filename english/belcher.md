@@ -1,5 +1,7 @@
 # belcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belcher.md)
+
 <p><span class="chinese">贝尔彻和她的研究小组以一种叫M13的无害病毒做实验。</span><span class="english">Belcher and her team took a harmless virus called M13.</span></p>
 
 <p><span class="chinese">接着，约万·贝克尔从教练和警方身旁走开。</span><span class="english">Jovan Belcher then walked away from the coach and from the police.</span></p>

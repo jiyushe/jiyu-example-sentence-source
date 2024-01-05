@@ -1,5 +1,7 @@
 # 铜板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongban_2.md)
+
 <p><span class="chinese">您将需要您自己的覆铜板。</span><span class="english">You will need your own CCL.</span></p>
 
 <p><span class="chinese">真连一个铜板都不值。</span><span class="english">Not a copper farthing's worth of it!</span></p>

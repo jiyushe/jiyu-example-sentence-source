@@ -1,5 +1,7 @@
 # 水势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuishi.md)
+
 <p><span class="chinese">水势汹涌。</span><span class="english">The current is turbulent.</span></p>
 
 <p><span class="chinese">对春小麦叶鞘、叶片和茎水势的变化情况进行了比较。</span><span class="english">Comparison of the water potentials of leaf, sheath and culm has done.</span></p>

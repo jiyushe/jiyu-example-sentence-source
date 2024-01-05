@@ -1,5 +1,7 @@
 # connect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connect.md)
+
 <p><span class="chinese">联系学校实习生。</span><span class="english">Connect school interns.</span></p>
 
 <p><span class="chinese">接发动机汽化器。</span><span class="english">Connect engine carburetor.</span></p>

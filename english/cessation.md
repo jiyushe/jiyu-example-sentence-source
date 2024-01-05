@@ -1,5 +1,7 @@
 # cessation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cessation.md)
+
 <p><span class="chinese">许多医学中心已戒烟诊所。</span><span class="english">Many medical centers have smoking cessation clinics.</span></p>
 
 <p><span class="chinese">这些明确的研究结果促使研究提前结束。</span><span class="english">These clear findings prompted early study cessation.</span></p>

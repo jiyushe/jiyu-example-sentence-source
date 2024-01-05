@@ -1,5 +1,7 @@
 # apprise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apprise.md)
+
 <p><span class="chinese">我将把情况告知你。</span><span class="english">I will apprise you of the situation.</span></p>
 
 <p><span class="chinese">文章最后对系统进行了简单评价。</span><span class="english">The simple apprise is given in the end of the paper.</span></p>

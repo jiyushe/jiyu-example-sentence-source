@@ -1,5 +1,7 @@
 # 门对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mendui.md)
+
 <p><span class="chinese">家住孟津河，门对孟津口。</span><span class="english">By the MengJing River my family resides.</span></p>
 
 <p><span class="chinese">事业之门对有才之人敞开---拿破仑。波拿巴。</span><span class="english">The career opens to talents---Napoleon Bonaparte, French emperor.</span></p>

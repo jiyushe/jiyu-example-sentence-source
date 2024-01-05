@@ -1,5 +1,7 @@
 # virulent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virulent.md)
+
 <p><span class="chinese">现在他面临着意大利媒体的恶毒攻击。</span><span class="english">Now he faces virulent attacks from the Italian media.</span></p>
 
 <p><span class="chinese">在某些人身上这类事会引起他们对黑皮肤的人的刻骨仇恨。</span><span class="english">It woke in some men a virulent hatred of a black skin.</span></p>

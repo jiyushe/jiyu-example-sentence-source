@@ -1,5 +1,7 @@
 # prednisolone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prednisolone.md)
+
 <p><span class="chinese">泼尼松龙能否作为痛风急性发作期的一线治疗药物？</span><span class="english">Should prednisolone be first-line therapy for acute gout?</span></p>
 
 <p><span class="chinese">免疫抑制剂包括环孢霉素、硫唑嘌呤和强的松龙。</span><span class="english">The immunosuppression consisted of cyclosporine, azathioprine , and prednisolone.</span></p>

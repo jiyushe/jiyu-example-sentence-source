@@ -1,5 +1,7 @@
 # clog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clog.md)
+
 <p><span class="chinese">会堵塞毛孔吗？</span><span class="english">Will it clog my pores?</span></p>
 
 <p><span class="chinese">阻塞，塞满，堆满。</span><span class="english">To block, congest, or clog.</span></p>

@@ -1,5 +1,7 @@
 # friable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/friable.md)
+
 <p><span class="chinese">易脆的岸散残迹。</span><span class="english">You friable shore with trails of debris.</span></p>
 
 <p><span class="chinese">疏松，易碎的土壤，富含腐殖质并适宜种植。</span><span class="english">Loose, friable soil, rich in humus and fit for planting.</span></p>

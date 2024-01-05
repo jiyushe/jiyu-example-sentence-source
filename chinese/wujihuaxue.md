@@ -1,5 +1,7 @@
 # 无机化学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujihuaxue.md)
+
 <p><span class="chinese">他是我的无机化学老师！</span><span class="english">He was my orgturn intoneficialic chem tepainfulnessr!</span></p>
 
 <p><span class="chinese">无机化学的基础很重要。</span><span class="english">The fundamentals of inorganic chemistry are very important.</span></p>

@@ -1,5 +1,7 @@
 # climatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/climatic.md)
+
 <p><span class="chinese">气候平衡理论说。</span><span class="english">Climatic Balance.</span></p>
 
 <p><span class="chinese">裂谷热预测和气候模型</span><span class="english">RVF forecasting and climatic models</span></p>

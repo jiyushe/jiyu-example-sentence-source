@@ -1,5 +1,7 @@
 # cabinet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cabinet.md)
+
 <p><span class="chinese">它就在档案柜里。</span><span class="english">It's in the file cabinet.</span></p>
 
 <p><span class="chinese">内阁定期开会。</span><span class="english">The cabinet meets regularly.</span></p>

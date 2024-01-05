@@ -1,5 +1,7 @@
 # 不进则退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujinzetui.md)
+
 <p><span class="chinese">生活是逆水行舟，不进则退。</span><span class="english">Life is boating against the current.</span></p>
 
 <p><span class="chinese">不进则退。</span><span class="english">Either one goes forward or he will be left behind.</span></p>

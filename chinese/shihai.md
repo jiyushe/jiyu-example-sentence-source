@@ -1,5 +1,7 @@
 # 尸骸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihai.md)
+
 <p><span class="chinese">将尸体放置在尸骸存放屋。</span><span class="english">Placing dead bodies in a bone room.</span></p>
 
 <p><span class="chinese">医学专业的学生研究人体的尸骸。</span><span class="english">The medical student studies the skeleton of the human body.</span></p>

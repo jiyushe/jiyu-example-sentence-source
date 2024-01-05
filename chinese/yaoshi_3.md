@@ -1,5 +1,7 @@
 # 钥匙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoshi_3.md)
+
 <p><span class="chinese">1419号房，这是钥匙。</span><span class="english">Here is my key.</span></p>
 
 <p><span class="chinese">我拿着钥匙呢。</span><span class="english">I have the key.</span></p>

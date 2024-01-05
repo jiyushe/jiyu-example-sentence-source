@@ -1,5 +1,7 @@
 # 载运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiyun.md)
+
 <p><span class="chinese">十分站内吊车与载运怪手的平车。</span><span class="english">A crane with a flat car for excavator transporting.</span></p>
 
 <p><span class="chinese">目前还拟定了一个载运冈比亚部队的类似安排。</span><span class="english">A similar arrangement is being put in place to transport Gambian troops.</span></p>

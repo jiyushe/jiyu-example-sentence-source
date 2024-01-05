@@ -1,5 +1,7 @@
 # seize 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seize.md)
+
 <p><span class="chinese">抓住这个时刻。</span><span class="english">Seize the moment.</span></p>
 
 <p><span class="chinese">他们应该抓住这个机会。</span><span class="english">They should seize it.</span></p>

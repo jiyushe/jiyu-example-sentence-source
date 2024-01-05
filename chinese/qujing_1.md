@@ -1,5 +1,7 @@
 # 取经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qujing_1.md)
+
 <p><span class="chinese">福克斯公司将从一个9岁的孩子那里取经。</span><span class="english">Fox is ready to take advice from a 9-year-old.</span></p>
 
 <p><span class="chinese">公司应该向这些校训取经。</span><span class="english">Companies should learn from these school mottos.</span></p>

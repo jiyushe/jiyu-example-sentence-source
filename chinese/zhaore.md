@@ -1,5 +1,7 @@
 # 招惹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaore.md)
+
 <p><span class="chinese">邪，你们招惹了什么人？</span><span class="english">Is evil, what person did you vex?</span></p>
 
 <p><span class="chinese">最高的树最易招惹雷电。</span><span class="english">Loftiest trees most dread the thunder.</span></p>

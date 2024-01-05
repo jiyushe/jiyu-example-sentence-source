@@ -1,5 +1,7 @@
 # tranquil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tranquil.md)
+
 <p><span class="chinese">她是一个静娴的少女。</span><span class="english">She is a tranquil maiden.</span></p>
 
 <p><span class="chinese">使我在它安静的力量下泰然休憩。</span><span class="english">And rest serene beneath its tranquil power.</span></p>

@@ -1,5 +1,7 @@
 # 大大咧咧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadalielie.md)
+
 <p><span class="chinese">我是个个性活泼开朗，大大咧咧的女孩。</span><span class="english">I am a active and frank girl.</span></p>
 
 <p><span class="chinese">约瑟夫大大咧咧地把车停靠在路边。</span><span class="english">Joseph idled the car at the curb.</span></p>

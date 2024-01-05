@@ -1,5 +1,7 @@
 # silky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silky.md)
+
 <p><span class="chinese">我们有布纹的，丝光面的，还有光面的。</span><span class="english">We have mat, silky and glossy.</span></p>
 
 <p><span class="chinese">这种布具有丝的质地。</span><span class="english">This cloth has a silky texture.</span></p>

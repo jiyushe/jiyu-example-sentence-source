@@ -1,5 +1,7 @@
 # 傻子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shazi.md)
+
 <p><span class="chinese">一个高尚的傻子？</span><span class="english">A holy fool?</span></p>
 
 <p><span class="chinese">三傻子呗！</span><span class="english">Three fools Uta!</span></p>

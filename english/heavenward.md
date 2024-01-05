@@ -1,5 +1,7 @@
 # heavenward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heavenward.md)
+
 <p><span class="chinese">人的心是烟花，只能向着天空燃放一次。</span><span class="english">A man's heart is a firework that once in its time flashes heavenward.</span></p>
 
 <p><span class="chinese">人的心是烟花，只能向天空燃放一次。</span><span class="english">A man's heart is a firework that once in its time flashes heavenward.</span></p>

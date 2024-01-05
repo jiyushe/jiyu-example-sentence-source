@@ -1,5 +1,7 @@
 # 游历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youli_2.md)
+
 <p><span class="chinese">很显然，马斯喀特应该是游历阿曼开始的地方。</span><span class="english">The obvious place to start is Muscat.</span></p>
 
 <p><span class="chinese">我将小鸭的游历都记录了下来。</span><span class="english">And I’ve recorded the ducky’s peregrinations.</span></p>

@@ -1,5 +1,7 @@
 # 表面文章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaomianwenzhang.md)
+
 <p><span class="chinese">他那番话不过是表面文章。</span><span class="english">He was merely paying lip service.</span></p>
 
 <p><span class="chinese">他政治上的承诺只是表面文章。</span><span class="english">H is political commitment is only skin- deep.</span></p>

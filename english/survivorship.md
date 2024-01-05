@@ -1,5 +1,7 @@
 # survivorship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/survivorship.md)
+
 <p><span class="chinese">生存偏差有多重要</span><span class="english">How important is this survivorship bias?</span></p>
 
 <p><span class="chinese">什么数据将用于驱动匹配和存活控制？</span><span class="english">What data will be used to drive matching and survivorship?</span></p>

@@ -1,5 +1,7 @@
 # 浴池
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuchi.md)
+
 <p><span class="chinese">浴池的水慢慢排走。</span><span class="english">The bath-water slowly drained away.</span></p>
 
 <p><span class="chinese">谁去以及去浴池做什么？</span><span class="english">Who Goes?What Goes on at Bathhouses?</span></p>

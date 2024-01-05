@@ -1,5 +1,7 @@
 # membrane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/membrane.md)
+
 <p><span class="chinese">细胞都有细胞膜</span><span class="english">It has a cell membrane.</span></p>
 
 <p><span class="chinese">我是透性膜。</span><span class="english">I am the permeable membrane.</span></p>

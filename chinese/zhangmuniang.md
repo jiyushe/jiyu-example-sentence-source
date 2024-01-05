@@ -1,5 +1,7 @@
 # 丈母娘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangmuniang.md)
+
 <p><span class="chinese">度蜜月时，丈母娘是个大电灯泡。</span><span class="english">A mother-in-law on a honeymoon is a fifth wheel.</span></p>
 
 <p><span class="chinese">丈母娘鞭促房价高歌猛进。</span><span class="english">Mothers-in-law improve the rising housing price.</span></p>

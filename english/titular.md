@@ -1,5 +1,7 @@
 # titular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titular.md)
+
 <p><span class="chinese">1793年起法国有名无实的国王。</span><span class="english">Titular king of France from 1793.</span></p>
 
 <p><span class="chinese">他是那个组织名义上的头目。</span><span class="english">He is the titular head of the organization.</span></p>

@@ -1,5 +1,7 @@
 # diode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diode.md)
+
 <p><span class="chinese">选择半导体激光管。</span><span class="english">To choose laser diode.</span></p>
 
 <p><span class="chinese">视频检波二极管?。</span><span class="english">VDD? Video Detector Diode?</span></p>

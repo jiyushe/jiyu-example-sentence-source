@@ -1,5 +1,7 @@
 # 圆熟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanshu.md)
+
 <p><span class="chinese">雾霭的季节，果实圆熟的时令。</span><span class="english">Season of mists and mellow fruitfulness.</span></p>
 
 <p><span class="chinese">这些年来，我看到他变得更加圆熟了。</span><span class="english">I"ve seen him grow more mellow over the years."</span></p>

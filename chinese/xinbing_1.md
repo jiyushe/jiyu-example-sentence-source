@@ -1,5 +1,7 @@
 # 新兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinbing_1.md)
+
 <p><span class="chinese">我已下令征召新兵。</span><span class="english">L-I have ordered conscriptions.</span></p>
 
 <p><span class="chinese">哦，丹尼尔，招募新兵如何？</span><span class="english">Oh, how was the recruit Daniel?</span></p>

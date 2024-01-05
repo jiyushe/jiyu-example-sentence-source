@@ -1,5 +1,7 @@
 # overproduction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overproduction.md)
+
 <p><span class="chinese">使用“拉动”系统避免过度生产。</span><span class="english">Use "pull" systems to avoid overproduction.</span></p>
 
 <p><span class="chinese">也可像我们提供库存商品。</span><span class="english">You may also offer overproduction and remnants.</span></p>

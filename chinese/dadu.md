@@ -1,5 +1,7 @@
 # 大度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadu.md)
+
 <p><span class="chinese">让我更大度豁达一点。</span><span class="english">Let me be a little blinder.</span></p>
 
 <p><span class="chinese">又有花王雍容之大度。</span><span class="english">Also has peony graceful magnanimous.</span></p>

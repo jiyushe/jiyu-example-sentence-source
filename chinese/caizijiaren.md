@@ -1,5 +1,7 @@
 # 才子佳人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caizijiaren.md)
+
 <p><span class="chinese">今晚的舞会才子佳人云集。</span><span class="english">The party tonight was crowded with wits and beauties.</span></p>
 
 <p><span class="chinese">这些书都是写才子佳人的。</span><span class="english">These books are all about talented scholars and lovely ladies.</span></p>

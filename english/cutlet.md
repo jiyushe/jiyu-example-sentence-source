@@ -1,5 +1,7 @@
 # cutlet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutlet.md)
+
 <p><span class="chinese">我很想吃一客小牛肉片。</span><span class="english">I should like a veal cutlet.</span></p>
 
 <p><span class="chinese">我们点吉利明虾好吗？</span><span class="english">Shall we order prawn cutlet?</span></p>

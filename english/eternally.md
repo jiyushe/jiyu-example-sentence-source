@@ -1,5 +1,7 @@
 # eternally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eternally.md)
+
 <p><span class="chinese">我会永远真诚。</span><span class="english">I'd be eternally faithfull.</span></p>
 
 <p><span class="chinese">它永远是个奇数。</span><span class="english">It's eternally an odd number.</span></p>

@@ -1,5 +1,7 @@
 # lookout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lookout.md)
+
 <p><span class="chinese">恐龙伊桑帮他的朋友们盯梢。</span><span class="english">Dinosaur Ethan on a lookout for friends.</span></p>
 
 <p><span class="chinese">我们的嘹望哨发现一个人藏在树丛中。</span><span class="english">Our lookout spied a man hiding in some bushes.</span></p>

@@ -1,5 +1,7 @@
 # 退稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuigao.md)
+
 <p><span class="chinese">“可能是接受，也可能是退稿，”我说。</span><span class="english">"Could be an acceptance or a rejection, " I said.</span></p>
 
 <p><span class="chinese">如须退稿，请附足回程邮资和信封。</span><span class="english">If demanded, please add adequate postage and envelops.</span></p>

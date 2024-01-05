@@ -1,5 +1,7 @@
 # tessellation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tessellation.md)
+
 <p><span class="chinese">叶片脉形成广场棋盘花纹。</span><span class="english">Leaf blade veins forming square tessellation.</span></p>
 
 <p><span class="chinese">在没有真正到位镶嵌优化。</span><span class="english">The Tessellation optimization is not truly in place.</span></p>

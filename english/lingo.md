@@ -1,5 +1,7 @@
 # lingo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lingo.md)
+
 <p><span class="chinese">不要使用内部隐语。</span><span class="english">Don't use internal lingo.</span></p>
 
 <p><span class="chinese">要清楚食品声称中的隐语。</span><span class="english">Learn the lingo of food claims.</span></p>

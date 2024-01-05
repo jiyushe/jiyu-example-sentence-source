@@ -1,5 +1,7 @@
 # 粉扑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenpu.md)
+
 <p><span class="chinese">那是我的粉扑。</span><span class="english">That's my powder puff.</span></p>
 
 <p><span class="chinese">她的脸被粉扑的很白。</span><span class="english">Her face was powdered white.</span></p>

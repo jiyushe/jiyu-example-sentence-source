@@ -1,5 +1,7 @@
 # incoordination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incoordination.md)
+
 <p><span class="chinese">不能移动或抵制运动的。</span><span class="english">Inability to stand because of motor incoordination.</span></p>
 
 <p><span class="chinese">由于肌肉运动不协调而不能站立。</span><span class="english">Inability to stand because of motor incoordination.</span></p>

@@ -1,5 +1,7 @@
 # 下功夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiagongfu.md)
+
 <p><span class="chinese">不下功夫而想得到所要的东西。</span><span class="english">Wanting to get something for free.</span></p>
 
 <p><span class="chinese">掌握一门语言须要下功夫。</span><span class="english">It requires efforts to master a language.</span></p>

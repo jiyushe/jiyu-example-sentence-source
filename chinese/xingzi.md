@@ -1,5 +1,7 @@
 # 性子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzi.md)
+
 <p><span class="chinese">您是性子急的人吗？</span><span class="english">Are you an impatient person?</span></p>
 
 <p><span class="chinese">他就是性子犟一些。</span><span class="english">He just has a difficult character.</span></p>

@@ -1,5 +1,7 @@
 # vagabond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vagabond.md)
+
 <p><span class="chinese">我有点厌倦了漂泊的生活。</span><span class="english">I'm kind of tired of the vagabond life.</span></p>
 
 <p><span class="chinese">你知道我的闲游浪荡的习惯。</span><span class="english">You know my vagabond and restless habits.</span></p>

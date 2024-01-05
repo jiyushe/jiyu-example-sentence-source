@@ -1,5 +1,7 @@
 # 手相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxiang_1.md)
+
 <p><span class="chinese">我会看手相。</span><span class="english">I can read hand.</span></p>
 
 <p><span class="chinese">你相信手相术吗?。</span><span class="english">Do you believe in palmistry?</span></p>

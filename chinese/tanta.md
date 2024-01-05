@@ -1,5 +1,7 @@
 # 坍塌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanta.md)
+
 <p><span class="chinese">风一吹就会坍塌？</span><span class="english">One blow from caving in?</span></p>
 
 <p><span class="chinese">压力使墙向内坍塌。</span><span class="english">The pressure has blown the walls in.</span></p>

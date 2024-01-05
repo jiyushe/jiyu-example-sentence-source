@@ -1,5 +1,7 @@
 # autogenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autogenous.md)
+
 <p><span class="chinese">怎么才能减轻自生的压力？</span><span class="english">How can ability ease autogenous pressure?</span></p>
 
 <p><span class="chinese">而多数情况下，此类疫苗的选择都要求使用自家苗。</span><span class="english">This almost always requires the use of an autogenous bacterin.</span></p>

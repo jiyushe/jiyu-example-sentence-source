@@ -1,5 +1,7 @@
 # hypergraph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypergraph.md)
+
 <p><span class="chinese">然后我们就推广到一般完全C边及循环D边的超图。</span><span class="english">Then we generalize the mixed hypergraph with complete C-edges and circular D-edges.</span></p>
 
 <p><span class="chinese">引入进化超图网络对全生命周期中产品过程信息进行形式化表达。</span><span class="english">Evolution hypergraph net was introduced to formalize product process information for life cycle.</span></p>

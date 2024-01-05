@@ -1,5 +1,7 @@
 # sabine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sabine.md)
+
 <p><span class="chinese">沙宾在大海深处向着你歌唱。</span><span class="english">Sabine sang to you from the depths of the sea.</span></p>
 
 <p><span class="chinese">罗马人抢掠萨宾族妇女就是最好的例子。</span><span class="english">the rape of the Sabine women is a case in point.</span></p>

@@ -1,5 +1,7 @@
 # 赛会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saihui.md)
+
 <p><span class="chinese">他两次赢得这项比赛，并保持赛会记录。</span><span class="english">He won it twice and holds the course record.</span></p>
 
 <p><span class="chinese">我们的杯赛会不会突发奇想地跑到吉格巷来趟浪漫之旅？</span><span class="english">Will the romance of the Cup pay a visit to Gigg Lane?</span></p>

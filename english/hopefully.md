@@ -1,5 +1,7 @@
 # hopefully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hopefully.md)
+
 <p><span class="chinese">祝她早日康复！</span><span class="english">Hopefully she will recover.</span></p>
 
 <p><span class="chinese">你们应该知道怎么做吧。</span><span class="english">Hopefully you know how to do that.</span></p>

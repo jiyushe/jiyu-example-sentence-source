@@ -1,5 +1,7 @@
 # steadily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steadily.md)
+
 <p><span class="chinese">他稳稳的领着你回家。</span><span class="english">Steadily he leads you back.</span></p>
 
 <p><span class="chinese">脉搏跳得平稳。</span><span class="english">The pulse throbbed steadily.</span></p>

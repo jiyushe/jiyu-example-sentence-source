@@ -1,5 +1,7 @@
 # taboo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taboo.md)
+
 <p><span class="chinese">在印度，杀牛是遭禁忌的事情。</span><span class="english">In India, killing cows is taboo.</span></p>
 
 <p><span class="chinese">许多人仍忌讳心理咨询</span><span class="english">For many, counseling remains taboo</span></p>

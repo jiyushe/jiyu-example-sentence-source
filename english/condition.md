@@ -1,5 +1,7 @@
 # condition 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condition.md)
+
 <p><span class="chinese">他的病情恶化了。</span><span class="english">His condition was soured.</span></p>
 
 <p><span class="chinese">车况必须良好。</span><span class="english">Must have good condition.</span></p>

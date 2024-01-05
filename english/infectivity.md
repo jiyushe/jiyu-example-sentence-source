@@ -1,5 +1,7 @@
 # infectivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infectivity.md)
+
 <p><span class="chinese">乙肝患者具有传染性吗?。</span><span class="english">Does second liver patient have infectivity?</span></p>
 
 <p><span class="chinese">“大三阳”的传染性有多大？</span><span class="english">"Big 3 this world " does infectivity have how old?</span></p>

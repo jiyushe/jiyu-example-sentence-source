@@ -1,5 +1,7 @@
 # 难以置信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanyizhixin.md)
+
 <p><span class="chinese">这真是让我难以置信。</span><span class="english">Unbelievable.</span></p>
 
 <p><span class="chinese">太难以置信了！</span><span class="english">Maybe too incredible.</span></p>

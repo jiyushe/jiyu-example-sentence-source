@@ -1,5 +1,7 @@
 # warlock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warlock.md)
+
 <p><span class="chinese">嗯，他是个术士。</span><span class="english">Eh, he is a warlock.</span></p>
 
 <p><span class="chinese">如果我告诉你我爷爷是个巫师呢？</span><span class="english">What if I tell you my grandpa is a warlock?</span></p>

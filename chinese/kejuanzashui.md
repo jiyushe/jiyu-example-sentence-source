@@ -1,5 +1,7 @@
 # 苛捐杂税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kejuanzashui.md)
+
 <p><span class="chinese">这种苛捐杂税被查理一世加以恢复。</span><span class="english">The exaction was revived by Richard I.</span></p>
 
 <p><span class="chinese">废除苛捐杂税。</span><span class="english">Abolish exorbitant taxes and miscellaneous levies.</span></p>

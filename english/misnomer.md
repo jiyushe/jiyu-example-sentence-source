@@ -1,5 +1,7 @@
 # misnomer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misnomer.md)
+
 <p><span class="chinese">他果然名不虚传。</span><span class="english">He is no misnomer.</span></p>
 
 <p><span class="chinese">当然，「常数」这个词或许是个误称。</span><span class="english">Indeed, the word "constant" may be a misnomer.</span></p>

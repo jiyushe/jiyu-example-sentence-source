@@ -1,5 +1,7 @@
 # 主程序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuchengxu.md)
+
 <p><span class="chinese">主程序逻辑首先关闭了缓冲输出。</span><span class="english">The main program logic first turns buffered output off.</span></p>
 
 <p><span class="chinese">在您完成主程序的定义之后，该错误将会消失。</span><span class="english">This error will disappear after the main program has been defined.</span></p>

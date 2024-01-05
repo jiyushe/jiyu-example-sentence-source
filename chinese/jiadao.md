@@ -1,5 +1,7 @@
 # 夹道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiadao.md)
+
 <p><span class="chinese">我们穿过饭桌的夹道。</span><span class="english">We threaded our way through the tables.</span></p>
 
 <p><span class="chinese">人们夹道观看马拉松赛跑。</span><span class="english">People lined the streets to watch marathon.</span></p>

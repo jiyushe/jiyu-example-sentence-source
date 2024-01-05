@@ -1,5 +1,7 @@
 # 成规
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenggui.md)
+
 <p><span class="chinese">不幸的人往往是默守成规的产物。</span><span class="english">Unlucky people tend to be creatures of routine.</span></p>
 
 <p><span class="chinese">先弄懂规则，才会知道该如何适切地打破成规。</span><span class="english">Learn the rules so you know how to break them properly.</span></p>

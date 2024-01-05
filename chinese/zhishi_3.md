@@ -1,5 +1,7 @@
 # 指使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishi_3.md)
+
 <p><span class="chinese">他是幕后指使人。</span><span class="english">He's the man behind the scenes.</span></p>
 
 <p><span class="chinese">你知道是谁指使的这场杀戮么？</span><span class="english">Do you know who was behind the killing?</span></p>

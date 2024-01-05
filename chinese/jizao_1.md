@@ -1,5 +1,7 @@
 # 急躁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizao_1.md)
+
 <p><span class="chinese">她近来情绪急躁。</span><span class="english">She's be edgy lately.</span></p>
 
 <p><span class="chinese">他性情急躁。</span><span class="english">He has an edgy temper.</span></p>

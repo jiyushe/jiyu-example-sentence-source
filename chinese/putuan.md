@@ -1,5 +1,7 @@
 # 蒲团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putuan.md)
+
 <p><span class="chinese">让我们把蒲团卷起来吧。</span><span class="english">Let's fold up the futon.</span></p>
 
 <p><span class="chinese">我只够有钱去买一个蒲团。</span><span class="english">I had just enough to buy a futon.</span></p>

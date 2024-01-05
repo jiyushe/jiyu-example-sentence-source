@@ -1,5 +1,7 @@
 # droopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/droopy.md)
+
 <p><span class="chinese">这女孩看上去有点蔫。</span><span class="english">The girl seems droopy.</span></p>
 
 <p><span class="chinese">我如何能让我的眼睛看起来不那么下垂?。</span><span class="english">How can I make my eyes look less droopy?</span></p>

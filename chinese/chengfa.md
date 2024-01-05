@@ -1,5 +1,7 @@
 # 成法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengfa.md)
+
 <p><span class="chinese">但，成本加成法在美国会计准则中未被允许使用。</span><span class="english">The cost-plus margin is not allowed under GAAP.</span></p>
 
 <p><span class="chinese">我想请人把这份文件翻译成法语。</span><span class="english">I'd like to have this document translated into French.</span></p>

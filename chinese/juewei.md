@@ -1,5 +1,7 @@
 # 爵位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juewei.md)
+
 <p><span class="chinese">他被授予伯爵爵位。</span><span class="english">He was awarded earldom.</span></p>
 
 <p><span class="chinese">国王授予这位士兵骑士爵位。</span><span class="english">The king ennobled the soldier with knighthood.</span></p>

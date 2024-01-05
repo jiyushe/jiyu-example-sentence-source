@@ -1,5 +1,7 @@
 # atomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atomic.md)
+
 <p><span class="chinese">原子间距。</span><span class="english">Atomic spacing.</span></p>
 
 <p><span class="chinese">这是原子轨道。</span><span class="english">So these are atomic orbitals.</span></p>

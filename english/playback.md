@@ -1,5 +1,7 @@
 # playback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playback.md)
+
 <p><span class="chinese">没有播放按钮？</span><span class="english">No playback buttons?</span></p>
 
 <p><span class="chinese">最后，检测本地视频回放。</span><span class="english">Finally, check for native video playback.</span></p>

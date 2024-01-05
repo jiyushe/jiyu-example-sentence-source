@@ -1,5 +1,7 @@
 # mystification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mystification.md)
+
 <p><span class="chinese">笼罩这个问题的迷雾挥之不去。</span><span class="english">It enveloped the story in a fog of mystification.</span></p>
 
 <p><span class="chinese">但我们不能把发展劳动价值论神秘化。</span><span class="english">But we cannot mystification of development labor theory of value.</span></p>

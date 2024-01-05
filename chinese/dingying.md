@@ -1,5 +1,7 @@
 # 定影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingying.md)
+
 <p><span class="chinese">本发明涉及一种调色剂定影带。</span><span class="english">The present invention relates to a toner fixing belt.</span></p>
 
 <p><span class="chinese">标在图像上地园代表对对象地定影。</span><span class="english">The circles marked on the images stand for the subjects' fixation.</span></p>

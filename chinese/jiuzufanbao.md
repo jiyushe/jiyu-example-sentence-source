@@ -1,5 +1,7 @@
 # 酒足饭饱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuzufanbao.md)
+
 <p><span class="chinese">谢谢，我酒足饭饱了。</span><span class="english">Thank you, I am perfectly satisfied.</span></p>
 
 <p><span class="chinese">酒足饭饱的肚子是所有罪恶的源头。</span><span class="english">A full Belly is the Mother of all Evil.</span></p>

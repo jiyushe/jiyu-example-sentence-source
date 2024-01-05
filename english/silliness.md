@@ -1,5 +1,7 @@
 # silliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silliness.md)
+
 <p><span class="chinese">只是在回顾中才意识到，当时看似愚蠢的言行意义却如此深刻。</span><span class="english">It was only in retrospect that the silliness became profound.</span></p>
 
 <p><span class="chinese">它的观念，它的梦想，它所有单纯可爱的糊涂。</span><span class="english">The concept, the dream, the sheer lovely silliness of it all.</span></p>

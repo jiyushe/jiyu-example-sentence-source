@@ -1,5 +1,7 @@
 # 无宁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuning.md)
+
 <p><span class="chinese">妒忌之人无宁日。</span><span class="english">Envy has being no holidays.</span></p>
 
 <p><span class="chinese">不满足者坐无宁时。</span><span class="english">A discontented man knows not where to sit easy.</span></p>

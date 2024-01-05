@@ -1,5 +1,7 @@
 # euclidean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euclidean.md)
+
 <p><span class="chinese">直角三角形和欧几里德范数</span><span class="english">Right triangles and Euclidean norms</span></p>
 
 <p><span class="chinese">非欧几何中的六角棋盘！</span><span class="english">Hexagon Chess Under Non- Euclidean Space.</span></p>

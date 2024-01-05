@@ -1,5 +1,7 @@
 # undistorted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undistorted.md)
+
 <p><span class="chinese">任何电路可以通过一个特定的数字信号。</span><span class="english">Any circuit will pass a digital signa practically undistorted.</span></p>
 
 <p><span class="chinese">可是我们怎么知道自己看到的是真实的、没有扭曲的现实呢？</span><span class="english">But how do we know we have the true, undistorted picture of reality?</span></p>

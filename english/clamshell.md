@@ -1,5 +1,7 @@
 # clamshell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clamshell.md)
+
 <p><span class="chinese">捡起一个蛤壳，在手里掂量一下它有多重。</span><span class="english">Pick up a clamshell and weigh it in your hand.</span></p>
 
 <p><span class="chinese">新系列将有非常漂亮的设计，当然，还有许多颜色。</span><span class="english">New clamshell has very beautiful design and, of course, many colours.</span></p>

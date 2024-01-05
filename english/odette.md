@@ -1,5 +1,7 @@
 # odette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odette.md)
+
 <p><span class="chinese">贾斯汀•奥德特肩很宽，穿一件蓝色印花连衣裙。</span><span class="english">Odette is strong shouldered and wears a blue print dress.</span></p>
 
 <p><span class="chinese">他的旅行奥黛特和两个获得相当不错。</span><span class="english">He's travelling Odette and the two are getting on quite well.</span></p>

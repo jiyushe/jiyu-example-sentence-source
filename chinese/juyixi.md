@@ -1,5 +1,7 @@
 # 聚乙烯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juyixi.md)
+
 <p><span class="chinese">每卷用素包聚乙烯袋装。</span><span class="english">Each Roll in Plain Poly Bag.</span></p>
 
 <p><span class="chinese">胶块用聚乙烯薄膜包封。</span><span class="english">Rubber block with polyethylene film.</span></p>

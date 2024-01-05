@@ -1,5 +1,7 @@
 # 护照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huzhao.md)
+
 <p><span class="chinese">你们的护照满期了。</span><span class="english">Your passports expire.</span></p>
 
 <p><span class="chinese">我能看看你们的护照吗？</span><span class="english">May I see your passports?</span></p>

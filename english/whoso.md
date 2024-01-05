@@ -1,5 +1,7 @@
 # whoso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whoso.md)
+
 <p><span class="chinese">谁想做一个真正的人就必须不妥协。</span><span class="english">Whoso would be a man must be a nonconformist.</span></p>
 
 <p><span class="chinese">凡为我的名接待一个像这小孩子的，就是接待我。</span><span class="english">And whoso shall receive one such little child in my name receiveth me.</span></p>

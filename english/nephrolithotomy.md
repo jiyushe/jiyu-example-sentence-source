@@ -1,5 +1,7 @@
 # nephrolithotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nephrolithotomy.md)
+
 <p><span class="chinese">目的探讨经皮肾穿刺输尿管镜取石术的有效配合及护理要点。</span><span class="english">Objective To study the nursing points of minimally invasive percutaneous nephrolithotomy.</span></p>
 
 <p><span class="chinese">方法对38例复杂性肾结石病人，采用肾窦内肾盂加肾实质切开取石术。</span><span class="english">Methods The data of 38 cases treated with intrasinusal pyelolithotomy and nephrolithotomy were analysed.</span></p>

@@ -1,5 +1,7 @@
 # prefabrication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prefabrication.md)
+
 <p><span class="chinese">在预制厂焊接的焊缝，用“S”表示。</span><span class="english">Welding seam performed in prefabrication shop denote with "S ".</span></p>
 
 <p><span class="chinese">预制房屋构件有助于控制品质与成本和实现未来的大规模生产。</span><span class="english">Prefabrication helps control quality and cost, and future mass production.</span></p>

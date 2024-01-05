@@ -1,5 +1,7 @@
 # revolutionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revolutionist.md)
+
 <p><span class="chinese">因为马克思首先是一个革命家。</span><span class="english">For Mark was before all else a revolutionist.</span></p>
 
 <p><span class="chinese">对马克思而言，他最重要的身份是革命家。</span><span class="english">For Marx was before all else a revolutionist.</span></p>

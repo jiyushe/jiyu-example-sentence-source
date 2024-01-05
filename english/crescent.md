@@ -1,5 +1,7 @@
 # crescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crescent.md)
+
 <p><span class="chinese">看看像不像一轮弯弯的月牙呢？</span><span class="english">Look like a curved crescent?</span></p>
 
 <p><span class="chinese">其中一个是“新月城”。</span><span class="english">One of them is The Crescent City.</span></p>

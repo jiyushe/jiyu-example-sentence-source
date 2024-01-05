@@ -1,5 +1,7 @@
 # nemo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nemo.md)
+
 <p><span class="chinese">好的，他们叫他尼莫。</span><span class="english">Well, they named him Nemo.</span></p>
 
 <p><span class="chinese">来啊，尼莫你能游多远？</span><span class="english">Come on, Nemo. How far can you go?</span></p>

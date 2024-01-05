@@ -1,5 +1,7 @@
 # periodate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periodate.md)
+
 <p><span class="chinese">高碘酸钾与甲基红的反应可为亚硝酸根所催化。</span><span class="english">The reaction of potassium periodate and orange red can be catalyzed by nitrous ions.</span></p>
 
 <p><span class="chinese">用高碘酸钠氧化法将辣根过氧化物酶标记于胰岛素。</span><span class="english">Insulin was labeled with horseradish peroxidase by sodium periodate oxidation method.</span></p>

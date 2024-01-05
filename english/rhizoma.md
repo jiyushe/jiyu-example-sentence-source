@@ -1,5 +1,7 @@
 # rhizoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhizoma.md)
+
 <p><span class="chinese">地下根状茎的结构类似地上茎的结构。</span><span class="english">The structure of rhizoma was the same as that of aerial shoot.</span></p>
 
 <p><span class="chinese">目的考察处方中组分对天麻分散片制剂的影响。</span><span class="english">Aim To optimize the preparation of rhizoma gastrodiae dispersible tablet.</span></p>

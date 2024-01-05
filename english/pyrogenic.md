@@ -1,5 +1,7 @@
 # pyrogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrogenic.md)
+
 <p><span class="chinese">介绍了PVC的热分解机理及热稳定剂的作用机理。</span><span class="english">Principles of pyrogenic decomposition of PVC and the principles of heat stabilizer were introduced.</span></p>
 
 <p><span class="chinese">为处理某火法炼铜厂的洗净残渣，提出了湿法两矿一步法。</span><span class="english">Hydro-metallurgy two ore method is put forward to deal with a pyrogenic process copper factory's cleaning residue.</span></p>

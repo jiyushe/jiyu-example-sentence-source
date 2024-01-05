@@ -1,5 +1,7 @@
 # dvm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dvm.md)
+
 <p><span class="chinese">本论文研究中使用的计算程序是以密度泛函为基础的离散变分方法。</span><span class="english">Compute program used in this paper is DVM based on density function.</span></p>
 
 <p><span class="chinese">一个简单廉价的隔离反激式电源为DVM模块供电。</span><span class="english">A simple, low-cost, isolated flyback power supply energizes a DVM module.</span></p>

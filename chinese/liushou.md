@@ -1,5 +1,7 @@
 # 留守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liushou.md)
+
 <p><span class="chinese">“留守儿童”。</span><span class="english">Left-behind Children.</span></p>
 
 <p><span class="chinese">他们就是,留守巴黎的人们</span><span class="english">They are who, the people that were left.</span></p>

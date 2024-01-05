@@ -1,5 +1,7 @@
 # 强心针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangxinzhen.md)
+
 <p><span class="chinese">现在，跟随奥巴马，给病人一剂强心针，把它救回来。</span><span class="english">It is time to follow Mr Obama’s lead and jolt the patient back to life.</span></p>
 
 <p><span class="chinese">他心脏骤停，医生赶紧为他注射了强心针。</span><span class="english">His heart halted suddenly, the doctor injected him with a cardiotonic needle.</span></p>

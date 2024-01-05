@@ -1,5 +1,7 @@
 # pulsatile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulsatile.md)
+
 <p><span class="chinese">腹部搏动性肿块消失。</span><span class="english">The abdominal pulsatile mass disappeared.</span></p>
 
 <p><span class="chinese">令人惊讶的是，脉动式的动作也有助于伤口愈合。</span><span class="english">Surprisingly, pulsatile motion can help heal injuries in situ too.</span></p>

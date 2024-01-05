@@ -1,5 +1,7 @@
 # 木筏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mufa.md)
+
 <p><span class="chinese">他们乘木筏渡过湖。</span><span class="english">They rafted the lake.</span></p>
 
 <p><span class="chinese">他乘木筏顺流而下。</span><span class="english">He rafted down the stream.</span></p>

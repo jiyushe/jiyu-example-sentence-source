@@ -1,5 +1,7 @@
 # fisk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fisk.md)
+
 <p><span class="chinese">为什么指挥官杰克·菲斯科被杀害了？</span><span class="english">Why is Commander Jack Fisk killed?</span></p>
 
 <p><span class="chinese">fisk在丹麦语里就是鱼的意思。</span><span class="english">Fisk apparently means “fish” in Danish.</span></p>

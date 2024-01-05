@@ -1,5 +1,7 @@
 # 鸭舌帽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yashemao.md)
+
 <p><span class="chinese">我想要一个红色的鸭舌帽。</span><span class="english">I'd like a red cap.</span></p>
 
 <p><span class="chinese">这顶鸭舌帽是给你的。</span><span class="english">This cap is for you.</span></p>

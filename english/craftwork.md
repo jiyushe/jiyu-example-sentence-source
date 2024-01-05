@@ -1,5 +1,7 @@
 # craftwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craftwork.md)
+
 <p><span class="chinese">熟悉机械制造工艺。</span><span class="english">Understand machine manufacture craftwork.</span></p>
 
 <p><span class="chinese">我们应该为民族工艺做点事。</span><span class="english">We should do something for folk craftwork.</span></p>

@@ -1,5 +1,7 @@
 # 校订
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoding.md)
+
 <p><span class="chinese">研究订正之处，并校订你的文章。</span><span class="english">Study the corrections and edits on your paper.</span></p>
 
 <p><span class="chinese">你已经得到回复，并且校订它。</span><span class="english">You’ve got feedback on your ebook and revised it</span></p>

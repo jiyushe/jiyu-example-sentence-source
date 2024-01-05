@@ -1,5 +1,7 @@
 # 植苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhimiao.md)
+
 <p><span class="chinese">本发明涉及植苗机。</span><span class="english">The present invention relates to a planting machine.</span></p>
 
 <p><span class="chinese">定植以植苗造林为主，辅助进行播种造林和分殖造林。</span><span class="english">The seedlings were mainly used with complement of seeds and root divisions.</span></p>

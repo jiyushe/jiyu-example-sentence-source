@@ -1,5 +1,7 @@
 # wore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wore.md)
+
 <p><span class="chinese">她从没有穿过它。</span><span class="english">She never wore it.</span></p>
 
 <p><span class="chinese">她穿着一件蓝外套。</span><span class="english">She wore a bluecoat.</span></p>

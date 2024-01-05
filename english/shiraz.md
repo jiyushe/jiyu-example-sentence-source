@@ -1,5 +1,7 @@
 # shiraz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shiraz.md)
+
 <p><span class="chinese">设拉子红葡萄酒是一种普及型。</span><span class="english">Shiraz is a popular type of red wine.</span></p>
 
 <p><span class="chinese">也是澳洲穗乐仙葡萄酒的典范。</span><span class="english">Australian Shiraz is also a model of wine.</span></p>

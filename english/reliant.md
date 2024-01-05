@@ -1,5 +1,7 @@
 # reliant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reliant.md)
+
 <p><span class="chinese">兴中变压器用户信赖的品牌！</span><span class="english">Xingzhong transformeruser reliant quality brand!</span></p>
 
 <p><span class="chinese">在这个阶段需以母狮的奶存活。</span><span class="english">At this stage they are reliant on their mother's milk.</span></p>

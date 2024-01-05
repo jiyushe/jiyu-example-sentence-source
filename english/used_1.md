@@ -1,5 +1,7 @@
 # used 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/used_1.md)
+
 <p><span class="chinese">我涂了胶水。</span><span class="english">I used glue.</span></p>
 
 <p><span class="chinese">不打，但过去常打。</span><span class="english">No, but I used to.</span></p>

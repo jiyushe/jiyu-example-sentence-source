@@ -1,5 +1,7 @@
 # outstretched
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outstretched.md)
+
 <p><span class="chinese">我的敌人四脚朝天树下躺。</span><span class="english">My foe outstretched beneath the tree.</span></p>
 
 <p><span class="chinese">她伸出了年迈粗糙的手。</span><span class="english">Her knobbly old hand was outstretched.</span></p>

@@ -1,5 +1,7 @@
 # noncommunicable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noncommunicable.md)
+
 <p><span class="chinese">由于所有这些原因，非传染性疾病给发展带来了双重打击。</span><span class="english">For all these reasons, noncommunicable diseases deliver a two-punch blow to development.</span></p>
 
 <p><span class="chinese">正如我所言，本次非传染性疾病问题高级别会议必须成为一个分水岭。</span><span class="english">As I said, this high-level meeting on noncommunicable diseases must be a watershed event.</span></p>

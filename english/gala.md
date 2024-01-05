@@ -1,5 +1,7 @@
 # gala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gala.md)
+
 <p><span class="chinese">她举行了一项欢迎会。</span><span class="english">She put on a gala reception party.</span></p>
 
 <p><span class="chinese">我现在应该在赛舟会的。</span><span class="english">I'm supposed to be at a regatta gala.</span></p>

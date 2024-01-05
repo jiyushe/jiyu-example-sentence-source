@@ -1,5 +1,7 @@
 # 梯田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/titian.md)
+
 <p><span class="chinese">稻田把山坡分割得一块块巨人般的梯田。</span><span class="english">Rice paddies cut into the hillsides like giant steps.</span></p>
 
 <p><span class="chinese">你可能需要把地弄成梯田状，或是垫高。</span><span class="english">You may have to terrace your land or build raised beds.</span></p>

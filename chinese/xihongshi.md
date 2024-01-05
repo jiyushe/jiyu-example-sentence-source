@@ -1,5 +1,7 @@
 # 西红柿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xihongshi.md)
+
 <p><span class="chinese">我喜欢西红柿。</span><span class="english">I like tomatoes.</span></p>
 
 <p><span class="chinese">西红柿和火腿。</span><span class="english">Tomatoes and ham.</span></p>

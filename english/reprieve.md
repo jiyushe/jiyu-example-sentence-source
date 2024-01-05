@@ -1,5 +1,7 @@
 # reprieve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reprieve.md)
+
 <p><span class="chinese">然而，缓刑成本是高昂的。</span><span class="english">The cost of the reprieve was high, however.</span></p>
 
 <p><span class="chinese">最后一刻的缓刑令把他从绞架上解救了下来。</span><span class="english">He was saved from the gallows by a lastminute reprieve.</span></p>

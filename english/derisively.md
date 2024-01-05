@@ -1,5 +1,7 @@
 # derisively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derisively.md)
+
 <p><span class="chinese">鸭子大声嘲笑。</span><span class="english">Duck laughed derisively.</span></p>
 
 <p><span class="chinese">“原来是这么回事！”阿切尔嘲笑地说。</span><span class="english">"So that was it?" Archer said derisively.</span></p>

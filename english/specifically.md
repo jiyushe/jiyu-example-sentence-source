@@ -1,5 +1,7 @@
 # specifically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specifically.md)
+
 <p><span class="chinese">尼娜说，“确切地说，是北朝鲜使用的韩文。”</span><span class="english">North Korean, specifically.</span></p>
 
 <p><span class="chinese">对,但有什么特别的么</span><span class="english">Yes, but what specifically?</span></p>

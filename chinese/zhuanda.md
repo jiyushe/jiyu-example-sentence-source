@@ -1,5 +1,7 @@
 # 转达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanda.md)
+
 <p><span class="chinese">请转达我对他的问候。</span><span class="english">Please give him my regards.</span></p>
 
 <p><span class="chinese">我会向他们转达你的问候。</span><span class="english">I'll give them your regards.</span></p>

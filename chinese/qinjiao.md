@@ -1,5 +1,7 @@
 # 秦艽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinjiao.md)
+
 <p><span class="chinese">结论栽培秦艽的质量优于野生秦艽。</span><span class="english">CONCLUSION Gentiana planting in Qinghai is superior to wild Gentiana in quality.</span></p>
 
 <p><span class="chinese">结论秦艽龙胆苦苷主要集中在根心材部分。</span><span class="english">Conclusion Gentiopicrin are chiefly concentrated on the parts of the heart-wooded.</span></p>

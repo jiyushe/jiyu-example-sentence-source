@@ -1,5 +1,7 @@
 # infertility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infertility.md)
+
 <p><span class="chinese">男子吃海鲜易导致不孕</span><span class="english">Men ate the seafood to infertility</span></p>
 
 <p><span class="chinese">子宫内膜炎是不育的原子。</span><span class="english">Endometritis is a cause of infertility.</span></p>

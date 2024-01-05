@@ -1,5 +1,7 @@
 # abed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abed.md)
+
 <p><span class="chinese">这张沙发当床用。</span><span class="english">This sofa serves as abed.</span></p>
 
 <p><span class="chinese">我总是想很多事情躺在床上。</span><span class="english">I always think of many things abed.</span></p>

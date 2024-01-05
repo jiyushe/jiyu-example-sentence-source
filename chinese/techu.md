@@ -1,5 +1,7 @@
 # 特出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/techu.md)
+
 <p><span class="chinese">我和老板很熟。我不知道特出。</span><span class="english">I know the owner very well.</span></p>
 
 <p><span class="chinese">这是一对特出的伙伴。</span><span class="english">This is a pretty good union.</span></p>

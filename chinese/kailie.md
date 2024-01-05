@@ -1,5 +1,7 @@
 # 开列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kailie.md)
+
 <p><span class="chinese">他所开列的书目最终成为了教会的政策。</span><span class="english">His list ultimately became church policy.</span></p>
 
 <p><span class="chinese">兹将新到书籍开列如下。</span><span class="english">Below is a list of books recently received.</span></p>

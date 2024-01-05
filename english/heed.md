@@ -1,5 +1,7 @@
 # heed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heed.md)
+
 <p><span class="chinese">我会注意这个警告。</span><span class="english">I'd heed this warning.</span></p>
 
 <p><span class="chinese">她自己应该注意的好建议。</span><span class="english">Good advice she should heed.</span></p>

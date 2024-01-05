@@ -1,5 +1,7 @@
 # belgium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belgium.md)
+
 <p><span class="chinese">它们是德国或者比利时的。</span><span class="english">They'll be German or Belgium.</span></p>
 
 <p><span class="chinese">我在比利时住过三年。</span><span class="english">I lived in Belgium for 3 years.</span></p>

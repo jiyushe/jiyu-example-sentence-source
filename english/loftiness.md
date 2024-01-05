@@ -1,5 +1,7 @@
 # loftiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loftiness.md)
+
 <p><span class="chinese">我们都被他那种崇高品质所深深感染。</span><span class="english">We were all greatly moved by his loftiness.</span></p>
 
 <p><span class="chinese">我们都被他那种崇高的品质所深深感到。</span><span class="english">We were all greatly moved by his loftiness.</span></p>

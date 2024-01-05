@@ -1,5 +1,7 @@
 # 纳福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nafu.md)
+
 <p><span class="chinese">衷心祝愿大家圣诞快乐、新年纳福！</span><span class="english">Wish you have a Merry Christmas and A Happy New Year !</span></p>
 
 <p><span class="chinese">纳福最好的纸牌移动这个包16变种著名的纸牌游戏。</span><span class="english">Enjoy the best Solitaire mobile with this pack of 16 variants of the famous card game.</span></p>

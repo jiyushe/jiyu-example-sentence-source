@@ -1,5 +1,7 @@
 # colicky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colicky.md)
+
 <p><span class="chinese">一阵一阵的绞痛，我认为。</span><span class="english">A colicky pain, I think.</span></p>
 
 <p><span class="chinese">您是连续感到疼痛的那种痛，还是感到一阵一阵的绞痛那种痛呢？</span><span class="english">Is it an aching type pain or is it a colicky pain?</span></p>

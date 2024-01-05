@@ -1,5 +1,7 @@
 # toxoplasma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toxoplasma.md)
+
 <p><span class="chinese">弓形虫并不只是老鼠要面对的问题。</span><span class="english">Toxoplasma aren't just a problem for rats.</span></p>
 
 <p><span class="chinese">感染了弓形体原虫的老鼠喜欢上猫的味道。</span><span class="english">Rats infected with Toxoplasma actually like cat odors.</span></p>

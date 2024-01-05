@@ -1,5 +1,7 @@
 # 情投意合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingtouyihe.md)
+
 <p><span class="chinese">我是在课堂上认识辛迪的，还真是情投意合。</span><span class="english">Cindy and I met in class and really hit it off.</span></p>
 
 <p><span class="chinese">老师，我很困惑，我想知道如何才能找到和我情投意合的伴侣。</span><span class="english">Teacher, I'm confused, how do we find our soul.</span></p>

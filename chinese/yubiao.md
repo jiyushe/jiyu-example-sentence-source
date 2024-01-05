@@ -1,5 +1,7 @@
 # 鱼鳔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yubiao.md)
+
 <p><span class="chinese">但我已经买了咸水湖鱼鳔。</span><span class="english">But I've already bought a saltwater fly rod.</span></p>
 
 <p><span class="chinese">鱼鳔中的压力由一个气体腺来管控。</span><span class="english">The pressure in the swim bladder is regulated by a gas gland.</span></p>

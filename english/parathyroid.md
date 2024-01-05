@@ -1,5 +1,7 @@
 # parathyroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parathyroid.md)
+
 <p><span class="chinese">这一切的罪魁祸首就是甲状旁腺。</span><span class="english">The culprits in all this are the parathyroid glands.</span></p>
 
 <p><span class="chinese">甲状旁腺癌的大体外观。</span><span class="english">This is the gross appearance of a parathyroid carcinoma.</span></p>

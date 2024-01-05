@@ -1,5 +1,7 @@
 # 佛国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/foguo.md)
+
 <p><span class="chinese">佛教徒称之为莲花佛国。</span><span class="english">The blossom lotus symbolized the prospering country.</span></p>
 
 <p><span class="chinese">佛教徒称之为莲花佛国。</span><span class="english">Buddhists call it the 'Buddhist Country of Lotus Flowers'.</span></p>

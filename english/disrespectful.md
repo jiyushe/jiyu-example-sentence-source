@@ -1,5 +1,7 @@
 # disrespectful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disrespectful.md)
+
 <p><span class="chinese">确实会失礼失敬哩。</span><span class="english">Indeed it would be disrespectful.</span></p>
 
 <p><span class="chinese">却之不恭。</span><span class="english">It would be disrespectful to decline.</span></p>

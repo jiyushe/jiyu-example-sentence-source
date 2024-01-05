@@ -1,5 +1,7 @@
 # calcic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calcic.md)
+
 <p><span class="chinese">什么维生素可以促进钙的吸收?。</span><span class="english">What vitamin can promote calcic absorption?</span></p>
 
 <p><span class="chinese">维生素d不足，影响钙的吸收。</span><span class="english">Vitamin D is insufficient, affect calcic absorption.</span></p>

@@ -1,5 +1,7 @@
 # perfective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perfective.md)
+
 <p><span class="chinese">第二章讨论三种完整体。</span><span class="english">Chapter 2 discusses three types of the perfective aspect.</span></p>
 
 <p><span class="chinese">该系列产品结构新颖，性能齐全。</span><span class="english">This series of product has a novel structure and perfective performance.</span></p>

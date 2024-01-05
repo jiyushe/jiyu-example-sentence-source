@@ -1,5 +1,7 @@
 # pinprick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinprick.md)
+
 <p><span class="chinese">只是有点针刺。</span><span class="english">Just a little pinprick.</span></p>
 
 <p><span class="chinese">青藏高原上牧民的帐篷是白色的，在以棕绿为基色的草原上宛如星星点点的针孔。</span><span class="english">The nomads' tent is a pinprick of white against a canvas of green and brown.</span></p>

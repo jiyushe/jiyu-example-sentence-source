@@ -1,5 +1,7 @@
 # 饕餮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taotie.md)
+
 <p><span class="chinese">饕餮在前面！！！</span><span class="english">Gluttons are in front! ! !</span></p>
 
 <p><span class="chinese">你会读“饕餮”这两个字吗？</span><span class="english">Can you read these two characters?</span></p>

@@ -1,5 +1,7 @@
 # cloacae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloacae.md)
+
 <p><span class="chinese">阴沟杆菌，并在3小时后开始治疗。</span><span class="english">Cloacae , and therapy was initiated 3 h later.</span></p>
 
 <p><span class="chinese">我被包围了，正从下水道逃脱。</span><span class="english">I'm surrounded, trying to get out through the cloacae.</span></p>

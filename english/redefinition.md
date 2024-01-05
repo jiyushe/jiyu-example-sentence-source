@@ -1,5 +1,7 @@
 # redefinition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redefinition.md)
+
 <p><span class="chinese">所以就建立这样适合的关系，重新定义与父母的关系。</span><span class="english">Let that be the redefinition of your relationship.</span></p>
 
 <p><span class="chinese">但是对另一些人来说，这是对于图书馆这个概念的重新定义和扩展。</span><span class="english">But for other people it's a redefinition and an expansion.</span></p>

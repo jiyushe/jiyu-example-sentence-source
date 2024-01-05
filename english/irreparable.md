@@ -1,5 +1,7 @@
 # irreparable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irreparable.md)
+
 <p><span class="chinese">他说，“什么是不可修复的危害？</span><span class="english">What was the irreparable harm? Scalia said.</span></p>
 
 <p><span class="chinese">由于社交方面的野心，他做出了无法补救的蠢事。</span><span class="english">He was betrayed by social ambitions into irreparable folly.</span></p>

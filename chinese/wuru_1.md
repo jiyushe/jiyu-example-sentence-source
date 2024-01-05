@@ -1,5 +1,7 @@
 # 污辱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuru_1.md)
+
 <p><span class="chinese">他说那种话来污辱我。</span><span class="english">He insulted me by saying that.</span></p>
 
 <p><span class="chinese">那个年轻妇女被人污辱了。</span><span class="english">The young woman has been interfered with.</span></p>

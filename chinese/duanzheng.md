@@ -1,5 +1,7 @@
 # 端正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanzheng.md)
+
 <p><span class="chinese">他是一位品格端正的公民。</span><span class="english">He is an upright citizen.</span></p>
 
 <p><span class="chinese">把画像挂端正。</span><span class="english">Hang the portrait straight.</span></p>

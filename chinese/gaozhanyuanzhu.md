@@ -1,5 +1,7 @@
 # 高瞻远瞩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaozhanyuanzhu.md)
+
 <p><span class="chinese">你必须高瞻远瞩，兴建小型。</span><span class="english">You have to Think Big, Build Small.</span></p>
 
 <p><span class="chinese">贝尼特斯并不在这个时候高瞻远瞩。</span><span class="english">Benitez, though, isn't looking too far ahead at this stage.</span></p>

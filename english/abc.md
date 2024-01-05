@@ -1,5 +1,7 @@
 # abc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abc.md)
+
 <p><span class="chinese">心理学的。</span><span class="english">ABC The A, B, C of psychology.</span></p>
 
 <p><span class="chinese">商务学院，您有什么事？</span><span class="english">ABC Business College, May I help you?</span></p>

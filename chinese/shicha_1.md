@@ -1,5 +1,7 @@
 # 视察
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shicha_1.md)
+
 <p><span class="chinese">恳请莅临视察。</span><span class="english">Inspection is cordially invited.</span></p>
 
 <p><span class="chinese">但我无法亲自视察那里.</span><span class="english">But I can't inspect it personally.</span></p>

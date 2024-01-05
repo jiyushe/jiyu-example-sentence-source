@@ -1,5 +1,7 @@
 # ag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ag.md)
+
 <p><span class="chinese">我希望象你一样开拖拉机。</span><span class="english">I hope I can find ag irl like her.</span></p>
 
 <p><span class="chinese">拜耳医药保健是拜耳集团的子公司。</span><span class="english">Bayer Healthcare is a subgroup of Bayer AG.</span></p>

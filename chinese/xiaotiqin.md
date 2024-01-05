@@ -1,5 +1,7 @@
 # 小提琴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaotiqin.md)
+
 <p><span class="chinese">她会给小提琴上弦。</span><span class="english">She can string a violin.</span></p>
 
 <p><span class="chinese">那就是小提琴的弦。</span><span class="english">And that is a violin string.</span></p>

@@ -1,5 +1,7 @@
 # 原由
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyou.md)
+
 <p><span class="chinese">基于几个付梓上的缘故原由。</span><span class="english">Because of several typographellocal reasons.</span></p>
 
 <p><span class="chinese">我毫无愠色的走到他们身边，询问吵嘴的原由。</span><span class="english">I went to them silently and asked the reasons.</span></p>

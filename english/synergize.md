@@ -1,5 +1,7 @@
 # synergize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synergize.md)
+
 <p><span class="chinese">魔力的对等者大师，擅长于运作协同团队的光波。</span><span class="english">Those of this nature are gifted at running light waves that synergize the group.</span></p>
 
 <p><span class="chinese">我们希望这将协同思想和方法的突破，在小分子RNA的机制。</span><span class="english">We hope this will synergize ideas and method breakthroughs in small RNA mechanisms.</span></p>

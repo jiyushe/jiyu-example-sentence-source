@@ -1,5 +1,7 @@
 # hosepipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hosepipe.md)
+
 <p><span class="chinese">消防员放出水龙带。</span><span class="english">The fireman reeled the hosepipe out.</span></p>
 
 <p><span class="chinese">他们迅速将水龙带卷好。</span><span class="english">They reeled the hosepipe in rapidly.</span></p>

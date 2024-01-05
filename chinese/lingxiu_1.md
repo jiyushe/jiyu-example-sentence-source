@@ -1,5 +1,7 @@
 # 灵秀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingxiu_1.md)
+
 <p><span class="chinese">读史令人明智，读诗令人灵秀。</span><span class="english">Histories make man wise, poems witty.</span></p>
 
 <p><span class="chinese">我只希望你灵秀的心思不要嫌它太粗鄙</span><span class="english">But that I hope some good conceit of thine</span></p>

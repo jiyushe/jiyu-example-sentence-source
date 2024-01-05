@@ -1,5 +1,7 @@
 # flatten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flatten.md)
+
 <p><span class="chinese">将组织平面化。</span><span class="english">Flatten the organization.</span></p>
 
 <p><span class="chinese">排空塑料袋里的气体，然后密封起来。</span><span class="english">Flatten the bags and seal.</span></p>

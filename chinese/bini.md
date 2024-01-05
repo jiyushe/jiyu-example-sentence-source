@@ -1,5 +1,7 @@
 # 比拟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bini.md)
+
 <p><span class="chinese">我的悲伤是无法比拟的。</span><span class="english">There is no sorrow like my sorrow.</span></p>
 
 <p><span class="chinese">让我来把妳与夏日比拟？</span><span class="english">Shall I compare thee to a summer day ?</span></p>

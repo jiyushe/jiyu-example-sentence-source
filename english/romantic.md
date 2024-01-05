@@ -1,5 +1,7 @@
 # romantic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romantic.md)
+
 <p><span class="chinese">真不愧是浪漫派。</span><span class="english">Romantic.</span></p>
 
 <p><span class="chinese">我是个罗曼蒂克的人，经常为汽车写诗。</span><span class="english">I'm a romantic.</span></p>

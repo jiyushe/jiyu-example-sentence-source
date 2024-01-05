@@ -1,5 +1,7 @@
 # 甜酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianjiu.md)
+
 <p><span class="chinese">甜酒我还是喜欢喝干酒。</span><span class="english">I prefer dry wine to rum.</span></p>
 
 <p><span class="chinese">他喝掉了两杯双份甜酒。</span><span class="english">He has knocked back two double rums.</span></p>

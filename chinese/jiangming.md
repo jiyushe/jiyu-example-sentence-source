@@ -1,5 +1,7 @@
 # 讲明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangming.md)
+
 <p><span class="chinese">请向我讲明你拒绝的理由。</span><span class="english">Please give me your reasons for refusing.</span></p>
 
 <p><span class="chinese">她跟他讲明，不能带他去见他父亲。</span><span class="english">She’s telling him that he can’t go with her to see his father.</span></p>

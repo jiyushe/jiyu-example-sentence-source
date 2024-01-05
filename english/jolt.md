@@ -1,5 +1,7 @@
 # jolt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jolt.md)
+
 <p><span class="chinese">他给这些恶棍以当头一棒。</span><span class="english">He gave these scoundrels a jolt.</span></p>
 
 <p><span class="chinese">请给我倒一点威士忌提提神好吗?。</span><span class="english">Please pour me a jolt of whisky.</span></p>

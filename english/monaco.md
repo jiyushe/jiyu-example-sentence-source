@@ -1,5 +1,7 @@
 # monaco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monaco.md)
+
 <p><span class="chinese">其中不可不提的是摩纳哥。</span><span class="english">One cannot not mention is Monaco.</span></p>
 
 <p><span class="chinese">摩纳哥至今还没有获得过奥运奖牌。</span><span class="english">Monaco has yet to win an Olympics medal.</span></p>

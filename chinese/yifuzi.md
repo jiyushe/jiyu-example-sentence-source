@@ -1,5 +1,7 @@
 # 遗腹子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifuzi.md)
+
 <p><span class="chinese">我是一个遗腹子。</span><span class="english">I was a posthumous child.</span></p>
 
 <p><span class="chinese">孕育遗腹子的想法本身就怪异。</span><span class="english">The idea of posthumous child bearing is an odd idea on its own.</span></p>

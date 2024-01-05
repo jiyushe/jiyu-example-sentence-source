@@ -1,5 +1,7 @@
 # hcl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hcl.md)
+
 <p><span class="chinese">这是迄今为止我经由过程的最热的一天。</span><span class="english">Itas the hottest day Iave hcl post so far.</span></p>
 
 <p><span class="chinese">公司主导产品L-盐酸半胱氨酸产量居世界首位。</span><span class="english">One the largest producer of L-Cysteine HCl in the world.</span></p>

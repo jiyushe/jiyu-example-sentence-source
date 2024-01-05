@@ -1,5 +1,7 @@
 # 洪亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongliang_1.md)
+
 <p><span class="chinese">他嗓音洪亮。</span><span class="english">He has a resonant voice.</span></p>
 
 <p><span class="chinese">这个男人声音洪亮。</span><span class="english">The man has a loud voice.</span></p>

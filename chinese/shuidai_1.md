@@ -1,5 +1,7 @@
 # 睡袋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuidai_1.md)
+
 <p><span class="chinese">你怎么知道我还有一个睡袋的？</span><span class="english">How do you know I had anot sleeping bag?</span></p>
 
 <p><span class="chinese">有些人带了睡袋，就蜷缩在里面。</span><span class="english">A few with sleeping bags curling up inside.</span></p>

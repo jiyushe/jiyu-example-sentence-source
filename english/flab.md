@@ -1,5 +1,7 @@
 # flab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flab.md)
+
 <p><span class="chinese">一日刷牙三遍脂肪失踪不见？</span><span class="english">Brushing 3 Times a Day Keeps Flab Away?</span></p>
 
 <p><span class="chinese">你现在比我刚认识你的时候要瘦多了！</span><span class="english">You don't want that flab to get worse, do you?</span></p>

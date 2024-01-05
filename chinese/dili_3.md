@@ -1,5 +1,7 @@
 # 帝力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dili_3.md)
+
 <p><span class="chinese">反对澳大利亚的涂鸦在首都帝力各处喷涂。</span><span class="english">Anti-Australia graffiti is sprinkled around the capital, Dili.</span></p>
 
 <p><span class="chinese">本周于帝力上映的新片引起了澳方对此事的再次关注。</span><span class="english">A new film, shown this week in Dili, has reignited the affair in Australia.</span></p>

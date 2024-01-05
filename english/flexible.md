@@ -1,5 +1,7 @@
 # flexible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flexible.md)
+
 <p><span class="chinese">豁达一点，灵活一点。</span><span class="english">Be open, be flexible.</span></p>
 
 <p><span class="chinese">这是挠性接头。</span><span class="english">This is a flexible sub.</span></p>

@@ -1,5 +1,7 @@
 # provoking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provoking.md)
+
 <p><span class="chinese">可能是我太莽撞无礼，咄咄逼人了。</span><span class="english">Perhaps I was too saucy and provoking.</span></p>
 
 <p><span class="chinese">“太高啦，”这个惹人厌的东西咕噜着。</span><span class="english">That's too high,' murmured the provoking thing.</span></p>

@@ -1,5 +1,7 @@
 # 阴冷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinleng.md)
+
 <p><span class="chinese">他们引我来到一间阴冷的会客室。</span><span class="english">They showed me into a bleak waiting room.</span></p>
 
 <p><span class="chinese">风刮得阴冷如冬——四周是一片凄凉。</span><span class="english">The cold wind from the north chilled the day.</span></p>

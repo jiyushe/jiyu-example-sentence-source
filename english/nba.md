@@ -1,5 +1,7 @@
 # nba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nba.md)
+
 <p><span class="chinese">当然不能和现在NBA的球员比了</span><span class="english">That's tiny in the NBA now.</span></p>
 
 <p><span class="chinese">莫非NBA老板真的境遇如此不堪？</span><span class="english">Do NBA owners really have it that bad?</span></p>

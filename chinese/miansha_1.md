@@ -1,5 +1,7 @@
 # 面纱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miansha_1.md)
+
 <p><span class="chinese">又没有更多的面纱了。</span><span class="english">There is no more purdah.</span></p>
 
 <p><span class="chinese">多数人都将面纱取了下来。</span><span class="english">Most had their burkas off.</span></p>

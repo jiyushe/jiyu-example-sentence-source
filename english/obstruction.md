@@ -1,5 +1,7 @@
 # obstruction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obstruction.md)
+
 <p><span class="chinese">人造冰属于妨碍物。</span><span class="english">Manufactured ice is an obstruction.</span></p>
 
 <p><span class="chinese">那条路已被清除了障碍。</span><span class="english">The road was cleared from obstruction.</span></p>

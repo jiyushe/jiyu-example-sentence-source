@@ -1,5 +1,7 @@
 # multicellular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multicellular.md)
+
 <p><span class="chinese">一些种类的黏菌千上万个个体聚集起来，形成可以爬行的多细胞体。</span><span class="english">Some species gather by the thousands to form multicellular bodies that can crawl.</span></p>
 
 <p><span class="chinese">如果真的是这样，那么，现代领鞭虫就给了我们一个窥探多细胞生物如何形成的机会。</span><span class="english">If that's true, modern choanoflagellates give us a glimpse of how multicellular animals began.</span></p>

@@ -1,5 +1,7 @@
 # multiflora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiflora.md)
+
 <p><span class="chinese">关于多花筋骨草的一些研究。</span><span class="english">Some studies for Ajuga multiflora Bge.</span></p>
 
 <p><span class="chinese">野蔷薇代表浪漫的爱情等。</span><span class="english">The multiflora rose represents the romantic love and so on.</span></p>

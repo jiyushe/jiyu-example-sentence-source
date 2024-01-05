@@ -1,5 +1,7 @@
 # surely 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surely.md)
+
 <p><span class="chinese">他肯定知道。</span><span class="english">He surely knows.</span></p>
 
 <p><span class="chinese">这个我当然知道啦。</span><span class="english">I surely know that.</span></p>

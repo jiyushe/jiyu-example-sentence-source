@@ -1,5 +1,7 @@
 # motorway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motorway.md)
+
 <p><span class="chinese">那条汽车道挤满了汽车，情况很糟糕。</span><span class="english">That motorway pile-up was a bad job.</span></p>
 
 <p><span class="chinese">咱们在第9出口下高速公路吧。</span><span class="english">Let’s turn off the motorway at exit 9.</span></p>

@@ -1,5 +1,7 @@
 # commercialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commercialism.md)
+
 <p><span class="chinese">这就是商业化的精神。</span><span class="english">Gluttons for commercialism.</span></p>
 
 <p><span class="chinese">一些球迷可能不喜欢商业主义的运作。</span><span class="english">Some fans may dislike the new commercialism.</span></p>

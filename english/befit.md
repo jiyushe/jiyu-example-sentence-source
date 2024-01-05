@@ -1,5 +1,7 @@
 # befit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/befit.md)
+
 <p><span class="chinese">她的服装贫适合那种场合。</span><span class="english">Her clothes befit the occasion.</span></p>
 
 <p><span class="chinese">这一场合要求穿礼服。</span><span class="english">His clothes befit the occasion.</span></p>

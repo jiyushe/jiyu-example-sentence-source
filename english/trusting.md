@@ -1,5 +1,7 @@
 # trusting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trusting.md)
+
 <p><span class="chinese">信靠是敬拜的行动，就好象孩子信靠父母的爱与智慧，父母就快乐。</span><span class="english">Trusting is an act of worship.</span></p>
 
 <p><span class="chinese">不要妒嫉，要信任。</span><span class="english">Avoid jealousy and be trusting.</span></p>

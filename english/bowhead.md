@@ -1,5 +1,7 @@
 # bowhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bowhead.md)
+
 <p><span class="chinese">以弓头鲸为例。</span><span class="english">Take bowhead whales for example.</span></p>
 
 <p><span class="chinese">据报道，一头北极露脊死时已经活了130岁。</span><span class="english">One bowhead whale is reported to have been 130 years old when it died.</span></p>

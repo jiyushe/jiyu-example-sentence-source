@@ -1,5 +1,7 @@
 # approved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approved.md)
+
 <p><span class="chinese">她说她认可。</span><span class="english">She said that she approved.</span></p>
 
 <p><span class="chinese">他的申请被批准了。</span><span class="english">His application was approved.</span></p>

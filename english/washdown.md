@@ -1,5 +1,7 @@
 # washdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washdown.md)
+
 <p><span class="chinese">叶功能提供了在冲洗应用的出色表现。</span><span class="english">The lobe feature offers excellent performance in washdown applications.</span></p>
 
 <p><span class="chinese">在管道的顶部，有两个用来清洗或灭火的水喷嘴。</span><span class="english">At the top of the column, there are two water nozzles for washdown and quenching.</span></p>

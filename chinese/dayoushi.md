@@ -1,5 +1,7 @@
 # 打油诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayoushi.md)
+
 <p><span class="chinese">他把他的这首诗歌叫做打油诗。</span><span class="english">He styled his poem doggerel.</span></p>
 
 <p><span class="chinese">这首打油诗没有标明作者是谁。</span><span class="english">The doggerel doesn't filiate itself.</span></p>

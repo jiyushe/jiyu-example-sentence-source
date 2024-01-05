@@ -1,5 +1,7 @@
 # 纱巾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shajin_1.md)
+
 <p><span class="chinese">如果你想出去的话，我可以借给你一条纱巾，把脸蒙起来。</span><span class="english">If you want to go out, I can lend you a gauze to cover your face.</span></p>
 
 <p><span class="chinese">长发和脖颈处的粉白纱巾飘动着，脸上的表情凝固着。</span><span class="english">Fenbo Department of the waves, in the face of the expressions solidification.</span></p>

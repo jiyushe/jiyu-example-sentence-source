@@ -1,5 +1,7 @@
 # 颓败
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuibai.md)
+
 <p><span class="chinese">对于一个已陷于颓败情绪中的国度而言，这不啻雪上加霜。</span><span class="english">For a country already in a declinist mood, this was a blow.</span></p>
 
 <p><span class="chinese">在英国，制造企业正处于自1980年以来最为颓败的时期。</span><span class="english">And in Britain manufacturers are at their gloomiest since 1980.</span></p>

@@ -1,5 +1,7 @@
 # 遐想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaxiang_1.md)
+
 <p><span class="chinese">回味，触动心弦的遐想。</span><span class="english">The fancy of the touch heartstring.</span></p>
 
 <p><span class="chinese">他微微一笑，顿生遐想。</span><span class="english">He was in reverie immediately with smile.</span></p>

@@ -1,5 +1,7 @@
 # siena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siena.md)
+
 <p><span class="chinese">这一次，他是专门为锡耶纳来的。</span><span class="english">This time, he is dedicated to Siena.</span></p>
 
 <p><span class="chinese">锡耶纳的马卡罗内在第62分钟打进了一球。</span><span class="english">For Siena Maccarone scored in the 62nd minute.</span></p>

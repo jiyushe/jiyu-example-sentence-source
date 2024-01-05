@@ -1,5 +1,7 @@
 # 红烛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongzhu.md)
+
 <p><span class="chinese">你是红烛。</span><span class="english">You are the candle.</span></p>
 
 <p><span class="chinese">你是红烛燃烧着亮丽的生命。</span><span class="english">You are Red Candle burning bright life.</span></p>

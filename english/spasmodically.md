@@ -1,5 +1,7 @@
 # spasmodically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spasmodically.md)
+
 <p><span class="chinese">他顽强的手和脚开始痉挛地微弱地挣扎和划动。</span><span class="english">His wilful hands and feet began to beat and churn about, spasmodically and feebly.</span></p>
 
 <p><span class="chinese">现在，他完全僵硬了，除了手掌时不时一开一合。</span><span class="english">He was utterly rigid except for his hands, which were opening and closing spasmodically.</span></p>

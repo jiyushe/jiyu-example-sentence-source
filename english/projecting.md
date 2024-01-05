@@ -1,5 +1,7 @@
 # projecting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/projecting.md)
+
 <p><span class="chinese">他们在设计一个新自来水厂。</span><span class="english">They were projecting a new waterworks.</span></p>
 
 <p><span class="chinese">从船首伸出来的圆材。</span><span class="english">A spar projecting from the bow of a vessel.</span></p>

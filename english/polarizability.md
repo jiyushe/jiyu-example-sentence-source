@@ -1,5 +1,7 @@
 # polarizability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polarizability.md)
+
 <p><span class="chinese">氟原子极化率低。</span><span class="english">The polarizability of fluorine atom is low.</span></p>
 
 <p><span class="chinese">概述了三阶非线性光学性能的计算。</span><span class="english">The calculations of third-order nonlinear polarizability are introduced.</span></p>

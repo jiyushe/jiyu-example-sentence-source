@@ -1,5 +1,7 @@
 # inflatable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflatable.md)
+
 <p><span class="chinese">那是条可充气的橡皮船。</span><span class="english">That is an inflatable rubber boat.</span></p>
 
 <p><span class="chinese">Nappak充气床在不用的时候可以折叠成一小束。</span><span class="english">Nappak inflatable bed folds into a small tube when not in use.</span></p>

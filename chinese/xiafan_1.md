@@ -1,5 +1,7 @@
 # 下饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiafan_1.md)
+
 <p><span class="chinese">能来点淡啤酒下饭吗？</span><span class="english">Some ale to wash this down?</span></p>
 
 <p><span class="chinese">没有菜下饭。</span><span class="english">There is no dish to go with rice.</span></p>

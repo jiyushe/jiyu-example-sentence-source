@@ -1,5 +1,7 @@
 # phosphoric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphoric.md)
+
 <p><span class="chinese">那座山上有很多含磷的石头。</span><span class="english">There are many phosphoric stones on the hill.</span></p>
 
 <p><span class="chinese">可乐中的活跃成份就是含磷的酸性物质。</span><span class="english">The active ingredient in Coke is phosphoric acid.</span></p>

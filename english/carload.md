@@ -1,5 +1,7 @@
 # carload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carload.md)
+
 <p><span class="chinese">不管他去哪里，总有一车士兵跟着。</span><span class="english">Wherever he goes, a carload of soldiers goes with him.</span></p>
 
 <p><span class="chinese">一匹马当时正在拉着满满的一车压碎了的坚果去市场。</span><span class="english">A horse was pulling a carload of crushed nuts to a market.</span></p>

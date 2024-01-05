@@ -1,5 +1,7 @@
 # manhunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manhunt.md)
+
 <p><span class="chinese">搜捕工作变得更加紧张。</span><span class="english">The manhunt has become more intense.</span></p>
 
 <p><span class="chinese">本人谢绝任何跨省追捕行为。</span><span class="english">I refuse any inter-provincial manhunt.</span></p>

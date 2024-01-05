@@ -1,5 +1,7 @@
 # 专权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanquan.md)
+
 <p><span class="chinese">结社自由是政党专制或大人物专权的克星。</span><span class="english">Freedom of association is regarded as a threat by dictators.</span></p>
 
 <p><span class="chinese">军事专权往往会使掌权的人道德败坏。</span><span class="english">Absolute military power tends to deprave those who are in control.</span></p>

@@ -1,5 +1,7 @@
 # spindly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spindly.md)
+
 <p><span class="chinese">跟在他后面的是一个面色灰黄，细长个子的律师。</span><span class="english">He was followed by a sallow, spindly lawyer.</span></p>
 
 <p><span class="chinese">至少现在衣服盖住了他单薄细长的身体。</span><span class="english">At least the clothing covered his spindly body for now.</span></p>

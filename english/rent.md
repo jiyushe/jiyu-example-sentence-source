@@ -1,5 +1,7 @@
 # rent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rent.md)
+
 <p><span class="chinese">购买还是租用？</span><span class="english">Buy or rent?</span></p>
 
 <p><span class="chinese">或租一个！</span><span class="english">Or rent one.</span></p>

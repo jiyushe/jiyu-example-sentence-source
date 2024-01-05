@@ -1,5 +1,7 @@
 # accuracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accuracy.md)
+
 <p><span class="chinese">我怀疑你的话的正确性。</span><span class="english">I doubt the accuracy 0f your words.</span></p>
 
 <p><span class="chinese">先说词条的准确性问题。</span><span class="english">Start with the question of accuracy.</span></p>

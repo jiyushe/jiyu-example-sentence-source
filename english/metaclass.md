@@ -1,5 +1,7 @@
 # metaclass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metaclass.md)
+
 <p><span class="chinese">每个固定模型的元类扩展有一个或者多个条目。</span><span class="english">One or more entries for each metaclass extension of each stereotype.</span></p>
 
 <p><span class="chinese">许多程序员会混淆元类和基类的不同。</span><span class="english">Many programmers are confused about the difference between a metaclass and a base class.</span></p>

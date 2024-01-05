@@ -1,5 +1,7 @@
 # sludge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sludge.md)
+
 <p><span class="chinese">为什么用塘泥？</span><span class="english">Why do they use pond sludge?</span></p>
 
 <p><span class="chinese">供试污泥呈酸性。</span><span class="english">The tested sewage sludge is acid.</span></p>

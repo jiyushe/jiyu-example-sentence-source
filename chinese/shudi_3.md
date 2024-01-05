@@ -1,5 +1,7 @@
 # 熟地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shudi_3.md)
+
 <p><span class="chinese">到底是瓜熟地落还是枯黄凋落？是百年好合还是含恨终生？</span><span class="english">In the end is off or yellow melon Rehmannia litter?</span></p>
 
 <p><span class="chinese">到底是瓜熟地落还是枯黄凋落？</span><span class="english">Is everything coming to fruition or to wither without anything?</span></p>

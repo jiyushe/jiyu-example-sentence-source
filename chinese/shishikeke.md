@@ -1,5 +1,7 @@
 # 时时刻刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishikeke.md)
+
 <p><span class="chinese">我时时刻刻都想着你。</span><span class="english">I think of you constantly.</span></p>
 
 <p><span class="chinese">我时时刻刻都想着你。</span><span class="english">I think of you  constantly.</span></p>

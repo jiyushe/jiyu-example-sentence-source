@@ -1,5 +1,7 @@
 # extortion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extortion.md)
+
 <p><span class="chinese">他将因被指控敲诈而受审。</span><span class="english">He faces trial on extortion charges.</span></p>
 
 <p><span class="chinese">因此，现在真实的情况完全是纯粹的勒索。</span><span class="english">So what’s really going on is extortion pure and simple.</span></p>

@@ -1,5 +1,7 @@
 # 战列舰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanliejian.md)
+
 <p><span class="chinese">1968年经过现代化改装后的新泽西号战列舰。</span><span class="english">USS New Jersey BB-62 after the 1968 modernization.</span></p>
 
 <p><span class="chinese">衣阿华级战列舰究竟能跑多快？</span><span class="english">How fast could the Iowa class battleships really go?</span></p>

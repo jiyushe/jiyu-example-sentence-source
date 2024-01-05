@@ -1,5 +1,7 @@
 # 面皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianpi.md)
+
 <p><span class="chinese">面皮，鸡肉，蘑菇，芝士。</span><span class="english">Pasta tubes, chicken, mushroom, ricotta.</span></p>
 
 <p><span class="chinese">面皮是用面粉制作而成的。</span><span class="english">The production of flour dough is formed.</span></p>

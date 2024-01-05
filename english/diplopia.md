@@ -1,5 +1,7 @@
 # diplopia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diplopia.md)
+
 <p><span class="chinese">如何能更好更快的恢复视力？</span><span class="english">How can better faster extensive diplopia force?</span></p>
 
 <p><span class="chinese">一位60岁男性，左眼旋位复视，眼底像片有20度外旋。</span><span class="english">A 60 year-old male patient had left eye torsional diplopia.</span></p>

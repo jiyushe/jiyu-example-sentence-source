@@ -1,5 +1,7 @@
 # 史家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijia.md)
+
 <p><span class="chinese">撒路斯提乌斯是罗马共和时期的政治家、史家。</span><span class="english">Sallustius was a statesman and historian of Roman Republic.</span></p>
 
 <p><span class="chinese">撒路斯提乌斯是罗马共和时期的政治家、史家。</span><span class="english">Sallust was a politician and historian in the late Roman republic.</span></p>

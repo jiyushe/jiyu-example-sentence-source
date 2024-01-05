@@ -1,5 +1,7 @@
 # inexplicable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inexplicable.md)
+
 <p><span class="chinese">这是闻所未闻的，这是令人费解的。</span><span class="english">It was just unheard of, it was inexplicable.</span></p>
 
 <p><span class="chinese">总有一种归隐母体的莫名冲动。</span><span class="english">Seclusion of a mother's inexplicable impulse.</span></p>

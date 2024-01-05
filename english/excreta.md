@@ -1,5 +1,7 @@
 # excreta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excreta.md)
+
 <p><span class="chinese">污水包括废水和人类粪便。</span><span class="english">Sewage includes waste water and human excreta.</span></p>
 
 <p><span class="chinese">排泄物必须被冲到水或沼泽中。</span><span class="english">Excreta must be contained in flood or swampy conditions.</span></p>

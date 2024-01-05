@@ -1,5 +1,7 @@
 # 一端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiduan.md)
+
 <p><span class="chinese">你拉着弹簧的一端</span><span class="english">So you pull one end.</span></p>
 
 <p><span class="chinese">它的一端是尖的。</span><span class="english">It is pointed at one end.</span></p>

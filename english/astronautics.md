@@ -1,5 +1,7 @@
 # astronautics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astronautics.md)
+
 <p><span class="chinese">已研制的微带双工器，成功地应用于航天电子设备。</span><span class="english">The developed diplexer has beenapplied to astronautics electronics equipments successfully.</span></p>
 
 <p><span class="chinese">这也是我国航天史上首次实施太空行走。</span><span class="english">This is also in our country astronautics history implements for the first time spaces walk.</span></p>

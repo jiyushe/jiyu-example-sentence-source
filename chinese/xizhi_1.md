@@ -1,5 +1,7 @@
 # 锡纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizhi_1.md)
+
 <p><span class="chinese">用锡纸把鸡肉松松地盖起来。</span><span class="english">Cover the chicken loosely with foil.</span></p>
 
 <p><span class="chinese">把全身都用锡纸包裹起来。</span><span class="english">Pack up the whole body with tinfoil.</span></p>

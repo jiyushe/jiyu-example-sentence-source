@@ -1,5 +1,7 @@
 # antisubmarine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antisubmarine.md)
+
 <p><span class="chinese">是“反潜艇侦查调查委员会”的缩写形式。</span><span class="english">ASDIC is an acronym for antisubmarine detection investigation committee.</span></p>
 
 <p><span class="chinese">此系统为反潜评估提供了可靠的依据。</span><span class="english">This system provides the reliable foundation for antisubmarine assessment.</span></p>

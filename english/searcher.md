@@ -1,5 +1,7 @@
 # searcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/searcher.md)
+
 <p><span class="chinese">如果你是一个寻求真理的人。</span><span class="english">Are you a seeker or a searcher.</span></p>
 
 <p><span class="chinese">迅雷资源搜索引擎检索器和用户接口的实现。</span><span class="english">The implement of XunLei searcher and user-interface.</span></p>

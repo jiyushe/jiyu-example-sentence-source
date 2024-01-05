@@ -1,5 +1,7 @@
 # insight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insight.md)
+
 <p><span class="chinese">他是一个很有洞察力的人。</span><span class="english">He was a man of deep insight.</span></p>
 
 <p><span class="chinese">然而配偶们并不缺乏洞察力。</span><span class="english">Yet spouses do not lack insight.</span></p>

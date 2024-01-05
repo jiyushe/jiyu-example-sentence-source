@@ -1,5 +1,7 @@
 # winnow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winnow.md)
+
 <p><span class="chinese">我们应该排除逻辑中的错误。</span><span class="english">We should winnow out the errors in logic.</span></p>
 
 <p><span class="chinese">贡井到簸米湾坐几路车？</span><span class="english">Gongjing to winnow rice Bay take a few road cars?</span></p>

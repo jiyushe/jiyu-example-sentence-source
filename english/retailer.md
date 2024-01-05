@@ -1,5 +1,7 @@
 # retailer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retailer.md)
+
 <p><span class="chinese">它原是一间玻璃公司的办公室。</span><span class="english">It's used to be a glass retailer.</span></p>
 
 <p><span class="chinese">最大的中立派音乐零售商人在英国。</span><span class="english">The largest independent music retailer in the UK.</span></p>

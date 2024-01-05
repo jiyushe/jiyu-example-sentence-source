@@ -1,5 +1,7 @@
 # faze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faze.md)
+
 <p><span class="chinese">最坏的结果也不会使他烦恼。</span><span class="english">The worst results cannot faze him.</span></p>
 
 <p><span class="chinese">我那份改头换面的成绩单，并没有引起商学院的疑虑。</span><span class="english">My duff transcript did not faze the schools I applied to.</span></p>

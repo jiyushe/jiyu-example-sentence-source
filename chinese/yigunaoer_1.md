@@ -1,5 +1,7 @@
 # 一古脑儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yigunaoer_1.md)
+
 <p><span class="chinese">水桶底儿一古脑儿地都磕掉了。</span><span class="english">The bottom of the bucket is clean knocked cut.</span></p>
 
 <p><span class="chinese">现存的经济制度被一古脑儿全盘接收了过来。</span><span class="english">Existing economic system was taken over holus-bolus.</span></p>

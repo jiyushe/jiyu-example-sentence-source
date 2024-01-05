@@ -1,5 +1,7 @@
 # fat 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fat.md)
+
 <p><span class="chinese">一只肥猫。</span><span class="english">A fat cat.</span></p>
 
 <p><span class="chinese">一坨脂肪么？</span><span class="english">lumps of fat?</span></p>

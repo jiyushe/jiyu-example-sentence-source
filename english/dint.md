@@ -1,5 +1,7 @@
 # dint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dint.md)
+
 <p><span class="chinese">不知道丁力大叔那里怎么样了。</span><span class="english">Don't know big uncle of D dint how there.</span></p>
 
 <p><span class="chinese">这三天丁力谢谢大家了。</span><span class="english">The these 3 days D dint thanked everyone.</span></p>

@@ -1,5 +1,7 @@
 # unfading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfading.md)
+
 <p><span class="chinese">给她伊甸园里绽放的那从不花褪残红的玫瑰。</span><span class="english">For her th' unfading rose of Eden blooms.</span></p>
 
 <p><span class="chinese">永不褪色的面料，给人以常新的感觉。</span><span class="english">Unfading materials give people a feeling of lasting freshness.</span></p>

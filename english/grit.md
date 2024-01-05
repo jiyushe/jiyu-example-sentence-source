@@ -1,5 +1,7 @@
 # grit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grit.md)
+
 <p><span class="chinese">没有人怀疑她的大脑和勇气。</span><span class="english">Nobody doubts her brains or grit.</span></p>
 
 <p><span class="chinese">其次就是刚毅——非常强壮的粗砂。</span><span class="english">And second, manliness-very strong grit.</span></p>

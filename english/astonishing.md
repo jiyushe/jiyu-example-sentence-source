@@ -1,5 +1,7 @@
 # astonishing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astonishing.md)
+
 <p><span class="chinese">这绝对令人吃惊。</span><span class="english">It was absolutely astonishing.</span></p>
 
 <p><span class="chinese">他们的兽性令人吃惊。</span><span class="english">Their bestiality was astonishing.</span></p>

@@ -1,5 +1,7 @@
 # copenhagen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copenhagen.md)
+
 <p><span class="chinese">哥本哈根，斯堪的酒店。</span><span class="english">The Scandic hotel, Copenhagen.</span></p>
 
 <p><span class="chinese">波兹南，离哥本哈根还有多远？</span><span class="english">Poznan, how far from Copenhagen?</span></p>

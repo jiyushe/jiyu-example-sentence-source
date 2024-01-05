@@ -1,5 +1,7 @@
 # nadir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nadir.md)
+
 <p><span class="chinese">联盟23S“奥林巴斯”号停靠在空间站的最下端。</span><span class="english">Soyuz 23S, "Olympus" docked to the nadir side of the Space Station.</span></p>
 
 <p><span class="chinese">联盟23S“奥林巴斯”号停靠在空间站的最下端。</span><span class="english">Soyuz 23S, “Olympus” docked to the nadir side of the Space Station.</span></p>

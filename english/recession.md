@@ -1,5 +1,7 @@
 # recession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recession.md)
+
 <p><span class="chinese">经济萧条一个接一个。</span><span class="english">One recession after another.</span></p>
 
 <p><span class="chinese">即使这样，衰退正四下肆虐。</span><span class="english">Even so, a recession is under way.</span></p>

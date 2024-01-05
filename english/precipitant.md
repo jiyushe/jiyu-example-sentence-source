@@ -1,5 +1,7 @@
 # precipitant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precipitant.md)
+
 <p><span class="chinese">治疗的目的在于去除或处理急性的触发因素。</span><span class="english">Therapy is directed toward removing or treating the acute precipitant.</span></p>
 
 <p><span class="chinese">结果表明，用草酸氨做沉淀剂可以得到结构和形态比较好的产品。</span><span class="english">It shows that good produce can be synthesized by using algin as precipitant.</span></p>

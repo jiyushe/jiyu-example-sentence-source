@@ -1,5 +1,7 @@
 # acetobacter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetobacter.md)
+
 <p><span class="chinese">从红茶菌液中分离得到膜醋酸菌与裂殖酵母。</span><span class="english">The Acetobacter xylinum and Schizosacchromyces sp. were isolated from tea fungus culture.</span></p>
 
 <p><span class="chinese">以海藻酸钠为载体，采用包埋法固定化醋酸杆菌。</span><span class="english">Strain of Acetobacter pasteurianus cells were immobilized with sodium alginate as the carrier.</span></p>

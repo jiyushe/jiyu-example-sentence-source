@@ -1,5 +1,7 @@
 # memoir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memoir.md)
+
 <p><span class="chinese">他于1858年，曾寄给我关于本题的一篇论文。</span><span class="english">In 1858 he sent me a memoir on this subject.</span></p>
 
 <p><span class="chinese">总统的回忆录重现了一个过去的时代。</span><span class="english">The president's memoir disinterred a past era.</span></p>

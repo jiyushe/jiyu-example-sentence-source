@@ -1,5 +1,7 @@
 # disavow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disavow.md)
+
 <p><span class="chinese">她试图否认她的过去。</span><span class="english">She tried to disavow her past.</span></p>
 
 <p><span class="chinese">否决否认以及否定。</span><span class="english">I deny , disaffirm ang disavow that.</span></p>

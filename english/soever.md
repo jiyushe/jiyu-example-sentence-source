@@ -1,5 +1,7 @@
 # soever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soever.md)
+
 <p><span class="chinese">他根本没有家。</span><span class="english">He had no home soever.</span></p>
 
 <p><span class="chinese">你喜欢什么，随你挑。</span><span class="english">Choose any thing soever you like.</span></p>

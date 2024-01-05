@@ -1,5 +1,7 @@
 # 赏析
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxi.md)
+
 <p><span class="chinese">这意味着我们会读很多的诗歌，写赏析的文章。</span><span class="english">It will mean reading alot of poems and writing about them some.</span></p>
 
 <p><span class="chinese">目前赏析一下在大歌星田震的磁带。</span><span class="english">Now let's enjoy the tape of a update popular singer madam Tianzhen.</span></p>

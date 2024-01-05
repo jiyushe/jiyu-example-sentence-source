@@ -1,5 +1,7 @@
 # barm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barm.md)
+
 <p><span class="chinese">野生酵母污染会造成啤酒质量问题。</span><span class="english">The contamination of wild barm would result in inferior beer quality.</span></p>
 
 <p><span class="chinese">而影响过滤前酒液酵母细胞浓度的关键因素是酵母的凝聚性。</span><span class="english">The key factor to influence barm cell concentration was yeast coherency.</span></p>

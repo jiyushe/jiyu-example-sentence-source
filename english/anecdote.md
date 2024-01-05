@@ -1,5 +1,7 @@
 # anecdote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anecdote.md)
+
 <p><span class="chinese">她读到一桩轶事。</span><span class="english">There she read an anecdote.</span></p>
 
 <p><span class="chinese">不过我会给大家讲一则趣闻轶事。</span><span class="english">But an anecdote will suffice.</span></p>

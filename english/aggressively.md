@@ -1,5 +1,7 @@
 # aggressively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggressively.md)
+
 <p><span class="chinese">铺积极如果你真的想你的书出售。</span><span class="english">Shop aggressively if you really want your book to sell.</span></p>
 
 <p><span class="chinese">她们努力工作，怒气冲冲，连打扮都充满攻击性。</span><span class="english">They worked hard, raged hard and accessorized aggressively.</span></p>

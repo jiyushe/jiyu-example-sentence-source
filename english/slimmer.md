@@ -1,5 +1,7 @@
 # slimmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slimmer.md)
+
 <p><span class="chinese">因为你更加苗条。</span><span class="english">Because you’re slimmer.</span></p>
 
 <p><span class="chinese">你这阵子看起来苗条多了。</span><span class="english">You look much slimmer these days!</span></p>

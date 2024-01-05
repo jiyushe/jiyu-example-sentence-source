@@ -1,5 +1,7 @@
 # neve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neve.md)
+
 <p><span class="chinese">我从没说过容易。</span><span class="english">I neve said it was easy.</span></p>
 
 <p><span class="chinese">做事不能半途而毁。</span><span class="english">Neve do thing by halves.</span></p>

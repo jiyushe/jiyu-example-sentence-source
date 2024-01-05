@@ -1,5 +1,7 @@
 # shakespearean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shakespearean.md)
+
 <p><span class="chinese">他导演了五部莎士比亚戏剧。</span><span class="english">He directed five Shakespearean plays.</span></p>
 
 <p><span class="chinese">这儿有莎士比亚学校和慈善组织。</span><span class="english">There's Shakespearean schools, charity organisations.</span></p>

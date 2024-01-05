@@ -1,5 +1,7 @@
 # vapour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vapour.md)
+
 <p><span class="chinese">切勿吸入蒸汽。</span><span class="english">S23 Do not breathe vapour.</span></p>
 
 <p><span class="chinese">水如何能变成蒸汽呢？</span><span class="english">How can the water become vapour?</span></p>

@@ -1,5 +1,7 @@
 # fibroblast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibroblast.md)
+
 <p><span class="chinese">这里展示的是一个充分伸展的成纤维细胞</span><span class="english">This shows a fibroblast that is very stretched out.</span></p>
 
 <p><span class="chinese">H2O2可促进大鼠成纤维细胞凋亡。</span><span class="english">And H2O2 could promote apoptosis of fibroblast cell.</span></p>

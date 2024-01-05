@@ -1,5 +1,7 @@
 # 闭合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bihe.md)
+
 <p><span class="chinese">三人构成了一条闭合的电路。</span><span class="english">The three formed an electric chain.</span></p>
 
 <p><span class="chinese">在某一时间，仅有一个继电器是闭合的。</span><span class="english">Only one relay is closed at any time.</span></p>

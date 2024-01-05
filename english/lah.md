@@ -1,5 +1,7 @@
 # lah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lah.md)
+
 <p><span class="chinese">他告诉记者，“热狗就是热狗。</span><span class="english">Hot dog is hot dog lah.</span></p>
 
 <p><span class="chinese">别担心，他能行的。</span><span class="english">Dun worry, he can one lah.</span></p>

@@ -1,5 +1,7 @@
 # 数量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuliang.md)
+
 <p><span class="chinese">条子中总棉结数量高。</span><span class="english">High total neps in sliver.</span></p>
 
 <p><span class="chinese">确定蜘蛛的数量。</span><span class="english">Pick the number of spiders.</span></p>

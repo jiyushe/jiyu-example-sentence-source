@@ -1,5 +1,7 @@
 # airily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airily.md)
+
 <p><span class="chinese">轻盈的是你的体态。</span><span class="english">Your posture acts airily.</span></p>
 
 <p><span class="chinese">自树间翩然而落的，我的天使…</span><span class="english">Falling airily from the tree, my angel.</span></p>

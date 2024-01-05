@@ -1,5 +1,7 @@
 # designing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/designing.md)
+
 <p><span class="chinese">设计了G代码编译运行环境。</span><span class="english">Designing G-Code compiling environment.</span></p>
 
 <p><span class="chinese">我的老师对设计机器人是个内行。</span><span class="english">My teacher is adept at designing robots.</span></p>

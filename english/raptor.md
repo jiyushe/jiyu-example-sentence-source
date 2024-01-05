@@ -1,5 +1,7 @@
 # raptor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raptor.md)
+
 <p><span class="chinese">野人海岸迅猛龙遗址。</span><span class="english">Savage Coast Raptor Fields.</span></p>
 
 <p><span class="chinese">猛龙队史最伟大的球员。</span><span class="english">Greatest Raptor of all time.</span></p>

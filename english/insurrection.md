@@ -1,5 +1,7 @@
 # insurrection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insurrection.md)
+
 <p><span class="chinese">起义是狂热的表现。</span><span class="english">An insurrection is an enthusiasm.</span></p>
 
 <p><span class="chinese">我应当这样做，因为起义应当有它的纪律。</span><span class="english">I had to do it, because insurrection must have its discipline.</span></p>

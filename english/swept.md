@@ -1,5 +1,7 @@
 # swept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swept.md)
+
 <p><span class="chinese">他潇洒地向她一鞠躬。</span><span class="english">He swept her a bow.</span></p>
 
 <p><span class="chinese">他把灰尘扫走了。</span><span class="english">He swept the dust away.</span></p>

@@ -1,5 +1,7 @@
 # 货价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huojia.md)
+
 <p><span class="chinese">这些价格是船上交货价还是运费及保险费在内价？</span><span class="english">Are those prices FOB or CIF ?</span></p>
 
 <p><span class="chinese">那家商行在哄抬货价。</span><span class="english">That firm was laying on higher prices.</span></p>

@@ -1,5 +1,7 @@
 # 慢吞吞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mantuntun.md)
+
 <p><span class="chinese">他慢吞吞地跟在我后面走。</span><span class="english">He trailed along after me.</span></p>
 
 <p><span class="chinese">他慢吞吞地对她说声问候。</span><span class="english">He drawled a greeting to her.</span></p>

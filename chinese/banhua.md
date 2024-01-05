@@ -1,5 +1,7 @@
 # 版画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banhua.md)
+
 <p><span class="chinese">什么是版画？。</span><span class="english">What Is a Lithograph?</span></p>
 
 <p><span class="chinese">制作版画的方法有很多种。</span><span class="english">There are many methods of printmaking.</span></p>

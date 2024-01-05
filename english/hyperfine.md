@@ -1,5 +1,7 @@
 # hyperfine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperfine.md)
+
 <p><span class="chinese">原子核的影响引起超精细结构。</span><span class="english">Nuclear effects produce hyperfine structure.</span></p>
 
 <p><span class="chinese">原子核的影响引起超精细结构。</span><span class="english">Nuclear effects produce hyperfine structure.</span></p>

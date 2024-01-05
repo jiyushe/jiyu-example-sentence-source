@@ -1,5 +1,7 @@
 # sorority
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorority.md)
+
 <p><span class="chinese">你是怎么进入你的联谊会的？</span><span class="english">How did you get in your sorority?</span></p>
 
 <p><span class="chinese">玛莉在大学的时候加入了女学生联谊会。</span><span class="english">Mary joined a sorority when she was at college.</span></p>

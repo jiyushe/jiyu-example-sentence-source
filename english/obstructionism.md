@@ -1,5 +1,7 @@
 # obstructionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obstructionism.md)
+
 <p><span class="chinese">他们的蓄意阻挠会比阿卜杜拉国王的统治持续得更久。</span><span class="english">Their obstructionism will outlast King Abdullah's reign.</span></p>
 
 <p><span class="chinese">这些左移人士突然喜欢上了法律之外的阻挠力量。</span><span class="english">It’s the left that has suddenly embraced extralegal obstructionism.</span></p>

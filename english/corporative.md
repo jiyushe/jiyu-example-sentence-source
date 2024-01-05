@@ -1,5 +1,7 @@
 # corporative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corporative.md)
+
 <p><span class="chinese">我是几个法人标准的发起者。</span><span class="english">I am an initiator of several corporative standards.</span></p>
 
 <p><span class="chinese">三堂小学的学生们是如此的友善很可爱。</span><span class="english">The staff of this school is so nice and corporative.</span></p>

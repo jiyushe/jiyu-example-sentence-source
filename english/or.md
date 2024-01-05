@@ -1,5 +1,7 @@
 # or
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/or.md)
+
 <p><span class="chinese">会还是不会？</span><span class="english">Yes or no?</span></p>
 
 <p><span class="chinese">还是盗尸鬼？</span><span class="english">Or a ghoul?</span></p>

@@ -1,5 +1,7 @@
 # squiggly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squiggly.md)
+
 <p><span class="chinese">走开，两只歪扭的小耳朵！</span><span class="english">GO AWAY, two little squiggly ears!</span></p>
 
 <p><span class="chinese">你是否想知道那些色彩鲜艳，波浪线是？</span><span class="english">Ever wonder what those colorful, squiggly lines are for?</span></p>

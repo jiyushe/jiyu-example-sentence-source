@@ -1,5 +1,7 @@
 # bulgy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulgy.md)
+
 <p><span class="chinese">蜘蛛张着凸出的腹部。</span><span class="english">The spider has a bulgy abdomen.</span></p>
 
 <p><span class="chinese">近视要怎么样保持眼睛不凸出来？</span><span class="english">How should myopia hold an eye not bulgy come?</span></p>

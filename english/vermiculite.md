@@ -1,5 +1,7 @@
 # vermiculite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vermiculite.md)
+
 <p><span class="chinese">移栽采用蛭石作为苗床基质。</span><span class="english">Vermiculite is the best plantlet substrate.</span></p>
 
 <p><span class="chinese">蛭石在短期内就会分解。</span><span class="english">Vermiculite tends to collapse in a short time.</span></p>

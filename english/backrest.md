@@ -1,5 +1,7 @@
 # backrest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backrest.md)
+
 <p><span class="chinese">拆下后排靠背罩。</span><span class="english">Remove cover for rear backrest.</span></p>
 
 <p><span class="chinese">拆下前靠背罩。</span><span class="english">Remove cover for front backrest.</span></p>

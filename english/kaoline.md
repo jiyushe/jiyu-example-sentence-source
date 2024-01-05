@@ -1,5 +1,7 @@
 # kaoline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kaoline.md)
+
 <p><span class="chinese">使用廉价的高岭土为原料是制取沸石的理想途径。</span><span class="english">Manufacturing zeolite from kaoline is the most economical method.</span></p>
 
 <p><span class="chinese">一种由瓷石、高岭土等组成，外表施有釉或彩绘的物器。</span><span class="english">An object composing of chinastone and kaoline etc. with glaze facilities or painted in the surface.</span></p>

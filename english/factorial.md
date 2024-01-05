@@ -1,5 +1,7 @@
 # factorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/factorial.md)
+
 <p><span class="chinese">所以不包含N的阶乘。</span><span class="english">So there's no N factorial involved here.</span></p>
 
 <p><span class="chinese">现在，让我们回到阶乘函数上来。</span><span class="english">Now, let's return to the factorial function.</span></p>

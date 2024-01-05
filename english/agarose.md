@@ -1,5 +1,7 @@
 # agarose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agarose.md)
+
 <p><span class="chinese">琼脂糖是一种天然的直链多糖。</span><span class="english">Agarose is naturally linear polysaccharide.</span></p>
 
 <p><span class="chinese">PCR扩增和琼脂糖凝胶电泳分析。</span><span class="english">PCR amplification and agarose gel electrophoresis.</span></p>

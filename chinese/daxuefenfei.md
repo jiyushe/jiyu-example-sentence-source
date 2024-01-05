@@ -1,5 +1,7 @@
 # 大雪纷飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxuefenfei.md)
+
 <p><span class="chinese">大雪纷飞。</span><span class="english">Heavy snows fell.</span></p>
 
 <p><span class="chinese">又是大雪纷飞的日子。</span><span class="english">Is a heavy snow days.</span></p>

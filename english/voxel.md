@@ -1,5 +1,7 @@
 # voxel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voxel.md)
+
 <p><span class="chinese">我仍然说，体素渲染更有效。</span><span class="english">I still say Voxel rendering is more efficient.</span></p>
 
 <p><span class="chinese">你有任何其他红色警报2体素重拍？</span><span class="english">Do you have any other Red Alert 2 Voxel remakes?</span></p>

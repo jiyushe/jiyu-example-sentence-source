@@ -1,5 +1,7 @@
 # 前辈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianbei.md)
+
 <p><span class="chinese">他们都是我的前辈。</span><span class="english">They are all my seniors.</span></p>
 
 <p><span class="chinese">前辈过奖了！</span><span class="english">The elder generation overpraised!</span></p>

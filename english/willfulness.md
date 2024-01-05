@@ -1,5 +1,7 @@
 # willfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willfulness.md)
+
 <p><span class="chinese">对，那个倔强任性的孩子就是我！</span><span class="english">Right, that stubborn willfulness of a child is me!</span></p>
 
 <p><span class="chinese">自从那次任性的旅行后，我再也没有远行过。</span><span class="english">Since that willfulness travel, I never taught over.</span></p>

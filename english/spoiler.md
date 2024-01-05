@@ -1,5 +1,7 @@
 # spoiler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spoiler.md)
+
 <p><span class="chinese">将扰流板安装在后轮上。</span><span class="english">Install spoiler on rear wheel.</span></p>
 
 <p><span class="chinese">另一个办法是玩拆墙脚的把戏。</span><span class="english">Another way was to play spoiler.</span></p>

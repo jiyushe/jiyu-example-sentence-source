@@ -1,5 +1,7 @@
 # marry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marry.md)
+
 <p><span class="chinese">嫁给他？</span><span class="english">Marry him?</span></p>
 
 <p><span class="chinese">你结婚？</span><span class="english">You marry?</span></p>

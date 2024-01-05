@@ -1,5 +1,7 @@
 # 总经理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongjingli.md)
+
 <p><span class="chinese">我曾是他的总经理。</span><span class="english">I was his general manager.</span></p>
 
 <p><span class="chinese">没有哪个决定是总经理一手遮天。</span><span class="english">No decision is made in a vacuum.</span></p>

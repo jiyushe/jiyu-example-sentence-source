@@ -1,5 +1,7 @@
 # chief
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chief.md)
+
 <p><span class="chinese">他是我的老上级。</span><span class="english">He is my old chief.</span></p>
 
 <p><span class="chinese">我将是主要的忏悔者。</span><span class="english">I'll be chief mourner.</span></p>

@@ -1,5 +1,7 @@
 # 出道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chudao.md)
+
 <p><span class="chinese">瞧那个新出道的女运动员迪芬尼！</span><span class="english">Look at that new girl Tiffany move!</span></p>
 
 <p><span class="chinese">我出道时是个举重运动员。</span><span class="english">I started way back as a weightlifter.</span></p>

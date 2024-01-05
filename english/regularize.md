@@ -1,5 +1,7 @@
 # regularize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regularize.md)
+
 <p><span class="chinese">他试图将煤矿的管理系统化。</span><span class="english">He tried to regularize the management of coal mines.</span></p>
 
 <p><span class="chinese">这使艾滋病病毒检测向“常规化”迈进了一大步。</span><span class="english">This makes HIV testing to "regularize" a major step forward.</span></p>

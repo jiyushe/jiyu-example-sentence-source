@@ -1,5 +1,7 @@
 # 胸膛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongtang.md)
+
 <p><span class="chinese">自画眉鸟的胸膛。</span><span class="english">In a thrush's breast.</span></p>
 
 <p><span class="chinese">拍拍自己的胸膛。</span><span class="english">Pat yourself on the back.</span></p>

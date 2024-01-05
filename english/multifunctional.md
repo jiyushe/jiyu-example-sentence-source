@@ -1,5 +1,7 @@
 # multifunctional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multifunctional.md)
+
 <p><span class="chinese">多功能录像机一直在市场走俏。</span><span class="english">Multifunctional videorecorders have enjoyed brick sales.</span></p>
 
 <p><span class="chinese">这种多功能的产品有时会导致一个坏到底。</span><span class="english">Such multifunctional gadgets sometimes lead to a bad end.</span></p>

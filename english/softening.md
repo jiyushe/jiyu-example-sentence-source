@@ -1,5 +1,7 @@
 # softening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/softening.md)
+
 <p><span class="chinese">维卡软化温度。</span><span class="english">Vicat softening temp.</span></p>
 
 <p><span class="chinese">经济正在软化。</span><span class="english">The economy is softening.</span></p>

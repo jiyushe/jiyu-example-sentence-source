@@ -1,5 +1,7 @@
 # eosinophilia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eosinophilia.md)
+
 <p><span class="chinese">腹水为渗出液，可见嗜酸细胞。</span><span class="english">The ascites were effusion with eosinophilia.</span></p>
 
 <p><span class="chinese">外周血液检查见显著的嗜酸细胞增多。</span><span class="english">There was a marked eosinophilia in the peripheral blood.</span></p>

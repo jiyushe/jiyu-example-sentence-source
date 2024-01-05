@@ -1,5 +1,7 @@
 # pakistani
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pakistani.md)
+
 <p><span class="chinese">拉乌夫后来从巴基斯坦的看管之下逃之夭夭。</span><span class="english">Rauf later escaped from Pakistani custody.</span></p>
 
 <p><span class="chinese">巴基斯坦武装分子公布了一段视频，内容是一名五个月前遭到绑架的波兰地质学家被斩首杀害。</span><span class="english">Polish man beheaded in Pakistani militant video</span></p>

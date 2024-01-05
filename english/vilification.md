@@ -1,5 +1,7 @@
 # vilification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vilification.md)
+
 <p><span class="chinese">甚至现在也有对不同人的诋毁。</span><span class="english">There is vilification of people of various kinds even now.</span></p>
 
 <p><span class="chinese">克莱尔不该受到这样的诽谤。</span><span class="english">Clare did not deserve the vilification she had been subjected to.</span></p>

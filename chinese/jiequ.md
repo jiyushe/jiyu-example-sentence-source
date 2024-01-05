@@ -1,5 +1,7 @@
 # 截取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiequ.md)
+
 <p><span class="chinese">我们能否截取上面示威牌的画面？</span><span class="english">Can we get a cross-section of that protest sign above?</span></p>
 
 <p><span class="chinese">其他的指标同样适合截取模式。</span><span class="english">Other standard metrics also fit the interception pattern.</span></p>

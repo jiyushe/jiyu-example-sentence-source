@@ -1,5 +1,7 @@
 # 社交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shejiao.md)
+
 <p><span class="chinese">使之社交化。</span><span class="english">Make it social.</span></p>
 
 <p><span class="chinese">一个社交玩意？</span><span class="english">A social thingy?</span></p>

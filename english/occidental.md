@@ -1,5 +1,7 @@
 # occidental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occidental.md)
+
 <p><span class="chinese">那时候，就有一种祥光，一片晚霞。</span><span class="english">A sort of halo, an occidental glow, came over life then.</span></p>
 
 <p><span class="chinese">西方人实行的是“个人分餐制”。</span><span class="english">Occidental advocate individualism and independence is strong.</span></p>

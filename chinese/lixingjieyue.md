@@ -1,5 +1,7 @@
 # 厉行节约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lixingjieyue.md)
+
 <p><span class="chinese">厉行节约在克莱斯勒公司是一件新鲜事。</span><span class="english">Austerity was a new idea at Chrysler.</span></p>
 
 <p><span class="chinese">在这种艰苦情况下，我们必须厉行节约。</span><span class="english">We must Hooverize under such a hard condition.</span></p>

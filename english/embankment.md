@@ -1,5 +1,7 @@
 # embankment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embankment.md)
+
 <p><span class="chinese">这河堤是匆匆筑成的。</span><span class="english">An embankment has been thrown up.</span></p>
 
 <p><span class="chinese">经过Temple和Embankment地铁站，</span><span class="english">With Temple and Embankment stations,</span></p>

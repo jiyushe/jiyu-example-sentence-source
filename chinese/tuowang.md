@@ -1,5 +1,7 @@
 # 拖网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuowang.md)
+
 <p><span class="chinese">没有拖网渔船。</span><span class="english">There were no trawlers.</span></p>
 
 <p><span class="chinese">他们正在用拖网捕鳕。</span><span class="english">They are trawling for cod.</span></p>

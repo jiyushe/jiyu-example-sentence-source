@@ -1,5 +1,7 @@
 # 乘虚而入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengxuerru.md)
+
 <p><span class="chinese">环境卫生搞不好，伤寒就会乘虚而入。</span><span class="english">Typhoid fever sneaks in when sanitation fails.</span></p>
 
 <p><span class="chinese">不要让自己太疲惫，否则健康问题会乘虚而入的。</span><span class="english">Don't exhaust yourself or minor health problems will set in.</span></p>

@@ -1,5 +1,7 @@
 # harpoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harpoon.md)
+
 <p><span class="chinese">鱼叉有倒刺的顶端。</span><span class="english">The barbed tip of a harpoon.</span></p>
 
 <p><span class="chinese">奎怪手里拿著鱼叉，跳了起来。</span><span class="english">Queequeg, harpoon in hand, jumped to his feet.</span></p>

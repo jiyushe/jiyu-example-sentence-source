@@ -1,5 +1,7 @@
 # 冷暖自知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengnuanzizhi.md)
+
 <p><span class="chinese">我是一杯白开水，冷暖自知。</span><span class="english">I am a cup of boiling water, run.</span></p>
 
 <p><span class="chinese">我晓得。我已经冷暖自知。</span><span class="english">I know. I've already got the picture.</span></p>

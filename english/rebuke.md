@@ -1,5 +1,7 @@
 # rebuke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebuke.md)
+
 <p><span class="chinese">我既不会审判他们，也不会谴责他们。</span><span class="english">I would not judge nor rebuke them.</span></p>
 
 <p><span class="chinese">这番申斥获得了高声的喝彩。</span><span class="english">Loud acclamations hailed this rebuke.</span></p>

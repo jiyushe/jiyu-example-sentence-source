@@ -1,5 +1,7 @@
 # woodhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodhouse.md)
+
 <p><span class="chinese">这是伍德豪斯先生告诉我的。</span><span class="english">Mr. Woodhouse told me of it. Mr.</span></p>
 
 <p><span class="chinese">他可以特别提出贮煤室和劈柴房来。</span><span class="english">He might specify the coal-cellar and the woodhouse.</span></p>

@@ -1,5 +1,7 @@
 # 身不由己
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenbuyouji.md)
+
 <p><span class="chinese">爱你！身不由己！</span><span class="english">Love you! Beyond!</span></p>
 
 <p><span class="chinese">此情此景，令我身不由己，呆呆地立住了。</span><span class="english">The scene stopped me in my tracks.</span></p>

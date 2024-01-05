@@ -1,5 +1,7 @@
 # manic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manic.md)
+
 <p><span class="chinese">狂躁发作的少年儿童可能</span><span class="english">Children and teens having a manic episode may</span></p>
 
 <p><span class="chinese">我现在有些狂躁，这没关系吧？</span><span class="english">“Does it matter if I am a little manic right now?</span></p>

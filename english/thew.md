@@ -1,5 +1,7 @@
 # thew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thew.md)
+
 <p><span class="chinese">把照片转过来对着墙。</span><span class="english">Turn the picture round to face thew all.</span></p>
 
 <p><span class="chinese">中午我们野餐并把垃圾扔到了垃圾箱。</span><span class="english">And then we thew the rubbish into the dustbin.</span></p>

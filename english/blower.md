@@ -1,5 +1,7 @@
 # blower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blower.md)
+
 <p><span class="chinese">一个小型的离心式鼓风机。</span><span class="english">A small centrifugal blower.</span></p>
 
 <p><span class="chinese">风扇叶还真危险啊！</span><span class="english">The leaf blower sucks, too!</span></p>

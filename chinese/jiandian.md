@@ -1,5 +1,7 @@
 # 检点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiandian.md)
+
 <p><span class="chinese">不，她们是行为检点的人。</span><span class="english">No, they're prudes.</span></p>
 
 <p><span class="chinese">她举止有失检点。</span><span class="english">She has misdemeaned herself.</span></p>

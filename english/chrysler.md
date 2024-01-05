@@ -1,5 +1,7 @@
 # chrysler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chrysler.md)
+
 <p><span class="chinese">厉行节约在克莱斯勒公司是一件新鲜事。</span><span class="english">Austerity was a new idea at Chrysler.</span></p>
 
 <p><span class="chinese">克莱斯勒共有约66,000名员工。</span><span class="english">Chrysler employs about 66, 000 people.</span></p>

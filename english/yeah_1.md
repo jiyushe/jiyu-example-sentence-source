@@ -1,5 +1,7 @@
 # yeah 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yeah_1.md)
+
 <p><span class="chinese">伊萨克？</span><span class="english">Issac, yeah?</span></p>
 
 <p><span class="chinese">我说，“是嘛？</span><span class="english">I said "yeah?</span></p>

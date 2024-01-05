@@ -1,5 +1,7 @@
 # ft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ft.md)
+
 <p><span class="chinese">超越车辆中心线。</span><span class="english">Ft beyond the vehicle centerline.</span></p>
 
 <p><span class="chinese">沉井以上的塔柱高度为170英尺。</span><span class="english">The towers are 170 ft above the caisson.</span></p>

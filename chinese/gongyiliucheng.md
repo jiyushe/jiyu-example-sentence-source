@@ -1,5 +1,7 @@
 # 工艺流程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyiliucheng.md)
+
 <p><span class="chinese">墙上的图表是工艺流程表。</span><span class="english">The chart on the wall is the technics flow.</span></p>
 
 <p><span class="chinese">所以，冷进料是最合理的工艺流程。</span><span class="english">So the cold feed is the most rational technology.</span></p>

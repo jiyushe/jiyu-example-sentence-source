@@ -1,5 +1,7 @@
 # 交口称赞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaokouchengzan.md)
+
 <p><span class="chinese">熊完全交口称赞这一点。</span><span class="english">Bear was totally blown away by this.</span></p>
 
 <p><span class="chinese">他受到大家的交口称赞。</span><span class="english">He has received so much public praise.</span></p>

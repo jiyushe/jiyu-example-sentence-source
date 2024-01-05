@@ -1,5 +1,7 @@
 # romanticize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romanticize.md)
+
 <p><span class="chinese">你有把生活浪漫化的倾向。</span><span class="english">You have a tendency to romanticize your life.</span></p>
 
 <p><span class="chinese">不要使传奇地说这个没有兴趣而且艰苦的工作！</span><span class="english">Don't romanticize this uninteresting and hard work!</span></p>

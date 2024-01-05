@@ -1,5 +1,7 @@
 # 基督
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jidu_2.md)
+
 <p><span class="chinese">为了基督！</span><span class="english">For Christs sake!</span></p>
 
 <p><span class="chinese">以耶稣基督的名求。</span><span class="english">In Jesus' name, I pray.</span></p>

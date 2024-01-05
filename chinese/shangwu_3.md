@@ -1,5 +1,7 @@
 # 晌午
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangwu_3.md)
+
 <p><span class="chinese">晌午在何处使羊群歇卧？</span><span class="english">Where do you make it lie down at noon?</span></p>
 
 <p><span class="chinese">正晌午阳光才能照进来。</span><span class="english">The sun's rays only reach here at high-noon.</span></p>

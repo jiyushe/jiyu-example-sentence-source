@@ -1,5 +1,7 @@
 # 拆迁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaiqian_1.md)
+
 <p><span class="chinese">要做好项目的拆迁安置工作。</span><span class="english">Resettlement project to do the work.</span></p>
 
 <p><span class="chinese">强行拆迁和学校关闭。</span><span class="english">Forced evictions and school closures.</span></p>

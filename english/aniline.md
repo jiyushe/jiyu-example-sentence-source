@@ -1,5 +1,7 @@
 # aniline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aniline.md)
+
 <p><span class="chinese">苯胺羟化酶在第9周也有升高。</span><span class="english">Aniline hydroxylase was also high in the 9th week.</span></p>
 
 <p><span class="chinese">其市场名为“苯胺紫”或“木槿紫”。</span><span class="english">The dye is marketed as "aniline purple" or "mauveine. "</span></p>

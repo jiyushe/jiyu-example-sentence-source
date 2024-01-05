@@ -1,5 +1,7 @@
 # strengthen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strengthen.md)
+
 <p><span class="chinese">来吧，壮大力量。</span><span class="english">Come, strengthen the power.</span></p>
 
 <p><span class="chinese">我们的股票一直十分坚挺。</span><span class="english">Our stocks still strengthen.</span></p>

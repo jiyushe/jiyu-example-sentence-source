@@ -1,5 +1,7 @@
 # 绝版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueban.md)
+
 <p><span class="chinese">这是一本绝版书。</span><span class="english">The book is out of print.</span></p>
 
 <p><span class="chinese">这本书已经绝版了。</span><span class="english">This book is out of print.</span></p>

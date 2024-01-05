@@ -1,5 +1,7 @@
 # 名片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingpian.md)
+
 <p><span class="chinese">这是我的名片。</span><span class="english">This is my card.</span></p>
 
 <p><span class="chinese">你有他的名片吧？</span><span class="english">You have his card?</span></p>

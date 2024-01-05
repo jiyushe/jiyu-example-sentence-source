@@ -1,5 +1,7 @@
 # 活物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huowu.md)
+
 <p><span class="chinese">四活物就说，阿们。</span><span class="english">And the four beasts said, Amen.</span></p>
 
 <p><span class="chinese">他是活物中最鄙俗的一种。</span><span class="english">He's the most vile kind of creature.</span></p>

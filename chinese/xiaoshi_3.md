@@ -1,5 +1,7 @@
 # 消失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshi_3.md)
+
 <p><span class="chinese">创痕逐渐消失。</span><span class="english">The scar died away.</span></p>
 
 <p><span class="chinese">我们哀悼它的消失。</span><span class="english">We lament its loss.</span></p>

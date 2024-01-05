@@ -1,5 +1,7 @@
 # rayon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rayon.md)
+
 <p><span class="chinese">粘胶剂的永久性和可移除性。</span><span class="english">Rayon of permanent and can be removed.</span></p>
 
 <p><span class="chinese">蚕丝和人造丝是两种不同的东西。</span><span class="english">Silk and rayon are two distinct things.</span></p>

@@ -1,5 +1,7 @@
 # 奋力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenli_4.md)
+
 <p><span class="chinese">她奋力挤过人群。</span><span class="english">She battled through the crowd.</span></p>
 
 <p><span class="chinese">他奋力游过了那条河。</span><span class="english">He struck out across the river.</span></p>

@@ -1,5 +1,7 @@
 # cupful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cupful.md)
+
 <p><span class="chinese">剩下来的连一杯也不到。</span><span class="english">Not a cupful of water remained.</span></p>
 
 <p><span class="chinese">剩下的水连一杯也不到了。</span><span class="english">Not a cupful of water remained.</span></p>

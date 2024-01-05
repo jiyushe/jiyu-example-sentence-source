@@ -1,5 +1,7 @@
 # 有线电话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxiandianhua.md)
+
 <p><span class="chinese">你们打算和有线电话公司竞争。</span><span class="english">You want to compete with the wire based phone companies.</span></p>
 
 <p><span class="chinese">无线和有线电话用户数之间的差距正迅速减少。</span><span class="english">And the gap between wireless and landline users is narrowing fast.</span></p>

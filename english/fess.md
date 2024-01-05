@@ -1,5 +1,7 @@
 # fess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fess.md)
+
 <p><span class="chinese">你应该承认还是否认？</span><span class="english">Should you fess up or deny?</span></p>
 
 <p><span class="chinese">让你的医生知道所有你吃的！</span><span class="english">Fess up and let your doctor know everything you're taking.</span></p>

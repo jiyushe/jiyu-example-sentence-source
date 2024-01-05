@@ -1,5 +1,7 @@
 # 字句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziju.md)
+
 <p><span class="chinese">最佳的写作，必须有效选用字句、惜字如金。</span><span class="english">The best writing doesn't waste words.</span></p>
 
 <p><span class="chinese">这些字句从我的笔端滚滚流出。</span><span class="english">The words flowed unbidden from my pen.</span></p>

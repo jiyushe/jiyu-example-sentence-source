@@ -1,5 +1,7 @@
 # 横祸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/henghuo.md)
+
 <p><span class="chinese">这家人突遭横祸。</span><span class="english">Misfortune lighted upon the family.</span></p>
 
 <p><span class="chinese">上海突现路面塌陷“坑”来横祸防不胜防。</span><span class="english">Road section collapses into 5-meter long hole.</span></p>

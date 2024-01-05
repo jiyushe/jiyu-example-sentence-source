@@ -1,5 +1,7 @@
 # foreplay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreplay.md)
+
 <p><span class="chinese">足够多的前戏。</span><span class="english">Provide a lot of foreplay.</span></p>
 
 <p><span class="chinese">所以别再让前戏草草了事了。</span><span class="english">So don't skim on foreplay.</span></p>

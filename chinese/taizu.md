@@ -1,5 +1,7 @@
 # 太祖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taizu.md)
+
 <p><span class="chinese">10月2号，苏联总理赫鲁晓夫在与毛太祖的一次会议上为尼赫鲁做了辩护。</span><span class="english">On 2 October, Soviet Premier Nikita Khrushchev defended Nehru in a meeting with Mao.</span></p>
 
 <p><span class="chinese">如果毛太祖想要实现他达成历史终点的梦想的话，他就必须让每个人的行为和思维都变成农民那样。</span><span class="english">If Mao wanted to achieve the dream of ending history, he had to make everyone think and act like peasants.</span></p>

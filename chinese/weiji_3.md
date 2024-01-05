@@ -1,5 +1,7 @@
 # 违纪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiji_3.md)
+
 <p><span class="chinese">剽窍是严重的违纪行为。</span><span class="english">Plagiorism is a serious offense.</span></p>
 
 <p><span class="chinese">安全红线不能碰，违章违纪不留情。</span><span class="english">Safety not to touch the red line, unsparing violation.</span></p>

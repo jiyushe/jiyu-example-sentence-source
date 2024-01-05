@@ -1,5 +1,7 @@
 # 病号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binghao.md)
+
 <p><span class="chinese">她现在就是一个病号。</span><span class="english">She’s now a case.</span></p>
 
 <p><span class="chinese">他们尽了最大的悉力补助病号和伤员。</span><span class="english">They did their wise to help the sick and the wounded.</span></p>

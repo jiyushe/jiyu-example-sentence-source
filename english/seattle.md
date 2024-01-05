@@ -1,5 +1,7 @@
 # seattle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seattle.md)
+
 <p><span class="chinese">西雅图有渡轮。</span><span class="english">Seattle has ferryboats.</span></p>
 
 <p><span class="chinese">但是我们现在住在西雅图。</span><span class="english">But we live in Seattle now.</span></p>

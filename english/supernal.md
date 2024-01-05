@@ -1,5 +1,7 @@
 # supernal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supernal.md)
+
 <p><span class="chinese">岂知你崇高的正弦魅力乎？</span><span class="english">Of thy supernal sinusoidal spell?</span></p>
 
 <p><span class="chinese">超凡的思想是不会与凡夫俗子共存的。</span><span class="english">The supernal ideology will not coexistence with the everyman.</span></p>

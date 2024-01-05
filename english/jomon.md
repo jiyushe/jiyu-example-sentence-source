@@ -1,5 +1,7 @@
 # jomon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jomon.md)
+
 <p><span class="chinese">这件绳纹钵极其重要。</span><span class="english">This Jomon pot is an extremely important pot.</span></p>
 
 <p><span class="chinese">绳纹人似乎生活得挺舒适惬意的。</span><span class="english">The Jomon way of life seems to have been pretty comfortable.</span></p>

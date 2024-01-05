@@ -1,5 +1,7 @@
 # diseconomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diseconomy.md)
+
 <p><span class="chinese">旅游业对环境的负面影响实质上是旅游业的一种外部不经济性现象。</span><span class="english">The environmental damage of tourism is in essence an external diseconomy of tourism.</span></p>
 
 <p><span class="chinese">另一方面，医疗机构存在一定的无效、不安全或不经济的用药问题。</span><span class="english">At the same time, there are a lot of insecurity, inefficacy and diseconomy in the process of medication use.</span></p>

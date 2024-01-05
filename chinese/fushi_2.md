@@ -1,5 +1,7 @@
 # 赋诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fushi_2.md)
+
 <p><span class="chinese">他即席赋诗。</span><span class="english">He knocks off a poem.</span></p>
 
 <p><span class="chinese">她极富创造力，既赋诗又作画。</span><span class="english">She's very creative—she writes poetry and paints.</span></p>

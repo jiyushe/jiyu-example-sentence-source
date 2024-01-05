@@ -1,5 +1,7 @@
 # ibiza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ibiza.md)
+
 <p><span class="chinese">那么，你想去伊维撒岛了？</span><span class="english">So, you want to go to Ibiza then?</span></p>
 
 <p><span class="chinese">在伊比沙岛的回忆中得意忘形，我发动了本田摩托车。</span><span class="english">Proud in my Ibiza memories, I kicked the Honda alive.</span></p>

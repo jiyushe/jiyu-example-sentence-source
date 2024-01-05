@@ -1,5 +1,7 @@
 # 谅解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangjie.md)
+
 <p><span class="chinese">没有人能谅解我。</span><span class="english">No one understands me.</span></p>
 
 <p><span class="chinese">希望大家谅解一下，嘿嘿。</span><span class="english">Hope you understand what, hehe.</span></p>

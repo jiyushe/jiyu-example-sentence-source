@@ -1,5 +1,7 @@
 # 大书特书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dashuteshu.md)
+
 <p><span class="chinese">这倒是件值得大书特书的事！</span><span class="english">Now that is something worth writing about!</span></p>
 
 <p><span class="chinese">这件事似乎不值得大书特书。</span><span class="english">This event never seemed to deserve such a description.</span></p>

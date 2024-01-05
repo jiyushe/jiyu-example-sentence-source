@@ -1,5 +1,7 @@
 # 就是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiushi.md)
+
 <p><span class="chinese">就是要这样子。</span><span class="english">This is it.</span></p>
 
 <p><span class="chinese">我就是老学不会。</span><span class="english">I never can.</span></p>

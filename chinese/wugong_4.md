@@ -1,5 +1,7 @@
 # 误工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wugong_4.md)
+
 <p><span class="chinese">第一次三天符合规定的误工为等待期，公司将不会发放这三天的病假期间薪资。</span><span class="english">The first three qualifying days of absence are waiting days for which SSP is not payable.</span></p>
 
 <p><span class="chinese">如果因病或因伤两天或以上误工且符合规定的，公司将向您支付误工期间的薪资。</span><span class="english">When you are absent for two or more consecutive days you will be paid SSP by us if you are eligible.</span></p>

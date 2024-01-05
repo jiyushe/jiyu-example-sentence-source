@@ -1,5 +1,7 @@
 # 打鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dagu_2.md)
+
 <p><span class="chinese">他会打鼓</span><span class="english">He played the drums.</span></p>
 
 <p><span class="chinese">杰克为学校乐队打鼓。</span><span class="english">Jack drums for the school band.</span></p>

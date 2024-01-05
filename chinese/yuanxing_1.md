@@ -1,5 +1,7 @@
 # 远行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanxing_1.md)
+
 <p><span class="chinese">法国航空，带我远行。</span><span class="english">Air France, take me away.</span></p>
 
 <p><span class="chinese">你即将远行，我的小卡芮尔。</span><span class="english">You'll travel far, my little Clow.</span></p>

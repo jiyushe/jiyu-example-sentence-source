@@ -1,5 +1,7 @@
 # 解禁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejin_1.md)
+
 <p><span class="chinese">在渔猎解禁期，渔民们可捕到很多鱼。</span><span class="english">In an open season the fishermen can land many fish.</span></p>
 
 <p><span class="chinese">当选后，他也把酒精饮品的解禁当做了第一要务。</span><span class="english">He made it his number-one priority when he was in office.</span></p>

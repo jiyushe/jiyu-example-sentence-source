@@ -1,5 +1,7 @@
 # 骑手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishou_3.md)
+
 <p><span class="chinese">她是一位勇敢的骑手。</span><span class="english">She is a nerveless rider.</span></p>
 
 <p><span class="chinese">马跃起将骑手摔于马下。</span><span class="english">The horse bucked the rider off.</span></p>

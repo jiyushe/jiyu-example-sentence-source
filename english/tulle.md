@@ -1,5 +1,7 @@
 # tulle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tulle.md)
+
 <p><span class="chinese">房间的椽条上缠着薄纱和毛茸茸的纱线。</span><span class="english">Bits of tulle and fuzzy yarn hang mistily from the rafters.</span></p>
 
 <p><span class="chinese">一条细纱遮阳窗帘，把这间小室的光线，掩得有如黄昏。</span><span class="english">A blind of embroidered tulle kept the little room in twilight.</span></p>

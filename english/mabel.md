@@ -1,5 +1,7 @@
 # mabel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mabel.md)
+
 <p><span class="chinese">你好，我叫梅布尔·王。</span><span class="english">Excuse me. My names Mabel Wong.</span></p>
 
 <p><span class="chinese">梅布尔在淋浴前整理了头发。</span><span class="english">Mabel did her hair up before taking a shower.</span></p>

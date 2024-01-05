@@ -1,5 +1,7 @@
 # ephedrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ephedrine.md)
+
 <p><span class="chinese">规范麻黄素的使用管理。</span><span class="english">Standardizing control over ephedrine use.</span></p>
 
 <p><span class="chinese">加强麻黄素的经营管理。</span><span class="english">Strengthening ephedrine management control.</span></p>

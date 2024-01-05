@@ -1,5 +1,7 @@
 # 症结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengjie_2.md)
+
 <p><span class="chinese">这是问题的症结所在。</span><span class="english">That is the crux of the issue.</span></p>
 
 <p><span class="chinese">啊，所以这就是问题的症结，基利安。</span><span class="english">So it comes down to this, Killian.</span></p>

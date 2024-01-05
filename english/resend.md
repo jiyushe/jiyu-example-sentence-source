@@ -1,5 +1,7 @@
 # resend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resend.md)
+
 <p><span class="chinese">艾胥莉，你可以重寄那份TPS报告吗？</span><span class="english">Ashley, can you resend that TPS report?</span></p>
 
 <p><span class="chinese">您要重发定期会议吗？</span><span class="english">Do you want to resend the recurring meeting ?</span></p>

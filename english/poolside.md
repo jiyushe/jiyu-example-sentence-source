@@ -1,5 +1,7 @@
 # poolside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poolside.md)
+
 <p><span class="chinese">回到旅馆后，我坐在泳池边，脑子里很多念头转来转去。</span><span class="english">My mind raced as I sat poolside back at the hotel.</span></p>
 
 <p><span class="chinese">我们能享受到阳光浴和池边鸡尾酒会。</span><span class="english">We can enjoy the sunbathing and poolside cocktails.</span></p>

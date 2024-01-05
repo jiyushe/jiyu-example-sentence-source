@@ -1,5 +1,7 @@
 # jee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jee.md)
+
 <p><span class="chinese">因此，我想说的是SCA与JEE是合作而非竞争关系。</span><span class="english">So I'd say that SCA works with JEE rather than competing.</span></p>
 
 <p><span class="chinese">活动场地是很整齐也很近智勋的所以看来我们可以在那里一起活动。</span><span class="english">The venue is neat and also near to Jee Hoon so it seems that we can do it together.</span></p>

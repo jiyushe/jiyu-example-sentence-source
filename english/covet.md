@@ -1,5 +1,7 @@
 # covet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covet.md)
+
 <p><span class="chinese">艾波比先生不觊觎权力。</span><span class="english">Mr Appleby does not covet power.</span></p>
 
 <p><span class="chinese">我该垂涎邻家的女佣吗？</span><span class="english">Shall I covet my neighbour's maidservant?</span></p>

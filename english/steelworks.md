@@ -1,5 +1,7 @@
 # steelworks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steelworks.md)
+
 <p><span class="chinese">这家炼钢厂正在建设中。</span><span class="english">Two new steelworks are being planned.</span></p>
 
 <p><span class="chinese">这家炼钢厂正在建设中。</span><span class="english">The steelworks is now under construction.</span></p>

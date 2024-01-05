@@ -1,5 +1,7 @@
 # 大话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahua_1.md)
+
 <p><span class="chinese">大户人家，大话人生…</span><span class="english">My family is my life!</span></p>
 
 <p><span class="chinese">一个具有戏剧性的大话？</span><span class="english">A dramatic over-statement?</span></p>

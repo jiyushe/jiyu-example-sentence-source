@@ -1,5 +1,7 @@
 # 埋头苦干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maitoukugan.md)
+
 <p><span class="chinese">要行动。我的意思是，要埋头苦干。</span><span class="english">Do it. You know, work hard.</span></p>
 
 <p><span class="chinese">我埋头苦干两个小时。</span><span class="english">I slaved away on the desk for two hours.</span></p>

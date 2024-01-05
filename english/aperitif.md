@@ -1,5 +1,7 @@
 # aperitif
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aperitif.md)
+
 <p><span class="chinese">您愿意来杯开胃酒吗？</span><span class="english">Would you like an aperitif ?</span></p>
 
 <p><span class="chinese">世界著名的希腊开胃酒。</span><span class="english">The world famous Greek aperitif.</span></p>

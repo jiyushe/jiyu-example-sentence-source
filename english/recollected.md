@@ -1,5 +1,7 @@
 # recollected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recollected.md)
+
 <p><span class="chinese">他回忆起上个周末。</span><span class="english">He recollected last weekend.</span></p>
 
 <p><span class="chinese">郭去疾这样向新浪科技回忆道。</span><span class="english">Guo Quji is recollected to sina science and technology so.</span></p>

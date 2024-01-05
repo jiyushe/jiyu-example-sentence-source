@@ -1,5 +1,7 @@
 # ellington
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ellington.md)
+
 <p><span class="chinese">埃林顿和埃弗雷特知道，他是他们做的家伙。</span><span class="english">And Everett Ellington knows that he's the guy to do them.</span></p>
 
 <p><span class="chinese">没过多久，艾灵顿开始在舞会和聚会上伴奏钢琴。</span><span class="english">Ellington quickly picked up work as a pianist for parties and dances.</span></p>

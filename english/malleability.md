@@ -1,5 +1,7 @@
 # malleability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malleability.md)
+
 <p><span class="chinese">半透明和可塑性性能也很好。</span><span class="english">Translucency and malleability properties are also good.</span></p>
 
 <p><span class="chinese">延展性和可锻性是金属的两种重要加工性能。</span><span class="english">Two important working properties of metals are ductility and malleability.</span></p>

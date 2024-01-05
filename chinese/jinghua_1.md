@@ -1,5 +1,7 @@
 # 净化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinghua_1.md)
+
 <p><span class="chinese">用火炎，被净化吧！</span><span class="english">By fire, be purged!</span></p>
 
 <p><span class="chinese">我为净化这片土地而来。</span><span class="english">I come to clea e this land.</span></p>

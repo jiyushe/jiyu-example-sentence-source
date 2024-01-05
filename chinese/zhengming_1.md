@@ -1,5 +1,7 @@
 # 正名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengming_1.md)
+
 <p><span class="chinese">而现在时间会为炼金术士们正名。</span><span class="english">Time, then, to rehabilitate the alchemists.</span></p>
 
 <p><span class="chinese">首先为纪录片“正名”。</span><span class="english">Firstly it discussed the definition of documentary.</span></p>

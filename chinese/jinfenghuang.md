@@ -1,5 +1,7 @@
 # 金凤凰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinfenghuang.md)
+
 <p><span class="chinese">洋葱里长不出玫瑰。/乌鸦里飞不出金凤凰。</span><span class="english">An onion will not produce a rose.</span></p>
 
 <p><span class="chinese">且看小伙有绝招，梧桐来了金凤凰。</span><span class="english">See small trick, the Indus to golden phoenix.</span></p>

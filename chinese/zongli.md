@@ -1,5 +1,7 @@
 # 总理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongli.md)
+
 <p><span class="chinese">周恩来总理刚刚去世。</span><span class="english">Zhou Enlai had just died.</span></p>
 
 <p><span class="chinese">敬爱的总理，我是一名医生。</span><span class="english">Dear Premier, I am a doctor.</span></p>

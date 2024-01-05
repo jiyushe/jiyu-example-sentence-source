@@ -1,5 +1,7 @@
 # matsu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matsu.md)
+
 <p><span class="chinese">但是妈祖的出现是符合规律的。</span><span class="english">But Matsu is the emergence line with the law.</span></p>
 
 <p><span class="chinese">在马祖你也可以欣赏到同样的风景。</span><span class="english">You can appreciate the same scenery in Matsu.</span></p>

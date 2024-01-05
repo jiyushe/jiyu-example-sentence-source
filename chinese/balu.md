@@ -1,5 +1,7 @@
 # 八路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/balu.md)
+
 <p><span class="chinese">刁德贵怀疑于大海是八路。</span><span class="english">DiaoDeGui suspected that the sea is no.</span></p>
 
 <p><span class="chinese">被八路小分队队长包卫国及时拦住。</span><span class="english">By eight team captain Bao Weiguo timely stop.</span></p>

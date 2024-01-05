@@ -1,5 +1,7 @@
 # 截流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieliu.md)
+
 <p><span class="chinese">公伯峡水电站2002年截流设计。</span><span class="english">The design of Gongboxia hydro-power in 2002.</span></p>
 
 <p><span class="chinese">由于坡水引起的冲刷，则需修建截流沟。</span><span class="english">For flushing canal by slop runoff, must build the cut off ditch.</span></p>

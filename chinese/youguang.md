@@ -1,5 +1,7 @@
 # 油光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youguang.md)
+
 <p><span class="chinese">它们在烛光中油光发亮。</span><span class="english">They glowed in the candlelight.</span></p>
 
 <p><span class="chinese">用吸油纸吸去油光。</span><span class="english">Use blotting paper to remove shine.</span></p>

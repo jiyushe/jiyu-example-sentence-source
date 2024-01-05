@@ -1,5 +1,7 @@
 # 飘逸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoyi_1.md)
+
 <p><span class="chinese">在那飘逸的空气里！</span><span class="english">On the bosom of the palpitating air!</span></p>
 
 <p><span class="chinese">飘逸似水，热情如火。</span><span class="english">Graceful as winding stream, hot as fire.</span></p>

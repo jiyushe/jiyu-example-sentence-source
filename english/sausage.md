@@ -1,5 +1,7 @@
 # sausage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sausage.md)
+
 <p><span class="chinese">香肠骑士。</span><span class="english">A sausage jockey.</span></p>
 
 <p><span class="chinese">香肠或牛排。</span><span class="english">Sausage or steak.</span></p>

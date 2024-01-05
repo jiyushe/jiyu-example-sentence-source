@@ -1,5 +1,7 @@
 # glint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glint.md)
+
 <p><span class="chinese">天鹅、湖面上一抹闪光、</span><span class="english">Swans, a glint on the surface of a lake</span></p>
 
 <p><span class="chinese">未来总是使我爸爸的眼睛闪闪发光。</span><span class="english">The future always put a glint in my dad's eyes.</span></p>

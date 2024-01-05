@@ -1,5 +1,7 @@
 # 院长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhang.md)
+
 <p><span class="chinese">男修道院院长又高又瘦。</span><span class="english">The abbe was very tall and thin.</span></p>
 
 <p><span class="chinese">你在想我是坎特伯雷市的修道院长。</span><span class="english">This is the chamber of the abbot.</span></p>

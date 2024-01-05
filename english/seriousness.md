@@ -1,5 +1,7 @@
 # seriousness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seriousness.md)
+
 <p><span class="chinese">不要淡化问题的严重性。</span><span class="english">Don't trivialize the seriousness of the issue!</span></p>
 
 <p><span class="chinese">不要小看这问题的严重性！</span><span class="english">Don't trivialize the seriousness of the issue!</span></p>

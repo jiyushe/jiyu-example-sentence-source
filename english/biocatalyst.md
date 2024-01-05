@@ -1,5 +1,7 @@
 # biocatalyst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biocatalyst.md)
+
 <p><span class="chinese">微生物脂肪酶是一类广泛应用于诸多工业领域的生物催化剂。</span><span class="english">Microbial lipases, as biocatalyst , were widely used in many industrial fields.</span></p>
 
 <p><span class="chinese">生物催化剂的分子设计研究是发展新型生物催化剂的重要手段。</span><span class="english">The biocatalyst molecular design is an important method to develop new biocatalyst.</span></p>

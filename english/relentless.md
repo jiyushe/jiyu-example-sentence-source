@@ -1,5 +1,7 @@
 # relentless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relentless.md)
+
 <p><span class="chinese">整个加沙地带的网站战争同样毫不留情。</span><span class="english">The online war over Gaza was relentless.</span></p>
 
 <p><span class="chinese">公开交易是个无情的反馈环。</span><span class="english">Open trades are a relentless feedback loop.</span></p>

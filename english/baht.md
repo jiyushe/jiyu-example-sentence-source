@@ -1,5 +1,7 @@
 # baht
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baht.md)
+
 <p><span class="chinese">在那个年代里，900铢是不少的钱。</span><span class="english">In those days 900 baht was a lot of money.</span></p>
 
 <p><span class="chinese">其价值维持在40铢兑换1美元左右。</span><span class="english">The value tends to hover around 40 baht to one US dollar.</span></p>

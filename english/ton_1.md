@@ -1,5 +1,7 @@
 # ton 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ton_1.md)
+
 <p><span class="chinese">一群拜金女……</span><span class="english">A 1 ton gold nugget.</span></p>
 
 <p><span class="chinese">他像一吨重的砖块一样沉下去！</span><span class="english">He sank like a ton of bricks!</span></p>

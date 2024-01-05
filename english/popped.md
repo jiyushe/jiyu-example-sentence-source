@@ -1,5 +1,7 @@
 # popped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/popped.md)
+
 <p><span class="chinese">玉米爆开了。</span><span class="english">The corn is popped.</span></p>
 
 <p><span class="chinese">他轻快地穿上外套。</span><span class="english">He popped his coat on.</span></p>

@@ -1,5 +1,7 @@
 # 张大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangda.md)
+
 <p><span class="chinese">请再张大一些。</span><span class="english">A bit wider, please.</span></p>
 
 <p><span class="chinese">剩下他独自一个张大著嘴发呆。</span><span class="english">He was left alone and agape.</span></p>

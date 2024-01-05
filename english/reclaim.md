@@ -1,5 +1,7 @@
 # reclaim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reclaim.md)
+
 <p><span class="chinese">闯出去，重新宣布拥有自己的生活。</span><span class="english">Go out and reclaim your life.</span></p>
 
 <p><span class="chinese">让你的餐厅用桌面目一新吧！</span><span class="english">Reclaim Your Dining Room Table!</span></p>

@@ -1,5 +1,7 @@
 # 野豌豆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yewandou.md)
+
 <p><span class="chinese">欧洲的一种野豌豆，通常被用来制草料和覆盖作物。</span><span class="english">European vetch much cultivated as forage and cover crops.</span></p>
 
 <p><span class="chinese">欧洲的一种野豌豆，通常被用来制草料和覆盖作物。</span><span class="english">European vetch much cultivated as fora ge and cover crops.</span></p>

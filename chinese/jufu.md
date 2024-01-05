@@ -1,5 +1,7 @@
 # 巨幅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jufu.md)
+
 <p><span class="chinese">发行量出现了巨幅下滑。</span><span class="english">There’s been a dramatic drop in circulation.</span></p>
 
 <p><span class="chinese">通常挂在墙上或天花板上的巨幅画。</span><span class="english">A large-scale painting, usually on a wall or ceiling.</span></p>

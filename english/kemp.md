@@ -1,5 +1,7 @@
 # kemp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kemp.md)
+
 <p><span class="chinese">肯普突然感到一阵恐惧。</span><span class="english">Kemp felt a spasm of fear.</span></p>
 
 <p><span class="chinese">康普先生是他同时代最杰出的共和党人之一。</span><span class="english">Mr Kemp was one of the most prominent Republicans of his generation.</span></p>

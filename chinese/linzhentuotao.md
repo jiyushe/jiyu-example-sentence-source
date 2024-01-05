@@ -1,5 +1,7 @@
 # 临阵脱逃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linzhentuotao.md)
+
 <p><span class="chinese">没有，他没有临阵脱逃。</span><span class="english">No, he didn't funk it.</span></p>
 
 <p><span class="chinese">罗伯特，现在千万别临阵脱逃哦！</span><span class="english">Robert, don't let go yet!</span></p>

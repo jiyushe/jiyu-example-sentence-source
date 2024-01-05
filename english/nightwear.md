@@ -1,5 +1,7 @@
 # nightwear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightwear.md)
+
 <p><span class="chinese">从有毒玩具到有害睡衣。</span><span class="english">From toxic toys to noxious nightwear.</span></p>
 
 <p><span class="chinese">我们要采购棉被，手巾，亚麻布，夹克，枕头，内衣裤和睡衣。</span><span class="english">We want to buy Quilts, Towels, Linen, Jacket, Pillows, Underwear and Nightwear.</span></p>

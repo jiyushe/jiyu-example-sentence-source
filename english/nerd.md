@@ -1,5 +1,7 @@
 # nerd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nerd.md)
+
 <p><span class="chinese">情人节去拥抱一个御宅之男。</span><span class="english">Hug a nerd on Valentines Day.</span></p>
 
 <p><span class="chinese">过去他在高中时是位书呆子。</span><span class="english">He used to be a nerd in high school.</span></p>

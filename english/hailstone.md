@@ -1,5 +1,7 @@
 # hailstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hailstone.md)
+
 <p><span class="chinese">今天我们这儿下了一场冰雹。</span><span class="english">Today we were visited by a hailstone fall.</span></p>
 
 <p><span class="chinese">冰雹劈里啪啦地敲打着窗玻璃。</span><span class="english">Hailstone are rattling on the window-panes.</span></p>

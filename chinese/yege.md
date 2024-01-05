@@ -1,5 +1,7 @@
 # 野葛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yege.md)
+
 <p><span class="chinese">倒多少看木瓜以及野葛根的多少以及重量。</span><span class="english">How much should you see the number of papaya and Pueraria and weight.</span></p>
 
 <p><span class="chinese">到目前为止，野葛中的锈菌已得到证实，但大豆中的锈菌还没有得到证实。</span><span class="english">So far, rust has been confirmed in kudzu , but not on soybean plants.</span></p>

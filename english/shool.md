@@ -1,5 +1,7 @@
 # shool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shool.md)
+
 <p><span class="chinese">你喜不喜欢上学?。</span><span class="english">Do you enjoy shool?</span></p>
 
 <p><span class="chinese">你是怎样去上学？</span><span class="english">How do you go to shool?</span></p>

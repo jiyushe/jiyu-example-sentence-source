@@ -1,5 +1,7 @@
 # shorthanded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shorthanded.md)
+
 <p><span class="chinese">我们这里正缺人。</span><span class="english">We are shorthanded at the moment.</span></p>
 
 <p><span class="chinese">我们总是在星期天缺人手。</span><span class="english">We are always shorthanded on Sundays.</span></p>

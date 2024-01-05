@@ -1,5 +1,7 @@
 # myocardium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myocardium.md)
+
 <p><span class="chinese">这种状态叫做冬眠心肌。</span><span class="english">This state is called hibernating myocardium.</span></p>
 
 <p><span class="chinese">地氟醚对于大鼠心肌衰老的作用。</span><span class="english">Effects of Desflurane in Senescent Rat Myocardium.</span></p>

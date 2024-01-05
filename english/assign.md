@@ -1,5 +1,7 @@
 # assign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assign.md)
+
 <p><span class="chinese">并把它赋值为。</span><span class="english">I assign it a value of 2.</span></p>
 
 <p><span class="chinese">现在我把X赋值为。</span><span class="english">I now assign X the value of 1.</span></p>

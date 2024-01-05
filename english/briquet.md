@@ -1,5 +1,7 @@
 # briquet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/briquet.md)
+
 <p><span class="chinese">选择所需压制机的类型。</span><span class="english">Choose the type of briquet ting machine required.</span></p>
 
 <p><span class="chinese">焙烧球料的机械强度也能满足渗滤浸出操作要求。</span><span class="english">The mechanical strength of calcined briquet can meet the needs of percolation leaching operation.</span></p>

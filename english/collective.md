@@ -1,5 +1,7 @@
 # collective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collective.md)
+
 <p><span class="chinese">集体可由心生乐与？</span><span class="english">The collective by heart with joy?</span></p>
 
 <p><span class="chinese">这是集体唯我论。</span><span class="english">Collective solipsism, if you like.</span></p>

@@ -1,5 +1,7 @@
 # 心意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyi_1.md)
+
 <p><span class="chinese">我无法让你改变心意了？</span><span class="english">I can't change your mind?</span></p>
 
 <p><span class="chinese">这想法很投合他的心意。</span><span class="english">The idea appealed to him.</span></p>

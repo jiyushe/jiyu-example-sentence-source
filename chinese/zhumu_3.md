@@ -1,5 +1,7 @@
 # 竹木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhumu_3.md)
+
 <p><span class="chinese">扁圆长条形挑、抬物品的竹木用具。</span><span class="english">Oblate strip pick, bamboo utensils carrying goods.</span></p>
 
 <p><span class="chinese">我主要负责竹木方面的产品。</span><span class="english">I'm mainly in charge of bamboo and wooden products.</span></p>

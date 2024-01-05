@@ -1,5 +1,7 @@
 # drawbridge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drawbridge.md)
+
 <p><span class="chinese">座吊桥垮下来了！</span><span class="english">One drawbridge down!</span></p>
 
 <p><span class="chinese">吊桥有多安全？</span><span class="english">How safe is a drawbridge?</span></p>

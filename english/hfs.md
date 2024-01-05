@@ -1,5 +1,7 @@
 # hfs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hfs.md)
+
 <p><span class="chinese">结论MVD是面肌痉挛安全、有效的治疗方法。</span><span class="english">Conclusion MVD operation is an effective and safe treatment for HFS.</span></p>
 
 <p><span class="chinese">应用大剂量维生素B6进行预防，可能减轻HFS的症状，提高患者对希罗达的耐受性。</span><span class="english">The symptoms of HFS may be relieved by high dose Vit B6 as prevention.</span></p>

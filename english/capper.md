@@ -1,5 +1,7 @@
 # capper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capper.md)
+
 <p><span class="chinese">那绝对是那个时代最酷的装备了。</span><span class="english">That was definitely the capper on that era.</span></p>
 
 <p><span class="chinese">坚果碎烤三文鱼柳，藏红花烩饭，刺山柑汁。</span><span class="english">Nuts Crashed Roasted Salmon Fillet, Saffron Risotto, Capper Sauce.</span></p>

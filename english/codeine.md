@@ -1,5 +1,7 @@
 # codeine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/codeine.md)
+
 <p><span class="chinese">一些研究表明它比可待因更能抑制咳嗽。</span><span class="english">Some studies suggest it is better at suppressing coughs than codeine.</span></p>
 
 <p><span class="chinese">安嗽灵的镇咳效用相当于或强于可待因。</span><span class="english">Antitussive effect of Asverin is equal to or more powerful than that of codeine.</span></p>

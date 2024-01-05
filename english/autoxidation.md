@@ -1,5 +1,7 @@
 # autoxidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autoxidation.md)
+
 <p><span class="chinese">图8。低温胁迫对组织自动氧化速率的影响。</span><span class="english">Fig. 8. Effect of low temperature stress on autoxidation rate.</span></p>
 
 <p><span class="chinese">酶活力测定采用微量邻苯三酚自氧化法。</span><span class="english">Enzyme activity was determed with the autoxidation of pyrogallol method.</span></p>

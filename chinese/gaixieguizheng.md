@@ -1,5 +1,7 @@
 # 改邪归正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaixieguizheng.md)
+
 <p><span class="chinese">说的是改邪归正，做的是死性不改！</span><span class="english">Said is right, do not change!</span></p>
 
 <p><span class="chinese">她的微笑足以让任何罪人改邪归正。</span><span class="english">A smile to turn any sinner saintly.</span></p>

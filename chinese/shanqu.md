@@ -1,5 +1,7 @@
 # 山区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanqu.md)
+
 <p><span class="chinese">其实很多山区都多雨。</span><span class="english">A lot of mountains are rainy.</span></p>
 
 <p><span class="chinese">降低半山区西部的地积比率。</span><span class="english">Reduce the PR in Mid-levels West.</span></p>

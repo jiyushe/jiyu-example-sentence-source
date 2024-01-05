@@ -1,5 +1,7 @@
 # landmine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landmine.md)
+
 <p><span class="chinese">地雷，你，还想扭胯麽？</span><span class="english">Landmine ? Want to do the hip twist ?</span></p>
 
 <p><span class="chinese">起初，工人以为这个铜罐子是一个地雷。</span><span class="english">Initially workers thought the copper vessel was a landmine.</span></p>

@@ -1,5 +1,7 @@
 # 幽静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjing_1.md)
+
 <p><span class="chinese">那幽静的剑河。</span><span class="english">The peaceful River Cam.</span></p>
 
 <p><span class="chinese">修女们住在一个幽静的修道院里。</span><span class="english">The nuns live in a cloister of calm.</span></p>

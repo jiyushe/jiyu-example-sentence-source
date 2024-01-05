@@ -1,5 +1,7 @@
 # vin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vin.md)
+
 <p><span class="chinese">拍照车牌号码使用微距镜头。</span><span class="english">Photograph the VIN number using a macro lens.</span></p>
 
 <p><span class="chinese">这条建议来自约会专家范迪卡洛。</span><span class="english">This tip comes from dating expert Vin DiCarlo.</span></p>

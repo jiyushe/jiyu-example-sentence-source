@@ -1,5 +1,7 @@
 # 星夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingye_1.md)
+
 <p><span class="chinese">窃贼团伙星夜潜逃了。</span><span class="english">The band of thieves decamped in the night.</span></p>
 
 <p><span class="chinese">当我抬头看，星夜脸上面</span><span class="english">When I behold, upon the night’s starr’d face</span></p>

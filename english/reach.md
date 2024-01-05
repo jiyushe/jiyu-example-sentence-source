@@ -1,5 +1,7 @@
 # reach 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reach.md)
+
 <p><span class="chinese">我能见到太阳公公吗？</span><span class="english">Can I reach the sun?</span></p>
 
 <p><span class="chinese">你也许永远构不到它。</span><span class="english">You may never reach it.</span></p>

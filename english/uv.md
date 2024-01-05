@@ -1,5 +1,7 @@
 # uv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uv.md)
+
 <p><span class="chinese">使用含UV指数的日霜。</span><span class="english">The day cream containing UV index.</span></p>
 
 <p><span class="chinese">对，我们用的是紫外光。</span><span class="english">Yeah. It was UV light that we used.</span></p>

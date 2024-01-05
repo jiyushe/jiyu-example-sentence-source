@@ -1,5 +1,7 @@
 # villous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/villous.md)
+
 <p><span class="chinese">这个病人曾长过绒毛状腺瘤。</span><span class="english">The patient had a villous adenoma.</span></p>
 
 <p><span class="chinese">不育的子房球状，密被具铁锈色长柔毛。</span><span class="english">Sterile ovary globose, densely ferruginous villous.</span></p>

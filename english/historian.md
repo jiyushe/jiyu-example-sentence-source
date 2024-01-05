@@ -1,5 +1,7 @@
 # historian 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/historian.md)
+
 <p><span class="chinese">他是个很好的历史学家。</span><span class="english">He was a good historian.</span></p>
 
 <p><span class="chinese">这个就是大名鼎鼎的历史学家范先生。</span><span class="english">This is Mr. Fan, the historian.</span></p>

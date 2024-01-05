@@ -1,5 +1,7 @@
 # goatskin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goatskin.md)
+
 <p><span class="chinese">颈部皮肤的犊牛皮革和山羊内政。</span><span class="english">Neck skin of calf leather and goatskin interior.</span></p>
 
 <p><span class="chinese">摩洛哥皮具精细纹理的山羊皮。书皮用的物料。</span><span class="english">Morocco goatskin with fine grain for book covers.</span></p>

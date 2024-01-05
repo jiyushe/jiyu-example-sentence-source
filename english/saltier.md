@@ -1,5 +1,7 @@
 # saltier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saltier.md)
+
 <p><span class="chinese">这比美国蛋卷咸一些也更有嚼劲。</span><span class="english">It's saltier and more chewy than American omelets.</span></p>
 
 <p><span class="chinese">所以，这就是咸的海洋不会变得更咸的原因。</span><span class="english">So , thats why the seas are salty but don't get any saltier.</span></p>

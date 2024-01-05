@@ -1,5 +1,7 @@
 # essentialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/essentialism.md)
+
 <p><span class="chinese">本论文的目标在于反驳此种对事物的本质主义观。</span><span class="english">The purpose of this thesis is to refute his phenomenological essentialism.</span></p>
 
 <p><span class="chinese">第二部分，总结本质主义的特征，并对这一思维方式进行评价。</span><span class="english">Second part, Summarize essentialism characteristic and appraise to this mode of thinking.</span></p>

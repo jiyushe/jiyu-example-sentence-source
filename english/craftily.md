@@ -1,5 +1,7 @@
 # craftily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craftily.md)
+
 <p><span class="chinese">你还能举出能从你钱包里清理出其他东西吗？</span><span class="english">What other items have you craftily cut out of your wallet?</span></p>
 
 <p><span class="chinese">美联储也是狡猾地让人们相信这一点，而自己则没有做出任何承诺。</span><span class="english">The Fed has also craftily encouraged that belief, while not yet committing itself.</span></p>

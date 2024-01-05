@@ -1,5 +1,7 @@
 # footloose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footloose.md)
+
 <p><span class="chinese">他是个自由自在、不谈恋爱的人。</span><span class="english">He is a footloose and fancy-free type of person.</span></p>
 
 <p><span class="chinese">在大家看来，离过婚的男人是自由自在的！</span><span class="english">In the eyes of the public, a divorced man is footloose and fancy-free.</span></p>

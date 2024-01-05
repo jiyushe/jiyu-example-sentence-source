@@ -1,5 +1,7 @@
 # 专修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanxiu.md)
+
 <p><span class="chinese">他专修考古学。</span><span class="english">He specializes in archaeology.</span></p>
 
 <p><span class="chinese">他在大学专修国际商务。</span><span class="english">He majors in international business at the college.</span></p>

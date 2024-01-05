@@ -1,5 +1,7 @@
 # confidence 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confidence.md)
+
 <p><span class="chinese">我有信心。</span><span class="english">I have confidence.</span></p>
 
 <p><span class="chinese">在神身上有信心。</span><span class="english">Have confidence in God.</span></p>

@@ -1,5 +1,7 @@
 # 首要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyao.md)
+
 <p><span class="chinese">他的首要任务是什么呢？</span><span class="english">What were his priorities?</span></p>
 
 <p><span class="chinese">在万物中，他们首要的是钱。</span><span class="english">They want it above all things.</span></p>

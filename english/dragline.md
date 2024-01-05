@@ -1,5 +1,7 @@
 # dragline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dragline.md)
+
 <p><span class="chinese">目的为获得蜘蛛拖丝蛋白全基因。</span><span class="english">Objective To obtain the whole length gene of dragline.</span></p>
 
 <p><span class="chinese">综上所述，采用上述方法，获得转蜘蛛拖丝蛋白四聚体基因绵羊成纤维细胞株。</span><span class="english">In conclusion, transgenic cells with polymerized spider dragline silk protein gene were filtrated.</span></p>

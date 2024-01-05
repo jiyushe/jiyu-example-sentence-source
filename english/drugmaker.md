@@ -1,5 +1,7 @@
 # drugmaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drugmaker.md)
+
 <p><span class="chinese">一个有效的药物能让开发商挣不少钱。</span><span class="english">The right Alzheimer's drug could earn a drugmaker a lot of money.</span></p>
 
 <p><span class="chinese">然后制药商就可以展示这种新药的良好疗效，并将其推向市场。</span><span class="english">Then the drugmaker might be able to show efficacy that's good enough to get the drug on the market.</span></p>

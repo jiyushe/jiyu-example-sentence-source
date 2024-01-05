@@ -1,5 +1,7 @@
 # frieda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frieda.md)
+
 <p><span class="chinese">弗丽达和简披露出这一新闻。</span><span class="english">Frieda and Jan break the news.</span></p>
 
 <p><span class="chinese">菲瑞达的工作速度很快，整个办公室没有人可以跟得上。</span><span class="english">Frieda works so fast that no one in the office can keep up with her.</span></p>

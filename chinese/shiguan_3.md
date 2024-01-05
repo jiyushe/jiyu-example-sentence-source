@@ -1,5 +1,7 @@
 # 士官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiguan_3.md)
+
 <p><span class="chinese">不对。我是士官。</span><span class="english">I am a noncommissioned officer.</span></p>
 
 <p><span class="chinese">我们被派往Inza，在那里我成了士官。</span><span class="english">We were sent to Inza, where we became sergeants.</span></p>

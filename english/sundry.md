@@ -1,5 +1,7 @@
 # sundry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sundry.md)
+
 <p><span class="chinese">一些其他的表亲，他们轮着拥抱了他。</span><span class="english">Sundry other cousins. They exchange hugs with him.</span></p>
 
 <p><span class="chinese">他曾在各种场跋批评新政策。</span><span class="english">On sundry occasions he had criticized the new policy.</span></p>

@@ -1,5 +1,7 @@
 # 臭骂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouma_1.md)
+
 <p><span class="chinese">他把我们臭骂一顿。</span><span class="english">He hailed curses on us.</span></p>
 
 <p><span class="chinese">他被老板臭骂了一顿。</span><span class="english">He was stormed by his boss.</span></p>

@@ -1,5 +1,7 @@
 # polarize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polarize.md)
+
 <p><span class="chinese">但大多数人从来不曾极化过。</span><span class="english">But most people never polarize.</span></p>
 
 <p><span class="chinese">要是你不想极化会怎么样？</span><span class="english">What if you don’t want to polarize?</span></p>

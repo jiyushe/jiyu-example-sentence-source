@@ -1,5 +1,7 @@
 # fear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fear.md)
+
 <p><span class="chinese">恐惧下巴。</span><span class="english">Fear of chins.</span></p>
 
 <p><span class="chinese">我怯怯乔乔冰冷。</span><span class="english">I fear the cold.</span></p>

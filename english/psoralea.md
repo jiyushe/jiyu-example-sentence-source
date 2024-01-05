@@ -1,5 +1,7 @@
 # psoralea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psoralea.md)
+
 <p><span class="chinese">将补骨脂种子浸泡在姜水中3天。</span><span class="english">First soak Psoralea seeds in Ginger Juice for 3 days.</span></p>
 
 <p><span class="chinese">目的研究补骨脂的化学成分。</span><span class="english">Aim To study the chemical constituents of the fruits of Psoralea corylifolia L.</span></p>

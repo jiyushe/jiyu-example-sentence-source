@@ -1,5 +1,7 @@
 # 全神贯注
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanshenguanzhu.md)
+
 <p><span class="chinese">她全神贯注地听课。</span><span class="english">She was all ears in class.</span></p>
 
 <p><span class="chinese">她们全神贯注一声不吭。</span><span class="english">They are too engrossed to talk.</span></p>

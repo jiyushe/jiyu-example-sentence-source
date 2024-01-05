@@ -1,5 +1,7 @@
 # optimistically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optimistically.md)
+
 <p><span class="chinese">乐观地走自己的路。</span><span class="english">Go your way optimistically.</span></p>
 
 <p><span class="chinese">显然，这回贝尔逊过于乐观。</span><span class="english">Obviously, this chapter of Bell abdicates too optimistically.</span></p>

@@ -1,5 +1,7 @@
 # 小说家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshuojia.md)
+
 <p><span class="chinese">伊索，小说家，天才骗子。</span><span class="english">AESOP, novelist, nature faker.</span></p>
 
 <p><span class="chinese">狄更斯是位多产的小说家。</span><span class="english">Dicken's was a fruitful novelist.</span></p>

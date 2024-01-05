@@ -1,5 +1,7 @@
 # inherent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inherent.md)
+
 <p><span class="chinese">这些权利是与生俱来的</span><span class="english">They are inherent in everything.</span></p>
 
 <p><span class="chinese">它有两个主要的固有缺点。</span><span class="english">It has two primary inherent drawbacks.</span></p>

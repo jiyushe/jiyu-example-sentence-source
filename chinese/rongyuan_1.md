@@ -1,5 +1,7 @@
 # 蝾螈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongyuan_1.md)
+
 <p><span class="chinese">我们喜欢容蝾螈。</span><span class="english">And we like newts.</span></p>
 
 <p><span class="chinese">蝾螈之眼田鸡趾。</span><span class="english">Eye of newt, and toe of frog.</span></p>

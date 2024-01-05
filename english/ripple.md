@@ -1,5 +1,7 @@
 # ripple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ripple.md)
+
 <p><span class="chinese">那云只是道涟漪。</span><span class="english">And the clouds just a ripple?</span></p>
 
 <p><span class="chinese">所有我们所做的都会产生连锁反应。</span><span class="english">All these things have ripple effects.</span></p>

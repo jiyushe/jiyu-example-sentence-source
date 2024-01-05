@@ -1,5 +1,7 @@
 # songwriter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/songwriter.md)
+
 <p><span class="chinese">你知道它的词曲作者是谁吗？</span><span class="english">Do you know its composer and its songwriter?</span></p>
 
 <p><span class="chinese">行啦，你知道我的梦想是成为作家曲。</span><span class="english">Come on. You know my dream is to be a songwriter.</span></p>

@@ -1,5 +1,7 @@
 # 说辞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuoci.md)
+
 <p><span class="chinese">然而，所有这些不过是说辞而已。</span><span class="english">Yet this is all just rhetoric.</span></p>
 
 <p><span class="chinese">每个人都各有各的说辞。</span><span class="english">Each person explained it in their own way.</span></p>

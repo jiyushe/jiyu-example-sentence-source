@@ -1,5 +1,7 @@
 # purist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purist.md)
+
 <p><span class="chinese">我的司机是一位纯化论者。</span><span class="english">My driver is a purist.</span></p>
 
 <p><span class="chinese">一种最纯粹的形式独轮车，无曲柄。</span><span class="english">A purist form of unicycle, without cranks.</span></p>

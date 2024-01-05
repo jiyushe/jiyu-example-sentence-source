@@ -1,5 +1,7 @@
 # blowtorch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blowtorch.md)
+
 <p><span class="chinese">只要漏一点，就会成为喷枪。</span><span class="english">A leak would have become a blowtorch.</span></p>
 
 <p><span class="chinese">他很快就会以喷灯处理他的作品。</span><span class="english">Soon, he'll be working his pieces over with a blowtorch.</span></p>

@@ -1,5 +1,7 @@
 # hypothec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothec.md)
+
 <p><span class="chinese">抵押权自登记时设立。</span><span class="english">When hypothec is registered oneself establish.</span></p>
 
 <p><span class="chinese">第二部分为抵押权实现的比较考察。</span><span class="english">The second part is about the comparative review of realization of hypothec.</span></p>

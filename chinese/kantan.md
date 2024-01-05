@@ -1,5 +1,7 @@
 # 勘探
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kantan.md)
+
 <p><span class="chinese">向西或到什么别的地方去勘探。</span><span class="english">Explore westward or wherever.</span></p>
 
 <p><span class="chinese">他们勘探了每一片地方。</span><span class="english">They explored every part of it.</span></p>

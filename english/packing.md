@@ -1,5 +1,7 @@
 # packing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/packing.md)
+
 <p><span class="chinese">打包带设备。</span><span class="english">Packing Belt.</span></p>
 
 <p><span class="chinese">打包带机。</span><span class="english">Packing belt machine.</span></p>

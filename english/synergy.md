@@ -1,5 +1,7 @@
 # synergy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synergy.md)
+
 <p><span class="chinese">这和协同没有什么关系</span><span class="english">So this isn't to do with the synergy.</span></p>
 
 <p><span class="chinese">对于协同作用的承诺是很少能兑现的。</span><span class="english">Promises of synergy are rarely fulfilled.</span></p>

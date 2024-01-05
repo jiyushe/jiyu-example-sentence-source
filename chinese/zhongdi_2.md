@@ -1,5 +1,7 @@
 # 重地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdi_2.md)
+
 <p><span class="chinese">基本上，这是个施工重地。</span><span class="english">It's a building site, basically.</span></p>
 
 <p><span class="chinese">尊天重地敬天爱人。</span><span class="english">Respect heaven and earth to love.</span></p>

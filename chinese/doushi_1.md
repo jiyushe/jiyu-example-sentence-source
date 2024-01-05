@@ -1,5 +1,7 @@
 # 斗室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/doushi_1.md)
+
 <p><span class="chinese">我的房间很小，使我有困居斗室之感。</span><span class="english">My room was so small that I felt fenced in.</span></p>
 
 <p><span class="chinese">她身居斗室，感到很闷气。</span><span class="english">Living in that small flat,she feels boxed in.</span></p>

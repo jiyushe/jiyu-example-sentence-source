@@ -1,5 +1,7 @@
 # brindle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brindle.md)
+
 <p><span class="chinese">不同深浅的红色、深褐色或带有斑纹。</span><span class="english">All shades of red, sable and brindle.</span></p>
 
 <p><span class="chinese">黑色、小麦色或许带有其他颜色的斑点。</span><span class="english">Black, wheaten or brindle of any color.</span></p>

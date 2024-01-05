@@ -1,5 +1,7 @@
 # 不俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/busu.md)
+
 <p><span class="chinese">这颜色艳而不俗。</span><span class="english">This colour is bright but not garish.</span></p>
 
 <p><span class="chinese">任达华和吴君如都有着不俗/惊人的表现。</span><span class="english">Simon Yam and Sandra Ng both gave stunning performances!</span></p>

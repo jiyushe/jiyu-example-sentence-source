@@ -1,5 +1,7 @@
 # unsaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsaid.md)
+
 <p><span class="chinese">我觉得还是安装S版更好点！</span><span class="english">Somethings are better left unsaid !</span></p>
 
 <p><span class="chinese">我记起许多我们没说出的往事。</span><span class="english">As I recall the many things we left unsaid.</span></p>

@@ -1,5 +1,7 @@
 # 占先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanxian.md)
+
 <p><span class="chinese">我们队在比赛中占先。</span><span class="english">Our team led all the others in the contest.</span></p>
 
 <p><span class="chinese">杰克悄悄占先一步，比比尔早起而抡到了这份工作。</span><span class="english">Jack stole a match on Bill, and got the job by getting up earlier.</span></p>

@@ -1,5 +1,7 @@
 # aloe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aloe.md)
+
 <p><span class="chinese">Soicta龙舌兰、短叶芦荟</span><span class="english">Agave soicta or aloe brevifolia</span></p>
 
 <p><span class="chinese">从芦荟中可以萃取出芦荟汁。</span><span class="english">Aloe plants can be tapped for aloe.</span></p>

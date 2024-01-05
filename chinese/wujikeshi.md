@@ -1,5 +1,7 @@
 # 无计可施
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujikeshi.md)
+
 <p><span class="chinese">幸运的是，对这个问题并非无计可施。</span><span class="english">Fortunately, there is a workaround to this problem.</span></p>
 
 <p><span class="chinese">大家都无计可施，全国最好的良医也没办法救她的病。</span><span class="english">Not even the best doctor in the country could cure her.</span></p>

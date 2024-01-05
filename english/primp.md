@@ -1,5 +1,7 @@
 # primp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primp.md)
+
 <p><span class="chinese">我坐床上，看着她打扮。</span><span class="english">I sat on the bed watching her primp.</span></p>
 
 <p><span class="chinese">他们基本就跟之前一样打扮一下，拗拗造型，做做简单动作和脸部表情罢了。</span><span class="english">They basically primp and pose through the same humdrum motions they did before.</span></p>

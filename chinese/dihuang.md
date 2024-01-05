@@ -1,5 +1,7 @@
 # 地黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dihuang.md)
+
 <p><span class="chinese">毛地黄会引起心脏衰竭。</span><span class="english">Foxglove can cause heart failure.</span></p>
 
 <p><span class="chinese">毛地黄可能会导致心力衰竭。</span><span class="english">Foxglove can calls hot cause heart failure.</span></p>

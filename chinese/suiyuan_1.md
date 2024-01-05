@@ -1,5 +1,7 @@
 # 随员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suiyuan_1.md)
+
 <p><span class="chinese">他与他的随员们大步走了过去。</span><span class="english">He strode past with his retinue of aides.</span></p>
 
 <p><span class="chinese">她的四分之一是正确地紧邻我的主人随员。</span><span class="english">Her quarters were right next to my Master Suite.</span></p>

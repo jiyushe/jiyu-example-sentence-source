@@ -1,5 +1,7 @@
 # 动荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongdang.md)
+
 <p><span class="chinese">房价已经开始动荡</span><span class="english">Home prices have become unstable.</span></p>
 
 <p><span class="chinese">上周市场剧烈动荡。</span><span class="english">Markets wildly gyrated last week.</span></p>

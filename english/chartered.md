@@ -1,5 +1,7 @@
 # chartered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chartered.md)
+
 <p><span class="chinese">我们学校为那次旅行包了三辆公共汽车。</span><span class="english">Our school chartered three buses for the trip.</span></p>
 
 <p><span class="chinese">渣打纽约银行美国经济学家戴维·西蒙说道。</span><span class="english">S. economist at Standard Chartered Bank in New York.</span></p>

@@ -1,5 +1,7 @@
 # psychophysiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychophysiology.md)
+
 <p><span class="chinese">心理生理学杂志。</span><span class="english">Journal of Psychophysiology.</span></p>
 
 <p><span class="chinese">心生学是运动心学的一个研究取向，其中，以脑波心生学的研究较受到注意。</span><span class="english">Psychophysiology is a research approach in the study of sport and exercise psychology.</span></p>

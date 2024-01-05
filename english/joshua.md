@@ -1,5 +1,7 @@
 # joshua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joshua.md)
+
 <p><span class="chinese">约书亚·博尔顿。</span><span class="english">Joshua Bolten.</span></p>
 
 <p><span class="chinese">庄叔华摇了摇尾巴。</span><span class="english">Joshua is shaking his tail.</span></p>

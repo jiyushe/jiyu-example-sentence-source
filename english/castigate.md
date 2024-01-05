@@ -1,5 +1,7 @@
 # castigate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/castigate.md)
+
 <p><span class="chinese">马克思从不放过任何谴责殖民主义的机会。</span><span class="english">Marx never lost an opportunity to castigate colonialism.</span></p>
 
 <p><span class="chinese">指定替罪羔羊，煽动其他人鞭挞他们。</span><span class="english">Identifying scapegoats and inciting others to castigate them.</span></p>

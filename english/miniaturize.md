@@ -1,5 +1,7 @@
 # miniaturize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miniaturize.md)
+
 <p><span class="chinese">我们就微缩你们的身材，让你们的事业也完蛋！</span><span class="english">We will miniaturize your stature and end your careers!</span></p>
 
 <p><span class="chinese">该结构滤波器的尺寸显著减小，从而有利于实现电路的小型化。</span><span class="english">The filter is reduced in size and can be used to miniaturize the circuit.</span></p>

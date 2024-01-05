@@ -1,5 +1,7 @@
 # stunted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stunted.md)
+
 <p><span class="chinese">相比之下燃料作物可以其貌不扬或发育矮小。</span><span class="english">Crops for fuel, in contrast, can be ugly or stunted.</span></p>
 
 <p><span class="chinese">战争使世界的科学发展受到了抑制。</span><span class="english">Wars stunted the development of science in the world.</span></p>

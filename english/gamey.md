@@ -1,5 +1,7 @@
 # gamey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gamey.md)
+
 <p><span class="chinese">肉青白细嫩，且无泥腥气。</span><span class="english">Tender, and no meat stimulation mud gamey smell.</span></p>
 
 <p><span class="chinese">优雅及独特的野味混然一身。</span><span class="english">ELEGANCE and unique GAMEY flavour certainly comes along.</span></p>

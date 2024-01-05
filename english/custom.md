@@ -1,5 +1,7 @@
 # custom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/custom.md)
+
 <p><span class="chinese">自定义起始页。</span><span class="english">Custom Start Pages.</span></p>
 
 <p><span class="chinese">这里的规矩是这样的。</span><span class="english">The custom here is this.</span></p>

@@ -1,5 +1,7 @@
 # aqaba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aqaba.md)
+
 <p><span class="chinese">巴勒斯坦的一个古国，位于死海与亚喀巴湾之间。</span><span class="english">An ancient country of Palestine between the Dead Sea and the Gulf of Aqaba.</span></p>
 
 <p><span class="chinese">以东座落在死海东南方，一直延伸到亚迦巴湾。</span><span class="english">Edom was located southeast of the Dead Sea and extended to the Gulf of Aqaba.</span></p>

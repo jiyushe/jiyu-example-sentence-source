@@ -1,5 +1,7 @@
 # condemned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condemned.md)
+
 <p><span class="chinese">没有人定你的罪吗？</span><span class="english">Has no one condemned you?</span></p>
 
 <p><span class="chinese">他被判处终身流放。</span><span class="english">He was condemned to life-long exile.</span></p>

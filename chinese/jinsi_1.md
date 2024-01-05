@@ -1,5 +1,7 @@
 # 金丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinsi_1.md)
+
 <p><span class="chinese">她只是一个傻傻的金丝猫吗?</span><span class="english">Was she only a dumb blonde?</span></p>
 
 <p><span class="chinese">金丝桃素储存于分泌细胞团内。</span><span class="english">Hypericin is stored in secretory nodule.</span></p>

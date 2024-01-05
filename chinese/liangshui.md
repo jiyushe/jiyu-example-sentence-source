@@ -1,5 +1,7 @@
 # 两税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangshui.md)
+
 <p><span class="chinese">两税合并谁将受益?。</span><span class="english">Who benefit from the incorporation?</span></p>
 
 <p><span class="chinese">我国现行内外资企业所得税制造成的两税并存的矛盾日益突出。</span><span class="english">The income institution of china's home and foreign enterprise is facing outstanding problem.</span></p>

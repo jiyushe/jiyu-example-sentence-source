@@ -1,5 +1,7 @@
 # localize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/localize.md)
+
 <p><span class="chinese">感染似乎局限于脚部。</span><span class="english">The infection seemed to localize in the foot.</span></p>
 
 <p><span class="chinese">他们会不断的减小,寻找空间来定位问题源。</span><span class="english">And they do that to localize the source of the problem.</span></p>

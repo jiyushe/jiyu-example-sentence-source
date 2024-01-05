@@ -1,5 +1,7 @@
 # 往时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangshi_1.md)
+
 <p><span class="chinese">往时的事是不可以改造的。</span><span class="english">You can't change the past.</span></p>
 
 <p><span class="chinese">当他们长驱直往时。</span><span class="english">While they were driving along.</span></p>

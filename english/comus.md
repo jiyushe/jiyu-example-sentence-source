@@ -1,5 +1,7 @@
 # comus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comus.md)
+
 <p><span class="chinese">女士宣称她犹豫不决,不知道该不该对科玛斯说。</span><span class="english">The Lady has claimed that she's hesitant to say anything at this point to Comus.</span></p>
 
 <p><span class="chinese">女士之美如此这般的色情之处,都是来自科玛斯。</span><span class="english">The eroticization of the Lady's beauty has up to this point come exclusively from Comus.</span></p>

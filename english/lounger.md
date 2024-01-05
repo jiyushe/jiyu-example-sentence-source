@@ -1,5 +1,7 @@
 # lounger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lounger.md)
+
 <p><span class="chinese">我已经在沙滩上放了一张日光躺椅。</span><span class="english">I have set a sun lounger on the beach.</span></p>
 
 <p><span class="chinese">迷人的大堂设有一个休息区和免费无线网络连接。</span><span class="english">Outside you can relax on a sun lounger beside the pool.</span></p>

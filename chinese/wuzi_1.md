@@ -1,5 +1,7 @@
 # 屋子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzi_1.md)
+
 <p><span class="chinese">把你的屋子摒挡摒挡。</span><span class="english">Clea up your room.</span></p>
 
 <p><span class="chinese">屋子里都翻了天。</span><span class="english">The room is a hell".</span></p>

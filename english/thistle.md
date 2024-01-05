@@ -1,5 +1,7 @@
 # thistle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thistle.md)
+
 <p><span class="chinese">还有刺玫瑰，大蓟和梨树。</span><span class="english">Thorn roses and thistle and pears.</span></p>
 
 <p><span class="chinese">植物蓟来源于它们的食物。</span><span class="english">The thistle is one of their food sources.</span></p>

@@ -1,5 +1,7 @@
 # heading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heading.md)
+
 <p><span class="chinese">他们正朝家走去。</span><span class="english">They are heading home.</span></p>
 
 <p><span class="chinese">小麦正处于抽穗期。</span><span class="english">The wheat is heading out.</span></p>

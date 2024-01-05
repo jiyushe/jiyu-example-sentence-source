@@ -1,5 +1,7 @@
 # insufficiency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insufficiency.md)
+
 <p><span class="chinese">有的患者对高血搪的危害认识不足。</span><span class="english">Some patients to Gao Xuetang the harm understanding insufficiency.</span></p>
 
 <p><span class="chinese">“眼睑位置处于正常或微小关闭不全”这样翻译对不对?。</span><span class="english">The position of eyelid edge is normal or gentleness insufficiency.</span></p>

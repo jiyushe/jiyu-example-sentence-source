@@ -1,5 +1,7 @@
 # postdoc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postdoc.md)
+
 <p><span class="chinese">什么是一些满意度和压力，一个博士后你觉得呢？</span><span class="english">What are some of the satisfactions and pressures you feel as a postdoc here?</span></p>
 
 <p><span class="chinese">一起发明设计的,听到这个名字有人。</span><span class="english">He had actually developed this detector with a postdoc by the name of Hans Geiger.</span></p>

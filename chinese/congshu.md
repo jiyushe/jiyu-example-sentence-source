@@ -1,5 +1,7 @@
 # 丛书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congshu.md)
+
 <p><span class="chinese">再有一本即可凑齐这套丛书。</span><span class="english">One more volume will complete this series.</span></p>
 
 <p><span class="chinese">这些丛书的年销售总量大约为25万册。</span><span class="english">Annual sales total about a quarter-million books.</span></p>

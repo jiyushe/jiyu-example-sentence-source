@@ -1,5 +1,7 @@
 # 佛教徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fojiaotu.md)
+
 <p><span class="chinese">佛教徒崇拜偶像吗？</span><span class="english">Do Buddhists Worship Idols?</span></p>
 
 <p><span class="chinese">佛教徒是个家庭型的男人。</span><span class="english">The Buddhist is a family man.</span></p>

@@ -1,5 +1,7 @@
 # illiteracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illiteracy.md)
+
 <p><span class="chinese">文盲有依赖性。</span><span class="english">Illiteracy is dependence.</span></p>
 
 <p><span class="chinese">这就是所谓的盲文文盲。</span><span class="english">It is called Braille illiteracy.</span></p>

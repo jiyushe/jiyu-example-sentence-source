@@ -1,5 +1,7 @@
 # 伸腿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shentui.md)
+
 <p><span class="chinese">那舞蹈者伸了伸腿。</span><span class="english">The dancer extended her leg.</span></p>
 
 <p><span class="chinese">我伸腿的时候会痛。</span><span class="english">It hurts when I extend my leg.</span></p>

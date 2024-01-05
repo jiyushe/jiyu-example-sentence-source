@@ -1,5 +1,7 @@
 # reexamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reexamine.md)
+
 <p><span class="chinese">这涉及到另一项权利.复议是请求上一级的税务机关重新审理.其范围既包括处罚争议.也包括纳税争议.但对两者的规定不同.</span><span class="english">That is another right. You can ask the superior tax authority to reexamine the case.</span></p>
 
 <p><span class="chinese">亚利桑那大学现在重新验证整个结构的潜力。</span><span class="english">The University of Arizona now has the rights to reexamine the structure’s potential.</span></p>

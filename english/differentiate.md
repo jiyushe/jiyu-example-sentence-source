@@ -1,5 +1,7 @@
 # differentiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/differentiate.md)
+
 <p><span class="chinese">用E对r求导。</span><span class="english">We differentiate dE by dr.</span></p>
 
 <p><span class="chinese">需要再次求导,是吧</span><span class="english">I differentiate again, right?</span></p>

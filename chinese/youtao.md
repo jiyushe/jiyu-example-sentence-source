@@ -1,5 +1,7 @@
 # 釉陶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youtao.md)
+
 <p><span class="chinese">由一种纯天然无釉陶土烧制而成。</span><span class="english">From a purely natural soil produced from non-glazed pottery.</span></p>
 
 <p><span class="chinese">曾多次参加国内外文化交流活动。作壶之余收藏并研究宜兴明清均釉陶。</span><span class="english">He has participated in many cultural exchanges and won lots of prizes at home and abroad.</span></p>

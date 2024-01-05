@@ -1,5 +1,7 @@
 # shell 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shell.md)
+
 <p><span class="chinese">还有一个贝壳。</span><span class="english">And a shell.</span></p>
 
 <p><span class="chinese">那是扇状的贝壳。</span><span class="english">That's a fanlike shell.</span></p>

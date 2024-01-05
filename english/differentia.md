@@ -1,5 +1,7 @@
 # differentia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/differentia.md)
+
 <p><span class="chinese">第二个不同点是所涉及的领域。</span><span class="english">The 2nd differentia is involves field.</span></p>
 
 <p><span class="chinese">提高银行产品的差异化程度。</span><span class="english">Improve the differentia degree of banking production.</span></p>

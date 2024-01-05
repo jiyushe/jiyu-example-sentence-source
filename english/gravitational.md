@@ -1,5 +1,7 @@
 # gravitational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravitational.md)
+
 <p><span class="chinese">土星质量大，引力也大。</span><span class="english">Saturn quality, gravitational next.</span></p>
 
 <p><span class="chinese">我们转移他的重力中心。</span><span class="english">We shift the gravitational center of it.</span></p>

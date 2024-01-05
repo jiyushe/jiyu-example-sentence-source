@@ -1,5 +1,7 @@
 # coalfield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coalfield.md)
+
 <p><span class="chinese">潘尼杨煤矿一直使用露天开采法进行开采。</span><span class="english">The Panian coalfield is being mined using open-pit methods.</span></p>
 
 <p><span class="chinese">煤炭自燃是义马煤田主要灾害之一。</span><span class="english">Coal spontaneous combustion is one of disaster in Yima coalfield.</span></p>

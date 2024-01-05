@@ -1,5 +1,7 @@
 # gambler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gambler.md)
+
 <p><span class="chinese">他是声名狼藉的赌徒和浪荡子。</span><span class="english">He was notorious as a gambler and rake.</span></p>
 
 <p><span class="chinese">如何成为一个成功的赌徒呢?</span><span class="english">So how do you become a successful gambler?</span></p>

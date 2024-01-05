@@ -1,5 +1,7 @@
 # 转速比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuansubi.md)
+
 <p><span class="chinese">一般来说，对于现代引擎，低转速比高转速效率更高。</span><span class="english">In general, the efficiency of modern engines is better at lower rather than at high revs.</span></p>
 
 <p><span class="chinese">阻尼系数越小，发生周期解分叉的转速比越小。</span><span class="english">Smaller damping coefficient will make the rotating speed for periodic bifurcation smaller.</span></p>

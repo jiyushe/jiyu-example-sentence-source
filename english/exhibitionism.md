@@ -1,5 +1,7 @@
 # exhibitionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhibitionism.md)
+
 <p><span class="chinese">那完全是表现主义、狂妄自大和彻头彻尾的挑衅。</span><span class="english">The exhibitionism of it all. The arrogance.</span></p>
 
 <p><span class="chinese">你知道，大学生和他们的酒后暴露。</span><span class="english">You know college kids and their drunken exhibitionism.</span></p>

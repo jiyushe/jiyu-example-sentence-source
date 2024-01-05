@@ -1,5 +1,7 @@
 # graven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graven.md)
+
 <p><span class="chinese">死后成为众多愤青追捧的偶像。</span><span class="english">Angry yung man of many tkink of him as graven image after die.</span></p>
 
 <p><span class="chinese">诺尔曼?求恩于1890年出生在加拿大安大略省的格雷文赫斯特。</span><span class="english">Norman Bethune was born in Graven Hurst, Ontario, Canada in 1890.</span></p>

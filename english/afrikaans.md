@@ -1,5 +1,7 @@
 # afrikaans
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afrikaans.md)
+
 <p><span class="chinese">南非荷兰语在自由主义的新南非相当流行。</span><span class="english">Afrikaans is blossoming in the liberal New South Africa.</span></p>
 
 <p><span class="chinese">他们的名字源于南非的荷兰语意思是“泥猪”。</span><span class="english">Their name comes from South Africa's Afrikaans language and means "earth pig."</span></p>

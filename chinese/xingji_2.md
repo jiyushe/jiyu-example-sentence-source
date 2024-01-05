@@ -1,5 +1,7 @@
 # 星际
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingji_2.md)
+
 <p><span class="chinese">星际宝贝大逃亡！</span><span class="english">Stitch's Great Escape!</span></p>
 
 <p><span class="chinese">我们生活的地球由星际尘埃聚集而成。</span><span class="english">We are here, made of stardust.</span></p>

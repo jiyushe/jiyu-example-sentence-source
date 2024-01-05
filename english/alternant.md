@@ -1,5 +1,7 @@
 # alternant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alternant.md)
+
 <p><span class="chinese">交替性厌食暴食症有治吗?。</span><span class="english">Does guzzle disease have alternant sex anorexia treat?</span></p>
 
 <p><span class="chinese">我的手为什么会在季节交替的时候脱皮呢？</span><span class="english">Why can my hand be when is season alternant desquamate?</span></p>

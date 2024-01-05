@@ -1,5 +1,7 @@
 # invective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invective.md)
+
 <p><span class="chinese">他们求助于使用挖苦、讽刺、谩骂和自吹自擂。</span><span class="english">They resorted to sarcasm irony, invective and self-praise.</span></p>
 
 <p><span class="chinese">但同时警告一部分人，不要在这里进行无礼的谩骂。</span><span class="english">But at the same, warn some people not to issue impolite invective here.</span></p>

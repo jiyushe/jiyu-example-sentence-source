@@ -1,5 +1,7 @@
 # telepathic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telepathic.md)
+
 <p><span class="chinese">所有动物都有以心传心的能力吗？</span><span class="english">Do all animals have telepathic abilities?</span></p>
 
 <p><span class="chinese">你是一个魔法师并且小有心灵感应术。</span><span class="english">You are an Illusionist and somewhat telepathic.</span></p>

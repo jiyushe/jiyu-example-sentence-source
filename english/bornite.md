@@ -1,5 +1,7 @@
 # bornite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bornite.md)
+
 <p><span class="chinese">随温度的增加，黄铜矿含量下降，而磁铁矿和斑铜矿含量增加。</span><span class="english">With temperature increase, chalcopyrite content decreases, and magnetite and bornite content increases.</span></p>
 
 <p><span class="chinese">洁西矿结的另一特点，是它含有相当数量的针镍矿及班铜矿。</span><span class="english">The jussi ore shoot is exceptional also in that it contains considerable amounts of millerite and bornite.</span></p>

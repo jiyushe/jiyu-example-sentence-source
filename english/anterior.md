@@ -1,5 +1,7 @@
 # anterior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anterior.md)
+
 <p><span class="chinese">神经支配为闭孔神经前支。</span><span class="english">The nerve was anterior branch obturater nerve.</span></p>
 
 <p><span class="chinese">影响前牙由于小下颌。</span><span class="english">Impacted anterior teeth due to a small mandible.</span></p>

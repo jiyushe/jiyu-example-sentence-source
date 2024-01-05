@@ -1,5 +1,7 @@
 # occupier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occupier.md)
+
 <p><span class="chinese">他说他的判决基于这样一种信念，没有穆斯林应该接受或协助非穆斯林侵略者。</span><span class="english">He says his fatwa is based on the belief that no Muslim should accept or assist a non-Muslim occupier.</span></p>
 
 <p><span class="chinese">在苏格兰的法律中，土地的所有者或占有者有权阻止任何陌生人侵犯他的土地。</span><span class="english">By the law of Scotland a proprietor or occupier is entitled to prevent any stranger from intruding on his land.</span></p>

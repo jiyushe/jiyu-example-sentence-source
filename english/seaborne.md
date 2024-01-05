@@ -1,5 +1,7 @@
 # seaborne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seaborne.md)
+
 <p><span class="chinese">海运业务的金融投资者可能会有些晕船。</span><span class="english">Seaborne financial investors could be in for a bout of seasickness.</span></p>
 
 <p><span class="chinese">海运动力煤交易从2001年的3.85亿吨增长到了今年的6.9吨。</span><span class="english">Seaborne trade in thermal coal rose to about 690 million tons this year, up from 385 million in 2001.</span></p>

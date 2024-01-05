@@ -1,5 +1,7 @@
 # keck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keck.md)
+
 <p><span class="chinese">为什么现在我看到电脑就头晕，想吐？</span><span class="english">Why I see computer is giddy now, keck?</span></p>
 
 <p><span class="chinese">头晕，想吐的症状是食物中毒吗?。</span><span class="english">Giddy , is the symptom of keck bromatoxism?</span></p>

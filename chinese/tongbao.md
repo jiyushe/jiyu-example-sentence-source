@@ -1,5 +1,7 @@
 # 同胞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongbao.md)
+
 <p><span class="chinese">我们是同胞兄弟，他说。</span><span class="english">We brethren are, ' he said.</span></p>
 
 <p><span class="chinese">为了她的民族和同胞。</span><span class="english">For her nation and compatriots.</span></p>

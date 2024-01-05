@@ -1,5 +1,7 @@
 # understatement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/understatement.md)
+
 <p><span class="chinese">这么说明显是轻描淡写了，在我们行走时，好像在参加一个“狼先生，现在几点了？”</span><span class="english">This is a grand understatement.</span></p>
 
 <p><span class="chinese">说我有些沮丧已经算是轻描淡写了。</span><span class="english">To say I was despondent is an understatement.</span></p>

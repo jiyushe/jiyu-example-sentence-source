@@ -1,5 +1,7 @@
 # naomi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naomi.md)
+
 <p><span class="chinese">我坐在娜奥米坎贝尔的正上方。</span><span class="english">I sat directly above Naomi Campbell.</span></p>
 
 <p><span class="chinese">纳奥米·坎贝尔获封最佳模特。</span><span class="english">Naomi Campbell was named best model.</span></p>

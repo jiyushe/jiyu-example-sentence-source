@@ -1,5 +1,7 @@
 # 众怒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongnu.md)
+
 <p><span class="chinese">迄今为止，中国红十字会所采取的措施并未能安抚众怒。</span><span class="english">So far, the RCSC measures have failed to appease the outraged netizens.</span></p>
 
 <p><span class="chinese">然而，甚至在Buzz事件引发众怒之前，谷歌大厦便已出现了裂痕。</span><span class="english">But, even before the furore over Buzz, there were signs of cracks in the edifice.</span></p>

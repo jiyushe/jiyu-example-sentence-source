@@ -1,5 +1,7 @@
 # 质朴无华
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhipiaowuhua.md)
+
 <p><span class="chinese">有学识的人质朴无华。</span><span class="english">Men of learning are plain men.</span></p>
 
 <p><span class="chinese">还有白色，真正的白色，质朴无华，完美无瑕。</span><span class="english">And white, true white, pristine and unblemished.</span></p>

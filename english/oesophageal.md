@@ -1,5 +1,7 @@
 # oesophageal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oesophageal.md)
+
 <p><span class="chinese">最近出现的食道狭窄通常都比较严重。</span><span class="english">Late oesophageal strictures are usually severe.</span></p>
 
 <p><span class="chinese">怎样可以预防胃食管逆流呢？</span><span class="english">What can be done to prevent gastro- oesophageal reflux?</span></p>

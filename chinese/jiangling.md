@@ -1,5 +1,7 @@
 # 将令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangling.md)
+
 <p><span class="chinese">乔布斯是一个有远见的人.350美元的股价将令投资者承压.</span><span class="english">Clearly Steve is a visionary.</span></p>
 
 <p><span class="chinese">它将令您的各种资料分门别类，清清爽爽。</span><span class="english">It will make you the breakdown-cool cool.</span></p>

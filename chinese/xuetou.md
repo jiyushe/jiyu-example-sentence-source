@@ -1,5 +1,7 @@
 # 噱头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuetou.md)
+
 <p><span class="chinese">提防噱头。</span><span class="english">Watch out for gimmicks.</span></p>
 
 <p><span class="chinese">它是一个有趣的噱头。</span><span class="english">It's an interesting gimmick.</span></p>

@@ -1,5 +1,7 @@
 # heliport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heliport.md)
+
 <p><span class="chinese">明天总统将主持新直升机机场的开幕典礼。</span><span class="english">The President will open the new heliport tomorrow.</span></p>
 
 <p><span class="chinese">最好的办法就是每个控制的岛礁都建成直升机场。</span><span class="english">The best way is to control the islands have each built heliport.</span></p>

@@ -1,5 +1,7 @@
 # ragweed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ragweed.md)
+
 <p><span class="chinese">豚草常是闲置耕地的先锋植物。</span><span class="english">Ragweed pioneers idle fields.</span></p>
 
 <p><span class="chinese">利用豚草及核放射物对沉积物进行年代推定</span><span class="english">Dating sediments using ragweed and nuclear fallout</span></p>

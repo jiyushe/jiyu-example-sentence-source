@@ -1,5 +1,7 @@
 # 不只
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhi.md)
+
 <p><span class="chinese">其实是不只潭和瀑布。</span><span class="english">Not only the waterfalls and ponds here.</span></p>
 
 <p><span class="chinese">而且我们不只侦测一根手指。</span><span class="english">But we are not only tracking one finger, here.</span></p>

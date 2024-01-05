@@ -1,5 +1,7 @@
 # 天地会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiandihui.md)
+
 <p><span class="chinese">一念恶，天地会有狂风暴雨发生，造成灾害。</span><span class="english">A single thought of evil can cause gales, deluges, and tragic disasters.</span></p>
 
 <p><span class="chinese">天地会与林爽文起义之间没有直接的因果关系。</span><span class="english">There was no cause and effect between the Heaven and Earth Society and the Lin Shuangwen Uprising.</span></p>

@@ -1,5 +1,7 @@
 # shrill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrill.md)
+
 <p><span class="chinese">还有狂野而尖利的号角。</span><span class="english">And the bugle wild and shrill.</span></p>
 
 <p><span class="chinese">鸥鸟尖利的歌声那样清澈。</span><span class="english">Shrill song of gulls scavenging.</span></p>

@@ -1,5 +1,7 @@
 # bilateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bilateral.md)
+
 <p><span class="chinese">第一，扩大双方贸易规模。</span><span class="english">First, increase bilateral trade.</span></p>
 
 <p><span class="chinese">双边会谈恐将经年累月。</span><span class="english">Bilateral talks can be dragged out.</span></p>

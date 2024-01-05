@@ -1,5 +1,7 @@
 # uncomfortable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncomfortable.md)
+
 <p><span class="chinese">如果我盯着看你使你不舒服了，我很抱歉。</span><span class="english">made you feel uncomfortable.</span></p>
 
 <p><span class="chinese">是的，野营就是遭罪。</span><span class="english">Yes, camping is uncomfortable.</span></p>

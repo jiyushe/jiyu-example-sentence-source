@@ -1,5 +1,7 @@
 # 浓缩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongsuo.md)
+
 <p><span class="chinese">买一些浓缩汤汁？</span><span class="english">Buying some soup?</span></p>
 
 <p><span class="chinese">必要时浓缩新闻。</span><span class="english">Condense it if necessary.</span></p>

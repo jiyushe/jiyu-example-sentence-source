@@ -1,5 +1,7 @@
 # christen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christen.md)
+
 <p><span class="chinese">你真的要给他行洗礼吗，苔丝？</span><span class="english">Be you really going to christen him, Tess?</span></p>
 
 <p><span class="chinese">让我们为首次使用我们新的罗尔斯—罗伊斯汽车干上一杯。</span><span class="english">Let's have a drink to christen our new Rolls-Royce.</span></p>

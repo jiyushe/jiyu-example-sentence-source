@@ -1,5 +1,7 @@
 # 浆糊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianghu.md)
+
 <p><span class="chinese">他用浆糊粘信封。</span><span class="english">He sealed the envelope with paste.</span></p>
 
 <p><span class="chinese">他把两张纸用浆糊粘在一起。</span><span class="english">He sticks two pieces of paper with paste.</span></p>

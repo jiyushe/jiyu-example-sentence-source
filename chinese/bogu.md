@@ -1,5 +1,7 @@
 # 波谷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bogu.md)
+
 <p><span class="chinese">正象波峰有高潮一样，它也有波谷。</span><span class="english">And just as each wave has a crest, it also has a trough.</span></p>
 
 <p><span class="chinese">肋手钩纱提出在波峰和波谷。</span><span class="english">The ribbed crochet raises up peaks and valleys in the yarn.</span></p>

@@ -1,5 +1,7 @@
 # catalonian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalonian.md)
+
 <p><span class="chinese">队伍为参加他们的节日活动练习了数月。</span><span class="english">Teams practice for months in anticipation of major Catalonian festivals.</span></p>
 
 <p><span class="chinese">加泰罗尼亚菜肴根植于腓尼基、希腊和罗马菜系。</span><span class="english">Catalonian dishes are deeply rooted in Phoenician, Greek and Roman cuisine.</span></p>

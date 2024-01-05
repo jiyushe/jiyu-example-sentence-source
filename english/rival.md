@@ -1,5 +1,7 @@
 # rival 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rival.md)
+
 <p><span class="chinese">它是一个对手？</span><span class="english">Is it a rival?</span></p>
 
 <p><span class="chinese">他输给了自己的对手。</span><span class="english">He lost out to his rival.</span></p>

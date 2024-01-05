@@ -1,5 +1,7 @@
 # 大寒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahan.md)
+
 <p><span class="chinese">有一句民谣叫“大寒小寒，吃饺子过年。”</span><span class="english">It is a folk festival, eat dumplings slight.</span></p>
 
 <p><span class="chinese">为什么不管这叫“大寒”或者“冷冻时代”？</span><span class="english">Why not call it the Big Chill or the Nippy era?</span></p>

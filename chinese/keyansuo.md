@@ -1,5 +1,7 @@
 # 科研所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keyansuo.md)
+
 <p><span class="chinese">我在一家科研所做人事工作。</span><span class="english">I have done in a scientific research personnel work.</span></p>
 
 <p><span class="chinese">开普勒项目的科学数据同时将在太空望远镜科研所存档。</span><span class="english">Kepler's science data also will be archived at the Institute.</span></p>

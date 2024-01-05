@@ -1,5 +1,7 @@
 # 进行曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinxingqu.md)
+
 <p><span class="chinese">乐队开始演奏婚礼进行曲。</span><span class="english">The band struck up the wedding march.</span></p>
 
 <p><span class="chinese">那年我们在大街上唱着进行曲</span><span class="english">We sang war songs on the boulevards that year</span></p>

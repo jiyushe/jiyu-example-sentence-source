@@ -1,5 +1,7 @@
 # 仕女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shinv.md)
+
 <p><span class="chinese">我的好魏公，来看看我的新仕女，小妮。</span><span class="english">My old Wei Gong, Come and meet my new maid, Xiao Ni.</span></p>
 
 <p><span class="chinese">织，仕女打着伞儿漫步雨中。</span><span class="english">Knit, the women beat the umbrella son stroll rain in.</span></p>

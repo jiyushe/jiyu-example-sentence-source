@@ -1,5 +1,7 @@
 # stratigraphical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stratigraphical.md)
+
 <p><span class="chinese">因此，作者新创建寒塘组。</span><span class="english">Therefore, the authors established a new stratigraphical unit-Hangtang Formation.</span></p>
 
 <p><span class="chinese">分析认为，研究剖面附近的深切河槽是局部的深切结果。</span><span class="english">In conclusion, the deep incised-valley in the stratigraphical cross-section was brush-fire.</span></p>

@@ -1,5 +1,7 @@
 # example 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/example_1.md)
+
 <p><span class="chinese">通过例子。</span><span class="english">By example.</span></p>
 
 <p><span class="chinese">我喜欢这个例子。</span><span class="english">I like this example.</span></p>

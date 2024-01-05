@@ -1,5 +1,7 @@
 # 鲲鹏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kunpeng.md)
+
 <p><span class="chinese">报道说，鲲鹏航空没有实现盈利。</span><span class="english">The report said the carrier was unprofitable.</span></p>
 
 <p><span class="chinese">有时候，梦想像鲲鹏一样，展翅高飞。</span><span class="english">Sometimes dream soaring above the earth like a roc.</span></p>

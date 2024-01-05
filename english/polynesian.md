@@ -1,5 +1,7 @@
 # polynesian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polynesian.md)
+
 <p><span class="chinese">来自曼格雷哇岛的波利尼西亚乐队。</span><span class="english">Polynesian band from Mangareva.</span></p>
 
 <p><span class="chinese">一种由妇女进行的波利尼西亚人的求雨舞蹈。</span><span class="english">A polynesian rain dance performed by a woman.</span></p>

@@ -1,5 +1,7 @@
 # 遵从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuncong.md)
+
 <p><span class="chinese">受术者遵从你的意志。</span><span class="english">Domination. Subject obeys your will.</span></p>
 
 <p><span class="chinese">可是，丹才是我的老板，你得遵从他的时间按排。</span><span class="english">Dan was my real boss. You kept his hours.</span></p>

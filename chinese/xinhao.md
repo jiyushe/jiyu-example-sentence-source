@@ -1,5 +1,7 @@
 # 信号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhao.md)
+
 <p><span class="chinese">注意你的信号。</span><span class="english">Watch your signals.</span></p>
 
 <p><span class="chinese">这需要信号。</span><span class="english">That requires signals.</span></p>

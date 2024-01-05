@@ -1,5 +1,7 @@
 # 认准
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzhun.md)
+
 <p><span class="chinese">认准目标，永不放弃。</span><span class="english">Target-oriented , never give up!</span></p>
 
 <p><span class="chinese">大人们总是知道一件事，就认准一件事。</span><span class="english">Adults always know and stick to one thing.</span></p>

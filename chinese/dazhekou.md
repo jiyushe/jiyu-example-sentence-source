@@ -1,5 +1,7 @@
 # 打折扣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazhekou.md)
+
 <p><span class="chinese">抱歉，不打折扣。</span><span class="english">Sorry, no discounts.</span></p>
 
 <p><span class="chinese">这些样书打折扣出售。</span><span class="english">A sample piece of fabric.</span></p>

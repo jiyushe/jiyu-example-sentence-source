@@ -1,5 +1,7 @@
 # 寝室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinshi_2.md)
+
 <p><span class="chinese">我怎么能呆再寝室不去学习呢？</span><span class="english">How came I can stay at bedchamber ?</span></p>
 
 <p><span class="chinese">有五间寝室和一间画室。</span><span class="english">There are five bedrooms and a studio.</span></p>

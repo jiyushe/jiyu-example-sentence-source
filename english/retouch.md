@@ -1,5 +1,7 @@
 # retouch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retouch.md)
+
 <p><span class="chinese">选择润饰工具。</span><span class="english">Selects the Retouch tools.</span></p>
 
 <p><span class="chinese">我们对照片进行处理来使衣服更加地合适。</span><span class="english">We retouch the clothing to fit properly.</span></p>

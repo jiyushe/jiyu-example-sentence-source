@@ -1,5 +1,7 @@
 # 纰漏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pilou.md)
+
 <p><span class="chinese">而任何事一旦具体了就很容易找出它的纰漏之处。</span><span class="english">Once concreted, it is easy to find the careless mistake.</span></p>
 
 <p><span class="chinese">或者该问，“我怎么做才能确保自己的决策不出纰漏？”</span><span class="english">" and, "Am I doing enough to manage the risk around my decisions?</span></p>

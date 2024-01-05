@@ -1,5 +1,7 @@
 # reusable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reusable.md)
+
 <p><span class="chinese">环保袋，可爱吗！在路上别人会看你的。</span><span class="english">Disney's ecological reusable bag by you.</span></p>
 
 <p><span class="chinese">几乎本文的所有代码都是可重用的。</span><span class="english">Almost all the code in this article is reusable.</span></p>

@@ -1,5 +1,7 @@
 # am
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/am.md)
+
 <p><span class="chinese">我身上是干的。</span><span class="english">I am dry.</span></p>
 
 <p><span class="chinese">瞧,我现在在思考,所以我存在</span><span class="english">Here I am.</span></p>

@@ -1,5 +1,7 @@
 # didst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/didst.md)
+
 <p><span class="chinese">你以前遇到过这个黑男人吗，妈妈？</span><span class="english">Didst thou ever meet the Black Man, mother?</span></p>
 
 <p><span class="chinese">佩珠的月神，你对我下了什么咒？</span><span class="english">Pearled luna, what spell didst thou cast on me?</span></p>

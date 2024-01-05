@@ -1,5 +1,7 @@
 # jericho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jericho.md)
+
 <p><span class="chinese">于是二人到了耶利哥。</span><span class="english">So they came to Jericho.</span></p>
 
 <p><span class="chinese">我们来刺探杰里科城的情报。</span><span class="english">We want to spy in Jericho.</span></p>

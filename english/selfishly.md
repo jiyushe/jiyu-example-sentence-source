@@ -1,5 +1,7 @@
 # selfishly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selfishly.md)
+
 <p><span class="chinese">是因为我们妄求。</span><span class="english">It is because we ask selfishly.</span></p>
 
 <p><span class="chinese">发自私欲的祷告不会是合乎圣经的祷告。</span><span class="english">No man can pray scripturally who prays selfishly.</span></p>

@@ -1,5 +1,7 @@
 # balloon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balloon.md)
+
 <p><span class="chinese">它是一个汽球。</span><span class="english">It's a balloon.</span></p>
 
 <p><span class="chinese">我能看的袄一只气球。</span><span class="english">I can see a balloon.</span></p>

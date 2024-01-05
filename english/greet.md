@@ -1,5 +1,7 @@
 # greet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greet.md)
+
 <p><span class="chinese">问候你老豆！</span><span class="english">Greet you father!</span></p>
 
 <p><span class="chinese">我冲过去欢迎他。</span><span class="english">I rush to greet him.</span></p>

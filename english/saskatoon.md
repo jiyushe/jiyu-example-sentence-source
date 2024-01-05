@@ -1,5 +1,7 @@
 # saskatoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saskatoon.md)
+
 <p><span class="chinese">卡通的名字也排在前三分之一。</span><span class="english">Regina and Saskatoon also finished in the top one-third.</span></p>
 
 <p><span class="chinese">我5岁就去了加拿大，萨斯客彻温省萨斯卡通市。</span><span class="english">I went to Saskatoon Saskatchewan Canada when I was 5 years old.</span></p>

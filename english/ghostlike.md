@@ -1,5 +1,7 @@
 # ghostlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghostlike.md)
+
 <p><span class="chinese">米勒太太的脸从窗口露出，面色憔悴，宛如鬼魂。</span><span class="english">Mrs. Miller's face appeared at the window, gaunt and ghostlike.</span></p>
 
 <p><span class="chinese">看到他这样一个癫狂的、鬼一般的形象，人们匆忙走开。</span><span class="english">People hurried along at the sight of the crazed, ghostlike figure.</span></p>

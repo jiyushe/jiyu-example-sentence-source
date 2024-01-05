@@ -1,5 +1,7 @@
 # 荧光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingguang.md)
+
 <p><span class="chinese">看！一支荧光笔和一些蜡笔。</span><span class="english">Look! A marker and some crayons.</span></p>
 
 <p><span class="chinese">大两线荧光显示屏。</span><span class="english">Large Two-Line Fluorescent Display.</span></p>

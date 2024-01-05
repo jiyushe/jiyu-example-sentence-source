@@ -1,5 +1,7 @@
 # nonetheless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonetheless.md)
+
 <p><span class="chinese">尽管如此，它还是有破坏性的。</span><span class="english">But it is disruptive nonetheless.</span></p>
 
 <p><span class="chinese">但是尽管如此它还是有麻烦。</span><span class="english">But it faces problems nonetheless.</span></p>

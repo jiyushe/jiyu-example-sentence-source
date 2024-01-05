@@ -1,5 +1,7 @@
 # doric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doric.md)
+
 <p><span class="chinese">多立斯柱式和爱奥尼亚柱式都起源木造的神庙。</span><span class="english">Both the Doric and Ionic orders originated in wooden temples.</span></p>
 
 <p><span class="chinese">公元前5世纪多利安寺在古代科林斯网站阿波罗。</span><span class="english">The 5th century BC Doric Temple of Apollo at the site of Ancient Corinth.</span></p>

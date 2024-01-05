@@ -1,5 +1,7 @@
 # 赠言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengyan.md)
+
 <p><span class="chinese">对了，想知道我对那位朋友的离别赠言吗？</span><span class="english">Oh, my parting advice to my friend?</span></p>
 
 <p><span class="chinese">经验赠言怎么样，例如旅行经验？</span><span class="english">What about experiential gifts, like trips?</span></p>

@@ -1,5 +1,7 @@
 # abridgment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abridgment.md)
+
 <p><span class="chinese">他们为年轻读者出版了这本书的节本。</span><span class="english">An abridgment of the book has been published for young readers.</span></p>
 
 <p><span class="chinese">这个删节本提供了简明介绍佛教文学的杰作。</span><span class="english">This abridgment provides a concise presentation of this masterpiece of Buddhist literature.</span></p>

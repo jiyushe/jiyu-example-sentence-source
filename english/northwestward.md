@@ -1,5 +1,7 @@
 # northwestward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northwestward.md)
+
 <p><span class="chinese">选用西行、北上和西行转向三个模式台风路径。</span><span class="english">Three model typhoon tracks, westerly, northerly and turning northwestward arc selected.</span></p>
 
 <p><span class="chinese">柴达木盆地形成于中新生代，是我国西北地区主要的含油气盆地之一。</span><span class="english">Qaidamu basin is one of the most impotent oil and gas bearing basins in China northwestward.</span></p>

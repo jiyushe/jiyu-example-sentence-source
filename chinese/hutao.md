@@ -1,5 +1,7 @@
 # 护套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hutao.md)
+
 <p><span class="chinese">微波炉发热器护套中的铅。</span><span class="english">Lead in sheath heater of Microwaves.</span></p>
 
 <p><span class="chinese">低烟无卤阻燃护套，环保。</span><span class="english">Low smoke, zero halogen flame retardant sheath.</span></p>

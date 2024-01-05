@@ -1,5 +1,7 @@
 # capitol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capitol.md)
+
 <p><span class="chinese">在阿尔戈斯建立一个国会。</span><span class="english">Construct a Capitol on Argos.</span></p>
 
 <p><span class="chinese">何维健即将发行他的第一张专辑。</span><span class="english">It will be her first under Capitol Music.</span></p>

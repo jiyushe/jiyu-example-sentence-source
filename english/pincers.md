@@ -1,5 +1,7 @@
 # pincers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pincers.md)
+
 <p><span class="chinese">醉海蟹钳子。</span><span class="english">Drunk the sea crab pincers.</span></p>
 
 <p><span class="chinese">螃蟹有两个又大又锋利的钳子。</span><span class="english">Crabs have two sharp and large pincers.</span></p>

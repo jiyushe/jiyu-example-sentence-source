@@ -1,5 +1,7 @@
 # 石器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqi_4.md)
+
 <p><span class="chinese">那个时代叫石器时代。</span><span class="english">That time was the Stone Age.</span></p>
 
 <p><span class="chinese">这满后背的毛发是对女人们的“致命诱惑”还是要回石器时代的返祖现象？</span><span class="english">Or a throwback to the Stone Age?</span></p>

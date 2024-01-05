@@ -1,5 +1,7 @@
 # individualize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/individualize.md)
+
 <p><span class="chinese">务必使我们的节目个性化。</span><span class="english">Make sure to individualize our program.</span></p>
 
 <p><span class="chinese">他的写作风格消除了过浓的地方色彩。</span><span class="english">Does your style of writing individualize your work?</span></p>

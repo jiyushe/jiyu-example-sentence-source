@@ -1,5 +1,7 @@
 # conducive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conducive.md)
+
 <p><span class="chinese">这种举止行为不可能认真勤奋地工作。</span><span class="english">This behaviour is not conducive to hard work.</span></p>
 
 <p><span class="chinese">一些无关紧要，但有利于愉悦和舒适。</span><span class="english">Something inessential but conducive to pleasure and comfort.</span></p>

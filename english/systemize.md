@@ -1,5 +1,7 @@
 # systemize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/systemize.md)
+
 <p><span class="chinese">黄忠廉是中国第一位把变译理论系统化的学者。</span><span class="english">Scholar Huang Zhonglian is the first person in china to systemize shift theory.</span></p>
 
 <p><span class="chinese">在中国，制度化的司法解释对法律的正确适用意义重大。</span><span class="english">It is very important to systemize the judicial interpretation when apply in law.</span></p>

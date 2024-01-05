@@ -1,5 +1,7 @@
 # kaoliang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kaoliang.md)
+
 <p><span class="chinese">两人干掉了一瓶高粱酒。</span><span class="english">They killed a bottle of kaoliang between them.</span></p>
 
 <p><span class="chinese">他们二人对酌，把一瓶高粱酒喝得一干二净。</span><span class="english">They drank and had a very bottle of Kaoliang spirit.</span></p>

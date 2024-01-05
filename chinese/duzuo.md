@@ -1,5 +1,7 @@
 # 独坐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duzuo.md)
+
 <p><span class="chinese">她一个人独坐在儿子的房间里。</span><span class="english">She sat only in the boy's room.</span></p>
 
 <p><span class="chinese">我时常久久独坐。</span><span class="english">I often sat, for hours together.</span></p>

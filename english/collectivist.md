@@ -1,5 +1,7 @@
 # collectivist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collectivist.md)
+
 <p><span class="chinese">类似那些集权主义教派的伊斯兰教。</span><span class="english">Similar in fact to the collectivist religions such as Islam.</span></p>
 
 <p><span class="chinese">作为管理者，布拉德福德认识到这种集体制度导致的内部问题。</span><span class="english">Bradford, as governor, recognized the inherent problem with this collectivist system.</span></p>

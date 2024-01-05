@@ -1,5 +1,7 @@
 # untrained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untrained.md)
+
 <p><span class="chinese">在我看来这个学生就像村上春树笔下未经训练的小说家。</span><span class="english">To me, this student is like Murakami’s untrained novelist.</span></p>
 
 <p><span class="chinese">对外行人来说，这炭笔素描看来毫无价值。</span><span class="english">To the untrained eye, the charcoal sketch looks worthless.</span></p>

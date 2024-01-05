@@ -1,5 +1,7 @@
 # cancellous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cancellous.md)
+
 <p><span class="chinese">当这种情况发生时，松质骨变成密质骨。</span><span class="english">When this occurs, cancellous bone comes compact bone.</span></p>
 
 <p><span class="chinese">这同样适用于骨盆腔的静脉和松质骨出血。</span><span class="english">The same applies to venous and cancellous pelvic bleeds.</span></p>

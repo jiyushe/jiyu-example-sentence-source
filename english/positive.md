@@ -1,5 +1,7 @@
 # positive 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/positive.md)
+
 <p><span class="chinese">它是正数。</span><span class="english">It's a positive number.</span></p>
 
 <p><span class="chinese">钠离子是带正电的。</span><span class="english">Sodium is net positive.</span></p>

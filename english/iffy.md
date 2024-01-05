@@ -1,5 +1,7 @@
 # iffy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iffy.md)
+
 <p><span class="chinese">不得使用有题目的焊割工具。</span><span class="english">The welding tool shouldn't be iffy.</span></p>
 
 <p><span class="chinese">那些模糊了这些关联的人都是悬乎的。</span><span class="english">Anyone blurring these lines is iffy.</span></p>

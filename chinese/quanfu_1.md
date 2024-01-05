@@ -1,5 +1,7 @@
 # 蜷伏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanfu_1.md)
+
 <p><span class="chinese">一个哭泣的妇女蜷伏在地上发抖。</span><span class="english">A weeping woman cowered on the ground.</span></p>
 
 <p><span class="chinese">孩子们舒适地蜷伏在干草上。</span><span class="english">The children snuggled down on the hay.</span></p>

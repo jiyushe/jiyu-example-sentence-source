@@ -1,5 +1,7 @@
 # wpc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wpc.md)
+
 <p><span class="chinese">显然对于测试WPC材料并没有特别有兴趣。</span><span class="english">It apparently does not provide a particular interest in testing WPC materials.</span></p>
 
 <p><span class="chinese">2002年我没有参加力量举比赛，而是去尝试女大力士比赛。</span><span class="english">Instead of going to the 2002 WPC Worlds, I tried my hand at Strongwoman contests.</span></p>

@@ -1,5 +1,7 @@
 # eurasian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eurasian.md)
+
 <p><span class="chinese">类似柽柳的一种欧亚灌木。</span><span class="english">Eurasian shrub resembling the tamarisk.</span></p>
 
 <p><span class="chinese">欧亚树种，有橙红色的浆果是的果实。</span><span class="english">Eurasian tree with orange-red berrylike fruits.</span></p>

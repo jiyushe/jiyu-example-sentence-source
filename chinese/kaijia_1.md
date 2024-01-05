@@ -1,5 +1,7 @@
 # 开架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaijia_1.md)
+
 <p><span class="chinese">你喜欢开架的化妆品吗?。</span><span class="english">Do you like drugstore makeup?</span></p>
 
 <p><span class="chinese">多数图书馆有开架和闭架两种书库。</span><span class="english">Most libraries have open and closed stacks.</span></p>

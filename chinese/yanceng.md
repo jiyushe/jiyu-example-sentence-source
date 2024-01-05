@@ -1,5 +1,7 @@
 # 岩层
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanceng.md)
+
 <p><span class="chinese">第三系岩层属中软岩。</span><span class="english">The Tertiary strata belong to soft rock.</span></p>
 
 <p><span class="chinese">岩层控制的关键层理论。</span><span class="english">Theory of key stratum in ground control.</span></p>

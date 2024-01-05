@@ -1,5 +1,7 @@
 # provided
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provided.md)
+
 <p><span class="chinese">前提就是人格不会分裂。</span><span class="english">Provided there's no splitting.</span></p>
 
 <p><span class="chinese">提供了一种蠕动泵。</span><span class="english">A peristaltic pump is provided.</span></p>

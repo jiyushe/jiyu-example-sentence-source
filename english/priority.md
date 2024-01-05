@@ -1,5 +1,7 @@
 # priority 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/priority.md)
+
 <p><span class="chinese">这是个令人恼火的解决方法，修补的优先级最高。</span><span class="english">Fixing this has top priority.</span></p>
 
 <p><span class="chinese">按沉重早钝排序的风险浑单。</span><span class="english">Sorted by priority list of risks.</span></p>

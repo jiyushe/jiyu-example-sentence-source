@@ -1,5 +1,7 @@
 # furfural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furfural.md)
+
 <p><span class="chinese">丙烯醛，丁烯醛，糠醛和无法被归类。</span><span class="english">Acrolein, crotonaldehyde, and furfural could not be classified.</span></p>
 
 <p><span class="chinese">并对我国的糠醇生产提出了建议。</span><span class="english">Suggestions are made for the production of furfural alcohol in China.</span></p>

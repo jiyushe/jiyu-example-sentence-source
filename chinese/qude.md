@@ -1,5 +1,7 @@
 # 取得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qude.md)
+
 <p><span class="chinese">今天你取得其他所有男人的心这还不够吗？</span><span class="english">heart today?</span></p>
 
 <p><span class="chinese">你必须取得平衡。</span><span class="english">You must have balance.</span></p>

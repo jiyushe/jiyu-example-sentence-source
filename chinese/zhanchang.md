@@ -1,5 +1,7 @@
 # 战场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanchang.md)
+
 <p><span class="chinese">你在战场上孤独无助？</span><span class="english">And you in the battle alone?</span></p>
 
 <p><span class="chinese">圣殿武士在战场上的呐喊声。</span><span class="english">The battle cry of the Templars.</span></p>

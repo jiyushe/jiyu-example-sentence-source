@@ -1,5 +1,7 @@
 # translucency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/translucency.md)
+
 <p><span class="chinese">这里的同半透明。</span><span class="english">Here's with translucency.</span></p>
 
 <p><span class="chinese">半透明或许是更合适的措词。</span><span class="english">Translucency might be a better term.</span></p>

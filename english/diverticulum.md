@@ -1,5 +1,7 @@
 # diverticulum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diverticulum.md)
+
 <p><span class="chinese">憩室的窄颈可能会被侵蚀破坏。</span><span class="english">The narrow neck of the diverticulum may become eroded.</span></p>
 
 <p><span class="chinese">手术切除是治疗小儿梅克尔憩室的主要方法。</span><span class="english">Surgical resection was the treatment of Meckel's diverticulum.</span></p>

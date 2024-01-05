@@ -1,5 +1,7 @@
 # 探矿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tankuang.md)
+
 <p><span class="chinese">他曾是一名公务员，黄金探矿者，记者，讲师。</span><span class="english">He worked as a civil servant, gold prospector, reporter, lecturer.</span></p>
 
 <p><span class="chinese">至于黄金，这位现代探矿者淘金的法子还和1848年时相差无几。</span><span class="english">As for the gold, this modern-day prospector pans it like it's 1848.</span></p>

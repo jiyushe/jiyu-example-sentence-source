@@ -1,5 +1,7 @@
 # circuitous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circuitous.md)
+
 <p><span class="chinese">它至多算是一个非常迂回的途径。</span><span class="english">At best, it is a very circuitous mechanism.</span></p>
 
 <p><span class="chinese">道路是迂回的而且往往是冗长的。</span><span class="english">The route is circuitous and often redundant.</span></p>

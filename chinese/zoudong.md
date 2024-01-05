@@ -1,5 +1,7 @@
 # 走动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoudong.md)
+
 <p><span class="chinese">我爱自由走动。</span><span class="english">I love walking around freely.</span></p>
 
 <p><span class="chinese">那只猫无声地走动着。</span><span class="english">The cat moved on silent feet.</span></p>

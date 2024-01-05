@@ -1,5 +1,7 @@
 # 蜷缩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quansuo.md)
+
 <p><span class="chinese">他躺在床上，蜷缩成一团。</span><span class="english">He lay huddled up in bed.</span></p>
 
 <p><span class="chinese">她蜷缩在一个角落里。</span><span class="english">She scrunched into a corner.</span></p>

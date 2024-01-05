@@ -1,5 +1,7 @@
 # humerus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humerus.md)
+
 <p><span class="chinese">肱骨内髁骨折的护理常规?。</span><span class="english">Of fracture of the condyle inside humerus nurse groovy ?</span></p>
 
 <p><span class="chinese">并在60例骨性标本上，对结节间沟进行观测。</span><span class="english">The intertubercular sulcus was observed on 60 specimen of humerus.</span></p>

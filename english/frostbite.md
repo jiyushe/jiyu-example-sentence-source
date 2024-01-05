@@ -1,5 +1,7 @@
 # frostbite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frostbite.md)
+
 <p><span class="chinese">我能做点什么来预防冻伤呢？</span><span class="english">Is there anything that I should do about the frostbite?</span></p>
 
 <p><span class="chinese">如果冻伤只是浅表的，新的皮肤会长出来。</span><span class="english">If the frostbite is only superficial, new skin will form.</span></p>

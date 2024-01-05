@@ -1,5 +1,7 @@
 # vet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vet.md)
+
 <p><span class="chinese">我的姑姑是一个兽医。</span><span class="english">My aunt is a vet.</span></p>
 
 <p><span class="chinese">一名兽医来帮忙了。</span><span class="english">A vet comes to help.</span></p>

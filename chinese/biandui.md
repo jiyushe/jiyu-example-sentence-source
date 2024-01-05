@@ -1,5 +1,7 @@
 # 编队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biandui.md)
+
 <p><span class="chinese">编队8号船必须在船闸停船处待命。</span><span class="english">Convoy 8 must wait at lay-by.</span></p>
 
 <p><span class="chinese">在协调世界时0800时你船加入过运河编队。</span><span class="english">You will join convoy at 0800 UTC.</span></p>

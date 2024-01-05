@@ -1,5 +1,7 @@
 # ryegrass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ryegrass.md)
+
 <p><span class="chinese">因此，不适宜在重污染土壤上种植黑麦草。</span><span class="english">So, the ryegrass could not remediate heavy contaminated soil.</span></p>
 
 <p><span class="chinese">多花黑麦草是水稻和杂交狼尾草较好的前作。</span><span class="english">Annual ryegrass was the better preceding crops of rice and HPR.</span></p>

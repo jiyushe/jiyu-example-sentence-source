@@ -1,5 +1,7 @@
 # 难友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanyou.md)
+
 <p><span class="chinese">当牢中难友突然放生大唱起来时，那个看守长吓坏了。</span><span class="english">When the prisoners burst into song, the prison warden was frightened.</span></p>
 
 <p><span class="chinese">在警卫催促我的时候，我对难友说了再见，收好了我的东西。</span><span class="english">I said goodbye to my cell mates and gathered my things, as the guards hurried me on.</span></p>

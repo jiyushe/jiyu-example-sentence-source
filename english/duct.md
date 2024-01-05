@@ -1,5 +1,7 @@
 # duct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duct.md)
+
 <p><span class="chinese">回风管道部分。</span><span class="english">Return air duct section.</span></p>
 
 <p><span class="chinese">管音带能治疗通常的疣。</span><span class="english">Duct tape can cure the common wart.</span></p>

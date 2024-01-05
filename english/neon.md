@@ -1,5 +1,7 @@
 # neon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neon.md)
+
 <p><span class="chinese">那么就让我们以氖原子为例。</span><span class="english">So let's take the example of neon.</span></p>
 
 <p><span class="chinese">氖激光反射到了监狱栅栏上。</span><span class="english">NEON LASERS, reflected on the metal bars.</span></p>

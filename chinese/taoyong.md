@@ -1,5 +1,7 @@
 # 套用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoyong.md)
+
 <p><span class="chinese">您是否要在新页面中套用自动格式？</span><span class="english">Do you want to apply autoformat in new slide?</span></p>
 
 <p><span class="chinese">套用运算子到产生的数字。</span><span class="english">The operator is applied to the resulting number.</span></p>

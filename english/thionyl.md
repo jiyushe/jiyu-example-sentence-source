@@ -1,5 +1,7 @@
 # thionyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thionyl.md)
+
 <p><span class="chinese">关于亚硫酰氯，我也会给大家简单介绍一下。</span><span class="english">I'll tell you a little about thionyl chloride as well.</span></p>
 
 <p><span class="chinese">其中使用NBS代替亚硫酰溴作为溴代试剂。</span><span class="english">In this process NBS was Instead of thionyl bromide as a Bromide reagents.</span></p>

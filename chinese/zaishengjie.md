@@ -1,5 +1,7 @@
 # 宰牲节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaishengjie.md)
+
 <p><span class="chinese">世界各地的穆斯林正准备庆祝宰牲节或祭祀盛宴。</span><span class="english">Muslims around the world are preparing to celebrate Eid al-Adha, or the feast of sacrifice.</span></p>
 
 <p><span class="chinese">哈吉的最后是一个庆典，宰牲节会礼，由朝觐者一起祈祷庆祝。</span><span class="english">The end of the Hajj is marked by a festival, Eid Al-Adha, which is celebrated with prayers.</span></p>

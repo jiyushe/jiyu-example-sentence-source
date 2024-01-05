@@ -1,5 +1,7 @@
 # 环游
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanyou.md)
+
 <p><span class="chinese">要花80天环游世界？</span><span class="english">Around the world in 80 days?</span></p>
 
 <p><span class="chinese">每日积累跬步的人，最终将环游世界。</span><span class="english">May get round the world at last.</span></p>

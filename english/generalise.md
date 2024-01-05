@@ -1,5 +1,7 @@
 # generalise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generalise.md)
+
 <p><span class="chinese">不过银行家们表示，对交易佣金进行推断仍然十分危险。</span><span class="english">But bankers say that to generalise about deal fees remains perilous.</span></p>
 
 <p><span class="chinese">所以，请你三思而后员额和应该做的概括或刻板印象没有。</span><span class="english">So please think before you post and don't over generalise or stereotype.</span></p>

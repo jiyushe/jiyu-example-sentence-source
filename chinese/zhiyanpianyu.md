@@ -1,5 +1,7 @@
 # 只言片语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyanpianyu.md)
+
 <p><span class="chinese">她对这个计划一无所知，迭戈从未吐露只言片语。</span><span class="english">She had known nothing of the plan. Diego had never let on.</span></p>
 
 <p><span class="chinese">任何中年男人写的只言片语都是没用的——无力！</span><span class="english">Every single thing any middle-aged man writes is useless – powerless!</span></p>

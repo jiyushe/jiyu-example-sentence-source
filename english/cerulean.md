@@ -1,5 +1,7 @@
 # cerulean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cerulean.md)
+
 <p><span class="chinese">接着天蓝色迅速地出现在八个不同设计师的新款中。</span><span class="english">And then cerulean quickly showed up in the collections of 8 different designers.</span></p>
 
 <p><span class="chinese">依然是太平洋的蔚蓝，昨天和今天的云彩俯视横渡着沧海。</span><span class="english">Pacific Ocean is cerulean day by day, and the clouds hang over it now and again.</span></p>

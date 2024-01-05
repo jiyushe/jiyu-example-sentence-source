@@ -1,5 +1,7 @@
 # 中耕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonggeng.md)
+
 <p><span class="chinese">烟稞长得好，中耕不等闲。</span><span class="english">The smoke he grow well, and not easily.</span></p>
 
 <p><span class="chinese">村民正给高地里的玉米中耕。</span><span class="english">The villagers are laying by the corn in the upland fileld.</span></p>

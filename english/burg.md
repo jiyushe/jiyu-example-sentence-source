@@ -1,5 +1,7 @@
 # burg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burg.md)
+
 <p><span class="chinese">劳伦。伯格从东京发回报道。</span><span class="english">Lauren Burg reports from Tokyo.</span></p>
 
 <p><span class="chinese">他一辈子都住在这个镇上。</span><span class="english">I've lived in this burg all my life.</span></p>

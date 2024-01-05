@@ -1,5 +1,7 @@
 # 径流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingliu.md)
+
 <p><span class="chinese">雨水径流？</span><span class="english">Storm-water runoff?</span></p>
 
 <p><span class="chinese">地表径流汇集的地区。</span><span class="english">Areas where surface runoff is directed.</span></p>

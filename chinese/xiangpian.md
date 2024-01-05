@@ -1,5 +1,7 @@
 # 像片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpian.md)
+
 <p><span class="chinese">布拉山的一些像片。</span><span class="english">A few more pics of the Blaa Alm.</span></p>
 
 <p><span class="chinese">我拍了张像片所以你们能够看到这个标签。</span><span class="english">I took a picture so you can see the label.</span></p>

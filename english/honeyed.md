@@ -1,5 +1,7 @@
 # honeyed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honeyed.md)
+
 <p><span class="chinese">那些蜂蜜蝗虫。</span><span class="english">The honeyed locusts.</span></p>
 
 <p><span class="chinese">他总是恭维他的老板。</span><span class="english">He always honeyed his boss.</span></p>

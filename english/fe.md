@@ -1,5 +1,7 @@
 # fe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fe.md)
+
 <p><span class="chinese">圣?菲歌剧院是谁设计的?。</span><span class="english">Who designed the Sante Fe Opera House?</span></p>
 
 <p><span class="chinese">圣达菲，西班牙语的意思是“神圣的信仰”。</span><span class="english">Santa Fe means "Holy Faith" in Spanish.</span></p>

@@ -1,5 +1,7 @@
 # actinic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actinic.md)
+
 <p><span class="chinese">光化性唇炎以下唇多见。</span><span class="english">Phlogistic the following lip sees actinic sex lip more.</span></p>
 
 <p><span class="chinese">局部应用视黄醛类药物治疗光化学性角化病有一定效果。</span><span class="english">Topical retinoids have some effect in the treatment of actinic keratoses.</span></p>

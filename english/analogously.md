@@ -1,5 +1,7 @@
 # analogously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analogously.md)
+
 <p><span class="chinese">所引用的实验曲线也出现雷同的表现。</span><span class="english">The cited experimental curves agree analogously with simulation appearances found in this study.</span></p>
 
 <p><span class="chinese">用户可将类似图像布置到各种标准格式X光胶片装配台中。</span><span class="english">The user has the option of arranging the images analogously to various standard format X-ray film mounts.</span></p>

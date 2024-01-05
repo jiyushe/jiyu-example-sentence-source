@@ -1,5 +1,7 @@
 # robbery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/robbery.md)
+
 <p><span class="chinese">第一种意思是抢劫。</span><span class="english">One is a robbery.</span></p>
 
 <p><span class="chinese">他计画抢银行。</span><span class="english">He sets up a bank robbery.</span></p>

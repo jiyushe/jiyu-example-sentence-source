@@ -1,5 +1,7 @@
 # 族类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zulei.md)
+
 <p><span class="chinese">非我族类，有什么必要对它们讲究公平。</span><span class="english">The race, what I need to pay them justice.</span></p>
 
 <p><span class="chinese">冈根人至少有两个明显的族类。</span><span class="english">There are at least two distinct Gungan races.</span></p>

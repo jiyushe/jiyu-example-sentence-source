@@ -1,5 +1,7 @@
 # 晓畅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaochang_1.md)
+
 <p><span class="chinese">我想你一定想多晓畅点吧。</span><span class="english">You might wish to know more into it.</span></p>
 
 <p><span class="chinese">我不晓畅何如照看我的宠物。</span><span class="english">I don't know how to look after my pet.</span></p>

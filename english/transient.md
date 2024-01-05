@@ -1,5 +1,7 @@
 # transient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transient.md)
+
 <p><span class="chinese">青春是一场仓促的梦。</span><span class="english">Youth is a very transient dream.</span></p>
 
 <p><span class="chinese">本文运用瞬态动力学软件MSC。</span><span class="english">With the transient dynamic software of MSC.</span></p>

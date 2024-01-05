@@ -1,5 +1,7 @@
 # tatty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tatty.md)
+
 <p><span class="chinese">洗牙对牙齿有伤害吗？</span><span class="english">Bad, have tatty harm to the tooth!</span></p>
 
 <p><span class="chinese">你穿着这些衣服看上去有点寒碜。</span><span class="english">You look a bit tatty in these clothes.</span></p>

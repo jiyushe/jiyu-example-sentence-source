@@ -1,5 +1,7 @@
 # phosphatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphatic.md)
+
 <p><span class="chinese">论述了含磷白云石的综合利用新工艺。</span><span class="english">The new comprehensive utilization technology of phosphatic dolomite is discussed.</span></p>
 
 <p><span class="chinese">提出了用浓硫酸蒸馏磷矿石中氟化物，以电极法测其含量的方法。</span><span class="english">The determination of fluorine in phosphatic ore by electrode method was presented.</span></p>

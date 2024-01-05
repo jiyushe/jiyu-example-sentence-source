@@ -1,5 +1,7 @@
 # base 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/base.md)
+
 <p><span class="chinese">防滑底座。</span><span class="english">Non-slip base.</span></p>
 
 <p><span class="chinese">他能上垒。</span><span class="english">He gets on base.</span></p>

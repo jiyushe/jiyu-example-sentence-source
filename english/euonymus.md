@@ -1,5 +1,7 @@
 # euonymus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euonymus.md)
+
 <p><span class="chinese">桃叶卫矛是优良的观赏树种。</span><span class="english">Hamilton euonymus is a good ornamental species.</span></p>
 
 <p><span class="chinese">红果说必然会找到季洁称心的衣服的。</span><span class="english">Euonymus said will find JiJie gratified clothes.</span></p>

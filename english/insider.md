@@ -1,5 +1,7 @@
 # insider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insider.md)
+
 <p><span class="chinese">既是一个彻罗基的圈内人，又是一个圈外人。</span><span class="english">A Cherokee insider and outsider.</span></p>
 
 <p><span class="chinese">又有谁真的愿意声名远扬？</span><span class="english">Who would really want to be an insider?</span></p>

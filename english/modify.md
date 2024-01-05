@@ -1,5 +1,7 @@
 # modify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modify.md)
+
 <p><span class="chinese">章程之订定与变更。</span><span class="english">Regulations modify and set.</span></p>
 
 <p><span class="chinese">他不会降低要求的。</span><span class="english">He won't modify his demands.</span></p>

@@ -1,5 +1,7 @@
 # blissful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blissful.md)
+
 <p><span class="chinese">有这样一句话，说不存在无上完美幸福的爱情。</span><span class="english">It has been said that completely blissful love does not exist.</span></p>
 
 <p><span class="chinese">我是有福的，我确信万物都理当如此。</span><span class="english">I was blissful and sure that all things were as they should be.</span></p>

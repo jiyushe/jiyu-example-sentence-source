@@ -1,5 +1,7 @@
 # georgian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/georgian.md)
+
 <p><span class="chinese">因此我们也许不该对格鲁吉亚的被占领感到惊讶。</span><span class="english">So perhaps we should not be surprised by the Georgian grab.</span></p>
 
 <p><span class="chinese">这位受伤的格鲁吉亚妇女随后被她的邻居救起。</span><span class="english">This wounded Georgian woman was later helped by her neighbors.</span></p>

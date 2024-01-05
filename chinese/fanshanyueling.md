@@ -1,5 +1,7 @@
 # 翻山越岭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanshanyueling.md)
+
 <p><span class="chinese">他的确在翻山越岭时损失一营</span><span class="english">He lost it in the mountains.</span></p>
 
 <p><span class="chinese">生活，就像翻山越岭，风景一定会是美丽的。</span><span class="english">Life's a climb, but the view is great.</span></p>

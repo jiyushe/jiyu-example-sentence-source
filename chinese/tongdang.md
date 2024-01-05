@@ -1,5 +1,7 @@
 # 同党
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongdang.md)
+
 <p><span class="chinese">那律师说，「怕他的同党寻仇吗？」</span><span class="english">Asked the lawyer, "Afraid of retaliation from his cronies?"</span></p>
 
 <p><span class="chinese">他们和他们的同党正在城里四处监视本国国民。</span><span class="english">They and their colleagues were all over the city, spying on their countrymen.</span></p>

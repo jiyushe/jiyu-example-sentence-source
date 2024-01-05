@@ -1,5 +1,7 @@
 # 宣德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuande.md)
+
 <p><span class="chinese">“大明宣德年制”款。</span><span class="english">"Ming Xuande years" section.</span></p>
 
 <p><span class="chinese">这是一部描写明王朝宣德年间景德镇督陶官的故事。</span><span class="english">This is a description of the drive between Ming zadok the story of jingdezhen ceramic.</span></p>

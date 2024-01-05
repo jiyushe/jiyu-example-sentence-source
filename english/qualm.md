@@ -1,5 +1,7 @@
 # qualm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qualm.md)
+
 <p><span class="chinese">羞答答不肯把头抬。</span><span class="english">Blushing, she turns her head without a qualm.</span></p>
 
 <p><span class="chinese">一个真正的当代女性是一个自信干练的女人，她不会疑虑重重、恐惧紧张，她是现代型的。</span><span class="english">She doesn't have a doubt nor a qualm. She is the modern type.</span></p>

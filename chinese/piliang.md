@@ -1,5 +1,7 @@
 # 批量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piliang.md)
+
 <p><span class="chinese">是批量请求处理吗？</span><span class="english">Do you batch requests?</span></p>
 
 <p><span class="chinese">批量转换视频格式。</span><span class="english">Batch convert video formats.</span></p>

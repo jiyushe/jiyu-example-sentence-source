@@ -1,5 +1,7 @@
 # 传声筒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanshengtong.md)
+
 <p><span class="chinese">歌手身上佩带贴身传声筒。</span><span class="english">The singer was body-miked.</span></p>
 
 <p><span class="chinese">美国谈判员的角色变成了提供信息和资金的没有人情味的传声筒。</span><span class="english">The American negotiator 's role becomes that of an impersonal purveyor of information and cash.</span></p>

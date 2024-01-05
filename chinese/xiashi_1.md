@@ -1,5 +1,7 @@
 # 霞石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiashi_1.md)
+
 <p><span class="chinese">开发霞石资源，有助于改变我国化肥结构中氮、磷、钾比例失调的状况。</span><span class="english">It serves to change the imbalance situation of the resources of N.</span></p>
 
 <p><span class="chinese">霞石为典型的碱性矿物，主要生成于碱性岩及其伟晶岩中。</span><span class="english">Nepheline is a typical kind of alkaline mineral, which forms mainly in alkaline deposit and its pegmatite.</span></p>

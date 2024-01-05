@@ -1,5 +1,7 @@
 # breastplate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breastplate.md)
+
 <p><span class="chinese">红玛瑙与别样的宝石，可以镶嵌在以弗得和胸牌上。</span><span class="english">Onyx stones, and stones to be set in the ephod, and in the breastplate.</span></p>
 
 <p><span class="chinese">要在胸牌上用精金拧成如绳的链子。</span><span class="english">And thou shalt make upon the breastplate chains at the ends of wreathen work of pure gold.</span></p>

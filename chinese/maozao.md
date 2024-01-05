@@ -1,5 +1,7 @@
 # 毛躁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maozao.md)
+
 <p><span class="chinese">他脾气特别毛躁。</span><span class="english">He is very short-tempered.</span></p>
 
 <p><span class="chinese">设计需要将毛躁，寻找新的。</span><span class="english">The design needs to be edgy and new looking.</span></p>

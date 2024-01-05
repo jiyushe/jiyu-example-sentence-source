@@ -1,5 +1,7 @@
 # 出国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuguo.md)
+
 <p><span class="chinese">要知道我们很少出国。</span><span class="english">YSK we rarely go abroad.</span></p>
 
 <p><span class="chinese">出国深造是我的目标。</span><span class="english">To study abroad is my goal.</span></p>

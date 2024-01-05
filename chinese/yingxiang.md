@@ -1,5 +1,7 @@
 # 影像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingxiang.md)
+
 <p><span class="chinese">影像停顿了下。</span><span class="english">The image paused.</span></p>
 
 <p><span class="chinese">影像又停顿了下。</span><span class="english">The image paused again.</span></p>

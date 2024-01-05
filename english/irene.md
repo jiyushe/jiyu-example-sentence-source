@@ -1,5 +1,7 @@
 # irene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irene.md)
+
 <p><span class="chinese">我很欣赏艾琳。</span><span class="english">I like Irene.</span></p>
 
 <p><span class="chinese">艾琳雇佣了一帮强健的男子。</span><span class="english">Irene hired a group of strong men.</span></p>

@@ -1,5 +1,7 @@
 # 以防万一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifangwanyi.md)
+
 <p><span class="chinese">为了以防万一我们还买了咸盐饼干。</span><span class="english">We bought salt ines by the case.</span></p>
 
 <p><span class="chinese">带上一个急救箱吧，以防万一。</span><span class="english">Bring a first aid kit just in case.</span></p>

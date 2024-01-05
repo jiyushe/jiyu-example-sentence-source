@@ -1,5 +1,7 @@
 # bacteriostasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacteriostasis.md)
+
 <p><span class="chinese">目的了解消痤洁肤乳膏在体外的抗菌效果。</span><span class="english">Objective To study the bacteriostasis of XCJF cream in vitro.</span></p>
 
 <p><span class="chinese">该液对多种细菌有抑制作用，其抑菌作用优于康复新。</span><span class="english">On some strains of bacteria, it has better effect in bacteriostasis than Kandfuxin.</span></p>

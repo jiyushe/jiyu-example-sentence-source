@@ -1,5 +1,7 @@
 # italianate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/italianate.md)
+
 <p><span class="chinese">清理废弃的车间时发现了成千上万块意大利风格的釉面砖。</span><span class="english">The clearing out of disused workshops laid bare thousands of Italianate glazed tiles.</span></p>
 
 <p><span class="chinese">不同于上一次星巴客的美式风格，这次则是充满浓浓意大利风情的花式咖啡。</span><span class="english">Instead of American coffee style, this time student will enjoy the strong Italianate fancy coffee.</span></p>

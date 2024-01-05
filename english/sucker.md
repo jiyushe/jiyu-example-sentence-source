@@ -1,5 +1,7 @@
 # sucker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sucker.md)
+
 <p><span class="chinese">六条黏糊糊的吸盘棒。</span><span class="english">Six sticky sucker sticks.</span></p>
 
 <p><span class="chinese">那些小王八蛋会咬人?。</span><span class="english">So those little sucker bite?</span></p>

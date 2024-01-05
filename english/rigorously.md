@@ -1,5 +1,7 @@
 # rigorously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rigorously.md)
+
 <p><span class="chinese">她是一位节烈女子。</span><span class="english">She was a rigorously chaste woman.</span></p>
 
 <p><span class="chinese">以便严格地修正这个问题。</span><span class="english">So that more rigorously fixes the problem.</span></p>

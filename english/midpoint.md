@@ -1,5 +1,7 @@
 # midpoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midpoint.md)
+
 <p><span class="chinese">迎香穴在鼻翼外缘中点。</span><span class="english">The midpoint of the alar rim Yingxiang point.</span></p>
 
 <p><span class="chinese">你能给每人的本命盘和这张马克思盘再做另一张中点盘么？</span><span class="english">Can you make another midpoint chart for each person with the Marks chart?</span></p>

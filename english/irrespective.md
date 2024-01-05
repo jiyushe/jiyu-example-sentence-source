@@ -1,5 +1,7 @@
 # irrespective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrespective.md)
+
 <p><span class="chinese">不管花多大代价，我们也要把这项工作做好。</span><span class="english">We will have the work done, irrespective of cost.</span></p>
 
 <p><span class="chinese">保险中必须不计免赔率。</span><span class="english">The insurance must be issued irrespective of percentage.</span></p>

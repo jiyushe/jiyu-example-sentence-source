@@ -1,5 +1,7 @@
 # amyloidosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amyloidosis.md)
+
 <p><span class="chinese">原发性淀粉样变。</span><span class="english">Primary amyloidosis.</span></p>
 
 <p><span class="chinese">继发性淀粉样变。</span><span class="english">Secondary amyloidosis.</span></p>

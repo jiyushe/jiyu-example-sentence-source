@@ -1,5 +1,7 @@
 # 小儿科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoerke.md)
+
 <p><span class="chinese">但是和狮鬃水母比起来，它们只能算小儿科。</span><span class="english">But they are petite compared with the lion’s mane jellyfish.</span></p>
 
 <p><span class="chinese">有能处小儿科创伤的救护。</span><span class="english">Demonstrate ability to direct pediatric trauma resuscitations.</span></p>

@@ -1,5 +1,7 @@
 # 归纳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guina.md)
+
 <p><span class="chinese">好，演绎还是归纳？</span><span class="english">Okay, deductive or inductive?</span></p>
 
 <p><span class="chinese">所有归纳推理都是一种猜测。</span><span class="english">Every induction is a speculation.</span></p>

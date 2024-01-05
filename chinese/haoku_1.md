@@ -1,5 +1,7 @@
 # 嚎哭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoku_1.md)
+
 <p><span class="chinese">这小孩拼命嚎哭。</span><span class="english">The child howled horribly.</span></p>
 
 <p><span class="chinese">我还是会痛苦嚎哭。</span><span class="english">I would still wail painfully.</span></p>

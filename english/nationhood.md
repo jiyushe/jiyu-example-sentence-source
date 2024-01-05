@@ -1,5 +1,7 @@
 # nationhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nationhood.md)
+
 <p><span class="chinese">这种划分让巴基斯坦没有国家认同感。</span><span class="english">It left Pakistan with no sense of nationhood.</span></p>
 
 <p><span class="chinese">我们美国的国家粘合剂是关于个人自由和公平的美国理想。</span><span class="english">The glue of nationhood for us is the American ideal of individual liberty and equal justice.</span></p>

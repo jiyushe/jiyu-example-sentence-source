@@ -1,5 +1,7 @@
 # fabricius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fabricius.md)
+
 <p><span class="chinese">这种害虫吃棉蕾，减少了作物产量。</span><span class="english">Fabricius can eat cotton buds, reducing crops.</span></p>
 
 <p><span class="chinese">母鸡有较高的法氏囊、胸腺重量及其指数。</span><span class="english">The hens had high bursa of fabricius weight and thymic weight.</span></p>

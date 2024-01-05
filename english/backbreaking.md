@@ -1,5 +1,7 @@
 # backbreaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backbreaking.md)
+
 <p><span class="chinese">我们每天要在野外呆很久，又脏又累。</span><span class="english">The hours are long. The work is dirty and backbreaking.</span></p>
 
 <p><span class="chinese">加拿大广播公司发现，临时工只能拿现金，做粗工没有福利。</span><span class="english">Workers get cash, no benefits for backbreaking work, Radio-Canada finds.</span></p>

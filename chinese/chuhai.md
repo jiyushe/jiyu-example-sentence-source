@@ -1,5 +1,7 @@
 # 出海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuhai.md)
+
 <p><span class="chinese">船出海航行。</span><span class="english">The ship put off to sea.</span></p>
 
 <p><span class="chinese">他们漂流出海。</span><span class="english">They drifted out to sea.</span></p>

@@ -1,5 +1,7 @@
 # 显而易见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianeryijian.md)
+
 <p><span class="chinese">你说所有的这些都显而易见。</span><span class="english">All of this is obvious, you say.</span></p>
 
 <p><span class="chinese">但是这显而易见是无耻的！</span><span class="english">But this is surely dishonorable!</span></p>

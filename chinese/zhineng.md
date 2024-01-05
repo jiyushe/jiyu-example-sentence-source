@@ -1,5 +1,7 @@
 # 智能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhineng.md)
+
 <p><span class="chinese">它是全智能的。</span><span class="english">It is smart.</span></p>
 
 <p><span class="chinese">你有智能手机吗？</span><span class="english">Do you have a smartphone?</span></p>

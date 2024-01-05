@@ -1,5 +1,7 @@
 # differentiability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/differentiability.md)
+
 <p><span class="chinese">本文首先讨论脉动流的撞击液压问题解的可微性。</span><span class="english">The differentiability of the solution of impulsive flow in a hydraulic pipe due to impact are discussed.</span></p>
 
 <p><span class="chinese">甚至能在进入接口上依赖这个标记以实现更高的可辨性。</span><span class="english">This mark can even be dependent on the ingress interface so that higher differentiability can be achieved.</span></p>

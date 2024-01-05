@@ -1,5 +1,7 @@
 # 旁征博引
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangzhengboyin.md)
+
 <p><span class="chinese">它有高低起伏，旁征博引，有适时的停顿和沉默。</span><span class="english">it ebbs and flows, hits a variety of notes, and makes beautiful use of pauses and silence.</span></p>
 
 <p><span class="chinese">为了听他旁征博引、激动人心的演讲结束语，那些听众甚至能等上一整天。</span><span class="english">He would make audiences wait, even for a day, for his stirring perorations, laced with classical allusions.</span></p>

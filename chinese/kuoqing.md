@@ -1,5 +1,7 @@
 # 廓清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuoqing.md)
+
 <p><span class="chinese">我盼望这能辅助廓清你们的一些答题。</span><span class="english">I hope this helps clarify some of your questions.</span></p>
 
 <p><span class="chinese">这进一步廓清了本文研究的范围。</span><span class="english">This concept furtherly define the scope of study.</span></p>

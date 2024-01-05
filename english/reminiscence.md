@@ -1,5 +1,7 @@
 # reminiscence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reminiscence.md)
+
 <p><span class="chinese">你是否喜欢怀旧？</span><span class="english">Whether you like reminiscence or not?</span></p>
 
 <p><span class="chinese">这景象唤起了我对青年时代许多往事的追想。</span><span class="english">The scene awakened reminiscence of my youth.</span></p>

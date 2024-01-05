@@ -1,5 +1,7 @@
 # 膝盖骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xigaigu.md)
+
 <p><span class="chinese">我正在瞄准他们的膝盖骨！</span><span class="english">I'm aiming for the kneecaps!</span></p>
 
 <p><span class="chinese">婴生下来时是没有膝盖骨的。</span><span class="english">Babies are born without kneecaps.</span></p>

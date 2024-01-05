@@ -1,5 +1,7 @@
 # abecedarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abecedarian.md)
+
 <p><span class="chinese">我觉得是我的启蒙老师。</span><span class="english">I think it's my abecedarian.</span></p>
 
 <p><span class="chinese">初学者，可以分两步。</span><span class="english">Abecedarian , can divide a pace.</span></p>

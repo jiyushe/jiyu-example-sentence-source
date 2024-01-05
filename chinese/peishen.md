@@ -1,5 +1,7 @@
 # 陪审
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peishen.md)
+
 <p><span class="chinese">除了一人所有的陪审官都宣布他有罪。</span><span class="english">All but one of the jurors found him guilty.</span></p>
 
 <p><span class="chinese">其四，陪审保障的滞后性问题。</span><span class="english">Fourthly, the hysteretic nature of Jury security.</span></p>

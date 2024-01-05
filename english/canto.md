@@ -1,5 +1,7 @@
 # canto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canto.md)
+
 <p><span class="chinese">他在音乐学院学习的是美声唱法。</span><span class="english">He learned to bel canto in a conservatory.</span></p>
 
 <p><span class="chinese">中国的传统演唱方法和美声有点相似。</span><span class="english">Chinese singing style is a bit similar to bel canto.</span></p>

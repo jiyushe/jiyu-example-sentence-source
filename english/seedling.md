@@ -1,5 +1,7 @@
 # seedling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seedling.md)
+
 <p><span class="chinese">她一刀就把小苗砍倒了。</span><span class="english">She cut down the seedling with one chop.</span></p>
 
 <p><span class="chinese">新生的光梗蒺藜草幼苗其基部叶鞘呈紫红色。</span><span class="english">The basal part of the renascent seedling is mauve.</span></p>

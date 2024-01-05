@@ -1,5 +1,7 @@
 # pricy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pricy.md)
+
 <p><span class="chinese">可悲的事实是学校都是昂贵的。</span><span class="english">The sad truth is that school is pricy.</span></p>
 
 <p><span class="chinese">他要送给女朋友昂贵的礼物。</span><span class="english">He will present a pricy present to his girlfriend.</span></p>

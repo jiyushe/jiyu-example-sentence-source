@@ -1,5 +1,7 @@
 # dietotherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dietotherapy.md)
+
 <p><span class="chinese">食疗方有如下几种。</span><span class="english">Dietotherapy just has a few kinds as follows.</span></p>
 
 <p><span class="chinese">有什么食疗方法降血压？</span><span class="english">What dietotherapy method falls blood pressure?</span></p>

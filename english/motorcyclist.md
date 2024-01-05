@@ -1,5 +1,7 @@
 # motorcyclist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motorcyclist.md)
+
 <p><span class="chinese">摩托车手将车停在了盖恩斯的房子外。</span><span class="english">The motorcyclist pulls up to Gaines’ house.</span></p>
 
 <p><span class="chinese">那个讨厌的男孩像是咱们隔壁骑摩托车的人。</span><span class="english">That creepy looking motorcyclist from the next door.</span></p>

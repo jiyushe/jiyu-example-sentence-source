@@ -1,5 +1,7 @@
 # foal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foal.md)
+
 <p><span class="chinese">犊牛，羔羊，仔猪和马驹。</span><span class="english">Calf, Lamb, Piglet and Foal.</span></p>
 
 <p><span class="chinese">黄家驹为什么那么不快乐？</span><span class="english">Home Huang foal why so joyless ?</span></p>

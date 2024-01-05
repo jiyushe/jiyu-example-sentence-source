@@ -1,5 +1,7 @@
 # 专横跋扈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanhengbahu.md)
+
 <p><span class="chinese">他想对任何人都专横跋扈。</span><span class="english">He tried to domineer over everyone.</span></p>
 
 <p><span class="chinese">他明白了,他过去过于专横跋扈</span><span class="english">He understands that,he has acted immoderately.</span></p>

@@ -1,5 +1,7 @@
 # 血亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueqin.md)
+
 <p><span class="chinese">我的血亲和我的背叛者。</span><span class="english">My blood and my betrayer.</span></p>
 
 <p><span class="chinese">夸张是谎言的血亲，应同样受到责备。</span><span class="english">An exaggeration is a blood relation to falsehood and nearly as blamable.</span></p>

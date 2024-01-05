@@ -1,5 +1,7 @@
 # antimicrobial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antimicrobial.md)
+
 <p><span class="chinese">壳聚糖具有广谱抗菌性。</span><span class="english">Chitosan has wide antimicrobial properties.</span></p>
 
 <p><span class="chinese">抗菌钢是一种新型抗菌材料。</span><span class="english">Antimicrobial coated steel is a new material.</span></p>

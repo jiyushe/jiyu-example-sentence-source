@@ -1,5 +1,7 @@
 # 迫击炮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paijipao.md)
+
 <p><span class="chinese">连属50毫米迫击炮怎么样？</span><span class="english">Were 50 mm company mortars any good?</span></p>
 
 <p><span class="chinese">包括火炮、熘弹炮和迫击炮。</span><span class="english">Cannon include guns, howitzers, and mortars.</span></p>

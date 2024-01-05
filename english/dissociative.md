@@ -1,5 +1,7 @@
 # dissociative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissociative.md)
+
 <p><span class="chinese">后肢骨包括盆带骨和游离后肢骨。</span><span class="english">Hindlimb bones included pelvic bone and dissociative hindlimb bones.</span></p>
 
 <p><span class="chinese">前肢骨包括肩带骨和游离前肢骨。</span><span class="english">Forelimb bones included pectoral girdle bone and dissociative forelimb bones.</span></p>

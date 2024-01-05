@@ -1,5 +1,7 @@
 # hygienic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hygienic.md)
+
 <p><span class="chinese">我会少讲究些卫生。</span><span class="english">I would be less hygienic.</span></p>
 
 <p><span class="chinese">你们会疑惑我多长时间洗一次澡。</span><span class="english">If I was really hygienic.</span></p>

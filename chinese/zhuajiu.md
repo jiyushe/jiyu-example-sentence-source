@@ -1,5 +1,7 @@
 # 抓阄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuajiu.md)
+
 <p><span class="chinese">他们抓阄儿决定谁先走。</span><span class="english">They drew lots for the right to go first.</span></p>
 
 <p><span class="chinese">贞娘先抓阄，抓到了“死”字。</span><span class="english">Fiona Niang first draw, caught the word "death".</span></p>

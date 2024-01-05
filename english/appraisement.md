@@ -1,5 +1,7 @@
 # appraisement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appraisement.md)
+
 <p><span class="chinese">第六部分，物流成本控制的绩效评价。</span><span class="english">Chapter six discusses the appraisement of controlling logistics cost.</span></p>
 
 <p><span class="chinese">翡翠估价，翡翠A货，专家诚请入。</span><span class="english">Emerald appraisement , emerald A sell , the expert enters, really please.</span></p>

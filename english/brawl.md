@@ -1,5 +1,7 @@
 # brawl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brawl.md)
+
 <p><span class="chinese">榆树大街橡树大街交界处聚众斗殴。</span><span class="english">"Brawl at Elm and Oak Intersection ".</span></p>
 
 <p><span class="chinese">布莱安和克利斯在小帆船里吵架。</span><span class="english">Brian and Chris had a brawl in the yawl.</span></p>

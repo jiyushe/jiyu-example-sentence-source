@@ -1,5 +1,7 @@
 # applique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/applique.md)
+
 <p><span class="chinese">贴花是什么？。</span><span class="english">What is Applique?</span></p>
 
 <p><span class="chinese">帆船贴花中心胸部。</span><span class="english">Sailboat appliqué on center chest.</span></p>

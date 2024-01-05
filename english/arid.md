@@ -1,5 +1,7 @@
 # arid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arid.md)
+
 <p><span class="chinese">他们就靠那干燥的土地生活。</span><span class="english">They live on the arid land.</span></p>
 
 <p><span class="chinese">这可能与棕钙土的长期干旱有关。</span><span class="english">This one relate to arid of brown soil.</span></p>

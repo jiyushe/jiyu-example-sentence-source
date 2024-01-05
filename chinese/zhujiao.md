@@ -1,5 +1,7 @@
 # 主教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujiao.md)
+
 <p><span class="chinese">我的主教，那个人已经走了！</span><span class="english">Monseigneur, the man is gone!</span></p>
 
 <p><span class="chinese">主教转过身来，朝着那人。</span><span class="english">The Bishop turned to the man.</span></p>

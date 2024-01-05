@@ -1,5 +1,7 @@
 # latency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latency.md)
+
 <p><span class="chinese">下页将定义延迟。</span><span class="english">The next page will define latency.</span></p>
 
 <p><span class="chinese">接下来就是网络延迟问题了。</span><span class="english">Next up is the network latency issue.</span></p>

@@ -1,5 +1,7 @@
 # coplanar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coplanar.md)
+
 <p><span class="chinese">让T是在同一平面上的2005个点的集合。这些点没有三点共线。</span><span class="english">Let T be a set of 2005 coplanar points with no three collinear.</span></p>
 
 <p><span class="chinese">这种机构的运动变换称为“共面”。</span><span class="english">The motion transformation of any such mechanism is called coplanar.</span></p>

@@ -1,5 +1,7 @@
 # 减息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianxi.md)
+
 <p><span class="chinese">许多经济学家预计下一次会议上将减息25个基点。</span><span class="english">Many economists expect a quarter-point cut at that meeting.</span></p>
 
 <p><span class="chinese">就是在减租减息发动群众上，我们也做了一些工作。</span><span class="english">We also incited the masses to struggle for rent and interest rates reductions.</span></p>

@@ -1,5 +1,7 @@
 # complexion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complexion.md)
+
 <p><span class="chinese">她面色秀丽。</span><span class="english">She has a pretty complexion.</span></p>
 
 <p><span class="chinese">脸色黄是为什么?。</span><span class="english">Is complexion fizzles out why?</span></p>

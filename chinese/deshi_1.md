@@ -1,5 +1,7 @@
 # 得失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/deshi_1.md)
+
 <p><span class="chinese">得失相当。</span><span class="english">The gains balance the losses.</span></p>
 
 <p><span class="chinese">我们权衡了利弊得失。</span><span class="english">We weighed up the pros and cons.</span></p>

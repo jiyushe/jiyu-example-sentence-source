@@ -1,5 +1,7 @@
 # 长治久安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changzhijiuan.md)
+
 <p><span class="chinese">萨博能否长治久安尚不明朗。</span><span class="english">Whether Saab will survive in the long term is less clear.</span></p>
 
 <p><span class="chinese">不实行法制，社会难以实现长治久安。</span><span class="english">Without the rule of law, there will not be long-term order and security.</span></p>

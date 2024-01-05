@@ -1,5 +1,7 @@
 # 直面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhimian.md)
+
 <p><span class="chinese">你直面过你的愤怒吗？</span><span class="english">Have you faced your anger?</span></p>
 
 <p><span class="chinese">让我们直面它，电视使心态麻木。</span><span class="english">Let’s face it, TV is mind-numbing.</span></p>

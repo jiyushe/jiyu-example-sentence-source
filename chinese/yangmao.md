@@ -1,5 +1,7 @@
 # 羊毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangmao.md)
+
 <p><span class="chinese">这是纯羊毛的吗？</span><span class="english">Is this pure wool?</span></p>
 
 <p><span class="chinese">我有一条羊毛围巾。</span><span class="english">I have a wooly scarf.</span></p>

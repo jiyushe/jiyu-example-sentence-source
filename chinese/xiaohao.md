@@ -1,5 +1,7 @@
 # 消耗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohao.md)
+
 <p><span class="chinese">所有这些都消耗能量。</span><span class="english">All of this burns energy.</span></p>
 
 <p><span class="chinese">傻子的箭放得快。/蠢人的东西消耗得快。</span><span class="english">A fool's bolt is soon shot.</span></p>

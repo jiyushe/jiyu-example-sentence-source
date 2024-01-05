@@ -1,5 +1,7 @@
 # nuclei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nuclei.md)
+
 <p><span class="chinese">强子作用力保持原子核为一整体。</span><span class="english">The hadronic force holds nuclei together.</span></p>
 
 <p><span class="chinese">鳃组织中细胞核肿胀。</span><span class="english">In the cells of gill tumescent nuclei are found.</span></p>

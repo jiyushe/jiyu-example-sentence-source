@@ -1,5 +1,7 @@
 # bothersome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bothersome.md)
+
 <p><span class="chinese">但是现在开始有些烦人了。</span><span class="english">But this is starting to get bothersome.</span></p>
 
 <p><span class="chinese">不过，这样的轻敲肯定是极其恼人的了。</span><span class="english">Of course, those taps were extremely bothersome.</span></p>

@@ -1,5 +1,7 @@
 # 盈利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingli.md)
+
 <p><span class="chinese">他们在削减盈利，</span><span class="english">And they're cutting a profit.</span></p>
 
 <p><span class="chinese">盈利被亏损抵销了。</span><span class="english">The gains are balanced by the losses.</span></p>

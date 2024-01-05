@@ -1,5 +1,7 @@
 # permissive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permissive.md)
+
 <p><span class="chinese">我们的文化宽容了性暴力。</span><span class="english">There is a culture permissive of sexual violence.</span></p>
 
 <p><span class="chinese">然而饮食指南是不会长期保持如此宽松的。</span><span class="english">Dietary guidelines would not remain so permissive for long.</span></p>

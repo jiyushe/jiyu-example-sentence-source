@@ -1,5 +1,7 @@
 # mckinley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mckinley.md)
+
 <p><span class="chinese">他一巴掌打在了麦丽金太太的脸上。</span><span class="english">He slapped Mrs. McKinley on the face.</span></p>
 
 <p><span class="chinese">麦丽金夫人挥了挥手，锁上了门。</span><span class="english">Mrs. McKinley waved and locked the door.</span></p>

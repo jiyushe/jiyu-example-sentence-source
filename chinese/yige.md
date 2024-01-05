@@ -1,5 +1,7 @@
 # 一个
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yige.md)
+
 <p><span class="chinese">一个精子？</span><span class="english">A sperm?</span></p>
 
 <p><span class="chinese">这是一个微笑？</span><span class="english">A smiley?</span></p>

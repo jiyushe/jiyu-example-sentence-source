@@ -1,5 +1,7 @@
 # messianic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/messianic.md)
+
 <p><span class="chinese">巴布教原本是伊斯兰教什叶派里的一种救世主运动。</span><span class="english">Babism originated as a messianic movement in Shiite Islam.</span></p>
 
 <p><span class="chinese">一个人如果天生是弥赛亚，就能吸引大量的光。</span><span class="english">A person, who is messianic in nature, can draw a great amount of light to them.</span></p>

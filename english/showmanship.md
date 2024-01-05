@@ -1,5 +1,7 @@
 # showmanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/showmanship.md)
+
 <p><span class="chinese">一只黑色的标准型贵宾犬正等待参加青年训犬师表演赛。</span><span class="english">A black standard poodle waits for the Junior Showmanship division.</span></p>
 
 <p><span class="chinese">作为一个经验丰富的魔术师，刘谦对魔术表演有着独特的理解。</span><span class="english">As a seasoned magician, Liu Qian has a unique understanding of showmanship.</span></p>

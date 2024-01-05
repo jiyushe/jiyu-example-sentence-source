@@ -1,5 +1,7 @@
 # blimp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blimp.md)
+
 <p><span class="chinese">灰色椭圆形是小型飞船。</span><span class="english">The gray oval is a blimp.</span></p>
 
 <p><span class="chinese">小飞艇上的科学家什么也没看见。</span><span class="english">Scientists in the blimp did not see anything.</span></p>

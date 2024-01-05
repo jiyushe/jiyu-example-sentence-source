@@ -1,5 +1,7 @@
 # lapel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lapel.md)
+
 <p><span class="chinese">一朵浅红色的康乃馨耀眼地插在他的西装翻领上。</span><span class="english">A pink carnation blooms in his lapel.</span></p>
 
 <p><span class="chinese">他在我衣领处抖掉那想象中的灰尘。</span><span class="english">He flicked imaginary dust off my lapel.</span></p>

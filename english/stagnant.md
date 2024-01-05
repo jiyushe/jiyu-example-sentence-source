@@ -1,5 +1,7 @@
 # stagnant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stagnant.md)
+
 <p><span class="chinese">我的灵魂是一潭死水。</span><span class="english">And my soul was a stagnant tide.</span></p>
 
 <p><span class="chinese">死水滋生蚊子。</span><span class="english">Stagnant water breeds mosquitoes.</span></p>

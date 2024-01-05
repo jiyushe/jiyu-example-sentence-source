@@ -1,5 +1,7 @@
 # 三言两语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanyanliangyu.md)
+
 <p><span class="chinese">这可以用三言两语概括起来。</span><span class="english">It can be summed up in two words.</span></p>
 
 <p><span class="chinese">上尉还在那里像先前一样三言两语地恳求着。</span><span class="english">There was the captain curtly pleading as before.</span></p>

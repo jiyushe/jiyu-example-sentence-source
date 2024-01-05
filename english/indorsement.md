@@ -1,5 +1,7 @@
 # indorsement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indorsement.md)
+
 <p><span class="chinese">它须为汇票全额之背书。</span><span class="english">It must be an indorsement of the entire bill.</span></p>
 
 <p><span class="chinese">只听到称心和如意，决不敢有所反对。</span><span class="english">And hear the indorsement of all, and do not object to it.</span></p>

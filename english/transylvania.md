@@ -1,5 +1,7 @@
 # transylvania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transylvania.md)
+
 <p><span class="chinese">特兰西瓦尼亚也位于罗马尼亚。</span><span class="english">Transylvania is also located in Romania.</span></p>
 
 <p><span class="chinese">1920年，特兰西瓦尼亚与罗马尼亚的结盟被批准。</span><span class="english">Union of Transylvania with Romania was ratified in 1920.</span></p>

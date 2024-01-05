@@ -1,5 +1,7 @@
 # 走投无路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoutouwulu.md)
+
 <p><span class="chinese">我们千万不要弄得他走投无路。</span><span class="english">We must not make him desperate.</span></p>
 
 <p><span class="chinese">海娃被逼的走投无路！</span><span class="english">The sea of Eva was forced to post23!</span></p>

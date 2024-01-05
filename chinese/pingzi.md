@@ -1,5 +1,7 @@
 # 瓶子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingzi.md)
+
 <p><span class="chinese">把瓶子倒空！</span><span class="english">Empty the vase!</span></p>
 
 <p><span class="chinese">把这瓶子涮一下。</span><span class="english">Give this bottle a rinse.</span></p>

@@ -1,5 +1,7 @@
 # humiliating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humiliating.md)
+
 <p><span class="chinese">上赛季荣归故里是演砸了。</span><span class="english">Last season was a humiliating homecoming.</span></p>
 
 <p><span class="chinese">一个小丑比一个无教养的人更可耻。</span><span class="english">A buffoon is more humiliating than a bounder.</span></p>

@@ -1,5 +1,7 @@
 # nipple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nipple.md)
+
 <p><span class="chinese">麦肯锡奶瓶奶嘴刷。</span><span class="english">Munchkin, Bottle & Nipple Brush.</span></p>
 
 <p><span class="chinese">让婴儿啜奶头没有好处。</span><span class="english">It's no good letting a baby suck the nipple.</span></p>

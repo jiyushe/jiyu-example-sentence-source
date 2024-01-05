@@ -1,5 +1,7 @@
 # 造林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaolin.md)
+
 <p><span class="chinese">造林是一项重大任务。</span><span class="english">Afforestation is a matter of vital importance.</span></p>
 
 <p><span class="chinese">中华安息香及其造林技术。</span><span class="english">Styrax chinensis and its forestation techniques.</span></p>

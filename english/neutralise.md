@@ -1,5 +1,7 @@
 # neutralise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neutralise.md)
+
 <p><span class="chinese">唾液要用一小时的时间才能中和掉由食物和饮料产生的酸性物质。</span><span class="english">Saliva takes about an hour to neutralise the acid created by a food or drink.</span></p>
 
 <p><span class="chinese">这些分子有可能会对身体产生伤害，而抗氧化剂征稿可以阻止减缓这一过程。</span><span class="english">These molecules can damage healthy body tissue, and antioxidants neutralise them.</span></p>

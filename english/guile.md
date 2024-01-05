@@ -1,5 +1,7 @@
 # guile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guile.md)
+
 <p><span class="chinese">在她身上没有狡诈和贪婪。</span><span class="english">Here was neither guile nor rapacity.</span></p>
 
 <p><span class="chinese">什么是黑格尔的理性的狡计？</span><span class="english">What is the guile of Hegelian reason?</span></p>

@@ -1,5 +1,7 @@
 # excretion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excretion.md)
+
 <p><span class="chinese">汗是一种排泄物。</span><span class="english">Sweat is an excretion.</span></p>
 
 <p><span class="chinese">汗从他的脸上滴下。</span><span class="english">The formation and excretion of sweat.</span></p>

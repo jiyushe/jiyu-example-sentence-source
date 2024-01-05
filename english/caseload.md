@@ -1,5 +1,7 @@
 # caseload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caseload.md)
+
 <p><span class="chinese">至年底，该处处理的案件数量达1174宗。</span><span class="english">The department's caseload was 1174 at the end of the year.</span></p>
 
 <p><span class="chinese">这个MODL代表了这批个案的过渡安排。</span><span class="english">This MODL represents a transitional arrangement for that caseload.</span></p>

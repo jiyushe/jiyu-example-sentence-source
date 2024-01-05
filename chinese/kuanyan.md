@@ -1,5 +1,7 @@
 # 宽严
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanyan.md)
+
 <p><span class="chinese">再次，消极身份符合我国宽严相济的刑事政策。</span><span class="english">The third, it is fit to the lenient and severe criminal policy.</span></p>
 
 <p><span class="chinese">宽严相济刑事政策是我国刑事政策的新发展。</span><span class="english">Temper justice with mercy is a new development of the criminal policy in China.</span></p>

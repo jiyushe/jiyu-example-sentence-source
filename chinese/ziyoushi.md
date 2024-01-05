@@ -1,5 +1,7 @@
 # 自由诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyoushi.md)
+
 <p><span class="chinese">他的诗有很大部份是自由诗。</span><span class="english">A great number of his poems were free verse.</span></p>
 
 <p><span class="chinese">在诗歌的形式上，他大胆地运用自由诗的形式。</span><span class="english">In the form of poem , he utilizes the form of free verse bravely.</span></p>

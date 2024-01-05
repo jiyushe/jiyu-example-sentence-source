@@ -1,5 +1,7 @@
 # peak 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peak.md)
+
 <p><span class="chinese">这是玉翠峰。</span><span class="english">Here is the Jade Peak.</span></p>
 
 <p><span class="chinese">尖峰小时系数?。</span><span class="english">Peak Hour Factor, PHF?</span></p>

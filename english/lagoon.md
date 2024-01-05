@@ -1,5 +1,7 @@
 # lagoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lagoon.md)
+
 <p><span class="chinese">我们去蓝礁湖吧。</span><span class="english">Let's go to the Blue Lagoon.</span></p>
 
 <p><span class="chinese">所以我们去了蓝色咸水湖。</span><span class="english">So then we went to the Blue Lagoon.</span></p>

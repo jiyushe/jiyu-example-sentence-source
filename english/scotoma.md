@@ -1,5 +1,7 @@
 # scotoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scotoma.md)
+
 <p><span class="chinese">二是对孔子仁学思想传承的研究存在一个盲区。</span><span class="english">Secondly, there is a scotoma on spreading them.</span></p>
 
 <p><span class="chinese">而这一盲点其实也是一个机遇。</span><span class="english">And this one scotoma also is a good luck actually.</span></p>

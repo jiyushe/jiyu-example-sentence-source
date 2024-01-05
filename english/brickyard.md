@@ -1,5 +1,7 @@
 # brickyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brickyard.md)
+
 <p><span class="chinese">这狗是砖厂老板的。</span><span class="english">He was owned by the boss of the brickyard.</span></p>
 
 <p><span class="chinese">本论文以东斋堂砖厂剖面为主剖面，研究建立马兰黄土的年龄序列。</span><span class="english">This paper aims to establish the age sequence of Malan Loess in the eastern Zhaitang brickyard section.</span></p>

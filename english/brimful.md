@@ -1,5 +1,7 @@
 # brimful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brimful.md)
+
 <p><span class="chinese">他满脑子是点子。</span><span class="english">He is brimful of ideas.</span></p>
 
 <p><span class="chinese">他有一脑子新思想。</span><span class="english">He is brimful of new ideas.</span></p>

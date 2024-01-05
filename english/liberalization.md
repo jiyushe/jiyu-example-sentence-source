@@ -1,5 +1,7 @@
 # liberalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liberalization.md)
+
 <p><span class="chinese">因为我不够放得开。</span><span class="english">Because I not enough to liberalization.</span></p>
 
 <p><span class="chinese">贸易自由化是经济增长的发动机。</span><span class="english">Trade liberalization is the engine of economic growth.</span></p>

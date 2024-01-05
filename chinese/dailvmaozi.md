@@ -1,5 +1,7 @@
 # 戴绿帽子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dailvmaozi.md)
+
 <p><span class="chinese">他这辈子都得戴绿帽子吗？</span><span class="english">Must he be a cuckold for the rest of his life?</span></p>
 
 <p><span class="chinese">你就是那个给我戴绿帽子的助手？</span><span class="english">Were you the clerk that is to make me cuckold ?</span></p>

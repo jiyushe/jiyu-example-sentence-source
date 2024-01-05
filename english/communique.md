@@ -1,5 +1,7 @@
 # communique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communique.md)
+
 <p><span class="chinese">我们对公报持异议。</span><span class="english">We disagree to the communique.</span></p>
 
 <p><span class="chinese">双方发表了联合公报。</span><span class="english">The two sides also issued a joint communique.</span></p>

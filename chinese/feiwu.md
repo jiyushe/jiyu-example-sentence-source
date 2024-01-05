@@ -1,5 +1,7 @@
 # 飞舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiwu.md)
+
 <p><span class="chinese">那随风飞舞的你。</span><span class="english">Danced in the wind that's you.</span></p>
 
 <p><span class="chinese">只见神秘学向着数学飞舞。</span><span class="english">See Mystery to Mathematics fly!</span></p>

@@ -1,5 +1,7 @@
 # innovation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innovation.md)
+
 <p><span class="chinese">什么是创新？</span><span class="english">What is innovation?</span></p>
 
 <p><span class="chinese">创新无极限！</span><span class="english">Innovation without limit!</span></p>

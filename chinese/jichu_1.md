@@ -1,5 +1,7 @@
 # 基础
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jichu_1.md)
+
 <p><span class="chinese">现在，设计基础事故。</span><span class="english">Now, design basis accidents.</span></p>
 
 <p><span class="chinese">这门学说的基础很稳固。</span><span class="english">The theory is well grounded.</span></p>

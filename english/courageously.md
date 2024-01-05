@@ -1,5 +1,7 @@
 # courageously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courageously.md)
+
 <p><span class="chinese">把骑马的金童大胆扯拉。</span><span class="english">Courageously to pluck him from his horse.</span></p>
 
 <p><span class="chinese">敲响战鼓，奋勇向前。</span><span class="english">Strike up the drum and march courageously.</span></p>

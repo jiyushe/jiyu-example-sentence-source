@@ -1,5 +1,7 @@
 # 郎中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langzhong.md)
+
 <p><span class="chinese">郎中医生愿意帮助我们。</span><span class="english">The herbalist doctor We're ready to help.</span></p>
 
 <p><span class="chinese">钱包郎中追捧投资咨询和辅导。</span><span class="english">The Wallet Doctor is sought after for investment advice and coaching.</span></p>

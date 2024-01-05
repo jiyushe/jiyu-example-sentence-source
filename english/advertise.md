@@ -1,5 +1,7 @@
 # advertise 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advertise.md)
+
 <p><span class="chinese">做广告是值得的。</span><span class="english">It pays to advertise.</span></p>
 
 <p><span class="chinese">在当地报纸做广告。</span><span class="english">Advertise in your local paper.</span></p>

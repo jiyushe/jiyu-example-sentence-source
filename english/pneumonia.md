@@ -1,5 +1,7 @@
 # pneumonia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pneumonia.md)
+
 <p><span class="chinese">或者肺炎。</span><span class="english">Or pneumonia.</span></p>
 
 <p><span class="chinese">肺炎是一种急性病。</span><span class="english">Pneumonia is an acute disease.</span></p>

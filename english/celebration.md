@@ -1,5 +1,7 @@
 # celebration 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celebration.md)
+
 <p><span class="chinese">庆祝变成了恐慌。</span><span class="english">Celebration turns to panic.</span></p>
 
 <p><span class="chinese">没有，有什么庆祝活动吗？</span><span class="english">No, was there any celebration?</span></p>

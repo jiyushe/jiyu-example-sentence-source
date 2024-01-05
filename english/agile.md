@@ -1,5 +1,7 @@
 # agile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agile.md)
+
 <p><span class="chinese">那样如何能敏捷呢？</span><span class="english">How can that be agile?</span></p>
 
 <p><span class="chinese">那么敏捷法对于设计有何帮助呢？</span><span class="english">So, how does Agile help?</span></p>

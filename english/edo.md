@@ -1,5 +1,7 @@
 # edo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edo.md)
+
 <p><span class="chinese">依兰的父母不喜欢埃都。</span><span class="english">Ylang's parents did not like Edo.</span></p>
 
 <p><span class="chinese">依兰和埃都想出了一个见面的办法。</span><span class="english">Ylang and Edo devised a way to see each other.</span></p>

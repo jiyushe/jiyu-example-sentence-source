@@ -1,5 +1,7 @@
 # 守株待兔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzhudaitu.md)
+
 <p><span class="chinese">记住了“守株待兔”的准则绝对不出现在恋爱中，你的另一半绝对不会是在家等来的。</span><span class="english">You won't meet Mr Right sitting at home.</span></p>
 
 <p><span class="chinese">这便是龟兔赛跑、守株待兔和拔苗助长。</span><span class="english">This is willing and, tortoise and the haste makes waste.</span></p>

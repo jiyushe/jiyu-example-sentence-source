@@ -1,5 +1,7 @@
 # 祖坟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zufen.md)
+
 <p><span class="chinese">“此刻”他安静地躺在祖坟中。</span><span class="english">Now he slept quietly with his fathers.</span></p>
 
 <p><span class="chinese">他希望被葬在祖坟墓地。</span><span class="english">He wished to be interred in the family grave.</span></p>

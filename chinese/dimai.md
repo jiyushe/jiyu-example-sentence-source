@@ -1,5 +1,7 @@
 # 地脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dimai.md)
+
 <p><span class="chinese">这便是传说中的地脉迷城上层。</span><span class="english">The upper reaches of the legendary Undermountain.</span></p>
 
 <p><span class="chinese">天候控制—扩大天然地脉的能量及交流</span><span class="english">Weather Control- Amplification of Natural Ley Energy- Communication</span></p>

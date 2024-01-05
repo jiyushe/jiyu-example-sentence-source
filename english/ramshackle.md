@@ -1,5 +1,7 @@
 # ramshackle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramshackle.md)
+
 <p><span class="chinese">而且毛里求斯没有衰落的迹象。</span><span class="english">And there’s nothing ramshackle about Mauritius.</span></p>
 
 <p><span class="chinese">他们和一个由其他反叛者草草拼凑成的同盟联起手来。</span><span class="english">They joined with a ramshackle alliance of other rebels.</span></p>

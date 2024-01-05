@@ -1,5 +1,7 @@
 # kirghiz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kirghiz.md)
+
 <p><span class="chinese">他出生于1931年卡拉科尔柯尔克孜镇。</span><span class="english">He was born 1931 in the Kirghiz town Karakol.</span></p>
 
 <p><span class="chinese">它被认为是有40柯尔克孜族部落。</span><span class="english">It is considered that there are 40 Kirghiz tribes.</span></p>

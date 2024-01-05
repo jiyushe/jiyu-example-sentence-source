@@ -1,5 +1,7 @@
 # polytropic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polytropic.md)
+
 <p><span class="chinese">应用多变过程来分析斯特林循环性能。</span><span class="english">The polytropic processes are used for the performance analysis of Stirling cycle.</span></p>
 
 <p><span class="chinese">追求人性化尺度的室内外空间，创造尽量多的多元性特色。</span><span class="english">Pursue user-friendly criterion indoor outer space, creation as far as possible many polytropic characteristics.</span></p>

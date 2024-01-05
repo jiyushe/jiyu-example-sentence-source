@@ -1,5 +1,7 @@
 # wacky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wacky.md)
+
 <p><span class="chinese">这是一个古怪的发型。</span><span class="english">That is a wacky hair-do man.</span></p>
 
 <p><span class="chinese">嗬嗬，那些古怪的动物！</span><span class="english">Heh heh, those wacky animals!</span></p>

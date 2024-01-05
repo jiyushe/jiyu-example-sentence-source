@@ -1,5 +1,7 @@
 # teleconferencing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teleconferencing.md)
+
 <p><span class="chinese">它本质上是一个有轮子的远程会议系统。</span><span class="english">It is in essence a teleconferencing system on wheels.</span></p>
 
 <p><span class="chinese">通过电话会议可以分享专业知识。</span><span class="english">Expertise can be share worldwide through teleconferencing.</span></p>

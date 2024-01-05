@@ -1,5 +1,7 @@
 # solve 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solve.md)
+
 <p><span class="chinese">就可以解出来了。</span><span class="english">So I can solve now.</span></p>
 
 <p><span class="chinese">我们能解这个。</span><span class="english">And we can solve this.</span></p>

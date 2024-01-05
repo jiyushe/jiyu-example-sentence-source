@@ -1,5 +1,7 @@
 # proudly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proudly.md)
+
 <p><span class="chinese">他自豪地笑了。</span><span class="english">He smiled proudly.</span></p>
 
 <p><span class="chinese">我得意洋洋地大叫。</span><span class="english">I proudly called out.</span></p>

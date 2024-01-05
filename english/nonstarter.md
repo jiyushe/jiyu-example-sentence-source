@@ -1,5 +1,7 @@
 # nonstarter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonstarter.md)
+
 <p><span class="chinese">议院和白宫都表示这样的讨论是没有意义的，因为这一提案根本不会得到通过。</span><span class="english">The Senate and the White House said it was a nonstarter.</span></p>
 
 <p><span class="chinese">任何关于剩余报酬的谈判，不管是过去的还是将来的，希望都微乎其微。</span><span class="english">Any talk of residuals, past or future, was simply a nonstarter.</span></p>

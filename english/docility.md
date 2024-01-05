@@ -1,5 +1,7 @@
 # docility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/docility.md)
+
 <p><span class="chinese">她的温顺让他吃惊。</span><span class="english">Her docility had surprised him.</span></p>
 
 <p><span class="chinese">对于这种水平的挑衅行为置之不理显然是很不正常的。</span><span class="english">Such docility is unusual given the level of provocation.</span></p>

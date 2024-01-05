@@ -1,5 +1,7 @@
 # 不了了之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buliaoliaozhi.md)
+
 <p><span class="chinese">这项指控后来也不了了之了。</span><span class="english">The charges were later dropped.</span></p>
 
 <p><span class="chinese">会谈自2008年以来就不了了之。</span><span class="english">Talks have been in limbo since 2008.</span></p>

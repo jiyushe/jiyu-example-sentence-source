@@ -1,5 +1,7 @@
 # 征求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengqiu.md)
+
 <p><span class="chinese">我在征求回答</span><span class="english">I'm asking for an answer.</span></p>
 
 <p><span class="chinese">我一直都向他征求意见。</span><span class="english">I always ask him for advice.</span></p>

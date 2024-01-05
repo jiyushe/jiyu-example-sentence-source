@@ -1,5 +1,7 @@
 # 海岛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haidao.md)
+
 <p><span class="chinese">永恒的夏天还把海岛镀成金。</span><span class="english">Eternal summer gilds them yet.</span></p>
 
 <p><span class="chinese">我是个名人，要出租我的海岛！</span><span class="english">I'm a celebrity, rent my island!</span></p>

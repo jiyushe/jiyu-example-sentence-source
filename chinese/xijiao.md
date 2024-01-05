@@ -1,5 +1,7 @@
 # 犀角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xijiao.md)
+
 <p><span class="chinese">他们砍割犀角的方式非常残酷。</span><span class="english">The removal of the horn is very harsh.</span></p>
 
 <p><span class="chinese">越南人正在从非洲大量走私犀角。</span><span class="english">The Vietnamese are moving rhino horn from Africa.</span></p>

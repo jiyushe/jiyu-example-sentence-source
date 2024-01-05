@@ -1,5 +1,7 @@
 # 丹田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dantian.md)
+
 <p><span class="chinese">带弟和丹田依然是好朋友。</span><span class="english">Demonstrated with brother and is still a good friend.</span></p>
 
 <p><span class="chinese">储存火焰能量的位置在丹田，也就是小腹处。</span><span class="english">The seat of fire energy is in the hara, or lower belly.</span></p>

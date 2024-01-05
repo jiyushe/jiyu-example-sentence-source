@@ -1,5 +1,7 @@
 # hematuria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hematuria.md)
+
 <p><span class="chinese">尿痛甚至尿血。</span><span class="english">Urinates the pain even hematuria.</span></p>
 
 <p><span class="chinese">腰痛、腹部憋胀、血尿。</span><span class="english">Low back pain, abdominal swelling, and hematuria.</span></p>

@@ -1,5 +1,7 @@
 # 尽数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshu.md)
+
 <p><span class="chinese">工具已尽数交回。</span><span class="english">All the tools have been handed in.</span></p>
 
 <p><span class="chinese">但是，这并不意味着所有“零同情心”的人就尽数残忍。</span><span class="english">Not all zero-empathy people are cruel.</span></p>

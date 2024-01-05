@@ -1,5 +1,7 @@
 # 淋漓尽致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linlijinzhi.md)
+
 <p><span class="chinese">喊出淋漓尽致的英雄本色！</span><span class="english">Shout out your inner-hero!</span></p>
 
 <p><span class="chinese">我们演奏得淋漓尽致，可惜没有人带录音机。</span><span class="english">We were wailing but nobody had a tape machine.</span></p>

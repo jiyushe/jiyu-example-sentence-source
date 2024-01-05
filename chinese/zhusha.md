@@ -1,5 +1,7 @@
 # 朱砂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhusha.md)
+
 <p><span class="chinese">朱砂含有重金属砷和汞。</span><span class="english">Vermilion contains heavy metal arsenic and mercury.</span></p>
 
 <p><span class="chinese">飘渺前尘，注定只成为我一个人的朱砂墨迹。</span><span class="english">The fugacious past destined to be my single vermilion mark.</span></p>

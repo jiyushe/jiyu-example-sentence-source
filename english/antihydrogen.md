@@ -1,5 +1,7 @@
 # antihydrogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antihydrogen.md)
+
 <p><span class="chinese">这一切都发生在一个俘获反氢原子的磁瓶里。</span><span class="english">All this happened inside a magnetic bottle that traps the antihydrogen atoms.</span></p>
 
 <p><span class="chinese">采用具有微弱磁矩的强磁体是捕获反氢原子的关键。</span><span class="english">A strong magnet was critical to trapping antihydrogen atoms by using their small magnetic moments.</span></p>

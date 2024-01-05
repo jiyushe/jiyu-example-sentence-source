@@ -1,5 +1,7 @@
 # 入睡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rushui.md)
+
 <p><span class="chinese">她给男孩盖好被子使其入睡。</span><span class="english">She tucked the boy in bed.</span></p>
 
 <p><span class="chinese">母亲哄孩子入睡。</span><span class="english">Mother lulled the child to sleep.</span></p>

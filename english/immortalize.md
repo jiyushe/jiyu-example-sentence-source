@@ -1,5 +1,7 @@
 # immortalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immortalize.md)
+
 <p><span class="chinese">他会在诗歌里让她不朽。</span><span class="english">He would immortalize her in a poem.</span></p>
 
 <p><span class="chinese">就是这样让此刻成为永恒！</span><span class="english">What a way to immortalize this moment!</span></p>

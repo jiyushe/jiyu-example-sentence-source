@@ -1,5 +1,7 @@
 # 溺水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nishui_1.md)
+
 <p><span class="chinese">溺水的人连稻草也要抓。</span><span class="english">A drowning man plucks at a straw.</span></p>
 
 <p><span class="chinese">他救起了他那溺水的朋友。</span><span class="english">He saved his friend from drowning.</span></p>

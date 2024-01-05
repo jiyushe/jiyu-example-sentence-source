@@ -1,5 +1,7 @@
 # 收取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouqu.md)
+
 <p><span class="chinese">借口很简单，学校收取教材费。</span><span class="english">Excuse is simple, school text books.</span></p>
 
 <p><span class="chinese">我来收取要洗的衣物。</span><span class="english">The laundryman is here to collect it.</span></p>

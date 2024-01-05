@@ -1,5 +1,7 @@
 # norepinephrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norepinephrine.md)
+
 <p><span class="chinese">目的观察去甲肾上腺素处理对心肺复苏的影响。</span><span class="english">Objective To evaluate the effect of norepinephrine on cardiopulmonary resuscitation.</span></p>
 
 <p><span class="chinese">他们相信这与正肾上腺素和神经传递素密切相关。</span><span class="english">They believe it is associated with the closely related neurotransmitter norepinephrine.</span></p>

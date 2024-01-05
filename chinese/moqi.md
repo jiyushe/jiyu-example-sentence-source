@@ -1,5 +1,7 @@
 # 末期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moqi.md)
+
 <p><span class="chinese">末期大致是早期的逆向。</span><span class="english">Telophase is roughly the reverse of prophase.</span></p>
 
 <p><span class="chinese">那时已是三叠纪末期。</span><span class="english">This was towards the end of the Triassic period.</span></p>

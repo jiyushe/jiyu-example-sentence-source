@@ -1,5 +1,7 @@
 # 大菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dacai.md)
+
 <p><span class="chinese">一道精致的大菜向君王侍奉。</span><span class="english">A dainty dish to set before the King.</span></p>
 
 <p><span class="chinese">大菜丝清凉可口，是夏令佳品。</span><span class="english">Agar is very light and delicious for summer.</span></p>

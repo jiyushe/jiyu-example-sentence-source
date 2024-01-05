@@ -1,5 +1,7 @@
 # haitian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haitian.md)
+
 <p><span class="chinese">我要去海天大酒店。</span><span class="english">I am going to Haitian Hotel.</span></p>
 
 <p><span class="chinese">参与这些课程的学生并不都是海地人。</span><span class="english">Not all of the students are Haitian.</span></p>

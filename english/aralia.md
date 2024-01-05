@@ -1,5 +1,7 @@
 # aralia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aralia.md)
+
 <p><span class="chinese">利用二年生刺龙芽实生苗根造林，并于当年秋季测定根重。</span><span class="english">The roots of two-year seedling of Aralia elata were afforested.</span></p>
 
 <p><span class="chinese">结论黄毛楤木皂苷具有延缓衰老的作用。</span><span class="english">Conclusion Saponin of Aralia decaisneana Hance has the effect of anti-aging.</span></p>

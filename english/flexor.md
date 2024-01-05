@@ -1,5 +1,7 @@
 # flexor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flexor.md)
+
 <p><span class="chinese">患侧在上，嘱患肢屈膝屈髋。</span><span class="english">Paretic in, enjoin limb knees hip flexor.</span></p>
 
 <p><span class="chinese">左侧向前压髋，做拉伸臀屈肌的练习。</span><span class="english">Push the right hip forward to stretch the flexor muscle.</span></p>

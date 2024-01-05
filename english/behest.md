@@ -1,5 +1,7 @@
 # behest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/behest.md)
+
 <p><span class="chinese">师傅，这是观音菩萨特意让他在此等待陪您上西天取经的。</span><span class="english">Master, he will accompany you to the west at Guanyin's behest.</span></p>
 
 <p><span class="chinese">竹琦议员奉潘托拉联盟之命予以调停。</span><span class="english">Senator Chuchi intervened, at the behest of the Pantoran Assembly.</span></p>

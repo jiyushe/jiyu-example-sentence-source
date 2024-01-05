@@ -1,5 +1,7 @@
 # revocable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revocable.md)
+
 <p><span class="chinese">若可撤销，则谁可以撤销或修改此信讬?。</span><span class="english">If Revocable , by whom is Trust Revocable or Amendable?</span></p>
 
 <p><span class="chinese">创建一个可取消的信托并且用地产中的个人资产为其提供资金。</span><span class="english">Create a revocable trust and fund it with the assets in your estate.</span></p>

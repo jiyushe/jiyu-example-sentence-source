@@ -1,5 +1,7 @@
 # exiguous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exiguous.md)
+
 <p><span class="chinese">或稀少不齐，颜色暗淡。</span><span class="english">Or exiguous not neat, color is dim.</span></p>
 
 <p><span class="chinese">在这群人里，他的不足主要表现在他是自学成材的这一点上。</span><span class="english">Here, he is also exiguous in being largely self-taught.</span></p>

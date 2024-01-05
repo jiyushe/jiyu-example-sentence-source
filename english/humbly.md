@@ -1,5 +1,7 @@
 # humbly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humbly.md)
+
 <p><span class="chinese">我们谦恭地接受民意授权。</span><span class="english">We humbly accept their mandate.</span></p>
 
 <p><span class="chinese">白云谦逊地站在天之一隅。晨光给它戴上霞彩。</span><span class="english">The cloud stood humbly in a cor.</span></p>

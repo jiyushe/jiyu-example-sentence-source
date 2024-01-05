@@ -1,5 +1,7 @@
 # mordant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mordant.md)
+
 <p><span class="chinese">酸洗剂帮助染料粘附在素材上。</span><span class="english">A mordant helps fix the dye to the material.</span></p>
 
 <p><span class="chinese">一种叫做媒染的方法被用在染色过程中。</span><span class="english">A solution called a mordant is used in the dyeing process.</span></p>

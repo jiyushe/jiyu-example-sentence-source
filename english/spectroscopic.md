@@ -1,5 +1,7 @@
 # spectroscopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectroscopic.md)
+
 <p><span class="chinese">光腔衰荡是新的光谱技术。</span><span class="english">The Cavity ringdown spectroscopy is a new spectroscopic technique.</span></p>
 
 <p><span class="chinese">研发了红外波段吸收式气敏传感空芯光纤。</span><span class="english">Infrared hollow fibers were developed for spectroscopic gas sensing.</span></p>

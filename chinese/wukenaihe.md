@@ -1,5 +1,7 @@
 # 无可奈何
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wukenaihe.md)
+
 <p><span class="chinese">她无可奈何地点点头。</span><span class="english">She nodded her head resignedly.</span></p>
 
 <p><span class="chinese">无可奈何花落去。</span><span class="english">Flowers fall off, do what one may.</span></p>

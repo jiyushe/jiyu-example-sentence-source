@@ -1,5 +1,7 @@
 # laughingstock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laughingstock.md)
+
 <p><span class="chinese">这已成为全城的笑柄了。</span><span class="english">It has become the laughingstock of the city.</span></p>
 
 <p><span class="chinese">这已成为全城的笑柄。</span><span class="english">It has become the laughingstock of the town.</span></p>

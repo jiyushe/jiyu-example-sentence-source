@@ -1,5 +1,7 @@
 # 矿工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanggong.md)
+
 <p><span class="chinese">他是一个黄金矿工。</span><span class="english">He was a gold miner.</span></p>
 
 <p><span class="chinese">恰尔肯德邦的一个矿工。</span><span class="english">A coal miner in Jharkhand.</span></p>

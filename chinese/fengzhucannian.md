@@ -1,5 +1,7 @@
 # 风烛残年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengzhucannian.md)
+
 <p><span class="chinese">的确，有些妇人已经风烛残年。</span><span class="english">True, there were some old women.</span></p>
 
 <p><span class="chinese">试着去了解我已经是风烛残年来日不多。</span><span class="english">Try to understand that my age is not long but survived.</span></p>

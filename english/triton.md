@@ -1,5 +1,7 @@
 # triton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triton.md)
+
 <p><span class="chinese">或聍听海神吹响饰有花冠的号角。</span><span class="english">Or hear old Triton blow his wreathèd horn.</span></p>
 
 <p><span class="chinese">也许，海卫一是太阳系中最寒冷的星球。</span><span class="english">Triton may be the coldest place in our solar system.</span></p>

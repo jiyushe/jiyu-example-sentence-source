@@ -1,5 +1,7 @@
 # 羞羞答答
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuxiudada.md)
+
 <p><span class="chinese">她有个习惯，每当人们的注意力集中到她身上时，她便会羞羞答答地畏缩不前。</span><span class="english">She had a habit of shrinking up whenever attention was focused on her.</span></p>
 
 <p><span class="chinese">这毫不奇怪，因为他们的父母很开心，也从不羞羞答答地示爱。</span><span class="english">They have happy parents who aren’t afraid to show their love to each other.</span></p>

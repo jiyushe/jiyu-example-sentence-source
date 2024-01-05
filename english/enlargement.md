@@ -1,5 +1,7 @@
 # enlargement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enlargement.md)
+
 <p><span class="chinese">这不会因东扩而有所改变。</span><span class="english">That would not change with enlargement.</span></p>
 
 <p><span class="chinese">断面图及局部放大图。</span><span class="english">Cuts and drawing of partial enlargement.</span></p>

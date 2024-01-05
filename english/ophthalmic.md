@@ -1,5 +1,7 @@
 # ophthalmic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ophthalmic.md)
+
 <p><span class="chinese">眼科显微外科手术刀的系列。</span><span class="english">Micro scalpel for ophthalmic surgery introduced.</span></p>
 
 <p><span class="chinese">凯茜后来成为一位眼科外科医生。</span><span class="english">Cathy later went on to become an ophthalmic surgeon.</span></p>

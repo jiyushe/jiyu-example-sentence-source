@@ -1,5 +1,7 @@
 # 轴子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouzi_1.md)
+
 <p><span class="chinese">研究人员认为，太阳可能是制造轴子的工厂。</span><span class="english">The sun is thought to possibly be a factory for these axions.</span></p>
 
 <p><span class="chinese">其他才从太阳内部生成的轴子，则可能四处漫流、穿透我们。</span><span class="english">Other axions, freshly formed inside the sun, could be streaming through us.</span></p>

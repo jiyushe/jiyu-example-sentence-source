@@ -1,5 +1,7 @@
 # latchkey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latchkey.md)
+
 <p><span class="chinese">我曾被叫做“挂钥匙儿童”。</span><span class="english">I was a so-called latchkey kid.</span></p>
 
 <p><span class="chinese">这时有人用钥匙打开了前门。</span><span class="english">Someone was opening the front door with a latchkey.</span></p>

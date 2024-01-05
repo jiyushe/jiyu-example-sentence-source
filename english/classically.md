@@ -1,5 +1,7 @@
 # classically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classically.md)
+
 <p><span class="chinese">传统上，妊娠被认为是一种高凝状态。</span><span class="english">Pregnancy is classically thought to be a hypercoagulable state.</span></p>
 
 <p><span class="chinese">我们既可以利用量子力学也,可以利用经典力学来做这个事。</span><span class="english">we could do that either quantum mechanically or classically solve for that.</span></p>

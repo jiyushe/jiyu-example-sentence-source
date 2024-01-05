@@ -1,5 +1,7 @@
 # parthenogenetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parthenogenetic.md)
+
 <p><span class="chinese">女子血浆是从不同的孤蛋？</span><span class="english">Of woman plasm is different from the parthenogenetic egg?</span></p>
 
 <p><span class="chinese">构造出一种基于单亲遗传算子的免疫算法用于求解此模型。</span><span class="english">An immune algorithm based on parthenogenetic operators is proposed for solving the model.</span></p>

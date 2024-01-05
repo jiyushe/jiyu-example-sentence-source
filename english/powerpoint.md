@@ -1,5 +1,7 @@
 # powerpoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/powerpoint.md)
+
 <p><span class="chinese">在PowerPoint中应用设计模板</span><span class="english">Apply a Design Template in PowerPoint</span></p>
 
 <p><span class="chinese">如果是苹果电脑装配的用户，怎样看幻灯片文件？</span><span class="english">I am a MAC user. How do I view Powerpoint files?</span></p>

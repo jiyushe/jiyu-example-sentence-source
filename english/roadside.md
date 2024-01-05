@@ -1,5 +1,7 @@
 # roadside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roadside.md)
+
 <p><span class="chinese">在一个路边的茶馆里。</span><span class="english">In a roadside teahouse.</span></p>
 
 <p><span class="chinese">我站在路边上。</span><span class="english">I stood on the roadside.</span></p>

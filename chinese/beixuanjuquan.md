@@ -1,5 +1,7 @@
 # 被选举权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beixuanjuquan.md)
+
 <p><span class="chinese">年满十八岁公民，都有选举权和被选举权。</span><span class="english">The citizens aged 18 have vote and elected right.</span></p>
 
 <p><span class="chinese">每个公民都有选举权和被选举权。</span><span class="english">Every citizen has a right to vote and to be voted.</span></p>

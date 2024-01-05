@@ -1,5 +1,7 @@
 # 手电筒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoudiantong.md)
+
 <p><span class="chinese">手电筒与床单。</span><span class="english">Flashlights and sheets.</span></p>
 
 <p><span class="chinese">我需要一个手电筒。</span><span class="english">Now I need a flashlight.</span></p>

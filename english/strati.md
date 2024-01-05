@@ -1,5 +1,7 @@
 # strati
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strati.md)
+
 <p><span class="chinese">海绿石砂岩是一个稳定的地层单元。</span><span class="english">The glauconite sandstone is a persistent strati graphic unit.</span></p>
 
 <p><span class="chinese">从地层学上看，它们都属于白垩纪。</span><span class="english">From the view of strati graphy they all belong to the cretaceous period.</span></p>

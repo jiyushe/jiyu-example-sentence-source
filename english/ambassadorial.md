@@ -1,5 +1,7 @@
 # ambassadorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambassadorial.md)
+
 <p><span class="chinese">只有两位妇女担任大使。</span><span class="english">Only two women hold ambassadorial rank.</span></p>
 
 <p><span class="chinese">1972年，中英建立了大使级外交关系。</span><span class="english">In 1972, the two countries established diplomatic relations at ambassadorial level.</span></p>

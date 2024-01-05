@@ -1,5 +1,7 @@
 # vancomycin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vancomycin.md)
+
 <p><span class="chinese">这里有多少万古霉素?。</span><span class="english">How much vancomycin is there?</span></p>
 
 <p><span class="chinese">未发现万古霉素耐药株。</span><span class="english">No vancomycin resistant strains detected.</span></p>

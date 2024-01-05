@@ -1,5 +1,7 @@
 # 万里无云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanliwuyun.md)
+
 <p><span class="chinese">万里无云。</span><span class="english">There are no clouds in the sky.</span></p>
 
 <p><span class="chinese">天空万里无云。正在加载用户记忆法…</span><span class="english">There is not a cloud in the sky.</span></p>

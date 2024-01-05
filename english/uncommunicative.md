@@ -1,5 +1,7 @@
 # uncommunicative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncommunicative.md)
+
 <p><span class="chinese">罗杰天性沉默寡言，他一声不吭。</span><span class="english">Roger, uncommunicative by nature, said nothing.</span></p>
 
 <p><span class="chinese">渐渐地我变得孤僻，不苟言笑。</span><span class="english">Gradually, I became uncommunicative and reserved.</span></p>

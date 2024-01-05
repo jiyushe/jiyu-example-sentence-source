@@ -1,5 +1,7 @@
 # polycentric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polycentric.md)
+
 <p><span class="chinese">一个有着多种精神中心的文化。</span><span class="english">A civilization of the polycentric mind.</span></p>
 
 <p><span class="chinese">这样就可以通过多中心治理的手段，促进社会保障发展。</span><span class="english">By this way, we can use polycentric means in social security.</span></p>

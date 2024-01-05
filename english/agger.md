@@ -1,5 +1,7 @@
 # agger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agger.md)
+
 <p><span class="chinese">丹尼阿格尔将是另一个重要的缺席。</span><span class="english">Daniel Agger is the other noticeable absentee.</span></p>
 
 <p><span class="chinese">丹尼尔-阿格将会缺席至少两至三周的比赛。</span><span class="english">Daniel Agger will be out for at least two or three more weeks.</span></p>

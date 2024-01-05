@@ -1,5 +1,7 @@
 # gruff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gruff.md)
+
 <p><span class="chinese">他态度生硬地看了我一眼。</span><span class="english">He gave mea gruff look.</span></p>
 
 <p><span class="chinese">它们的姓是“格如夫。”</span><span class="english">Their last names were "Gruff".</span></p>

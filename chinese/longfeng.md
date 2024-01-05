@@ -1,5 +1,7 @@
 # 龙凤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longfeng.md)
+
 <p><span class="chinese">我明白，龙凤的象征意义是什么。</span><span class="english">I know, and what is the symbol meaning.</span></p>
 
 <p><span class="chinese">哈里森福特在“新龙凤配”这部电影中担纲演出。</span><span class="english">Harrison Ford stars in the remake of "Sabrina".</span></p>

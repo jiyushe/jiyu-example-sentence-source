@@ -1,5 +1,7 @@
 # 各抒己见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geshujijian.md)
+
 <p><span class="chinese">与此同时，经济学家、法学家各抒己见。</span><span class="english">At the same time, economists, jurists express.</span></p>
 
 <p><span class="chinese">研究小组就此问题整天开展各抒己见的自由讨论。</span><span class="english">The research group brainstormed the problem all day.</span></p>

@@ -1,5 +1,7 @@
 # jun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jun.md)
+
 <p><span class="chinese">你了解君。</span><span class="english">You know Jun.</span></p>
 
 <p><span class="chinese">告诉我杜军在哪里？</span><span class="english">Tell me where Du Jun is?</span></p>

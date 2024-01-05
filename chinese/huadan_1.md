@@ -1,5 +1,7 @@
 # 花旦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huadan_1.md)
+
 <p><span class="chinese">李鹏在花旦公司已经工作了一年多。</span><span class="english">Li Peng has worked for Hua Dan for over a year.</span></p>
 
 <p><span class="chinese">青衣花旦不用话筒。</span><span class="english">The Qingyi and Huadan will sing without microphone.</span></p>

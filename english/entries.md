@@ -1,5 +1,7 @@
 # entries
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entries.md)
+
 <p><span class="chinese">你们有很多机会。</span><span class="english">You can have multiple entries.</span></p>
 
 <p><span class="chinese">所有參赛作品将不获退还。</span><span class="english">Entries submitted will not be returned.</span></p>

@@ -1,5 +1,7 @@
 # independently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/independently.md)
+
 <p><span class="chinese">这个子句不能独立运行。</span><span class="english">This clause cannot be run independently.</span></p>
 
 <p><span class="chinese">独立于此例的紧急性之外</span><span class="english">Independently of the exigency of the case</span></p>

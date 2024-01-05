@@ -1,5 +1,7 @@
 # 配件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peijian.md)
+
 <p><span class="chinese">手机配件。</span><span class="english">Handset fitting.</span></p>
 
 <p><span class="chinese">你会在哪些配件上花钱?。</span><span class="english">Wot gadgets do u spend ur money on?</span></p>

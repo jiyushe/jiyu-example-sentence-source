@@ -1,5 +1,7 @@
 # italian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/italian.md)
+
 <p><span class="chinese">我是意大利人。</span><span class="english">I am Italian.</span></p>
 
 <p><span class="chinese">意大利菜还是法国菜？</span><span class="english">Italian or French?</span></p>

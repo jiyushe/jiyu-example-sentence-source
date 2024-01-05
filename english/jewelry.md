@@ -1,5 +1,7 @@
 # jewelry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jewelry.md)
+
 <p><span class="chinese">什么首饰？</span><span class="english">What jewelry?</span></p>
 
 <p><span class="chinese">珠宝首饰店。</span><span class="english">Jewelry store.</span></p>

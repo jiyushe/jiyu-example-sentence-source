@@ -1,5 +1,7 @@
 # fishmonger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fishmonger.md)
+
 <p><span class="chinese">她与鱼贩讲价钱。</span><span class="english">She bargained with the fishmonger over the price.</span></p>
 
 <p><span class="chinese">尽管叫鱼贩子把比目鱼的鱼刺剔掉。</span><span class="english">Don't be afraid to ask your fishmonger to fillet flat fish.</span></p>

@@ -1,5 +1,7 @@
 # 枫林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenglin.md)
+
 <p><span class="chinese">你却给了我整个枫林。</span><span class="english">You gave me a whole Fenglin.</span></p>
 
 <p><span class="chinese">为什么，人们这么喜欢枫林呢？</span><span class="english">Why, people like so maple's woods?</span></p>

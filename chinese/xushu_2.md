@@ -1,5 +1,7 @@
 # 虚数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xushu_2.md)
+
 <p><span class="chinese">例如，此方法可以轻易地支持虚数。</span><span class="english">For example, this method could easily support imaginary numbers.</span></p>
 
 <p><span class="chinese">当代物理学的发展是与虚数进入物理世界联系在一起的。</span><span class="english">The imaginary number comes in physical world along with physical evolution.</span></p>

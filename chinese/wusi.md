@@ -1,5 +1,7 @@
 # 无私
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusi.md)
+
 <p><span class="chinese">爱情是无私的。</span><span class="english">Love is self-giving.</span></p>
 
 <p><span class="chinese">你必须无私。</span><span class="english">You have to be unselfish.</span></p>

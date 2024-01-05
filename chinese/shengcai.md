@@ -1,5 +1,7 @@
 # 生菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengcai.md)
+
 <p><span class="chinese">你喜欢凉拌生菜吗？</span><span class="english">Do you like tossed salad?</span></p>
 
 <p><span class="chinese">我过去习惯吃生菜沙拉。</span><span class="english">I used to eat vegetable salad.</span></p>

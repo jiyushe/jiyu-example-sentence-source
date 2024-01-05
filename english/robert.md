@@ -1,5 +1,7 @@
 # robert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/robert.md)
+
 <p><span class="chinese">这为是黄罗荀。</span><span class="english">This is Robert Wong.</span></p>
 
 <p><span class="chinese">你喜欢罗伯特·弗朗斯特吗？</span><span class="english">Do you like Robert Frost?</span></p>

@@ -1,5 +1,7 @@
 # guardrail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guardrail.md)
+
 <p><span class="chinese">可用于护栏管。</span><span class="english">Guardrail tube can be used.</span></p>
 
 <p><span class="chinese">增加了护栏的抗风荷载。</span><span class="english">The increase of wind load of guardrail.</span></p>

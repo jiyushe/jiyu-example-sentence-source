@@ -1,5 +1,7 @@
 # tipsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tipsy.md)
+
 <p><span class="chinese">他已经有几分醉意了。</span><span class="english">He is a bit tipsy.</span></p>
 
 <p><span class="chinese">我感觉有点微醉。</span><span class="english">I'm feeling a bit tipsy.</span></p>

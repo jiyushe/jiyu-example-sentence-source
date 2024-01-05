@@ -1,5 +1,7 @@
 # permeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permeable.md)
+
 <p><span class="chinese">我是透性膜。</span><span class="english">I am the permeable membrane.</span></p>
 
 <p><span class="chinese">它可以使血脑屏障减少渗透性。</span><span class="english">B. It can make blood. brain barrier less permeable.</span></p>

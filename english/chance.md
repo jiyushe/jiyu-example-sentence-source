@@ -1,5 +1,7 @@
 # chance 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chance.md)
+
 <p><span class="chinese">给我一个机会。</span><span class="english">Give me a chance.</span></p>
 
 <p><span class="chinese">他没有机会上场。</span><span class="english">He has no chance.</span></p>

@@ -1,5 +1,7 @@
 # hafiz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hafiz.md)
+
 <p><span class="chinese">就象哈菲兹，在爱的路上被放逐。</span><span class="english">An exile in the way Of love, like Hafiz.</span></p>
 
 <p><span class="chinese">哈菲兹·阿萨德一直坚持“大叙利亚”思想。</span><span class="english">Hafiz al-Asad was a fan of the"Great Syria"idea.</span></p>

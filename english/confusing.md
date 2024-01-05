@@ -1,5 +1,7 @@
 # confusing 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confusing.md)
+
 <p><span class="chinese">反正我是觉得很奇怪。</span><span class="english">It's very confusing now.</span></p>
 
 <p><span class="chinese">那章书可把人看糊涂了。</span><span class="english">That chapter is confusing.</span></p>

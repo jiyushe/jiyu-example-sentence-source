@@ -1,5 +1,7 @@
 # 婵娟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanjuan.md)
+
 <p><span class="chinese">但愿人长久，千里共婵娟！</span><span class="english">Life, I wish people for a long time!</span></p>
 
 <p><span class="chinese">对月诉讼世间苦，婵娟可知爱情苦。</span><span class="english">On the moon earth litigation bitter, bitter love.</span></p>

@@ -1,5 +1,7 @@
 # 租户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuhu.md)
+
 <p><span class="chinese">它是多租户的。</span><span class="english">It is multi-tenant.</span></p>
 
 <p><span class="chinese">租户放弃续租。</span><span class="english">If Lessee has signed a waiver.</span></p>

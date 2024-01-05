@@ -1,5 +1,7 @@
 # 喷嚏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penti.md)
+
 <p><span class="chinese">不要浪费了你的喷嚏。</span><span class="english">Don't waste your sneeze.</span></p>
 
 <p><span class="chinese">她打了一个很响的喷嚏。</span><span class="english">She let out a loud sneeze.</span></p>

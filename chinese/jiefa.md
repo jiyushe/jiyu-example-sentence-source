@@ -1,5 +1,7 @@
 # 揭发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiefa.md)
+
 <p><span class="chinese">比尔一定检举揭发了我们。</span><span class="english">Bill must have grassed on us.</span></p>
 
 <p><span class="chinese">我扬言要公开揭发他们。</span><span class="english">I threatened them with public exposure.</span></p>

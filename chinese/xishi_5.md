@@ -1,5 +1,7 @@
 # 西式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishi_5.md)
+
 <p><span class="chinese">他们采用西式的婚礼。</span><span class="english">They had a western wedding.</span></p>
 
 <p><span class="chinese">那给我来西式早餐吧，双份。</span><span class="english">And the western style breakfast?</span></p>

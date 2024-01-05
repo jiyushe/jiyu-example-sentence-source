@@ -1,5 +1,7 @@
 # rightfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rightfully.md)
+
 <p><span class="chinese">面向服务的系统目前大行其道，并且的确理应如此。</span><span class="english">Service-oriented systems are currently all the rage, and rightfully so.</span></p>
 
 <p><span class="chinese">但我不在乎，他们会离开，展开他们人生新篇章，理当如此。</span><span class="english">They do go off and start a new chapter in their lives and rightfully so.</span></p>

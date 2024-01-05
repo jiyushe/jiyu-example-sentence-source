@@ -1,5 +1,7 @@
 # 租借地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zujiedi.md)
+
 <p><span class="chinese">请注意所有这些知识都不在租借地点这个对象中。</span><span class="english">Notice that all of this knowledge is not in the RentalLocation object.</span></p>
 
 <p><span class="chinese">英租威海卫的性质并非“租借地”而是“割据地”。</span><span class="english">The nature of the Territory was not a lease territory, but a concession.</span></p>

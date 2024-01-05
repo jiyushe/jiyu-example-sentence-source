@@ -1,5 +1,7 @@
 # 华而不实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaerbushi.md)
+
 <p><span class="chinese">廉价珠宝是华而不实的装饰品。</span><span class="english">A bauble is a showy ornament of little value.</span></p>
 
 <p><span class="chinese">这种华而不实的风格本身就是一种委婉语。</span><span class="english">The inflated style itself is a kind of euphemism.</span></p>

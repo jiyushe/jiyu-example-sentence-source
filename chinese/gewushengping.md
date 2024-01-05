@@ -1,5 +1,7 @@
 # 歌舞升平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gewushengping.md)
+
 <p><span class="chinese">旖旎人生路，歌舞升平心。</span><span class="english">Beautiful life, dance or fair.</span></p>
 
 <p><span class="chinese">金边的夜晚一片歌舞升平的景象。</span><span class="english">A merry scene at Phnom Penh's night.</span></p>

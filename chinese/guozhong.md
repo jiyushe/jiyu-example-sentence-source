@@ -1,5 +1,7 @@
 # 过重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guozhong.md)
+
 <p><span class="chinese">你体重过重了。</span><span class="english">You are over weight.</span></p>
 
 <p><span class="chinese">何谓体重过重和肥胖症？</span><span class="english">What is overweight and obesity?</span></p>

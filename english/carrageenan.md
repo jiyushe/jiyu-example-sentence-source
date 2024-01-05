@@ -1,5 +1,7 @@
 # carrageenan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carrageenan.md)
+
 <p><span class="chinese">用角叉菜胶诱发小鼠体内血栓形成。</span><span class="english">Thrombosis was induced in mice by carrageenan.</span></p>
 
 <p><span class="chinese">只不过是冰牛奶里加了点，角叉胶，增加粘稠度。</span><span class="english">It's really just ice milk with carrageenan added for thickness.</span></p>

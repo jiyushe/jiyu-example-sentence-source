@@ -1,5 +1,7 @@
 # 繁殖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanzhi_1.md)
+
 <p><span class="chinese">母鸡的繁殖？</span><span class="english">The breed of hen?</span></p>
 
 <p><span class="chinese">它们每年繁殖两次。</span><span class="english">They breed twice yearly.</span></p>

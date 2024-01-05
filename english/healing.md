@@ -1,5 +1,7 @@
 # healing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/healing.md)
+
 <p><span class="chinese">它是疗病补药？</span><span class="english">Healing tonic?</span></p>
 
 <p><span class="chinese">宁静是疗养。</span><span class="english">Silence is healing.</span></p>

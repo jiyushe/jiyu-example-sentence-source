@@ -1,5 +1,7 @@
 # lowly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lowly.md)
+
 <p><span class="chinese">一个低贱的平民进入元老院?。</span><span class="english">A lowly pleb in the Senate?</span></p>
 
 <p><span class="chinese">夏天咬着唇，低下了头。</span><span class="english">Bites lips in summer, lowly head.</span></p>

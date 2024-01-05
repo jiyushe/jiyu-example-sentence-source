@@ -1,5 +1,7 @@
 # 眼珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhu.md)
+
 <p><span class="chinese">他的眼珠热切地转动着。</span><span class="english">His eyes goggled with eagerness.</span></p>
 
 <p><span class="chinese">留意她眼珠里的图像。</span><span class="english">So, margin the reflection in her eye.</span></p>

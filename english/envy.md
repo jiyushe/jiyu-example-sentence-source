@@ -1,5 +1,7 @@
 # envy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/envy.md)
+
 <p><span class="chinese">放纵这种妒忌心？</span><span class="english">Or this envy?</span></p>
 
 <p><span class="chinese">我好羡慕你呀！</span><span class="english">How I envy you!</span></p>

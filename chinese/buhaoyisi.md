@@ -1,5 +1,7 @@
 # 不好意思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buhaoyisi.md)
+
 <p><span class="chinese">不好意思</span><span class="english">Excuse me.</span></p>
 
 <p><span class="chinese">丹尼尔，不好意思。</span><span class="english">Daniel. I'm sorry.</span></p>

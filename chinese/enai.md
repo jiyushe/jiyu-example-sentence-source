@@ -1,5 +1,7 @@
 # 恩爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/enai.md)
+
 <p><span class="chinese">他们是一对恩爱夫妻。</span><span class="english">They're a devoted couple.</span></p>
 
 <p><span class="chinese">他们是恩爱夫妻。</span><span class="english">They are devoted husband and wife.</span></p>

@@ -1,5 +1,7 @@
 # 战船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanchuan.md)
+
 <p><span class="chinese">兵舰是非常大的战船。</span><span class="english">An "Ammiral" is a big warship.</span></p>
 
 <p><span class="chinese">所以，他把“缅因”战船派去了哈瓦那。</span><span class="english">So, he sent the battleship "Maine" to Havana.</span></p>

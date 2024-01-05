@@ -1,5 +1,7 @@
 # carp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carp.md)
+
 <p><span class="chinese">但是有点吹毛求疵了。</span><span class="english">But it is churlish to carp.</span></p>
 
 <p><span class="chinese">池子里的红鲤鱼泼剌一响。</span><span class="english">A carp splashed in the pond.</span></p>

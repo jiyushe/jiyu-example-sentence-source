@@ -1,5 +1,7 @@
 # allocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allocation.md)
+
 <p><span class="chinese">科技创新产权的分配政策。</span><span class="english">The allocation policy of STIP.</span></p>
 
 <p><span class="chinese">另一个便是配置资金。</span><span class="english">The other is capital allocation.</span></p>

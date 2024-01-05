@@ -1,5 +1,7 @@
 # 熟睡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushui.md)
+
 <p><span class="chinese">熟睡中他为我歌唱。</span><span class="english">In sleep he sang to me.</span></p>
 
 <p><span class="chinese">吾将睡去，似熟睡的孩童。</span><span class="english">I’ll sleep like a sleeping child.</span></p>

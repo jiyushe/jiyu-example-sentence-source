@@ -1,5 +1,7 @@
 # humanness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanness.md)
+
 <p><span class="chinese">具有智能化和人性化。</span><span class="english">It has the intellectualization and humanness.</span></p>
 
 <p><span class="chinese">你，没有任何的宗旨，没有任何人性。</span><span class="english">You, have no any tenet , have no any humanness.</span></p>

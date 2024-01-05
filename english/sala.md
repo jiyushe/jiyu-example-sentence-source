@@ -1,5 +1,7 @@
 # sala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sala.md)
+
 <p><span class="chinese">土族、撒拉族是青海省特有的少数民族。</span><span class="english">Tu and Sala are the extra minority of QingHai province.</span></p>
 
 <p><span class="chinese">会有大片大片的雪花洒落在我的手心。</span><span class="english">There will be large tracts of snow in the Sala my palms.</span></p>

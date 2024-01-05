@@ -1,5 +1,7 @@
 # instructive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instructive.md)
+
 <p><span class="chinese">没有哪一部电影比这一部更富有教育意义。</span><span class="english">No film is so instructive as this one.</span></p>
 
 <p><span class="chinese">交谊舞确实是很有教育意义的。</span><span class="english">You know, cotillions really are instructive.</span></p>

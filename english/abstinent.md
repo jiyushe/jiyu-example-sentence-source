@@ -1,5 +1,7 @@
 # abstinent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abstinent.md)
+
 <p><span class="chinese">热情，但有节制，就是你的风格。</span><span class="english">Enthusiastic, but abstinent , it is your style.</span></p>
 
 <p><span class="chinese">治疗期间，宜节制房事。</span><span class="english">During treatment, sexual activity should be abstinent.</span></p>

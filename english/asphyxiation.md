@@ -1,5 +1,7 @@
 # asphyxiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asphyxiation.md)
+
 <p><span class="chinese">其他人相当程度上死于窒息。</span><span class="english">The others died in part from asphyxiation.</span></p>
 
 <p><span class="chinese">窒息8分钟产生了心脏骤停没有血流5分钟。</span><span class="english">Apneic asphyxiation of 8 min yielded CA with no flow of 5 min.</span></p>

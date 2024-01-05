@@ -1,5 +1,7 @@
 # 今非昔比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinfeixibi.md)
+
 <p><span class="chinese">现在的企业今非昔比，已经移动化了，对不断兴起的移动应用更加敏感。</span><span class="english">It's mobile. It's more savvy to the emerging apps universe.</span></p>
 
 <p><span class="chinese">王星说，“他们没有认识到，目前的形势已今非昔比。</span><span class="english">They don't realize, he said, that circumstances have changed.</span></p>

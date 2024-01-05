@@ -1,5 +1,7 @@
 # amelioration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amelioration.md)
+
 <p><span class="chinese">第2部分说明应用复形法的若干改进。</span><span class="english">The amelioration of application of complex method is described.</span></p>
 
 <p><span class="chinese">本文简要介绍了设计中的改进与创新。</span><span class="english">This article has simply introduced some amelioration and inventiveness.</span></p>

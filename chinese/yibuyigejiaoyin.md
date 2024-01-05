@@ -1,5 +1,7 @@
 # 一步一个脚印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibuyigejiaoyin.md)
+
 <p><span class="chinese">你要从底层做起，一步一个脚印走向成功的顶峰。</span><span class="english">You start at the bottom and you work your way to the top.</span></p>
 
 <p><span class="chinese">梦想，可以天花乱坠，理想，是我们一步一个脚印踩出来的坎坷道路。</span><span class="english">Dream, can, ideal, is our one step a footprint on the bumpy road.</span></p>

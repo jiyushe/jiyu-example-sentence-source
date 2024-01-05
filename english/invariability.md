@@ -1,5 +1,7 @@
 # invariability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invariability.md)
+
 <p><span class="chinese">逆运动学法能保证电缆长度不变性，并满足仿真实时性要求。</span><span class="english">Inverse kinematics method can ensure invariability of cables' length and real-time simulating.</span></p>
 
 <p><span class="chinese">通过加入适量的安定性改质剂，可以获得能够安全使用的钢渣。</span><span class="english">The properties of modified slag can be improved by adding suitable amount of invariability agents.</span></p>

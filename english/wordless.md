@@ -1,5 +1,7 @@
 # wordless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wordless.md)
+
 <p><span class="chinese">这就是无字天书。</span><span class="english">This is a wordless heavenly book.</span></p>
 
 <p><span class="chinese">阿恩海姆以为绘画是一种无言的陈说。</span><span class="english">Arnheim thinks painting is a wordless statements.</span></p>

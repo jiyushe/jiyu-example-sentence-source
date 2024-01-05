@@ -1,5 +1,7 @@
 # nonproliferation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonproliferation.md)
+
 <p><span class="chinese">核裁军与核不扩散相辅相成。</span><span class="english">Nuclear disarmament and nonproliferation are mutually dependent.</span></p>
 
 <p><span class="chinese">第三，应不断完善国际防扩散体制。</span><span class="english">Third, constantly improving the international nonproliferation regime.</span></p>

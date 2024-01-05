@@ -1,5 +1,7 @@
 # anil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anil.md)
+
 <p><span class="chinese">医生阿尼尔k罗伊，纳米技术的拥有者。</span><span class="english">Dr Anil K Roy, owner of Nanotech.</span></p>
 
 <p><span class="chinese">我的名字是阿尼尔，旅行者和旅游爱好者。</span><span class="english">My name is Anil , a traveler and travel enthusiast.</span></p>

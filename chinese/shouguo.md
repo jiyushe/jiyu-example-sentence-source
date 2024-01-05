@@ -1,5 +1,7 @@
 # 瘦果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouguo.md)
+
 <p><span class="chinese">子房和瘦果身体短柔毛。</span><span class="english">Ovary and achene body pubescent.</span></p>
 
 <p><span class="chinese">瘦果身体无毛或近无毛。</span><span class="english">Achene body glabrous or subglabrous.</span></p>

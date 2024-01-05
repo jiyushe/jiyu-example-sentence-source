@@ -1,5 +1,7 @@
 # 落枕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laozhen.md)
+
 <p><span class="chinese">我似乎落枕了，脖子有些僵硬。</span><span class="english">I woke up with stiff neck.</span></p>
 
 <p><span class="chinese">按摩对落枕也同样有效。</span><span class="english">Massage is also effective for a stiff neck.</span></p>

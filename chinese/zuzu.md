@@ -1,5 +1,7 @@
 # 足足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuzu.md)
+
 <p><span class="chinese">路上足足走了2天2夜。</span><span class="english">The journey took fully two days.</span></p>
 
 <p><span class="chinese">马达连续运转了足足450天。</span><span class="english">The motor ran 450 solid days on end.</span></p>

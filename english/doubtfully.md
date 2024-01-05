@@ -1,5 +1,7 @@
 # doubtfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doubtfully.md)
+
 <p><span class="chinese">派克疑惑着眉毛拱了起来。</span><span class="english">Pike's brows arched doubtfully.</span></p>
 
 <p><span class="chinese">拉尔夫疑惑地看了看他。</span><span class="english">Ralph looked at him doubtfully.</span></p>

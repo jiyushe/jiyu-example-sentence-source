@@ -1,5 +1,7 @@
 # posting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posting.md)
+
 <p><span class="chinese">我忘了曾寄这封信的事。</span><span class="english">I forgot posting the letter.</span></p>
 
 <p><span class="chinese">我记得寄走了你的信。</span><span class="english">I remember posting your letter.</span></p>

@@ -1,5 +1,7 @@
 # 老先生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoxiansheng.md)
+
 <p><span class="chinese">那位老先生离开手杖就走不了路。</span><span class="english">The old man cannot walk without a stick.</span></p>
 
 <p><span class="chinese">那位老先生原来是一名退休的医师。</span><span class="english">The old man turned out to be a retired doctor.</span></p>

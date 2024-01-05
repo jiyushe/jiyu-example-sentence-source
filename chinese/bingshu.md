@@ -1,5 +1,7 @@
 # 兵书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingshu.md)
+
 <p><span class="chinese">第三章论述先秦兵书所体现的管理学思想。</span><span class="english">On the third hand the war had enough dialectic thought.</span></p>
 
 <p><span class="chinese">我常常抽空阅读兵书，从中得到了不少好处。</span><span class="english">Even I find time to read books on the art of war, and they've benefited me greatly.</span></p>

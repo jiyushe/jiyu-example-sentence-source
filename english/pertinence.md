@@ -1,5 +1,7 @@
 # pertinence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pertinence.md)
+
 <p><span class="chinese">教学的针对性是为教学的实效性服务的。</span><span class="english">The teaching pertinence serves the teaching validity.</span></p>
 
 <p><span class="chinese">要增强思想政治工作的针对性和实效性。</span><span class="english">Also, we should strengthen it pertinence and actual effect.</span></p>

@@ -1,5 +1,7 @@
 # 竹简
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujian_1.md)
+
 <p><span class="chinese">半册竹简，掌上世界。</span><span class="english">Half copies bamboo, palm world.</span></p>
 
 <p><span class="chinese">它也可以在竹简上进行。</span><span class="english">It can also be done on bamboo scrolls.</span></p>

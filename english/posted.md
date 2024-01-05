@@ -1,5 +1,7 @@
 # posted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posted.md)
+
 <p><span class="chinese">张贴在尉蓝里。</span><span class="english">Posted in the blue sky.</span></p>
 
 <p><span class="chinese">贴金箔是怎么贴上去的？</span><span class="english">Gilding is posted up how?</span></p>

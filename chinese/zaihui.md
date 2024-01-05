@@ -1,5 +1,7 @@
 # 再会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaihui.md)
+
 <p><span class="chinese">再会，我的朋友。</span><span class="english">Adios my friend.</span></p>
 
 <p><span class="chinese">再会北石之灵。</span><span class="english">Farewell, Spirit of the North Stone.</span></p>

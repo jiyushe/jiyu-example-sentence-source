@@ -1,5 +1,7 @@
 # 故我
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guwo.md)
+
 <p><span class="chinese">我舞故我在。</span><span class="english">I dance, therefore I am.</span></p>
 
 <p><span class="chinese">我思故我在"</span><span class="english">I think, therefore I am."</span></p>

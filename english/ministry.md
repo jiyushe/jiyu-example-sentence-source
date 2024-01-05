@@ -1,5 +1,7 @@
 # ministry 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ministry.md)
+
 <p><span class="chinese">这是口服药。</span><span class="english">This is for oral ministry.</span></p>
 
 <p><span class="chinese">我喜欢牧师的职务。领唱圣歌。</span><span class="english">I enjoy ministry. To lead a hymn.</span></p>

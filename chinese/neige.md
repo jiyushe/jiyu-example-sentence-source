@@ -1,5 +1,7 @@
 # 内阁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neige.md)
+
 <p><span class="chinese">内阁定期开会。</span><span class="english">The cabinet meets regularly.</span></p>
 
 <p><span class="chinese">内阁正在改组。</span><span class="english">The cabinet is restructuring.</span></p>

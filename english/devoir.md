@@ -1,5 +1,7 @@
 # devoir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devoir.md)
+
 <p><span class="chinese">办好了，是它的本分。</span><span class="english">Had done, it is its devoir.</span></p>
 
 <p><span class="chinese">“本分”在法语中的意思必须拥有或义务。</span><span class="english">"Devoir" in French mean must have or duty.</span></p>

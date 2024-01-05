@@ -1,5 +1,7 @@
 # 草堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caotang.md)
+
 <p><span class="chinese">我很喜欢口琴草堂。</span><span class="english">I like Harmonica University.</span></p>
 
 <p><span class="chinese">草堂的曲谱下载后怎么打开?。</span><span class="english">How to open the tabs after downloading.</span></p>

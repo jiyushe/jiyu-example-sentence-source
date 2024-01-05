@@ -1,5 +1,7 @@
 # 种草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongcao.md)
+
 <p><span class="chinese">退休后他以养花种草作为消遣。</span><span class="english">He takes up gardening after his retirement.</span></p>
 
 <p><span class="chinese">种草不让人去躺，不如改种仙人掌！</span><span class="english">Grass people not to lie, as Gaizhong cactus!</span></p>

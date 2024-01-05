@@ -1,5 +1,7 @@
 # 无病呻吟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wubingshenyin.md)
+
 <p><span class="chinese">他非常讨厌多愁善感无病呻吟。</span><span class="english">He has a strong dislike for the sentimental.</span></p>
 
 <p><span class="chinese">好吧，这是一个关于无病呻吟的故事。</span><span class="english">Well um, it's about a sickly, sentimental story.</span></p>

@@ -1,5 +1,7 @@
 # 缜密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenmi.md)
+
 <p><span class="chinese">他是一个性格内向，思维缜密的人。</span><span class="english">He was a quiet and thoughtful man.</span></p>
 
 <p><span class="chinese">首先，细节上构思的很缜密。</span><span class="english">First of all, it's very much constructed.</span></p>

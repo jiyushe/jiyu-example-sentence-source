@@ -1,5 +1,7 @@
 # founder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/founder.md)
+
 <p><span class="chinese">其创办人是刘白龙。</span><span class="english">Its founder was Liu Bailong.</span></p>
 
 <p><span class="chinese">他是大帝国的创立者。</span><span class="english">He is the founder of the empire.</span></p>

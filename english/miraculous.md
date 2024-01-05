@@ -1,5 +1,7 @@
 # miraculous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miraculous.md)
+
 <p><span class="chinese">这将是神奇的一课。</span><span class="english">This is a miraculous lesson.</span></p>
 
 <p><span class="chinese">这是一个我们可以称之为神来之笔的处理方法。</span><span class="english">It’s an act we can call miraculous.</span></p>

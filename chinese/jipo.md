@@ -1,5 +1,7 @@
 # 急迫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jipo.md)
+
 <p><span class="chinese">你需要有急迫感！</span><span class="english">You need a sense of urgency.</span></p>
 
 <p><span class="chinese">他的双臂开始急迫的挥动，他在指什么？</span><span class="english">His arms are flailing, urgent.</span></p>

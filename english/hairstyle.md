@@ -1,5 +1,7 @@
 # hairstyle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hairstyle.md)
+
 <p><span class="chinese">我喜欢你的发型。</span><span class="english">I like your hairstyle.</span></p>
 
 <p><span class="chinese">尝试一个新发型。</span><span class="english">Try out a new hairstyle.</span></p>

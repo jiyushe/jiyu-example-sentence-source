@@ -1,5 +1,7 @@
 # bolshevism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolshevism.md)
+
 <p><span class="chinese">为了这样做他们无须和布尔什维克主义决裂。</span><span class="english">To do this they had no need to break with Bolshevism.</span></p>
 
 <p><span class="chinese">考茨基与俄国和布尔什维克有着一层特殊的关系。</span><span class="english">Kautsky had a special relation to Russia and to Bolshevism.</span></p>

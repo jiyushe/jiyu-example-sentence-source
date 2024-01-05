@@ -1,5 +1,7 @@
 # 通信兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxinbing.md)
+
 <p><span class="chinese">通信兵的任务更艰巨。</span><span class="english">The tasks of communication units are more formidable.</span></p>
 
 <p><span class="chinese">这两个通信兵是哪个部队的？</span><span class="english">Which army do the two communication soldiers belong to?</span></p>

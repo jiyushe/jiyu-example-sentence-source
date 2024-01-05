@@ -1,5 +1,7 @@
 # 水兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuibing.md)
+
 <p><span class="chinese">水兵们奉命擦洗甲板。</span><span class="english">The crew were ordered to swab down the decks.</span></p>
 
 <p><span class="chinese">一艘自由轮满载着睡意蒙胧、宿醉的水兵来到。</span><span class="english">A liberty boat full of sleepy hungover sailors came.</span></p>

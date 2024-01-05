@@ -1,5 +1,7 @@
 # 赛马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saima.md)
+
 <p><span class="chinese">另一种是障碍赛马。</span><span class="english">and the show jumping.</span></p>
 
 <p><span class="chinese">那种赛马彩票还买吗？</span><span class="english">Enter for that sweepstake?</span></p>

@@ -1,5 +1,7 @@
 # 姓氏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshi_2.md)
+
 <p><span class="chinese">“范·奥曼”是一个令人费解的姓氏。</span><span class="english">The name "Van Orman" is puzzling.</span></p>
 
 <p><span class="chinese">第一个姓氏必须是父亲的姓氏。</span><span class="english">The first surname is the paternal.</span></p>

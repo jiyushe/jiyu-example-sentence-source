@@ -1,5 +1,7 @@
 # accordion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accordion.md)
+
 <p><span class="chinese">李云迪在四岁时开始学手风琴。</span><span class="english">Li Yundi the accordion the four.</span></p>
 
 <p><span class="chinese">在梯度手风琴能搅乱。</span><span class="english">Gradient accordion pleating at ruffles.</span></p>

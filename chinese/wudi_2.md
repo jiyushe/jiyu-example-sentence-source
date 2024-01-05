@@ -1,5 +1,7 @@
 # 无敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wudi_2.md)
+
 <p><span class="chinese">黄鸭与无敌铁金刚。</span><span class="english">Yellow duck and Power ranger.</span></p>
 
 <p><span class="chinese">丑类无敌的汽车杀手。</span><span class="english">Big Ugly Indestructible Car Killer.</span></p>

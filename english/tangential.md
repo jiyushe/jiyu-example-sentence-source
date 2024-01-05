@@ -1,5 +1,7 @@
 # tangential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangential.md)
+
 <p><span class="chinese">给这个单摆一个。</span><span class="english">I give this pendulum a tangential speed.</span></p>
 
 <p><span class="chinese">侧边风是切园布置直流式燃烧器中的一种辅助风。</span><span class="english">Boundary air is an auxiliary air jet in tangential firing.</span></p>

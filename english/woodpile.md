@@ -1,5 +1,7 @@
 # woodpile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodpile.md)
+
 <p><span class="chinese">有一天，我在木柴堆上发现一窝野猫仔。</span><span class="english">One day I found a litter of wild kittens in our woodpile.</span></p>
 
 <p><span class="chinese">我在木料堆里找到几捆杂草，我可以用来钻木取火。</span><span class="english">I found a bent stick in the woodpile , and I can make a drill.</span></p>

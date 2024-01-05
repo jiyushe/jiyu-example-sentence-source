@@ -1,5 +1,7 @@
 # overnight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overnight.md)
+
 <p><span class="chinese">恐惧使他隔宿变老。</span><span class="english">Fear aged him overnight.</span></p>
 
 <p><span class="chinese">我忙得通宵达旦。</span><span class="english">I was very busy overnight.</span></p>

@@ -1,5 +1,7 @@
 # 独有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duyou.md)
+
 <p><span class="chinese">缺乏独有的内容。</span><span class="english">Lack of exclusive content.</span></p>
 
 <p><span class="chinese">这就是王朔独有的气势。</span><span class="english">This is the unique charm of Wang.</span></p>

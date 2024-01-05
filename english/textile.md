@@ -1,5 +1,7 @@
 # textile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/textile.md)
+
 <p><span class="chinese">糊墙织物。</span><span class="english">Textile wall coverings.</span></p>
 
 <p><span class="chinese">他在一家轻纺公司上班。</span><span class="english">He works at a textile company.</span></p>

@@ -1,5 +1,7 @@
 # 刹车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shache.md)
+
 <p><span class="chinese">他刹车过晚。</span><span class="english">He braked late.</span></p>
 
 <p><span class="chinese">刹车油位低。</span><span class="english">Brake fluid level low.</span></p>

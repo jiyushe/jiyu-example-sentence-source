@@ -1,5 +1,7 @@
 # decided
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decided.md)
+
 <p><span class="chinese">我决定问问看。</span><span class="english">I decided to ask.</span></p>
 
 <p><span class="chinese">我已经抉择搬场了。</span><span class="english">I've decided to move.</span></p>

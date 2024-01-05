@@ -1,5 +1,7 @@
 # bentonite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bentonite.md)
+
 <p><span class="chinese">小鹰垃圾是膨润土。</span><span class="english">Kitty litter is bentonite clay.</span></p>
 
 <p><span class="chinese">另一种类型是粘土膨润土。</span><span class="english">Another type of clay is Bentonite clay.</span></p>

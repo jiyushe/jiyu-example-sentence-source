@@ -1,5 +1,7 @@
 # 牛皮纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niupizhi.md)
+
 <p><span class="chinese">多层牛皮纸袋。</span><span class="english">Multi-layer kraft paper bag.</span></p>
 
 <p><span class="chinese">内衬防潮纸、牛皮纸。</span><span class="english">Lined with Moist Proof Paper & Kraft Paper.</span></p>

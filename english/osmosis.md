@@ -1,5 +1,7 @@
 # osmosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osmosis.md)
+
 <p><span class="chinese">系列反渗透纯水设备。</span><span class="english">UPRO-V series reverse osmosis pure water equipment.</span></p>
 
 <p><span class="chinese">系列反渗透纯水设备。</span><span class="english">GCJRO-V series reverse osmosis pure water equipment.</span></p>

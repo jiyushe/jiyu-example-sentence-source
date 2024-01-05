@@ -1,5 +1,7 @@
 # worthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worthy.md)
+
 <p><span class="chinese">但是他值得成为年度人物吗？</span><span class="english">But is he worthy?</span></p>
 
 <p><span class="chinese">他面临一个强有力的敌手</span><span class="english">He had a worthy opponent.</span></p>

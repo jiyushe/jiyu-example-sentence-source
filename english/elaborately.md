@@ -1,5 +1,7 @@
 # elaborately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elaborately.md)
+
 <p><span class="chinese">他精心设计了一台新电脑。</span><span class="english">He elaborately devised a new computer.</span></p>
 
 <p><span class="chinese">在泰国，木材往往被精巧地制作成筷子。</span><span class="english">In Thailand, wood is often elaborately carved into chopsticks.</span></p>

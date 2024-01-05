@@ -1,5 +1,7 @@
 # 心猿意马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyuanyima.md)
+
 <p><span class="chinese">③哪儿都能见到心猿意马的人。</span><span class="english">Unfocused person can be seen everywhere.</span></p>
 
 <p><span class="chinese">心猿意马、头脑的习性是四处游荡。</span><span class="english">It is the nature of the mind to roam about.</span></p>

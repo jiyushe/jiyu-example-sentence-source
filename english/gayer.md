@@ -1,5 +1,7 @@
 # gayer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gayer.md)
+
 <p><span class="chinese">枫树披着华美的头巾。</span><span class="english">The maple wears a gayer scarf.</span></p>
 
 <p><span class="chinese">其实，也许，我应该说'嘎耶'。</span><span class="english">Actually, maybe, I should say ' gayer '.</span></p>

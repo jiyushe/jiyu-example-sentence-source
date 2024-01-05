@@ -1,5 +1,7 @@
 # pharisee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharisee.md)
+
 <p><span class="chinese">西门是一个心硬的法利赛人。</span><span class="english">Simon the cold heart was a Pharisee.</span></p>
 
 <p><span class="chinese">法利赛人如何想这个妇人？</span><span class="english">What was the Pharisee thinking about this woman?</span></p>

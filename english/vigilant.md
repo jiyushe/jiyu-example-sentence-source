@@ -1,5 +1,7 @@
 # vigilant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vigilant.md)
+
 <p><span class="chinese">我们必须保持高度的警惕。</span><span class="english">We have to stay vigilant.</span></p>
 
 <p><span class="chinese">我们必须时刻保持警惕。</span><span class="english">We must remain ever vigilant.</span></p>

@@ -1,5 +1,7 @@
 # 过程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guocheng.md)
+
 <p><span class="chinese">不需要开瓶停放过程。</span><span class="english">No need to decant.</span></p>
 
 <p><span class="chinese">曲奇饼成形机过程。</span><span class="english">Cookie cutter process.</span></p>

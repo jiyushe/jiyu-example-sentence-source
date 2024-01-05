@@ -1,5 +1,7 @@
 # ultramafic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultramafic.md)
+
 <p><span class="chinese">矾山岩体是一环状碱性超镁铁杂岩体。</span><span class="english">There is a kali-alkaline ultramafic complex in the Fanshan of Hebei.</span></p>
 
 <p><span class="chinese">黑云母一般是镁铁质及超镁铁质岩石中的次要成分。</span><span class="english">Biotite is a subordinate constituent of the mafic and ultramafic rocks generally.</span></p>

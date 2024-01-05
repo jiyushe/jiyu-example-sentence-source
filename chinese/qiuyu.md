@@ -1,5 +1,7 @@
 # 求雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuyu.md)
+
 <p><span class="chinese">当地人在这里求雨？</span><span class="english">Locals pray for rain here?</span></p>
 
 <p><span class="chinese">伦敦人从来不求雨。</span><span class="english">Londoners never pray for rain.</span></p>

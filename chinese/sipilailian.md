@@ -1,5 +1,7 @@
 # 死皮赖脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sipilailian.md)
+
 <p><span class="chinese">我的朋友死皮赖脸缠着我要钱！</span><span class="english">My friend dogs me for money.</span></p>
 
 <p><span class="chinese">再说，别人嫌弃我，我也不会死皮赖脸地住在这儿。</span><span class="english">And I don't stay where I'm not wanted.</span></p>

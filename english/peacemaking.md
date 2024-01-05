@@ -1,5 +1,7 @@
 # peacemaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peacemaking.md)
+
 <p><span class="chinese">当然，我们在这一地区所面临的最紧迫的挑战是调解冲突与维持和平。</span><span class="english">It is, of course, most immediately a challenge of peacemaking and peacekeeping.</span></p>
 
 <p><span class="chinese">令人们相信环保合作缔造和平有益无害将促使人们更自觉自愿对这些项目进行投资。</span><span class="english">Identifying credible peacemaking spin-offs may make people more willing to invest in these projects.</span></p>

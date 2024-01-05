@@ -1,5 +1,7 @@
 # 隶书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lishu_2.md)
+
 <p><span class="chinese">其书法四体皆能，以隶书、行草为最著。</span><span class="english">His calligraphy tetrasomic able to Lishu, most famous for Cursive.</span></p>
 
 <p><span class="chinese">可以说，中国文字系统到了隶书已经成熟。</span><span class="english">It can be said that Chinese writing reached its maturity at this time.</span></p>

@@ -1,5 +1,7 @@
 # 竹黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuhuang.md)
+
 <p><span class="chinese">目的测定真菌竹黄中过氧麦角甾醇的含量。</span><span class="english">Fungus Zhuhuang contains extremely small quantity of peroxy-ergosterol.</span></p>
 
 <p><span class="chinese">以丙酮作为提取剂，采用索氏提取法与酸碱沉淀法相结合，从竹黄中分离、纯化竹红菌甲素。</span><span class="english">Peanut protein isolate was prepared from defatted peanut powder through alkali extraction and acid precipitation.</span></p>

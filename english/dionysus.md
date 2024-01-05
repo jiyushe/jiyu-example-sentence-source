@@ -1,5 +1,7 @@
 # dionysus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dionysus.md)
+
 <p><span class="chinese">我们也习惯于称酒神狄奥尼索斯为戏剧之神。</span><span class="english">We also used to call Dionysus the god of drama.</span></p>
 
 <p><span class="chinese">要是狄俄尼索斯在世多好！他会在哪儿用餐呢？</span><span class="english">If only Dionysus were alive! Where would he eat?</span></p>

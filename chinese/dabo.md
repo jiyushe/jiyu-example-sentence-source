@@ -1,5 +1,7 @@
 # 大伯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabo.md)
+
 <p><span class="chinese">大伯，您是哪里人啊？</span><span class="english">Uncle, where are you?</span></p>
 
 <p><span class="chinese">小峰，你还记得大伯吗？</span><span class="english">Small peak, do you remember uncle?</span></p>

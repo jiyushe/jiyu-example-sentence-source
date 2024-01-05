@@ -1,5 +1,7 @@
 # involute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/involute.md)
+
 <p><span class="chinese">形状的牙齿是一个渐开线。</span><span class="english">The shape of the tooth is an involute helicoid.</span></p>
 
 <p><span class="chinese">齿的形状是一溅开线螺旋面。</span><span class="english">The shape of the tooth is an involute helicoid.</span></p>

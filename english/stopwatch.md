@@ -1,5 +1,7 @@
 # stopwatch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stopwatch.md)
+
 <p><span class="chinese">使用秒表并且设定时间。</span><span class="english">Use a stopwatch and set a limit.</span></p>
 
 <p><span class="chinese">这是个用大字体数字显示的停表软件。</span><span class="english">This is a stopwatch application with BIG NUMBERS.</span></p>

@@ -1,5 +1,7 @@
 # embedded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embedded.md)
+
 <p><span class="chinese">它可以包含嵌入的新行。</span><span class="english">It can contain embedded new lines</span></p>
 
 <p><span class="chinese">细胞被包埋在基质中。</span><span class="english">The cells were embedded in matrixes.</span></p>

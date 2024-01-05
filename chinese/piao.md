@@ -1,5 +1,7 @@
 # 皮袄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piao.md)
+
 <p><span class="chinese">他以为是一个黑皮袄就拿了起来。</span><span class="english">He thinks is a black fur-lined jacket was taken.</span></p>
 
 <p><span class="chinese">他身穿短皮袄，罩上一件丝绸里子的雅致的蓝色长身上衣。</span><span class="english">He wore a fine blue silk -lined full coat, put on over a fur pelisse.</span></p>

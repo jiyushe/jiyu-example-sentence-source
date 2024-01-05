@@ -1,5 +1,7 @@
 # caloric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caloric.md)
+
 <p><span class="chinese">没错,高热量密度</span><span class="english">Okay, the higher caloric density.</span></p>
 
 <p><span class="chinese">限制热量就是解决方案吗？</span><span class="english">Is caloric restriction the solution?</span></p>

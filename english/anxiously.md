@@ -1,5 +1,7 @@
 # anxiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anxiously.md)
+
 <p><span class="chinese">我们等得好心焦!</span><span class="english">How anxiously we waited!</span></p>
 
 <p><span class="chinese">他一脸忧虑地凝视着我的脸。</span><span class="english">His face peers anxiously into mine.</span></p>

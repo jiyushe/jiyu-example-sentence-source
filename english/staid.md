@@ -1,5 +1,7 @@
 # staid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staid.md)
+
 <p><span class="chinese">告诉她,欢乐的时光不会停步</span><span class="english">Tell her the joyous time will not be staid</span></p>
 
 <p><span class="chinese">恰恰相反，直到1997年私有化前，它一直是家古板的国有公司。</span><span class="english">Rather, it was a staid state-owned firm until it was privatised in 1997.</span></p>

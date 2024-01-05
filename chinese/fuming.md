@@ -1,5 +1,7 @@
 # 浮名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuming.md)
+
 <p><span class="chinese">她适才还说你浮名呢。</span><span class="english">A. She talked at you just now.</span></p>
 
 <p><span class="chinese">是的，浮名蛮语不能击倒你。</span><span class="english">Yes, words can't bring U down.</span></p>

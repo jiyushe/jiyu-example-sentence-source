@@ -1,5 +1,7 @@
 # 态度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taidu.md)
+
 <p><span class="chinese">这就是我的态度。</span><span class="english">That’s my attitude.</span></p>
 
 <p><span class="chinese">他是个态度傲慢的人。</span><span class="english">He is a man of mien.</span></p>

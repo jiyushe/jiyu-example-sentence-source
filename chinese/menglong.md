@@ -1,5 +1,7 @@
 # 朦胧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menglong.md)
+
 <p><span class="chinese">我现在睡意朦胧的，而且还感到很满足。</span><span class="english">I am sleepy andcontent.</span></p>
 
 <p><span class="chinese">他有一双蓝灰色的眼睛透着朦胧梦幻般的美。</span><span class="english">He had smoky grey-blue eyes.</span></p>

@@ -1,5 +1,7 @@
 # 词典
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cidian_1.md)
+
 <p><span class="chinese">百科词典。</span><span class="english">Encyclopedia.</span></p>
 
 <p><span class="chinese">请把那本词典给我。</span><span class="english">Give me the dictionary.</span></p>

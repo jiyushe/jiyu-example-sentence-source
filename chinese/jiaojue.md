@@ -1,5 +1,7 @@
 # 叫绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojue.md)
+
 <p><span class="chinese">嚏根草属植物可能是世界上最令人叫绝的神奇植物了！</span><span class="english">Hellebore is a fantastic plant!</span></p>
 
 <p><span class="chinese">可是，我们叫绝的因素存在哪里？</span><span class="english">Where is the "wow" factor, though?</span></p>

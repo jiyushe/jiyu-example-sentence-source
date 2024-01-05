@@ -1,5 +1,7 @@
 # hotelier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotelier.md)
+
 <p><span class="chinese">酒店运营商的财运常常随着整体经济而波动。</span><span class="english">Hotelier fortunes sway with the broader economy.</span></p>
 
 <p><span class="chinese">阿德里安泽乔可以说是世界顶级酒店业。</span><span class="english">Adrian Zecha is arguably the top hotelier in the world.</span></p>

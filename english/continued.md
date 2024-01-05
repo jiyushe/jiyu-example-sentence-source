@@ -1,5 +1,7 @@
 # continued
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continued.md)
+
 <p><span class="chinese">他们又继续走。</span><span class="english">They continued on.</span></p>
 
 <p><span class="chinese">诽谤案仍在继续审理。</span><span class="english">The case continued.</span></p>

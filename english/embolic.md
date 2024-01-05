@@ -1,5 +1,7 @@
 # embolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embolic.md)
+
 <p><span class="chinese">如果是一辆公车，那么这个车是血栓形成的还是栓塞形成的？…</span><span class="english">And if it is a bus, is that bus thrombotic or embolic?</span></p>
 
 <p><span class="chinese">栓塞剂主要应用无水乙醇、钢圈和明胶海绵。</span><span class="english">Embolic agents were absolute alcohol, steel ring, or gelfoam.</span></p>

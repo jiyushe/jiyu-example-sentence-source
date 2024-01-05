@@ -1,5 +1,7 @@
 # bombard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bombard.md)
+
 <p><span class="chinese">一天，路接到任务去炮击一艘油船。</span><span class="english">One day, Lou received an order to bombard a tanker.</span></p>
 
 <p><span class="chinese">广告和社会暗示鼓动消费者吃了又吃。</span><span class="english">Advertisements and social cues bombard consumers to eat.</span></p>

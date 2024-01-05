@@ -1,5 +1,7 @@
 # 无聊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuliao.md)
+
 <p><span class="chinese">他是个无聊的人。</span><span class="english">He is a nudnik.</span></p>
 
 <p><span class="chinese">慌张无聊的音乐。</span><span class="english">Sappy boring music.</span></p>

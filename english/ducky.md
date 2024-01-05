@@ -1,5 +1,7 @@
 # ducky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ducky.md)
+
 <p><span class="chinese">我的名字叫达怾。</span><span class="english">My name's Ducky.</span></p>
 
 <p><span class="chinese">这是鸭子教程的最后一步。</span><span class="english">This is the end of the ducky tutorial.</span></p>

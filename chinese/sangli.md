@@ -1,5 +1,7 @@
 # 丧礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangli.md)
+
 <p><span class="chinese">她在亡夫丧礼中十分感伤。</span><span class="english">She sobbed at her husband's funeral.</span></p>
 
 <p><span class="chinese">其余的就是丧礼和殡葬者的费用。</span><span class="english">The rest was for the ceremony and undertakers' fees.</span></p>

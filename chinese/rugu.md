@@ -1,5 +1,7 @@
 # 入股
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rugu.md)
+
 <p><span class="chinese">我还没有准备好把钱入股以上任何一家公司。</span><span class="english">I'm not ready to plunk my money into any of these.</span></p>
 
 <p><span class="chinese">三菱汽车直接入股东南汽车，给后者注入更多的活力。</span><span class="english">Mltsubishi has become a shareholder of Southeast Auto directly.</span></p>

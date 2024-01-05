@@ -1,5 +1,7 @@
 # 蟠桃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pantao_1.md)
+
 <p><span class="chinese">他进了蟠桃园尽情的吃桃子，他把天宫的房子都弄得乱七八糟。</span><span class="english">He makes a mess in each room in heaven.</span></p>
 
 <p><span class="chinese">蟠桃种在花草当中。</span><span class="english">The donut peach stands among my other plants.</span></p>

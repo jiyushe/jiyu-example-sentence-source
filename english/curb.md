@@ -1,5 +1,7 @@
 # curb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curb.md)
+
 <p><span class="chinese">路缘浅沟?。</span><span class="english">Curb ditch?</span></p>
 
 <p><span class="chinese">路缘进水口?。</span><span class="english">Curb inlet?</span></p>

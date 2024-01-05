@@ -1,5 +1,7 @@
 # 心慌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhuang.md)
+
 <p><span class="chinese">他接到这封电报时并不心慌。</span><span class="english">He was not alarmed at receiving the telegram.</span></p>
 
 <p><span class="chinese">醉酒后头晕心慌怎么处理呢？</span><span class="english">How is giddy palpitate handled after drunk wine?</span></p>

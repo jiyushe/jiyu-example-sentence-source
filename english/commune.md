@@ -1,5 +1,7 @@
 # commune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commune.md)
+
 <p><span class="chinese">那么,巴黎公社是什么呢</span><span class="english">So, what was the Paris Commune?</span></p>
 
 <p><span class="chinese">巴黎公社的原则是永存的。</span><span class="english">She wrote a book on the Paris Commune.</span></p>

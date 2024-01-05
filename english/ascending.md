@@ -1,5 +1,7 @@
 # ascending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascending.md)
+
 <p><span class="chinese">女人也是扬升之子。</span><span class="english">Yes, women, you are Ascending Sons.</span></p>
 
 <p><span class="chinese">果梗上升的或极叉开。</span><span class="english">Fruiting pedicels ascending or divaricate.</span></p>

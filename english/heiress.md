@@ -1,5 +1,7 @@
 # heiress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heiress.md)
+
 <p><span class="chinese">她是强生公司的女继承人。</span><span class="english">She's an heiress to the Johnson & Johnson fortune.</span></p>
 
 <p><span class="chinese">强盗劫持了女继承人并向她索取赎金。</span><span class="english">The robber abduct the heiress and hold her to ransom.</span></p>

@@ -1,5 +1,7 @@
 # sizzle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sizzle.md)
+
 <p><span class="chinese">该报告出炉于地球2010年持续炙热的关头。</span><span class="english">The report comes as the Earth continues to sizzle in 2010.</span></p>
 
 <p><span class="chinese">这种嘶嘶声已经形成了一种文化，紧紧的绑在我们身上。</span><span class="english">All that sizzle is a cultural artifact and a tie that binds us.</span></p>

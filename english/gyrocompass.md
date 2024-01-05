@@ -1,5 +1,7 @@
 # gyrocompass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gyrocompass.md)
+
 <p><span class="chinese">本船配备有陀螺罗经。</span><span class="english">She is equipped with a gyrocompass.</span></p>
 
 <p><span class="chinese">表示回转仪、陀螺仪或回转罗盘。</span><span class="english">Represents a gyro, gyroscope, or gyrocompass.</span></p>

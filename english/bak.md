@@ -1,5 +1,7 @@
 # bak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bak.md)
+
 <p><span class="chinese">这就是最早的肉骨茶。</span><span class="english">This is the origin of Bak Kut Teh.</span></p>
 
 <p><span class="chinese">备份文件的名称为文件名.bak。</span><span class="english">The backup file is saved with a . bak extension.</span></p>

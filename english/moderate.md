@@ -1,5 +1,7 @@
 # moderate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moderate.md)
+
 <p><span class="chinese">温和的偏南风。</span><span class="english">Moderate southerly winds.</span></p>
 
 <p><span class="chinese">这个小伙子中等个头儿。</span><span class="english">The fella has a moderate stature.</span></p>

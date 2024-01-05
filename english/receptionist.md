@@ -1,5 +1,7 @@
 # receptionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/receptionist.md)
+
 <p><span class="chinese">现在我是接待员了。</span><span class="english">I’m the receptionist now.</span></p>
 
 <p><span class="chinese">他转身面向那位接待员。</span><span class="english">He turned back to the receptionist.</span></p>

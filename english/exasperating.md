@@ -1,5 +1,7 @@
 # exasperating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exasperating.md)
+
 <p><span class="chinese">这真是气死人了。</span><span class="english">This is exasperating.</span></p>
 
 <p><span class="chinese">这是一个棘手的难题。</span><span class="english">This is an exasperating problem.</span></p>

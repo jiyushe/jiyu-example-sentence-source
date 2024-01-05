@@ -1,5 +1,7 @@
 # 停停
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingting_1.md)
+
 <p><span class="chinese">哎，停停停。怎么还有牛奶啊？</span><span class="english">Stop. How can milk be included?</span></p>
 
 <p><span class="chinese">红灯红灯，红灯亮了，停停停。</span><span class="english">Red, red, the light is red. Stop, stop, stop.</span></p>

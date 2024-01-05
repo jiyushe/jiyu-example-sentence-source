@@ -1,5 +1,7 @@
 # chain 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chain.md)
+
 <p><span class="chinese">什么样的链条？</span><span class="english">What the chain?</span></p>
 
 <p><span class="chinese">确定关键链。</span><span class="english">Identify key chain.</span></p>

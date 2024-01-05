@@ -1,5 +1,7 @@
 # 本案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benan.md)
+
 <p><span class="chinese">本案属于那种极少数案例之一。</span><span class="english">This is one of those rare cases.</span></p>
 
 <p><span class="chinese">判令被上诉人承担本案诉讼费用。</span><span class="english">To order the cost to be borne by the Appelle.</span></p>

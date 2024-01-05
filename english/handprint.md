@@ -1,5 +1,7 @@
 # handprint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handprint.md)
+
 <p><span class="chinese">我把手印印在卡片上。</span><span class="english">I sign the card with my handprint.</span></p>
 
 <p><span class="chinese">我想到了另外一个主意。我把手印印在卡片上。</span><span class="english">I get another idea. I sign the card with my handprint.</span></p>

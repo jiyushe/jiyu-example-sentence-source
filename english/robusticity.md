@@ -1,5 +1,7 @@
 # robusticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/robusticity.md)
+
 <p><span class="chinese">系统具有准确性、智能性和鲁棒性。</span><span class="english">This system has high accuracy, intelligence and robusticity.</span></p>
 
 <p><span class="chinese">通过人脸跟踪结果表明，该方法对背景干扰具有很强的鲁棒性。</span><span class="english">Moreover, the method is of strong robusticity on background disturbance.</span></p>

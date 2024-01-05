@@ -1,5 +1,7 @@
 # gumshoe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gumshoe.md)
+
 <p><span class="chinese">广州一名资深刑警表示。</span><span class="english">A senior gumshoe of Guangzhou expresses.</span></p>
 
 <p><span class="chinese">悄悄走过去给他来个措手不及。</span><span class="english">Gumshoe came to him in the past unaware.</span></p>

@@ -1,5 +1,7 @@
 # riffraff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riffraff.md)
+
 <p><span class="chinese">工人们私下议论，男主一点儿不像农场的少爷，反到像是地痞无赖。</span><span class="english">Workers are grumblers, men dont like farm master, to like riffraff.</span></p>
 
 <p><span class="chinese">没有人告诉过你一个人通过那段路是很危险的吗？</span><span class="english">Haven't you been told it's dangerous to drive alone through all that riffraff ?</span></p>

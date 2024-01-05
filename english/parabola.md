@@ -1,5 +1,7 @@
 # parabola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parabola.md)
+
 <p><span class="chinese">这就是一个抛物线方程。</span><span class="english">That is a parabola.</span></p>
 
 <p><span class="chinese">这就是那个抛物面，它是开口向上的。</span><span class="english">It is this parabola and is pointing up.</span></p>

@@ -1,5 +1,7 @@
 # kerry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kerry.md)
+
 <p><span class="chinese">克瑞．怀特与杰逊·埃德嘉刚刚完婚。</span><span class="english">JUST married were Kerry White and Jason Edgar.</span></p>
 
 <p><span class="chinese">嗨，请问你能带我去嘉里中心吗？</span><span class="english">Hi, Could you take me to the Kerry Center please?</span></p>

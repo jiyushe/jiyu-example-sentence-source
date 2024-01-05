@@ -1,5 +1,7 @@
 # 没治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meizhi_1.md)
+
 <p><span class="chinese">这顿饭简直是没治了。</span><span class="english">The meal was out of this world.</span></p>
 
 <p><span class="chinese">我的芳华痘是没治了。</span><span class="english">There is no cure for my pimples.</span></p>

@@ -1,5 +1,7 @@
 # 海区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiqu.md)
+
 <p><span class="chinese">深海区可能也同样处于这种缺氧状态。</span><span class="english">Deep waters are more likely to remain hypoxic.</span></p>
 
 <p><span class="chinese">汕头市澄海区智多星玩具礼品有限公司。</span><span class="english">Vincent Scholar's Toys Gifts Manufacturing Co. , Ltd.</span></p>

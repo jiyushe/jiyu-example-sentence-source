@@ -1,5 +1,7 @@
 # lozenge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lozenge.md)
+
 <p><span class="chinese">我用的石头更多的是菱形。</span><span class="english">Mine are more lozenge shaped.</span></p>
 
 <p><span class="chinese">用胡椒薄荷油调味的糖果。</span><span class="english">A candy or lozenge flavored with this oil.</span></p>

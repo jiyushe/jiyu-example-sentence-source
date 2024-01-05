@@ -1,5 +1,7 @@
 # homonymy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homonymy.md)
+
 <p><span class="chinese">两者之间的关系是同名。</span><span class="english">The relation between the two is homonymy.</span></p>
 
 <p><span class="chinese">这部电影是根据同名故事拍摄的。</span><span class="english">This film was made based on the homonymy novel.</span></p>

@@ -1,5 +1,7 @@
 # unrest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrest.md)
+
 <p><span class="chinese">缺乏自由则会产生社会动荡。</span><span class="english">And in its absence, unrest festers.</span></p>
 
 <p><span class="chinese">2010年会是社会动荡不安的一年吗？</span><span class="english">Will 2010 be a year of social unrest?</span></p>

@@ -1,5 +1,7 @@
 # 肩膀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianbang.md)
+
 <p><span class="chinese">他的肩膀变得僵硬了。</span><span class="english">His shoulder stiffens.</span></p>
 
 <p><span class="chinese">臂力刚强的巨大肩膀。</span><span class="english">City of the Big Shoulders.</span></p>

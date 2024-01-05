@@ -1,5 +1,7 @@
 # 大政方针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazhengfangzhen.md)
+
 <p><span class="chinese">美国联邦储备委员会今天发表了其最新的大政方针报告。</span><span class="english">The Federal Reserve put out its latest big policy statement today.</span></p>
 
 <p><span class="chinese">民族不同并不会在大政方针上造成太大不同。</span><span class="english">The different ethnicity would not cause grand policy to be supremely different.</span></p>

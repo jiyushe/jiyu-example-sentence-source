@@ -1,5 +1,7 @@
 # anticlimactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticlimactic.md)
+
 <p><span class="chinese">电影非常令人沮丧而且还虎头蛇尾的。</span><span class="english">It's just very depressing and anticlimactic.</span></p>
 
 <p><span class="chinese">电影的结局真没劲。</span><span class="english">The conclusion of the movie was anticlimactic.</span></p>

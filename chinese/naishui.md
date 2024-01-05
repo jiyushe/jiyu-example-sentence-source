@@ -1,5 +1,7 @@
 # 奶水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naishui.md)
+
 <p><span class="chinese">奶水可以赚钱吗？</span><span class="english">Milk can you make money?</span></p>
 
 <p><span class="chinese">有一天，贝琪没有奶水了。</span><span class="english">One day, Betsy has no milk.</span></p>

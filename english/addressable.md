@@ -1,5 +1,7 @@
 # addressable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addressable.md)
+
 <p><span class="chinese">我们在后面会谈到可寻址内存。</span><span class="english">We will talk about addressable memory later.</span></p>
 
 <p><span class="chinese">从外部页面只能定址页面的第一个表单。</span><span class="english">Only the first form of a page is addressable from an external page.</span></p>

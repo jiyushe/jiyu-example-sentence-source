@@ -1,5 +1,7 @@
 # disc 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disc.md)
+
 <p><span class="chinese">这是一张唱片吗？</span><span class="english">Is this a disc?</span></p>
 
 <p><span class="chinese">这是一张唱片。</span><span class="english">This is a disc.</span></p>

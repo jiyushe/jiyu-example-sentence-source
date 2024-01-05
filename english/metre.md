@@ -1,5 +1,7 @@
 # metre 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metre.md)
+
 <p><span class="chinese">公尺是长度单位。</span><span class="english">The metre is a unit of length.</span></p>
 
 <p><span class="chinese">米是长度的计量制度。</span><span class="english">A metre is a measure of length.</span></p>

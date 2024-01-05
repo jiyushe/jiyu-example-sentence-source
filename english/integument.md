@@ -1,5 +1,7 @@
 # integument
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/integument.md)
+
 <p><span class="chinese">珠孔由内珠被形成。</span><span class="english">The micropyle was formed by the inner integument.</span></p>
 
 <p><span class="chinese">珠被生长较快，并逐渐包围珠心。</span><span class="english">The integument grew fast and overgrew the nucellus.</span></p>

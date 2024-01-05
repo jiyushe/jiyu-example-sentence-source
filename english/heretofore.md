@@ -1,5 +1,7 @@
 # heretofore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heretofore.md)
+
 <p><span class="chinese">此外，他们开始提到的信仰，其中有迄今为止了不起的沉默。</span><span class="english">Besides, they begin to mention faith, of which there was heretofore marvelous silence.</span></p>
 
 <p><span class="chinese">目前为止国内外尚未见到有关大鼠肝细胞外向钾电流方面的报道。</span><span class="english">Heretofore no reports are available on the outward potassium currents in rat hepatocytes.</span></p>

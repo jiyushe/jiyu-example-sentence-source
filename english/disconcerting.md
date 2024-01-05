@@ -1,5 +1,7 @@
 # disconcerting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disconcerting.md)
+
 <p><span class="chinese">睡眠进食只是令人不安吗？</span><span class="english">Just as disconcerting?Sleep-eating.</span></p>
 
 <p><span class="chinese">起初，你会觉得这样令人惊惶不安。</span><span class="english">You may find this disconcerting at first.</span></p>

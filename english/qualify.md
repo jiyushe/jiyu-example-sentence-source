@@ -1,5 +1,7 @@
 # qualify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qualify.md)
+
 <p><span class="chinese">我们都有资格。</span><span class="english">All of us qualify.</span></p>
 
 <p><span class="chinese">但首先他必须取得参赛资格。</span><span class="english">But he has to qualify first. The U.</span></p>

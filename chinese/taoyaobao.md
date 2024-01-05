@@ -1,5 +1,7 @@
 # 掏腰包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoyaobao.md)
+
 <p><span class="chinese">那么继承人需要自己掏腰包支付吗？</span><span class="english">Do the heirs have to pay this out of pocket?</span></p>
 
 <p><span class="chinese">更有利的是许多客户都是自掏腰包支付费用。</span><span class="english">Better yet, a lot of customers pay out of pocket.</span></p>

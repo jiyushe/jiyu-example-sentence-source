@@ -1,5 +1,7 @@
 # courant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courant.md)
+
 <p><span class="chinese">每隔几年，公共政策领域的新问题就会引起作家们的关注。</span><span class="english">Every few years a new public policy issue becomes au courant for authors.</span></p>
 
 <p><span class="chinese">这是我在美洲出现的第二个报纸，名曰「新英格兰新闻」。</span><span class="english">It was the second that appeared in America, and was called the New England Courant.</span></p>

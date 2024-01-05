@@ -1,5 +1,7 @@
 # 勘查
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanzha.md)
+
 <p><span class="chinese">该方法在某地质勘查项目定点实验中取得成功。</span><span class="english">We got success at a tr ial of some geological item.</span></p>
 
 <p><span class="chinese">第二天一早直奔抚顺基督教堂进行现场勘查。</span><span class="english">However, acters doing it, you'd earn 400 gold a day.</span></p>

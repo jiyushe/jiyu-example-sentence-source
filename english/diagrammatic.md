@@ -1,5 +1,7 @@
 # diagrammatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diagrammatic.md)
+
 <p><span class="chinese">对地球表面的图形表示。</span><span class="english">A diagrammatic representation of the earth's surface.</span></p>
 
 <p><span class="chinese">语言中的拟象象似性主要反映在句法象似性上。</span><span class="english">Diagrammatic iconicity in language is mainly reflected in syntactic iconicity.</span></p>

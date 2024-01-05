@@ -1,5 +1,7 @@
 # 水潭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuitan.md)
+
 <p><span class="chinese">我想，回到水潭里就行了。</span><span class="english">Go back into the pool, I expect.</span></p>
 
 <p><span class="chinese">他饥渴地喝着岩石下水潭中的水。</span><span class="english">He drank thirstily from the pool under the rock.</span></p>

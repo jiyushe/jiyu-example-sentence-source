@@ -1,5 +1,7 @@
 # uncertain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncertain.md)
+
 <p><span class="chinese">但是他的预后诊断并不确定。</span><span class="english">But his prognosis was uncertain.</span></p>
 
 <p><span class="chinese">欧洲市场情况不明。</span><span class="english">The European market is uncertain.</span></p>

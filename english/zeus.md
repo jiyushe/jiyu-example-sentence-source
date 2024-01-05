@@ -1,5 +1,7 @@
 # zeus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zeus.md)
+
 <p><span class="chinese">宙斯是克洛诺斯之子。</span><span class="english">Kronos is the son of Zeus.</span></p>
 
 <p><span class="chinese">宙斯是克洛诺斯之子。</span><span class="english">Zeus is the son of Cronus.</span></p>

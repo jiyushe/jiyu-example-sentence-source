@@ -1,5 +1,7 @@
 # sunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunk.md)
+
 <p><span class="chinese">冷彻我的眉睫。</span><span class="english">Sunk chill on my brow.</span></p>
 
 <p><span class="chinese">往下沉的轮船沉没了。</span><span class="english">The sinking steamer sunk.</span></p>

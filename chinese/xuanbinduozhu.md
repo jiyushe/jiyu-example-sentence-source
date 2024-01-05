@@ -1,5 +1,7 @@
 # 喧宾夺主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanbinduozhu.md)
+
 <p><span class="chinese">简直是喧宾夺主。</span><span class="english">Is simply unoriginal.</span></p>
 
 <p><span class="chinese">过于华丽的装饰往往会喧宾夺主。</span><span class="english">Too luxuriant decoration usually supersedes what really counts.</span></p>

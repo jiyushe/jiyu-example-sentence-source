@@ -1,5 +1,7 @@
 # bagasse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bagasse.md)
+
 <p><span class="chinese">并指出研发改性蔗渣具有良好的应用前景，值得在此领域进行深入的研究。</span><span class="english">It was pointed out that the study of modified bagasse had good development trend.</span></p>
 
 <p><span class="chinese">通过对甘蔗渣液化反应的研究，以探索一种甘蔗渣新的利用方法。</span><span class="english">The liquefaction of bagasse was studied in order to explore a new way for its use.</span></p>

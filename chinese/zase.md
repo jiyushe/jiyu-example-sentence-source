@@ -1,5 +1,7 @@
 # 杂色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zase.md)
+
 <p><span class="chinese">杂色的犬都会被淘汰出竞赛。</span><span class="english">Parti-colored dogs shall be disqualified.</span></p>
 
 <p><span class="chinese">地被植物，如常青藤、长春蔓、富贵草、杂色菊等。</span><span class="english">Groundcover such as ivy, vinca, pachysandra, gazania, etc.</span></p>

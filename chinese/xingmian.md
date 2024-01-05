@@ -1,5 +1,7 @@
 # 幸免
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingmian.md)
+
 <p><span class="chinese">我能幸免于死吗</span><span class="english">Do I survive my death?</span></p>
 
 <p><span class="chinese">我能从死亡中幸免吗</span><span class="english">Will I survive my death?</span></p>

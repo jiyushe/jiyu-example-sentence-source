@@ -1,5 +1,7 @@
 # chicken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chicken.md)
+
 <p><span class="chinese">鸡肋！</span><span class="english">Chicken ribs.</span></p>
 
 <p><span class="chinese">他是个胆小鬼。</span><span class="english">He is a chicken.</span></p>

@@ -1,5 +1,7 @@
 # bunch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bunch.md)
+
 <p><span class="chinese">好一群懒虫。</span><span class="english">What a bunch of slackers.</span></p>
 
 <p><span class="chinese">真是群爱哭鬼。</span><span class="english">What bunch of cry babies.</span></p>

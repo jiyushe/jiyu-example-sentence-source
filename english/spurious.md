@@ -1,5 +1,7 @@
 # spurious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spurious.md)
+
 <p><span class="chinese">威廉斯插入了许多伪造的素材。</span><span class="english">Williams interpolated much spurious matter.</span></p>
 
 <p><span class="chinese">在任何科学领域，少量的样本会带来不可靠的结果。</span><span class="english">In any field of science, small samples lead to spurious results.</span></p>

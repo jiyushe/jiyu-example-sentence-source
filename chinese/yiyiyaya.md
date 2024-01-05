@@ -1,5 +1,7 @@
 # 咿咿呀呀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyiyaya.md)
+
 <p><span class="chinese">她跟他咿咿呀呀地说了几句话。</span><span class="english">She babbled a few words to him.</span></p>
 
 <p><span class="chinese">这些声响仍然在近处咿咿呀呀。</span><span class="english">And still those voices are calling from far away.</span></p>

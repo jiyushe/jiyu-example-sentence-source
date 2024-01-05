@@ -1,5 +1,7 @@
 # individuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/individuation.md)
+
 <p><span class="chinese">如此一来，个性化就不再是问题了。</span><span class="english">Come so, individuation is a problem no longer.</span></p>
 
 <p><span class="chinese">今天在互联网上流行个性化定制。</span><span class="english">Popular on Internet individuation is custom-built today.</span></p>

@@ -1,5 +1,7 @@
 # alkyd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alkyd.md)
+
 <p><span class="chinese">也适合用于已刷过醇酸漆的表面。</span><span class="english">Also suitable for alkyd surface has been brushed.</span></p>
 
 <p><span class="chinese">采用后苯乙烯化方法合成苯乙烯改性醇酸树脂。</span><span class="english">The alkyd was styrened using a post styrenation process.</span></p>

@@ -1,5 +1,7 @@
 # hallow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hallow.md)
+
 <p><span class="chinese">他们把水牛视为神圣。</span><span class="english">They hallow the buffalo.</span></p>
 
 <p><span class="chinese">学会把我们所有即将站上或躺下的土地视为神圣。</span><span class="english">Learn to hallow whatever ground we happen to stand on or land on.</span></p>

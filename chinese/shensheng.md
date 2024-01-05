@@ -1,5 +1,7 @@
 # 神圣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shensheng.md)
+
 <p><span class="chinese">神圣的霍格沃兹啊！</span><span class="english">Holy Hogwarts!</span></p>
 
 <p><span class="chinese">进到神圣的自我！</span><span class="english">Into the Divine Self!</span></p>

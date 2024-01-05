@@ -1,5 +1,7 @@
 # olympus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olympus.md)
+
 <p><span class="chinese">最大的火山是奥林匹斯火山。</span><span class="english">The biggest volcano is Olympus Mons.</span></p>
 
 <p><span class="chinese">从宽广的大地飞向奥林匹斯山。</span><span class="english">Up to Olympus from the wide-spread earth.</span></p>

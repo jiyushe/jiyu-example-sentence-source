@@ -1,5 +1,7 @@
 # earmark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earmark.md)
+
 <p><span class="chinese">我将为你的研究指拨一笔款项。</span><span class="english">I will earmark this money for your research.</span></p>
 
 <p><span class="chinese">谁在和浪费的拨款项目花销作斗争？</span><span class="english">Who fought against wasteful and earmark spending?</span></p>

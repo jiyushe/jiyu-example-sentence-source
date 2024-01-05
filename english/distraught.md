@@ -1,5 +1,7 @@
 # distraught
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distraught.md)
+
 <p><span class="chinese">她安慰着心烦意乱的泰瑞。</span><span class="english">Nina consoles the distraught Teri.</span></p>
 
 <p><span class="chinese">我们真的觉得很忧心如焚最近。</span><span class="english">We really feel very distraught recently.</span></p>

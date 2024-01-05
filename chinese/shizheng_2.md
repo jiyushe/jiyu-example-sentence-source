@@ -1,5 +1,7 @@
 # 施政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizheng_2.md)
+
 <p><span class="chinese">所有邻国都必须改变他们的施政基本原则。</span><span class="english">All neighbor states must revise their policy fundaments.</span></p>
 
 <p><span class="chinese">董建华将在施政报告中透露更多详情。</span><span class="english">Mr Tung will disclose more details in his policy address.</span></p>

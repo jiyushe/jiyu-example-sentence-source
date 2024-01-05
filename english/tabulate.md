@@ -1,5 +1,7 @@
 # tabulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tabulate.md)
+
 <p><span class="chinese">请把那些数字按顺序制成表。</span><span class="english">Please tabulate the numbers in order.</span></p>
 
 <p><span class="chinese">让我将结果列表如下。</span><span class="english">Let me tabulate the results as follows.</span></p>

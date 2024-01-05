@@ -1,5 +1,7 @@
 # appropriation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appropriation.md)
+
 <p><span class="chinese">在创造性实践中灵活运用新知识的能力。</span><span class="english">The appropriation of new knowledge through creativity.</span></p>
 
 <p><span class="chinese">抄袭就是不正当的盗用别人的成果。</span><span class="english">Plagiarism is the wrongful appropriation or purloining.</span></p>

@@ -1,5 +1,7 @@
 # formulae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formulae.md)
+
 <p><span class="chinese">本文提出了双点后方交会的一种解法。</span><span class="english">The formulae of double-points resection are derived in the paper.</span></p>
 
 <p><span class="chinese">推导了此类无阀压电泵的流量计算公式及效率公式。</span><span class="english">Some formulae for volume flow and efficiency of the pump are derived.</span></p>

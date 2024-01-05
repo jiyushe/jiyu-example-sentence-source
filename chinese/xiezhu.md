@@ -1,5 +1,7 @@
 # 协助
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezhu.md)
+
 <p><span class="chinese">那好吧，我协助你。</span><span class="english">Well, I help you.</span></p>
 
 <p><span class="chinese">需要我的协助吗？</span><span class="english">You require my a istance?</span></p>

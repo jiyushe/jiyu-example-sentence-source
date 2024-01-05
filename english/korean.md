@@ -1,5 +1,7 @@
 # korean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/korean.md)
+
 <p><span class="chinese">我最喜欢吃韩国菜了。</span><span class="english">I love Korean food.</span></p>
 
 <p><span class="chinese">他的朝鲜语学得不错。</span><span class="english">He is good at Korean.</span></p>

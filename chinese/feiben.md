@@ -1,5 +1,7 @@
 # 飞奔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiben.md)
+
 <p><span class="chinese">她飞奔上台阶。</span><span class="english">She flew up the steps.</span></p>
 
 <p><span class="chinese">马飞奔而去。</span><span class="english">The horse galloped away.</span></p>

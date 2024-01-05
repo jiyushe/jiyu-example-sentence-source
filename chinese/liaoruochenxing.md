@@ -1,5 +1,7 @@
 # 寥若晨星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoruochenxing.md)
+
 <p><span class="chinese">至于学术界中专门研究贿赂犯罪罪种体系的著述和学术论文更是寥若晨星。</span><span class="english">There are few monographs about the system of the crime types of bribery.</span></p>
 
 <p><span class="chinese">国人工作能开拓一领域，或指出一重要方向者，寥若晨星。</span><span class="english">There are not much Chinese papers that may pioneer a subject or direction of importance.</span></p>

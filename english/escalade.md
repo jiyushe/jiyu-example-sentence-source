@@ -1,5 +1,7 @@
 # escalade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escalade.md)
+
 <p><span class="chinese">现在，他开上了凯迪拉克，还在奥提斯克湖边买了避暑别墅。</span><span class="english">Now he’s got an Escalade and a summer house on Otissic Lake.</span></p>
 
 <p><span class="chinese">绘制凯迪拉克需要注意的小细节。</span><span class="english">Drawing a Cadillac Escalade requires attention to small details.</span></p>

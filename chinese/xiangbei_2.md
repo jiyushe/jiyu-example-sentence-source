@@ -1,5 +1,7 @@
 # 项背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangbei_2.md)
+
 <p><span class="chinese">敢问还有多少企业能望其项背？</span><span class="english">How many other companies can say that?</span></p>
 
 <p><span class="chinese">亚马逊能提供大量附加资源，在这点上，巴诺难以望其项背。</span><span class="english">Amazon brings a lot of extras to the table that Barnes &Noble simply can't.</span></p>

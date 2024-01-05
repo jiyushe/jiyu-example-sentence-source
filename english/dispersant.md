@@ -1,5 +1,7 @@
 # dispersant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispersant.md)
+
 <p><span class="chinese">独特的清净分散剂和抗氧化剂。</span><span class="english">Unique peace and quiet dispersant and antioxidant.</span></p>
 
 <p><span class="chinese">通过加入分散剂的方法改善乙醇汽油的稳定性。</span><span class="english">To improving the gasohol's stability, dispersant was added.</span></p>

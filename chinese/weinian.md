@@ -1,5 +1,7 @@
 # 萎蔫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weinian.md)
+
 <p><span class="chinese">干燥的培养基易导致原球茎及幼苗萎蔫、褐化。</span><span class="english">Dry medium led protocorms and seedlings to shrink and die.</span></p>
 
 <p><span class="chinese">空气湿度过高或过低都容易使移栽苗萎蔫。</span><span class="english">Higher or lower air humidity is prone to make transplanted plants wither.</span></p>

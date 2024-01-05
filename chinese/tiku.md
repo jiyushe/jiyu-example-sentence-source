@@ -1,5 +1,7 @@
 # 啼哭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiku.md)
+
 <p><span class="chinese">这是婴儿的啼哭声吗？</span><span class="english">Is this the baby crying?</span></p>
 
 <p><span class="chinese">妈妈！”她啼哭着。“爸爸！”</span><span class="english">Mama!" she wails. "Dada!"</span></p>

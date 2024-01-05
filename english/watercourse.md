@@ -1,5 +1,7 @@
 # watercourse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watercourse.md)
+
 <p><span class="chinese">这条河的河道曲折，汊流众多。</span><span class="english">This river has a zigzagging watercourse and many branches.</span></p>
 
 <p><span class="chinese">因此了解河道植被对水流的影响成为人们日益关注的问题。</span><span class="english">So men have high attention on the vegetation in watercourse now.</span></p>

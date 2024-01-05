@@ -1,5 +1,7 @@
 # butyric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butyric.md)
+
 <p><span class="chinese">我要一大堆爆米花，是奶油味的。</span><span class="english">I want one pile popcorn, be butyric flavor.</span></p>
 
 <p><span class="chinese">丁酸甘油酯，甘油，乳酸和二氧化硅。</span><span class="english">Butyric Acid Glycerides, Glycerol, Lactic Acid and Silicon Dioxide.</span></p>

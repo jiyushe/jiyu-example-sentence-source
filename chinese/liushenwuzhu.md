@@ -1,5 +1,7 @@
 # 六神无主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liushenwuzhu.md)
+
 <p><span class="chinese">我都六神无主了。</span><span class="english">I got so scared.</span></p>
 
 <p><span class="chinese">因此，斯洛普先生离开她的时候感到六神无主。</span><span class="english">Mr. Slope had thus left her quite bewildered.</span></p>

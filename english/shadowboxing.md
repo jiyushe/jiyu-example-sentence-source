@@ -1,5 +1,7 @@
 # shadowboxing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shadowboxing.md)
+
 <p><span class="chinese">打太极拳的好处是很多。</span><span class="english">Shadowboxing is good for many things.</span></p>
 
 <p><span class="chinese">我打太极拳，有时我也看足球。</span><span class="english">I play shadowboxing , sometimes football too.</span></p>

@@ -1,5 +1,7 @@
 # francine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/francine.md)
+
 <p><span class="chinese">一个机器人抓住了弗朗辛。</span><span class="english">One of them robots got Francine.</span></p>
 
 <p><span class="chinese">弗朗辛说，“这本书，你欠我的。”</span><span class="english">Francine said, "You owed me that book."</span></p>

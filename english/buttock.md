@@ -1,5 +1,7 @@
 # buttock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buttock.md)
+
 <p><span class="chinese">他扭扭屁股。</span><span class="english">He tweaks his buttock.</span></p>
 
 <p><span class="chinese">腹部腰部臀部放松。</span><span class="english">Relax your belly, waist, buttock.</span></p>

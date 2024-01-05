@@ -1,5 +1,7 @@
 # carpathian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carpathian.md)
+
 <p><span class="chinese">蓝色多瑙河、喀尔巴阡山和黑海。</span><span class="english">The Blue Danube, the Carpathian Mountains and the Black Sea.</span></p>
 
 <p><span class="chinese">于是，再一次地，我又想起了来自喀尔巴阡山脉的犹太男孩。</span><span class="english">And so, once again, I think of the young Jewish boy from the Carpathian Mountains.</span></p>

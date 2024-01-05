@@ -1,5 +1,7 @@
 # 生事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshi_2.md)
+
 <p><span class="chinese">是谁生事？</span><span class="english">Who is talk?</span></p>
 
 <p><span class="chinese">和平的游行示威突然变成了一场狂暴的聚众生事。</span><span class="english">The peaceful demonstration suddenly became an angry mob.</span></p>

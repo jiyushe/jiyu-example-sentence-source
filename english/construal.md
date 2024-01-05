@@ -1,5 +1,7 @@
 # construal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/construal.md)
+
 <p><span class="chinese">换句话说，意思是对文本的解释。</span><span class="english">In other words, meaning is construal.</span></p>
 
 <p><span class="chinese">而意义是把这个解释应用到某个方面而得出来的。</span><span class="english">Significance is the application of that construal to something.</span></p>

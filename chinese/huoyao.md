@@ -1,5 +1,7 @@
 # 火药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoyao.md)
+
 <p><span class="chinese">潮湿的火药不会起火。</span><span class="english">Damp gunpowder will not fire.</span></p>
 
 <p><span class="chinese">新疆是个少数民族问题的火药箱。</span><span class="english">Xijiang is an ethnic tinder-box.</span></p>

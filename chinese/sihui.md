@@ -1,5 +1,7 @@
 # 撕毁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihui.md)
+
 <p><span class="chinese">你撕毁了我画的马！</span><span class="english">You tore up the horse i drew!</span></p>
 
 <p><span class="chinese">他们不久就撕毁了贸易协定。</span><span class="english">They soon tore up the trade agreement.</span></p>

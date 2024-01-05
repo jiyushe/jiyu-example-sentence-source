@@ -1,5 +1,7 @@
 # hia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hia.md)
+
 <p><span class="chinese">他脸上的表情显示他在生气。</span><span class="english">The expression on his face betrays hia anger.</span></p>
 
 <p><span class="chinese">他的病况一定会影响工作。</span><span class="english">His health condition is bound to affect hia work.</span></p>

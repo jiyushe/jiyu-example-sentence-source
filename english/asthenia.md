@@ -1,5 +1,7 @@
 # asthenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asthenia.md)
+
 <p><span class="chinese">结论畸形复发是由于腓骨肌持续无力造成的。</span><span class="english">Conclusion Deformity recurrence results from persistent asthenia of fibular muscles.</span></p>
 
 <p><span class="chinese">肾精亏虚是老年人主要的生理病理特点。</span><span class="english">Kidney asthenia is the main physiologic and pathologic characteristics of the elder.</span></p>

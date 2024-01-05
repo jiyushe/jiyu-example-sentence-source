@@ -1,5 +1,7 @@
 # 官僚主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanliaozhuyi.md)
+
 <p><span class="chinese">对于官僚主义，群众是不买帐的。</span><span class="english">The masses won't go for bureaucracy.</span></p>
 
 <p><span class="chinese">形式主义也是官僚主义。</span><span class="english">Formalism is a kind of bureaucratism.</span></p>

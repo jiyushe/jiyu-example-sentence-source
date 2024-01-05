@@ -1,5 +1,7 @@
 # punk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punk.md)
+
 <p><span class="chinese">他是个朋克。</span><span class="english">He was a punk.</span></p>
 
 <p><span class="chinese">你是个小流氓。</span><span class="english">You're a punk.</span></p>

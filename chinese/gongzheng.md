@@ -1,5 +1,7 @@
 # 公正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzheng.md)
+
 <p><span class="chinese">这是公正的。</span><span class="english">That is just.</span></p>
 
 <p><span class="chinese">你必须公正处事。</span><span class="english">You must playfair.</span></p>

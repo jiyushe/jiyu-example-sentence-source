@@ -1,5 +1,7 @@
 # 详细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxi_1.md)
+
 <p><span class="chinese">这个计划非常详细。</span><span class="english">That was very detailed.</span></p>
 
 <p><span class="chinese">他详细论述了这个问题。</span><span class="english">He -fied on the subject.</span></p>

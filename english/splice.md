@@ -1,5 +1,7 @@
 # splice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splice.md)
+
 <p><span class="chinese">顺便说一下，这是所谓的“逗号剪接。</span><span class="english">By the way, that's called a comma splice.</span></p>
 
 <p><span class="chinese">维修接头端子或电线熔接处。</span><span class="english">Repair connector terminal or wire splice.</span></p>

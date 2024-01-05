@@ -1,5 +1,7 @@
 # 区划
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quhua.md)
+
 <p><span class="chinese">其次，为甘肃公路自然区划提供基础图件。</span><span class="english">Secondly, provide the basic photograph for natural subside.</span></p>
 
 <p><span class="chinese">然而，这来未粘住的以机械的地面区划看来。</span><span class="english">However, this came unstuck considering the mechanical layout.</span></p>

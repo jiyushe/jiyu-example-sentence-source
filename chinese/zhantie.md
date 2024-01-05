@@ -1,5 +1,7 @@
 # 粘贴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhantie.md)
+
 <p><span class="chinese">只需要拷贝和粘贴。</span><span class="english">Just copy and paste.</span></p>
 
 <p><span class="chinese">什么是芝麻酱粘贴？。</span><span class="english">What is Tahini Paste?</span></p>

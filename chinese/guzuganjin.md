@@ -1,5 +1,7 @@
 # 鼓足干劲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzuganjin.md)
+
 <p><span class="chinese">下一班装货将鼓足干劲。</span><span class="english">The loading will go on in full swing next shift.</span></p>
 
 <p><span class="chinese">中国人民鼓足干劲建设社会主义。</span><span class="english">Chinese people go all out the construction socialism.</span></p>

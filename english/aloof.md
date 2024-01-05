@@ -1,5 +1,7 @@
 # aloof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aloof.md)
+
 <p><span class="chinese">他是一个超脱的人物。</span><span class="english">He is an aloof figure.</span></p>
 
 <p><span class="chinese">千万不可脱离群众。</span><span class="english">Never stand aloof from the masses.</span></p>

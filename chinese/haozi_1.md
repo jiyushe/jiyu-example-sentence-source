@@ -1,5 +1,7 @@
 # 耗资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haozi_1.md)
+
 <p><span class="chinese">但是工程进度迟缓，而且耗资巨大。</span><span class="english">But progress is slow and expensive.</span></p>
 
 <p><span class="chinese">你的计划是不切合实际的，因为它被证实耗资太大。</span><span class="english">Your plan fell down when it proved too costly.</span></p>

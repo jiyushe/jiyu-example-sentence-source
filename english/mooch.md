@@ -1,5 +1,7 @@
 # mooch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mooch.md)
+
 <p><span class="chinese">这并不意味着你占了他们的便宜。</span><span class="english">That doesn’t mean you mooch off of other people.</span></p>
 
 <p><span class="chinese">到什么样的程度才可以说一个朋友变成一个贪小便宜的人呢？这其实是个频繁度的问题。</span><span class="english">At what point does a friend become a mooch ? It's a matter of frequency.</span></p>

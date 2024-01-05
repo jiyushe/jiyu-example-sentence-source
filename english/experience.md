@@ -1,5 +1,7 @@
 # experience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/experience.md)
+
 <p><span class="chinese">体会它。</span><span class="english">Experience it.</span></p>
 
 <p><span class="chinese">凭我的经验来讲。</span><span class="english">I speak from experience.</span></p>

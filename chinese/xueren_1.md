@@ -1,5 +1,7 @@
 # 雪人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueren_1.md)
+
 <p><span class="chinese">碰到其他雪人了吗？</span><span class="english">Meet any other snowmen?</span></p>
 
 <p><span class="chinese">唱歌曲“雪人”。</span><span class="english">Sing Frosty the snowman.</span></p>

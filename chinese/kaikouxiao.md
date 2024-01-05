@@ -1,5 +1,7 @@
 # 开口销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaikouxiao.md)
+
 <p><span class="chinese">开口销是乌鸦的黑色。</span><span class="english">The forelock is raven-black.</span></p>
 
 <p><span class="chinese">螺栓、螺母、开口销及铆钉都是常用紧固件。</span><span class="english">The bolt, nut, cotter pin and rivet are all common fastener.</span></p>

@@ -1,5 +1,7 @@
 # 领子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingzi_1.md)
+
 <p><span class="chinese">杀鸡取卵的领子和前。</span><span class="english">Banded collar and front.</span></p>
 
 <p><span class="chinese">我的领子扣不起来。</span><span class="english">My collar won't button down.</span></p>

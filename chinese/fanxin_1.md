@@ -1,5 +1,7 @@
 # 翻新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanxin_1.md)
+
 <p><span class="chinese">屋顶可能需要翻新。</span><span class="english">It may need to be retrofitted.</span></p>
 
 <p><span class="chinese">古老的故事，适合翻新。</span><span class="english">Old stories fit with retreads.</span></p>

@@ -1,5 +1,7 @@
 # 素餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sucan.md)
+
 <p><span class="chinese">忘了问了，我能点一份素餐吗?。</span><span class="english">Could I order a vegetarian meal, please?</span></p>
 
 <p><span class="chinese">一份素餐.好的.有登机行李吗?</span><span class="english">One vegetarian meal. OK. Any check-in baggage?</span></p>

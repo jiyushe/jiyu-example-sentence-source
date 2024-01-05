@@ -1,5 +1,7 @@
 # shun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shun.md)
+
 <p><span class="chinese">还要避免快速下坡跑步。</span><span class="english">Also shun fast downhill running.</span></p>
 
 <p><span class="chinese">这组雕像叫舜耕群象。</span><span class="english">This group sculpture is about Shun.</span></p>

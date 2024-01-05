@@ -1,5 +1,7 @@
 # 溪涧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xijian.md)
+
 <p><span class="chinese">如同清亮的溪涧，在风里，在我眼前。</span><span class="english">Like a clear stream, in the wind, in my eyes.</span></p>
 
 <p><span class="chinese">你猜什么，他选择了溪涧木筏。</span><span class="english">You guessed it, he chose white-water rafting.</span></p>

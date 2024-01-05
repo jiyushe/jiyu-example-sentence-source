@@ -1,5 +1,7 @@
 # 判罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panzui.md)
+
 <p><span class="chinese">请愿警告了那判罪先生。</span><span class="english">The petition warned that convicting Mr.</span></p>
 
 <p><span class="chinese">最终有六人被判罪。</span><span class="english">A total of six people were eventually convicted.</span></p>

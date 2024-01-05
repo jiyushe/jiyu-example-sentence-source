@@ -1,5 +1,7 @@
 # fatality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatality.md)
+
 <p><span class="chinese">这是一起人命关天的事。</span><span class="english">It was a fatality.</span></p>
 
 <p><span class="chinese">客观真理的相反就是致命。</span><span class="english">Objectivity is the opposite of fatality.</span></p>

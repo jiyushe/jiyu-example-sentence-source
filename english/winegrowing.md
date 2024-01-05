@@ -1,5 +1,7 @@
 # winegrowing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winegrowing.md)
+
 <p><span class="chinese">州长还赞扬了葡萄可持续种植的准则。</span><span class="english">The Governor also applauded the Code of Sustainable Winegrowing Practices.</span></p>
 
 <p><span class="chinese">智利独一无二的地理和气候条件使得那里成为酿酒葡萄生长的天堂。</span><span class="english">Chile's unique combination of geography and climate make it ideal for winegrowing.</span></p>

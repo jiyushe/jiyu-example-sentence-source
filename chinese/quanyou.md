@@ -1,5 +1,7 @@
 # 劝诱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanyou.md)
+
 <p><span class="chinese">它劝诱我走向雾气朦胧的黄昏。</span><span class="english">It coaxes me to the vapor and the dusk.</span></p>
 
 <p><span class="chinese">用个人强烈的魅力哄诱，劝诱。</span><span class="english">To induce by using strong personal attractiveness.</span></p>

@@ -1,5 +1,7 @@
 # sensible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensible.md)
+
 <p><span class="chinese">这段话比较晦涩，但是很明智。</span><span class="english">Ugly, but sensible.</span></p>
 
 <p><span class="chinese">它们不合情理。</span><span class="english">They are not sensible.</span></p>

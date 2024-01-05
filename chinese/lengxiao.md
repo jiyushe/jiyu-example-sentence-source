@@ -1,5 +1,7 @@
 # 冷笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengxiao.md)
+
 <p><span class="chinese">恋爱冷笑锁匠。</span><span class="english">Love laughs at locksmiths.</span></p>
 
 <p><span class="chinese">默特尔冷笑了一声。</span><span class="english">Myrtle gave a brittle laugh.</span></p>

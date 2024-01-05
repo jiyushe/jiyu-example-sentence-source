@@ -1,5 +1,7 @@
 # homosexuality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homosexuality.md)
+
 <p><span class="chinese">什么是同性恋？</span><span class="english">What is homosexuality?</span></p>
 
 <p><span class="chinese">同性恋肯定是自然的，道德的。</span><span class="english">Homosexuality is surely both natural and moral.</span></p>

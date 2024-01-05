@@ -1,5 +1,7 @@
 # 亲身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinshen.md)
+
 <p><span class="chinese">亲身经验最可贵。</span><span class="english">Wit bought is better than wit taught.</span></p>
 
 <p><span class="chinese">当你亲身焚毁房子和家园，你尝试过自立更生吗?。</span><span class="english">When you burned down the house and home?</span></p>

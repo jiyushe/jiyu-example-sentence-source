@@ -1,5 +1,7 @@
 # iad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iad.md)
+
 <p><span class="chinese">要是我是你，我就选拔这种产品。</span><span class="english">If I were you Iad choose this product.</span></p>
 
 <p><span class="chinese">苹果公司没有透露苹果电视销售情况和iAd广告的销售收入。</span><span class="english">Apple did NOT disclose Apple TV unit sales or iAd revenue.</span></p>

@@ -1,5 +1,7 @@
 # 明摆着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingbaizhe.md)
+
 <p><span class="chinese">这是明摆着的事实。</span><span class="english">It is an obvious fact.</span></p>
 
 <p><span class="chinese">明摆着，来复枪是怂人的武器。</span><span class="english">Clearly a rifle is the weapon of cowards.</span></p>

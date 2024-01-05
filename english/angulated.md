@@ -1,5 +1,7 @@
 # angulated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angulated.md)
+
 <p><span class="chinese">恰当的发达和适当的角度。</span><span class="english">Well developed and well angulated.</span></p>
 
 <p><span class="chinese">从飞节到足爪的骨骼短，飞节角度恰当。</span><span class="english">The bones from the hocks to the pads are short with a well angulated hock joint.</span></p>

@@ -1,5 +1,7 @@
 # 得天独厚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/detianduhou.md)
+
 <p><span class="chinese">烨谁看这里有得天独厚。</span><span class="english">Ye who read here are blessed.</span></p>
 
 <p><span class="chinese">淄博具有得天独厚的耐火材料资源。</span><span class="english">Zibo has a unique refractory resources.</span></p>

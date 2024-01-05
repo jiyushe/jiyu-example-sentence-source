@@ -1,5 +1,7 @@
 # 直线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixian_1.md)
+
 <p><span class="chinese">画直线或者折线。</span><span class="english">Draw lines or polylines.</span></p>
 
 <p><span class="chinese">是一条直线，不可以往回走?。</span><span class="english">Wshxzt can eat at a line.</span></p>

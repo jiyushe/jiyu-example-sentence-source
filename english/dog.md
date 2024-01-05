@@ -1,5 +1,7 @@
 # dog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dog.md)
+
 <p><span class="chinese">他的狗！</span><span class="english">His dog.</span></p>
 
 <p><span class="chinese">咆哮的狗狗。</span><span class="english">Growly dog.</span></p>

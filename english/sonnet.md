@@ -1,5 +1,7 @@
 # sonnet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sonnet.md)
+
 <p><span class="chinese">作曲家为一首十四行诗谱了曲。</span><span class="english">The composer set a sonnet to music.</span></p>
 
 <p><span class="chinese">是波光影调吟诵的十四行诗。</span><span class="english">Is a sonnet chanted by glistening waves.</span></p>

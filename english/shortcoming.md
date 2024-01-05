@@ -1,5 +1,7 @@
 # shortcoming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortcoming.md)
+
 <p><span class="chinese">那是他的缺点。</span><span class="english">That's his shortcoming.</span></p>
 
 <p><span class="chinese">粗鲁无礼是一个严重的缺点。</span><span class="english">Rudeness is a serious shortcoming.</span></p>

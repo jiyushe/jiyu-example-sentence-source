@@ -1,5 +1,7 @@
 # imput
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imput.md)
+
 <p><span class="chinese">所以总统会加入很多意见。</span><span class="english">So the president has a lot of imput.</span></p>
 
 <p><span class="chinese">这个例子也能检查的有效性，你输入。</span><span class="english">The example also checks the validity of you imput.</span></p>

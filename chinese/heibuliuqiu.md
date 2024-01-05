@@ -1,5 +1,7 @@
 # 黑不溜秋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heibuliuqiu.md)
+
 <p><span class="chinese">一只又黑又大的臭虫紧紧地咬着一只大黑狗的黑不溜秋的大鼻子。</span><span class="english">A big black bug bit a big black dog on his big black nose!</span></p>
 
 <p><span class="chinese">对不起，我这黑不溜秋的身子，弄脏了母后的浴袍。</span><span class="english">Forgive me. My shabby clothes have soiled the Empress' bathrobe.</span></p>

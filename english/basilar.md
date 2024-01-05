@@ -1,5 +1,7 @@
 # basilar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basilar.md)
+
 <p><span class="chinese">方法记录离体兔脑椎基底动脉环收缩反应。</span><span class="english">METHOD The tension of rabbit basilar artery rings was measured.</span></p>
 
 <p><span class="chinese">项针能明显改善椎-基底动脉的血液供应。</span><span class="english">Nape needle can obviously ameliorate blood supply of vertebra basilar artery.</span></p>

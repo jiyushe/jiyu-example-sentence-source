@@ -1,5 +1,7 @@
 # starting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starting.md)
+
 <p><span class="chinese">开始旅行吧！</span><span class="english">Starting out on a journey.</span></p>
 
 <p><span class="chinese">我们的出发点就是你。</span><span class="english">Our starting point was you.</span></p>

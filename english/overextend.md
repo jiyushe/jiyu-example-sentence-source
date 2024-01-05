@@ -1,5 +1,7 @@
 # overextend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overextend.md)
+
 <p><span class="chinese">不要在欧洲逗留得太久。</span><span class="english">Don't overextend your stay in Europe.</span></p>
 
 <p><span class="chinese">不要过分扩展一冲而太极拳。</span><span class="english">Don't overextend a punch while shadow boxing.</span></p>

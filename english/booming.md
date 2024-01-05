@@ -1,5 +1,7 @@
 # booming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/booming.md)
+
 <p><span class="chinese">这也是蓬勃发展的市场。</span><span class="english">It’s also a booming market.</span></p>
 
 <p><span class="chinese">作为一个歌唱家，玛丽的名气大起来了。</span><span class="english">Mary is booming as a singer.</span></p>

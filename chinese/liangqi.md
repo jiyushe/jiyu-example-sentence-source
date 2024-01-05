@@ -1,5 +1,7 @@
 # 凉气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangqi.md)
+
 <p><span class="chinese">我倒吸了口凉气。</span><span class="english">I sucked in a breath.</span></p>
 
 <p><span class="chinese">突然，我惊恐地倒吸一口凉气。</span><span class="english">And suddenly I gasped in horror.</span></p>

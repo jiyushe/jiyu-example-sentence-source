@@ -1,5 +1,7 @@
 # nepotism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nepotism.md)
+
 <p><span class="chinese">国会议员抨击总统搞裙带关系。</span><span class="english">The congressman lashed the president for his nepotism.</span></p>
 
 <p><span class="chinese">凯奇改了名字以避免别人指责他搞裙带关系。</span><span class="english">Cage changed his name to deflect accusations of nepotism.</span></p>

@@ -1,5 +1,7 @@
 # quantifiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quantifiable.md)
+
 <p><span class="chinese">其它的结果就不那么容易定量地进行描述了。</span><span class="english">Other results were less quantifiable.</span></p>
 
 <p><span class="chinese">用人方想看到的是量化的成绩。</span><span class="english">Employers want to see quantifiable achievements.</span></p>

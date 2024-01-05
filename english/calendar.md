@@ -1,5 +1,7 @@
 # calendar 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calendar.md)
+
 <p><span class="chinese">"月"指一个公历月份。</span><span class="english">Month" means a calendar month.</span></p>
 
 <p><span class="chinese">我们会看整个四个月。</span><span class="english">We'd look over 4-month calendar.</span></p>

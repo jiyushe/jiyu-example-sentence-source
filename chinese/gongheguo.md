@@ -1,5 +1,7 @@
 # 共和国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongheguo.md)
+
 <p><span class="chinese">还有一小段行程在波西尼亚的“塞尔共和国”境内，路上要花九个小时。</span><span class="english">It takes nine hours.</span></p>
 
 <p><span class="chinese">共和国万岁！</span><span class="english">Long live the Republic!</span></p>

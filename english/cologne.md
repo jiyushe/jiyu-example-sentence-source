@@ -1,5 +1,7 @@
 # cologne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cologne.md)
+
 <p><span class="chinese">淡淡的麝香味的古龙水。</span><span class="english">Some light, musky cologne.</span></p>
 
 <p><span class="chinese">闻起来不像是古龙水的味道。</span><span class="english">It didn't smell like cologne.</span></p>

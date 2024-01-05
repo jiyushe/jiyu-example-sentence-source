@@ -1,5 +1,7 @@
 # costless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/costless.md)
+
 <p><span class="chinese">这些解决办法并非完全不需要花钱。</span><span class="english">None of these solutions is exactly costless.</span></p>
 
 <p><span class="chinese">确实，放松货币似乎毫无代价。</span><span class="english">Indeed, monetary easing appeared to be costless.</span></p>

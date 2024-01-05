@@ -1,5 +1,7 @@
 # wedding 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wedding.md)
+
 <p><span class="chinese">没有结婚戒指？</span><span class="english">No wedding ring?</span></p>
 
 <p><span class="chinese">这缏媞莪们婚礼。</span><span class="english">This is our wedding.</span></p>

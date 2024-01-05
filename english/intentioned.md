@@ -1,5 +1,7 @@
 # intentioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intentioned.md)
+
 <p><span class="chinese">它使小型，用心良苦弄错了积极的教训。</span><span class="english">Make it small, well intentioned mistake with a positive lesson learned.</span></p>
 
 <p><span class="chinese">我认为当初我们的本意是好的，但事情就是有点失控了。</span><span class="english">I think we were well intentioned but things just got a little out of control.</span></p>

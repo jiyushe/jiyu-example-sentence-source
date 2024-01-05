@@ -1,5 +1,7 @@
 # 鞭策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biance.md)
+
 <p><span class="chinese">她的仔细认真成为对我的鞭策。</span><span class="english">Her carefulness rebukes me.</span></p>
 
 <p><span class="chinese">远大的志向鞭策着他。</span><span class="english">The great ambition is spurring him on.</span></p>

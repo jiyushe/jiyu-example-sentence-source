@@ -1,5 +1,7 @@
 # 风雨交加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyujiaojia.md)
+
 <p><span class="chinese">那是一个风雨交加的夜晚。</span><span class="english">It was a windy and rainy night.</span></p>
 
 <p><span class="chinese">她出生于一个风雨交加的夜晚。</span><span class="english">She was born on a stormy night.</span></p>

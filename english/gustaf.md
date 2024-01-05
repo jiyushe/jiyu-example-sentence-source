@@ -1,5 +1,7 @@
 # gustaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gustaf.md)
+
 <p><span class="chinese">我的猫古斯塔夫是我所有的一切——我唯一的伴侣。</span><span class="english">My cat Gustaf was the only thing I had—the only company.</span></p>
 
 <p><span class="chinese">古斯塔夫收集了数百件在遗址中发现的物品。</span><span class="english">Gustaf Nordenskiold collected hundreds of objects he found in the ruins.</span></p>

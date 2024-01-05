@@ -1,5 +1,7 @@
 # 唤起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanqi.md)
+
 <p><span class="chinese">有人狂舞中唤起回忆！</span><span class="english">Some dance to remember!</span></p>
 
 <p><span class="chinese">他的演讲唤起了我的兴趣。</span><span class="english">His speech rouses my interests.</span></p>

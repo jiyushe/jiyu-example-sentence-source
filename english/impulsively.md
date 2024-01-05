@@ -1,5 +1,7 @@
 # impulsively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impulsively.md)
+
 <p><span class="chinese">有些人获得很冲动，非要拥有每样最新的东西。</span><span class="english">Some people live impulsively and must have the latest everything.</span></p>
 
 <p><span class="chinese">他很后悔当时一时冲动就跑上去打了她。</span><span class="english">He was regretful that he ran up to hit her impulsively at that time.</span></p>

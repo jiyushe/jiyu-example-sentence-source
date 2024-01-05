@@ -1,5 +1,7 @@
 # 乌烟瘴气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyanzhangqi.md)
+
 <p><span class="chinese">在乌烟瘴气中，你赐我清新的空气。</span><span class="english">In fog and smog, you recondition my air.</span></p>
 
 <p><span class="chinese">乌烟瘴气和无知充斥着整个会谈。</span><span class="english">Cigar smoke and ignorance are in the air.</span></p>

@@ -1,5 +1,7 @@
 # 游玩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youwan.md)
+
 <p><span class="chinese">阿丁和小桃在海边游玩。</span><span class="english">O and small peach on the beach.</span></p>
 
 <p><span class="chinese">白雅琳筹划了一个在宜家的五小时游玩计划。</span><span class="english">Bai mapped out a five-hour outing.</span></p>

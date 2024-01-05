@@ -1,5 +1,7 @@
 # effectuate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effectuate.md)
+
 <p><span class="chinese">疾病并未妨碍他实现计划。</span><span class="english">The disease do not prevent him from effectuate his plan.</span></p>
 
 <p><span class="chinese">他们接着走上街头抗议并冒着生命危险实现了变革。</span><span class="english">they then took to the streets and risked life and limb to effectuate change.</span></p>

@@ -1,5 +1,7 @@
 # luminance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luminance.md)
+
 <p><span class="chinese">介绍了一种新颖的亮度测量装置。</span><span class="english">A new measure system for luminance is introduced.</span></p>
 
 <p><span class="chinese">光效高、寿命长，光色好，具有多种光束形状。</span><span class="english">High luminance effect, long-life, better light color.</span></p>

@@ -1,5 +1,7 @@
 # 博物院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bowuyuan.md)
+
 <p><span class="chinese">北京故宫博物院馆藏珍品。</span><span class="english">Beijing Palace Museum collection treasures.</span></p>
 
 <p><span class="chinese">1958年，“希望之星”被捐给了美国史密森尼博物院。</span><span class="english">The Hope Diamond was donated to the Smithsonian in 1958.</span></p>

@@ -1,5 +1,7 @@
 # 文书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenshu.md)
+
 <p><span class="chinese">我们文书工作全都电脑化。</span><span class="english">All of paper work is computerized.</span></p>
 
 <p><span class="chinese">文书工作可以缓一缓。</span><span class="english">A printed or written literary work.</span></p>

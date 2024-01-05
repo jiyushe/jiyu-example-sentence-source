@@ -1,5 +1,7 @@
 # 悬浊液
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanzhuoye.md)
+
 <p><span class="chinese">尤其是适用于控制纤维性和有微小固体颗粒的悬浊液介质的理想产品。</span><span class="english">It's particular suitable for controlling fibrous and suspension with small solid.</span></p>
 
 <p><span class="chinese">本文报道将壳聚糖用于絮凝药用膨润土悬浊液。</span><span class="english">The flocculating property of chitosan on medicinal bentonite suspension has been investigaeted.</span></p>

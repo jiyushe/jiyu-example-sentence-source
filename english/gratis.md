@@ -1,5 +1,7 @@
 # gratis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gratis.md)
+
 <p><span class="chinese">所有的工作都是免费的。</span><span class="english">All this work is gratis.</span></p>
 
 <p><span class="chinese">我们提供免费服务。</span><span class="english">We provide gratis service.</span></p>

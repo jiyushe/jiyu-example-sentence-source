@@ -1,5 +1,7 @@
 # 细流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiliu_1.md)
+
 <p><span class="chinese">先是涓涓细流，接下来是滔滔洪水。</span><span class="english">First a trickle, then a flood.</span></p>
 
 <p><span class="chinese">细流汇成江河。</span><span class="english">Small stream make great river.</span></p>

@@ -1,5 +1,7 @@
 # ridiculous 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ridiculous.md)
+
 <p><span class="chinese">太荒谬了"</span><span class="english">Ridiculous."</span></p>
 
 <p><span class="chinese">那是很荒谬的。</span><span class="english">It was ridiculous.</span></p>

@@ -1,5 +1,7 @@
 # 扑打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puda.md)
+
 <p><span class="chinese">鸟用翅膀扑打着鸟笼的栏杆。</span><span class="english">The bird beat its wings against the bars of its cage.</span></p>
 
 <p><span class="chinese">母鸡大吵大叫地朝他扑打过来。</span><span class="english">The mother ptarmigan beat about him with great outcry.</span></p>

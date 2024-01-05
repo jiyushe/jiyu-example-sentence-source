@@ -1,5 +1,7 @@
 # 推手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuishou.md)
+
 <p><span class="chinese">这种担忧正是这轮繁荣的幕后推手</span><span class="english">I think the boom was driven by fear.</span></p>
 
 <p><span class="chinese">意识形态在很大程度上成为了战争的推手。</span><span class="english">Ideology was a big part of what drove the war.</span></p>

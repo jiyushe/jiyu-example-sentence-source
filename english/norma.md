@@ -1,5 +1,7 @@
 # norma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norma.md)
+
 <p><span class="chinese">她的名字在出生的诺玛·琼·贝克。</span><span class="english">Her name at birth was Norma Jean Baker.</span></p>
 
 <p><span class="chinese">1941年9月诺玛·琼再一次和格莱斯同住。</span><span class="english">In September 1941 Norma Jeane was again living with Grace.</span></p>

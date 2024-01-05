@@ -1,5 +1,7 @@
 # handle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handle.md)
+
 <p><span class="chinese">汉堡包我能对付。</span><span class="english">Burgers I can handle.</span></p>
 
 <p><span class="chinese">处理散客入住。</span><span class="english">Handle walk in guest.</span></p>

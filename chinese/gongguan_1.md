@@ -1,5 +1,7 @@
 # 公馆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongguan_1.md)
+
 <p><span class="chinese">史密斯公馆.</span><span class="english">Smith residence.</span></p>
 
 <p><span class="chinese">这里是白公馆吗？</span><span class="english">Is this the White Residence?</span></p>

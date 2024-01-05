@@ -1,5 +1,7 @@
 # goshen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goshen.md)
+
 <p><span class="chinese">你可以让他们住在歌珊地。</span><span class="english">Let them live in Goshen.</span></p>
 
 <p><span class="chinese">现在求你容仆人住在歌珊地。</span><span class="english">So now, please let your servants settle in Goshen.</span></p>

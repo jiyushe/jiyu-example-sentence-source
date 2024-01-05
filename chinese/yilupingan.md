@@ -1,5 +1,7 @@
 # 一路平安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilupingan.md)
+
 <p><span class="chinese">好，祝你一路平安。</span><span class="english">Ok. Have a good trip.</span></p>
 
 <p><span class="chinese">一路平安，走好。</span><span class="english">Have a safe trip home.</span></p>

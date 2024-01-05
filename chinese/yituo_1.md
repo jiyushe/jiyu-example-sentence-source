@@ -1,5 +1,7 @@
 # 依托
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yituo_1.md)
+
 <p><span class="chinese">她的思想在德克雷上校那里找到了依托。</span><span class="english">Her mind reposed on colonel de craye.</span></p>
 
 <p><span class="chinese">秀山人妆扮城市的依托。</span><span class="english">Mountain people dress up city rely on.</span></p>

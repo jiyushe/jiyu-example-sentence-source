@@ -1,5 +1,7 @@
 # allround
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allround.md)
+
 <p><span class="chinese">这所学校提供一流的全面教育。</span><span class="english">The school provides an excellent allround education.</span></p>
 
 <p><span class="chinese">中国男篮的差距是全方位的，可以依赖的只有身高。</span><span class="english">Chinese basketball is poor at allround aspects, only can depend on height.</span></p>

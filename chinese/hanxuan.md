@@ -1,5 +1,7 @@
 # 寒喧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanxuan.md)
+
 <p><span class="chinese">拜托，我可没有握手寒喧的时间。</span><span class="english">Please, I don't have time to hold hands.</span></p>
 
 <p><span class="chinese">她同客人寒喧了几句。</span><span class="english">She exchanged a few words of greeting with the guests.</span></p>

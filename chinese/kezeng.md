@@ -1,5 +1,7 @@
 # 可憎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kezeng.md)
+
 <p><span class="chinese">什么是可憎的诅咒！</span><span class="english">What an execrable curse!</span></p>
 
 <p><span class="chinese">凡可憎的物都不可吃。</span><span class="english">Do not eat any detestable thing.</span></p>

@@ -1,5 +1,7 @@
 # thine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thine.md)
+
 <p><span class="chinese">了解你的敌人。</span><span class="english">Know thine enemy.</span></p>
 
 <p><span class="chinese">为我斟酒，你美目凝注。</span><span class="english">Drink to me with thine eyes.</span></p>

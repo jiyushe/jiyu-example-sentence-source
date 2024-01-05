@@ -1,5 +1,7 @@
 # 正殿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengdian_1.md)
+
 <p><span class="chinese">这座是正殿。</span><span class="english">This is the main hall.</span></p>
 
 <p><span class="chinese">其中正殿规模最大，是主体建筑。</span><span class="english">The primary hall is the largest building.</span></p>

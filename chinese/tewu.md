@@ -1,5 +1,7 @@
 # 特务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tewu.md)
+
 <p><span class="chinese">民兵抓著了一个特务。</span><span class="english">The militiaman walked the spy off.</span></p>
 
 <p><span class="chinese">民兵把那个特务带走了。</span><span class="english">The militiaman walked the spy off.</span></p>

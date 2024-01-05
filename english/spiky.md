@@ -1,5 +1,7 @@
 # spiky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spiky.md)
+
 <p><span class="chinese">我觉得你的发刷太尖了。</span><span class="english">Your hairbrush is too spiky for me.</span></p>
 
 <p><span class="chinese">你可以谷歌查询spiky这个词，看下这篇文章。</span><span class="english">You should Google the word spiky and look at it.</span></p>

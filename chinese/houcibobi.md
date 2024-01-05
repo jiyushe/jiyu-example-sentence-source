@@ -1,5 +1,7 @@
 # 厚此薄彼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houcibobi.md)
+
 <p><span class="chinese">教师不应对学生厚此薄彼。</span><span class="english">A teacher should not discriminate between students.</span></p>
 
 <p><span class="chinese">我热爱每一个季节，我不希望其它的季节觉得我厚此薄彼。</span><span class="english">I love all the seasons and don't want the others to get jealous.</span></p>

@@ -1,5 +1,7 @@
 # supersonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supersonic.md)
+
 <p><span class="chinese">医学超声诊断系统是机械波的作用。</span><span class="english">Supersonic is a kind of mechanical waves.</span></p>
 
 <p><span class="chinese">空气对超音速物体的反应类似于液体。</span><span class="english">Air reacts like a fluid to supersonic objects.</span></p>

@@ -1,5 +1,7 @@
 # homelike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homelike.md)
+
 <p><span class="chinese">这房间有一种宾至如归的舒适氛围。</span><span class="english">The room had a cozy, homelike atmosphere.</span></p>
 
 <p><span class="chinese">豫园给人的是一种家的感觉。</span><span class="english">Yuyuan Restaurant offers guests a homelike feeling.</span></p>

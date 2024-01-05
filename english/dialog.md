@@ -1,5 +1,7 @@
 # dialog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dialog.md)
+
 <p><span class="chinese">很多的对话？</span><span class="english">A lot of dialog?</span></p>
 
 <p><span class="chinese">与他们对话。</span><span class="english">Dialog with them.</span></p>

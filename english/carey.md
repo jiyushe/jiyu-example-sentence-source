@@ -1,5 +1,7 @@
 # carey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carey.md)
+
 <p><span class="chinese">我认为金·凯利是一个很逗乐的人。</span><span class="english">I think Jim Carey is a really funnyman.</span></p>
 
 <p><span class="chinese">凯里在每个轨道上被列出如一位共作家。</span><span class="english">Carey is listed as a co-writer on every track.</span></p>

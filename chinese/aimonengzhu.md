@@ -1,5 +1,7 @@
 # 爱莫能助
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aimonengzhu.md)
+
 <p><span class="chinese">对不起，我真是爱莫能助了。</span><span class="english">Sorry, I can't help it.</span></p>
 
 <p><span class="chinese">很抱歉，此事我爱莫能助。</span><span class="english">I regret that I can not help.</span></p>

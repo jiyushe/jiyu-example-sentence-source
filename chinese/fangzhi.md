@@ -1,5 +1,7 @@
 # 放置
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangzhi.md)
+
 <p><span class="chinese">现在是一个占位符。，X，is，now，placeholder。,我放置在哪里呢？</span><span class="english">X What do I place?</span></p>
 
 <p><span class="chinese">只放置你需要的东西。</span><span class="english">Only what you need.</span></p>

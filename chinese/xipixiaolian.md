@@ -1,5 +1,7 @@
 # 嬉皮笑脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xipixiaolian.md)
+
 <p><span class="chinese">别跟我嬉皮笑脸的。</span><span class="english">Don't trifle with me.</span></p>
 
 <p><span class="chinese">在选手休息区他从不对选手嬉皮笑脸。</span><span class="english">He does not befriend the players in his dugout.</span></p>

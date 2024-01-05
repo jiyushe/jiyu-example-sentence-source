@@ -1,5 +1,7 @@
 # expansionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expansionary.md)
+
 <p><span class="chinese">但是那种膨胀性的热诚或许会成为这家公司的软肋。</span><span class="english">But that expansionary zeal may turn out to be the firm’s Achilles’ heel.</span></p>
 
 <p><span class="chinese">既好又快且无通胀的十年已逝。</span><span class="english">The Nice – non-inflationary, consistently expansionary – decade has gone.</span></p>

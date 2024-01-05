@@ -1,5 +1,7 @@
 # 自夸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zikua.md)
+
 <p><span class="chinese">不要自夸和虚张声势。</span><span class="english">Do not brag or bluff.</span></p>
 
 <p><span class="chinese">你们这自夸是不好的。</span><span class="english">Your glorying is not good.</span></p>

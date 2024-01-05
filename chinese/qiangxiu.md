@@ -1,5 +1,7 @@
 # 抢修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangxiu.md)
+
 <p><span class="chinese">这有助于加快抢修工作。</span><span class="english">This helps to speed up repair work.</span></p>
 
 <p><span class="chinese">我们正在做抢修工作。</span><span class="english">We are carrying out urgent repairs.</span></p>

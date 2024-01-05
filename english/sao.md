@@ -1,5 +1,7 @@
 # sao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sao.md)
+
 <p><span class="chinese">小宝，我的小熊猫。</span><span class="english">Sao Po. My little panda.</span></p>
 
 <p><span class="chinese">这是巴西圣保罗的交通堵塞。</span><span class="english">A traffic jam in Sao Paulo, Brazil.</span></p>

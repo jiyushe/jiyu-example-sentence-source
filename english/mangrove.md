@@ -1,5 +1,7 @@
 # mangrove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mangrove.md)
+
 <p><span class="chinese">红树林是常青树。</span><span class="english">The mangrove forests are evergreen.</span></p>
 
 <p><span class="chinese">鱼儿们在红树根周围游来游去。</span><span class="english">Fish swim around the mangrove roots.</span></p>

@@ -1,5 +1,7 @@
 # 肩头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiantou.md)
+
 <p><span class="chinese">子弹从我的肩头呼啸而过。</span><span class="english">The bullet zipped past my shoulder.</span></p>
 
 <p><span class="chinese">因为你肩头扛起责任了。</span><span class="english">Because you have responsibilities now.</span></p>

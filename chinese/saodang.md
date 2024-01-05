@@ -1,5 +1,7 @@
 # 扫荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saodang.md)
+
 <p><span class="chinese">一阵乱响的嗡嗡声，以扫荡之势冲入街心。</span><span class="english">A loud buzz swept into street.</span></p>
 
 <p><span class="chinese">它将扫荡敌人直至其无处可藏。</span><span class="english">It will strike down my enemies wherever they may hide.</span></p>

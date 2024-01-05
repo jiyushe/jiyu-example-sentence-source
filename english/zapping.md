@@ -1,5 +1,7 @@
 # zapping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zapping.md)
+
 <p><span class="chinese">他开始对大脑进行电击,然后突然之间</span><span class="english">He started zapping it and "Boom."</span></p>
 
 <p><span class="chinese">看电视则必须呆在家中，不断地调台来跳过广告。</span><span class="english">And watching TV requires that one stay home, and keep zapping.</span></p>

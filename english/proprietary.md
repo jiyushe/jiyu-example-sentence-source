@@ -1,5 +1,7 @@
 # proprietary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proprietary.md)
+
 <p><span class="chinese">专利技术。</span><span class="english">Proprietary technology.</span></p>
 
 <p><span class="chinese">点到点的专有整合。</span><span class="english">Point to point proprietary integration.</span></p>

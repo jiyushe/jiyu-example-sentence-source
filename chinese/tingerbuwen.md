@@ -1,5 +1,7 @@
 # 听而不闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingerbuwen.md)
+
 <p><span class="chinese">他们视而不见，听而不闻。</span><span class="english">They ignore complaints.</span></p>
 
 <p><span class="chinese">她对这句话也听而不闻。</span><span class="english">She disregarded this too.</span></p>

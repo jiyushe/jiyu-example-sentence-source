@@ -1,5 +1,7 @@
 # barb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barb.md)
+
 <p><span class="chinese">但是请叫我Barb就好了。</span><span class="english">But please, just call me Barb.</span></p>
 
 <p><span class="chinese">我认为也许巴勃说得有道理。</span><span class="english">I think Barb may have something there.</span></p>

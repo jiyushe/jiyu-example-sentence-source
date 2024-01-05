@@ -1,5 +1,7 @@
 # shock 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shock.md)
+
 <p><span class="chinese">我彻底震惊了。</span><span class="english">I was in shock.</span></p>
 
 <p><span class="chinese">有吓到你们吗？</span><span class="english">Does this shock anyone?</span></p>

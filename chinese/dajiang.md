@@ -1,5 +1,7 @@
 # 打浆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dajiang.md)
+
 <p><span class="chinese">打浆浓度是影响纸张性能的一个重要因素。</span><span class="english">Beating consistency is a important factor of influencing the function of paper.</span></p>
 
 <p><span class="chinese">本文就比能量控制打浆度的数字模型进行了分析研究。</span><span class="english">This paper analyses the digital model for power-controlled pulp-beating degree.</span></p>

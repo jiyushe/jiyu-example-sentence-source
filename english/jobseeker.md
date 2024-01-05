@@ -1,5 +1,7 @@
 # jobseeker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jobseeker.md)
+
 <p><span class="chinese">明智的求职者总是前一天探明地方。</span><span class="english">The wise jobseeker explores place the day before.</span></p>
 
 <p><span class="chinese">聪明的求职者总是前一天现探明地方。</span><span class="english">The wise jobseeker explores the place the day before.</span></p>

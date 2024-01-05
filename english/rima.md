@@ -1,5 +1,7 @@
 # rima
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rima.md)
+
 <p><span class="chinese">然后运行一个孩子到璃茉和拥抱她。</span><span class="english">A kid then runs up to Rima and hugs her.</span></p>
 
 <p><span class="chinese">当他走时，他看到璃茉卷曲成一个球。</span><span class="english">As he walks he spots Rima curl up in a ball.</span></p>

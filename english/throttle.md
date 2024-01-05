@@ -1,5 +1,7 @@
 # throttle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throttle.md)
+
 <p><span class="chinese">罗杰，把节流阀推上去。</span><span class="english">Roger, go at throttle up.</span></p>
 
 <p><span class="chinese">安装节气门体盖。</span><span class="english">Fit cover for throttle body.</span></p>

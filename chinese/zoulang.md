@@ -1,5 +1,7 @@
 # 走廊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoulang.md)
+
 <p><span class="chinese">我正在建造一座空中的走廊。</span><span class="english">I'm building a sky walk.</span></p>
 
 <p><span class="chinese">有只羊在我走廊里。</span><span class="english">There is a sheep in my hall.</span></p>

@@ -1,5 +1,7 @@
 # beneficence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beneficence.md)
+
 <p><span class="chinese">为什么吖？权力并不会带来善行。</span><span class="english">Why? Power doesn't confer beneficence.</span></p>
 
 <p><span class="chinese">如果确实如此，这是否隐含著一项慈惠的义务有可能存在？</span><span class="english">If so, does this imply that there is a duty of beneficence ?</span></p>

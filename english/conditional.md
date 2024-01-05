@@ -1,5 +1,7 @@
 # conditional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conditional.md)
+
 <p><span class="chinese">条件性。</span><span class="english">Conditional.</span></p>
 
 <p><span class="chinese">要是我们去的话是条件句。</span><span class="english">If we go is a conditional clause.</span></p>

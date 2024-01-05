@@ -1,5 +1,7 @@
 # retrial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrial.md)
+
 <p><span class="chinese">上诉法院命令重审。</span><span class="english">The Court of Appeal ordered a retrial.</span></p>
 
 <p><span class="chinese">一个上诉庭要求对里伊纳一案进行复审。</span><span class="english">An appeals court ordered a partial retrial for Mr. Riina.</span></p>

@@ -1,5 +1,7 @@
 # gate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gate.md)
+
 <p><span class="chinese">铁艺大门。</span><span class="english">Iron gate.</span></p>
 
 <p><span class="chinese">6号登机门在哪儿？</span><span class="english">Where is gate six?</span></p>

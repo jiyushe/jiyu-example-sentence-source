@@ -1,5 +1,7 @@
 # distinct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distinct.md)
+
 <p><span class="chinese">金在性质上不同于铁。</span><span class="english">Gold is distinct from iron.</span></p>
 
 <p><span class="chinese">NCL有三个不同的区域。</span><span class="english">NCL has three distinct areas.</span></p>

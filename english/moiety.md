@@ -1,5 +1,7 @@
 # moiety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moiety.md)
+
 <p><span class="chinese">含喹喔啉环1，3，4-睧二唑衍生物的合成及结构鉴定。</span><span class="english">Synthesis of 1,3,4-oxadiazole derivatives containing quinoxaline moiety.</span></p>
 
 <p><span class="chinese">氨基核苷嘌呤霉素是嘌呤霉素的一种半合成产品，缺少甲氧苯丙氨酰基部分。</span><span class="english">Puromycin aminonucleoside is a semi-synthetic derivative of puromycin lacking the methoxyphenylalanyl moiety.</span></p>

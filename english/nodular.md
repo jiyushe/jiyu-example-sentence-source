@@ -1,5 +1,7 @@
 # nodular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nodular.md)
+
 <p><span class="chinese">结节状气腔实变病灶2例。</span><span class="english">Nodular consolidation was found in 2 cases.</span></p>
 
 <p><span class="chinese">部分肿块呈结节状或分叶状融合。</span><span class="english">Some masses appeared to be nodular or lobular.</span></p>

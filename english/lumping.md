@@ -1,5 +1,7 @@
 # lumping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lumping.md)
+
 <p><span class="chinese">把沙司搅拌一下以免结块。</span><span class="english">Stir the sauce to prevent it lumping.</span></p>
 
 <p><span class="chinese">把它们混在一起反而有碍分析。</span><span class="english">Lumping them together therefore impedes analysis.</span></p>

@@ -1,5 +1,7 @@
 # 分解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenjie_1.md)
+
 <p><span class="chinese">他说，“毛毛虫被完全分解成汁水，然后再重新组合起来。”</span><span class="english">And then it starts again.</span></p>
 
 <p><span class="chinese">我们试着把这段分解一下。</span><span class="english">Let's try to take this apart.</span></p>

@@ -1,5 +1,7 @@
 # 旁门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangmen.md)
+
 <p><span class="chinese">旁门看来亲切？</span><span class="english">Other door looking homey familiar?</span></p>
 
 <p><span class="chinese">说罢，几个大汉往旁门那边去了。</span><span class="english">Say, several big fellow BangMen went there.</span></p>

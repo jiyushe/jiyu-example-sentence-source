@@ -1,5 +1,7 @@
 # yoghurt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yoghurt.md)
+
 <p><span class="chinese">有点像做酸乳酪。</span><span class="english">It's a bit like making yoghurt.</span></p>
 
 <p><span class="chinese">我正在调查酸奶是怎样制成的。</span><span class="english">I am investigating how yoghurt is made.</span></p>

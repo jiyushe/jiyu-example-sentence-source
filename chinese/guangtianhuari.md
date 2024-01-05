@@ -1,5 +1,7 @@
 # 光天化日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangtianhuari.md)
+
 <p><span class="chinese">夫人，光天化日之下你想玩死我啊？</span><span class="english">Madam, please don't fool me.</span></p>
 
 <p><span class="chinese">为什么他要在光天化日低下呢？</span><span class="english">Why do it there in broad daylight?</span></p>

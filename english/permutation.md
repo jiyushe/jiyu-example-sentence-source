@@ -1,5 +1,7 @@
 # permutation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permutation.md)
+
 <p><span class="chinese">研究了基于宏块置乱的视频数据加密技术。</span><span class="english">This paper presents a video encryption approach by MacroBlock permutation.</span></p>
 
 <p><span class="chinese">其它的计数问题引导我们去研究置换群的轨道。</span><span class="english">Other enumeration problems lead us to the study of orbits of permutation groups.</span></p>

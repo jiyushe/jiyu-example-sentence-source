@@ -1,5 +1,7 @@
 # 焦糖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotang.md)
+
 <p><span class="chinese">焦糖姜味脆饼。</span><span class="english">Caramel Ginger Crunchies.</span></p>
 
 <p><span class="chinese">就是咸牛油加焦糖了。</span><span class="english">Salted butter caramels with a twist.</span></p>

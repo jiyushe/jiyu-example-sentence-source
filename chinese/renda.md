@@ -1,5 +1,7 @@
 # 人大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renda.md)
+
 <p><span class="chinese">我听到什么人大叫。</span><span class="english">I heard somebody yell.</span></p>
 
 <p><span class="chinese">这几个人大叫起来并且踢起马来。</span><span class="english">The men screamed and kicked their horses.</span></p>

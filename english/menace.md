@@ -1,5 +1,7 @@
 # menace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menace.md)
+
 <p><span class="chinese">这两人紧握拳头向他进逼过来。</span><span class="english">Menace with one's fist clenched.</span></p>
 
 <p><span class="chinese">过度饮酒是一种社会公害。</span><span class="english">Excessive drinking is a social menace.</span></p>

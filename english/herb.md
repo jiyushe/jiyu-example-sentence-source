@@ -1,5 +1,7 @@
 # herb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herb.md)
+
 <p><span class="chinese">曾经在那芳草东大街上。</span><span class="english">Ever on the east herb avenue.</span></p>
 
 <p><span class="chinese">且视路畔，彼何种草？</span><span class="english">What is that herb by the path?</span></p>

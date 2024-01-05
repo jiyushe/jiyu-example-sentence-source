@@ -1,5 +1,7 @@
 # maximize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maximize.md)
+
 <p><span class="chinese">边缘最大化。</span><span class="english">Maximize the fringes.</span></p>
 
 <p><span class="chinese">让每一块钱都发挥上作用。</span><span class="english">Maximize every dollar.</span></p>

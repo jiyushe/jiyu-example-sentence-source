@@ -1,5 +1,7 @@
 # 出洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuyang.md)
+
 <p><span class="chinese">酒体丰满，勾勒出洋李与黑樱桃的果味。</span><span class="english">Medium to full bodied, showing fruit characters of plums and dark cherries.</span></p>
 
 <p><span class="chinese">褚慎明靠着三四十封这类回信，吓倒了无数人，有位爱才的阔官僚花一万金送他出洋。</span><span class="english">With some thirty or forty of these replies, Ch'u Shen-ming had awed innumerable people.</span></p>

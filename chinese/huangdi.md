@@ -1,5 +1,7 @@
 # 皇帝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangdi.md)
+
 <p><span class="chinese">他向皇帝叩头。</span><span class="english">He kowtowed to the Emperor.</span></p>
 
 <p><span class="chinese">是皇帝陛下的牲口。</span><span class="english">It was His Majesty's beast.</span></p>

@@ -1,5 +1,7 @@
 # 神经细胞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjingxibao.md)
+
 <p><span class="chinese">一个皮肤细胞如何能变成神经细胞?</span><span class="english">How can a skin cell become a nerve cell?</span></p>
 
 <p><span class="chinese">灰质是由神经细胞体构成。</span><span class="english">Grey matter consists of nerve cell bodies.</span></p>

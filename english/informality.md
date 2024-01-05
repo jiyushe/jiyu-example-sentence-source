@@ -1,5 +1,7 @@
 # informality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/informality.md)
+
 <p><span class="chinese">“所有非正式信息都伴随着危险”。</span><span class="english">All the dangers of informality come with it.</span></p>
 
 <p><span class="chinese">不过她喜欢他那自然不做作的举止</span><span class="english">But she liked his natural manner and informality.</span></p>

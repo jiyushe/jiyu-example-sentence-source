@@ -1,5 +1,7 @@
 # nasogastric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nasogastric.md)
+
 <p><span class="chinese">氟康唑均由胃管注入或口服。</span><span class="english">Fluconazole was administered via nasogastric tube or orally.</span></p>
 
 <p><span class="chinese">目的探索一种新的鼻饲方法。</span><span class="english">Objective To investigate the utility of a new nasogastric feeding method.</span></p>

@@ -1,5 +1,7 @@
 # cellulase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cellulase.md)
+
 <p><span class="chinese">木霉纤维素酶基因的克隆与表达研究进展。</span><span class="english">The clone and expression of cellulase gene of trichoderma spp.</span></p>
 
 <p><span class="chinese">以纤维素废弃物为原料利用黑曲霉LN0402菌株发酵生产纤维素酶。</span><span class="english">Cellulose waste was used to produce cellulase by Aspergillus niger LN0402.</span></p>

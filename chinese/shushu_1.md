@@ -1,5 +1,7 @@
 # 束束
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushu_1.md)
+
 <p><span class="chinese">在漫长的夏季，束束阳光</span><span class="english">Through the slow summer, when the sun</span></p>
 
 <p><span class="chinese">你是我身边一束束灿烂。</span><span class="english">A lifelong effulgence you are by my side.</span></p>

@@ -1,5 +1,7 @@
 # 浊音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoyin.md)
+
 <p><span class="chinese">在其他地方，这种清音和浊音仍然共存。</span><span class="english">In other places, the coexistence continues.</span></p>
 
 <p><span class="chinese">他肚子叩诊上去浊音，并且蜘蛛痣。</span><span class="english">He has dullness to percussion and spider angiomas.</span></p>

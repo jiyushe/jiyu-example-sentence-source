@@ -1,5 +1,7 @@
 # 文坛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wentan.md)
+
 <p><span class="chinese">我是个文坛上混饭吃的罢了――他就老爱跟人这么说。</span><span class="english">I'm just a literary con man, he will say.</span></p>
 
 <p><span class="chinese">对于老舍本人，美国文坛也作了具有针对性的介绍。</span><span class="english">The literary circles of U. S also introduced Lao She.</span></p>

@@ -1,5 +1,7 @@
 # 横行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengxing.md)
+
 <p><span class="chinese">七月十四，猛鬼横行。</span><span class="english">In July fourteen, on rampant.</span></p>
 
 <p><span class="chinese">2011年会是山寨横行掂旎年吗？</span><span class="english">Will 2011 be the year of the copycat?</span></p>

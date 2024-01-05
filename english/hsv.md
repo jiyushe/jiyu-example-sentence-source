@@ -1,5 +1,7 @@
 # hsv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hsv.md)
+
 <p><span class="chinese">疱疹病毒通过体液传播。</span><span class="english">HSV spreads through body fluids.</span></p>
 
 <p><span class="chinese">为了强调这一点，我用的RGB和HSV颜色模型。</span><span class="english">To emphasis this point, I have used RGB and HSV colour models.</span></p>

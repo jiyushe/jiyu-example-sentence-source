@@ -1,5 +1,7 @@
 # 叮咛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingning_1.md)
+
 <p><span class="chinese">妈妈叮咛孩子要守规矩。</span><span class="english">The mother bade the child behave himself.</span></p>
 
 <p><span class="chinese">妈妈叮咛孩子要守规矩。</span><span class="english">Eg. The mother bade the child behave himself.</span></p>

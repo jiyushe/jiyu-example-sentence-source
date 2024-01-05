@@ -1,5 +1,7 @@
 # mutely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutely.md)
+
 <p><span class="chinese">他无声地点点头，像个死人。</span><span class="english">He nodded mutely. He was a dead man.</span></p>
 
 <p><span class="chinese">他默默凝视了他几秒钟。</span><span class="english">For several seconds he gazed at him mutely.</span></p>

@@ -1,5 +1,7 @@
 # hough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hough.md)
+
 <p><span class="chinese">把热电偶孔进风口，出风口和哈夫口定位好。</span><span class="english">Thermocouple hole into the outlet, outlet and a good location Hough mouth.</span></p>
 
 <p><span class="chinese">提出了一种基于霍夫变换的农田机器人视觉导航技术。</span><span class="english">A technology of farming robot vision navigation based on Hough transformation was developed.</span></p>

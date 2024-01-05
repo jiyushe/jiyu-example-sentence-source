@@ -1,5 +1,7 @@
 # dharma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dharma.md)
+
 <p><span class="chinese">永恒真理诸法是真实性。</span><span class="english">The reality of all dharma.</span></p>
 
 <p><span class="chinese">谁用佛法护佑我们？</span><span class="english">who blesses us with the Dharma?</span></p>

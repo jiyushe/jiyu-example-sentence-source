@@ -1,5 +1,7 @@
 # pragmatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pragmatic.md)
+
 <p><span class="chinese">我随兴但也实际。</span><span class="english">I am easygoing but pragmatic.</span></p>
 
 <p><span class="chinese">这就是我对于“实效权威”的看法。</span><span class="english">This is my idea of pragmatic authority.</span></p>

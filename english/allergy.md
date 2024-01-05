@@ -1,5 +1,7 @@
 # allergy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allergy.md)
+
 <p><span class="chinese">有乳胶过敏的人吗？</span><span class="english">Any allergy to latex?</span></p>
 
 <p><span class="chinese">食物过敏是什么？</span><span class="english">What is a food allergy?</span></p>

@@ -1,5 +1,7 @@
 # rhizoctonia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhizoctonia.md)
+
 <p><span class="chinese">丝核菌细胞核染色技术的研究。</span><span class="english">Studies on the nuclear staining techniques for Rhizoctonia spp.</span></p>
 
 <p><span class="chinese">春兰与丝核菌共生菌根及结构研究。</span><span class="english">Ultra-structure of symbiosis mycorrhizal between cymbidium goeringii and rhizoctonia sp.</span></p>

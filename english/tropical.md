@@ -1,5 +1,7 @@
 # tropical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tropical.md)
+
 <p><span class="chinese">他培育热带鱼。</span><span class="english">He breeds tropical fish.</span></p>
 
 <p><span class="chinese">番石榴是一种热带水果，营养异常丰富，和任何其他健康果蔬相比都毫不逊色。</span><span class="english">Guava is a tropical super fruit.</span></p>

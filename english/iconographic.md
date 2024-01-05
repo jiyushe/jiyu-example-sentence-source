@@ -1,5 +1,7 @@
 # iconographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iconographic.md)
+
 <p><span class="chinese">这就依次让肖像绘画有了不一样的需求。</span><span class="english">This, in turn, made different iconographic demands on painting.</span></p>
 
 <p><span class="chinese">相信形像失败意味着很多是另一件。</span><span class="english">It is another to believe the iconographic misfire means very much.</span></p>

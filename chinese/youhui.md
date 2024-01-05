@@ -1,5 +1,7 @@
 # 优惠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youhui.md)
+
 <p><span class="chinese">部分观光船程可享折扣优惠。</span><span class="english">Discount on some boat trips.</span></p>
 
 <p><span class="chinese">最好的优惠将被优先。</span><span class="english">Best Offers will be preffered.</span></p>

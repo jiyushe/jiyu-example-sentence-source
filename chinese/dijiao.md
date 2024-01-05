@@ -1,5 +1,7 @@
 # 地窖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dijiao.md)
+
 <p><span class="chinese">把他放到地窖里去吧，爸爸。</span><span class="english">Put him in the cellar, papa.</span></p>
 
 <p><span class="chinese">蜘蛛使地窖布满了蛛网。</span><span class="english">Spiders cobwebbed the cellar.</span></p>

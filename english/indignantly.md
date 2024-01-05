@@ -1,5 +1,7 @@
 # indignantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indignantly.md)
+
 <p><span class="chinese">她愤怒的坚持。</span><span class="english">she insisted indignantly.</span></p>
 
 <p><span class="chinese">老师愤怒地宣称。</span><span class="english">The teacher declared indignantly.</span></p>

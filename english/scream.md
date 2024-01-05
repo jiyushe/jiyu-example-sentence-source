@@ -1,5 +1,7 @@
 # scream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scream.md)
+
 <p><span class="chinese">我刚跟尖叫了吗？</span><span class="english">Did I just scream?</span></p>
 
 <p><span class="chinese">他们为神名而尖叫。</span><span class="english">They scream His name.</span></p>

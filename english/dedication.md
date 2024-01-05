@@ -1,5 +1,7 @@
 # dedication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dedication.md)
+
 <p><span class="chinese">这就是奉献。</span><span class="english">That is dedication.</span></p>
 
 <p><span class="chinese">但献身精神是必不可少的。</span><span class="english">But dedication is a must.</span></p>

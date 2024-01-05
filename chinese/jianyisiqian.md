@@ -1,5 +1,7 @@
 # 见异思迁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianyisiqian.md)
+
 <p><span class="chinese">我厌倦了你的见异思迁。</span><span class="english">I am weary of your changing.</span></p>
 
 <p><span class="chinese">他是个见异思迁的人，我认为他不会有什么出息。</span><span class="english">I don ' t think he can go far.</span></p>

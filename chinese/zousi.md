@@ -1,5 +1,7 @@
 # 走私
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zousi.md)
+
 <p><span class="chinese">但枪枝走私继续泛滥。</span><span class="english">But guns continue to flow.</span></p>
 
 <p><span class="chinese">某些酒是走私运进来的。</span><span class="english">Some wine has been smuggled in.</span></p>

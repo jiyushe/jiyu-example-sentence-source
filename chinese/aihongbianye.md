@@ -1,5 +1,7 @@
 # 哀鸿遍野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aihongbianye.md)
+
 <p><span class="chinese">不管发生什么，人们都不可能看到哀鸿遍野的景象了。</span><span class="english">No matter what happens, you’re not likely to see shantytowns.</span></p>
 
 <p><span class="chinese">而且，在今天这个哀鸿遍野的世界上，实话说了吧，这种政策是掠夺性的。</span><span class="english">And in today's depressed world, that policy is, to put it bluntly, predatory.</span></p>

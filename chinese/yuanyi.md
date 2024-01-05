@@ -1,5 +1,7 @@
 # 原意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyi.md)
+
 <p><span class="chinese">垃圾、废物。原意是“破烂货”。</span><span class="english">His writing is all junk.</span></p>
 
 <p><span class="chinese">我问其他人愿不原意和我一起去，可没人愿意。</span><span class="english">I asked if anyone wanted to go with me.</span></p>

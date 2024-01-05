@@ -1,5 +1,7 @@
 # daytime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daytime.md)
+
 <p><span class="chinese">白天我睡不着。</span><span class="english">I cannot sleep in the daytime.</span></p>
 
 <p><span class="chinese">尽可能避免白天睡觉。</span><span class="english">Avoid daytime sleep if possible.</span></p>

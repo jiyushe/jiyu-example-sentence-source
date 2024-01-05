@@ -1,5 +1,7 @@
 # floorboards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floorboards.md)
+
 <p><span class="chinese">接下来是地板。</span><span class="english">And then there floorboards.</span></p>
 
 <p><span class="chinese">楼上的地板吱呀吱呀响。</span><span class="english">Floorboards will squeak upstairs.</span></p>

@@ -1,5 +1,7 @@
 # mayan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mayan.md)
+
 <p><span class="chinese">徒步走在玛雅废墟上。</span><span class="english">Hiked a Mayan ruin.</span></p>
 
 <p><span class="chinese">玛雅人的预言。</span><span class="english">The prophecies of Mayan.</span></p>

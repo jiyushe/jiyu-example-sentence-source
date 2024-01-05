@@ -1,5 +1,7 @@
 # 考究
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaojiu.md)
+
 <p><span class="chinese">这是一件做工非常考究的衣服。</span><span class="english">This is a well-tailored dress.</span></p>
 
 <p><span class="chinese">今天上午我遇见了一位穿着考究的妇女。</span><span class="english">I met a well-dressed woman this morning.</span></p>

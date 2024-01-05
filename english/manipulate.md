@@ -1,5 +1,7 @@
 # manipulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manipulate.md)
+
 <p><span class="chinese">他们仅仅操纵其基因。</span><span class="english">They can only manipulate its genetics.</span></p>
 
 <p><span class="chinese">我们知道机器可以处理符号</span><span class="english">We know machines can manipulate symbols.</span></p>

@@ -1,5 +1,7 @@
 # kazakh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kazakh.md)
+
 <p><span class="chinese">“葵依”，是哈萨克族男子自娱性舞蹈。</span><span class="english">"Kuiyi"is a self-entertaining dance among Kazakh men.</span></p>
 
 <p><span class="chinese">白钻很闪的说，迷你款的哈，实物很小。</span><span class="english">Flash of white diamond is said that the Kazakh mini models, in-kind small.</span></p>

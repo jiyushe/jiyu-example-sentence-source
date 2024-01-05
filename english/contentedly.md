@@ -1,5 +1,7 @@
 # contentedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contentedly.md)
+
 <p><span class="chinese">那婴儿舒适地嘬着奶瓶。</span><span class="english">The baby sucked away at his bottle contentedly.</span></p>
 
 <p><span class="chinese">在听伊冯唠叨时，他可以不费心思地随波逐流。</span><span class="english">When he listened to yvonne, he could coast contentedly.</span></p>

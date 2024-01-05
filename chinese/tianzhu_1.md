@@ -1,5 +1,7 @@
 # 田主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzhu_1.md)
+
 <p><span class="chinese">田主在大陆高原上的土地扩张了很多。</span><span class="english">The freeholder's land on the altitude of the acreage broadcast a lot.</span></p>
 
 <p><span class="chinese">田主的奴隶告诉主人说，我们该怎办？</span><span class="english">the slaves of the man come to the master and they say, What should we do?</span></p>

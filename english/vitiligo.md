@@ -1,5 +1,7 @@
 # vitiligo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitiligo.md)
+
 <p><span class="chinese">白癫风可发生于任何年龄的人。</span><span class="english">Vitiligo may appear at any age.</span></p>
 
 <p><span class="chinese">白癫风是没有传染性的。</span><span class="english">Vitiligo is not contagious in any way.</span></p>

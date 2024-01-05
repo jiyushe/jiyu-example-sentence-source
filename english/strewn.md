@@ -1,5 +1,7 @@
 # strewn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strewn.md)
+
 <p><span class="chinese">桌子铺满了书。</span><span class="english">The table is strewn with books.</span></p>
 
 <p><span class="chinese">抑或是黑暗污秽凌乱不堪的房间呢？</span><span class="english">Or, is it a rumpus room strewn of rummage?</span></p>

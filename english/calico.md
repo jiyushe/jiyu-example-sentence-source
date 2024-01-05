@@ -1,5 +1,7 @@
 # calico
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calico.md)
+
 <p><span class="chinese">只有一个荧幕，多半是用白布做的。</span><span class="english">It is only a screen, often made from calico.</span></p>
 
 <p><span class="chinese">当我数着被子上17朵手绣的印花布心形图案时，我笑了。</span><span class="english">I smile as I count seventeen hand-sewn calico hearts.</span></p>

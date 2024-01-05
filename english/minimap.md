@@ -1,5 +1,7 @@
 # minimap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minimap.md)
+
 <p><span class="chinese">现在可以在小地图追踪邮箱。</span><span class="english">Mailboxes can now be tracked on the minimap.</span></p>
 
 <p><span class="chinese">允许高度自定义的迷你地图插件。</span><span class="english">Allows for high customization of the minimap.</span></p>

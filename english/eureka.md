@@ -1,5 +1,7 @@
 # eureka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eureka.md)
+
 <p><span class="chinese">他似乎有了一个重大的发现。</span><span class="english">He appears to have had a Eureka moment.</span></p>
 
 <p><span class="chinese">阿基米德在泡澡时灵感迸发。</span><span class="english">Archimedes had his eureka moment in the bath.</span></p>

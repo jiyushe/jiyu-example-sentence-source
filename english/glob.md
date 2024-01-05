@@ -1,5 +1,7 @@
 # glob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glob.md)
+
 <p><span class="chinese">爱一滴水就是爱全世界。</span><span class="english">Loving a glob is loving a globe.</span></p>
 
 <p><span class="chinese">我不小心掉了一团芥末在裤子上。</span><span class="english">I dropped a glob of mustard on my pants.</span></p>

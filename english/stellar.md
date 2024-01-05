@@ -1,5 +1,7 @@
 # stellar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stellar.md)
+
 <p><span class="chinese">恒星爆发数年后的回光</span><span class="english">Light Echo Years After Stellar Outburst</span></p>
 
 <p><span class="chinese">为G级星，见恒星分类。</span><span class="english">For G-class stars, see Stellar classification.</span></p>

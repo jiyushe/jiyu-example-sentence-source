@@ -1,5 +1,7 @@
 # idealist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idealist.md)
+
 <p><span class="chinese">杜库是一个政治理想主义者。</span><span class="english">Dooku was a political idealist.</span></p>
 
 <p><span class="chinese">在现政府的眼中，他是一位过度的理想主义者。</span><span class="english">He's too much of an idealist for this government.</span></p>

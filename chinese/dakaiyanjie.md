@@ -1,5 +1,7 @@
 # 大开眼界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dakaiyanjie.md)
+
 <p><span class="chinese">这次经历让我大开眼界。</span><span class="english">It was an eye-opening experience.</span></p>
 
 <p><span class="chinese">Concur公司的数据库还提供了一些令人大开眼界的数字。</span><span class="english">The data also offer some eye-openers.</span></p>

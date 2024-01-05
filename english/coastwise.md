@@ -1,5 +1,7 @@
 # coastwise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coastwise.md)
+
 <p><span class="chinese">海啸有时威力很大，足以摧毁它所冲击的沿岸建筑物。</span><span class="english">Tsunami is sometimes powerful enough to destroy a coastwise building it strikes.</span></p>
 
 <p><span class="chinese">海啸有时威力很打，足可摧毁它所冲击的沿岸的建筑物。</span><span class="english">Tsunami is sometimes powerful enough to destroy a coastwise building it strikes.</span></p>

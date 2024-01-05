@@ -1,5 +1,7 @@
 # emptier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emptier.md)
+
 <p><span class="chinese">一个冷静的大脑往往是空的。</span><span class="english">A calmer mind is an emptier mind.</span></p>
 
 <p><span class="chinese">它将永远膨胀下去，变得更加空旷黑暗。</span><span class="english">It will expand forever getting emptier and darker.</span></p>

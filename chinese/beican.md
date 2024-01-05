@@ -1,5 +1,7 @@
 # 钡餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beican.md)
+
 <p><span class="chinese">最后吞完所剩钡餐。</span><span class="english">Finish the rest of the barium meal.</span></p>
 
 <p><span class="chinese">确诊要靠钡餐和气管造影。</span><span class="english">Diagnosis can usually be made by barium swallow and tracheogram.</span></p>

@@ -1,5 +1,7 @@
 # beset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beset.md)
+
 <p><span class="chinese">我们遭受敌人围攻。</span><span class="english">We were beset by enemies.</span></p>
 
 <p><span class="chinese">这船被冰所包围。</span><span class="english">The ship is beset with ice.</span></p>

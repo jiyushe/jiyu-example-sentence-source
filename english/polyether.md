@@ -1,5 +1,7 @@
 # polyether
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyether.md)
+
 <p><span class="chinese">加入聚醚可脱除溶液中的高聚硅酸。</span><span class="english">The high polysilicic acid can be removed by adding polyether.</span></p>
 
 <p><span class="chinese">以自产聚醚多元醇为主要原料，试制成普通块状软泡。</span><span class="english">Flexible slabstock foam was prepared by self made polyether polyol.</span></p>

@@ -1,5 +1,7 @@
 # overcompensation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overcompensation.md)
+
 <p><span class="chinese">受矫枉过正的影响，机身陷入俯仰震荡。</span><span class="english">It is caught in oscillations of overcompensation.</span></p>
 
 <p><span class="chinese">这样的词语可能是一种过度补偿的形式。</span><span class="english">Words like that can be a form of overcompensation.</span></p>

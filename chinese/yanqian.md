@@ -1,5 +1,7 @@
 # 眼前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanqian.md)
+
 <p><span class="chinese">眼前的这个人就是他吗？</span><span class="english">And was this the man?</span></p>
 
 <p><span class="chinese">他不敢相信眼前所见。</span><span class="english">He couldn’t believe it.</span></p>

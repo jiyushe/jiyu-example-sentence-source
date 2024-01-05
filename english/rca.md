@@ -1,5 +1,7 @@
 # rca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rca.md)
+
 <p><span class="chinese">1997年底，这支五人乐队设法与RAC唱片公司成功签约。</span><span class="english">By late 1997, the quintet5 managed to land a contract with RCA Records.</span></p>
 
 <p><span class="chinese">你要去需要立体声的RCA电缆与迷你插孔为这一步。</span><span class="english">You're going to need the Stereo RCA cable with mini-jack for this step.</span></p>

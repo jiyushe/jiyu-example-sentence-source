@@ -1,5 +1,7 @@
 # playroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playroom.md)
+
 <p><span class="chinese">我的房子里面并没有设置一个娱乐室。</span><span class="english">My house doesn’t have a playroom.</span></p>
 
 <p><span class="chinese">游戏室用彩色软木进行装饰。</span><span class="english">The playroom is decorated with tinted cork.</span></p>

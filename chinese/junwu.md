@@ -1,5 +1,7 @@
 # 军务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junwu.md)
+
 <p><span class="chinese">我们认为这是掌握二十一世纪军务的关键。</span><span class="english">We think that that’s the key to the mastery of 21st-century military affairs.</span></p>
 
 <p><span class="chinese">让传统军务信息化，已经成为了一个迫切需要实现的目标。</span><span class="english">Making tradition military affair informational, it is aim which exigent require implement.</span></p>

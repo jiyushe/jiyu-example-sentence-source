@@ -1,5 +1,7 @@
 # exploder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exploder.md)
+
 <p><span class="chinese">文章简要论述实现危险品库房的数字化管理的必要性。</span><span class="english">The article discusses the necessity of digital management of exploder warehouse.</span></p>
 
 <p><span class="chinese">特征为光控信号、节奏稳压的发爆器。</span><span class="english">For the optical characteristics of the control signal, the rhythm of the regulator Exploder.</span></p>

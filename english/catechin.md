@@ -1,5 +1,7 @@
 # catechin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catechin.md)
+
 <p><span class="chinese">葡萄籽中含有的儿茶素是一种酚类抗氧化剂。</span><span class="english">Catechin is a phenol antioxidant found in grape seeds.</span></p>
 
 <p><span class="chinese">儿茶素属于多酚类的一种，其中以茶叶的含量最多。</span><span class="english">The catechin is one kind of polyphenol. It is made up of four isomers.</span></p>

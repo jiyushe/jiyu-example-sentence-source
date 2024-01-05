@@ -1,5 +1,7 @@
 # disparate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disparate.md)
+
 <p><span class="chinese">它的要素五花八门，和他的文句一样。</span><span class="english">Its elements are as disparate as his sentences.</span></p>
 
 <p><span class="chinese">倒戈的士兵在不同的小组工作。</span><span class="english">Defecting soldiers worked in small and disparate groups.</span></p>

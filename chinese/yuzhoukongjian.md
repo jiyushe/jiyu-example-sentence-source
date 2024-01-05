@@ -1,5 +1,7 @@
 # 宇宙空间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhoukongjian.md)
+
 <p><span class="chinese">宇宙空间是很空的。</span><span class="english">Space is a pretty empty place.</span></p>
 
 <p><span class="chinese">这个立方体也在宇宙空间里消失不见了。</span><span class="english">And the cube was lost to the far reaches of space.</span></p>

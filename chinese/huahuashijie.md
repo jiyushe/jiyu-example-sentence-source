@@ -1,5 +1,7 @@
 # 花花世界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huahuashijie.md)
+
 <p><span class="chinese">上海是一个所谓的花花世界。</span><span class="english">Shanghai is a varicolored world.</span></p>
 
 <p><span class="chinese">白天里上演着花花世界，夜晚却是一个人的独角戏。</span><span class="english">During the day at night world, is a solo.</span></p>

@@ -1,5 +1,7 @@
 # 欺侮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiwu_1.md)
+
 <p><span class="chinese">你怎么能够忍受他们的欺侮？</span><span class="english">How can you stomach their affronts?</span></p>
 
 <p><span class="chinese">你不该欺侮那个孩子。</span><span class="english">It is wrong of you to bully the child.</span></p>

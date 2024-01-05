@@ -1,5 +1,7 @@
 # playable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playable.md)
+
 <p><span class="chinese">它可播放在它的当前状态。</span><span class="english">It is playable in it's current state.</span></p>
 
 <p><span class="chinese">此档案没有可播放的串流。</span><span class="english">This file contains no playable streams.</span></p>

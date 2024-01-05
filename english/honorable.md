@@ -1,5 +1,7 @@
 # honorable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honorable.md)
+
 <p><span class="chinese">一位可敬的员工。</span><span class="english">An honorable employee.</span></p>
 
 <p><span class="chinese">一切为了荣誉</span><span class="english">Do the honorable thing." Ah.</span></p>

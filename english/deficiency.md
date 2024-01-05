@@ -1,5 +1,7 @@
 # deficiency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deficiency.md)
+
 <p><span class="chinese">对于缺铁性贫血。</span><span class="english">Iron deficiency anemia.</span></p>
 
 <p><span class="chinese">缺铁可导致贫血。</span><span class="english">Iron deficiency can lead to anaemia.</span></p>

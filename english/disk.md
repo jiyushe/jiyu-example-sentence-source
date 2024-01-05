@@ -1,5 +1,7 @@
 # disk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disk.md)
+
 <p><span class="chinese">增加一个新的硬式磁盘。</span><span class="english">Add a new hard disk.</span></p>
 
 <p><span class="chinese">一碟花生怎么样？</span><span class="english">A disk of peanuts,OK?</span></p>

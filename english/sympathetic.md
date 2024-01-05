@@ -1,5 +1,7 @@
 # sympathetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sympathetic.md)
+
 <p><span class="chinese">我很同情夏洛克。</span><span class="english">I am so sympathetic with Shylock.</span></p>
 
 <p><span class="chinese">同情的泪水润湿了我的双颊。</span><span class="english">Sympathetic tears bedewed my cheeks.</span></p>

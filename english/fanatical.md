@@ -1,5 +1,7 @@
 # fanatical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fanatical.md)
+
 <p><span class="chinese">她是一个狂热的恐怖分子。</span><span class="english">She is a fanatical terrorist.</span></p>
 
 <p><span class="chinese">约翰。列侬被他的一个狂热的歌迷枪击而死。</span><span class="english">John Nelon was shot by a fanatical fan of his.</span></p>

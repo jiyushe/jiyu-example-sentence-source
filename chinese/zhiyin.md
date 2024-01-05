@@ -1,5 +1,7 @@
 # 指印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyin.md)
+
 <p><span class="chinese">罪犯擦掉全部指印。</span><span class="english">The criminal obliterated all fingerprints.</span></p>
 
 <p><span class="chinese">脚印和指印给警察提供了线索。</span><span class="english">Footprints and fingerprints gave a clue to the police.</span></p>

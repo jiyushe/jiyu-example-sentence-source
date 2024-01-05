@@ -1,5 +1,7 @@
 # cool 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cool.md)
+
 <p><span class="chinese">领带好酷！</span><span class="english">Cool tie!</span></p>
 
 <p><span class="chinese">酷毙了！</span><span class="english">Too cool.</span></p>

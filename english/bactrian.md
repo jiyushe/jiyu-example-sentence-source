@@ -1,5 +1,7 @@
 # bactrian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bactrian.md)
+
 <p><span class="chinese">在大夏宝藏中发现的黄金小雕像。</span><span class="english">Small gold figurines found in the Bactrian hoard.</span></p>
 
 <p><span class="chinese">野生的双峰骆驼生活在中国西北部和蒙古。</span><span class="english">The wild Bactrian camels live in northwest China and Mongolia.</span></p>

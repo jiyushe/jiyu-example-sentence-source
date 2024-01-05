@@ -1,5 +1,7 @@
 # 这会儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhehuier.md)
+
 <p><span class="chinese">哪怕这会儿喝醉了。</span><span class="english">Even now, drunk.</span></p>
 
 <p><span class="chinese">这会儿你在干什么?</span><span class="english">What are you doing now?</span></p>

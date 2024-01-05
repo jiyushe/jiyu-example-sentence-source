@@ -1,5 +1,7 @@
 # 出自
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuzi.md)
+
 <p><span class="chinese">他的歉意是出自内心的。</span><span class="english">His apology was sincere.</span></p>
 
 <p><span class="chinese">这些画并非真的出自这两位之手。</span><span class="english">Now, this is all made up.</span></p>

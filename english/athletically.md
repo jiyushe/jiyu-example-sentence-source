@@ -1,5 +1,7 @@
 # athletically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/athletically.md)
+
 <p><span class="chinese">如果你倾向于运动。有一个了不起的健身房，</span><span class="english">if you're athletically inclined. There's an amazing gym,</span></p>
 
 <p><span class="chinese">她不讨厌体育频道，只是对运动有些偏见。</span><span class="english">She does not hate sports on TV, she is athletically biased.</span></p>

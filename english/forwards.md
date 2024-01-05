@@ -1,5 +1,7 @@
 # forwards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forwards.md)
+
 <p><span class="chinese">希望可以看看你上色！</span><span class="english">Look forwards to your color pics.</span></p>
 
 <p><span class="chinese">释放靠背并向前倾斜。</span><span class="english">Release backrest and tilt forwards.</span></p>

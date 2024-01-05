@@ -1,5 +1,7 @@
 # becoming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/becoming.md)
+
 <p><span class="chinese">我现在快要变成胆小鬼了吧？</span><span class="english">Am I becoming a coward?</span></p>
 
 <p><span class="chinese">煤正在成为一种稀缺商品。</span><span class="english">Coal is becoming a rare.</span></p>

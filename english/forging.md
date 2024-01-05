@@ -1,5 +1,7 @@
 # forging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forging.md)
+
 <p><span class="chinese">锻造钢剑？</span><span class="english">Sword forging?</span></p>
 
 <p><span class="chinese">厚壁的采用锻件。</span><span class="english">The thick wall by forging.</span></p>

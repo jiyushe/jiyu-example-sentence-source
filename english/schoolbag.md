@@ -1,5 +1,7 @@
 # schoolbag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolbag.md)
+
 <p><span class="chinese">它们在我的书包里。</span><span class="english">They are in my schoolbag.</span></p>
 
 <p><span class="chinese">什么在你的书包吗?。</span><span class="english">What's in your schoolbag?</span></p>

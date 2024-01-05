@@ -1,5 +1,7 @@
 # 援助
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhu_2.md)
+
 <p><span class="chinese">他请求援助。</span><span class="english">He is begging for help.</span></p>
 
 <p><span class="chinese">我船开航去援助你。</span><span class="english">I proceed to your assistance.</span></p>

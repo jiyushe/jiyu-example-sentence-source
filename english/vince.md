@@ -1,5 +1,7 @@
 # vince
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vince.md)
+
 <p><span class="chinese">而且若文斯就是那小子怎么办？</span><span class="english">Plus, what if it's Vince?</span></p>
 
 <p><span class="chinese">你看到文斯在附近吗？</span><span class="english">Have you seen Vince around?</span></p>

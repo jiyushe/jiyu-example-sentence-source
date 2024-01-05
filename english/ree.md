@@ -1,5 +1,7 @@
 # ree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ree.md)
+
 <p><span class="chinese">大气降水淋滤-渗滤模式。</span><span class="english">Meteoric water leaching-percolation REE model.</span></p>
 
 <p><span class="chinese">詹妮弗.劳伦斯的瑞依多利想要参军。</span><span class="english">Jennifer Lawrence’s Ree Dolly wants to join the Army.</span></p>

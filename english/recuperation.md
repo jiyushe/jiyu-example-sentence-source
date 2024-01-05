@@ -1,5 +1,7 @@
 # recuperation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recuperation.md)
+
 <p><span class="chinese">飞行员1149例疗养期间患病情况分析。</span><span class="english">Analysis on Sickness Status of 1149 Aviators during Recuperation.</span></p>
 
 <p><span class="chinese">维多利亚时代正确地把“吸入海洋空气”作为休生养息的形式。</span><span class="english">The Victorians were right to “take the sea air” as a form of recuperation.</span></p>

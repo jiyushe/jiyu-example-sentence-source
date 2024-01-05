@@ -1,5 +1,7 @@
 # 新名词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinmingci.md)
+
 <p><span class="chinese">我知道你已经开始了一个新名词。</span><span class="english">I know you've started a new term.</span></p>
 
 <p><span class="chinese">这么多的新名词有什么用？</span><span class="english">What's with all the new terminology?</span></p>

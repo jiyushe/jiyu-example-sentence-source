@@ -1,5 +1,7 @@
 # 情郎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinglang.md)
+
 <p><span class="chinese">我依然是妳的情郎！</span><span class="english">I am still you boyfriend.</span></p>
 
 <p><span class="chinese">休斯太太是有情郎了。</span><span class="english">Mrs Hughes has got a fancy man.</span></p>

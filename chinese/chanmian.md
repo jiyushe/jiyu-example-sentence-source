@@ -1,5 +1,7 @@
 # 缠绵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanmian.md)
+
 <p><span class="chinese">我觉得这部电影太缠绵了。</span><span class="english">I found the film far too saccharine.</span></p>
 
 <p><span class="chinese">让那种爬行的人不断跟“衰老”缠绵。</span><span class="english">Let him who crawls enamour'd of decay.</span></p>

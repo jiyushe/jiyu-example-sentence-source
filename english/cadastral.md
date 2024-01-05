@@ -1,5 +1,7 @@
 # cadastral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cadastral.md)
+
 <p><span class="chinese">地籍调查工作由邗江区国土管理分局委托。</span><span class="english">Cadastral survey by the Hanjiang commissioned by the Land Management Bureau.</span></p>
 
 <p><span class="chinese">对构建和完善地籍测量教学体系进行初步探讨和研究。</span><span class="english">The paper discusses how to construct teaching system of cadastral surveying and mapping.</span></p>

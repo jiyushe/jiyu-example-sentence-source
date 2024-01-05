@@ -1,5 +1,7 @@
 # 高洁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojie_4.md)
+
 <p><span class="chinese">犹如高洁的剑侠。</span><span class="english">As a noble sword master.</span></p>
 
 <p><span class="chinese">她一直想要过一种高洁的生活。</span><span class="english">She always tried to lead a virtuous life.</span></p>

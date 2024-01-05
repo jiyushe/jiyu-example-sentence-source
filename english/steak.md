@@ -1,5 +1,7 @@
 # steak 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steak.md)
+
 <p><span class="chinese">烤牛排。</span><span class="english">Broil the steak.</span></p>
 
 <p><span class="chinese">香肠或牛排。</span><span class="english">Sausage or steak.</span></p>

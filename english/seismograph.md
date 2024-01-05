@@ -1,5 +1,7 @@
 # seismograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seismograph.md)
+
 <p><span class="chinese">地震仪是由张衡发明的。</span><span class="english">Heng invented the seismograph during the Han Dynasty.</span></p>
 
 <p><span class="chinese">地震学家最基本的工具是地震仪网。</span><span class="english">The most basic tool of seismologists is the seismograph network.</span></p>

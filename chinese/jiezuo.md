@@ -1,5 +1,7 @@
 # 杰作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezuo.md)
+
 <p><span class="chinese">这是她的杰作。</span><span class="english">This is a painting of her.</span></p>
 
 <p><span class="chinese">他的小说是一部精心的杰作。</span><span class="english">His novel is a fine effort.</span></p>

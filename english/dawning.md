@@ -1,5 +1,7 @@
 # dawning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dawning.md)
+
 <p><span class="chinese">一个人类的新时代正在出现。</span><span class="english">A new age for mankind is dawning.</span></p>
 
 <p><span class="chinese">我们出发时天刚破晓。</span><span class="english">The day was dawning when we set out.</span></p>

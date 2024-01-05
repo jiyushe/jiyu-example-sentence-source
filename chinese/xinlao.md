@@ -1,5 +1,7 @@
 # 辛劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinlao.md)
+
 <p><span class="chinese">鲜血，辛劳，眼泪和汗水，1940</span><span class="english">Blood Toil Tears and Sweat 1940</span></p>
 
 <p><span class="chinese">鲜血，辛劳，眼泪和汗水</span><span class="english">Blood,Toil, Tears and Sweat, 1940</span></p>

@@ -1,5 +1,7 @@
 # 成事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengshi_1.md)
+
 <p><span class="chinese">成事通先生知道如何配钥匙。</span><span class="english">Mr. Know-all knows how to make a key.</span></p>
 
 <p><span class="chinese">但现在它们已是既成事实，”黑格说。</span><span class="english">But they are now a fact, " Hague added.</span></p>

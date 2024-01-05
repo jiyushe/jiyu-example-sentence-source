@@ -1,5 +1,7 @@
 # diatom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diatom.md)
+
 <p><span class="chinese">硅藻泥能吸收甲醛？</span><span class="english">Diatom mud can absorb formaldehyde?</span></p>
 
 <p><span class="chinese">阀缝硅藻阀上的中槽。</span><span class="english">The median groove of a diatom valve.</span></p>

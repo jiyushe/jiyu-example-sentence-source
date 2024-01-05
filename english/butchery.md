@@ -1,5 +1,7 @@
 # butchery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butchery.md)
+
 <p><span class="chinese">顾客们可向肉铺买什麽？</span><span class="english">What can customers buy at the butchery?</span></p>
 
 <p><span class="chinese">在她看来，战争只不过是一种合法化的屠杀。</span><span class="english">In her view, war is simply a legalized form of butchery.</span></p>

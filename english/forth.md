@@ -1,5 +1,7 @@
 # forth 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forth.md)
+
 <p><span class="chinese">发生了饥荒。</span><span class="english">A famine broke forth.</span></p>
 
 <p><span class="chinese">送来五月花几许。</span><span class="english">Bring forth May flowers.</span></p>

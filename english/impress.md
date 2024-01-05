@@ -1,5 +1,7 @@
 # impress 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impress.md)
+
 <p><span class="chinese">你令我印象深刻。</span><span class="english">You really impress me.</span></p>
 
 <p><span class="chinese">如果你想要我过目难忘。</span><span class="english">If you wanna impress me.</span></p>

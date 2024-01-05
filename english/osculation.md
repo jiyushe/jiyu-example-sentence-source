@@ -1,5 +1,7 @@
 # osculation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osculation.md)
+
 <p><span class="chinese">可以说“城市”与“水”关系密切。</span><span class="english">So it can say the "urban" and "water" concerning an osculation.</span></p>
 
 <p><span class="chinese">通过对曲面接触类型分析，提出了带状密切的概念。</span><span class="english">The concept of band osculation is presented by analyzing surface contact types.</span></p>

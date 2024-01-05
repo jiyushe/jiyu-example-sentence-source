@@ -1,5 +1,7 @@
 # overindulge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overindulge.md)
+
 <p><span class="chinese">是否要过度溺爱小孩！</span><span class="english">Does it pay to overindulge children.</span></p>
 
 <p><span class="chinese">是否应该溺爱孩子？</span><span class="english">Does it pay to overindulge children?</span></p>

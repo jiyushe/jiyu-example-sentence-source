@@ -1,5 +1,7 @@
 # 清闲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxian.md)
+
 <p><span class="chinese">利用这段清闲时光去思考，回顾和计划。</span><span class="english">Use this time to reflect, review, and meditate.</span></p>
 
 <p><span class="chinese">是这样的，但是如果您希望以后清闲的话，这也是必要的。</span><span class="english">It is, but it is also necessary if you plan to be lazy later on.</span></p>

@@ -1,5 +1,7 @@
 # baoding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baoding.md)
+
 <p><span class="chinese">居住地在河北省保定市。</span><span class="english">Residence at Baoding City.</span></p>
 
 <p><span class="chinese">保定市益林干燥设备有限公司。</span><span class="english">Baoding Yilin Drying Equipment Co. , Ltd.</span></p>

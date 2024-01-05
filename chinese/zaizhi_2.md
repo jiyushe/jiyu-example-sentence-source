@@ -1,5 +1,7 @@
 # 栽植
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaizhi_2.md)
+
 <p><span class="chinese">你能栽植出一个花园吗?</span><span class="english">Could you grow a garden?</span></p>
 
 <p><span class="chinese">我们在给一个小花园栽植花草。</span><span class="english">We are planting a small garden.</span></p>

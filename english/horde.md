@@ -1,5 +1,7 @@
 # horde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horde.md)
+
 <p><span class="chinese">修正龙穴奇迹破损的贴图。</span><span class="english">Fixed broken graphics on the Dragons Horde wonder.</span></p>
 
 <p><span class="chinese">凯尔特巫医不能加入尊-斯盖斯部落。</span><span class="english">The Kelt Shaman cannot join the horde of Dun Scaith.</span></p>

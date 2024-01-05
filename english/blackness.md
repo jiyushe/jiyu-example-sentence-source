@@ -1,5 +1,7 @@
 # blackness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackness.md)
+
 <p><span class="chinese">他正用黑墨水写字。</span><span class="english">He is writing in blackness.</span></p>
 
 <p><span class="chinese">我睹到无绝的乌暗…噢，我的头巾失落下来了。</span><span class="english">All Isee is blackness. Oh, my hood's down.</span></p>

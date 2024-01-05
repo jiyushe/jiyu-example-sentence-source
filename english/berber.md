@@ -1,5 +1,7 @@
 # berber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berber.md)
+
 <p><span class="chinese">柏柏尔小地毯可以当色彩艳丽的壁毯。</span><span class="english">A Berber rug makes a colourful wall-hanging.</span></p>
 
 <p><span class="chinese">一个撒哈拉沙漠游牧的柏柏尔民族成员。</span><span class="english">A member of a Berber people of northeast Algeria.</span></p>

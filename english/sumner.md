@@ -1,5 +1,7 @@
 # sumner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sumner.md)
+
 <p><span class="chinese">我发现忘掉萨姆纳很容易。</span><span class="english">I found it very easy to forget about Sumner.</span></p>
 
 <p><span class="chinese">他就是威廉·格雷厄姆·萨姆纳讲的“被遗忘的人”。</span><span class="english">He is the Forgotten Man of William Graham Sumner.</span></p>

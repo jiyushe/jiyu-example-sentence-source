@@ -1,5 +1,7 @@
 # nightingale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightingale.md)
+
 <p><span class="chinese">于是夜莺不停地唱下去。</span><span class="english">The nightingale sang on.</span></p>
 
 <p><span class="chinese">Me们听见夜莺正在尽情地歌唱。</span><span class="english">We hear the nightingale at his best.</span></p>

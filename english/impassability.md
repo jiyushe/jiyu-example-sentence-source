@@ -1,5 +1,7 @@
 # impassability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impassability.md)
+
 <p><span class="chinese">这条路又走不通了。</span><span class="english">This road walk again impassability.</span></p>
 
 <p><span class="chinese">想不通就想不通吧，想通了，又能怎么样？</span><span class="english">Think impassability just don't understand it, think, and how?</span></p>

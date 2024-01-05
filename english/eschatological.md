@@ -1,5 +1,7 @@
 # eschatological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eschatological.md)
+
 <p><span class="chinese">实际上这篇文献没有末世论。</span><span class="english">In fact,this text is not at all eschatological.</span></p>
 
 <p><span class="chinese">这里的对照有历史性，末世性的意义。</span><span class="english">The contrast is historical and eschatological in its scope.</span></p>

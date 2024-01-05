@@ -1,5 +1,7 @@
 # haunted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haunted.md)
+
 <p><span class="chinese">我就是中邪了。</span><span class="english">I' m just haunted.</span></p>
 
 <p><span class="chinese">那叫声一直缠绕着我。</span><span class="english">That cry haunted me.</span></p>

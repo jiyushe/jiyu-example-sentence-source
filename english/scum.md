@@ -1,5 +1,7 @@
 # scum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scum.md)
+
 <p><span class="chinese">你是个人渣。</span><span class="english">You are scum.</span></p>
 
 <p><span class="chinese">那家伙是个人渣。</span><span class="english">The man is a scum.</span></p>

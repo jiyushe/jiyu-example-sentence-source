@@ -1,5 +1,7 @@
 # 五味子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuweizi.md)
+
 <p><span class="chinese">五味子属植物是我国传统的中药材。</span><span class="english">Schisandra is Chinese traditional medicinal materials.</span></p>
 
 <p><span class="chinese">研究了北五味子多糖的降脂减肥作用。</span><span class="english">The functions of SCP in reducing weight and fat were studied.</span></p>

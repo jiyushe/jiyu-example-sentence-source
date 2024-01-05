@@ -1,5 +1,7 @@
 # 资本金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zibenjin.md)
+
 <p><span class="chinese">我们希望我们的银行资本金充足。</span><span class="english">We want our banks to be well-capitalized.</span></p>
 
 <p><span class="chinese">那么，为什么欧洲银行业的资本金会如此单薄？</span><span class="english">And why are Europe's banks so thinly capitalized?</span></p>

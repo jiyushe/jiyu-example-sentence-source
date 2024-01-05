@@ -1,5 +1,7 @@
 # 撩拨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaobo.md)
+
 <p><span class="chinese">它的时间去寻找一种撩拨流。</span><span class="english">It's time to find the kind titillate the flow.</span></p>
 
 <p><span class="chinese">只需要纤指撩拨，心境就全然变换了。</span><span class="english">Only Xianzhi spun, would completely transform the mood.</span></p>

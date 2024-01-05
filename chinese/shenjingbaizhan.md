@@ -1,5 +1,7 @@
 # 身经百战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjingbaizhan.md)
+
 <p><span class="chinese">理查是个身经百战的老兵。</span><span class="english">Richard was a veteran of many battles.</span></p>
 
 <p><span class="chinese">他是一位身经百战的宿将。</span><span class="english">He was a much experienced veteran general.</span></p>

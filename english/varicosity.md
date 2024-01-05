@@ -1,5 +1,7 @@
 # varicosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varicosity.md)
+
 <p><span class="chinese">为什么会得静脉曲张？有什么治疗方法？</span><span class="english">Why can you get varicosity? What treats a method?</span></p>
 
 <p><span class="chinese">预防和缓解褪部静脉曲张症状。</span><span class="english">The prevention and the alleviation sheds the varicosity symptom.</span></p>

@@ -1,5 +1,7 @@
 # bma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bma.md)
+
 <p><span class="chinese">曼谷市政府提醒居民在24小时内撤离该地区。</span><span class="english">BMA warned the residents to leave the area in 24 hours.</span></p>
 
 <p><span class="chinese">第一名，骨科及风湿病，英国医学协会奖2009。</span><span class="english">First Prize, Orthopaedics and Rheumatology, BMA Awards 2009</span></p>

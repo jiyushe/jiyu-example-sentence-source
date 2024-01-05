@@ -1,5 +1,7 @@
 # demote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demote.md)
+
 <p><span class="chinese">对它的评价有褒有贬。</span><span class="english">Have to its evaluation honour have demote.</span></p>
 
 <p><span class="chinese">无缘无故将一名员工降级是违法的。</span><span class="english">It is illegal to demote an employee without reason.</span></p>

@@ -1,5 +1,7 @@
 # xylose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xylose.md)
+
 <p><span class="chinese">但是，木糖不会被浪费的。</span><span class="english">The xylose does not go unused, however.</span></p>
 
 <p><span class="chinese">在啤酒酵母中，葡萄糖转运因子调解木糖摄取。</span><span class="english">In S. cerevisiae glucose transporters mediate xylose uptake.</span></p>

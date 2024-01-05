@@ -1,5 +1,7 @@
 # adm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adm.md)
+
 <p><span class="chinese">这番话激起了一个少将的反驳。</span><span class="english">That prompted a retort from Rear Adm.</span></p>
 
 <p><span class="chinese">融合物浸泡液中阿霉素的浓度。</span><span class="english">The concentration of ADM in the mixture was measured.</span></p>

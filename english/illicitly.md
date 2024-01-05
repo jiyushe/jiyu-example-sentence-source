@@ -1,5 +1,7 @@
 # illicitly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illicitly.md)
+
 <p><span class="chinese">如果热钱流出和资金非法流出中国，其结果将是严重的。</span><span class="english">If "hot money" flows reverse and funds illicitly leave China, the consequences could be severe.</span></p>
 
 <p><span class="chinese">据他们交代，他们的非法所得主要用来开房、上网以及买零食。</span><span class="english">According to their account, their illicitly acquired mainly used to open, Internet and extended.</span></p>

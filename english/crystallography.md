@@ -1,5 +1,7 @@
 # crystallography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crystallography.md)
+
 <p><span class="chinese">概论，教科书，晶体学研究历史。</span><span class="english">Overview, Textbooks, History of Crystallography.</span></p>
 
 <p><span class="chinese">对称规律在晶体学中得到了淋漓尽致的发挥。</span><span class="english">The symmetry rules were exerted perfectly in crystallography.</span></p>

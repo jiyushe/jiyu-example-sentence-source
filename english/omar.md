@@ -1,5 +1,7 @@
 # omar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omar.md)
+
 <p><span class="chinese">奥尔马有一根球棒。</span><span class="english">Omar has a bat.</span></p>
 
 <p><span class="chinese">奥马尔·本·拉丹，六岁。</span><span class="english">Omar bin Laden, age six.</span></p>

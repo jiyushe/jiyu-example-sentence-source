@@ -1,5 +1,7 @@
 # omnivorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omnivorous.md)
+
 <p><span class="chinese">但是这只杂食动物依然毫无节制。</span><span class="english">But the omnivorous beast is rampant still.</span></p>
 
 <p><span class="chinese">它们是身体矮胖、腿短的杂食性动物。</span><span class="english">They are stout-bodied short-legged omnivorous animals.</span></p>

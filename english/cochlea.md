@@ -1,5 +1,7 @@
 # cochlea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cochlea.md)
+
 <p><span class="chinese">损伤后的耳蜗只有一层薄薄的细胞膜，There</span><span class="english">s a single cell layer of a damage cochlea.</span></p>
 
 <p><span class="chinese">损伤后的耳蜗只有一层薄薄的细胞膜，There’</span><span class="english">s a single cell layer of a damage cochlea.</span></p>

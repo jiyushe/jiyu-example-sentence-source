@@ -1,5 +1,7 @@
 # 手杖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzhang_2.md)
+
 <p><span class="chinese">他还拿着根金头的手杖。</span><span class="english">He had a gold-headed cane.</span></p>
 
 <p><span class="chinese">他向他们挥动手杖。</span><span class="english">He waved the stick at them.</span></p>

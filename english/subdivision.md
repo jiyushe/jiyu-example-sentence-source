@@ -1,5 +1,7 @@
 # subdivision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subdivision.md)
+
 <p><span class="chinese">每个细分部分称为子域。</span><span class="english">Each subdivision is known as a subdomain.</span></p>
 
 <p><span class="chinese">英格兰北部的一个郡。</span><span class="english">A subdivision of an arrondissement in France.</span></p>

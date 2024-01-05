@@ -1,5 +1,7 @@
 # spiciness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spiciness.md)
+
 <p><span class="chinese">酒体呈石榴红色，芳香柔和精美，带有红果和香辛料的味道。</span><span class="english">The nose is supple, delicate, with red fruits and spiciness.</span></p>
 
 <p><span class="chinese">呈现良好的黑胡椒及丁香的气味。</span><span class="english">The nose shows black pepper and cloves aromas, with good spiciness.</span></p>

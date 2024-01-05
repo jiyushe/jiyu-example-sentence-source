@@ -1,5 +1,7 @@
 # 劣等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liedeng.md)
+
 <p><span class="chinese">劣等太太，搬是弄非，制造事端。</span><span class="english">The fourth-rate wife gossips and makes trouble.</span></p>
 
 <p><span class="chinese">大面积的劣等草场均进行了翻耕。</span><span class="english">Large areas of rough grazings were brought under the plow.</span></p>

@@ -1,5 +1,7 @@
 # devilish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devilish.md)
+
 <p><span class="chinese">为死神驱使，施展魔鬼的舞技！</span><span class="english">Driven by Death in a devilish dance!</span></p>
 
 <p><span class="chinese">他英俊漂亮，具有魔鬼般的迷惑力。</span><span class="english">He was handsome, with a devilish charm.</span></p>

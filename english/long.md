@@ -1,5 +1,7 @@
 # long 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/long.md)
+
 <p><span class="chinese">沉默良久。</span><span class="english">A long pause.</span></p>
 
 <p><span class="chinese">长的那辆。</span><span class="english">The long one.</span></p>

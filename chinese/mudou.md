@@ -1,5 +1,7 @@
 # 木豆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mudou.md)
+
 <p><span class="chinese">汤类和一些其他的食品都是用木豆做成的。</span><span class="english">Soups and other foods are made with dal.</span></p>
 
 <p><span class="chinese">人们会在节日中供奉一些木豆菜和米饭等食物。</span><span class="english">Specific foods like dal and rice are also offered.</span></p>

@@ -1,5 +1,7 @@
 # unsteadily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsteadily.md)
+
 <p><span class="chinese">她步伐不稳地走开了。</span><span class="english">She walked away unsteadily.</span></p>
 
 <p><span class="chinese">“剩下的就是遗憾了，”她不平静地说。</span><span class="english">"More's the pity, " she said unsteadily.</span></p>

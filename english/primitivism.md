@@ -1,5 +1,7 @@
 # primitivism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primitivism.md)
+
 <p><span class="chinese">原始主义是什么？。</span><span class="english">What Is Primitivism?</span></p>
 
 <p><span class="chinese">劳伦斯的小说贯穿着原始主义的追求。</span><span class="english">The pursuit of primitivism can be seen throughout D.</span></p>

@@ -1,5 +1,7 @@
 # 伊始
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishi_3.md)
+
 <p><span class="chinese">战斗伊始，他就想到走为上策。</span><span class="english">When the fight began, he thought it politic to leave.</span></p>
 
 <p><span class="chinese">各个团队在上课伊始就开始提出问题。</span><span class="english">The teams get to ask questions at the beginning of the class.</span></p>

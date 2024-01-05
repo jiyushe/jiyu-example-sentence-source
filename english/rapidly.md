@@ -1,5 +1,7 @@
 # rapidly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapidly.md)
+
 <p><span class="chinese">他快速驾车驶离。</span><span class="english">He drove away rapidly.</span></p>
 
 <p><span class="chinese">他很快就后悔了。</span><span class="english">He was repenting rapidly.</span></p>

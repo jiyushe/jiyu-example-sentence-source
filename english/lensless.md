@@ -1,5 +1,7 @@
 # lensless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lensless.md)
+
 <p><span class="chinese">基于无透镜傅里叶变换全息术制作了一种新型激光全息瞄准具。</span><span class="english">A new type of holographic sight based on lensless Fourier transform was investigated.</span></p>
 
 <p><span class="chinese">从实验上讨论了利用数字无透镜傅里叶变换全息术数值再现全息图的具体过程。</span><span class="english">The operation for numerical reconstruction of digital lensless Fourier transform holography is experimentally presented.</span></p>

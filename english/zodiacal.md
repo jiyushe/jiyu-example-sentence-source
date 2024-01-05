@@ -1,5 +1,7 @@
 # zodiacal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zodiacal.md)
+
 <p><span class="chinese">这同样也适用于黄道上的星座和恒星。</span><span class="english">The same applies to the zodiacal signs and the stars.</span></p>
 
 <p><span class="chinese">一个人的黄道带的标志是连接到他或她的出生日期。</span><span class="english">A person's zodiacal sign is connected to his or her birth date.</span></p>

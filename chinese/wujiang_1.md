@@ -1,5 +1,7 @@
 # 吴江
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujiang_1.md)
+
 <p><span class="chinese">我的名字叫卫华，出生于1995年，我是吴江人。</span><span class="english">My name is Wei-hua, born in 1995, I was Wujiang people.</span></p>
 
 <p><span class="chinese">吴江万冠纺织有限公司专注于研发“时尚防寒服面料”。</span><span class="english">The company focuses on developing "fashionable cold-proof fabrics".</span></p>

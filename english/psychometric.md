@@ -1,5 +1,7 @@
 # psychometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychometric.md)
+
 <p><span class="chinese">我要把中国的心理测量恢复起来。</span><span class="english">I want to restore China's psychometric up.</span></p>
 
 <p><span class="chinese">按照汀苔的指示，昆兰对纹章使用了触物读心术。</span><span class="english">At Tinte's request, Quinlan used his psychometric abilities to read the emblem.</span></p>

@@ -1,5 +1,7 @@
 # 混凝土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunningtu.md)
+
 <p><span class="chinese">沥青混凝土路?。</span><span class="english">Asphaltic concrete road?</span></p>
 
 <p><span class="chinese">混凝土由升降机提升。</span><span class="english">Concret was raised by a hoist.</span></p>

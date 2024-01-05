@@ -1,5 +1,7 @@
 # watkins
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watkins.md)
+
 <p><span class="chinese">金丝小枣每年十月下旬成熟。</span><span class="english">Watkins jujube mature in late October each year.</span></p>
 
 <p><span class="chinese">科学作家，住美国马里兰州乌班市。</span><span class="english">Dennis Watkins is a science writer based in Woodbine, Md.</span></p>

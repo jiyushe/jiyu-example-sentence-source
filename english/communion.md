@@ -1,5 +1,7 @@
 # communion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communion.md)
+
 <p><span class="chinese">下星期它就可以首次领圣餐了。</span><span class="english">Next week is his First Communion.</span></p>
 
 <p><span class="chinese">为何我们接受圣体血?。</span><span class="english">Why do we receive the holy communion?</span></p>

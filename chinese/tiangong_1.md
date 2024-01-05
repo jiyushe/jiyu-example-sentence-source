@@ -1,5 +1,7 @@
 # 天宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiangong_1.md)
+
 <p><span class="chinese">寂静的天宫，清冷。</span><span class="english">Silent Temple, chilly.</span></p>
 
 <p><span class="chinese">像大闹天宫似的。</span><span class="english">Havoc in Heaven, as if.</span></p>

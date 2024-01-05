@@ -1,5 +1,7 @@
 # 良宵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangxiao.md)
+
 <p><span class="chinese">我很高兴能够和你共度良宵。</span><span class="english">I'm happy to have you over tonight.</span></p>
 
 <p><span class="chinese">你可以在花钱在城里共度良宵。</span><span class="english">You can pay for a night on the town.</span></p>

@@ -1,5 +1,7 @@
 # 跳马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoma.md)
+
 <p><span class="chinese">她夺得了女子跳马金牌了吗？</span><span class="english">Did she win the women's vault ?</span></p>
 
 <p><span class="chinese">男子跳马和女了跳马有什么区别吗？</span><span class="english">Is there any difference between the men.</span></p>

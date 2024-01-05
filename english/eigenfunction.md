@@ -1,5 +1,7 @@
 # eigenfunction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eigenfunction.md)
+
 <p><span class="chinese">提出了一类新的本征函数。</span><span class="english">A new kind of eigenfunction is presented.</span></p>
 
 <p><span class="chinese">定态波函数形态特征。</span><span class="english">Morphology of stationary state eigenfunction.</span></p>

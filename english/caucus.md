@@ -1,5 +1,7 @@
 # caucus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caucus.md)
+
 <p><span class="chinese">我们的国会会议总是我一周中最显要的部分。</span><span class="english">Our caucus meetings were always the highlight of my week.</span></p>
 
 <p><span class="chinese">假如凯尔同意，核心会议的多数人会随声附和。</span><span class="english">If Kyl agrees, the majority of the caucus will follow suit.</span></p>

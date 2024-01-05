@@ -1,5 +1,7 @@
 # 确认
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queren.md)
+
 <p><span class="chinese">我要确认他们做得很好。</span><span class="english">I make sure they work well.</span></p>
 
 <p><span class="chinese">现在请确认后签名。</span><span class="english">Now, please countersign it.</span></p>

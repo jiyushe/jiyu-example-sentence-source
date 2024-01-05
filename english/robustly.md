@@ -1,5 +1,7 @@
 # robustly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/robustly.md)
+
 <p><span class="chinese">该模块具有稳定的单模和保偏效果。</span><span class="english">The module is robustly single mode and polarizing.</span></p>
 
 <p><span class="chinese">它对鲁棒地处理大量文件进行了优化。</span><span class="english">It is optimized to work robustly with large numbers of files.</span></p>

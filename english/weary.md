@@ -1,5 +1,7 @@
 # weary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weary.md)
+
 <p><span class="chinese">我觉得很疲劳。</span><span class="english">I feel weary.</span></p>
 
 <p><span class="chinese">谁累着你了？</span><span class="english">Who weary you?</span></p>

@@ -1,5 +1,7 @@
 # 周年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhounian.md)
+
 <p><span class="chinese">周六是M25公路建成25周年。</span><span class="english">The M25 is 25 on Saturday.</span></p>
 
 <p><span class="chinese">社青盟100周年，国际团结互助。</span><span class="english">Inter Solidarity at IUSY 100.</span></p>

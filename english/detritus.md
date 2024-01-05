@@ -1,5 +1,7 @@
 # detritus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detritus.md)
+
 <p><span class="chinese">我们把所有零碎东西从巴士上清理下来。</span><span class="english">We have emptied the bus of all our detritus.</span></p>
 
 <p><span class="chinese">碎屑的嘎吱嘎吱的反抗下我的脚。</span><span class="english">The detritus of the revolt crunched under my feet.</span></p>

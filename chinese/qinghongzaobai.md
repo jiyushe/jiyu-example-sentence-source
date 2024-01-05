@@ -1,5 +1,7 @@
 # 青红皂白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinghongzaobai.md)
+
 <p><span class="chinese">现在你不问青红皂白把我拖来这里?。</span><span class="english">And now you drag me in here with no probable cause?</span></p>
 
 <p><span class="chinese">大量不分青红皂白的检查和事故不断提高卡车的保养成本。</span><span class="english">And numerous indiscriminate checks and accidents are pushing up truck maintenance costs.</span></p>

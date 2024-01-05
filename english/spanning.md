@@ -1,5 +1,7 @@
 # spanning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spanning.md)
+
 <p><span class="chinese">这部剧非常长，全本十集要演十个晚上。</span><span class="english">It is very long, spanning ten nights in ten episodes.</span></p>
 
 <p><span class="chinese">烧录到CD或DVD，跨越多张光碟，如果必要的。</span><span class="english">Burn to CD or DVD, spanning multiple discs if necessary.</span></p>

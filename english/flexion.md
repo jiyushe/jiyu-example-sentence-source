@@ -1,5 +1,7 @@
 # flexion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flexion.md)
+
 <p><span class="chinese">我们可以用石膏来替代它，把上臂固定于屈曲位。</span><span class="english">We can replace this by plaster with the arm in flexion.</span></p>
 
 <p><span class="chinese">木材。组装。多榫接头连接。弯曲试验。</span><span class="english">Wood . assembly . multiple finger joints . flexion test.</span></p>

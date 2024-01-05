@@ -1,5 +1,7 @@
 # 肉皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roupi.md)
+
 <p><span class="chinese">把肉皮放在它的附近。</span><span class="english">Put the meat skin close to it.</span></p>
 
 <p><span class="chinese">小孩子肉皮儿嫩。</span><span class="english">Young children have delicate skin.</span></p>

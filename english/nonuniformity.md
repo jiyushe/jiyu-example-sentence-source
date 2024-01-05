@@ -1,5 +1,7 @@
 # nonuniformity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonuniformity.md)
+
 <p><span class="chinese">本文主要致力于红外非均匀性测试系统的设计与实现。</span><span class="english">The test system of infrared nonuniformity is designed and implemented in this paper.</span></p>
 
 <p><span class="chinese">最后，对红外图像不均匀性校正研制实用效果进行了评述。</span><span class="english">Finally, the practice effect of nonuniformity adjustment to infrared image is introduced.</span></p>

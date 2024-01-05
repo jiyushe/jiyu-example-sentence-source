@@ -1,5 +1,7 @@
 # trying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trying.md)
+
 <p><span class="chinese">我正在尝试。</span><span class="english">I’m trying.</span></p>
 
 <p><span class="chinese">别闹了！我要睡觉了。</span><span class="english">I'm trying to sleep.</span></p>

@@ -1,5 +1,7 @@
 # 漂漂亮亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaopiaoliangliang.md)
+
 <p><span class="chinese">他们把孩子打扮得漂漂亮亮。</span><span class="english">They dressed the children up.</span></p>
 
 <p><span class="chinese">她喜欢打扮得漂漂亮亮的去参加晚会。</span><span class="english">She likes to dress up for a party.</span></p>

@@ -1,5 +1,7 @@
 # 酒性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuxing_2.md)
+
 <p><span class="chinese">酒性开始发作。</span><span class="english">The liquor began to show its effect.</span></p>
 
 <p><span class="chinese">自制的酒有的酒性很烈。</span><span class="english">Home-made wine can be very alcoholic.</span></p>

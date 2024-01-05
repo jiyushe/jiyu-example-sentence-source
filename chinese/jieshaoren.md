@@ -1,5 +1,7 @@
 # 介绍人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshaoren.md)
+
 <p><span class="chinese">请告诉我你的介绍人。</span><span class="english">Tell me about your references.</span></p>
 
 <p><span class="chinese">你怎么认识这些介绍人的？</span><span class="english">How do you know these references?</span></p>

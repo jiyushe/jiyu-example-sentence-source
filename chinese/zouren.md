@@ -1,5 +1,7 @@
 # 走人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouren.md)
+
 <p><span class="chinese">我准备好走人了吗？</span><span class="english">Am I prepared to walk away?</span></p>
 
 <p><span class="chinese">三分之一的工人会卷铺盖走人。</span><span class="english">One in three workers will be gone.</span></p>

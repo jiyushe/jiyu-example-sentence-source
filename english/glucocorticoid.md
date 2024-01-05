@@ -1,5 +1,7 @@
 # glucocorticoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glucocorticoid.md)
+
 <p><span class="chinese">淋巴细胞减少常由于糖皮质激素的分泌。</span><span class="english">Lymphopenia may occur most commonly as a response to glucocorticoid secretion.</span></p>
 
 <p><span class="chinese">糖皮质激素联合CTX治疗狼疮样肝炎可以慎用。</span><span class="english">Glucocorticoid plus CTX may be used to treat lupus-like hepatitis with caution.</span></p>

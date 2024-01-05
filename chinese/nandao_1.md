@@ -1,5 +1,7 @@
 # 难道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nandao_1.md)
+
 <p><span class="chinese">难道他们不都很帅吗？</span><span class="english">Aren’t they all?</span></p>
 
 <p><span class="chinese">难道我看起来很老吗？</span><span class="english">Do I look so old?</span></p>

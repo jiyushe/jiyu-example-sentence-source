@@ -1,5 +1,7 @@
 # whatsoever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whatsoever.md)
+
 <p><span class="chinese">并无差异。</span><span class="english">No difference whatsoever.</span></p>
 
 <p><span class="chinese">我对此一点都不知道。</span><span class="english">I have no knowledge of it whatsoever.</span></p>

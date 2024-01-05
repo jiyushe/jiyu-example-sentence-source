@@ -1,5 +1,7 @@
 # 职工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhigong.md)
+
 <p><span class="chinese">我的丈夫是一名铁路职工。</span><span class="english">Her husband was a customs officer.</span></p>
 
 <p><span class="chinese">岳阳市中医院现在干部职工976人。</span><span class="english">Now the hospital has 976 staff members.</span></p>

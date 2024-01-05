@@ -1,5 +1,7 @@
 # 一个劲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yigejin.md)
+
 <p><span class="chinese">赤字还在一个劲地涨。</span><span class="english">Oh, the deficit's a rising.</span></p>
 
 <p><span class="chinese">他只是一个劲的眨眼睛。</span><span class="english">He was just kind of blinking.</span></p>

@@ -1,5 +1,7 @@
 # 舟楫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouji.md)
+
 <p><span class="chinese">舟楫是船的正式说法。</span><span class="english">Zhouji is the formal saying of boat.</span></p>
 
 <p><span class="chinese">江河湖泽给我们以舟楫和灌溉之利。</span><span class="english">Rivers and lakes provide us with water transport and irrigation.</span></p>

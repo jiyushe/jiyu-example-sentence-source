@@ -1,5 +1,7 @@
 # pregnancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pregnancy.md)
+
 <p><span class="chinese">妊娠期间感染。</span><span class="english">Infection during pregnancy.</span></p>
 
 <p><span class="chinese">孕期可不可以吃大杏仁呢？</span><span class="english">Pregnancy can eat big almond?</span></p>

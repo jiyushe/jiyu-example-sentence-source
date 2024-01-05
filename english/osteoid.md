@@ -1,5 +1,7 @@
 # osteoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteoid.md)
+
 <p><span class="chinese">局部可见粉红色类骨质。</span><span class="english">Focally, pink osteoid is present.</span></p>
 
 <p><span class="chinese">成骨细胞瘤恰是椎骨上的大骨样骨瘤。</span><span class="english">An osteoblastoma is just a big osteoid osteoma in the vertebra.</span></p>

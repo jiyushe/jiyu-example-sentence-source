@@ -1,5 +1,7 @@
 # nonempty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonempty.md)
+
 <p><span class="chinese">的边界包含一个非空开集。</span><span class="english">The boundary of A contains a nonempty open set.</span></p>
 
 <p><span class="chinese">在经典数学中，每个非空的仿射空间都平行于惟一的向量子空间。</span><span class="english">Each nonempty affine set is parallel to a unique vector subspace.</span></p>

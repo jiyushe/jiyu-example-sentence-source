@@ -1,5 +1,7 @@
 # skirt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skirt.md)
+
 <p><span class="chinese">我有一条红裙子。</span><span class="english">I've a red skirt.</span></p>
 
 <p><span class="chinese">是你的短裙。</span><span class="english">It\'s your skirt.</span></p>

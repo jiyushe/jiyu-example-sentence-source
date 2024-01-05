@@ -1,5 +1,7 @@
 # 串通一气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuantongyiqi.md)
+
 <p><span class="chinese">我知道谁跟罗翰国的塞奥顿串通一气。</span><span class="english">I know who rides with Théoden of Rohan.</span></p>
 
 <p><span class="chinese">几家公司串通一气抬高物价。</span><span class="english">Several companies gang up to raise prices.</span></p>

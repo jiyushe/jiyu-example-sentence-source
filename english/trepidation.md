@@ -1,5 +1,7 @@
 # trepidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trepidation.md)
+
 <p><span class="chinese">但是来自空间天体的异动</span><span class="english">But trepidation of the spheres</span></p>
 
 <p><span class="chinese">一丝惊恐闪过Hale的脸上。</span><span class="english">A hint of trepidation shows on Hale’s face.</span></p>

@@ -1,5 +1,7 @@
 # 佳人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaren.md)
+
 <p><span class="chinese">嘻水佳人照映面。</span><span class="english">Laugh beauty Zhaoying surface water.</span></p>
 
 <p><span class="chinese">您可以尝尝红粉佳人，它非常可口。</span><span class="english">You might try Pink Lady, It's very delicious.</span></p>

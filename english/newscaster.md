@@ -1,5 +1,7 @@
 # newscaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newscaster.md)
+
 <p><span class="chinese">我是新闻播音员。</span><span class="english">I'm a newscaster.</span></p>
 
 <p><span class="chinese">我也是新闻播音员。</span><span class="english">And I'm a newscaster.</span></p>

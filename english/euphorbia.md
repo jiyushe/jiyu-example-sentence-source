@@ -1,5 +1,7 @@
 # euphorbia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euphorbia.md)
+
 <p><span class="chinese">目的研究月腺大戟的化学成分。</span><span class="english">Aim To study the chemical constituents of Euphorbia ebracteolata Hayata.</span></p>
 
 <p><span class="chinese">使用浸渍法测定了泽漆乳浆及乙醇提取物对桃蚜的室内杀虫作用和拒食作用。</span><span class="english">The insecticidal and antifeeding activity of latex and ethanol extracts of Euphorbia helioscopia L.</span></p>

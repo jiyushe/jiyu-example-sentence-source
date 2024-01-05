@@ -1,5 +1,7 @@
 # imagism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imagism.md)
+
 <p><span class="chinese">作者在诗中使用了象征主义手法，和比喻等修辞方法。</span><span class="english">The writer uses imagism and other figure of speech like simile etc.</span></p>
 
 <p><span class="chinese">在意象诗的创作中，他遵循了意象诗的原则。</span><span class="english">In composing such poems, Laurence follows the basic principles of imagism.</span></p>

@@ -1,5 +1,7 @@
 # 招摇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoyao.md)
+
 <p><span class="chinese">乔是一个爱招摇的,庸俗的人。</span><span class="english">Joe is a loud, vulgar person.</span></p>
 
 <p><span class="chinese">孕育幼芽的枝条伸展着扇子招摇。</span><span class="english">The budding twigs spread out their fan.</span></p>

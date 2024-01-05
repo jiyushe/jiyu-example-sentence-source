@@ -1,5 +1,7 @@
 # realizing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realizing.md)
+
 <p><span class="chinese">“啊噢，”意识到犯了错误，我说。</span><span class="english">"Uh-oh," I said, realizing my mistake.</span></p>
 
 <p><span class="chinese">大概是意识到你想成为怎样的一个人。</span><span class="english">Probably realizing what kind of person you are.</span></p>

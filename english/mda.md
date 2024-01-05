@@ -1,5 +1,7 @@
 # mda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mda.md)
+
 <p><span class="chinese">阿斯匹林可阻断血小板丙二醛形成。</span><span class="english">MDA formation in platelets was prevented by aspirin.</span></p>
 
 <p><span class="chinese">硫代巴比妥酸法测定MDA含量。</span><span class="english">Content of MDA was detected by thio-barbituric acid technique.</span></p>

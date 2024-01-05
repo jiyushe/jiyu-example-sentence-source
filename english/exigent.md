@@ -1,5 +1,7 @@
 # exigent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exigent.md)
+
 <p><span class="chinese">建设资源节约型社会是当前极为迫切的任务。</span><span class="english">Building resource-conserving society is an exigent mission.</span></p>
 
 <p><span class="chinese">扩建堆填区不能够解决这个急切问题，对吗？</span><span class="english">Extending landfills CANNOT solve this exigent problem, do you ageree?</span></p>

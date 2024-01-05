@@ -1,5 +1,7 @@
 # 云杉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunshan_1.md)
+
 <p><span class="chinese">大牛，你说的地方就在这云杉坪了。</span><span class="english">Daniel, that place is at Yunshanping.</span></p>
 
 <p><span class="chinese">在我观望的时候，一只海鸥在云杉丛上飞掠而过。</span><span class="english">As I watched, a gull flew by, above the spruces.</span></p>

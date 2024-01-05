@@ -1,5 +1,7 @@
 # 资本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziben.md)
+
 <p><span class="chinese">调整银行资本。</span><span class="english">Recapitalizing banks.</span></p>
 
 <p><span class="chinese">什么是资本性资产?。</span><span class="english">What is capital asset?</span></p>

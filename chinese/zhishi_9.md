@@ -1,5 +1,7 @@
 # 致使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishi_9.md)
+
 <p><span class="chinese">他长年生病，致使身体瘦弱。</span><span class="english">His long illness leaned his body.</span></p>
 
 <p><span class="chinese">我高速驾车致使我头晕目眩。</span><span class="english">I drove at speeds that dizzied me.</span></p>

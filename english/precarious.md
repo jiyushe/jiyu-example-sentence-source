@@ -1,5 +1,7 @@
 # precarious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precarious.md)
+
 <p><span class="chinese">家人过着朝不保夕的生活。</span><span class="english">The family lived a precarious existence.</span></p>
 
 <p><span class="chinese">作为一个艺术家，他过的是朝不保夕的生活。</span><span class="english">He earned a precarious living as an artist.</span></p>

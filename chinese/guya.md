@@ -1,5 +1,7 @@
 # 古雅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guya.md)
+
 <p><span class="chinese">但他们断然古雅。</span><span class="english">But they were decidedly quaint.</span></p>
 
 <p><span class="chinese">古雅的小店依旧灯火阑珊。</span><span class="english">Quaint shops still has its lights.</span></p>

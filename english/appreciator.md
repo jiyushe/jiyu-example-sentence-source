@@ -1,5 +1,7 @@
 # appreciator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appreciator.md)
+
 <p><span class="chinese">他是个伟大的艺术鉴赏家。</span><span class="english">He is a great appreciator of art.</span></p>
 
 <p><span class="chinese">我是个男人，我会欣赏女人。</span><span class="english">I am a man, and I am an appreciator of women.</span></p>

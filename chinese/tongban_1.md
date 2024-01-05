@@ -1,5 +1,7 @@
 # 同班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongban_1.md)
+
 <p><span class="chinese">他和我是同班学友。</span><span class="english">He and I are classmates.</span></p>
 
 <p><span class="chinese">刘凯是我的同班同学。</span><span class="english">Liu Kai is my classmate.</span></p>

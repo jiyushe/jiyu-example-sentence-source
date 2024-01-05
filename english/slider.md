@@ -1,5 +1,7 @@
 # slider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slider.md)
+
 <p><span class="chinese">滑球是另一种球路。</span><span class="english">The slider is another pitch.</span></p>
 
 <p><span class="chinese">一个滑动的按钮可以调焦。</span><span class="english">A slider button adjusts focus.</span></p>

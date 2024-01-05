@@ -1,5 +1,7 @@
 # arrear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrear.md)
+
 <p><span class="chinese">他拖欠了六个星期的租金。</span><span class="english">He is six week In arrear with his rent.</span></p>
 
 <p><span class="chinese">他拖欠了六个星期的租金。</span><span class="english">He is six weeks in arrear with his rent.</span></p>

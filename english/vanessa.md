@@ -1,5 +1,7 @@
 # vanessa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vanessa.md)
+
 <p><span class="chinese">“我也是。”凡妮莎说。</span><span class="english">"Me too, " said Vanessa.</span></p>
 
 <p><span class="chinese">瓦妮莎目前还没有工作。</span><span class="english">Vanessa still has no job.</span></p>

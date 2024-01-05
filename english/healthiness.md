@@ -1,5 +1,7 @@
 # healthiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/healthiness.md)
+
 <p><span class="chinese">他黑黝黝的皮肤是健康的标志。</span><span class="english">His dusky skin is a sign of healthiness.</span></p>
 
 <p><span class="chinese">按照苏维埃的理念，食堂的核心是保证健康。</span><span class="english">According to Soviet concept healthiness was the key point of catering.</span></p>

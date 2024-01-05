@@ -1,5 +1,7 @@
 # 千难万险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiannanwanxian.md)
+
 <p><span class="chinese">千难万险只一刻，英雄本色惊四方。</span><span class="english">Her qualities of a hero astound the world.</span></p>
 
 <p><span class="chinese">天高地阔任飞翔，千难万险不屈挠。</span><span class="english">Day Heights wide Renfei Xiang, hardships indomitable.</span></p>

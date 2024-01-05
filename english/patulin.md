@@ -1,5 +1,7 @@
 # patulin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patulin.md)
+
 <p><span class="chinese">感冒药哪种最好？</span><span class="english">Patulin which kinds are best?</span></p>
 
 <p><span class="chinese">哦，在这里。感冒药。天啊，不会吧？</span><span class="english">Oh, here it is. Patulin. Oh, no!</span></p>

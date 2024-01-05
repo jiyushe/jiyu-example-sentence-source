@@ -1,5 +1,7 @@
 # 姑父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gufu.md)
+
 <p><span class="chinese">贝蒂的姑姑和姑父喜欢去电影院。</span><span class="english">Bettys aunt and uncle like the cinema.</span></p>
 
 <p><span class="chinese">我的姑姑和姑父去机场接我的。</span><span class="english">My aunt and uncle met me at the airport.</span></p>

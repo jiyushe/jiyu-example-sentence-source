@@ -1,5 +1,7 @@
 # 胃溃疡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weikuiyang.md)
+
 <p><span class="chinese">服用阿司匹林会引起胃溃疡，这我们都知道。</span><span class="english">Aspirin causes stomach ulcers.</span></p>
 
 <p><span class="chinese">她常遭受胃溃疡之苦。</span><span class="english">She often suffers from stomach ulcer.</span></p>

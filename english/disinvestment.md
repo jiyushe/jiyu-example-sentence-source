@@ -1,5 +1,7 @@
 # disinvestment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disinvestment.md)
+
 <p><span class="chinese">这些投资减缩荒废了生产力。</span><span class="english">This disinvestment laid waste to productivity.</span></p>
 
 <p><span class="chinese">主要后果是对国家结构的广泛幻灭。</span><span class="english">The major result has been a massive disinvestment in state structures.</span></p>

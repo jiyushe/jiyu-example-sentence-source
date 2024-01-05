@@ -1,5 +1,7 @@
 # fleury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleury.md)
+
 <p><span class="chinese">弗洛瑞，过来看这个。</span><span class="english">Fleury , come here and look at this.</span></p>
 
 <p><span class="chinese">为使成绩记录在档，弗勒门主动要求接受药检。</span><span class="english">In order to track record in the file, Fleury asked to take the initiative to test the door.</span></p>

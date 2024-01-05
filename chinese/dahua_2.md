@@ -1,5 +1,7 @@
 # 打滑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahua_2.md)
+
 <p><span class="chinese">汽车打滑一段后停了下来。</span><span class="english">The car skidded to a halt.</span></p>
 
 <p><span class="chinese">汽车打滑了，车轮发出刺耳的声音。</span><span class="english">The car skids, the tires screech.</span></p>

@@ -1,5 +1,7 @@
 # cassiterite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cassiterite.md)
+
 <p><span class="chinese">矿床中锡也以锡石为主。</span><span class="english">Cassiterite is also predominart in the deposits.</span></p>
 
 <p><span class="chinese">矿床中锡以锡石为主。</span><span class="english">Tin in the deposits occurred mainly as cassiterite.</span></p>

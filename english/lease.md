@@ -1,5 +1,7 @@
 # lease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lease.md)
+
 <p><span class="chinese">取消租赁。</span><span class="english">Lease cancellation.</span></p>
 
 <p><span class="chinese">这看上去是标准的契约书。</span><span class="english">Look like a standard lease.</span></p>

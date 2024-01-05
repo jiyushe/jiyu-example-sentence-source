@@ -1,5 +1,7 @@
 # 手势语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoushiyu.md)
+
 <p><span class="chinese">他们用手势语相互交谈。</span><span class="english">They talk in sign Language.</span></p>
 
 <p><span class="chinese">我喜欢用手势语，真的很有趣。</span><span class="english">We like to use hand signs. It's fun.</span></p>

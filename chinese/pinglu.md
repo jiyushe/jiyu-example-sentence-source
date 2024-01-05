@@ -1,5 +1,7 @@
 # 平炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinglu.md)
+
 <p><span class="chinese">该枪能适应大平炉生产的需要。</span><span class="english">This gun can meet the production of large martin furnace.</span></p>
 
 <p><span class="chinese">后来又说2平炉电炉生产铸钢件。</span><span class="english">Later added 2 open hearth furnaces for producing steel castings.</span></p>

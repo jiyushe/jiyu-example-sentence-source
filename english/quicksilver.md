@@ -1,5 +1,7 @@
 # quicksilver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quicksilver.md)
+
 <p><span class="chinese">感觉就像是看水银流动。</span><span class="english">It was like watching quicksilver in motion.</span></p>
 
 <p><span class="chinese">这是一门变化莫测，收益极其丰厚的生意。</span><span class="english">It is a quicksilver business and wildly lucrative.</span></p>

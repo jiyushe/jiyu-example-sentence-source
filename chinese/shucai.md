@@ -1,5 +1,7 @@
 # 蔬菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shucai.md)
+
 <p><span class="chinese">炖蔬菜。</span><span class="english">Stewed vegetables.</span></p>
 
 <p><span class="chinese">水果和蔬菜。</span><span class="english">Fruits and vegetables.</span></p>

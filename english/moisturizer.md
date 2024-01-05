@@ -1,5 +1,7 @@
 # moisturizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moisturizer.md)
+
 <p><span class="chinese">我喜爱这款保湿霜。</span><span class="english">I like this moisturizer.</span></p>
 
 <p><span class="chinese">这是一种极好人体保湿剂。</span><span class="english">It is a superb bodycare moisturizer.</span></p>

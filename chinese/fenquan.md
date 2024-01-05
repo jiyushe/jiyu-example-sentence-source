@@ -1,5 +1,7 @@
 # 分权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenquan.md)
+
 <p><span class="chinese">第三点是分权制</span><span class="english">Third is decentralization.</span></p>
 
 <p><span class="chinese">目前的时尚是要求地方分权。</span><span class="english">The current vogue is for decentralization.</span></p>

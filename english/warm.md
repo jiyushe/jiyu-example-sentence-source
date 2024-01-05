@@ -1,5 +1,7 @@
 # warm 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warm.md)
+
 <p><span class="chinese">手表完全恢复正常。</span><span class="english">All warm good.</span></p>
 
 <p><span class="chinese">暖空气上升。</span><span class="english">Warm air rises.</span></p>

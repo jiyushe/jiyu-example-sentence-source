@@ -1,5 +1,7 @@
 # 野人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeren.md)
+
 <p><span class="chinese">野人海岸迅猛龙遗址。</span><span class="english">Savage Coast Raptor Fields.</span></p>
 
 <p><span class="chinese">我有其他人来领导野人。</span><span class="english">I have other men to lead the wildlings.</span></p>

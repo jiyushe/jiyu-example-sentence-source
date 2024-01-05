@@ -1,5 +1,7 @@
 # avowal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avowal.md)
+
 <p><span class="chinese">投降的白旗表示公开宣称战败。</span><span class="english">The white flag of surrender is an avowal of defeat.</span></p>
 
 <p><span class="chinese">全国的报纸登载了他承认的消息。</span><span class="english">The press carried his avowal throughout the country.</span></p>

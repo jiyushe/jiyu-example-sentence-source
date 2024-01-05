@@ -1,5 +1,7 @@
 # 皇朝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangchao.md)
+
 <p><span class="chinese">之后，记者来到了广场南侧的皇朝娱乐城。</span><span class="english">After the reporter came to the plaza south of the Dynasty Casino.</span></p>
 
 <p><span class="chinese">他们结成一种不太稳定的伙伴关系去抵抗比他们强大很多的由曹操领导的汉皇朝军队。</span><span class="english">They forge an uneasy partnership to resist the much- larger Han Empire forces led by Cao.</span></p>

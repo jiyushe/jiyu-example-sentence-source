@@ -1,5 +1,7 @@
 # again
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/again.md)
+
 <p><span class="chinese">再次漱口。</span><span class="english">Rinse again.</span></p>
 
 <p><span class="chinese">又错了。</span><span class="english">Wrong again.</span></p>

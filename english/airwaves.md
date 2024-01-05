@@ -1,5 +1,7 @@
 # airwaves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airwaves.md)
+
 <p><span class="chinese">你怎么能通过电波将东西传输过去？</span><span class="english">How could you transmit that amount of bandwidth over the airwaves?</span></p>
 
 <p><span class="chinese">因此，在这里“谁主宰了无线电波，谁就是赢家”，他解释说。</span><span class="english">As a result, those who "rule the airwaves are the winners," he explains.</span></p>

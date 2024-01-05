@@ -1,5 +1,7 @@
 # calvary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calvary.md)
+
 <p><span class="chinese">离耶稣受难地几千英里。</span><span class="english">thousands from Calvary.</span></p>
 
 <p><span class="chinese">转眼望向加略山。</span><span class="english">Turn your eyes to Calvary.</span></p>

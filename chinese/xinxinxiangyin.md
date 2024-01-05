@@ -1,5 +1,7 @@
 # 心心相印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxinxiangyin.md)
+
 <p><span class="chinese">红色和象征心心相印。</span><span class="english">Red and white together signify unity.</span></p>
 
 <p><span class="chinese">我的爱人，我们一直是心心相印的。</span><span class="english">Honey, we always know each other?s mind.</span></p>

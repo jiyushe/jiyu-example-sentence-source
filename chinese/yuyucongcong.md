@@ -1,5 +1,7 @@
 # 郁郁葱葱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyucongcong.md)
+
 <p><span class="chinese">这是郁郁葱葱的以耀目和权力。</span><span class="english">It's lush with panache and power.</span></p>
 
 <p><span class="chinese">地段上郁郁葱葱的绿化区让您享受。</span><span class="english">Lots lush green areas for you to enjoy.</span></p>

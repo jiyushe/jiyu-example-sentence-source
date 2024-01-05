@@ -1,5 +1,7 @@
 # 织锦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijin.md)
+
 <p><span class="chinese">成为“拼画”或“织锦”</span><span class="english">Becoming a “Mosaic” or “Tapestry”</span></p>
 
 <p><span class="chinese">沙发上铺上了华贵的织锦。</span><span class="english">The sofa was covered with expensive brocade.</span></p>

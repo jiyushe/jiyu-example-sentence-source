@@ -1,5 +1,7 @@
 # reformism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reformism.md)
+
 <p><span class="chinese">民主社会主义实质就是一种社会改良主义。</span><span class="english">The democratic is one kind of reformism in essence.</span></p>
 
 <p><span class="chinese">马建忠是天主教徒，也是中国近代史上一个著名的改良主义思想家。</span><span class="english">Ma Jianzhong is not only a Catholic but also a famous reformism thinker in China's modern history.</span></p>

@@ -1,5 +1,7 @@
 # homology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homology.md)
+
 <p><span class="chinese">游戏用鼠标键点击相同。</span><span class="english">The game clicks a homology with the mouse key.</span></p>
 
 <p><span class="chinese">我们还分析了它在玉米基因组中的同源序列。</span><span class="english">The homology of it in maize genome was also analyzed.</span></p>

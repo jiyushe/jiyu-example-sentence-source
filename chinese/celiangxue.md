@@ -1,5 +1,7 @@
 # 测量学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/celiangxue.md)
+
 <p><span class="chinese">立体测量学介绍。</span><span class="english">Introduction to stereology.</span></p>
 
 <p><span class="chinese">它是空间测量学专业船只。</span><span class="english">It is specialized in astrometry and survey operations.</span></p>

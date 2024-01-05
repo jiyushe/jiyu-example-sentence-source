@@ -1,5 +1,7 @@
 # 不白之冤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bubaizhiyuan.md)
+
 <p><span class="chinese">许多贞洁贤淑的娘儿们，都是这样蒙上了不白之冤。</span><span class="english">And many worthy and chaste dames even thus, All guiltless, meet reproach.</span></p>
 
 <p><span class="chinese">他们通过这种方法将很多犯罪分子绳之以法，也让很多无辜的人免受不白之冤。</span><span class="english">They´ve put murderers in jail that way. They´ve also freed innocent people.</span></p>

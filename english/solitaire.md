@@ -1,5 +1,7 @@
 # solitaire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solitaire.md)
+
 <p><span class="chinese">藉由故事接龙的游戏。</span><span class="english">Through the "Story Solitaire" game.</span></p>
 
 <p><span class="chinese">教孩子玩跳棋或象棋.</span><span class="english">Teach your child how to play solitaire or chess.</span></p>

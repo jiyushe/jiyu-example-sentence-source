@@ -1,5 +1,7 @@
 # nomadic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nomadic.md)
+
 <p><span class="chinese">游牧区多为游动式。</span><span class="english">For more nomadic area of swimming.</span></p>
 
 <p><span class="chinese">他们很久以前就放弃了他们的游牧生活。</span><span class="english">They long ago forsook their nomadic life.</span></p>

@@ -1,5 +1,7 @@
 # hollow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hollow.md)
+
 <p><span class="chinese">我的心空了。</span><span class="english">My heart is hollow.</span></p>
 
 <p><span class="chinese">你是空无所有。</span><span class="english">You will be hollow.</span></p>

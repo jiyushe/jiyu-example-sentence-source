@@ -1,5 +1,7 @@
 # dhaka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dhaka.md)
+
 <p><span class="chinese">隆冬时节的达卡灯火通明。</span><span class="english">It is winter and Dhaka is full of lights.</span></p>
 
 <p><span class="chinese">四月的达卡已近盛夏。</span><span class="english">Midsummer is drawing near to Dhaka in April.</span></p>

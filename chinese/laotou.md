@@ -1,5 +1,7 @@
 # 老头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laotou.md)
+
 <p><span class="chinese">那老头一定是个犹太人。</span><span class="english">The old cove must be a Jew.</span></p>
 
 <p><span class="chinese">他已是一位白发苍苍的老头。</span><span class="english">He was a grey-haired old man.</span></p>

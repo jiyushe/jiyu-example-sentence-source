@@ -1,5 +1,7 @@
 # 鬼节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guijie.md)
+
 <p><span class="chinese">“鬼街”或鬼节。</span><span class="english">"Ghost street" or Guijie.</span></p>
 
 <p><span class="chinese">并有特殊的鬼节和舞牦牛。</span><span class="english">And have special Halloween and dance yak.</span></p>

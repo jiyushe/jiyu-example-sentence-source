@@ -1,5 +1,7 @@
 # stated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stated.md)
+
 <p><span class="chinese">他向我说明了他的观点。</span><span class="english">He stated his views to me.</span></p>
 
 <p><span class="chinese">他很清楚明白地阐述了自己的观点。</span><span class="english">He stated his view-point clearly.</span></p>

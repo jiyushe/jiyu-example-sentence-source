@@ -1,5 +1,7 @@
 # delos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delos.md)
+
 <p><span class="chinese">得洛斯矗立，太阳升起的地方！</span><span class="english">Where Delos rose, and Phoebus sprung!</span></p>
 
 <p><span class="chinese">只有得洛斯岛同意成为未来神祗的诞生地。</span><span class="english">Delos alone consented to become the birthplace of the future gods.</span></p>

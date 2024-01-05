@@ -1,5 +1,7 @@
 # exoskeleton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exoskeleton.md)
+
 <p><span class="chinese">“它是外骨架增强，”Dagher博士说。</span><span class="english">“It’s exoskeleton reinforcement, ” Dr. Dagher said.</span></p>
 
 <p><span class="chinese">昆虫的外骨骼大部分是由蛋白质和几丁质组成的。</span><span class="english">The exoskeleton of insects is largely made of protein and chitin.</span></p>

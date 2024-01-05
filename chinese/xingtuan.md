@@ -1,5 +1,7 @@
 # 星团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingtuan.md)
+
 <p><span class="chinese">甚至狼星、户星、宿星团星振动未跌低。</span><span class="english">Arcturus never fell so low in vibration.</span></p>
 
 <p><span class="chinese">球状星团曾经统治着银河系。</span><span class="english">Globular clusters once ruled the Milky Way.</span></p>

@@ -1,5 +1,7 @@
 # dcm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dcm.md)
+
 <p><span class="chinese">扩张型心肌病也有其它的因素，比如，病毒、毒物、基因。</span><span class="english">DCM has other causes, too, such as viruses, poisons, and genetics.</span></p>
 
 <p><span class="chinese">常见病因为冠心病、其次是高血压，也可见于风心病、心肌病等。</span><span class="english">The most etiology of CLBBB was CAD, HP, DCM and rheumatic heart disease.</span></p>

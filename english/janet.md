@@ -1,5 +1,7 @@
 # janet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/janet.md)
+
 <p><span class="chinese">杰力特是一个爱情杀手。</span><span class="english">Janet is a knockout.</span></p>
 
 <p><span class="chinese">珍妮向男朋友眨眨眼。</span><span class="english">Janet winked at her boy friend.</span></p>

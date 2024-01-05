@@ -1,5 +1,7 @@
 # 诘问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiewen.md)
+
 <p><span class="chinese">社会党候选人不断受到诘问。</span><span class="english">The Socialist candidate was heckled continuously.</span></p>
 
 <p><span class="chinese">我一遍又遍地诘问自己，在校园孤零的一角。</span><span class="english">I asked myself, in an isolated corner of the campus.</span></p>

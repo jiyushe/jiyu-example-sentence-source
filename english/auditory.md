@@ -1,5 +1,7 @@
 # auditory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auditory.md)
+
 <p><span class="chinese">他有轻度耳鸣，并且听力稍减。</span><span class="english">He had mild tinnitus, and slightly decreased auditory acuity.</span></p>
 
 <p><span class="chinese">触觉和听觉的刺激可诱发惊厥和角弓反张。</span><span class="english">Tactile and auditory stimuli provoke convulsions with opisthotonos.</span></p>

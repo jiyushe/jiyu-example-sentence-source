@@ -1,5 +1,7 @@
 # ethnological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethnological.md)
+
 <p><span class="chinese">田野调查是民族学研究的主要方法。</span><span class="english">Fieldwork is the main method applied in ethnological studies.</span></p>
 
 <p><span class="chinese">第三章孟子民族观主要内容。</span><span class="english">The third part is about the main content of Mencius Ethnological Viewpoint.</span></p>

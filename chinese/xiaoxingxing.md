@@ -1,5 +1,7 @@
 # 小行星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxingxing.md)
+
 <p><span class="chinese">小行星Lutetia许多年来一直是个迷。</span><span class="english">Lutetia has been a mystery for many years.</span></p>
 
 <p><span class="chinese">把机器人送往太空中，然后捕获一颗小行星，接着将其带回地球的轨道之中。</span><span class="english">PASADENA, Calif. —Send a robot into space.</span></p>

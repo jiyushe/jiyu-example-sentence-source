@@ -1,5 +1,7 @@
 # intrastate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intrastate.md)
+
 <p><span class="chinese">而另一位敌手是来自爱阿华州内的史考特高文。</span><span class="english">From intrastate rival Iowa State was Scott Coleman.</span></p>
 
 <p><span class="chinese">经济因素是怎样影响国家间的关系和国内政治的？</span><span class="english">How do economic factors affect interstate and intrastate relations?</span></p>

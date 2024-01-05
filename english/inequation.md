@@ -1,5 +1,7 @@
 # inequation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inequation.md)
+
 <p><span class="chinese">看到这样一个错误的不等式，你会想到什么呢?。</span><span class="english">What do you think when you see such a wrong inequation?</span></p>
 
 <p><span class="chinese">方法采用级数计算和不等式放缩技巧。</span><span class="english">Methods The operation of series and the skills of magnifying and shrinking of inequation were both used.</span></p>

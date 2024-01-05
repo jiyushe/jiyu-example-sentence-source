@@ -1,5 +1,7 @@
 # washcloth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washcloth.md)
+
 <p><span class="chinese">泡温泉时不可以用毛巾洗澡。</span><span class="english">You can't use a washcloth in the bath.</span></p>
 
 <p><span class="chinese">用伏特加或漱口水把抹布浸湿吧。</span><span class="english">Soak a washcloth with vodka or mouthwash.</span></p>

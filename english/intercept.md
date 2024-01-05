@@ -1,5 +1,7 @@
 # intercept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercept.md)
+
 <p><span class="chinese">现在我们已经创建了截获目的地。</span><span class="english">We've now created the intercept destination.</span></p>
 
 <p><span class="chinese">lpha是截距</span><span class="english">The alpha is just the intercept of this curve.</span></p>

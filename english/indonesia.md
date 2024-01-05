@@ -1,5 +1,7 @@
 # indonesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indonesia.md)
+
 <p><span class="chinese">他在印尼生活。</span><span class="english">He lives in Indonesia.</span></p>
 
 <p><span class="chinese">印尼农村的一个村庄。</span><span class="english">A village in rural Indonesia.</span></p>

@@ -1,5 +1,7 @@
 # 左派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuopai.md)
+
 <p><span class="chinese">耶稣基督是左派吗？</span><span class="english">Was Jesus Christ a lefty?</span></p>
 
 <p><span class="chinese">这种变化将对左派有利。</span><span class="english">This will be good for the left.</span></p>

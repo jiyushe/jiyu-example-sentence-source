@@ -1,5 +1,7 @@
 # electronic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electronic.md)
+
 <p><span class="chinese">有可能是电子音乐。</span><span class="english">It'll probably be electronic.</span></p>
 
 <p><span class="chinese">这全是通过电子手段的转移。</span><span class="english">This is all electronic transfer.</span></p>

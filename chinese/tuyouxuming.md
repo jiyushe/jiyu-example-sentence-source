@@ -1,5 +1,7 @@
 # 徒有虚名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuyouxuming.md)
+
 <p><span class="chinese">有时爱情徒有虚名。</span><span class="english">Love is only a name.</span></p>
 
 <p><span class="chinese">他是个徒有虚名的学者。</span><span class="english">He is a scholar of a kind.</span></p>

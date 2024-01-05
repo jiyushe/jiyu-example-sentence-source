@@ -1,5 +1,7 @@
 # facetious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facetious.md)
+
 <p><span class="chinese">现在你认为这么说很可笑，这些基因可能既不美，也不高智能。</span><span class="english">Now you think that is facetious.</span></p>
 
 <p><span class="chinese">你知道吗？那个爱乱开玩笑的青年是玛丽的丈夫。</span><span class="english">Do you know that facetious young man is Mary's husband ?</span></p>

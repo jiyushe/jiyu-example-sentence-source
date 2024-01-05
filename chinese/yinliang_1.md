@@ -1,5 +1,7 @@
 # 银两
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinliang_1.md)
+
 <p><span class="chinese">查封所得以及拍卖所得的银两呢？</span><span class="english">Confiscate and seal income and silver gained by sale two?</span></p>
 
 <p><span class="chinese">该设计采用金属银两种颜色，包括877。</span><span class="english">The design utilizes two colors including metallic silver 877.</span></p>

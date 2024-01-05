@@ -1,5 +1,7 @@
 # incantation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incantation.md)
+
 <p><span class="chinese">你可以教我一些咒语吗?。</span><span class="english">Would you teach me some incantation?</span></p>
 
 <p><span class="chinese">哦，请听从这一篇符咒似的诗歌</span><span class="english">And , by the incantation of this verse</span></p>

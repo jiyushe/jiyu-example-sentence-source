@@ -1,5 +1,7 @@
 # 咄咄逼人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoduobiren.md)
+
 <p><span class="chinese">他有时还咄咄逼人。</span><span class="english">He can also be aggressive.</span></p>
 
 <p><span class="chinese">可能是我太莽撞无礼，咄咄逼人了。</span><span class="english">Perhaps I was too saucy and provoking.</span></p>

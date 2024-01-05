@@ -1,5 +1,7 @@
 # 不可胜数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukeshengshu.md)
+
 <p><span class="chinese">今天铝的用途多得不可胜数。</span><span class="english">Today, the uses of aluminum are innumerable.</span></p>
 
 <p><span class="chinese">缴获的武器装备不可胜数。</span><span class="english">The military equipment captured was beyond counting.</span></p>

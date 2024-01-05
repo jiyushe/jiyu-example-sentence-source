@@ -1,5 +1,7 @@
 # hypocenter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypocenter.md)
+
 <p><span class="chinese">目前灾区范围仅限于震央周围的地区。</span><span class="english">The damages are limited to the area around the hypocenter.</span></p>
 
 <p><span class="chinese">在震源和原子弹圆顶可见顶部中心。</span><span class="english">The hypocenter and Atom Bomb Dome are visible at top center.</span></p>

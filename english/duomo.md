@@ -1,5 +1,7 @@
 # duomo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duomo.md)
+
 <p><span class="chinese">从这里步行15分钟就能抵达Duomo大教堂。</span><span class="english">The Duomo is a 15-minute walk away.</span></p>
 
 <p><span class="chinese">图示为杜奥莫大教堂广场上的意大利警官。</span><span class="english">An Italian police officer in Milan's Duomo square.</span></p>

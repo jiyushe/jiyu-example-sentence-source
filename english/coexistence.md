@@ -1,5 +1,7 @@
 # coexistence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coexistence.md)
+
 <p><span class="chinese">我们并不在共存曲线上。</span><span class="english">We're not on the coexistence line.</span></p>
 
 <p><span class="chinese">在其他地方，这种清音和浊音仍然共存。</span><span class="english">In other places, the coexistence continues.</span></p>

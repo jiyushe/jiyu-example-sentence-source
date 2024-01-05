@@ -1,5 +1,7 @@
 # 各持己见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gechijijian.md)
+
 <p><span class="chinese">但是学界对其态度却各持己见。</span><span class="english">But academic circles hold the personal opinion respectively.</span></p>
 
 <p><span class="chinese">大部分求职者以及职业专家意见都各持己见。</span><span class="english">Most job seekers -- and even career experts -- have strong opinions.</span></p>

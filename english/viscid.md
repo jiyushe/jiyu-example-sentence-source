@@ -1,5 +1,7 @@
 # viscid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viscid.md)
+
 <p><span class="chinese">材料兼具有弹性和粘性。</span><span class="english">PEM are elastic and viscid material.</span></p>
 
 <p><span class="chinese">为考虑粘性，需进行边界层修正。</span><span class="english">The boundary layer correction is needed for viscid drag.</span></p>

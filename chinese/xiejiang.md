@@ -1,5 +1,7 @@
 # 鞋匠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiejiang.md)
+
 <p><span class="chinese">补鞋匠都没有鞋子穿。</span><span class="english">All cobblers go barefoot.</span></p>
 
 <p><span class="chinese">六个鞋砧，练出一个鞋匠。</span><span class="english">Six awl make a shoemaker.</span></p>

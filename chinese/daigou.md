@@ -1,5 +1,7 @@
 # 代沟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daigou.md)
+
 <p><span class="chinese">我猜想我们只是有代沟罢了.</span><span class="english">I guess we were just generationally divided.</span></p>
 
 <p><span class="chinese">每隔10年就有很大的代沟。</span><span class="english">There are big generation gaps between each decade.</span></p>

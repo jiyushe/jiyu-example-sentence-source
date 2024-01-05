@@ -1,5 +1,7 @@
 # squad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squad.md)
+
 <p><span class="chinese">我以前从没在修改组工作过。</span><span class="english">I was never in the Rewrite Squad.</span></p>
 
 <p><span class="chinese">班长走过来，牵起她的手。</span><span class="english">Squad leader came, Qianqi her hand.</span></p>

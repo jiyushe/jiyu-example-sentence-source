@@ -1,5 +1,7 @@
 # segmental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/segmental.md)
+
 <p><span class="chinese">我只有一些零星的哲学知识。</span><span class="english">I have only segmental knowledge about the philosophy.</span></p>
 
 <p><span class="chinese">设计了一种由TCAM和SRAM分别完成搜索和读结果的查表流水线。</span><span class="english">A segmental routing lookup pipeline based on TCAM and SRAM is designed.</span></p>

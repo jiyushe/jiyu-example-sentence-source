@@ -1,5 +1,7 @@
 # dominance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dominance.md)
+
 <p><span class="chinese">但现在的主导地位成了问题。</span><span class="english">But that dominance is now in question.</span></p>
 
 <p><span class="chinese">吉博承认竞争对手的市场支配地位。</span><span class="english">Mr. Gibeau conceded his rival's dominance.</span></p>

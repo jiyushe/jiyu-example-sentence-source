@@ -1,5 +1,7 @@
 # 昨天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuotian.md)
+
 <p><span class="chinese">昨天我在农场拔萝卜。</span><span class="english">I carrots on the farm.</span></p>
 
 <p><span class="chinese">昨天天变冷了。</span><span class="english">It got cold yesterday.</span></p>

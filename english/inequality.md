@@ -1,5 +1,7 @@
 # inequality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inequality.md)
+
 <p><span class="chinese">一个过去式，换不了不等式。</span><span class="english">A past tense, for not inequality.</span></p>
 
 <p><span class="chinese">我们并不想完全消除不平等。</span><span class="english">we don't want to eliminate inequality.</span></p>

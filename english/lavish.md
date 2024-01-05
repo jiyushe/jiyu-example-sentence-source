@@ -1,5 +1,7 @@
 # lavish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lavish.md)
+
 <p><span class="chinese">我们必须避免过分放纵和铺张浪费。</span><span class="english">We must keep away excessive lavish and.</span></p>
 
 <p><span class="chinese">我舅舅从不过分表示亲热。</span><span class="english">My uncle is never lavish of endearments.</span></p>

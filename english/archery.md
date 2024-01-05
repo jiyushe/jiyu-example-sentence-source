@@ -1,5 +1,7 @@
 # archery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archery.md)
+
 <p><span class="chinese">难怪锡伯族的人啊个个都善于拉弓射箭的。</span><span class="english">No wonder every Xibe man is good at archery.</span></p>
 
 <p><span class="chinese">弓是优秀的土地和马都射箭。</span><span class="english">The bow is excellent both for land and horse archery.</span></p>

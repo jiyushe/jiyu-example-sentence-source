@@ -1,5 +1,7 @@
 # 暴烈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baolie.md)
+
 <p><span class="chinese">说明当时白酒品质暴烈。</span><span class="english">Proof that liquor quality violent.</span></p>
 
 <p><span class="chinese">但人比任何动物更为暴烈。</span><span class="english">But man is more violent than any animal.</span></p>

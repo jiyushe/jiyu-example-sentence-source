@@ -1,5 +1,7 @@
 # polyatomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyatomic.md)
+
 <p><span class="chinese">如果它由两个或两个以上的原子，它是一个多原子离子。</span><span class="english">If it consists of two or more atoms , it is a polyatomic ion.</span></p>
 
 <p><span class="chinese">这种模型对于精确计算某些多原子分子间的碰撞是十分有用的。</span><span class="english">This model may be powerful for the calculation of some polyatomic molecule collision.</span></p>

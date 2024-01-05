@@ -1,5 +1,7 @@
 # 混沌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hundun.md)
+
 <p><span class="chinese">褪尽红尘万物，自混沌中走来。</span><span class="english">He walks from the chaos.</span></p>
 
 <p><span class="chinese">你，塔尼亚，就是我的混沌。</span><span class="english">You, Tania, are my chaos.</span></p>

@@ -1,5 +1,7 @@
 # undulated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undulated.md)
+
 <p><span class="chinese">一波波寒意掠过哈利的皮肤。</span><span class="english">Ripples of cold undulated over Harry's skin.</span></p>
 
 <p><span class="chinese">的声音，排气射流略有起伏。</span><span class="english">The sound of the exhaust jet undulated slightly.</span></p>

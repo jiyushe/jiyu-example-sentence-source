@@ -1,5 +1,7 @@
 # 有生力量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshengliliang.md)
+
 <p><span class="chinese">我们必须尽力消耗敌人的有生力量。</span><span class="english">We must consume all strength of enemy.</span></p>
 
 <p><span class="chinese">我们首先必须消灭敌人的有生力量。</span><span class="english">We must try our best to consume enemy effectives.</span></p>

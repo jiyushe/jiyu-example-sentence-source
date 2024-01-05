@@ -1,5 +1,7 @@
 # faa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faa.md)
+
 <p><span class="chinese">论文研究了森林资产核算的基本理论问题。</span><span class="english">The paper researched on the basis theory of FAA.</span></p>
 
 <p><span class="chinese">单引擎飞机始建于1994年，根据美国联邦航空局记录。</span><span class="english">The single-engine plane was built in 1994, according to FAA records.</span></p>

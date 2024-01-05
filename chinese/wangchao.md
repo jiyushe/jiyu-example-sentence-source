@@ -1,5 +1,7 @@
 # 王朝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangchao.md)
+
 <p><span class="chinese">她曾建立了辽王朝。</span><span class="english">She has created Liao Dynasty.</span></p>
 
 <p><span class="chinese">每一根树枝都能建成一个王朝。</span><span class="english">Each branch may become a dynasty.</span></p>

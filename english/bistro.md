@@ -1,5 +1,7 @@
 # bistro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bistro.md)
+
 <p><span class="chinese">月长石，缠丝玛瑙，象群，以及一家潮湿昏暗的小酒馆…</span><span class="english">Moonstone, sardonyx, elephants, and a small dark bistro.</span></p>
 
 <p><span class="chinese">小酒馆的2110是美国，欧洲，和亚洲美食。</span><span class="english">Bistro 2110 serves American, European, and Asian cuisine.</span></p>

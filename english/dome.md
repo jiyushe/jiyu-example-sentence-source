@@ -1,5 +1,7 @@
 # dome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dome.md)
+
 <p><span class="chinese">伊玛目清真寺的圆顶。</span><span class="english">Dome of Eman Mosque.</span></p>
 
 <p><span class="chinese">我们都生活在穹顶下。</span><span class="english">We are all under the dome.</span></p>

@@ -1,5 +1,7 @@
 # persecution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persecution.md)
+
 <p><span class="chinese">神学里面有对不同意见者的迫害，算术里可没有。</span><span class="english">Persecution is used in theology, not in arithmetic.</span></p>
 
 <p><span class="chinese">他一贯不顾迫害坚持原则。</span><span class="english">He always cleaves to his principle in spite of persecution.</span></p>

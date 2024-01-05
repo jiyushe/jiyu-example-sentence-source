@@ -1,5 +1,7 @@
 # okay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/okay.md)
+
 <p><span class="chinese">好的,98</span><span class="english">Okay. 98.</span></p>
 
 <p><span class="chinese">好了,太棒了</span><span class="english">Okay. Great.</span></p>

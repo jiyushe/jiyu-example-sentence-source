@@ -1,5 +1,7 @@
 # definitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/definitive.md)
+
 <p><span class="chinese">一个坚固的工作台是必须的。</span><span class="english">A strong worktable is a definitive must.</span></p>
 
 <p><span class="chinese">她的书是论述密尔顿的定论性著作。</span><span class="english">Her book is the definitive works on Milton.</span></p>

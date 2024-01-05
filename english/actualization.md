@@ -1,5 +1,7 @@
 # actualization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actualization.md)
+
 <p><span class="chinese">其次，讨论了项目学习的设计及其实施。</span><span class="english">Thirdly, the design and actualization of Project-based Learning is narrated.</span></p>
 
 <p><span class="chinese">全息健康是生活完善身心灵命整体康泰优秀和生命理想圆满实现的状态。</span><span class="english">HoloHealth is a State of Optimal Actualization of Body, Mind, Soul and Life Fulfillment.</span></p>

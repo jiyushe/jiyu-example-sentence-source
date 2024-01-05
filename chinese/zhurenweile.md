@@ -1,5 +1,7 @@
 # 助人为乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhurenweile.md)
+
 <p><span class="chinese">她喜欢助人为乐。</span><span class="english">She likes to help others.</span></p>
 
 <p><span class="chinese">在学校，我很有礼貌和助人为乐。</span><span class="english">At school, I'm be polite and helpful.</span></p>

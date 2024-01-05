@@ -1,5 +1,7 @@
 # sprout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprout.md)
+
 <p><span class="chinese">芽在春天萌发。</span><span class="english">Buds sprout in the spring.</span></p>
 
 <p><span class="chinese">一球对豆芽菜的执念。</span><span class="english">Crazy for the bean sprout.</span></p>

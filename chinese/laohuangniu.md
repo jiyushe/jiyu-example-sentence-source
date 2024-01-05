@@ -1,5 +1,7 @@
 # 老黄牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laohuangniu.md)
+
 <p><span class="chinese">这名男孩国有老黄牛。</span><span class="english">The boy owned an old ox.</span></p>
 
 <p><span class="chinese">他们家只有一头老黄牛。</span><span class="english">They had an old brown cow.</span></p>

@@ -1,5 +1,7 @@
 # gaby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaby.md)
+
 <p><span class="chinese">戈比把自己的眼镜给了山羊。</span><span class="english">Gaby gives the goat her glasses.</span></p>
 
 <p><span class="chinese">戈比给山羊一些葡萄。</span><span class="english">Gaby gives the goat some grapes.</span></p>

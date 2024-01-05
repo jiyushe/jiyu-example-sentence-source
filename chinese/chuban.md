@@ -1,5 +1,7 @@
 # 出版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuban.md)
+
 <p><span class="chinese">这本书是最近刚出版的。</span><span class="english">Came out recently.</span></p>
 
 <p><span class="chinese">自己出版一本书。</span><span class="english">Self-publish a book.</span></p>

@@ -1,5 +1,7 @@
 # 全图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quantu.md)
+
 <p><span class="chinese">英雄联盟有全图吗想看帽子戏法么？</span><span class="english">Want to see a hat trick?</span></p>
 
 <p><span class="chinese">点击这些标志去看它的全图。</span><span class="english">Click on the logo to see it full size.</span></p>

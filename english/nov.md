@@ -1,5 +1,7 @@
 # nov
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nov.md)
+
 <p><span class="chinese">欧文将在11月11日满8周岁。</span><span class="english">Owen will turn 8 on Nov. 11.</span></p>
 
 <p><span class="chinese">系统于1973年11月11日启动并运行。</span><span class="english">The system was up and running Nov. 11, 1973.</span></p>

@@ -1,5 +1,7 @@
 # shin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shin.md)
+
 <p><span class="chinese">磕到了树桩上，胫部擦破了皮。</span><span class="english">I barked my shin on a tree stump.</span></p>
 
 <p><span class="chinese">我设法骑这马时，它踢了我。</span><span class="english">The horse kicked him on the shin.</span></p>

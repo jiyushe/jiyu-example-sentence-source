@@ -1,5 +1,7 @@
 # carl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carl.md)
+
 <p><span class="chinese">叫我卡尔吧。</span><span class="english">Call me Carl.</span></p>
 
 <p><span class="chinese">我是卡尔·阿祖兹。</span><span class="english">I'm Carl Azuz.</span></p>

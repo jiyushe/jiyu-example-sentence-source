@@ -1,5 +1,7 @@
 # 上课
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangke.md)
+
 <p><span class="chinese">咱们正式开始上课</span><span class="english">Let's start now.</span></p>
 
 <p><span class="chinese">我喜欢你上课。</span><span class="english">I like your class.</span></p>

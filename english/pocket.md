@@ -1,5 +1,7 @@
 # pocket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pocket.md)
+
 <p><span class="chinese">一块怀表。</span><span class="english">A pocket watch.</span></p>
 
 <p><span class="chinese">我腰里没钱。</span><span class="english">My pocket is empty.</span></p>

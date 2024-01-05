@@ -1,5 +1,7 @@
 # 半封建
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banfengjian.md)
+
 <p><span class="chinese">旧中国是一个半封建半殖民地国家。</span><span class="english">Old China was a semifeudal and semicolonial country.</span></p>
 
 <p><span class="chinese">辛丑条约国大耻，社会沦为半封建。</span><span class="english">Great State Boxer Protocol shame, become a semi-feudal society.</span></p>

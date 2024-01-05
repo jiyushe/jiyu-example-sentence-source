@@ -1,5 +1,7 @@
 # 咬嚼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaojiao.md)
+
 <p><span class="chinese">然后有沈默和咬嚼的声音。</span><span class="english">Then there was silence, and the sound of crunching.</span></p>
 
 <p><span class="chinese">如果它是固体，我一定要把它弄碎、咬嚼或是弄脏。</span><span class="english">If it a solid, it must be crumbled, chewed or smeared.</span></p>

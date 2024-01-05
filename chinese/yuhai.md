@@ -1,5 +1,7 @@
 # 遇害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuhai.md)
+
 <p><span class="chinese">这次银行劫案中有一名保安员遇害。</span><span class="english">A security guard was killed in the bank raid.</span></p>
 
 <p><span class="chinese">香港游客在菲律宾遭劫持，8人遇害。</span><span class="english">HK tourists killed in Manila hostage incident.</span></p>

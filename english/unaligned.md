@@ -1,5 +1,7 @@
 # unaligned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unaligned.md)
+
 <p><span class="chinese">寇德无阵营风暴，强壮，战斗。</span><span class="english">Kord Unaligned Storms, strength, battle.</span></p>
 
 <p><span class="chinese">鸦后无阵营死亡，命运，冬季。</span><span class="english">Raven Queen Unaligned Death, fate, winter.</span></p>

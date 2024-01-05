@@ -1,5 +1,7 @@
 # smd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smd.md)
+
 <p><span class="chinese">其紫外扫描光谱和红外光谱表明偶联成功。</span><span class="english">Both UV scanning spectrum and IR spectrum coupling occurred between SMD and BSA.</span></p>
 
 <p><span class="chinese">元件对中检测是贴片机视觉系统的关键。</span><span class="english">SMD location and inspection arithmetic are key issues in vision inspection system.</span></p>

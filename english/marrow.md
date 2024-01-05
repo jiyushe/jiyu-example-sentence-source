@@ -1,5 +1,7 @@
 # marrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marrow.md)
+
 <p><span class="chinese">去尽骨，方见髓。</span><span class="english">To do bone marrow side see.</span></p>
 
 <p><span class="chinese">我是个骨髓捐献的在册人员。</span><span class="english">I am on the bone marrow register.</span></p>

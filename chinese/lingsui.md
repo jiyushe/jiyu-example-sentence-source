@@ -1,5 +1,7 @@
 # 零碎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingsui.md)
+
 <p><span class="chinese">你的生活里有多少零碎时间？</span><span class="english">What time pockets do you have in your life?</span></p>
 
 <p><span class="chinese">我们把所有零碎东西从巴士上清理下来。</span><span class="english">We have emptied the bus of all our detritus.</span></p>

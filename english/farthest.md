@@ -1,5 +1,7 @@
 # farthest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farthest.md)
+
 <p><span class="chinese">现在，它是最远的。</span><span class="english">Now, it is the farthest zoom.</span></p>
 
 <p><span class="chinese">刘梅在所有的人当中跳得最远。</span><span class="english">Liu Mei jumped farthest of all.</span></p>

@@ -1,5 +1,7 @@
 # juristic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juristic.md)
+
 <p><span class="chinese">所谓物权行为究竟是指什么?。</span><span class="english">What is so-called juristic act of real right?</span></p>
 
 <p><span class="chinese">第五十六条民事法律行为可以采取书面形式、口头形式或者其他形式。</span><span class="english">Article 56 A Juristic Act may be in written, oral or other form.</span></p>

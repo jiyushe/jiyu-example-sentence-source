@@ -1,5 +1,7 @@
 # optometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optometry.md)
+
 <p><span class="chinese">另外三分之一与健康相关，有护理、验光和健康经济学。</span><span class="english">The second is health, including nursing, optometry and food policy.</span></p>
 
 <p><span class="chinese">刘玉华在视光学领域具有雄厚的理论和丰富的临床实践。</span><span class="english">She has profound theory and rich experience in the field of Optometry.</span></p>

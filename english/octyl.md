@@ -1,5 +1,7 @@
 # octyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octyl.md)
+
 <p><span class="chinese">丁辛醇主要由相应的醛加氢制备。</span><span class="english">Butyl and octyl alcohol are mainly made by hydrogenating the corresponding aldehyde.</span></p>
 
 <p><span class="chinese">利用锆基催化剂合成乙酸异辛醇酯，确定了反应条件。</span><span class="english">Iso octyl acetate was synthesized with zirconium base catalyst, and the suitable condition of reaction was determined.</span></p>

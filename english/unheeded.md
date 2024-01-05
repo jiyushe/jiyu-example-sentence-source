@@ -1,5 +1,7 @@
 # unheeded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unheeded.md)
+
 <p><span class="chinese">罚款的威胁也无济于事。</span><span class="english">Threats of massive fines have gone unheeded.</span></p>
 
 <p><span class="chinese">我的花篮空着，花儿我也没有去理睬。</span><span class="english">My basket was empty and the flower remained unheeded.</span></p>

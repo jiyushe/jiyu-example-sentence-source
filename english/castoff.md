@@ -1,5 +1,7 @@
 # castoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/castoff.md)
+
 <p><span class="chinese">蛇会蜕壳换新。</span><span class="english">Snakes castoff and renew their skins.</span></p>
 
 <p><span class="chinese">有时你丢弃的东西是别人梦寐以求的宝贝。</span><span class="english">Sometimes your castoff are other people's treasure.</span></p>

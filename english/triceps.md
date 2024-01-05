@@ -1,5 +1,7 @@
 # triceps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triceps.md)
+
 <p><span class="chinese">肱三头肌使手肘伸直。</span><span class="english">The triceps straighten the elbows.</span></p>
 
 <p><span class="chinese">但是锻炼又是怎么养成的呢，还有健美紧凑的三头肌？</span><span class="english">But the exercise—and those toned, tight triceps?</span></p>

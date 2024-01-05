@@ -1,5 +1,7 @@
 # 合股
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hegu.md)
+
 <p><span class="chinese">他们解散了该合股公司。</span><span class="english">They disincorporated the corporate company.</span></p>
 
 <p><span class="chinese">他发现这位合股人很难相处。</span><span class="english">He found his partner to be very disagreeable.</span></p>

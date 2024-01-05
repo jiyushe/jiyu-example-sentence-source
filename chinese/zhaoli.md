@@ -1,5 +1,7 @@
 # 照例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoli.md)
+
 <p><span class="chinese">那么说，你跳起舞来照例总得要谈上几句吗？</span><span class="english">Do you talk as a rule while dancing?</span></p>
 
 <p><span class="chinese">我们照例回顾一下上周的内容。</span><span class="english">Okay a brief recap of last week as usual.</span></p>

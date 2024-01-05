@@ -1,5 +1,7 @@
 # 油布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youbu.md)
+
 <p><span class="chinese">不要使用药膏或油布。</span><span class="english">Do not use ointments or oil dressing.</span></p>
 
 <p><span class="chinese">挂在门后钩子上的破旧的油布雨衣</span><span class="english">cracked rain slicker on the hook by the door</span></p>

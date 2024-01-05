@@ -1,5 +1,7 @@
 # bernie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bernie.md)
+
 <p><span class="chinese">尽管问伯尼马多夫好了。</span><span class="english">Just ask Bernie Madoff.</span></p>
 
 <p><span class="chinese">伯尼被邀请到朋友家吃晚餐。</span><span class="english">Bernie was invited to his friend's home for dinner.</span></p>

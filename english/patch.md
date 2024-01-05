@@ -1,5 +1,7 @@
 # patch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patch.md)
+
 <p><span class="chinese">安装补丁。</span><span class="english">Install the patch.</span></p>
 
 <p><span class="chinese">修补程序的功能。</span><span class="english">Function of the patch.</span></p>

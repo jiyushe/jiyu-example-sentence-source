@@ -1,5 +1,7 @@
 # conveyancing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conveyancing.md)
+
 <p><span class="chinese">买场面土地的过程叫“财产转让”。</span><span class="english">The process of buy and selling land be ' conveyancing '.</span></p>
 
 <p><span class="chinese">买场面土地的过程叫“财产转让”。</span><span class="english">The process of buy and selling land is ' conveyancing '.</span></p>

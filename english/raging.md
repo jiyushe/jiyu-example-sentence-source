@@ -1,5 +1,7 @@
 # raging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raging.md)
+
 <p><span class="chinese">世俗的骚动，席卷荒野。</span><span class="english">And worldly tempests, raging wild.</span></p>
 
 <p><span class="chinese">狂风就像刀割一样。</span><span class="english">The raging wind cuts like a knife.</span></p>

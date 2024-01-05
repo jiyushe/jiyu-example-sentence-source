@@ -1,5 +1,7 @@
 # complicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complicate.md)
+
 <p><span class="chinese">这一计算是比较烦复的。</span><span class="english">But the calculation is quite complicate.</span></p>
 
 <p><span class="chinese">他总喜欢把简单的事情复杂化。</span><span class="english">He always likes to complicate simple matters.</span></p>

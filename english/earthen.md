@@ -1,5 +1,7 @@
 # earthen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthen.md)
+
 <p><span class="chinese">瓦罐里面挂了一层釉子。</span><span class="english">The earthen pot is glazed inside.</span></p>
 
 <p><span class="chinese">瓦盆里面挂一层釉子。</span><span class="english">The earthen pot is glazed inside.</span></p>

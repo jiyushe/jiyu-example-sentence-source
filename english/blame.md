@@ -1,5 +1,7 @@
 # blame 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blame.md)
+
 <p><span class="chinese">这又能怪谁？</span><span class="english">This can blame?</span></p>
 
 <p><span class="chinese">我曾经怪罪过他吗？</span><span class="english">Did I blame him?</span></p>

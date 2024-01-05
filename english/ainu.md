@@ -1,5 +1,7 @@
 # ainu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ainu.md)
+
 <p><span class="chinese">现在，只有退化的阿伊努族群还幸存下来。</span><span class="english">Today, only vestigialcommunities of Ainu survive.</span></p>
 
 <p><span class="chinese">偶然的是，日本也有土著人，就是阿伊努人。</span><span class="english">Incidentally, Japan has indigenous people, the Ainu.</span></p>

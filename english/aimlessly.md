@@ -1,5 +1,7 @@
 # aimlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aimlessly.md)
+
 <p><span class="chinese">爱玲漫不经心地玩弄着扇子。</span><span class="english">Aileen toyed aimlessly with her fan.</span></p>
 
 <p><span class="chinese">利季娅毫无目标地走到走廊。</span><span class="english">Lydia wandered aimlessly into the hallway.</span></p>

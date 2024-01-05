@@ -1,5 +1,7 @@
 # 自称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zicheng.md)
+
 <p><span class="chinese">她自称是女权运动者。</span><span class="english">She is professedly a feminist.</span></p>
 
 <p><span class="chinese">打电话来的是安德烈，自称金姆在他手上。</span><span class="english">It is Andre, who says he has Kim.</span></p>

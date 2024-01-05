@@ -1,5 +1,7 @@
 # colliery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colliery.md)
+
 <p><span class="chinese">贵州一煤矿爆炸，7人遇难。</span><span class="english">Colliery gas blast kills 7 in Guizhou.</span></p>
 
 <p><span class="chinese">重庆煤矿瓦斯爆炸，25人死亡。</span><span class="english">Colliery gas burst kills 25 in Chongqing.</span></p>

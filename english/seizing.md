@@ -1,5 +1,7 @@
 # seizing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seizing.md)
+
 <p><span class="chinese">抢夺罪是介于抢劫罪与盗窃罪之间的一种罪。</span><span class="english">The seizing crime is between robbery and steal.</span></p>
 
 <p><span class="chinese">抓住这个机遇，施七埯抢走了盔甲。</span><span class="english">Seizing this opportunity, Shi Qian snatched the armor.</span></p>

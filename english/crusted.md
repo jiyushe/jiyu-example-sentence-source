@@ -1,5 +1,7 @@
 # crusted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crusted.md)
+
 <p><span class="chinese">湖面上昨夜结了一层冰。</span><span class="english">Ice crusted the lake last night.</span></p>
 
 <p><span class="chinese">在暟暟的白雪里，我听见祂的脚声。</span><span class="english">I hear His steps on the crusted snow.</span></p>

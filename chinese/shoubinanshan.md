@@ -1,5 +1,7 @@
 # 寿比南山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoubinanshan.md)
+
 <p><span class="chinese">生日快乐，汤姆，并祝你福如东海，寿比南山。</span><span class="english">Happy birthday, Tom, and many happy returns!</span></p>
 
 <p><span class="chinese">生日快乐，鲍勃，并祝你福如东海，寿比南山！</span><span class="english">Happy birthday, Bob, and many happy returns !</span></p>

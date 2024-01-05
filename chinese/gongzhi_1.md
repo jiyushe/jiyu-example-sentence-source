@@ -1,5 +1,7 @@
 # 公职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzhi_1.md)
+
 <p><span class="chinese">我们将支持他担任公职。</span><span class="english">We will back him for public office.</span></p>
 
 <p><span class="chinese">有头有脸的公职人员？</span><span class="english">Head has the face of public officials?</span></p>

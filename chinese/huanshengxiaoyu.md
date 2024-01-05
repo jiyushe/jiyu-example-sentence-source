@@ -1,5 +1,7 @@
 # 欢声笑语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanshengxiaoyu.md)
+
 <p><span class="chinese">他们敲打窗户，欢声笑语。</span><span class="english">They tap at the window, and laugh.</span></p>
 
 <p><span class="chinese">到处欢声笑语，充满了节日气氛。</span><span class="english">Everywhere, filled with laughter festal atmosphere.</span></p>

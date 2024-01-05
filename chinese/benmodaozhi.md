@@ -1,5 +1,7 @@
 # 本末倒置
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benmodaozhi.md)
+
 <p><span class="chinese">我们不应该本末倒置。</span><span class="english">We shouldn't put the cart before the horses.</span></p>
 
 <p><span class="chinese">也许这有点本末倒置。</span><span class="english">Yet perhaps there's an upside to all of this.</span></p>

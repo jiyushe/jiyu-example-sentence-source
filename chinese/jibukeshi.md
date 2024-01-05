@@ -1,5 +1,7 @@
 # 机不可失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jibukeshi.md)
+
 <p><span class="chinese">机不可失，时不再来。咱们要不要碰碰运气？</span><span class="english">It's now or never, shall we chance it?</span></p>
 
 <p><span class="chinese">我感觉到机不可失，所以径直走到他面前。</span><span class="english">I felt now or never and went right up to him.</span></p>

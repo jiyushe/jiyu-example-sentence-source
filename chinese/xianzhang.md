@@ -1,5 +1,7 @@
 # 县长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzhang.md)
+
 <p><span class="chinese">梅贤祖顺利当选为玉屏县长。</span><span class="english">MeiXianZu smoothly elected county jade screen.</span></p>
 
 <p><span class="chinese">帕蒂在纽约韦斯特切斯特县长大，是家中四个孩子里的老大。</span><span class="english">Patty grew up in Westchester County, New York.</span></p>

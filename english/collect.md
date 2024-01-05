@@ -1,5 +1,7 @@
 # collect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collect.md)
+
 <p><span class="chinese">液化石油气收瓶点。</span><span class="english">LPG collect bottles.</span></p>
 
 <p><span class="chinese">这通电话由受话人付费。</span><span class="english">Make this a collect call.</span></p>

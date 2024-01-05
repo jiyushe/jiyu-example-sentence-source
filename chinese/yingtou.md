@@ -1,5 +1,7 @@
 # 迎头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingtou.md)
+
 <p><span class="chinese">那只船迎头撞上了礁石。</span><span class="english">The ship struck the rocks head on.</span></p>
 
 <p><span class="chinese">他对我一顿迎头臭骂。</span><span class="english">He greeted me with a stream of abuse.</span></p>

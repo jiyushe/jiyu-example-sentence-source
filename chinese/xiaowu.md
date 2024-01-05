@@ -1,5 +1,7 @@
 # 校务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaowu.md)
+
 <p><span class="chinese">如欲购票，请联络本校校务处。</span><span class="english">For tickets , please contact the General Office.</span></p>
 
 <p><span class="chinese">弟弟彻信是小学的校务人员。</span><span class="english">Toru brother who is believed to be in primary school.</span></p>

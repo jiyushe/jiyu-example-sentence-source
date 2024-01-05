@@ -1,5 +1,7 @@
 # 沿袭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxi_1.md)
+
 <p><span class="chinese">我们应该沿袭我们的优良传统。</span><span class="english">We should keep up our good traditions.</span></p>
 
 <p><span class="chinese">新款凯美瑞将沿袭过去的一系列优势。</span><span class="english">The new Camry will have a lot to live up to.</span></p>

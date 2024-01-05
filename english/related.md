@@ -1,5 +1,7 @@
 # related 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/related.md)
+
 <p><span class="chinese">和唐人街有关的？</span><span class="english">Related to Chinatown?</span></p>
 
 <p><span class="chinese">这些角色是相关的。</span><span class="english">These roles are related.</span></p>

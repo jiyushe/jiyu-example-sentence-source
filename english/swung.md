@@ -1,5 +1,7 @@
 # swung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swung.md)
+
 <p><span class="chinese">门向内打开了。</span><span class="english">The door swung inward.</span></p>
 
 <p><span class="chinese">他因犯谋杀罪而被处绞刑。</span><span class="english">He was swung for murder.</span></p>

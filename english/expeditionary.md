@@ -1,5 +1,7 @@
 # expeditionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expeditionary.md)
+
 <p><span class="chinese">同盟国远征军最高司令部</span><span class="english">Supreme headquarters allied expeditionary force</span></p>
 
 <p><span class="chinese">当时国家设置的征讨都督是以大都督为称号的。</span><span class="english">Expeditionary Dudu set up by the country at that time was titled Dadudu.</span></p>

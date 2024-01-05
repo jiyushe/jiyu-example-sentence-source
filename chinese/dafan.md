@@ -1,5 +1,7 @@
 # 大凡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dafan.md)
+
 <p><span class="chinese">大凡男权社会的男人，都有这种通病。</span><span class="english">In a sexist male society, that's a common illness.</span></p>
 
 <p><span class="chinese">大凡酒后开车的都易出车祸。</span><span class="english">Generally those who drink will cause traffic accidents.</span></p>

@@ -1,5 +1,7 @@
 # admiral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admiral.md)
+
 <p><span class="chinese">纳尔逊上将是个海军军官。</span><span class="english">Admiral nelson was a naval officer.</span></p>
 
 <p><span class="chinese">美国海军第一个女上将。</span><span class="english">The first female admiral in the U.S. navy.</span></p>

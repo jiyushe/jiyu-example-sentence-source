@@ -1,5 +1,7 @@
 # cobalt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cobalt.md)
+
 <p><span class="chinese">钴蓝色。</span><span class="english">Cobalt blue.</span></p>
 
 <p><span class="chinese">钴矿砂及其精矿。</span><span class="english">Cobalt ores and concentrates.</span></p>

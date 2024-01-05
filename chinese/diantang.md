@@ -1,5 +1,7 @@
 # 店堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diantang.md)
+
 <p><span class="chinese">他把新鲜水果货架摆在店堂门口。</span><span class="english">He set the stands of fresh fruit at the entrance of the store.</span></p>
 
 <p><span class="chinese">人们还常常有希望在发霉、阴暗、杂乱无章、迷宫般的店堂里。</span><span class="english">There is always hope that in its labyrinth of musty, dark, disordered rooms.</span></p>

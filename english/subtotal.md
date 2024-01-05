@@ -1,5 +1,7 @@
 # subtotal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtotal.md)
+
 <p><span class="chinese">查看项目，所有费用和小计。</span><span class="english">Show items, all costs and the subtotal.</span></p>
 
 <p><span class="chinese">行单侧甲状腺腺叶次全切除术患者为10例。</span><span class="english">The incidence of one side subtotal thyroidectomy is 10.</span></p>

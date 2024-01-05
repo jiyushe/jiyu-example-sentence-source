@@ -1,5 +1,7 @@
 # 沙锅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaguo.md)
+
 <p><span class="chinese">把沙锅菜烤一小时。</span><span class="english">Bake the casserole for an hour.</span></p>
 
 <p><span class="chinese">你要不要再来点沙锅菜？</span><span class="english">Would you like to order some more casserole?</span></p>

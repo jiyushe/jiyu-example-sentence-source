@@ -1,5 +1,7 @@
 # galaxy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galaxy.md)
+
 <p><span class="chinese">我住在银河路233号。</span><span class="english">I live at 233 Galaxy Road.</span></p>
 
 <p><span class="chinese">这是一个星系还是两个？</span><span class="english">Is this one galaxy or two?</span></p>

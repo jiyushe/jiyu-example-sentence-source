@@ -1,5 +1,7 @@
 # 定亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingqin.md)
+
 <p><span class="chinese">涂阳在家人的安排下与刘青定亲。</span><span class="english">Tu Yang plays as green as Liu engagement in the arrangement of family.</span></p>
 
 <p><span class="chinese">父母给儿女定亲，另外该注意什么？</span><span class="english">When getting their children betrothed, to what should parents pay special attention?</span></p>

@@ -1,5 +1,7 @@
 # prius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prius.md)
+
 <p><span class="chinese">一辆普锐斯滑倒了。</span><span class="english">A Prius glides down the street.</span></p>
 
 <p><span class="chinese">谷歌视普瑞斯为一个平台。</span><span class="english">Google treated the Prius as a platform.</span></p>

@@ -1,5 +1,7 @@
 # murdoch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/murdoch.md)
+
 <p><span class="chinese">“那么，我们握手？”默多克问。</span><span class="english">"So, do we shake?" asked Murdoch.</span></p>
 
 <p><span class="chinese">“对，你通常的交易，”默多克说。</span><span class="english">"Yes, your regular deal," said Murdoch.</span></p>

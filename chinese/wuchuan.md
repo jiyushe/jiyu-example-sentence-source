@@ -1,5 +1,7 @@
 # 误传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuchuan.md)
+
 <p><span class="chinese">这个陈述误传了我的意图。</span><span class="english">This statement misrepresents my intentions.</span></p>
 
 <p><span class="chinese">——威尔·杜兰特，这句话常被误传为亚里士多德的名言。</span><span class="english">Will Durant, though often misattributed to Aristotle</span></p>

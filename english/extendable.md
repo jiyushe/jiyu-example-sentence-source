@@ -1,5 +1,7 @@
 # extendable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extendable.md)
+
 <p><span class="chinese">将可扩展熟文件添加到池中。</span><span class="english">Add an extendable cooked file to the pool.</span></p>
 
 <p><span class="chinese">注意，默认情况下块是不可扩展的。</span><span class="english">Note that, by default, chunks are not extendable.</span></p>

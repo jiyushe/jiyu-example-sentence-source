@@ -1,5 +1,7 @@
 # clinicopathologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clinicopathologic.md)
+
 <p><span class="chinese">目的观察肺肉瘤样癌的临床病理特征。</span><span class="english">Objective To study the clinicopathologic features of sarcomatoid carcinoma of the lung.</span></p>
 
 <p><span class="chinese">由人类疱疹病毒8相关淋巴瘤患者病理特征不同而导致的诊断问题。</span><span class="english">Diverse clinicopathologic features in human herpesvirus 8-associated lymphomas lead to diagnostic problems.</span></p>

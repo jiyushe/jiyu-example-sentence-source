@@ -1,5 +1,7 @@
 # wrestling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrestling.md)
+
 <p><span class="chinese">我喜欢掰腕子。</span><span class="english">I love arm wrestling.</span></p>
 
 <p><span class="chinese">比腕力很好玩。</span><span class="english">Arm wrestling is lots of fun.</span></p>

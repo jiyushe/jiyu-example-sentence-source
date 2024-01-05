@@ -1,5 +1,7 @@
 # 告戒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojie.md)
+
 <p><span class="chinese">他们告戒我不要迟到。</span><span class="english">They warned me not to be late.</span></p>
 
 <p><span class="chinese">但是，陈冯富珍告戒人们不要自满。</span><span class="english">But, she warned against complacency.</span></p>

@@ -1,5 +1,7 @@
 # 冷水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengshui.md)
+
 <p><span class="chinese">排骨汆水后以冷水洗净备用。</span><span class="english">Wash and scald spare ribs.</span></p>
 
 <p><span class="chinese">他的话给她的热情浇了一盆冷水。</span><span class="english">His words iced her passion.</span></p>

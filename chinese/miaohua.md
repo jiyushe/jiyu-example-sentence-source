@@ -1,5 +1,7 @@
 # 描画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaohua.md)
+
 <p><span class="chinese">我尝试去描画它。</span><span class="english">The way I've tried to depict it.</span></p>
 
 <p><span class="chinese">小丑在脸颊上描画出了圆圈。</span><span class="english">The clown had lipsticked circles on his cheeks.</span></p>

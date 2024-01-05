@@ -1,5 +1,7 @@
 # 贴花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiehua_1.md)
+
 <p><span class="chinese">贴花是什么？。</span><span class="english">What is Applique?</span></p>
 
 <p><span class="chinese">让我们添加一个贴花！</span><span class="english">Let's add an applique!</span></p>

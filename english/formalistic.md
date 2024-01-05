@@ -1,5 +1,7 @@
 # formalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formalistic.md)
+
 <p><span class="chinese">形式主义批评的理论背景是什么？</span><span class="english">What is the theoretical background of the Formalistic Approaches ?</span></p>
 
 <p><span class="chinese">罗杰•弗莱，二十世纪初著名的形式主义批评家。</span><span class="english">Roger Fry is a well-known formalistic critic in the early 20th century.</span></p>

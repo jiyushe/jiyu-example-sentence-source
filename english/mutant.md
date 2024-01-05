@@ -1,5 +1,7 @@
 # mutant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutant.md)
+
 <p><span class="chinese">有发现突变纯合子。</span><span class="english">No mutant homozygote was found.</span></p>
 
 <p><span class="chinese">突变体脱氧核糖核酸误编了一个氨基酸密码。</span><span class="english">The mutant DNA miscoded a single amino acid.</span></p>

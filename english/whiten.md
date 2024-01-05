@@ -1,5 +1,7 @@
 # whiten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiten.md)
+
 <p><span class="chinese">笑出白色的牙齿！</span><span class="english">Whiten that smile!</span></p>
 
 <p><span class="chinese">什么茶可以美白？</span><span class="english">What tea can whiten?</span></p>

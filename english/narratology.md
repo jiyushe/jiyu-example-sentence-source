@@ -1,5 +1,7 @@
 # narratology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narratology.md)
+
 <p><span class="chinese">新兴的新闻叙事学是本文的理论基础。</span><span class="english">Modern News Narratology is the theoretical foundation of this paper.</span></p>
 
 <p><span class="chinese">提出不足的同时，总结经验，探寻西方叙事学在中国新的发展前景。</span><span class="english">Then the new prospects of Western Narratology in China are exploited in new age.</span></p>

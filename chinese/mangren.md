@@ -1,5 +1,7 @@
 # 盲人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangren.md)
+
 <p><span class="chinese">他是个盲人。</span><span class="english">He was blind.</span></p>
 
 <p><span class="chinese">我恨死这盲人。</span><span class="english">I hate this blind people.</span></p>

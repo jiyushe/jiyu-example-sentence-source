@@ -1,5 +1,7 @@
 # 寻衅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunxin.md)
+
 <p><span class="chinese">孩子们向他寻衅打架。</span><span class="english">The children bantered him for a fight.</span></p>
 
 <p><span class="chinese">约翰寻衅和杰克打架，结果大吃苦头。</span><span class="english">John picked a fight with Jack and came off worst.</span></p>

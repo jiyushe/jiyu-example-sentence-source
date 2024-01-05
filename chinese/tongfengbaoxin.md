@@ -1,5 +1,7 @@
 # 通风报信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongfengbaoxin.md)
+
 <p><span class="chinese">伍斯特集体通风报信我们送到三件新班克斯！</span><span class="english">Wooster Collective has tipped us off to three new Banksy pieces!</span></p>
 
 <p><span class="chinese">有人向警察通风报信，举报有窃贼隐藏在车库里面。</span><span class="english">Someone tipped off the police that the thief was hiding in the garage.</span></p>

@@ -1,5 +1,7 @@
 # cantata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cantata.md)
+
 <p><span class="chinese">那是春天甜美的清唱。</span><span class="english">Spring’s sweet  cantata.</span></p>
 
 <p><span class="chinese">这个康塔塔有个难度很大的声乐总谱。</span><span class="english">The cantata has a difficult vocal score.</span></p>

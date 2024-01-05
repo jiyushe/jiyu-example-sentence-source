@@ -1,5 +1,7 @@
 # creamer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creamer.md)
+
 <p><span class="chinese">植脂末有粉末状或冷冻的液体状。</span><span class="english">Non-dairy creamer comes in powder form or as a refrigerated liquid.</span></p>
 
 <p><span class="chinese">于是后来几个月，爷爷奶奶的早餐变成了伴侣加油条。</span><span class="english">Hence, in the following days, their breakfast is fried sticks with creamer.</span></p>

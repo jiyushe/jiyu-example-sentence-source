@@ -1,5 +1,7 @@
 # 得悉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dexi.md)
+
 <p><span class="chinese">你从什麽地方得悉嘉顿有限公司?。</span><span class="english">Where did you hear about Garden Co. Ltd. ?</span></p>
 
 <p><span class="chinese">从什麽途径得悉这些品牌的运动饮料?。</span><span class="english">What channel that you know of the brand in energy drinks?</span></p>

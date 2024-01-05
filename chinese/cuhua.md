@@ -1,5 +1,7 @@
 # 粗话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuhua.md)
+
 <p><span class="chinese">“该死”是句粗话。</span><span class="english">"God-damn" is a profane word.</span></p>
 
 <p><span class="chinese">你在中国怎么说粗话？</span><span class="english">How do you say the f-word in Chinese?</span></p>

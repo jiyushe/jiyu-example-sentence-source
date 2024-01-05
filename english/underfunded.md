@@ -1,5 +1,7 @@
 # underfunded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underfunded.md)
+
 <p><span class="chinese">国会对该计划未提供足够的资金。</span><span class="english">Congress has underfunded the program.</span></p>
 
 <p><span class="chinese">他们说教育系统经费不足又不公平。</span><span class="english">They say that it's underfunded and unequal.</span></p>

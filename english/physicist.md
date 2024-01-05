@@ -1,5 +1,7 @@
 # physicist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physicist.md)
+
 <p><span class="chinese">物理学家没有理他。</span><span class="english">He is famous as a physicist.</span></p>
 
 <p><span class="chinese">她丈夫是一位物理学家，收入不菲。</span><span class="english">Her husband is a well-paid physicist.</span></p>

@@ -1,5 +1,7 @@
 # fancier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fancier.md)
+
 <p><span class="chinese">还可以使它奇妙点儿。</span><span class="english">You can get a little fancier.</span></p>
 
 <p><span class="chinese">票友之家，但残破的家园。</span><span class="english">Fancier houses, but broken homes.</span></p>

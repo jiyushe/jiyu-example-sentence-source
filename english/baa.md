@@ -1,5 +1,7 @@
 # baa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baa.md)
+
 <p><span class="chinese">我咩咩叫。</span><span class="english">I say "baa."</span></p>
 
 <p><span class="chinese">它是咩咩叫还是哞哞叫？</span><span class="english">Does it baa or moo?</span></p>

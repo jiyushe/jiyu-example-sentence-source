@@ -1,5 +1,7 @@
 # mineralogy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mineralogy.md)
+
 <p><span class="chinese">矿物学是大地科学地质学的一个分支。</span><span class="english">Mineralogy is a brand of the great earth science geology.</span></p>
 
 <p><span class="chinese">土壤矿物的研究是土壤学研究的前沿基础领域。</span><span class="english">Soil mineralogy belongs to the frontier and basis of pedology.</span></p>

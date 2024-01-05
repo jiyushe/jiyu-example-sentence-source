@@ -1,5 +1,7 @@
 # balun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balun.md)
+
 <p><span class="chinese">通过引入一种新型的宽带巴伦结构，本文实现了可工作于3。</span><span class="english">A wideband dipole with a novel wideband balun operating in 3.</span></p>
 
 <p><span class="chinese">提出了一种分析微带天线巴仑的数值方法。</span><span class="english">A numerical method for analyzing the microstrip balun is presented.</span></p>

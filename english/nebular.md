@@ -1,5 +1,7 @@
 # nebular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nebular.md)
+
 <p><span class="chinese">星云的残余气体充斥星际空间。</span><span class="english">The remnant nebular gas pervades the interplanetary space.</span></p>
 
 <p><span class="chinese">新星进入星云阶段之后，不能使用常规的恒星观测的化归公式。</span><span class="english">Point 1. is not observed, when the Novae are in nebular stage.</span></p>

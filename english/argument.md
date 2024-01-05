@@ -1,5 +1,7 @@
 # argument
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argument.md)
+
 <p><span class="chinese">是这样的论点吗？</span><span class="english">Is that the argument?</span></p>
 
 <p><span class="chinese">把你的理由告诉我.</span><span class="english">Tell me your argument.</span></p>

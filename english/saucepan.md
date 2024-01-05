@@ -1,5 +1,7 @@
 # saucepan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saucepan.md)
+
 <p><span class="chinese">从炉子上取下平底锅。</span><span class="english">Take the saucepan off the stove.</span></p>
 
 <p><span class="chinese">我把这个炖锅的盖子弄丢了。</span><span class="english">I've lost the lid of the saucepan.</span></p>

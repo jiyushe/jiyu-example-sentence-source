@@ -1,5 +1,7 @@
 # 传闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanwen.md)
+
 <p><span class="chinese">这个传闻是真的。</span><span class="english">That one is true.</span></p>
 
 <p><span class="chinese">传闻失实。</span><span class="english">The rumour was unfounded.</span></p>

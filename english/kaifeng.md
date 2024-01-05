@@ -1,5 +1,7 @@
 # kaifeng
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kaifeng.md)
+
 <p><span class="chinese">开封瑞江轴承有限公司。</span><span class="english">Kaifeng Ruijiang Axletree Co. ltd.</span></p>
 
 <p><span class="chinese">如今，开封犹太人如履薄冰。</span><span class="english">Today, Kaifeng Jews tread with caution.</span></p>

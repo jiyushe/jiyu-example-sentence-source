@@ -1,5 +1,7 @@
 # ide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ide.md)
+
 <p><span class="chinese">这是我关于友情的看法。</span><span class="english">Tht is my ide bout friendship.</span></p>
 
 <p><span class="chinese">显示IDE的命令行选项的帮助信息。</span><span class="english">Displays help for IDE command-line options.</span></p>

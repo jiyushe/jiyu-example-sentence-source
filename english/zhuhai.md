@@ -1,5 +1,7 @@
 # zhuhai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zhuhai.md)
+
 <p><span class="chinese">有空来珠海玩吧！</span><span class="english">Zhuhai free to play with!</span></p>
 
 <p><span class="chinese">我的第一份工作是在珠海伟创力。</span><span class="english">My first job was on Zhuhai Flextronic.</span></p>

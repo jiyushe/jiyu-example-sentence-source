@@ -1,5 +1,7 @@
 # wildness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wildness.md)
+
 <p><span class="chinese">他保留这自己的野性与狡诈。</span><span class="english">He retained his wildness and wiliness.</span></p>
 
 <p><span class="chinese">没有朋友，这世界无异于荒野。</span><span class="english">Without a friend, the world is a wildness.</span></p>

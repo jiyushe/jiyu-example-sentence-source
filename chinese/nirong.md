@@ -1,5 +1,7 @@
 # 呢绒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nirong.md)
+
 <p><span class="chinese">她拔着红呢绒披风。</span><span class="english">She was cloaked in red wool.</span></p>
 
 <p><span class="chinese">约翰学了染匠，我相信是染呢绒的。</span><span class="english">John was bred a dyer, I believe of woolens.</span></p>

@@ -1,5 +1,7 @@
 # convinced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convinced.md)
+
 <p><span class="chinese">我说服你们了吗？</span><span class="english">Have I convinced you?</span></p>
 
 <p><span class="chinese">你说服我了。</span><span class="english">You have convinced me.</span></p>

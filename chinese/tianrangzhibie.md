@@ -1,5 +1,7 @@
 # 天壤之别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianrangzhibie.md)
+
 <p><span class="chinese">这是与我们熟知的世界有着天壤之别的世界。</span><span class="english">It is a world away from the world we know.</span></p>
 
 <p><span class="chinese">与今日的政治科学有着天壤之别。</span><span class="english">Contrast that with today's political science.</span></p>

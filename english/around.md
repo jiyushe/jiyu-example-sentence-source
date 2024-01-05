@@ -1,5 +1,7 @@
 # around
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/around.md)
+
 <p><span class="chinese">我到处坐坐。</span><span class="english">I sat around.</span></p>
 
 <p><span class="chinese">围着一个大圆桌？</span><span class="english">Around a big table?</span></p>

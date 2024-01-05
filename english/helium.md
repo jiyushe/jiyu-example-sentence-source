@@ -1,5 +1,7 @@
 # helium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helium.md)
+
 <p><span class="chinese">氦气是钝气。</span><span class="english">Helium is a monatomic gas.</span></p>
 
 <p><span class="chinese">氦是最轻的稀有气体。</span><span class="english">Helium is the lightest rare gas.</span></p>

@@ -1,5 +1,7 @@
 # depress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depress.md)
+
 <p><span class="chinese">近几天一直阴雨连绵。</span><span class="english">These cloudy days depress us all.</span></p>
 
 <p><span class="chinese">怎样压抑住自己易激动的情绪？</span><span class="english">How to depress him hotheaded mood?</span></p>

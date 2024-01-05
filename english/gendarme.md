@@ -1,5 +1,7 @@
 # gendarme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gendarme.md)
+
 <p><span class="chinese">“是的。”一个士兵回答。</span><span class="english">Yes, " replied a gendarme ."</span></p>
 
 <p><span class="chinese">一个宪兵正在院子里踱步。</span><span class="english">A gendarme was crossing the court.</span></p>

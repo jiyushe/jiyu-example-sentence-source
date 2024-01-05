@@ -1,5 +1,7 @@
 # shatterproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shatterproof.md)
+
 <p><span class="chinese">空罐子也还是个防碎的储蓄罐。</span><span class="english">A spare jug makes a shatterproof change jar, too.</span></p>
 
 <p><span class="chinese">我的单向玻璃制成的，希望我是防碎。</span><span class="english">I'm made of one-way glass, wish I was shatterproof.</span></p>

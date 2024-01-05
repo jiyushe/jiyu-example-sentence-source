@@ -1,5 +1,7 @@
 # imitating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imitating.md)
+
 <p><span class="chinese">刻意模仿著名的演讲家</span><span class="english">Imitating other famous speakers</span></p>
 
 <p><span class="chinese">但是她的问题在于模仿狗叫声。</span><span class="english">She has problems imitating the sound of dogs.</span></p>

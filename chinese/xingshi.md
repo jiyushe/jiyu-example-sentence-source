@@ -1,5 +1,7 @@
 # 刑事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshi.md)
+
 <p><span class="chinese">如何能避免刑事错案？</span><span class="english">How to avoid miscarriage cases?</span></p>
 
 <p><span class="chinese">所有刑事原告暗示不伏罪。</span><span class="english">All the accused pleaded not guilty.</span></p>

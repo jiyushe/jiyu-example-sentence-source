@@ -1,5 +1,7 @@
 # remover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remover.md)
+
 <p><span class="chinese">你给搬家公司打过电话了吗？</span><span class="english">Have you phoned the remover?</span></p>
 
 <p><span class="chinese">为什麽不买卸妆水呢？</span><span class="english">Why not buy some makeup remover?</span></p>

@@ -1,5 +1,7 @@
 # 失控
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shikong.md)
+
 <p><span class="chinese">但是，赌城的经济扩张一下子失控了。</span><span class="english">But expansion spun out of control.</span></p>
 
 <p><span class="chinese">花豹石，失控的情绪。</span><span class="english">Leopard skin agate, out of control.</span></p>

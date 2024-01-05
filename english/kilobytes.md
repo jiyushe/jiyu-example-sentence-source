@@ -1,5 +1,7 @@
 # kilobytes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kilobytes.md)
+
 <p><span class="chinese">使用千字节指定页面大小。</span><span class="english">Specify the page size in kilobytes.</span></p>
 
 <p><span class="chinese">存储器占用已经减小为几十千字节的标准</span><span class="english">Memory utilization has been reduced to a standard of tens of kilobytes</span></p>

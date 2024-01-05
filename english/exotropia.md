@@ -1,5 +1,7 @@
 # exotropia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exotropia.md)
+
 <p><span class="chinese">集合功能不全型外斜视的手术治疗效果。</span><span class="english">Surgical outcomes in convergence insufficiency-type exotropia.</span></p>
 
 <p><span class="chinese">探讨间歇性外斜视的手术时机。</span><span class="english">To discussion the opportunity choice on the intermittence exotropia surgery.</span></p>

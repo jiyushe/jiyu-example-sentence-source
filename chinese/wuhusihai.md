@@ -1,5 +1,7 @@
 # 五湖四海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhusihai.md)
+
 <p><span class="chinese">现在，我就在这里五湖四海全讯网告诉你，噢，亲爱的，我爱你。</span><span class="english">Now, right here I am saying, oh my darling I love yoU.</span></p>
 
 <p><span class="chinese">深圳混音俱乐部的DJ都是来自五湖四海。</span><span class="english">SzMix club DJ all is comes from all corners of the country.</span></p>

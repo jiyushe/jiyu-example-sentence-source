@@ -1,5 +1,7 @@
 # lateness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lateness.md)
+
 <p><span class="chinese">我对他的迟到负有责任。</span><span class="english">I am to blame for his lateness.</span></p>
 
 <p><span class="chinese">我必须报告老师你迟到了。</span><span class="english">I must report your lateness to the teacher.</span></p>

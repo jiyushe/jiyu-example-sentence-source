@@ -1,5 +1,7 @@
 # 拭泪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shilei.md)
+
 <p><span class="chinese">而眼睛流泪了，手也会去拭泪。</span><span class="english">And when eyes cry, hands wipe their tears.</span></p>
 
 <p><span class="chinese">没人规定钢琴一定用手弹-先准备面纸拭泪！！！</span><span class="english">No one provides the piano played must by hand! ! !</span></p>

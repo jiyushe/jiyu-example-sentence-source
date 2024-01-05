@@ -1,5 +1,7 @@
 # waver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waver.md)
+
 <p><span class="chinese">你们的承诺不能动摇。</span><span class="english">Your commitment must not waver.</span></p>
 
 <p><span class="chinese">我们的决心绝不能动摇。</span><span class="english">And our determination must not waver.</span></p>

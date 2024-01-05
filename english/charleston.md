@@ -1,5 +1,7 @@
 # charleston
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charleston.md)
+
 <p><span class="chinese">这辆车是进到我们在查尔斯顿的车场的。</span><span class="english">This car camesintosour Charleston lot.</span></p>
 
 <p><span class="chinese">他是查尔斯顿学院的生物学家史高顿。</span><span class="english">Scholtens of the College of Charleston.</span></p>

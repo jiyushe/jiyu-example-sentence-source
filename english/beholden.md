@@ -1,5 +1,7 @@
 # beholden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beholden.md)
+
 <p><span class="chinese">我们对他的好意感激万分。</span><span class="english">We were much beholden to him for his kindness.</span></p>
 
 <p><span class="chinese">美国并没有施恩于中国，但中国是“西方国家的人质”。</span><span class="english">The U.S. is not beholden to China, but China is “hostage to the West.”</span></p>

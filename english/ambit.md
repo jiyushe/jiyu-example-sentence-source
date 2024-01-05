@@ -1,5 +1,7 @@
 # ambit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambit.md)
+
 <p><span class="chinese">价格范畴是多少？</span><span class="english">What's the price ambit?</span></p>
 
 <p><span class="chinese">生活不目标就像航海没有罗盘。</span><span class="english">Living after an aim is like captaining after a ambit.</span></p>

@@ -1,5 +1,7 @@
 # lineament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lineament.md)
+
 <p><span class="chinese">命运之神是人世间恩惠的主宰，不能支配自然的相貌。</span><span class="english">Fortune reigns in gifts of the world, not in lineament of nature.</span></p>
 
 <p><span class="chinese">她有着锦绣的轮廓，她的头发是金黄色的，轻轻地飘荡在她的后背中心。</span><span class="english">She has a beautiful lineament and golden hair which is gently floating on her back.</span></p>

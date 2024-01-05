@@ -1,5 +1,7 @@
 # 入主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruzhu.md)
+
 <p><span class="chinese">于是在1981年受洗归入主名下。</span><span class="english">He was baptized in the year 1981.</span></p>
 
 <p><span class="chinese">会不会有新的行业入主吴起，会不会有更多的店铺开张？</span><span class="english">Would new industries come and stores open?</span></p>

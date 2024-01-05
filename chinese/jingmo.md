@@ -1,5 +1,7 @@
 # 静默
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingmo.md)
+
 <p><span class="chinese">在静默中聆听。</span><span class="english">Listen in the silence.</span></p>
 
 <p><span class="chinese">没有冷却风扇，静默工作。</span><span class="english">No cooling fan, silent operation.</span></p>

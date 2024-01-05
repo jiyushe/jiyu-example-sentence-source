@@ -1,5 +1,7 @@
 # gatt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gatt.md)
+
 <p><span class="chinese">关贸总协定是临时的。</span><span class="english">GATT was ad hoc and provisional.</span></p>
 
 <p><span class="chinese">欧共体多次阻挠关贸总协定专家小组的组建。</span><span class="english">The EC repeatedly blocked formation of a GATT panel.</span></p>

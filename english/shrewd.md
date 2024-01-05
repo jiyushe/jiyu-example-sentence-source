@@ -1,5 +1,7 @@
 # shrewd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrewd.md)
+
 <p><span class="chinese">他是个精明的政客。</span><span class="english">He is a shrewd politician.</span></p>
 
 <p><span class="chinese">精明泼妇的软皮鞋。</span><span class="english">The shrewd shrew's suede shoes.</span></p>

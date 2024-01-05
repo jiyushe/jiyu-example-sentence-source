@@ -1,5 +1,7 @@
 # dynamical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dynamical.md)
+
 <p><span class="chinese">电动的机器人控制了他们。</span><span class="english">Dynamical robots controlled them.</span></p>
 
 <p><span class="chinese">应用非线性动力学软件MSC。</span><span class="english">The non-liner transient dynamical software MSC.</span></p>

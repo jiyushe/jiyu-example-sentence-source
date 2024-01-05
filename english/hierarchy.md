@@ -1,5 +1,7 @@
 # hierarchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hierarchy.md)
+
 <p><span class="chinese">什么是层级调用？</span><span class="english">What is Call Hierarchy?</span></p>
 
 <p><span class="chinese">是的。是有等级的。</span><span class="english">Yeah. There is a hierarchy.</span></p>

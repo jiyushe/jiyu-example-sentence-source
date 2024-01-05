@@ -1,5 +1,7 @@
 # insouciance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insouciance.md)
+
 <p><span class="chinese">漫不经心是一个联盟的失败。</span><span class="english">Insouciance is an alliance failure.</span></p>
 
 <p><span class="chinese">并且对于其他一些不靠谱的决策，布什同样也是漫不经心，漠不关心。</span><span class="english">He applies the same insouciance to other dubious choices.</span></p>

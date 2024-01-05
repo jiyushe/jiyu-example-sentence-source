@@ -1,5 +1,7 @@
 # stake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stake.md)
+
 <p><span class="chinese">我敢跟你打赌。</span><span class="english">I can stake with you.</span></p>
 
 <p><span class="chinese">新规则对雒海超有很大的利害关系。</span><span class="english">Mr Luo has a lot at stake.</span></p>

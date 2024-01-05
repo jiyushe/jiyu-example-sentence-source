@@ -1,5 +1,7 @@
 # 电站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianzhan.md)
+
 <p><span class="chinese">他们把电站修在小山往上一英里处。</span><span class="english">They built the power station a mile up the hill.</span></p>
 
 <p><span class="chinese">离它不远之外，小湾电站大坝会于2013年全面竣工。</span><span class="english">Further up, Xiaowan dam will be finished by 2013.</span></p>

@@ -1,5 +1,7 @@
 # 枯燥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuzao.md)
+
 <p><span class="chinese">这部影片很枯燥乏味。</span><span class="english">This movie is boring.</span></p>
 
 <p><span class="chinese">枯燥的书味同嚼蜡。</span><span class="english">A dull book lacks interest.</span></p>

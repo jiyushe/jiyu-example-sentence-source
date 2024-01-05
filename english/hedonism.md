@@ -1,5 +1,7 @@
 # hedonism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hedonism.md)
+
 <p><span class="chinese">那就是享乐主义。</span><span class="english">That's hedonism.</span></p>
 
 <p><span class="chinese">这种观点被称为“享乐主义。</span><span class="english">That view is called hedonism.</span></p>

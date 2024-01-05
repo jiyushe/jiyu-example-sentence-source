@@ -1,5 +1,7 @@
 # monocular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monocular.md)
+
 <p><span class="chinese">该场可以是单眼的或双眼的。</span><span class="english">The yield may be monocular or binocular.</span></p>
 
 <p><span class="chinese">单眼弱视的最终结果是什么？</span><span class="english">What is the final result of monocular amblyopia?</span></p>

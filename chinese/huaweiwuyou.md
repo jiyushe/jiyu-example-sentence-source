@@ -1,5 +1,7 @@
 # 化为乌有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaweiwuyou.md)
+
 <p><span class="chinese">他知道他的希望逐渐化为乌有了。</span><span class="english">He knew that his hope oozed away.</span></p>
 
 <p><span class="chinese">直到爱与虚名化为乌有沉寂无声。</span><span class="english">Till love and fame to nothingness do sink.</span></p>

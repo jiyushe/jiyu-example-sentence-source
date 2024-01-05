@@ -1,5 +1,7 @@
 # magpie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magpie.md)
+
 <p><span class="chinese">不过喜鹊不会去加利福尼亚的。</span><span class="english">But Magpie would not go to California.</span></p>
 
 <p><span class="chinese">风把一只喜鹊抛向远处，一只黑背鸥</span><span class="english">The wind flung a magpie away and a black</span></p>

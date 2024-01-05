@@ -1,5 +1,7 @@
 # 沙暴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shabao_1.md)
+
 <p><span class="chinese">沙暴来了。</span><span class="english">The sandstorm came.</span></p>
 
 <p><span class="chinese">沙暴掩埋掉了他的脚印。</span><span class="english">The sand-storm obliterated his footprints.</span></p>

@@ -1,5 +1,7 @@
 # 脚蹼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaopu.md)
+
 <p><span class="chinese">然后你说，”好吧，他要脚蹼</span><span class="english">and then you say, "OK, he wants flippers</span></p>
 
 <p><span class="chinese">苏亚雷斯会不会戴着脚蹼和通气管上场踢球？</span><span class="english">Will Suarez be playing in flippers and snorkel.</span></p>

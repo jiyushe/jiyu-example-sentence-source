@@ -1,5 +1,7 @@
 # 定都
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingdu.md)
+
 <p><span class="chinese">约西元前10世纪，大卫王曾短暂定都于希伯伦。</span><span class="english">King David made Hebron his capital briefly in the 10th century BC.</span></p>
 
 <p><span class="chinese">无论你身处何方，你的衣柜中肯定都会有一条蓝色的牛仔裤。</span><span class="english">No matter where you live, chances are you have a pair of blue jeans in there.</span></p>

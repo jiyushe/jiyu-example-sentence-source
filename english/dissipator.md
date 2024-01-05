@@ -1,5 +1,7 @@
 # dissipator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissipator.md)
+
 <p><span class="chinese">实践证明，窄缝式挑坎消能工能获得良好的消能防冲效果。</span><span class="english">Practice demonstrates that slot dissipator can achieve effective energy dissipation & scour protection.</span></p>
 
 <p><span class="chinese">多级孔板是一种新的洞内消能措施。</span><span class="english">Multiple orifice energy dissipator is a new measure which dissipates the energy within the outlet works.</span></p>

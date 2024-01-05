@@ -1,5 +1,7 @@
 # nature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nature.md)
+
 <p><span class="chinese">花是大自然最美妙的礼物。</span><span class="english">gift of nature.</span></p>
 
 <p><span class="chinese">大自然很聪明。</span><span class="english">Nature is clever.</span></p>

@@ -1,5 +1,7 @@
 # ephesian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ephesian.md)
+
 <p><span class="chinese">我们为何不能像保罗一样，经常为其他信徒代求呢？</span><span class="english">Why not pray for others as Paul prayed for the Ephesian Christians?</span></p>
 
 <p><span class="chinese">保罗深切期望以弗所信徒能明白这些道理。</span><span class="english">Paul deeply longed that the Ephesian believers might know these things for themselves.</span></p>

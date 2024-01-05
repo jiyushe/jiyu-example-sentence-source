@@ -1,5 +1,7 @@
 # tonkin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tonkin.md)
+
 <p><span class="chinese">越南发生“东京湾事变”。</span><span class="english">Gulf of Tonkin incident occurs in Vietnam.</span></p>
 
 <p><span class="chinese">海南省的西部是北部湾。</span><span class="english">To the West of Hainan is the Gulf of Tonkin.</span></p>

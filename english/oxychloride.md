@@ -1,5 +1,7 @@
 # oxychloride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxychloride.md)
+
 <p><span class="chinese">进行了氧氯化铜防治柑桔溃疡病的药效试验。</span><span class="english">The control effect of copper oxychloride on citrus canker was studied.</span></p>
 
 <p><span class="chinese">氧氯化锆是合成锆化学品的重要原料。</span><span class="english">Zirconium oxychloride is the important raw material to produce Zirconium chemicals.</span></p>

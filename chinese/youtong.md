@@ -1,5 +1,7 @@
 # 幼童
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youtong.md)
+
 <p><span class="chinese">录像显示一位幼童在大街上玩耍。</span><span class="english">The video shows a toddler playing in a street.</span></p>
 
 <p><span class="chinese">幼童坐在高脚椅里，发出咯咯声。</span><span class="english">The baby sat in his high-chair,burbling happily.</span></p>

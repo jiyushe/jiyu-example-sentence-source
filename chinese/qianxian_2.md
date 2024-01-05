@@ -1,5 +1,7 @@
 # 牵线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianxian_2.md)
+
 <p><span class="chinese">可限制负荷摆动弧度的牵线。</span><span class="english">Tag ! ine restrict swinging of ! oad.</span></p>
 
 <p><span class="chinese">我的天哪，我帮你怎么样?我最擅长帮人牵线了。</span><span class="english">Oh my god, can I wing for you? I am such a good wingman.</span></p>

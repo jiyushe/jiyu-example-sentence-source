@@ -1,5 +1,7 @@
 # flooring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flooring.md)
+
 <p><span class="chinese">他们把地板做坏了。</span><span class="english">They screwed up the flooring.</span></p>
 
 <p><span class="chinese">解决的办法是用竹地板。</span><span class="english">The solution is bamboo flooring.</span></p>

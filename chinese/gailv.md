@@ -1,5 +1,7 @@
 # 概率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gailv.md)
+
 <p><span class="chinese">五十之一的概率。</span><span class="english">One-fifty is the number.</span></p>
 
 <p><span class="chinese">这些数值是概率</span><span class="english">These are probabilities.</span></p>

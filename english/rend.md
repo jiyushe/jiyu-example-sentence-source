@@ -1,5 +1,7 @@
 # rend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rend.md)
+
 <p><span class="chinese">我撕碎，我结束，我复返。</span><span class="english">I rend , I end, I return.</span></p>
 
 <p><span class="chinese">狼群会把一只羔羊撕成碎片。</span><span class="english">Wolves will rend a lamb to pieces.</span></p>

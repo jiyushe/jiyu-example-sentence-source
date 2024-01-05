@@ -1,5 +1,7 @@
 # 金凤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinfeng.md)
+
 <p><span class="chinese">金凤花和三只熊的故事</span><span class="english">Goldilocks and the Three Bears</span></p>
 
 <p><span class="chinese">如果金凤花在蜜蜂身后嗡嗡响。</span><span class="english">If buttercups buzz'd after the bee.</span></p>

@@ -1,5 +1,7 @@
 # windbreak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windbreak.md)
+
 <p><span class="chinese">车道边上甚至还有行道树，帮我挡了风。</span><span class="english">It's even lined with trees that act as a windbreak.</span></p>
 
 <p><span class="chinese">沿海边的树木是很好的防风林。</span><span class="english">The woods along the coast provide a good windbreak.</span></p>

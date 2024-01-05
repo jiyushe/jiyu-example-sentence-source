@@ -1,5 +1,7 @@
 # 协奏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezou.md)
+
 <p><span class="chinese">他的独奏，以及协奏和室内乐演出，都展示了他的音乐才能和高超的演奏技巧。</span><span class="english">His recitals, as well as concerto and chamber performances, are imbued with musicianship and pianism of the highest order.</span></p>
 
 <p><span class="chinese">在变奏曲I，II专辑，马克西姆认为柴科夫斯基的“B小调钢琴协奏”是最难学的。</span><span class="english">In the Variations I&II album, Maksim said that the 'Piano Concerto in Bb Minor' by Tchaikovsky was the most difficult to learn.</span></p>

@@ -1,5 +1,7 @@
 # aborted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aborted.md)
+
 <p><span class="chinese">发射中止了。</span><span class="english">Blast-off has been aborted.</span></p>
 
 <p><span class="chinese">植物的刺是退化的枝。</span><span class="english">Thorns are aborted branch es.</span></p>

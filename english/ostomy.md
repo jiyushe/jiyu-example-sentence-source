@@ -1,5 +1,7 @@
 # ostomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ostomy.md)
+
 <p><span class="chinese">外聘造口袋已不再需要。</span><span class="english">An external ostomy bag is no longer required.</span></p>
 
 <p><span class="chinese">没有人会知道你有一个造口，除非你告诉他们。</span><span class="english">No one will know you have an ostomy unless you tell them.</span></p>

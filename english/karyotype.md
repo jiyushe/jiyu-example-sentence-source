@@ -1,5 +1,7 @@
 # karyotype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karyotype.md)
+
 <p><span class="chinese">核型不对称性类型为1A。</span><span class="english">The karyotype belonged to Stebbins′ 1A type.</span></p>
 
 <p><span class="chinese">标题多变小冠花的核型分析。</span><span class="english">An analysis of karyotype on Coronilla varia L.</span></p>

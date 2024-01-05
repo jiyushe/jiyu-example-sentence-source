@@ -1,5 +1,7 @@
 # mmm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mmm.md)
+
 <p><span class="chinese">嗯…他也许会得重感冒。</span><span class="english">Mmm. He might catch his death.</span></p>
 
 <p><span class="chinese">坎贝尔浓汤，“呣……好！”</span><span class="english">Campbell Soup, "Mmm mm good", BBDO, 1930s</span></p>

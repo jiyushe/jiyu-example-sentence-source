@@ -1,5 +1,7 @@
 # 下行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaxing.md)
+
 <p><span class="chinese">我相信这是一个下行趋势。</span><span class="english">I believe this is a downward trend.</span></p>
 
 <p><span class="chinese">可以在无祭司的状况下行奥迹吗?。</span><span class="english">Can we have mystery without a priest?</span></p>

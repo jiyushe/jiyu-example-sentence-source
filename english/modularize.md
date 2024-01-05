@@ -1,5 +1,7 @@
 # modularize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modularize.md)
+
 <p><span class="chinese">把一些事情都模块化了。</span><span class="english">We modularize things.</span></p>
 
 <p><span class="chinese">另一个重要步骤就是模块化JRuby</span><span class="english">Another important step is to modularize JRuby</span></p>

@@ -1,5 +1,7 @@
 # senegal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/senegal.md)
+
 <p><span class="chinese">在达喀尔塞内加尔的这里稍微热地挖掘。</span><span class="english">Mine a little hot over here in Dakar Senegal.</span></p>
 
 <p><span class="chinese">塞内加尔表示将于星期一把哈布雷引渡回乍得。</span><span class="english">Senegal says it will extradite Habre on Monday.</span></p>

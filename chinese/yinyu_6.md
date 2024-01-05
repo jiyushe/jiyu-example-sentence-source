@@ -1,5 +1,7 @@
 # 饮誉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyu_6.md)
+
 <p><span class="chinese">黄志达饮誉设计界的同时，也引起外界的广泛关注。</span><span class="english">Furthermore, Ricky has also won the attention of Medias.</span></p>
 
 <p><span class="chinese">益以工艺精湛，风味独特著称，饮誉海内外。</span><span class="english">With exquisite workmanship, PE celebrated, unique flavor from home or abroad.</span></p>

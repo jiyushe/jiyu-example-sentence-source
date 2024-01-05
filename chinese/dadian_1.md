@@ -1,5 +1,7 @@
 # 大殿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadian_1.md)
+
 <p><span class="chinese">韩佳，这地藏王大殿有多少年的历史？</span><span class="english">Han Jia, how old is the Dizangwang Hall?</span></p>
 
 <p><span class="chinese">一走进大殿你就能很荣易的看到他们。</span><span class="english">You can easily see them when you enter the Hall.</span></p>

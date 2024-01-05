@@ -1,5 +1,7 @@
 # hypersensitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypersensitive.md)
+
 <p><span class="chinese">身体不同部位的皮肤变得高度敏感。</span><span class="english">The skin on various parts of the body becomes hypersensitive.</span></p>
 
 <p><span class="chinese">虾酱对皮肤是否也会有过敏症状?。</span><span class="english">Whether can shrimp paste also have hypersensitive state to the skin?</span></p>

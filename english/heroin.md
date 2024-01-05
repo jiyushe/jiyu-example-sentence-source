@@ -1,5 +1,7 @@
 # heroin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heroin.md)
+
 <p><span class="chinese">诊所使服用海洛因的人戒去毒瘾。</span><span class="english">The clinic detoxes heroin addicts.</span></p>
 
 <p><span class="chinese">你昨晚海洛因吸食过量。</span><span class="english">You overdosed on heroin last night.</span></p>

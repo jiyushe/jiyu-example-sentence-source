@@ -1,5 +1,7 @@
 # nonprotein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonprotein.md)
+
 <p><span class="chinese">许多酶如不外加一种叫做辅助因子的非蛋白质物质就不能工作。</span><span class="english">Many enzymes will not work without the presence of an additional nonprotein substance called a cofactor.</span></p>
 
 <p><span class="chinese">苯丙氨酸是一种非蛋白氨基酸，这意味着它不参与蛋白质的合成。</span><span class="english">D-phenylalanine is a nonprotein amino acid, meaning that it does not participate in protein biosynthesis.</span></p>

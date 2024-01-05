@@ -1,5 +1,7 @@
 # 势态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitai_2.md)
+
 <p><span class="chinese">然而，势态好转前，兴许会恶化。</span><span class="english">Yet things may get worse before they get better.</span></p>
 
 <p><span class="chinese">此类臭虫数量增长今年呈爆炸势态。</span><span class="english">The stink bug population has been exploding this year.</span></p>

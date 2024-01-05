@@ -1,5 +1,7 @@
 # voile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voile.md)
+
 <p><span class="chinese">这件衣服是用纱做的。</span><span class="english">The dress is made of voile.</span></p>
 
 <p><span class="chinese">这件衣服是用薄纱做的。</span><span class="english">The dress is made of voile.</span></p>

@@ -1,5 +1,7 @@
 # 种牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongniu.md)
+
 <p><span class="chinese">这三种牛都属于牛族吧。</span><span class="english">The three kinds of words are all belong to Cattle.</span></p>
 
 <p><span class="chinese">这种牛头人身的神像通常被放在木乃伊体内。</span><span class="english">This god which has the head of a cow was normally placed inside a mummy.</span></p>

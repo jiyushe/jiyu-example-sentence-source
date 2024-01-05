@@ -1,5 +1,7 @@
 # zoning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoning.md)
+
 <p><span class="chinese">休斯顿甚至没有区域法，Houston，doesn’</span><span class="english">t even have zoning laws.</span></p>
 
 <p><span class="chinese">我不认为这里有做过任何区域规划。</span><span class="english">I don't think there was any zoning done here.</span></p>

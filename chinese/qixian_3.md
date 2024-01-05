@@ -1,5 +1,7 @@
 # 起先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixian_3.md)
+
 <p><span class="chinese">起先这一扯谈观点看似正确。</span><span class="english">At first this myth might seem true.</span></p>
 
 <p><span class="chinese">起先，她的母亲不敢相信。</span><span class="english">At first, her mother was skeptical.</span></p>

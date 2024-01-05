@@ -1,5 +1,7 @@
 # 振奋人心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenfenrenxin.md)
+
 <p><span class="chinese">他的一番话真是振奋人心啊。</span><span class="english">His words is really exciting.</span></p>
 
 <p><span class="chinese">这的确是一个振奋人心的消息。</span><span class="english">This is a heart-stirring message really.</span></p>

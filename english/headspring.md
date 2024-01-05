@@ -1,5 +1,7 @@
 # headspring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headspring.md)
+
 <p><span class="chinese">独立性与协同性是国家起源的根据。</span><span class="english">Independence and cooperation are base of a states headspring.</span></p>
 
 <p><span class="chinese">这四层境界在今天仍是设计师创造力的源泉。</span><span class="english">Nowadays, these four ambits are still one kind of creative headspring of designers.</span></p>

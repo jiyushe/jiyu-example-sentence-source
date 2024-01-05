@@ -1,5 +1,7 @@
 # keynotes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keynotes.md)
+
 <p><span class="chinese">——有时还会温习并仔细分析别人的主题演讲。</span><span class="english">sometimes revisits and dissects the keynotes of others.</span></p>
 
 <p><span class="chinese">仪式则包括乔布斯的主旨讲话和产品推出前扣人心弦的宣传造势。</span><span class="english">The rituals include Mr. Jobs's keynotes and breathless build-ups to product launches.</span></p>

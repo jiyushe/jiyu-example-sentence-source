@@ -1,5 +1,7 @@
 # livable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/livable.md)
+
 <p><span class="chinese">生态宜居已日益成为我市的一张新名片。</span><span class="english">Ecological Livable City has become a new card of our city.</span></p>
 
 <p><span class="chinese">加拿大温哥华是世界上最宜居的城市之一。</span><span class="english">Vancouver Canada is one of the most livable cities in the world.</span></p>

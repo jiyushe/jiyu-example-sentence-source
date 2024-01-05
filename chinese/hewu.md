@@ -1,5 +1,7 @@
 # 何物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hewu.md)
+
 <p><span class="chinese">以何物为抵押？</span><span class="english">Against what collateral?</span></p>
 
 <p><span class="chinese">他们会问你那纸条是何物。</span><span class="english">They ask you what that paper is.</span></p>

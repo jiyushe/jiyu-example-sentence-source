@@ -1,5 +1,7 @@
 # 乱糟糟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanzaozao.md)
+
 <p><span class="chinese">埃及乱糟糟的。</span><span class="english">Egypt is a mess.</span></p>
 
 <p><span class="chinese">屋子里乱糟糟的。</span><span class="english">The room is in a mess.</span></p>

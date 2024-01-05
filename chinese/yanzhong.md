@@ -1,5 +1,7 @@
 # 眼中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhong.md)
+
 <p><span class="chinese">能燃烧你眼中的火光熊熊？</span><span class="english">Burnt the fire of thine eyes?</span></p>
 
 <p><span class="chinese">他的眼中盈满了泪水。</span><span class="english">Tears brimmed up in his eyes.</span></p>

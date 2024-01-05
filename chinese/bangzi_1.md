@@ -1,5 +1,7 @@
 # 梆子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangzi_1.md)
+
 <p><span class="chinese">吕洞宾敲了一会梆子。</span><span class="english">Immortals knocked a operas.</span></p>
 
 <p><span class="chinese">吕洞宾敲了一会梆子。</span><span class="english">Immortass knocked a operas.</span></p>

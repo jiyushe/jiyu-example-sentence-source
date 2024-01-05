@@ -1,5 +1,7 @@
 # 与日俱增
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yurijuzeng.md)
+
 <p><span class="chinese">沙恩死后，我对他的思念与日俱增。</span><span class="english">I miss Shane more every day he's gone.</span></p>
 
 <p><span class="chinese">湘绣赢得了声望与日俱增。</span><span class="english">Xiang Embroidery gained popularity day by day.</span></p>

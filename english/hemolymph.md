@@ -1,5 +1,7 @@
 # hemolymph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemolymph.md)
+
 <p><span class="chinese">目的确定家蝇幼虫血淋巴的抗病毒作用。</span><span class="english">To define the antiviral activity of M. domestica larva hemolymph.</span></p>
 
 <p><span class="chinese">目的确定家蝇幼虫血淋巴的抗病毒作用。</span><span class="english">Objective To study the antiviral activity of Musca domestica larva hemolymph.</span></p>

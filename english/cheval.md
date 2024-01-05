@@ -1,5 +1,7 @@
 # cheval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheval.md)
+
 <p><span class="chinese">哪些年份的葡萄酒是您个人的最爱？</span><span class="english">Which year of Cheval Blanc is your favorite?</span></p>
 
 <p><span class="chinese">你开61年白马庄的那天，就是特别的日子。</span><span class="english">The day u open ur 61's Cheval Blanc IS a special day.</span></p>

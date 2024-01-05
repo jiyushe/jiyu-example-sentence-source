@@ -1,5 +1,7 @@
 # 差数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chashu.md)
+
 <p><span class="chinese">他不能说明这个差数问题。</span><span class="english">He could not account for the discrepancy.</span></p>
 
 <p><span class="chinese">据显示，政府以最微弱的优势领先。差数，余地，余裕。</span><span class="english">It is shown that the government is leading by the narrowest of margins.</span></p>

@@ -1,5 +1,7 @@
 # dynamo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dynamo.md)
+
 <p><span class="chinese">摩队比不上利物浦队。</span><span class="english">Dynamo is not spatch on Liverpool.</span></p>
 
 <p><span class="chinese">发电机使机械能转换为电。</span><span class="english">A dynamo transforms mechanical energy into electricity.</span></p>

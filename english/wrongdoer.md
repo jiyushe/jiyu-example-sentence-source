@@ -1,5 +1,7 @@
 # wrongdoer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrongdoer.md)
+
 <p><span class="chinese">现在你是作恶者。</span><span class="english">You are the wrongdoer now.</span></p>
 
 <p><span class="chinese">法官对这个犯人很宽大。</span><span class="english">The judge was lenient with the wrongdoer.</span></p>

@@ -1,5 +1,7 @@
 # paleontologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleontologist.md)
+
 <p><span class="chinese">塞瑞诺是位知名的古生物学家。</span><span class="english">Sereno is a well-known paleontologist.</span></p>
 
 <p><span class="chinese">也许你正有一个十分想知道的问题要询问古生物学家，也许你正考虑换个工作、想直接跟某位摄影师或景观设计师谈谈。</span><span class="english">Perhaps you have a burning question for a paleontologist.</span></p>

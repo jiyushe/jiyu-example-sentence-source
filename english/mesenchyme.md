@@ -1,5 +1,7 @@
 # mesenchyme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesenchyme.md)
+
 <p><span class="chinese">肾间质血管充血。</span><span class="english">Hyperemia was found in the kidney mesenchyme.</span></p>
 
 <p><span class="chinese">结论①肌肉神经组织起源于间质组织。</span><span class="english">Conclusions Neuromuscular tissue of pylorus originates from mesenchyme.</span></p>

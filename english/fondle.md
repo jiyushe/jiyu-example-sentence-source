@@ -1,5 +1,7 @@
 # fondle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fondle.md)
+
 <p><span class="chinese">让我们学习不要抚弄撒旦。</span><span class="english">Let us learn not to fondle Satan.</span></p>
 
 <p><span class="chinese">丢弃你的羞怯，大胆地爱抚我。</span><span class="english">Discard your pudency, fondle me audaciously.</span></p>

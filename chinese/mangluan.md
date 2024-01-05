@@ -1,5 +1,7 @@
 # 忙乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangluan.md)
+
 <p><span class="chinese">我们生活在忙乱中。</span><span class="english">We live in the buzz.</span></p>
 
 <p><span class="chinese">忙乱对祷告是致命的。</span><span class="english">Hurry is the death of prayer.</span></p>

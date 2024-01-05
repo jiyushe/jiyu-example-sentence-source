@@ -1,5 +1,7 @@
 # norwalk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norwalk.md)
+
 <p><span class="chinese">他住在威斯浦，他在诺沃克工作。</span><span class="english">He lives in Westport, and he works in Norwalk.</span></p>
 
 <p><span class="chinese">之后，他前往加利福尼亚州的诺沃克开设了自己的诊所。</span><span class="english">Then he went on to have his own clinics in Norwalk California.</span></p>

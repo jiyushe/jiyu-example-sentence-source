@@ -1,5 +1,7 @@
 # edibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edibility.md)
+
 <p><span class="chinese">禁止服食，不要倒入下水道。</span><span class="english">Prohibition against edibility. Do not empty into drains.</span></p>
 
 <p><span class="chinese">除了它们的可食性之外，蕈类长期被认为具有药用功能。</span><span class="english">Besides their edibility , mushrooms have long been considered to have medicinal properties.</span></p>

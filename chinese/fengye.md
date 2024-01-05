@@ -1,5 +1,7 @@
 # 枫叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengye.md)
+
 <p><span class="chinese">你为什么没有枫叶卡？</span><span class="english">Why you don't have PR Card?</span></p>
 
 <p><span class="chinese">秋天里枫叶满山红遍。</span><span class="english">A maple tree ablaze in autumn.</span></p>

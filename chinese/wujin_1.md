@@ -1,5 +1,7 @@
 # 无尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujin_1.md)
+
 <p><span class="chinese">给我无尽的夏季。</span><span class="english">Give me endl! ess summer.</span></p>
 
 <p><span class="chinese">他无尽期地等待着。</span><span class="english">He waited for an eternity.</span></p>

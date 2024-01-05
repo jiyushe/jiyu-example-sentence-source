@@ -1,5 +1,7 @@
 # punt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punt.md)
+
 <p><span class="chinese">她很快就学会了撑方头平底船。</span><span class="english">She soon learned to punt.</span></p>
 
 <p><span class="chinese">踢球员将在第四次进攻机会时弃踢。</span><span class="english">The kicker will punt at fourth down.</span></p>

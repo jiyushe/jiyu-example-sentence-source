@@ -1,5 +1,7 @@
 # lost 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lost.md)
+
 <p><span class="chinese">我的猫咪不见了。</span><span class="english">I lost my cat.</span></p>
 
 <p><span class="chinese">我把钥匙弄丢了。</span><span class="english">I lost the key.</span></p>

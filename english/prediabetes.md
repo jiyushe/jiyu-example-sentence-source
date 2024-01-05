@@ -1,5 +1,7 @@
 # prediabetes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prediabetes.md)
+
 <p><span class="chinese">拜唐苹为何被批准用于糖尿病前期的治疗？</span><span class="english">Why has Glucobay been approved for the use in prediabetes?</span></p>
 
 <p><span class="chinese">你的葡萄糖耐量减低，也可以说你患有前驱糖尿病。</span><span class="english">You have impaired glucose tolerance, also called prediabetes.</span></p>

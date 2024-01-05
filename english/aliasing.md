@@ -1,5 +1,7 @@
 # aliasing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aliasing.md)
+
 <p><span class="chinese">值得庆幸的是，在现代的数码设备上，“假信号混淆”失真都低到了使人听不出的程度。</span><span class="english">Fortunately, in all modern digital gear, aliasing is so low in level that it's inaudible.</span></p>
 
 <p><span class="chinese">提出了一种傅里叶计算全息图数字再现中混叠消除的方法。</span><span class="english">A method of the elimination of aliasing image in the digital reconstruction of Fourier CGH was presented.</span></p>

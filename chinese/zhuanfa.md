@@ -1,5 +1,7 @@
 # 转发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanfa.md)
+
 <p><span class="chinese">我们想要别人转发它。</span><span class="english">We want people to re-tweet.</span></p>
 
 <p><span class="chinese">那些转发的网站，也BS下。</span><span class="english">Those transponders website, also under the BS.</span></p>

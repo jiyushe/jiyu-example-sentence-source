@@ -1,5 +1,7 @@
 # frankfort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frankfort.md)
+
 <p><span class="chinese">我要一张去法兰克福的头等单程票。</span><span class="english">I want a first class single to frankfort.</span></p>
 
 <p><span class="chinese">他的爸爸独自一个去法兰克福了。</span><span class="english">Their Dad was going on his own to Frankfort.</span></p>

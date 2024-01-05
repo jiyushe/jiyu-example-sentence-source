@@ -1,5 +1,7 @@
 # immanuel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immanuel.md)
+
 <p><span class="chinese">随之而来的是著名哲学家伊曼努尔？康德。</span><span class="english">Then along came Immanuel Kant, very famous philosopher.</span></p>
 
 <p><span class="chinese">小岩城以马内利华语浸信会主页。</span><span class="english">Main page for Little Rock Chinese Immanuel Baptist Church.</span></p>

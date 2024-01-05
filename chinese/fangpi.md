@@ -1,5 +1,7 @@
 # 放屁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangpi.md)
+
 <p><span class="chinese">谁放屁？</span><span class="english">Who farted?</span></p>
 
 <p><span class="chinese">又是谁偷放屁?。</span><span class="english">Who farted again?</span></p>

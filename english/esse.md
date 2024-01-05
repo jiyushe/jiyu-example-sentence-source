@@ -1,5 +1,7 @@
 # esse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esse.md)
+
 <p><span class="chinese">只要有你的存在，我就是这世上最幸福的人。</span><span class="english">Only the esse , I having you am this the most happy person of the in this world.</span></p>
 
 <p><span class="chinese">刑事诉讼法规定对现行犯可以适用先行拘留。</span><span class="english">Criminal laws stipulate that detention de bene esse can apply to active criminal.</span></p>

@@ -1,5 +1,7 @@
 # 战战兢兢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanzhanjingjing.md)
+
 <p><span class="chinese">我战战兢兢地等着他给出评论。</span><span class="english">I waited apprehensively for him to comment.</span></p>
 
 <p><span class="chinese">现在，尽管，投资者们战战兢兢。</span><span class="english">Now, though, investors are getting jittery.</span></p>

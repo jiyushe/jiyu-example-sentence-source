@@ -1,5 +1,7 @@
 # riot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riot.md)
+
 <p><span class="chinese">不要恣情暴饮。</span><span class="english">Don't riot in drink.</span></p>
 
 <p><span class="chinese">我向他宣读了“取缔闹事法”。</span><span class="english">I read him the riot act.</span></p>

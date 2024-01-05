@@ -1,5 +1,7 @@
 # frilled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frilled.md)
+
 <p><span class="chinese">半重瓣的深蓝色皱折菫型花。</span><span class="english">Semidouble dark blue frilled pansy.</span></p>
 
 <p><span class="chinese">撞色布泡泡袖及有褶饰边裙脚。</span><span class="english">Contrast color puffy sleeves and frilled hem.</span></p>

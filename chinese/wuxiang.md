@@ -1,5 +1,7 @@
 # 物像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxiang.md)
+
 <p><span class="chinese">所有的弓下来到有翼的阳物像！</span><span class="english">All bow down to the winged phallus!</span></p>
 
 <p><span class="chinese">物体在视网膜上形成的物像是倒立的吗？</span><span class="english">Is the reflection of objects projected on the retina upsidedown?</span></p>

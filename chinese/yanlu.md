@@ -1,5 +1,7 @@
 # 盐卤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanlu.md)
+
 <p><span class="chinese">大部分海味不用煮熟再吃，可以生吃、晾干、熏干、腌制、盐卤或发酵。</span><span class="english">Much seafood is eaten uncooked, either raw, dried, smoked, salted, pickled, or fermented.</span></p>
 
 <p><span class="chinese">但近几年，随着盐卤资源的逐渐枯竭，市场的萎缩，自贡城市发展逐渐失去了往日的生机与活力。</span><span class="english">But, in recent years, with the salt resources being exhausted and market's shrinking, the city's development gradually has slowed down.</span></p>

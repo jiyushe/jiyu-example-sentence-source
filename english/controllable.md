@@ -1,5 +1,7 @@
 # controllable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/controllable.md)
+
 <p><span class="chinese">我们船有可变螺距螺旋桨。</span><span class="english">We have controllable pitch propeller.</span></p>
 
 <p><span class="chinese">你船是可变螺距推进器吗？</span><span class="english">Do you have a controllable pitch propeller?</span></p>

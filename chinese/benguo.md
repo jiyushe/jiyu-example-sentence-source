@@ -1,5 +1,7 @@
 # 本国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benguo.md)
+
 <p><span class="chinese">英语是玛丽的本国语。</span><span class="english">English is Mary's mother tongue.</span></p>
 
 <p><span class="chinese">他的本国同胞伏打指出，情况并非如此。</span><span class="english">Volta showed that this was not so.</span></p>

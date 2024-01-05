@@ -1,5 +1,7 @@
 # cupola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cupola.md)
+
 <p><span class="chinese">化铁炉有多大?。</span><span class="english">How large is your cupola?</span></p>
 
 <p><span class="chinese">我从钟的顶端爬出，那是一个圆顶的顶篷。</span><span class="english">I pop up the top, and there's a cupola.</span></p>

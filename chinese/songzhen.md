@@ -1,5 +1,7 @@
 # 松针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songzhen.md)
+
 <p><span class="chinese">整个地方都充斥着松针的气味。</span><span class="english">The entire place smelled like pine needles.</span></p>
 
 <p><span class="chinese">地上铺满了松针和干草。</span><span class="english">The ground is scattered with pine needles and hay.</span></p>

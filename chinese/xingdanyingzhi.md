@@ -1,5 +1,7 @@
 # 形单影只
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingdanyingzhi.md)
+
 <p><span class="chinese">这一天，耶稣形单影只</span><span class="english">The day when Jesus stood alone</span></p>
 
 <p><span class="chinese">我在一个陌生的城市里形单影只。</span><span class="english">I was alone in an unfamiliar city.</span></p>

@@ -1,5 +1,7 @@
 # lean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lean.md)
+
 <p><span class="chinese">吃瘦肉蛋白质！</span><span class="english">Eat lean proteins!</span></p>
 
 <p><span class="chinese">不要靠在芦苇上哦。</span><span class="english">Don't lean on a reed.</span></p>

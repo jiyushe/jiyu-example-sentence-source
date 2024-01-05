@@ -1,5 +1,7 @@
 # 精耕细作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinggengxizuo.md)
+
 <p><span class="chinese">铁路沿线到处可见新建的工厂和精耕细作的田地。</span><span class="english">We saw new factories and well-cultivated fields all along the line.</span></p>
 
 <p><span class="chinese">我看中国就是靠精耕细作吃饭。</span><span class="english">In my opinion, China must depend on intensive cultivation to feed itself.</span></p>

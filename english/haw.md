@@ -1,5 +1,7 @@
 # haw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haw.md)
+
 <p><span class="chinese">这是我自己制作的山楂糕。</span><span class="english">I made this haw jelly cake myself.</span></p>
 
 <p><span class="chinese">山楂溪瀑布群，阿肯色州，夜色。</span><span class="english">Haw Creek Falls, Arkansas, at Night.</span></p>

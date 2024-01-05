@@ -1,5 +1,7 @@
 # typewritten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typewritten.md)
+
 <p><span class="chinese">要是我，就交用打字机打出来的论文。</span><span class="english">I should hand in a typewritten paper if I were you.</span></p>
 
 <p><span class="chinese">所有提名表格必须工整书写或用打字机填写。</span><span class="english">All entries should be legibly written or typewritten.</span></p>

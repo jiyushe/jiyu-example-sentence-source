@@ -1,5 +1,7 @@
 # bombardier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bombardier.md)
+
 <p><span class="chinese">投弹手？它会放炸弹还是怎么的？</span><span class="english">Bombardier? He releases bomb or some sort?</span></p>
 
 <p><span class="chinese">庞巴迪发言人说，尚未与中国商用飞机有限责任公司签订最后协议。</span><span class="english">No definitive agreement with Comac has been signed yet, a Bombardier spokeswoman said.</span></p>

@@ -1,5 +1,7 @@
 # keyed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keyed.md)
+
 <p><span class="chinese">他们开错车了?。</span><span class="english">They keyed the wrong car?</span></p>
 
 <p><span class="chinese">他把钢琴的音调调到了音乐会要求的音高标准。</span><span class="english">He keyed the piano up to a concert pitch.</span></p>

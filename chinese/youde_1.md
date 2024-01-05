@@ -1,5 +1,7 @@
 # 有的
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youde_1.md)
+
 <p><span class="chinese">我想他是有的。</span><span class="english">I think he is.</span></p>
 
 <p><span class="chinese">有的人说世界将毁于冰。</span><span class="english">Some say in ice.</span></p>

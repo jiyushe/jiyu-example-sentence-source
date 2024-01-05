@@ -1,5 +1,7 @@
 # instant 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instant.md)
+
 <p><span class="chinese">很便捷，这就是为什么。</span><span class="english">It's so instant.</span></p>
 
 <p><span class="chinese">这是个即时的新闻。</span><span class="english">It's an instant news.</span></p>

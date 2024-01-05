@@ -1,5 +1,7 @@
 # 大报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabao.md)
+
 <p><span class="chinese">因此当它召开了一次新闻发布会之后大报们也不能忽视它了。</span><span class="english">So when it held a news conference the big papers could not ignore it.</span></p>
 
 <p><span class="chinese">多数城市只出版严肃大报，纽约却同时为通俗报刊提供了充满生机的竞技场。</span><span class="english">Most cities stick to broadsheet, but New York has a lively tabloid arena.</span></p>

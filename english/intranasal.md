@@ -1,5 +1,7 @@
 # intranasal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intranasal.md)
+
 <p><span class="chinese">经鼻接种的流感病毒疫苗</span><span class="english">Intranasal influenza virus vaccine</span></p>
 
 <p><span class="chinese">鼻腔流感疫苗的功能显著。</span><span class="english">Intranasal flu vaccine appears to work well.</span></p>

@@ -1,5 +1,7 @@
 # 灾害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaihai.md)
+
 <p><span class="chinese">海洋灾害预报系统。</span><span class="english">Marine disaster forecasting system.</span></p>
 
 <p><span class="chinese">旱涝灾害的影响评估。</span><span class="english">The influence of drought and flood.</span></p>

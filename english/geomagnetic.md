@@ -1,5 +1,7 @@
 # geomagnetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geomagnetic.md)
+
 <p><span class="chinese">地球上最后一次地磁倒转大约是78万年前。</span><span class="english">The last geomagnetic reversal for Earth was about 780,000 years ago.</span></p>
 
 <p><span class="chinese">舒曼波和地磁波之间的不平衡干扰了生理节律。</span><span class="english">An imbalance between Schumann and geomagnetic waves disrupts biorhythms.</span></p>

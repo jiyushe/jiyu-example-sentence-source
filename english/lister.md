@@ -1,5 +1,7 @@
 # lister
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lister.md)
+
 <p><span class="chinese">理查德·李斯特在华盛顿发回的报道。</span><span class="english">Richard Lister is in Washington.</span></p>
 
 <p><span class="chinese">对股票投资者而言，也会有支持，但他们要为此付出多大代价呢？</span><span class="english">Lister says.'For equity investors, it will be there, but at what cost?</span></p>

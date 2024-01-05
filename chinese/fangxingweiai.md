@@ -1,5 +1,7 @@
 # 方兴未艾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangxingweiai.md)
+
 <p><span class="chinese">目前，国内外对信息化教学设计的研究方兴未艾。</span><span class="english">At present, the study of IID is rising in domestic and foreign.</span></p>
 
 <p><span class="chinese">美国的判例法能为中国方兴未艾的绿色立法提供什么启示呢？</span><span class="english">Does US case-law have anything to teach China's green warriors?</span></p>

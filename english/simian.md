@@ -1,5 +1,7 @@
 # simian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simian.md)
+
 <p><span class="chinese">埃达有一张布满皱纹、长得像猿猴的脸。</span><span class="english">Ada had a wrinkled, simian face.</span></p>
 
 <p><span class="chinese">这只猴子名叫科尼利厄斯，苏珊娜的弟弟。</span><span class="english">The simian figure is Cornelius, Suzanne 's baby brother.</span></p>

@@ -1,5 +1,7 @@
 # 牛郎织女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niulangzhinv.md)
+
 <p><span class="chinese">我们这些牛郎织女都恨透了那条无情的“天河”。</span><span class="english">We couples who have been separated hate the ruthless "The Milky Way".</span></p>
 
 <p><span class="chinese">但是，自从牛郎织女结婚了以后，织女就不再织布了。</span><span class="english">After they were married, the fairy thougjt she did not need to weave again.</span></p>

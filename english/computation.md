@@ -1,5 +1,7 @@
 # computation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/computation.md)
+
 <p><span class="chinese">我把它到做计算来用。</span><span class="english">I've captured it as a computation.</span></p>
 
 <p><span class="chinese">叫做生物医学计算。</span><span class="english">It's called Bio-Medical Computation.</span></p>

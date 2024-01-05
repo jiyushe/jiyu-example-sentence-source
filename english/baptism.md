@@ -1,5 +1,7 @@
 # baptism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baptism.md)
+
 <p><span class="chinese">圣洗是什么？</span><span class="english">What is Baptism?</span></p>
 
 <p><span class="chinese">浸礼本身并不会使人重生。</span><span class="english">Baptism does not itself regenerate.</span></p>

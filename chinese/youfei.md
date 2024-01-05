@@ -1,5 +1,7 @@
 # 邮费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youfei.md)
+
 <p><span class="chinese">好的.您的邮费是三百二十五元.</span><span class="english">OK, the postage is 325 Yuan.</span></p>
 
 <p><span class="chinese">这个价格包含邮费。</span><span class="english">The price includes the postage.</span></p>

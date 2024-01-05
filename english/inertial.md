@@ -1,5 +1,7 @@
 # inertial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inertial.md)
+
 <p><span class="chinese">你必须是"惯性观察者"才行</span><span class="english">You have to be what's called an "inertial observer."</span></p>
 
 <p><span class="chinese">柯里奥利力是地球自转的一种惯性力。</span><span class="english">Coriolis force is a inertial force in earth rotation.</span></p>

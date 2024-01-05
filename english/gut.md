@@ -1,5 +1,7 @@
 # gut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gut.md)
+
 <p><span class="chinese">摧毁他们！刺穿他们！</span><span class="english">Gut them! Impale them!</span></p>
 
 <p><span class="chinese">红鲻鱼收拾干净。</span><span class="english">Scale and gut the red mullets.</span></p>

@@ -1,5 +1,7 @@
 # moose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moose.md)
+
 <p><span class="chinese">麋鹿喝大量稀粥。</span><span class="english">Moose noshing much mush.</span></p>
 
 <p><span class="chinese">慕思吃了很多玉米粥。</span><span class="english">Moose noshing much mush.</span></p>

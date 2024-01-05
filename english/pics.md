@@ -1,5 +1,7 @@
 # pics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pics.md)
+
 <p><span class="chinese">我保存了那些照片。</span><span class="english">I have kept all of the pics.</span></p>
 
 <p><span class="chinese">以下就是有趣的图片罗！</span><span class="english">Below are the interesting pics.</span></p>

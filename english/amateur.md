@@ -1,5 +1,7 @@
 # amateur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amateur.md)
+
 <p><span class="chinese">我在投资方面是个棒槌。</span><span class="english">I am an amateur in investment.</span></p>
 
 <p><span class="chinese">他是业缺网球活动员。</span><span class="english">He is an amateur tennis player.</span></p>

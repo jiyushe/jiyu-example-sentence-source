@@ -1,5 +1,7 @@
 # horrify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horrify.md)
+
 <p><span class="chinese">这个想法听起来可能让你不寒而栗。</span><span class="english">The idea may horrify you.</span></p>
 
 <p><span class="chinese">这样的事情她却不震惊。</span><span class="english">Such things did not appear to horrify her.</span></p>

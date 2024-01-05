@@ -1,5 +1,7 @@
 # 共振
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzhen.md)
+
 <p><span class="chinese">用电子自旋共振证实了BTF的自由基。</span><span class="english">Free radical of BTF was identified by ESR.</span></p>
 
 <p><span class="chinese">双箭头用来表示共振。</span><span class="english">Double- headed arrows are used to indicate resonance.</span></p>

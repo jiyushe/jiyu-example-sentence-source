@@ -1,5 +1,7 @@
 # 故园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyuan.md)
+
 <p><span class="chinese">是啊！离开了故园，独自天涯远引。</span><span class="english">Oh! How far you , are from home.</span></p>
 
 <p><span class="chinese">猎手从山岭回到了故园。</span><span class="english">And the hunter home from the hill.</span></p>

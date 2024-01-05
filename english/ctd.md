@@ -1,5 +1,7 @@
 # ctd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ctd.md)
+
 <p><span class="chinese">CTD资料是海洋科学研究中的基础资料。</span><span class="english">CTD data are elementary in ocean studies.</span></p>
 
 <p><span class="chinese">滴度的观察对疾病的诊断有一定的意义。</span><span class="english">The observation of ANA titer is helpful for diagnosis of CTD.</span></p>

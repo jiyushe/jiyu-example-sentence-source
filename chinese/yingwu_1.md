@@ -1,5 +1,7 @@
 # 鹦鹉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingwu_1.md)
+
 <p><span class="chinese">像鹦鹉一样飞。</span><span class="english">Fly like a budgie.</span></p>
 
 <p><span class="chinese">我喜欢你的鹦鹉！</span><span class="english">I like your parrot!</span></p>

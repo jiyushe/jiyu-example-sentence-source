@@ -1,5 +1,7 @@
 # 不以为然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyiweiran.md)
+
 <p><span class="chinese">塔尔坎对这一提议不以为然。</span><span class="english">Tarquin laughed at the offer.</span></p>
 
 <p><span class="chinese">他不以为然地挥挥手。</span><span class="english">Rifle in hand, he entered the room.</span></p>

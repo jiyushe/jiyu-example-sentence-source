@@ -1,5 +1,7 @@
 # cerebration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cerebration.md)
+
 <p><span class="chinese">我想下个星期二。</span><span class="english">I was cerebration abender next Tuesday.</span></p>
 
 <p><span class="chinese">第五章，人力资本出资制度的立法思考。</span><span class="english">Propose the cerebration of legislation about human capital.</span></p>

@@ -1,5 +1,7 @@
 # 八角茴香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bajiaohuixiang.md)
+
 <p><span class="chinese">我每次炒菜都要放八角茴香。</span><span class="english">Every time I cook I use spice.</span></p>
 
 <p><span class="chinese">另一份是煎鸭润糜羔搭希腊葡萄，红洋葱，莳萝及八角茴香晶。</span><span class="english">Sauteed Artisan Duck Foie Gras with zante grapes, red torpedo onion, fennel and star anise reduction.</span></p>

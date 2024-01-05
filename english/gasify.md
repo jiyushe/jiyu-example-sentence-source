@@ -1,5 +1,7 @@
 # gasify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gasify.md)
+
 <p><span class="chinese">贝兹把他那辆1969年的福特卡车加以改造，用来气化木材。</span><span class="english">Bates modified his 1969 GMC truck to gasify wood.</span></p>
 
 <p><span class="chinese">争取肺泡充分充气，增加咳嗽效率。</span><span class="english">Strives for the pulmonary alveolus to gasify fully, increases the cough efficiency.</span></p>

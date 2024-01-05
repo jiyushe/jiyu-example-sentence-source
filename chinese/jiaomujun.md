@@ -1,5 +1,7 @@
 # 酵母菌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaomujun.md)
+
 <p><span class="chinese">发现酵母菌感染。</span><span class="english">Discovering a yeast infection.</span></p>
 
 <p><span class="chinese">他和他的同事们是在酵母菌里找到这些东西的。</span><span class="english">He and his colleagues found the genes in yeast.</span></p>

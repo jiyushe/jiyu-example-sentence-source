@@ -1,5 +1,7 @@
 # ubiquity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ubiquity.md)
+
 <p><span class="chinese">事实和谎言之间，不宜出版，却普遍存在</span><span class="english">Between Truth and Lies, An Unprintable Ubiquity</span></p>
 
 <p><span class="chinese">质量文化氛围的普遍性应该扩展至客户。</span><span class="english">The ubiquity of the quality culture should extend to the customer.</span></p>

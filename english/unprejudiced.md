@@ -1,5 +1,7 @@
 # unprejudiced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unprejudiced.md)
+
 <p><span class="chinese">对支持者和反对者不偏不倚的评价。</span><span class="english">An unprejudiced appraisal of the pros and cons.</span></p>
 
 <p><span class="chinese">他极力证明自己是没有成见的。</span><span class="english">He leaned over backwards to prove he was unprejudiced.</span></p>

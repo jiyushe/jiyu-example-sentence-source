@@ -1,5 +1,7 @@
 # 洋房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangfang.md)
+
 <p><span class="chinese">培群迁至峇摩劳路一洋房上课。</span><span class="english">Moved to a bungalow at Balmoral Road.</span></p>
 
 <p><span class="chinese">原来在国外，只要你是劳动者，汽车洋房人人有份。</span><span class="english">Original abroad, as long as you are working, car house everybody.</span></p>

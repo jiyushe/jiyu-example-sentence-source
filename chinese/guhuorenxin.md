@@ -1,5 +1,7 @@
 # 蛊惑人心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guhuorenxin.md)
+
 <p><span class="chinese">这些并非是蛊惑人心的材料。</span><span class="english">This is not reliably rabble-rousing stuff.</span></p>
 
 <p><span class="chinese">我们从未想过要拿此事件来蛊惑人心。</span><span class="english">We never thought of demagoguing the event.</span></p>

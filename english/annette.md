@@ -1,5 +1,7 @@
 # annette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annette.md)
+
 <p><span class="chinese">安妮特是他的酒肉朋友。</span><span class="english">Annette is his fair-weather friend.</span></p>
 
 <p><span class="chinese">超爱安妮特·贝宁的艺术装饰风裙子。</span><span class="english">Love Annette Bening' s art deco dress.</span></p>

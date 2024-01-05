@@ -1,5 +1,7 @@
 # 私情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siqing.md)
+
 <p><span class="chinese">毋须私情，不需回报。</span><span class="english">No personal feelings, without return.</span></p>
 
 <p><span class="chinese">你知道吗，命令不允许有任何私情。</span><span class="english">You see, command allows no intimacies.</span></p>

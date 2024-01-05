@@ -1,5 +1,7 @@
 # kodiak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kodiak.md)
+
 <p><span class="chinese">美国鼻烟公司制造的品牌有灰熊和科迪亚克。</span><span class="english">American Snuff makes the Grizzly and Kodiak brands.</span></p>
 
 <p><span class="chinese">使每一天的科迪亚克凉鞋的冒险。</span><span class="english">Make every day an adventure with the Kodiak sandal.</span></p>

@@ -1,5 +1,7 @@
 # ravine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ravine.md)
+
 <p><span class="chinese">山沟沟里飞出花雀雀。</span><span class="english">The ravine flew out of sparrow finch.</span></p>
 
 <p><span class="chinese">沿着这条深谷有一条羊肠小路。</span><span class="english">Along the ravine there was a mule path.</span></p>

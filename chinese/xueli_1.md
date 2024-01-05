@@ -1,5 +1,7 @@
 # 学历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueli_1.md)
+
 <p><span class="chinese">大学专科或以上学历。</span><span class="english">College degree or above.</span></p>
 
 <p><span class="chinese">高中及以上学历。</span><span class="english">High school diploma or equivalent.</span></p>

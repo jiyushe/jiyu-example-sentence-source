@@ -1,5 +1,7 @@
 # 浸没
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinmo.md)
+
 <p><span class="chinese">我看到他的头浸没于水中了。</span><span class="english">I saw his head immerge into water.</span></p>
 
 <p><span class="chinese">一只浸没在泄漏的石油中的死亡的海鸟。</span><span class="english">A bird covered in oil flails in the water.</span></p>

@@ -1,5 +1,7 @@
 # chill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chill.md)
+
 <p><span class="chinese">我发冷。</span><span class="english">I have a chill.</span></p>
 
 <p><span class="chinese">沉住气好吗?</span><span class="english">Will you chill out?</span></p>

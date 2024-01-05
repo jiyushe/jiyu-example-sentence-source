@@ -1,5 +1,7 @@
 # zap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zap.md)
+
 <p><span class="chinese">你并不能突然变得聪明起来。</span><span class="english">You can't just zap your brain and become smart.</span></p>
 
 <p><span class="chinese">常规战就是要消耗一个国家的精力，资源和人力。</span><span class="english">Conventional wars zap a countries vitality, resources, and power.</span></p>

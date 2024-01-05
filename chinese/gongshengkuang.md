@@ -1,5 +1,7 @@
 # 共生矿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshengkuang.md)
+
 <p><span class="chinese">银洞沟矿床是一银金铅锌共生矿床。</span><span class="english">Most of the Ag ores in China are associated with Pb and Zn.</span></p>
 
 <p><span class="chinese">这是座共生矿，我们可以一次获取多种矿石。</span><span class="english">This is a paragenesis, we can get various minerals at one time.</span></p>

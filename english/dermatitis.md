@@ -1,5 +1,7 @@
 # dermatitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dermatitis.md)
+
 <p><span class="chinese">听起来象是过敏性皮炎。</span><span class="english">It sound like atopy dermatitis.</span></p>
 
 <p><span class="chinese">这是色素紫癜性皮炎吗？</span><span class="english">Pigmented purpuric dermatitis is it?</span></p>

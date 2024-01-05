@@ -1,5 +1,7 @@
 # bene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bene.md)
+
 <p><span class="chinese">我认为bene在拉丁语中是“好”的意思。</span><span class="english">I thought bene that means “good” from Latin.</span></p>
 
 <p><span class="chinese">音乐由提香铁视频表演我爱你。</span><span class="english">Music video by Tiziano Ferro performing Ti Voglio Bene.</span></p>

@@ -1,5 +1,7 @@
 # 装作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangzuo.md)
+
 <p><span class="chinese">你的过于装作的滑稽！</span><span class="english">And thy too-forced pleasantry!</span></p>
 
 <p><span class="chinese">他装作努力工作。</span><span class="english">He made a feint of working hard.</span></p>

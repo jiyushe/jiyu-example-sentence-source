@@ -1,5 +1,7 @@
 # greasy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greasy.md)
+
 <p><span class="chinese">头发油腻腻的！</span><span class="english">My hair all greasy.</span></p>
 
 <p><span class="chinese">一个肮脏的海盗！</span><span class="english">But a greasy freebooter !</span></p>

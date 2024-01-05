@@ -1,5 +1,7 @@
 # mts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mts.md)
+
 <p><span class="chinese">驾驶过在蓝色的脊机械翻译中被雾笼罩。</span><span class="english">Driving through fog in the Blue Ridge Mts.</span></p>
 
 <p><span class="chinese">国内分布新疆西部的昆伦山脉及喀什地区。</span><span class="english">Recorded in W Xinjiang in Kunlun Mts and Kashi region.</span></p>

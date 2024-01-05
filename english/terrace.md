@@ -1,5 +1,7 @@
 # terrace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrace.md)
+
 <p><span class="chinese">我在阳台上选了一张桌子坐了下来。</span><span class="english">I take a table on the terrace.</span></p>
 
 <p><span class="chinese">但是，你知道“逛花街”的来历吗？</span><span class="english">But you know "terrace" come from?</span></p>

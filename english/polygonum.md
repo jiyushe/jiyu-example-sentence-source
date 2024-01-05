@@ -1,5 +1,7 @@
 # polygonum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polygonum.md)
+
 <p><span class="chinese">幼虫的寄主植物为珠芽蓼的地下茎。</span><span class="english">Larvae host plants Polygonum viviparum underground stem.</span></p>
 
 <p><span class="chinese">东北龙胆的胚囊发育属于蓼型。</span><span class="english">The development of embryo sac belongs to polygonum type.</span></p>

@@ -1,5 +1,7 @@
 # 无线电台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxiandiantai.md)
+
 <p><span class="chinese">最好的无线电台是哪家?。</span><span class="english">UnR 12 What's the best radio station?</span></p>
 
 <p><span class="chinese">无线电台详细地广播了那则消息。</span><span class="english">The radio broadcast the news in detail.</span></p>

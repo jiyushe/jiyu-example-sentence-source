@@ -1,5 +1,7 @@
 # ns
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ns.md)
+
 <p><span class="chinese">在脉冲束流管道上安装有强流毫微秒脉冲化聚束装置。</span><span class="english">A ns pulse beam device is installed at pulse beam current piping.</span></p>
 
 <p><span class="chinese">丹菟注射液组及生理盐水组建立创伤性关节炎模型。</span><span class="english">Traumatic arthritis models were established in D antu and NS groups.</span></p>

@@ -1,5 +1,7 @@
 # succinylcholine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succinylcholine.md)
+
 <p><span class="chinese">与剂量相关降低司可林产生肌痛的作用是否是因为干扰作用呢？</span><span class="english">Is the Dose-related Reduction in Succinylcholine -induced Myalgia due to Cointervention?</span></p>
 
 <p><span class="chinese">结果表明，阿屈可林对眼内压无影响琥珀胆碱增加眼内压。</span><span class="english">Results showed that atracurium did not affect intraocular pressure, while succinylcholine did.</span></p>

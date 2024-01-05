@@ -1,5 +1,7 @@
 # essence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/essence.md)
+
 <p><span class="chinese">它是美国的精华。</span><span class="english">The Essence of America.</span></p>
 
 <p><span class="chinese">这就是希望的本质。</span><span class="english">This is the essence of hope.</span></p>

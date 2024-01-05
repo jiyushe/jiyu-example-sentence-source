@@ -1,5 +1,7 @@
 # 屈原
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quyuan.md)
+
 <p><span class="chinese">奖品叫做“屈原杯”。</span><span class="english">The award is called "Qu Yuan Cup."</span></p>
 
 <p><span class="chinese">后来，屈原投河自尽。</span><span class="english">Qu later drowned himself in a river.</span></p>

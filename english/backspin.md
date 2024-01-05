@@ -1,5 +1,7 @@
 # backspin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backspin.md)
+
 <p><span class="chinese">后旋球容易接。</span><span class="english">This backspin makes the ball easier to catch.</span></p>
 
 <p><span class="chinese">我们正在练习反手推挡。</span><span class="english">We are practising backhand topspin and backspin serves.</span></p>

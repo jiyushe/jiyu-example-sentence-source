@@ -1,5 +1,7 @@
 # fay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fay.md)
+
 <p><span class="chinese">加布将在半决赛中和费伊较量。</span><span class="english">Gabb will be matched against Fay in the semifinal.</span></p>
 
 <p><span class="chinese">随着费伊越走越远，他也越来越坚信这一天的到来。</span><span class="english">The more Fay walked, the more convinced he became.</span></p>

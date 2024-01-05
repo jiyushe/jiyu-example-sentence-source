@@ -1,5 +1,7 @@
 # gamble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gamble.md)
+
 <p><span class="chinese">赌上你的70级之路吧，少年！</span><span class="english">Gamble your way to 70!</span></p>
 
 <p><span class="chinese">我想去那儿赌钱。</span><span class="english">I'd like to gamble there.</span></p>

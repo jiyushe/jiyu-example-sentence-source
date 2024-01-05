@@ -1,5 +1,7 @@
 # triplet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triplet.md)
+
 <p><span class="chinese">那么这三份东西是什么呢？</span><span class="english">So what is this triplet thing?</span></p>
 
 <p><span class="chinese">这是每个三连音中的第一音。</span><span class="english">These are the first notes of each triplet.</span></p>

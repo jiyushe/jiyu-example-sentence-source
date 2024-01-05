@@ -1,5 +1,7 @@
 # 筛管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaiguan.md)
+
 <p><span class="chinese">已建成的水平井大多采用裸眼完井和筛管完井。</span><span class="english">Most wells completed with open hole or screen.</span></p>
 
 <p><span class="chinese">最后给出了复合缝腔割缝筛管在胜利油田的现场应用情况。</span><span class="english">In the end the application of the liner in Shengli Oilfield is analyzed.</span></p>

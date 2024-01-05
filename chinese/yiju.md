@@ -1,5 +1,7 @@
 # 一举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiju.md)
+
 <p><span class="chinese">这一举动对他们将意味着什么？</span><span class="english">What did this act mean to them?</span></p>
 
 <p><span class="chinese">橡树的跌倒非一举之功。</span><span class="english">An oak is not felled at one stroke.</span></p>

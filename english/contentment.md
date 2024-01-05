@@ -1,5 +1,7 @@
 # contentment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contentment.md)
+
 <p><span class="chinese">满足是什么？</span><span class="english">What is contentment?</span></p>
 
 <p><span class="chinese">还是知足长乐？</span><span class="english">Changle or Contentment?</span></p>

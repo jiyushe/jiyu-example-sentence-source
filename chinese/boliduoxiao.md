@@ -1,5 +1,7 @@
 # 薄利多销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/boliduoxiao.md)
+
 <p><span class="chinese">其实和薄利多销是一个道理。</span><span class="english">In fact small profits is a truth.</span></p>
 
 <p><span class="chinese">薄利多销〔商店广告用语〕。</span><span class="english">Advertisement helps to sell goods.</span></p>

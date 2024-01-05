@@ -1,5 +1,7 @@
 # grotesquely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grotesquely.md)
+
 <p><span class="chinese">她的声音异样地颤抖著。</span><span class="english">Her voice quavered grotesquely.</span></p>
 
 <p><span class="chinese">这样一个奇怪的带有种族偏见的模式是如何形成的呢？</span><span class="english">How can such a grotesquely race-biased pattern of arrests exist?</span></p>

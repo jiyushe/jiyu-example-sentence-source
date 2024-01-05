@@ -1,5 +1,7 @@
 # 比试
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bishi_1.md)
+
 <p><span class="chinese">我们来比试一下吧。</span><span class="english">Let us have a race.</span></p>
 
 <p><span class="chinese">如果我是你，就不会再比试！</span><span class="english">I wouldn't try it again.</span></p>

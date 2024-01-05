@@ -1,5 +1,7 @@
 # carport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carport.md)
+
 <p><span class="chinese">众议院已经开放的停车场。</span><span class="english">The house has an open carport.</span></p>
 
 <p><span class="chinese">这房子是鸟类中的车库。</span><span class="english">This bird house is in the carport.</span></p>

@@ -1,5 +1,7 @@
 # seething
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seething.md)
+
 <p><span class="chinese">会场上顿时沸腾起来了。</span><span class="english">The meeting hall was seething at once.</span></p>
 
 <p><span class="chinese">现在别进他的办公室，他正在大发脾气。</span><span class="english">Don't go into his office now, he's seething.</span></p>

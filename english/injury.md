@@ -1,5 +1,7 @@
 # injury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/injury.md)
+
 <p><span class="chinese">他回到家里无损伤。</span><span class="english">He returned home without injury.</span></p>
 
 <p><span class="chinese">留不住的青春、抹不掉的伤。</span><span class="english">Keep youth, cannot erase injury.</span></p>

@@ -1,5 +1,7 @@
 # revisit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revisit.md)
+
 <p><span class="chinese">我们待会再来考虑这个问题。</span><span class="english">Well, we'll revisit that.</span></p>
 
 <p><span class="chinese">可能现在可以再开设。</span><span class="english">Maybe it's time to revisit that.</span></p>

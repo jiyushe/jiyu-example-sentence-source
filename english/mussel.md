@@ -1,5 +1,7 @@
 # mussel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mussel.md)
+
 <p><span class="chinese">淡菜，即贻贝肉，水产品。</span><span class="english">Mussel is mussel meat, which is aquatic products.</span></p>
 
 <p><span class="chinese">然后让保罗选择打开其中一个箱子来获得贻贝。</span><span class="english">Paul is then left to choose one box to open to retrieve the mussel.</span></p>

@@ -1,5 +1,7 @@
 # bored 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bored.md)
+
 <p><span class="chinese">它烦死我了。</span><span class="english">It bored me stiff.</span></p>
 
 <p><span class="chinese">他烦死我了。</span><span class="english">He bored me to death.</span></p>

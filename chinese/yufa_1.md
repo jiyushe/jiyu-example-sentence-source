@@ -1,5 +1,7 @@
 # 语法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yufa_1.md)
+
 <p><span class="chinese">最后一个成分是语法</span><span class="english">Finally, syntax.</span></p>
 
 <p><span class="chinese">他们会用语法吗？</span><span class="english">Do they use grammar?</span></p>

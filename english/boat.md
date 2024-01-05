@@ -1,5 +1,7 @@
 # boat 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boat.md)
+
 <p><span class="chinese">他们撞沉了鱼雷艇。</span><span class="english">They sank my boat.</span></p>
 
 <p><span class="chinese">一只小船滑过。</span><span class="english">A boat glided past.</span></p>

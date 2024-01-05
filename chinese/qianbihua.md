@@ -1,5 +1,7 @@
 # 铅笔画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianbihua.md)
+
 <p><span class="chinese">她正在给铅笔画稿描上墨。</span><span class="english">She was inking in a pencil sketch.</span></p>
 
 <p><span class="chinese">这幅画是用铅笔画的。</span><span class="english">The picture waw drawn with a pencil.</span></p>

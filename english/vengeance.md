@@ -1,5 +1,7 @@
 # vengeance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vengeance.md)
+
 <p><span class="chinese">他哭求老天为他雪耻。</span><span class="english">He cried to heaven for vengeance.</span></p>
 
 <p><span class="chinese">这场雨来势很凶。</span><span class="english">The rain came down with a vengeance.</span></p>

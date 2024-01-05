@@ -1,5 +1,7 @@
 # 娴雅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianya.md)
+
 <p><span class="chinese">他的妻子是个娴雅的淑女。</span><span class="english">His wife is a real lady.</span></p>
 
 <p><span class="chinese">她举止娴雅。</span><span class="english">She deported herself gracefully.</span></p>

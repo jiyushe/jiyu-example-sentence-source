@@ -1,5 +1,7 @@
 # marital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marital.md)
+
 <p><span class="chinese">她的婚姻状况是什么？</span><span class="english">What was her marital status?</span></p>
 
 <p><span class="chinese">首先，减弱对于合法婚姻地位的关注。</span><span class="english">First, lighten our focus on legal marital status.</span></p>

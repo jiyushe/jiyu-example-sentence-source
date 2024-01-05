@@ -1,5 +1,7 @@
 # sycamore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sycamore.md)
+
 <p><span class="chinese">你怎么可以说那是他们的梧桐树？</span><span class="english">How can you call it their sycamore ?</span></p>
 
 <p><span class="chinese">由来自俄亥俄州梧桐高中的艾莉尔所写</span><span class="english">by Ariel from Sycamore Jr High, Ohio</span></p>

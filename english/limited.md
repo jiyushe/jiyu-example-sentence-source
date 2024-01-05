@@ -1,5 +1,7 @@
 # limited 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limited.md)
+
 <p><span class="chinese">机会难得，限时免费！</span><span class="english">Free just for limited time!</span></p>
 
 <p><span class="chinese">浙江医药股份有限公司。</span><span class="english">Hua Xia Bank Co. , Limited.</span></p>

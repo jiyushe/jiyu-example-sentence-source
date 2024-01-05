@@ -1,5 +1,7 @@
 # 钱财
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiancai.md)
+
 <p><span class="chinese">电视花费你的钱财。</span><span class="english">It is costing you money.</span></p>
 
 <p><span class="chinese">钱财生嫌隙，朋友化仇敌。</span><span class="english">Money make friends enemy.</span></p>

@@ -1,5 +1,7 @@
 # 心力衰竭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinlishuaijie.md)
+
 <p><span class="chinese">田边死于心力衰竭，她说。</span><span class="english">Tanabe died of heart failure, she said.</span></p>
 
 <p><span class="chinese">心力衰竭导致她父亲的死亡。</span><span class="english">Heart failure led to her father's death.</span></p>

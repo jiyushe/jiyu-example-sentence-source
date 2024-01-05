@@ -1,5 +1,7 @@
 # 下台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiatai.md)
+
 <p><span class="chinese">面具上写著「鲁伊斯下台。</span><span class="english">The mask reads" Out Ulises."</span></p>
 
 <p><span class="chinese">歌利亚下台后仍然激动不已。</span><span class="english">Backstage, she was still excited.</span></p>

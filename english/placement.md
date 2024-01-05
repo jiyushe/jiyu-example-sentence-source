@@ -1,5 +1,7 @@
 # placement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placement.md)
+
 <p><span class="chinese">鼻胃管放置。</span><span class="english">Placement of NG tube.</span></p>
 
 <p><span class="chinese">改变管接头的定点位置。</span><span class="english">Change placement location of fitting.</span></p>

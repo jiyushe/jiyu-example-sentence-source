@@ -1,5 +1,7 @@
 # 射猎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shelie.md)
+
 <p><span class="chinese">“真是射猎的好天气，”帕特里克说道。</span><span class="english">Fine day for a shoot, " Patrick said."</span></p>
 
 <p><span class="chinese">他们在荒野射猎松鸡。</span><span class="english">They're shooting grouse up on the moors.</span></p>

@@ -1,5 +1,7 @@
 # 棉籽饼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianzibing.md)
+
 <p><span class="chinese">介绍了从棉籽饼粕中提取天然氨基酸的步骤和方法。</span><span class="english">A procedure for extracting amino acid from oil residue of cottonseed was introduced.</span></p>
 
 <p><span class="chinese">利用双螺杆食品挤压机对棉籽饼粕进行了挤压脱除棉酚的试验，考察了加工参数对脱毒效果的影响。</span><span class="english">Effects of processing parameters on cottonseed meal de-gossypol results were studied using a twin-screw extruder.</span></p>

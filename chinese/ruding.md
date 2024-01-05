@@ -1,5 +1,7 @@
 # 入定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruding.md)
+
 <p><span class="chinese">人很抱愧入定时到。</span><span class="english">I felt sorry for not coming in time.</span></p>
 
 <p><span class="chinese">在暗夜中，它的形状隐然如老僧入定一般。</span><span class="english">In the dark night it loomed like an old monk in meditation.</span></p>

@@ -1,5 +1,7 @@
 # 如意算盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruyisuanpan.md)
+
 <p><span class="chinese">你是在打如意算盘。</span><span class="english">You are counting without your host.</span></p>
 
 <p><span class="chinese">母亲说”我的孩子，不要过早地去打如意算盘。</span><span class="english">The girl went back without anything. She felt very sad. "Ah, my child , "said her mother.</span></p>

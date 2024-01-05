@@ -1,5 +1,7 @@
 # regularization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regularization.md)
+
 <p><span class="chinese">显然这类问题是不适定的，因此要做一个正则化。</span><span class="english">Obviously, the problem is ill-posed, so we need regularization.</span></p>
 
 <p><span class="chinese">完善法规体系是正规化建设的行为基础。</span><span class="english">Improving the legal system is the basis for regularization of the act.</span></p>

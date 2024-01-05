@@ -1,5 +1,7 @@
 # discoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discoid.md)
+
 <p><span class="chinese">结果本组40例均为外侧盘状半月板。</span><span class="english">Results All of 40 cases were lateral discoid meniscus.</span></p>
 
 <p><span class="chinese">软管应卷成盘状搬动，切勿着地。</span><span class="english">Volume hose should be moving into a discoid not significant.</span></p>

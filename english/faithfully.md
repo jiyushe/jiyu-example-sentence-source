@@ -1,5 +1,7 @@
 # faithfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faithfully.md)
+
 <p><span class="chinese">他忠实地爱着她。</span><span class="english">He loves her faithfully.</span></p>
 
 <p><span class="chinese">他对党无限忠诚。</span><span class="english">He is loyal to the Party faithfully.</span></p>

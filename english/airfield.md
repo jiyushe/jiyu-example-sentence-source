@@ -1,5 +1,7 @@
 # airfield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airfield.md)
+
 <p><span class="chinese">机场被敌军占领。</span><span class="english">The airfield was seized by enemy troops.</span></p>
 
 <p><span class="chinese">花样飞行在机场上空，高度2000米。</span><span class="english">Aerobatic flights over airfield up to 2000m.</span></p>

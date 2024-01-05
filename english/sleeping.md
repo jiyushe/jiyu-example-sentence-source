@@ -1,5 +1,7 @@
 # sleeping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleeping.md)
+
 <p><span class="chinese">你夜不能寐吗？</span><span class="english">How are you sleeping?</span></p>
 
 <p><span class="chinese">我需要一辆卧车。</span><span class="english">I need a sleeping car.</span></p>

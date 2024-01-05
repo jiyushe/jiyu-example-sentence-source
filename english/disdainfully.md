@@ -1,5 +1,7 @@
 # disdainfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disdainfully.md)
+
 <p><span class="chinese">一些正在打瞌睡，而另一些却在是轻蔑地瞧着我。</span><span class="english">Some are dozing and some are looking disdainfully at me.</span></p>
 
 <p><span class="chinese">“我们可是一家高档绅士俱乐部，”他倨傲地宣称。</span><span class="english">“We’re an upscale gentleman’s club, ” he said disdainfully.</span></p>

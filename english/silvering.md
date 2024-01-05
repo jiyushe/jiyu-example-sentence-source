@@ -1,5 +1,7 @@
 # silvering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silvering.md)
+
 <p><span class="chinese">他在镜子背面镀银。</span><span class="english">He is silvering the back of a mirror.</span></p>
 
 <p><span class="chinese">我们镀银时从未遇过这种现象。</span><span class="english">We never encounter such phenomena in silvering process.</span></p>

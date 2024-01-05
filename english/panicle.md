@@ -1,5 +1,7 @@
 # panicle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panicle.md)
+
 <p><span class="chinese">圆锥花序长达12厘米。</span><span class="english">Panicle is as long as 12 centimeters.</span></p>
 
 <p><span class="chinese">穗部干重以花后施氮的最高。</span><span class="english">The high panicle dry weight is been with AFN.</span></p>

@@ -1,5 +1,7 @@
 # 盛年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengnian.md)
+
 <p><span class="chinese">何时是一个人的盛年？</span><span class="english">When is a man in his prime?</span></p>
 
 <p><span class="chinese">请享受你盛年的芬芳吧。</span><span class="english">Enjoy the fragrance of thy prime.</span></p>

@@ -1,5 +1,7 @@
 # testosterone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/testosterone.md)
+
 <p><span class="chinese">它妨碍睾丸激素的分泌。</span><span class="english">It interferes with testosterone.</span></p>
 
 <p><span class="chinese">我的睾酮水平特别的高。</span><span class="english">My testosterone levels were extremely high.</span></p>

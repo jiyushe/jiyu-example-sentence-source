@@ -1,5 +1,7 @@
 # 奉劝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengquan.md)
+
 <p><span class="chinese">奉劝你一句，别买这本书。</span><span class="english">Do yourself a favor, don't buy the book.</span></p>
 
 <p><span class="chinese">我奉劝你不要过于乐观。</span><span class="english">I would caution you against undue optimism.</span></p>

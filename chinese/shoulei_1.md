@@ -1,5 +1,7 @@
 # 受累
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoulei_1.md)
+
 <p><span class="chinese">本组病例中5例胰腺周围血管受累。</span><span class="english">Peripancreatic vessels were invaded in 5 cases.</span></p>
 
 <p><span class="chinese">她抿嘴呼喊。“送给我，你受穷受累的人们。</span><span class="english">With silent lips. "Give me your tired, your poor".</span></p>

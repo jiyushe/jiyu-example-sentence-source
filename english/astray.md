@@ -1,5 +1,7 @@
 # astray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astray.md)
+
 <p><span class="chinese">她被引入歧途。</span><span class="english">She was led astray.</span></p>
 
 <p><span class="chinese">不要被带坏了它。</span><span class="english">Do not be led astray by it.</span></p>

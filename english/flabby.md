@@ -1,5 +1,7 @@
 # flabby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flabby.md)
+
 <p><span class="chinese">你那条臃肿的橡皮圈叫做手臂?。</span><span class="english">You call that flabby rubber band an arm?</span></p>
 
 <p><span class="chinese">不！我要的是松弛的肚皮和下垂的胸部！</span><span class="english">No, I want a flabby gut and saggy man-breasts.</span></p>

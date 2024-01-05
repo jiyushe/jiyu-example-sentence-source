@@ -1,5 +1,7 @@
 # bla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bla.md)
+
 <p><span class="chinese">最后我现在的这些废话会删除并只保留列表，但我想目前对这块做个解释还是有必要的。</span><span class="english">Eventually this bla bla should go away and keep just the list, but I felt better to explain it for now.</span></p>
 
 <p><span class="chinese">他们会特别鼓励运动性社团，因为你可以遇到很多同龄的人，藉以训练社交技巧等等的。</span><span class="english">And especially for the sports ones, you can meet a lot of young as you and develop sociability and blab la bla.</span></p>

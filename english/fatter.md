@@ -1,5 +1,7 @@
 # fatter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatter.md)
+
 <p><span class="chinese">谁谁的很胖，谁很富裕，谁又聪明伶俐，...等等。</span><span class="english">Who's fatter? Richer?</span></p>
 
 <p><span class="chinese">他比过去胖多了。</span><span class="english">He's much fatter than he used to be.</span></p>

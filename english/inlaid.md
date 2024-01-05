@@ -1,5 +1,7 @@
 # inlaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inlaid.md)
+
 <p><span class="chinese">铜刃里面嵌钢的，嘿嘿！剃刀。</span><span class="english">Copper blade has steel inlaid. Razor.</span></p>
 
 <p><span class="chinese">这箱子镶嵌着金质字母。</span><span class="english">The box was inlaid with gold monograms.</span></p>

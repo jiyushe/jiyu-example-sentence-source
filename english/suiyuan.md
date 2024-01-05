@@ -1,5 +1,7 @@
 # suiyuan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suiyuan.md)
+
 <p><span class="chinese">就让一切遂愿吧！</span><span class="english">Let all Suiyuan bar!</span></p>
 
 <p><span class="chinese">您能告诉我随园中餐厅在哪么？</span><span class="english">Could you tell me where Suiyuan Restaurant is?</span></p>

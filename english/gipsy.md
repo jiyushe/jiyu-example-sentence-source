@@ -1,5 +1,7 @@
 # gipsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gipsy.md)
+
 <p><span class="chinese">那吉普赛男人走到妻子身边。</span><span class="english">The gipsy went to his wife.</span></p>
 
 <p><span class="chinese">然而，吉卜赛人却不这么想。</span><span class="english">However, gipsy but don't think so.</span></p>

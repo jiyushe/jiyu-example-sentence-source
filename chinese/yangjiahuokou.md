@@ -1,5 +1,7 @@
 # 养家活口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangjiahuokou.md)
+
 <p><span class="chinese">她感到养家活口是她的责任。</span><span class="english">She feels it her duty to support her family.</span></p>
 
 <p><span class="chinese">女性现在担负着养家活口的责任。</span><span class="english">Women are now bearing the burden of being breadwinners.</span></p>

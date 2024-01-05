@@ -1,5 +1,7 @@
 # 天公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiangong.md)
+
 <p><span class="chinese">天公作美。</span><span class="english">The weather favoured us.</span></p>
 
 <p><span class="chinese">如果天公做美，还可以在雨中漫步。</span><span class="english">If it rains, walk in the rain.</span></p>

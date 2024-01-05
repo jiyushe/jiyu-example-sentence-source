@@ -1,5 +1,7 @@
 # sweeny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweeny.md)
+
 <p><span class="chinese">肌肉萎缩一定要动手术才能完全好吗？</span><span class="english">Must sweeny perform an operation is ability complete?</span></p>
 
 <p><span class="chinese">我半月板手术后肌肉萎缩厉害，要怎么锻炼才能恢复？</span><span class="english">The sweeny after my meniscus operation is fierce, how should exercise ability to restore?</span></p>

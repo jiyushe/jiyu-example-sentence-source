@@ -1,5 +1,7 @@
 # cosmologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmologist.md)
+
 <p><span class="chinese">作为知名的宇宙学家，霍金向来对玄学避而远之并且坚定地站在物理学的阵营中。</span><span class="english">Being the cosmologist that he is, Hawking avoids the metaphysical and stays resolutely in the physical.</span></p>
 
 <p><span class="chinese">“这是一项有趣的发现，”加州大学圣克鲁兹分校的宇宙学家皮埃罗·马导说。</span><span class="english">"This is an intriguing result, " says cosmologist Piero Madau of the University of California, Santa Cruz.</span></p>

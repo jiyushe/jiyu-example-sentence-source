@@ -1,5 +1,7 @@
 # wreak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wreak.md)
+
 <p><span class="chinese">数十年的压力会严重破坏你的健康。</span><span class="english">Decades of stress can wreak havoc on your health.</span></p>
 
 <p><span class="chinese">这些毒性分子会进入细胞内并造成严重破坏。</span><span class="english">These can get inside the cells and really wreak havoc.</span></p>

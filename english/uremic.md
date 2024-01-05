@@ -1,5 +1,7 @@
 # uremic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uremic.md)
+
 <p><span class="chinese">本文报导一个家庭中有两代成员患溶血性尿毒症。</span><span class="english">A family is described in which the hemolytic uremic syndrome occurned in two generations.</span></p>
 
 <p><span class="chinese">狼疮并发生溶血性尿毒症候群。</span><span class="english">She was diagnosed with systemic lupus erythematosus complicated by hemolytic uremic syndrome.</span></p>

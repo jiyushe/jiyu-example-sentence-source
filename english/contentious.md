@@ -1,5 +1,7 @@
 # contentious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contentious.md)
+
 <p><span class="chinese">这很容易引起争议。</span><span class="english">This is more contentious.</span></p>
 
 <p><span class="chinese">从那时起，事情变得越来越富有争议性。</span><span class="english">Since then, things have grown more contentious.</span></p>

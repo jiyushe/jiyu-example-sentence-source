@@ -1,5 +1,7 @@
 # pcl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pcl.md)
+
 <p><span class="chinese">此外PCL亦凝集某些微生物如野生型和H．B．101大肠杆菌以及面包酵母。</span><span class="english">PCL also agglutinated micro organisms, as wild type and H. B. 101 E.</span></p>
 
 <p><span class="chinese">PCL是适合用作食品接触泡沫托盘，松散填土和薄膜袋的使用。</span><span class="english">PCL is suited for use as food-contact foam trays, loose fill and film bags.</span></p>

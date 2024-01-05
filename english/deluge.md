@@ -1,5 +1,7 @@
 # deluge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deluge.md)
+
 <p><span class="chinese">巴沙尔之后，洪水滔天。</span><span class="english">After Bashar al-Assad, the deluge.</span></p>
 
 <p><span class="chinese">他说了一大堆客气话使我不知所措。</span><span class="english">He confused me with a deluge of polite words.</span></p>

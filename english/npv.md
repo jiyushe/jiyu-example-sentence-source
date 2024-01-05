@@ -1,5 +1,7 @@
 # npv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/npv.md)
+
 <p><span class="chinese">如果这个NPV是负的，那么这个项目也不值得继续从事下去。</span><span class="english">If the NPV is negative then the project is not worth pursuing.</span></p>
 
 <p><span class="chinese">家蚕抗核型多角体病分子标记筛选。</span><span class="english">Screening of Molecular Markers for NPV Resistance in Bombyx mori L.</span></p>

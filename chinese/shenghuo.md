@@ -1,5 +1,7 @@
 # 圣火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenghuo.md)
+
 <p><span class="chinese">来吧，从圣火中，盘旋转动。</span><span class="english">Come from the holy fire, perne in a gyre.</span></p>
 
 <p><span class="chinese">圣火在闪耀，如同天上星芒。</span><span class="english">Flame is the light like a star in the sky.</span></p>

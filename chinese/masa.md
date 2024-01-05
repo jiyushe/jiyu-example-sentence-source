@@ -1,5 +1,7 @@
 # 摩挲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/masa.md)
+
 <p><span class="chinese">我并未对此泪眼摩挲。</span><span class="english">I’m not teary eyed about it.</span></p>
 
 <p><span class="chinese">丹若有所思地摩挲着下巴。</span><span class="english">Dan rubbed his chin thoughtfully.</span></p>

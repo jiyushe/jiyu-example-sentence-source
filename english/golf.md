@@ -1,5 +1,7 @@
 # golf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/golf.md)
+
 <p><span class="chinese">你打高尔夫球吗?</span><span class="english">Do you play golf?</span></p>
 
 <p><span class="chinese">我喜欢打高尔夫球。</span><span class="english">I like to play golf.</span></p>

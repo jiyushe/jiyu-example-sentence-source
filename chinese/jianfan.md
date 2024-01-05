@@ -1,5 +1,7 @@
 # 监犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianfan.md)
+
 <p><span class="chinese">王逵明确过来了，这个监犯才免于一逝世。</span><span class="english">This inmates-he Wang Kui clear come over, from a death.</span></p>
 
 <p><span class="chinese">假定效劳员是监犯，那么其他陈说中会有谎言吗？</span><span class="english">Suppose the sever is guilty. Are any of the statement false?</span></p>

@@ -1,5 +1,7 @@
 # 疯癫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengdian.md)
+
 <p><span class="chinese">一个饱受疯癫折磨人如何才能喜悦？</span><span class="english">How can one haunted by madness be joyful?</span></p>
 
 <p><span class="chinese">自言自语是否是疯癫的一种表现？</span><span class="english">Is talking to yourself a sign of madness?</span></p>

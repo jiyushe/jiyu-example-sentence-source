@@ -1,5 +1,7 @@
 # 强敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangdi.md)
+
 <p><span class="chinese">恐惧是人的头号强敌。</span><span class="english">Fear is a person’s greatest enemy.</span></p>
 
 <p><span class="chinese">她在强敌面前畏缩了。</span><span class="english">She ducked before the strong opponent.</span></p>

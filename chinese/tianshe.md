@@ -1,5 +1,7 @@
 # 添设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianshe.md)
+
 <p><span class="chinese">许多老房子都添设了现代设备而变成很入时的了。</span><span class="english">Many old houses have been updated with modern facilities.</span></p>
 
 <p><span class="chinese">我们厂子又添设了两条最先进的生产线。</span><span class="english">We have added two more of the latest assembly lines in our factory.</span></p>

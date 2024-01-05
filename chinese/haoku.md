@@ -1,5 +1,7 @@
 # 号哭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoku.md)
+
 <p><span class="chinese">再跟著下来就是号哭。</span><span class="english">Weeping and wailing should follow.</span></p>
 
 <p><span class="chinese">她老为她的烦恼事号哭。</span><span class="english">She always boohooed about her troubles.</span></p>

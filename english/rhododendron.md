@@ -1,5 +1,7 @@
 # rhododendron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhododendron.md)
+
 <p><span class="chinese">杜鹃属的系统发育与进化。</span><span class="english">The phylogeny and evolution of Rhododendron.</span></p>
 
 <p><span class="chinese">中国杜鹃树属的新分类群。</span><span class="english">New taxa of the genus Rhododendron from China.</span></p>

@@ -1,5 +1,7 @@
 # 藕粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/oufen.md)
+
 <p><span class="chinese">藕粉的主要成份为淀粉。</span><span class="english">The main composition of lotus root starch is starch.</span></p>
 
 <p><span class="chinese">而虾饺质量的高低与藕粉荸荠粉的使用量有很大的关系。</span><span class="english">The quality of the dumpling has a great relation with the amount of the blanks.</span></p>

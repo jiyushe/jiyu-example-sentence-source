@@ -1,5 +1,7 @@
 # 堂兄弟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangxiongdi.md)
+
 <p><span class="chinese">我有个堂兄弟在苏福斯。</span><span class="english">I got me a cousin in Sioux Falls.</span></p>
 
 <p><span class="chinese">叔叔，姑母和堂兄弟将要来。</span><span class="english">Uncles, aunts and cousins will come.</span></p>

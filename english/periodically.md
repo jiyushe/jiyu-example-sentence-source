@@ -1,5 +1,7 @@
 # periodically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periodically.md)
+
 <p><span class="chinese">周期性地审查团队。</span><span class="english">Periodically the team is reviewed.</span></p>
 
 <p><span class="chinese">阀门定期从排气口喷溅。</span><span class="english">A. Valve spits periodically from the vent.</span></p>

@@ -1,5 +1,7 @@
 # 花盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huapan.md)
+
 <p><span class="chinese">类似于兔草，但其头状花序有花盘和少量的边花。</span><span class="english">The flower head of any of these plants.</span></p>
 
 <p><span class="chinese">花盘所有细胞构成蜜腺。</span><span class="english">All cells of the disc composed the nectary.</span></p>

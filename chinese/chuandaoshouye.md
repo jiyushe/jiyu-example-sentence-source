@@ -1,5 +1,7 @@
 # 传道授业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuandaoshouye.md)
+
 <p><span class="chinese">师者，传道授业解惑也。</span><span class="english">Teacher, preach to teach to dispel doubt also.</span></p>
 
 <p><span class="chinese">教室是教师传道授业、学生学习知识的主要场所。</span><span class="english">Classroom is the main places of teaching and learning.</span></p>

@@ -1,5 +1,7 @@
 # mam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mam.md)
+
 <p><span class="chinese">爸爸，妈妈，和我们家的BB熊。</span><span class="english">Dad , mam and our BB bear.</span></p>
 
 <p><span class="chinese">爸爸和妈妈，我们都很爱你…</span><span class="english">Dad and mam , we all love you.</span></p>

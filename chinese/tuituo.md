@@ -1,5 +1,7 @@
 # 推托
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuituo.md)
+
 <p><span class="chinese">不要推托找借口！</span><span class="english">Don't refuse or make excuses!</span></p>
 
 <p><span class="chinese">对方推托说这次耽搁是无法避免的。</span><span class="english">The other made excuse for unavoidable delay.</span></p>

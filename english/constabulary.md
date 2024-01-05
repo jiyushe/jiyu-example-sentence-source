@@ -1,5 +1,7 @@
 # constabulary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constabulary.md)
+
 <p><span class="chinese">警察局尊重所有的宗教信仰。</span><span class="english">The Constabulary is respectful of all religious views.</span></p>
 
 <p><span class="chinese">我们皇家爱尔兰警察部队的朋友们很希望枪毙我。</span><span class="english">Our friends in the Royal Irish Constabulary would like to shut me up.</span></p>

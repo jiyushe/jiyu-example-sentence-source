@@ -1,5 +1,7 @@
 # matchable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matchable.md)
+
 <p><span class="chinese">一座城市，需要一个与之匹配的名片。</span><span class="english">The city needs a matchable name card.</span></p>
 
 <p><span class="chinese">两组年龄构成和男、女比例均无统计学差异。</span><span class="english">The subjects in the 2 groups were matchable in their ages and gender ratios.</span></p>

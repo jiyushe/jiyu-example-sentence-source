@@ -1,5 +1,7 @@
 # 口疮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouchuang.md)
+
 <p><span class="chinese">生口疮最好的治疗方法是?。</span><span class="english">Is the remedial method with unripe best aphtha ?</span></p>
 
 <p><span class="chinese">口疮也可分为实虚两类。</span><span class="english">Aphtha also can be divided for solid empty two kinds.</span></p>

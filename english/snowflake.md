@@ -1,5 +1,7 @@
 # snowflake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowflake.md)
+
 <p><span class="chinese">小雪花从天空飘落。</span><span class="english">Little snowflake falling from the sky.</span></p>
 
 <p><span class="chinese">没有雪花落到不该落的地方。</span><span class="english">No snowflake ever falls in the wrong place.</span></p>

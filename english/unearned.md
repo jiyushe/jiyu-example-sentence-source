@@ -1,5 +1,7 @@
 # unearned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unearned.md)
+
 <p><span class="chinese">第十一条，取缔不劳而获的收入。</span><span class="english">The abolition of incomes unearned by work.</span></p>
 
 <p><span class="chinese">最严重的罪行是接受一个不劳而获的罪行。</span><span class="english">The worst guilt is to accept an unearned guilt.</span></p>

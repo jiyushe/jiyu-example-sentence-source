@@ -1,5 +1,7 @@
 # bloodstained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodstained.md)
+
 <p><span class="chinese">她双手沾上了血迹。</span><span class="english">Her hands were bloodstained.</span></p>
 
 <p><span class="chinese">现场有一把染有血渍的斧头。</span><span class="english">A bloodstained axe was found at the scene.</span></p>

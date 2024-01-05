@@ -1,5 +1,7 @@
 # 百事通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baishitong.md)
+
 <p><span class="chinese">你面前的选择是网络上的百事通或者真人的旅游专家。</span><span class="english">You have these online generalists and these individual specialists.</span></p>
 
 <p><span class="chinese">格雷斯老是在改正旁人，她感觉本身是百事通。</span><span class="english">Grace is always correcting other people. She thellonks she's a know-it-all.</span></p>

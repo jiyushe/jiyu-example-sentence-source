@@ -1,5 +1,7 @@
 # 屡屡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvlv.md)
+
 <p><span class="chinese">一石激起千层波的网络事件屡屡发生。</span><span class="english">There has Melaleuca wave of network events to occur.</span></p>
 
 <p><span class="chinese">有了团队精神，屡屡得分便不在话下了。</span><span class="english">If there's spirit, the scoreboard takes care of itself.</span></p>

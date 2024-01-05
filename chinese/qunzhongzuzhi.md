@@ -1,5 +1,7 @@
 # 群众组织
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qunzhongzuzhi.md)
+
 <p><span class="chinese">我加入了群众组织。</span><span class="english">Yeah, I joined the mass organization.</span></p>
 
 <p><span class="chinese">领导直属机关工会、共青团等群众组织，并指导其工作。</span><span class="english">To lead the mass work of the labor union and the Communist Youth League.</span></p>

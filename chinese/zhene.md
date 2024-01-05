@@ -1,5 +1,7 @@
 # 着呢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhene.md)
+
 <p><span class="chinese">春天还远着呢。</span><span class="english">Spring is far behind.</span></p>
 
 <p><span class="chinese">天还早着呢。</span><span class="english">It's still quite early.</span></p>

@@ -1,5 +1,7 @@
 # oink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oink.md)
+
 <p><span class="chinese">到处都是呼噜声。</span><span class="english">Everywhere a oink oink.</span></p>
 
 <p><span class="chinese">谁是我的哼哼？</span><span class="english">Where is my female Oink ?</span></p>

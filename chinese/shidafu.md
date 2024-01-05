@@ -1,5 +1,7 @@
 # 士大夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidafu.md)
+
 <p><span class="chinese">那么、士大夫又是怎样的一类人呢？</span><span class="english">So, what kind of scholar-officials is a class of people?</span></p>
 
 <p><span class="chinese">宋学是士大夫的学问、是士大夫的思想。</span><span class="english">Song learning is a scholar's knowledge, the scholars thought.</span></p>

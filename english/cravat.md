@@ -1,5 +1,7 @@
 # cravat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cravat.md)
+
 <p><span class="chinese">我想要知道他如何正在戴那一个领带。</span><span class="english">I wanna know how he's wearing that cravat.</span></p>
 
 <p><span class="chinese">我给自己买了一条昂贵的领带。</span><span class="english">I have just bought myself an expensive cravat.</span></p>

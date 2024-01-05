@@ -1,5 +1,7 @@
 # 条约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoyue.md)
+
 <p><span class="chinese">他们商订了一项条约。</span><span class="english">They negotiated a treaty.</span></p>
 
 <p><span class="chinese">休战条约已草草订就了。</span><span class="english">A truce has been patched up.</span></p>

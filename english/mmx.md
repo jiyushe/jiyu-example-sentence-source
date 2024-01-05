@@ -1,5 +1,7 @@
 # mmx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mmx.md)
+
 <p><span class="chinese">做MMX寄存器总是在现代处理器的存在吗？</span><span class="english">Do the MMX registers always exist in modern processors?</span></p>
 
 <p><span class="chinese">操作数可以是一个MMX技术注册或一个内存地址。</span><span class="english">The operand is either an MMX technology register or a memory address.</span></p>

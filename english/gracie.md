@@ -1,5 +1,7 @@
 # gracie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gracie.md)
+
 <p><span class="chinese">我在开玩笑，格雷西。</span><span class="english">I’m kidding, Gracie.</span></p>
 
 <p><span class="chinese">“我有个儿子，”格雷西说。</span><span class="english">"I had a son, " Gracie said.</span></p>

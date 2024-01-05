@@ -1,5 +1,7 @@
 # sulcus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulcus.md)
+
 <p><span class="chinese">萌发孔类型均为三孔沟型。</span><span class="english">Their tremata are all three-bore sulcus type.</span></p>
 
 <p><span class="chinese">在静止和功能运动时，沟底位于不同的高度。</span><span class="english">At rest, the sulcus is at a different height to that in function.</span></p>

@@ -1,5 +1,7 @@
 # fso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fso.md)
+
 <p><span class="chinese">FSO主要由壳体、上层建筑、系泊系统及立管系统组成。</span><span class="english">FSO is composed of hull part, accommodation part, mooring system and piping system.</span></p>
 
 <p><span class="chinese">每学期开学第一周，由留学生管理科组织留学生统一进行体检。</span><span class="english">On the first week of the semester, FSO will organize all the new students to take the physical exam.</span></p>

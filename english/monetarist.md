@@ -1,5 +1,7 @@
 # monetarist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monetarist.md)
+
 <p><span class="chinese">这样贫乏的定义甚至比货币主义者们的描述更值得怀疑。</span><span class="english">This impoverishing definition is even easier to discredit than the monetarist description.</span></p>
 
 <p><span class="chinese">在他擅长的货币主义模型中，货币增长超过一个预设点就是通胀。</span><span class="english">In the monetarist model that he practiced, money growth beyond a pre-set point was inflation.</span></p>

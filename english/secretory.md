@@ -1,5 +1,7 @@
 # secretory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secretory.md)
+
 <p><span class="chinese">金丝桃素储存于分泌细胞团内。</span><span class="english">Hypericin is stored in secretory nodule.</span></p>
 
 <p><span class="chinese">其分泌腺属复管泡状腺。</span><span class="english">The secretory gland belongs to alveolate gland.</span></p>

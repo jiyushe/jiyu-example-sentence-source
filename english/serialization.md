@@ -1,5 +1,7 @@
 # serialization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serialization.md)
+
 <p><span class="chinese">序列化所牵扯的问题要多一些。</span><span class="english">The serialization case is a bit more problematic.</span></p>
 
 <p><span class="chinese">进程外调用的序列化开销。</span><span class="english">Serialization overhead for the out-of-process call.</span></p>

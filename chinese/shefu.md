@@ -1,5 +1,7 @@
 # 设伏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shefu.md)
+
 <p><span class="chinese">他们很快发现了一处废弃的营地并开始设伏。</span><span class="english">They quickly came across an abandoned camp and waited in ambush.</span></p>
 
 <p><span class="chinese">黄占魁和红九嫂在路上设伏，没想到遇到的却是虎子。</span><span class="english">Huang Zhankui and red nine putting in ambush on the way, have never thought of is nothing.</span></p>

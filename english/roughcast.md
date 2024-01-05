@@ -1,5 +1,7 @@
 # roughcast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roughcast.md)
+
 <p><span class="chinese">他简略写出了小说的情节。</span><span class="english">He roughcast the plot of the novel.</span></p>
 
 <p><span class="chinese">毛坯房寿终正寝后用何种方式来取代？</span><span class="english">Housing came after roughcast ways to replace?</span></p>

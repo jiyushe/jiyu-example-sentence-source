@@ -1,5 +1,7 @@
 # supernova
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supernova.md)
+
 <p><span class="chinese">特别是超新星1987A。</span><span class="english">In particular, consider Supernova 1987A.</span></p>
 
 <p><span class="chinese">开普勒超新星遗迹中的大三眼。</span><span class="english">Three great eyes on kepler's supernova remnant.</span></p>

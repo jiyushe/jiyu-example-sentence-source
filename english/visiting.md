@@ -1,5 +1,7 @@
 # visiting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visiting.md)
+
 <p><span class="chinese">我喜欢逛商店。</span><span class="english">I enjoy visiting shops.</span></p>
 
 <p><span class="chinese">陈先世正在游览伦敦。</span><span class="english">Chen is visiting London.</span></p>

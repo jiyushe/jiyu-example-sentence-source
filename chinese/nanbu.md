@@ -1,5 +1,7 @@
 # 南部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanbu.md)
+
 <p><span class="chinese">而南部和西部是塔斯曼海。</span><span class="english">Sea to the south and west.</span></p>
 
 <p><span class="chinese">他将自由的转移到英国南部的军港城市。</span><span class="english">He moves to Pompey on a free.</span></p>

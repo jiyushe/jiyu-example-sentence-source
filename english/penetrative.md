@@ -1,5 +1,7 @@
 # penetrative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penetrative.md)
+
 <p><span class="chinese">然而，他的目光很快就变得犀利而明察秋毫了。</span><span class="english">Very soon, however, his look became keen and penetrative.</span></p>
 
 <p><span class="chinese">我有很多男性朋友，但一碰到要彻底进行的性行为时总是拒绝。</span><span class="english">I had boyfriends, but always drew the line at penetrative sex.</span></p>

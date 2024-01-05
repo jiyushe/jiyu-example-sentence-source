@@ -1,5 +1,7 @@
 # 血防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuefang.md)
+
 <p><span class="chinese">准确的诊断是做好血防工作的前提和基础。</span><span class="english">The basis of schistosomiasis prevention is precise diagnostic methods construction.</span></p>
 
 <p><span class="chinese">如未实施血防措施，有可能发生血吸虫病局部暴发流行。</span><span class="english">However, the project would spread schistosomiasis unless some effective measures are implemented.</span></p>

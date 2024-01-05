@@ -1,5 +1,7 @@
 # disyllabic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disyllabic.md)
+
 <p><span class="chinese">描写莒南方言两字组连读变调及轻声的变调。</span><span class="english">The tone sandhi of disyllabic word and the neutral tone.</span></p>
 
 <p><span class="chinese">基于词典分析双音节词组词汇化的程度。</span><span class="english">Disyllabic phrase's lexicalization degree is analyzed based on dictionary.</span></p>

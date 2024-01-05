@@ -1,5 +1,7 @@
 # tuna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuna.md)
+
 <p><span class="chinese">我喜欢吃鲔鱼。</span><span class="english">I love tuna fish.</span></p>
 
 <p><span class="chinese">金枪鱼和鲣鱼罐头。</span><span class="english">Canned Tuna and Bonito.</span></p>

@@ -1,5 +1,7 @@
 # salsa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salsa.md)
+
 <p><span class="chinese">她说“莎莎舞让我知道了什么是激情”。</span><span class="english">Because of salsa I know passion.</span></p>
 
 <p><span class="chinese">萨尔萨舞的起源是有争议的。</span><span class="english">The origins of salsa are disputed.</span></p>

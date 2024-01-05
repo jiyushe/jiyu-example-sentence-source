@@ -1,5 +1,7 @@
 # dudley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dudley.md)
+
 <p><span class="chinese">达力立刻不装哭了。</span><span class="english">Dudley stopped pretending to cry at once.</span></p>
 
 <p><span class="chinese">杜德利也有他自己的公关问题。</span><span class="english">Mr Dudley has had PR problems of his own.</span></p>

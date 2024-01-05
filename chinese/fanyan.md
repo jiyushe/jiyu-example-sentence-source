@@ -1,5 +1,7 @@
 # 繁衍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyan.md)
+
 <p><span class="chinese">是繁衍后代的问题。</span><span class="english">What matters is reproduction.</span></p>
 
 <p><span class="chinese">爱情是一种以美作媒介的繁衍欲望。</span><span class="english">Money is a medium for buying and selling.</span></p>

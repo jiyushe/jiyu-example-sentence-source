@@ -1,5 +1,7 @@
 # primordia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primordia.md)
+
 <p><span class="chinese">它有叶原基和一个苗端。</span><span class="english">It has leaf primordia and a shoot apex.</span></p>
 
 <p><span class="chinese">十一月中旬时胚珠原体凸出胎座表面。</span><span class="english">Ovule primordia occur from placenta in mid November.</span></p>

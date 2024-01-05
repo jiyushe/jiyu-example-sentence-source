@@ -1,5 +1,7 @@
 # pitchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitchy.md)
+
 <p><span class="chinese">当有希望的偶像选手选错了歌，他们的优势一下子就没了，他们会被限制了、或者看上去像酒吧歌手、或者非常无聊。</span><span class="english">When Idol hopefuls choose the "wrong" song, something just seems off. They're pitchy.</span></p>
 
 <p><span class="chinese">悬崖和山丘靠得如此之近，以致星光无法照到幽暗的阴影里。</span><span class="english">The cliffs and hills were so drawn together that hardly did the stars shine into its pitchy blackness.</span></p>

@@ -1,5 +1,7 @@
 # acetazolamide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetazolamide.md)
+
 <p><span class="chinese">方法制定和实施乙酰唑胺负荷脑血流灌注显像的护理措施。</span><span class="english">Methods Nursing methods of using acetazolamide in brain perfusion SPECT were drawn up and practiced.</span></p>
 
 <p><span class="chinese">结论制备乙酰唑胺固体分散片可以提高其体外溶出速率。</span><span class="english">CONCLUSION Preparing Acetazolamide solide dispersion tablets can improve its extraneous dissolving rate.</span></p>

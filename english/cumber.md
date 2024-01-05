@@ -1,5 +1,7 @@
 # cumber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cumber.md)
+
 <p><span class="chinese">不要让黑暗使你疲累。</span><span class="english">Let not the dark thee cumber.</span></p>
 
 <p><span class="chinese">你不想拖累任何人！</span><span class="english">You don't want to cumber with anyone!</span></p>

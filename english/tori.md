@@ -1,5 +1,7 @@
 # tori
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tori.md)
+
 <p><span class="chinese">当做出了动作技法后练习者感觉好多了。</span><span class="english">Tori feels better while the technique suffers.</span></p>
 
 <p><span class="chinese">我几乎也要死掉我感到非常愤怒、非常疲惫，而且病得很重。</span><span class="english">I nearly died tori was so angry and tired and ill.</span></p>

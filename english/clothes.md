@@ -1,5 +1,7 @@
 # clothes 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clothes.md)
+
 <p><span class="chinese">至少他的衣服。</span><span class="english">At least his clothes.</span></p>
 
 <p><span class="chinese">人靠衣服马靠鞍。</span><span class="english">Clothes make the man.</span></p>

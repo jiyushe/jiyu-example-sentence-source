@@ -1,5 +1,7 @@
 # 整日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengri.md)
+
 <p><span class="chinese">它们整日繁忙。</span><span class="english">And they’re busy.</span></p>
 
 <p><span class="chinese">她整日编织。</span><span class="english">She knits all day.</span></p>

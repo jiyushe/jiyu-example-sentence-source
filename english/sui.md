@@ -1,5 +1,7 @@
 # sui
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sui.md)
+
 <p><span class="chinese">你是隋东文吗？</span><span class="english">Are you Dongwen Sui?</span></p>
 
 <p><span class="chinese">有一个名叫毛遂的人，自告奋勇愿意同去。</span><span class="english">A man called Mao Sui volunteered.</span></p>

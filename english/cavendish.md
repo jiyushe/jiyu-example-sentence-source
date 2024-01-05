@@ -1,5 +1,7 @@
 # cavendish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cavendish.md)
+
 <p><span class="chinese">温和黑色卡文迪什融合。</span><span class="english">A mild Black Cavendish blend.</span></p>
 
 <p><span class="chinese">卡文迪许实验室到现在还存在。</span><span class="english">And, Cavendish Lab is there to this day.</span></p>

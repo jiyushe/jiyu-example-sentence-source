@@ -1,5 +1,7 @@
 # 洗发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xifa_1.md)
+
 <p><span class="chinese">洗发和吹发。</span><span class="english">Just shampoo and blow dry.</span></p>
 
 <p><span class="chinese">我正在用一种去头皮屑的洗发液。</span><span class="english">I'm using a dandruff shampoo.</span></p>

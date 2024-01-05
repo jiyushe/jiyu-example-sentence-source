@@ -1,5 +1,7 @@
 # vortices
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vortices.md)
+
 <p><span class="chinese">旋涡加速了未反应区的化学反应速率。</span><span class="english">Vortices accelerate reaction rates of the unreacted region.</span></p>
 
 <p><span class="chinese">这些涡旋的产生彼此相隔半小时左右。</span><span class="english">These vortices developed within 30 minutes or so of each other.</span></p>

@@ -1,5 +1,7 @@
 # regimentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regimentation.md)
+
 <p><span class="chinese">他们不要一律平等和严密的组织。</span><span class="english">They don't want equality and regimentation.</span></p>
 
 <p><span class="chinese">她曾反抗刻板的学校生活。</span><span class="english">She rebelled against the regimentation of school life.</span></p>

@@ -1,5 +1,7 @@
 # mechanochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mechanochemistry.md)
+
 <p><span class="chinese">此法开辟了制备材料的新途径，因而得到广泛重视。</span><span class="english">Being a new method of making materials, mechanochemistry has drawn much attention.</span></p>
 
 <p><span class="chinese">近年来，机械力化学的研究取得了很大进展。</span><span class="english">Recently the science and technology of mechanochemistry have been developed greatly.</span></p>

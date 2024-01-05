@@ -1,5 +1,7 @@
 # indifferently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indifferently.md)
+
 <p><span class="chinese">他耸耸肩，漠不关心的样子。</span><span class="english">He shrugs, indifferently.</span></p>
 
 <p><span class="chinese">而现在，知识毫无区别地应用在两方面上。</span><span class="english">It is now being used indifferently for bot.</span></p>

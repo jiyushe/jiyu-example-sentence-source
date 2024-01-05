@@ -1,5 +1,7 @@
 # protectionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protectionism.md)
+
 <p><span class="chinese">保护主义也是如此。</span><span class="english">So it is with protectionism.</span></p>
 
 <p><span class="chinese">第二个元素是贸易保护主义。</span><span class="english">The second element is trade protectionism.</span></p>

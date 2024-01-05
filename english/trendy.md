@@ -1,5 +1,7 @@
 # trendy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trendy.md)
+
 <p><span class="chinese">新生一代喜欢赶时髦，对高新产品也很在行。</span><span class="english">The new generation is trendy and tech savvy.</span></p>
 
 <p><span class="chinese">最近穿扯破的牛仔裤很符合潮流呢。</span><span class="english">It is trendy to wear cut-up jeans these days.</span></p>

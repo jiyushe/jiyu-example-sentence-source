@@ -1,5 +1,7 @@
 # superlative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superlative.md)
+
 <p><span class="chinese">追求最高级，理想常融情态动词。</span><span class="english">Pursue superlative modal verb, ideal blend often.</span></p>
 
 <p><span class="chinese">除此之外，这里还有一个选项，可以用来创建你自己superlative。</span><span class="english">There’s also the option of creating your own superlative.</span></p>

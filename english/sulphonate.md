@@ -1,5 +1,7 @@
 # sulphonate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulphonate.md)
+
 <p><span class="chinese">研究了双生磺酸盐表面活性剂的金属清洗性能。</span><span class="english">Metal cleaning performance of geminate sulphonate surfactant was studied.</span></p>
 
 <p><span class="chinese">一种稳定的液态三氧化硫直接磺化重烷基苯新方法。</span><span class="english">A new method to sulphonate dialkylbenzene directly by a stable liquid sulphur trioxide.</span></p>

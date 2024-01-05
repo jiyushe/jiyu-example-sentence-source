@@ -1,5 +1,7 @@
 # 赛艇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saiting.md)
+
 <p><span class="chinese">赛艇需要大量的训练。</span><span class="english">It's a lot of training.</span></p>
 
 <p><span class="chinese">赛艇上有舵手吗?。</span><span class="english">Did the scull have a cox?</span></p>

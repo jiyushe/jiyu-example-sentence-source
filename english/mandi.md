@@ -1,5 +1,7 @@
 # mandi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mandi.md)
+
 <p><span class="chinese">圆柱形小灯更映衬了罗曼蒂克的情调。</span><span class="english">Cylindrical little light more set off the sentiment that Luo Mandi overcomes.</span></p>
 
 <p><span class="chinese">七月，契约之展，由壹霖的这十七幅作品逐一呈现。</span><span class="english">In July, Mandi 's collection including seventeen paintings will show you the spirit of contract.</span></p>

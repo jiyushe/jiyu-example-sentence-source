@@ -1,5 +1,7 @@
 # 成亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengqin.md)
+
 <p><span class="chinese">再有两年都可以成亲了！</span><span class="english">Having two years agains can wed!</span></p>
 
 <p><span class="chinese">妈妈说，该成亲了。</span><span class="english">Mom said you should get married.</span></p>

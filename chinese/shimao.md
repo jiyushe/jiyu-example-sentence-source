@@ -1,5 +1,7 @@
 # 时髦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shimao.md)
+
 <p><span class="chinese">苍鹭是一家时髦的公寓。</span><span class="english">A stylish lodging-house.</span></p>
 
 <p><span class="chinese">迷你裙又时髦起来了。</span><span class="english">Miniskirts are in again.</span></p>

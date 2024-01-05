@@ -1,5 +1,7 @@
 # 百合科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiheke.md)
+
 <p><span class="chinese">四川百合科蜘蛛抱蛋属新植物。</span><span class="english">New taxa of the genus Aspidistra.</span></p>
 
 <p><span class="chinese">它的植物学上的名字是百合科百合属植物。</span><span class="english">The botanical name is lilium in the liliaceae family.</span></p>

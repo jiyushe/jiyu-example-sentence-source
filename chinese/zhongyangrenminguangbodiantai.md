@@ -1,5 +1,7 @@
 # 中央人民广播电台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyangrenminguangbodiantai.md)
+
 <p><span class="chinese">中央人民广播电台是一家国有机构，报道了市民的愤怒之情。</span><span class="english">China National Radio, a state-run agency, broadcast the citizens’ outrage.</span></p>
 
 <p><span class="chinese">伍刚，中央人民广播电台新媒体中心副总编辑，中国科技新闻学会网络专业委员会主席。</span><span class="english">Gang WU, Director of New Media Department in CRN, Chairman of Network Department of China Technology Academy.</span></p>

@@ -1,5 +1,7 @@
 # beaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beaker.md)
+
 <p><span class="chinese">要是有一杯南国的温暖</span><span class="english">O for a beaker full of the warm South</span></p>
 
 <p><span class="chinese">烧杯被放在喷灯上方。</span><span class="english">The beaker was placed on top of a torch.</span></p>

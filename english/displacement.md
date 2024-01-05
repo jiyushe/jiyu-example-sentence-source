@@ -1,5 +1,7 @@
 # displacement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/displacement.md)
+
 <p><span class="chinese">还有移置。</span><span class="english">There is displacement.</span></p>
 
 <p><span class="chinese">它有62立方英寸排水量。</span><span class="english">It has a 62 cubic inch displacement.</span></p>

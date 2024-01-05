@@ -1,5 +1,7 @@
 # surgically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surgically.md)
+
 <p><span class="chinese">通常采用药物或手术即可治疗。</span><span class="english">It is often medically or surgically treatable.</span></p>
 
 <p><span class="chinese">1994年间美国共有314人去做提臀手术?。</span><span class="english">Americans had their butts lifted surgically in 1994.</span></p>

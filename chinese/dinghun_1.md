@@ -1,5 +1,7 @@
 # 订婚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinghun_1.md)
+
 <p><span class="chinese">他和她订婚了。</span><span class="english">He is affianced to her.</span></p>
 
 <p><span class="chinese">汤姆已与安妮订婚。</span><span class="english">Tom is engaged to Anne.</span></p>

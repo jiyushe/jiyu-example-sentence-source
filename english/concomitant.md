@@ -1,5 +1,7 @@
 # concomitant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concomitant.md)
+
 <p><span class="chinese">没有患者伴发心脏症状。</span><span class="english">No patients had concomitant cardiac symptoms.</span></p>
 
 <p><span class="chinese">避免随之而来的麦角胺和相关药物。</span><span class="english">Avoid concomitant ergotamine and related drugs.</span></p>

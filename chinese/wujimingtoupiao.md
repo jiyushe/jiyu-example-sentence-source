@@ -1,5 +1,7 @@
 # 无记名投票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujimingtoupiao.md)
+
 <p><span class="chinese">为了要求加薪，工会让其成员进行无记名投票表决。</span><span class="english">The union has balloted its members in pursuit of a pay claim.</span></p>
 
 <p><span class="chinese">本会相关提案及临时动议之表决，得以无记名投票或举手方式行之。</span><span class="english">Extemporary resolutions can be voted on by ballot or show of hands.</span></p>

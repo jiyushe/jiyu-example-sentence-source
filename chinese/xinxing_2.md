@@ -1,5 +1,7 @@
 # 新兴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxing_2.md)
+
 <p><span class="chinese">它是一门新兴的交叉学科。</span><span class="english">It is a new subject.</span></p>
 
 <p><span class="chinese">欢迎来到新兴学校。</span><span class="english">Welcome to Xinxing School.</span></p>

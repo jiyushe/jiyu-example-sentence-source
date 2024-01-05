@@ -1,5 +1,7 @@
 # fishes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fishes.md)
+
 <p><span class="chinese">还是喂鱼来着？</span><span class="english">Or is it fishes?</span></p>
 
 <p><span class="chinese">鱼和龟龟！</span><span class="english">Fishes and turtle!</span></p>

@@ -1,5 +1,7 @@
 # 屯子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tunzi.md)
+
 <p><span class="chinese">这个电台播放屯子音乐。</span><span class="english">The st plays country music.</span></p>
 
 <p><span class="chinese">他在屯子生活了很长时间。</span><span class="english">He has lived in the country for long.</span></p>

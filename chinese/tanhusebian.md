@@ -1,5 +1,7 @@
 # 谈虎色变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanhusebian.md)
+
 <p><span class="chinese">他留下威名，让世界谈虎色变</span><span class="english">He left the name, at which the world grew pale</span></p>
 
 <p><span class="chinese">一提起癌，人们便谈虎色变。</span><span class="english">People turn pale at the mere mention of cancer.</span></p>

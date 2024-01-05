@@ -1,5 +1,7 @@
 # scrumptious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrumptious.md)
+
 <p><span class="chinese">我可以再吃一客那道美味的色拉吗？</span><span class="english">May I have another helping of that scrumptious salad?</span></p>
 
 <p><span class="chinese">美味的蛋糕是一份充满异国情调的礼物。</span><span class="english">Scrumptious Cakes make an exotic Thanksgiving Gift for dear ones.</span></p>

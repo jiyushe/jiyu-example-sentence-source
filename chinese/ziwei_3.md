@@ -1,5 +1,7 @@
 # 自卫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwei_3.md)
+
 <p><span class="chinese">那是自卫。</span><span class="english">That's self defense.</span></p>
 
 <p><span class="chinese">自卫非常管用。</span><span class="english">Very useful in that respect.</span></p>

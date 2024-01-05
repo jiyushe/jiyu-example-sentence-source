@@ -1,5 +1,7 @@
 # 殉情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunqing_1.md)
+
 <p><span class="chinese">段伟平假装要跟朱丹殉情，骗朱丹喝下毒药。</span><span class="english">Duan Weiping pretended to be with Zhu Dan love, cheat Zhu Dan drink poison.</span></p>
 
 <p><span class="chinese">纳西族文化中独特的殉情作品和殉情现象引起不少学者的关注和思考。</span><span class="english">The unique die-for-love Works of Naxi Nationality and its phenomenon of die-for-love drew many scholars' attention.</span></p>

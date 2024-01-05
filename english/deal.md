@@ -1,5 +1,7 @@
 # deal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deal.md)
+
 <p><span class="chinese">好！一言为定。</span><span class="english">Ok, it's a deal.</span></p>
 
 <p><span class="chinese">这是一笔肮脏的交易。</span><span class="english">It's a dirty deal.</span></p>

@@ -1,5 +1,7 @@
 # 雇用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyong_1.md)
+
 <p><span class="chinese">他没有雇用那个油漆匠。</span><span class="english">He hadn't hired the painter.</span></p>
 
 <p><span class="chinese">这样还有谁敢雇用你？</span><span class="english">And who’s gonna hire you then?</span></p>

@@ -1,5 +1,7 @@
 # 全国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanguo.md)
+
 <p><span class="chinese">本周是全国狗狗周！</span><span class="english">This is National Dog Week!</span></p>
 
 <p><span class="chinese">纵全国唯一人泪流乎</span><span class="english">Were there no other tears?</span></p>

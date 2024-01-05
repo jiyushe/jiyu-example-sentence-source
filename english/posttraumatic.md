@@ -1,5 +1,7 @@
 # posttraumatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posttraumatic.md)
+
 <p><span class="chinese">目的了解外伤后局部脑水肿发生发展的动态变化的规律。</span><span class="english">Objective To study the dynamic changes of posttraumatic focal brain edema.</span></p>
 
 <p><span class="chinese">慢性创伤后假性主动脉瘤可能潜伏性扩大，因而产生症状。</span><span class="english">Chronic posttraumatic pseudoaneurysm may grow insidiously and then cause symptoms.</span></p>

@@ -1,5 +1,7 @@
 # fmc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fmc.md)
+
 <p><span class="chinese">在没有向FMC登记前，合同不可以使用。</span><span class="english">Contract may not be used until filed with the FMC.</span></p>
 
 <p><span class="chinese">本文提出了一种固移融合IVPN业务解决方案。</span><span class="english">In this article, a new solution of IVPN in FMC is provided.</span></p>

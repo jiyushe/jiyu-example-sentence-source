@@ -1,5 +1,7 @@
 # curcuma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curcuma.md)
+
 <p><span class="chinese">不要让莪越来越讨厌你了。</span><span class="english">Do not let Curcuma more hate you.</span></p>
 
 <p><span class="chinese">请你不要让莪越来越讨厌你了。</span><span class="english">Please do not let Curcuma more hate you.</span></p>

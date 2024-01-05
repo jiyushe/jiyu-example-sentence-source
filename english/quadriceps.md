@@ -1,5 +1,7 @@
 # quadriceps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadriceps.md)
+
 <p><span class="chinese">股四头肌使后腿膝盖伸直。</span><span class="english">The quadriceps straightens the back knee.</span></p>
 
 <p><span class="chinese">可以锻炼大腿、髋部屈肌和股四头肌.</span><span class="english">Tones outer thighs, hip flexors and quadriceps. Burns 10</span></p>

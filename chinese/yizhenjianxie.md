@@ -1,5 +1,7 @@
 # 一针见血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhenjianxie.md)
+
 <p><span class="chinese">他的评论总是一针见血。</span><span class="english">His remarks always hit the nail on the head.</span></p>
 
 <p><span class="chinese">你的分析确实一针见血。</span><span class="english">Your analysis really hit the nail on the head.</span></p>

@@ -1,5 +1,7 @@
 # pettiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pettiness.md)
+
 <p><span class="chinese">和艺术的如网的繁琐。</span><span class="english">Of art, and all its webs of pettiness.</span></p>
 
 <p><span class="chinese">没有比较我会知道自己的琐碎吗？</span><span class="english">Do I know my pettiness without comparison?</span></p>

@@ -1,5 +1,7 @@
 # triacetate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triacetate.md)
+
 <p><span class="chinese">所述成形制品也可包含稀释剂、三乙酸甘油酯。</span><span class="english">The shaped article may also comprise a diluent, glyceryl triacetate.</span></p>
 
 <p><span class="chinese">以固体超强酸为催化剂，对冰醋酸和甘油的酯化反应进行了研究。</span><span class="english">Solid superacid was used as the catalyst in the synthesis of glycerol triacetate.</span></p>

@@ -1,5 +1,7 @@
 # lipstick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lipstick.md)
+
 <p><span class="chinese">衣领上的唇膏印吗？</span><span class="english">Lipstick on your collar?</span></p>
 
 <p><span class="chinese">使用你的颜色最红的唇膏。</span><span class="english">Use your reddest lipstick.</span></p>

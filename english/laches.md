@@ -1,5 +1,7 @@
 # laches
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laches.md)
+
 <p><span class="chinese">原告解约的权利由于迟迟不予行使而不得再次提出。</span><span class="english">The plaintiff's right to set aside the deed is barred by laches.</span></p>
 
 <p><span class="chinese">笔者还对我国现行法律制度中涉及专利懈怠行为的法律规定做了梳理。</span><span class="english">Author views the articles of chinese law which maybe involve patent laches.</span></p>

@@ -1,5 +1,7 @@
 # appetizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appetizer.md)
+
 <p><span class="chinese">我负责的部分是开胃菜。</span><span class="english">My part is the appetizer.</span></p>
 
 <p><span class="chinese">您要开胃菜吗？</span><span class="english">Would you like any appetizer?</span></p>

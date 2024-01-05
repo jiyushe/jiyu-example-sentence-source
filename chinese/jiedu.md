@@ -1,5 +1,7 @@
 # 解毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiedu.md)
+
 <p><span class="chinese">他只好给他的身体解毒。</span><span class="english">He had to detoxify his body.</span></p>
 
 <p><span class="chinese">你是成瘾的毒，亦是解毒的药。</span><span class="english">You are toxin to addi, drug to antidote.</span></p>

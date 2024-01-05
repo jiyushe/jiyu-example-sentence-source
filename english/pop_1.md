@@ -1,5 +1,7 @@
 # pop 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pop_1.md)
+
 <p><span class="chinese">果酱馅饼</span><span class="english">Pop tart.</span></p>
 
 <p><span class="chinese">没错！哥发的就是天王。</span><span class="english">The King Of Pop !</span></p>

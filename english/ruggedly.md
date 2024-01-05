@@ -1,5 +1,7 @@
 # ruggedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruggedly.md)
+
 <p><span class="chinese">从男子气概来说，乍一看长得不错。</span><span class="english">Ruggedly good-looking in a manly-man sort of way.</span></p>
 
 <p><span class="chinese">设备设计简单，易于操作和维护。</span><span class="english">Equipment is ruggedly constructed and easy to operate and maintain.</span></p>

@@ -1,5 +1,7 @@
 # petrophysics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrophysics.md)
+
 <p><span class="chinese">后期的成岩作用改善了局部层段的储层物性。</span><span class="english">Diagenesis in the later period partly improved the petrophysics of some strata.</span></p>
 
 <p><span class="chinese">不同低渗透油藏的开发特征表现出的差异与岩石物性、孔隙结构复杂有密切相关。</span><span class="english">The different development feature of various tight reservoir are owing to the complexity of petrophysics and pore structure.</span></p>

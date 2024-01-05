@@ -1,5 +1,7 @@
 # intercurrent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercurrent.md)
+
 <p><span class="chinese">我没有测试过，但是我看到的有高并发使用的例子。</span><span class="english">I had not checked, but I see have tall intercurrent use case.</span></p>
 
 <p><span class="chinese">有突然眩晕者说明可能并发出血。</span><span class="english">The person that dizziness suddenly shows may intercurrent haemorrhage.</span></p>

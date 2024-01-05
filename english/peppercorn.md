@@ -1,5 +1,7 @@
 # peppercorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peppercorn.md)
+
 <p><span class="chinese">然后用一粒胡椒播种阿！</span><span class="english">And sow it all over with one peppercorn.</span></p>
 
 <p><span class="chinese">政府同意租借请求，租期为999年，并象征性收取租金。</span><span class="english">It was given 999 years at a peppercorn rent.</span></p>

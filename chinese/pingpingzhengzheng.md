@@ -1,5 +1,7 @@
 # 平平整整
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingpingzhengzheng.md)
+
 <p><span class="chinese">他当时正穿着一件衬衫，干净雪白，熨得平平整整。</span><span class="english">He was wearing a shirt now. Clean and white and neatly pressed.</span></p>
 
 <p><span class="chinese">在那块透明的台板下，它卷曲的身子被平平整整的铺展开。</span><span class="english">In the piece a transparent platen, it coiled body was full of shops mediocre start.</span></p>

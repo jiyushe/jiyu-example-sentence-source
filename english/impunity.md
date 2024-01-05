@@ -1,5 +1,7 @@
 # impunity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impunity.md)
+
 <p><span class="chinese">这是游行其有罪不罚的现象。</span><span class="english">It was parading its impunity.</span></p>
 
 <p><span class="chinese">这是一种有罪不罚的文化。</span><span class="english">This is a culture of impunity.</span></p>

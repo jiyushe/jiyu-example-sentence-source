@@ -1,5 +1,7 @@
 # incongruous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incongruous.md)
+
 <p><span class="chinese">你这不合时宜的老妇人！</span><span class="english">You incongruous Old Woman of Smyrna!</span></p>
 
 <p><span class="chinese">当他们在一起时看起并不协调。</span><span class="english">They look incongruous when they are together.</span></p>

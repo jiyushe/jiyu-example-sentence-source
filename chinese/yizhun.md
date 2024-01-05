@@ -1,5 +1,7 @@
 # 一准
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhun.md)
+
 <p><span class="chinese">他们一准是双胞胎。</span><span class="english">They must be twins.</span></p>
 
 <p><span class="chinese">她一准来。</span><span class="english">She is sure to come.</span></p>

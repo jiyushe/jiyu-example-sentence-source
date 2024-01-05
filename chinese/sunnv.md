@@ -1,5 +1,7 @@
 # 孙女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sunnv.md)
+
 <p><span class="chinese">所有的孙女孙子辈都在那。</span><span class="english">All the grandkids.</span></p>
 
 <p><span class="chinese">我是一匹小马驹。我是你的孙女。</span><span class="english">I'm a foal. I'm your granddaughter.</span></p>

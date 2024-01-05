@@ -1,5 +1,7 @@
 # pdi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pdi.md)
+
 <p><span class="chinese">每一年，都会有新的大学生来到我们的康州大学中文查经班。</span><span class="english">PDI has been great to me over the last 3 years.</span></p>
 
 <p><span class="chinese">造影PDI成像比CDFI成像具有更高的敏感性。</span><span class="english">Contrasted PDI might be more sensitive than contrasted CDFI.</span></p>

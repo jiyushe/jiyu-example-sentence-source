@@ -1,5 +1,7 @@
 # crustily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crustily.md)
+
 <p><span class="chinese">我只有横下一条心，硬着头皮上了。</span><span class="english">I only horizontal under a heart, crustily skin of head.</span></p>
 
 <p><span class="chinese">年轻的将领微微犹豫，随后硬着头皮领命下城。</span><span class="english">Youngly willing get is tiny hesitant, later on crustily the rind of head receive orders city.</span></p>

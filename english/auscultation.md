@@ -1,5 +1,7 @@
 # auscultation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auscultation.md)
+
 <p><span class="chinese">听诊右肺呼吸音弱。</span><span class="english">The auscultation right lung respiratory murmur is weak.</span></p>
 
 <p><span class="chinese">另外一种诊断方法是听和嗅。</span><span class="english">Another diagnostic method is auscultation and olfaction.</span></p>

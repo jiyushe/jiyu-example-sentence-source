@@ -1,5 +1,7 @@
 # 潜流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianliu.md)
+
 <p><span class="chinese">搅起种族和宗教仇视的邪恶潜流。</span><span class="english">Churned up dark undercurrents of ethnic and religious hostility.</span></p>
 
 <p><span class="chinese">都有一股来自群众的音乐潜流。</span><span class="english">There is always an"undercurrent"of music coming from the people.</span></p>

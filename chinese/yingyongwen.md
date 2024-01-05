@@ -1,5 +1,7 @@
 # 应用文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyongwen.md)
+
 <p><span class="chinese">建议书是应用文的一种类型。</span><span class="english">The proposal is the application of a type of.</span></p>
 
 <p><span class="chinese">在当代社会应用文仍然起着举足轻重的作用。</span><span class="english">Practical Writing still was playing an important role in modern society.</span></p>

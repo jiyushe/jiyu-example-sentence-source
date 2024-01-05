@@ -1,5 +1,7 @@
 # drool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drool.md)
+
 <p><span class="chinese">自养生物开始起哄。</span><span class="english">The autotrophs began to drool.</span></p>
 
 <p><span class="chinese">不要被你的口水呛到。</span><span class="english">Try not to chock on your own drool.</span></p>

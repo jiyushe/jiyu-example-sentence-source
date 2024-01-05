@@ -1,5 +1,7 @@
 # hyp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyp.md)
+
 <p><span class="chinese">我该怎么确保这一点呢？</span><span class="english">How do I know I've got a float in hyp?</span></p>
 
 <p><span class="chinese">有关针灸是如何缓解疼痛的，研究人员提出过两个假设。</span><span class="english">Researchers have developed two hyp otheses for how acupuncture relieves pain.</span></p>

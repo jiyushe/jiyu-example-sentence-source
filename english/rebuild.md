@@ -1,5 +1,7 @@
 # rebuild
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebuild.md)
+
 <p><span class="chinese">推土机，重建我们的防御！</span><span class="english">Dozers, rebuild our defenses!</span></p>
 
 <p><span class="chinese">但是，将来我们可以重修新办公室。</span><span class="english">We can rebuild the office later.</span></p>

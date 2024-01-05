@@ -1,5 +1,7 @@
 # sax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sax.md)
+
 <p><span class="chinese">他们有一把低音吉他、一架钢琴、一管萨克斯和打击乐器。</span><span class="english">They had a bass and a piano and a sax and percussion.</span></p>
 
 <p><span class="chinese">在克林顿萨克斯风吹到昏倒以前，他还死不了。</span><span class="english">Bill Clinton won't be dead until he's laid out with his sax.</span></p>

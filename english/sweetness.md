@@ -1,5 +1,7 @@
 # sweetness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweetness.md)
+
 <p><span class="chinese">梦见那些甜蜜来到。</span><span class="english">Dream the sweetness coming on.</span></p>
 
 <p><span class="chinese">耶稣，内心的甘饴。</span><span class="english">Jesus, Sweetness of the heart!</span></p>

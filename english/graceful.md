@@ -1,5 +1,7 @@
 # graceful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graceful.md)
+
 <p><span class="chinese">她丰姿绰约。</span><span class="english">Her manner is graceful.</span></p>
 
 <p><span class="chinese">高的，苗条的，婀娜多姿的。</span><span class="english">Tall, slender, and graceful.</span></p>

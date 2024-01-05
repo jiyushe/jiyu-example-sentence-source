@@ -1,5 +1,7 @@
 # splay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splay.md)
+
 <p><span class="chinese">位于太康街的街角。</span><span class="english">A corner splay located at Tai Hong Street.</span></p>
 
 <p><span class="chinese">牛肢、虚弱的骹骨、过直的膝关节，张开的足爪都属于严重缺陷。</span><span class="english">Cowhocks, weak pasterns, straight stifles and splay feet are very bad faults.</span></p>

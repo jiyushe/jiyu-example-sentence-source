@@ -1,5 +1,7 @@
 # calabash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calabash.md)
+
 <p><span class="chinese">葫芦看起来又圆又大。</span><span class="english">The calabash looked like round and big.</span></p>
 
 <p><span class="chinese">古人因葫芦形似而又多子，以此为男性生殖器的象征。</span><span class="english">The Ancients viewed the calabash as the symbol of the male genitals.</span></p>

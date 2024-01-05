@@ -1,5 +1,7 @@
 # 血污
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuewu.md)
+
 <p><span class="chinese">牛棚里一片血污。</span><span class="english">The cowshed was drenched in blood.</span></p>
 
 <p><span class="chinese">他一看到血污就作呕。</span><span class="english">His gorge rose at the sight of gore.</span></p>

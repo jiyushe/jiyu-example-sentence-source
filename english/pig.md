@@ -1,5 +1,7 @@
 # pig 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pig.md)
+
 <p><span class="chinese">我听到一只猪叫。</span><span class="english">I hear a pig.</span></p>
 
 <p><span class="chinese">猪尾汤。</span><span class="english">Pig tail soup.</span></p>

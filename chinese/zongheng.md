@@ -1,5 +1,7 @@
 # 纵横
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongheng.md)
+
 <p><span class="chinese">是大权在手，纵横天下？</span><span class="english">Power is at hand, the sun?</span></p>
 
 <p><span class="chinese">纵横和字谜求解。</span><span class="english">Crossword and anagram solver.</span></p>

@@ -1,5 +1,7 @@
 # hint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hint.md)
+
 <p><span class="chinese">我应该给你们一些提示</span><span class="english">I should give you some hint.</span></p>
 
 <p><span class="chinese">这会带来另一种提示。</span><span class="english">This brings up another hint.</span></p>

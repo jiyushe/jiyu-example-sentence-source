@@ -1,5 +1,7 @@
 # 去火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quhuo.md)
+
 <p><span class="chinese">去火点在手上。</span><span class="english">To the point in the hand.</span></p>
 
 <p><span class="chinese">去火车上喝杯啤酒吧。</span><span class="english">Go drink a beer on the train.</span></p>

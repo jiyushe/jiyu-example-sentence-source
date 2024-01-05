@@ -1,5 +1,7 @@
 # disjunct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disjunct.md)
+
 <p><span class="chinese">跳进和级进</span><span class="english">Disjunct versus conjunct?</span></p>
 
 <p><span class="chinese">这是一段很跳进的旋律</span><span class="english">It's a very disjunct melody.</span></p>

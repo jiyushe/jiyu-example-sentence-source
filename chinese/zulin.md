@@ -1,5 +1,7 @@
 # 租赁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zulin.md)
+
 <p><span class="chinese">取消租赁。</span><span class="english">Lease cancellation.</span></p>
 
 <p><span class="chinese">什么是租赁者的保险？。</span><span class="english">What Is Renter's Insurance?</span></p>

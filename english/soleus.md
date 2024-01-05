@@ -1,5 +1,7 @@
 # soleus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soleus.md)
+
 <p><span class="chinese">在7周龄时，解剖取出两下肢的比目鱼肌作标本。</span><span class="english">Soleus muscle of two lower limbs was harvested at 7 weeks old.</span></p>
 
 <p><span class="chinese">腓肠肌内侧头和比目鱼肌无区分肌亚部的形态特征。</span><span class="english">The medial gastrocnemius and soleus are not compartmentalized.</span></p>

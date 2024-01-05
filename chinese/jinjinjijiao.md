@@ -1,5 +1,7 @@
 # 斤斤计较
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinjinjijiao.md)
+
 <p><span class="chinese">我是个斤斤计较的人，老是算计着谁谁做了什么。</span><span class="english">I’m a score-keeper, always calculating who has done what.</span></p>
 
 <p><span class="chinese">算了吧！不要斤斤计较。如你所知，他最近手头紧。</span><span class="english">Forget it! Don't strain at a gnat. As you know, he is hard up these days.</span></p>

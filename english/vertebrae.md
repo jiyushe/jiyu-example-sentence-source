@@ -1,5 +1,7 @@
 # vertebrae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vertebrae.md)
+
 <p><span class="chinese">在她易碎的椎骨上轻轻摇晃。</span><span class="english">Oscillates gently on her fragile vertebrae.</span></p>
 
 <p><span class="chinese">老鼠和长颈鹿的颈椎骨数目相同。</span><span class="english">A mouse has the same number of neck vertebrae as a giraffe.</span></p>

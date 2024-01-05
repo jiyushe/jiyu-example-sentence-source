@@ -1,5 +1,7 @@
 # 良善
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangshan_1.md)
+
 <p><span class="chinese">神的良善和信实？</span><span class="english">God's goodness and faithfulness?</span></p>
 
 <p><span class="chinese">祂会带给我们良善与光明。</span><span class="english">He will bring us goodness and light.</span></p>

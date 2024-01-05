@@ -1,5 +1,7 @@
 # pomace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pomace.md)
+
 <p><span class="chinese">本文介绍苹果渣综合利用。</span><span class="english">The paper is introducing synthetical use of pomace.</span></p>
 
 <p><span class="chinese">然后在底层的渣滓，是完全的增值税流失。</span><span class="english">The pomace then at the bottom of the vat is completely drained.</span></p>

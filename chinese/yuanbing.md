@@ -1,5 +1,7 @@
 # 援兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanbing.md)
+
 <p><span class="chinese">他将会是一个极好的援兵。</span><span class="english">He'd be a great addition to either squad.</span></p>
 
 <p><span class="chinese">他们要把援兵开赴前线，必须走这条公路。</span><span class="english">That is the only road on which they can bring up reinforcements.</span></p>

@@ -1,5 +1,7 @@
 # 意译
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyi_5.md)
+
 <p><span class="chinese">还可以通过意译重述关键词进行关键词转换练习。</span><span class="english">You can also practise scanning for paraphrases of key words.</span></p>
 
 <p><span class="chinese">引言人们经常讨论直译和意译。</span><span class="english">People often discuss literal translation and free translation.</span></p>

@@ -1,5 +1,7 @@
 # wildland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wildland.md)
+
 <p><span class="chinese">同时他还是一名持证野外消防员。</span><span class="english">He's also a certified wildland firefighter.</span></p>
 
 <p><span class="chinese">试用真实方法混合新鲜理念，创造出更好的荒地船队。</span><span class="english">Tried-and-true methods mix with fresh concepts to create better wildland fleets.</span></p>

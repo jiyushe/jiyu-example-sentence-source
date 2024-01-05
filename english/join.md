@@ -1,5 +1,7 @@
 # join
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/join.md)
+
 <p><span class="chinese">参军入伍？</span><span class="english">Join the army?</span></p>
 
 <p><span class="chinese">请加入我们。</span><span class="english">So please join us.</span></p>

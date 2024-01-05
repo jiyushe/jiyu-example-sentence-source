@@ -1,5 +1,7 @@
 # lest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lest.md)
+
 <p><span class="chinese">——不然我就用脚后跟给你挠痒痒！</span><span class="english">lest I tickle thee with my heel!</span></p>
 
 <p><span class="chinese">他逃跑了，唯恐被别人看见。</span><span class="english">He ran away lest he should be seen.</span></p>

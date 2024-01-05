@@ -1,5 +1,7 @@
 # 演出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanchu.md)
+
 <p><span class="chinese">谁是开场演出者?。</span><span class="english">Who is the opening act?</span></p>
 
 <p><span class="chinese">演出一个劳师动众当成赌注。</span><span class="english">It's a show, not my own.</span></p>

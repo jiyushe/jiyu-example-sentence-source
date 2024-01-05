@@ -1,5 +1,7 @@
 # 禁令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinling.md)
+
 <p><span class="chinese">忘掉光线禁令。</span><span class="english">Forget about Ray-Bans.</span></p>
 
 <p><span class="chinese">母后也同意对你的禁令！</span><span class="english">And Mother has forbidden your return.</span></p>

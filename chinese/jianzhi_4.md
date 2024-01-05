@@ -1,5 +1,7 @@
 # 建制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzhi_4.md)
+
 <p><span class="chinese">冲锋队建制的基本单位是单个士兵。</span><span class="english">The basic unit of organization was the individual trooper.</span></p>
 
 <p><span class="chinese">在我们的血液里已不再存在封建制和君主制的病害。</span><span class="english">Feudal and monarchical maladies no longer run in our blood.</span></p>

@@ -1,5 +1,7 @@
 # potential 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potential.md)
+
 <p><span class="chinese">化学势。</span><span class="english">Chemical potential.</span></p>
 
 <p><span class="chinese">开发你的潜能。</span><span class="english">Unlock your potential.</span></p>

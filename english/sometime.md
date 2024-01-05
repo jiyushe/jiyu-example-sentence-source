@@ -1,5 +1,7 @@
 # sometime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sometime.md)
+
 <p><span class="chinese">他是我曩昔的上级。</span><span class="english">He is my sometime boss.</span></p>
 
 <p><span class="chinese">有空给我打电话。</span><span class="english">Give me a call sometime.</span></p>

@@ -1,5 +1,7 @@
 # prattle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prattle.md)
+
 <p><span class="chinese">就是别让自己把话说半截。</span><span class="english">Just be sure not to prattle on.</span></p>
 
 <p><span class="chinese">而且，亲爱的，整天说些孩子气的话有什么用。</span><span class="english">And, after all, dear What is idle prattle for?</span></p>

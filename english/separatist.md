@@ -1,5 +1,7 @@
 # separatist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/separatist.md)
+
 <p><span class="chinese">达赖集团的恶僧卖国贼该当何罪？</span><span class="english">How to process these separatist monks of the Dalai Clique.</span></p>
 
 <p><span class="chinese">分裂派支持者袭击中国驻荷兰大使馆。</span><span class="english">Separatist supporters attack Chinese embassy in Netherlands.</span></p>

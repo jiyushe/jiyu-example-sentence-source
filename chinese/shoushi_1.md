@@ -1,5 +1,7 @@
 # 手势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoushi_1.md)
+
 <p><span class="chinese">我以手势示意他就座。</span><span class="english">I motioned him to a seat.</span></p>
 
 <p><span class="chinese">她以手势叫我进去。</span><span class="english">She motioned me to enter.</span></p>

@@ -1,5 +1,7 @@
 # carriage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carriage.md)
+
 <p><span class="chinese">您有一辆车子停在下面吧？</span><span class="english">You have a carriage downstairs?</span></p>
 
 <p><span class="chinese">我的汽车从邻居的视线中消失了。</span><span class="english">The carriage whirled out of sight.</span></p>

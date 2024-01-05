@@ -1,5 +1,7 @@
 # rachel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rachel.md)
+
 <p><span class="chinese">我确实爱蕾切尔。</span><span class="english">Loved Rachel.</span></p>
 
 <p><span class="chinese">你们好，我是瑞秋。西伯。</span><span class="english">Hi, I'm Rachel Cyber.</span></p>

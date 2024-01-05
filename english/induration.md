@@ -1,5 +1,7 @@
 # induration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/induration.md)
+
 <p><span class="chinese">总结38例PAHG注射后并发硬结的临床资料。</span><span class="english">Methods We summarized 38 cases which have induration after PAHG injection.</span></p>
 
 <p><span class="chinese">该病可呈现腿部和臂部大面积硬化或弥漫性肿胀。</span><span class="english">The disease can present as a large area of induration or a diffuse swelling of the legs and arms.</span></p>

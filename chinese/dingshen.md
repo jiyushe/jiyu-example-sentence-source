@@ -1,5 +1,7 @@
 # 定神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingshen.md)
+
 <p><span class="chinese">我单身，但是气定神闲。</span><span class="english">I am glad to be single.</span></p>
 
 <p><span class="chinese">给我个机会定定神。</span><span class="english">Give me a chance to get my nerve.</span></p>

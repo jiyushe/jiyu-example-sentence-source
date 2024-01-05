@@ -1,5 +1,7 @@
 # ira
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ira.md)
+
 <p><span class="chinese">同时，丹和里克与艾瑞.盖恩斯碰了面。</span><span class="english">Meanwhile, Dan and Rick meet up with Ira Gaines.</span></p>
 
 <p><span class="chinese">伊拉，你该是38了，但你看起来才大约30。</span><span class="english">Ira , you should be about 38, but you look about 30.</span></p>

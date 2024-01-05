@@ -1,5 +1,7 @@
 # turkistan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turkistan.md)
+
 <p><span class="chinese">认为“东突”势力的基地在哪里？</span><span class="english">Where do you believe the East Turkistan forces are based?</span></p>
 
 <p><span class="chinese">那么这些“东突”恐怖分子回流与拉登被击毙有关吗？</span><span class="english">So the "East Turkistan" terrorists with Osama bin Laden was killed back on it?</span></p>

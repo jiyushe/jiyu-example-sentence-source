@@ -1,5 +1,7 @@
 # 过于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoyu.md)
+
 <p><span class="chinese">但后来我过于紧张了。</span><span class="english">But then I tensed up.</span></p>
 
 <p><span class="chinese">当然，我或许过于偏颇。</span><span class="english">Of course, I'm biased.</span></p>

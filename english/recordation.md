@@ -1,5 +1,7 @@
 # recordation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recordation.md)
+
 <p><span class="chinese">在“石书”的篇页上记载着人类历史的时代。</span><span class="english">In the "stone book" there is recordation of the era of the human history.</span></p>
 
 <p><span class="chinese">方法查阅有关资料记载并采用天幕式诱蝇笼诱捕法诱捕。</span><span class="english">Method Consulting related data recordation and using tent taping cage to trap flies.</span></p>

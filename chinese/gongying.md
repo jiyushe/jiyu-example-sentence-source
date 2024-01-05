@@ -1,5 +1,7 @@
 # 公映
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongying.md)
+
 <p><span class="chinese">现在有一部关于一匹会说话的马的电影在公映。</span><span class="english">There’s one out now about a talking horse.</span></p>
 
 <p><span class="chinese">该片记录了第二次世界大战并于2007年首次在PBS公映。</span><span class="english">It chronicled World War II and premiered on PBS in the U.S. in 2007.</span></p>

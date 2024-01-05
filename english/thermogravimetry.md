@@ -1,5 +1,7 @@
 # thermogravimetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermogravimetry.md)
+
 <p><span class="chinese">用非等温热重法研究了代森锰锌的热分解反应动力学。</span><span class="english">Non-isothermal thermal decomposition kinetics of mancozeb was studied by thermogravimetry.</span></p>
 
 <p><span class="chinese">采用热重分析和岩相分析等方法，对复杂煤种的燃烧特性进行了评价。</span><span class="english">The application of thermogravimetry in the study of combustion property of coal char was reviewed.</span></p>

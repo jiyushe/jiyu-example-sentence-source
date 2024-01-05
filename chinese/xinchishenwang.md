@@ -1,5 +1,7 @@
 # 心驰神往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinchishenwang.md)
+
 <p><span class="chinese">这一未来令人心驰神往，”他补充道。</span><span class="english">And that future is very exciting," he added.</span></p>
 
 <p><span class="chinese">这对每个人来说都是一件激动人心而又令人心驰神往的事。</span><span class="english">It was a dramatic and inspiring thing for everyone.</span></p>

@@ -1,5 +1,7 @@
 # teutonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teutonic.md)
+
 <p><span class="chinese">那个女人发出一声日耳曼人的叹息。</span><span class="english">The woman emitted a Teutonic sigh.</span></p>
 
 <p><span class="chinese">如果它是一个女人，A8将是一个盎格鲁撒克逊金发碧眼美女。</span><span class="english">If it were a woman, the A8 would be a severe Teutonic blonde.</span></p>

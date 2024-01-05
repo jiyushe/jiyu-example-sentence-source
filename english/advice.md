@@ -1,5 +1,7 @@
 # advice 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advice.md)
+
 <p><span class="chinese">我有一些建议。</span><span class="english">Heres some advice.</span></p>
 
 <p><span class="chinese">对此，北村博士有什么建议呢？</span><span class="english">Kitamura's advice?</span></p>

@@ -1,5 +1,7 @@
 # 移植
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhi_11.md)
+
 <p><span class="chinese">移植工具。</span><span class="english">Porting tools.</span></p>
 
 <p><span class="chinese">不仅如此，它编出来的软件是可移植的。</span><span class="english">It was also portable.</span></p>

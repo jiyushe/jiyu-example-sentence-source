@@ -1,5 +1,7 @@
 # sociocultural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sociocultural.md)
+
 <p><span class="chinese">词汇除语言或概念意义外具有丰富的社会文化内涵意义。</span><span class="english">Words have sociocultural meaning as well as denotative or conceptual meaning.</span></p>
 
 <p><span class="chinese">社会文化进化论者同意演化般的过程会导致社会的进步。</span><span class="english">Sociocultural evolutionists agree that the evolution-like process leads to social progress.</span></p>

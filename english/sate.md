@@ -1,5 +1,7 @@
 # sate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sate.md)
+
 <p><span class="chinese">他只不过用她来泄欲。</span><span class="english">He used her just to sate his lust.</span></p>
 
 <p><span class="chinese">并以软硬兼施的办法，奋发努力，确保同行业中的领先地位。</span><span class="english">We work hard to hold the sate lead in the same trade.</span></p>

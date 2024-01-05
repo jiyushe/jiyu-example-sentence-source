@@ -1,5 +1,7 @@
 # upstate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upstate.md)
+
 <p><span class="chinese">我来自纽约北部的一个小镇。</span><span class="english">I come from a small town in upstate New York.</span></p>
 
 <p><span class="chinese">嗨，我是住在美国纽约上城的白人女孩。</span><span class="english">Hi. I'm a white female living in upstate New York, USA.</span></p>

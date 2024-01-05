@@ -1,5 +1,7 @@
 # 假牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaya.md)
+
 <p><span class="chinese">这是真的，即使你是带假牙。</span><span class="english">This is true even if you wear dentures.</span></p>
 
 <p><span class="chinese">你把自己的假牙泡在咖啡里过夜。</span><span class="english">You soak your dentures in coffee overnight.</span></p>

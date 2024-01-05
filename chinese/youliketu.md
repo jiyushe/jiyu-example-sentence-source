@@ -1,5 +1,7 @@
 # 有利可图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youliketu.md)
+
 <p><span class="chinese">你是怎么谈成那笔有利可图的交易的?。</span><span class="english">How did you negotiate the deal on the benefit?</span></p>
 
 <p><span class="chinese">每一项建议都必须经受这一条检验——有利可图。</span><span class="english">Subject every proposal to one test- profitability.</span></p>

@@ -1,5 +1,7 @@
 # 夹子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazi.md)
+
 <p><span class="chinese">有人偷了我的钱夹子。</span><span class="english">Someone ripped off my wallet.</span></p>
 
 <p><span class="chinese">一个能锁的夹子?如果需要。</span><span class="english">A lock-in clip is used if needed?</span></p>

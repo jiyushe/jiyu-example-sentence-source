@@ -1,5 +1,7 @@
 # eyelid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyelid.md)
+
 <p><span class="chinese">一种在干上有向上的绒毛的植物。</span><span class="english">A row of the hairs fringing the eyelid.</span></p>
 
 <p><span class="chinese">亲吻眼皮——敬慕。</span><span class="english">Kissing on the eyelid signifies adoration.</span></p>

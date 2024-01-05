@@ -1,5 +1,7 @@
 # ruin 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruin.md)
+
 <p><span class="chinese">徒步走在玛雅废墟上。</span><span class="english">Hiked a Mayan ruin.</span></p>
 
 <p><span class="chinese">不要华侈你的生命。</span><span class="english">Don't ruin your life.</span></p>

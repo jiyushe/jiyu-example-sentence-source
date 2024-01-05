@@ -1,5 +1,7 @@
 # punjab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punjab.md)
+
 <p><span class="chinese">他是旁遮普省的省长。</span><span class="english">Well, he was the governor of Punjab.</span></p>
 
 <p><span class="chinese">旁遮普邦锡克族的挑战已不构成威胁。</span><span class="english">The Sikh challenge in the Punjab has dissipated.</span></p>

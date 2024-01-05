@@ -1,5 +1,7 @@
 # acceptability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acceptability.md)
+
 <p><span class="chinese">检测的可接受性随着时间的推移逐步上升。</span><span class="english">The acceptability of testing rose over time.</span></p>
 
 <p><span class="chinese">对他们计划的可接受性保持自信</span><span class="english">Confidence in the acceptability of their plans</span></p>

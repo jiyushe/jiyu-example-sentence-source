@@ -1,5 +1,7 @@
 # 台长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taichang.md)
+
 <p><span class="chinese">李湘跳槽副台长蓄意炒作还是真有其事？</span><span class="english">Is Li Xiang's job-hopping true or speculation?</span></p>
 
 <p><span class="chinese">他的车是一台长着轮子的超级电脑</span><span class="english">His car is a powerful connected computer on wheels</span></p>

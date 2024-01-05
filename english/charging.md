@@ -1,5 +1,7 @@
 # charging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charging.md)
+
 <p><span class="chinese">得到一个已捕获鬼魂的陷阱。</span><span class="english">Get slimed by a charging ghost.</span></p>
 
 <p><span class="chinese">显示系统如何跟踪计费。</span><span class="english">Show how the system tracks charging.</span></p>

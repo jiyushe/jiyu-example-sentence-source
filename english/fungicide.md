@@ -1,5 +1,7 @@
 # fungicide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fungicide.md)
+
 <p><span class="chinese">茶树油是一个辉煌的天然杀菌剂。</span><span class="english">Tea tree oil is a brilliant natural fungicide.</span></p>
 
 <p><span class="chinese">氟吗啉是新型内吸性杀真菌剂。</span><span class="english">Flumorph is a newly invented systemic fungicide.</span></p>

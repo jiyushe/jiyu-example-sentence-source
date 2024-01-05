@@ -1,5 +1,7 @@
 # ventilate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ventilate.md)
+
 <p><span class="chinese">打开窗户，让房间空气流通。</span><span class="english">Open the window and ventilate the room.</span></p>
 
 <p><span class="chinese">我们开窗以使室内空气流通。</span><span class="english">We ventilate a room by opening windows.</span></p>

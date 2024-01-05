@@ -1,5 +1,7 @@
 # epicentral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epicentral.md)
+
 <p><span class="chinese">陡河正断层刚好插到唐山市震中区的正下方。</span><span class="english">The Douhe normal fault extends right over the epicentral region of Tangshan City.</span></p>
 
 <p><span class="chinese">有大量的滑坡，地面裂缝，整个震中地区。</span><span class="english">There were large numbers of landslides and ground cracks throughout the epicentral area.</span></p>

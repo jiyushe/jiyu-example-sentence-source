@@ -1,5 +1,7 @@
 # 豁出去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huochuqu.md)
+
 <p><span class="chinese">我女朋友和我豁出去了。</span><span class="english">My girlfriend and I are taking the plunge.</span></p>
 
 <p><span class="chinese">哈什尔来这里把一切都豁出去了。</span><span class="english">Harshire is risking everything by coming here.</span></p>

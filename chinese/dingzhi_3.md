@@ -1,5 +1,7 @@
 # 订制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzhi_3.md)
+
 <p><span class="chinese">你曾向这家店订制西服吗？</span><span class="english">Did you order a suit from the store?</span></p>
 
 <p><span class="chinese">他穿上订制的西服显得气度不凡。</span><span class="english">He looks distinguished in his custom-made suit.</span></p>

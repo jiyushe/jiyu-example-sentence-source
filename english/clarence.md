@@ -1,5 +1,7 @@
 # clarence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clarence.md)
+
 <p><span class="chinese">这是我的老朋友，克拉伦斯。</span><span class="english">This is my old pard, Clarence.</span></p>
 
 <p><span class="chinese">目前的司铎是钟宽仁神父。</span><span class="english">Our priest is Fr. Clarence Jones.</span></p>

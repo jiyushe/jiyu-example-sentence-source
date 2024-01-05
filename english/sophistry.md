@@ -1,5 +1,7 @@
 # sophistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sophistry.md)
+
 <p><span class="chinese">诡辩改变不了事实。</span><span class="english">Sophistry won't alter facts.</span></p>
 
 <p><span class="chinese">诡辩改变不了历史。</span><span class="english">Sophistry cannot alter history.</span></p>

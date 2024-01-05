@@ -1,5 +1,7 @@
 # arthropathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arthropathy.md)
+
 <p><span class="chinese">目的探讨膝关节镜在诊治假性痛风病中的应用价值。</span><span class="english">To study the value of arthroscopy in diagnosing and treating pyrophosphate arthropathy.</span></p>
 
 <p><span class="chinese">也许其他区域的影像检查可显示骨炎伴随附着点炎或者关节病。</span><span class="english">Radiographs of other areas may show evidence of enthesitis with osteitis or arthropathy.</span></p>

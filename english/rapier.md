@@ -1,5 +1,7 @@
 # rapier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapier.md)
+
 <p><span class="chinese">当然！我带着把细剑呢。</span><span class="english">Sure! I have a rapier.</span></p>
 
 <p><span class="chinese">他的剑柄闪着光，在宝石般的天空下。</span><span class="english">His rapier hilts a-twinkle, under the jewelled sky.</span></p>

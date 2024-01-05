@@ -1,5 +1,7 @@
 # blooming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blooming.md)
+
 <p><span class="chinese">就像花开处处香。</span><span class="english">Just like a blooming flower.</span></p>
 
 <p><span class="chinese">那扇门是朝花园开的。</span><span class="english">There are the blooming shrubs.</span></p>

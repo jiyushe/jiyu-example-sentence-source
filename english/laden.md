@@ -1,5 +1,7 @@
 # laden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laden.md)
+
 <p><span class="chinese">我们是否软弱多愁?。</span><span class="english">Are we weak and heavy laden.</span></p>
 
 <p><span class="chinese">本拉登已经是过去式了。</span><span class="english">Bin Laden was already passé.</span></p>

@@ -1,5 +1,7 @@
 # 容人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongren.md)
+
 <p><span class="chinese">生命太短暂，不容人细品！</span><span class="english">Life is too short to be little!</span></p>
 
 <p><span class="chinese">他往往不能容人。</span><span class="english">He is intolerant towards others.</span></p>

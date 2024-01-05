@@ -1,5 +1,7 @@
 # unvarnished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unvarnished.md)
+
 <p><span class="chinese">公众期望我们提供不加修饰的真相。</span><span class="english">The public expects us to deliver the unvarnished truth.</span></p>
 
 <p><span class="chinese">书中单纯质朴的事实是用地道的常识来讲述的。</span><span class="english">Its pure, unvarnished truth is told with down-home common sense.</span></p>

@@ -1,5 +1,7 @@
 # gregory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gregory.md)
+
 <p><span class="chinese">是，很有格里高利•克鲁德逊风格。</span><span class="english">Yea, yea, very Gregory Crewdson style.</span></p>
 
 <p><span class="chinese">格雷戈里佩德森是研究的领导者。</span><span class="english">Gregory Pederson was a leader of the study.</span></p>

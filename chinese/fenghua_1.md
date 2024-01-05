@@ -1,5 +1,7 @@
 # 风华
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenghua_1.md)
+
 <p><span class="chinese">风华是一指流沙，苍老是一段年华。</span><span class="english">Elegance is a means sand, old is a Love.</span></p>
 
 <p><span class="chinese">阮风华来自山东省的一个小村庄，他的父母都是农民。</span><span class="english">Ruan comes from a Shandong village where his parents were farmers.</span></p>

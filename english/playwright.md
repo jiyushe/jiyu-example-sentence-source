@@ -1,5 +1,7 @@
 # playwright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playwright.md)
+
 <p><span class="chinese">夏衍是现代著名的剧作家。</span><span class="english">Xia Yan is a modern playwright.</span></p>
 
 <p><span class="chinese">公元前500年时的希腊剧作家。</span><span class="english">A Greek playwright back in 500 BC.</span></p>

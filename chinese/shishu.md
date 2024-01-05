@@ -1,5 +1,7 @@
 # 史书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishu.md)
+
 <p><span class="chinese">历史书中并未记载下赖利如何处理的这笔钱。</span><span class="english">Historydoesn't record what Reilly did with the money.</span></p>
 
 <p><span class="chinese">有些记载，弥补了史书之阙。</span><span class="english">Some records, make up the history books of the palace.</span></p>

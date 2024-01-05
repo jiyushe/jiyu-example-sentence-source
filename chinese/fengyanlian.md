@@ -1,5 +1,7 @@
 # 凤眼莲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyanlian.md)
+
 <p><span class="chinese">因此，研究凤眼莲凋落物和残体具有十分重要的理论和实际意义。</span><span class="english">So it is of great theoretical and practical significance to study.</span></p>
 
 <p><span class="chinese">如何对凤眼莲进行防治和资源化利用，已经越来越引起人们的关注。</span><span class="english">How to control and utilize it as a kind of resource is attracting more and more attention.</span></p>

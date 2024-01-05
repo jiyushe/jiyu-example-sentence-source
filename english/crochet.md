@@ -1,5 +1,7 @@
 # crochet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crochet.md)
+
 <p><span class="chinese">算了吧，我是不喜欢钩针编制物。</span><span class="english">OK. It is that I don't like crochet.</span></p>
 
 <p><span class="chinese">留在家里，再干三十年的钩织？</span><span class="english">Stay home and crochet for the next thirty years ?</span></p>

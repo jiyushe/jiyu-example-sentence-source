@@ -1,5 +1,7 @@
 # adar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adar.md)
+
 <p><span class="chinese">阿达尔说，将朱能够防范所有吗？</span><span class="english">Adar said, Will Raju be able to guard all alone?</span></p>
 
 <p><span class="chinese">阿达玛上将认为阿达尔总统是什么样的人?。</span><span class="english">What did Admiral Adama consider President Adar to be?</span></p>

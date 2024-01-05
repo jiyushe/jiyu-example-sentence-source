@@ -1,5 +1,7 @@
 # 上限
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxian_1.md)
+
 <p><span class="chinese">双色调的皮革和纺织上限。</span><span class="english">Two-toned leather and textile upper.</span></p>
 
 <p><span class="chinese">也就是说房屋的租价上限远远高于汽车。</span><span class="english">The price ceiling is just much higher.</span></p>

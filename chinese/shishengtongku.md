@@ -1,5 +1,7 @@
 # 失声痛哭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishengtongku.md)
+
 <p><span class="chinese">我靠在隔间上，失声痛哭。</span><span class="english">I leaned against the stall and cried.</span></p>
 
 <p><span class="chinese">月月在成泽怀里失声痛哭着！</span><span class="english">Month in Cheng Zehuai is crying loudly!</span></p>

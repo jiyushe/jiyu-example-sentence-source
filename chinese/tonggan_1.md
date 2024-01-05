@@ -1,5 +1,7 @@
 # 痛感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonggan_1.md)
+
 <p><span class="chinese">他痛感她的观点僵化。</span><span class="english">He deplored the rigidity of her views.</span></p>
 
 <p><span class="chinese">这个药让你脱离现实中的痛感，就像你的习惯一样，帮你处理世俗中充满压力的生活。</span><span class="english">The drugs help you escape the pain of reality.</span></p>

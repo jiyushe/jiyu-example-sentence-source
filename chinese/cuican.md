@@ -1,5 +1,7 @@
 # 摧残
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuican.md)
+
 <p><span class="chinese">那些俘虏遭受了肉体上的摧残。</span><span class="english">Those captives were physically abused.</span></p>
 
 <p><span class="chinese">又用瘟疫摧残了婚礼丧车。</span><span class="english">And blights with plagues the marriage-hearse.</span></p>

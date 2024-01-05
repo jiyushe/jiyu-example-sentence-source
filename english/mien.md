@@ -1,5 +1,7 @@
 # mien
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mien.md)
+
 <p><span class="chinese">他是个态度傲慢的人。</span><span class="english">He is a man of mien.</span></p>
 
 <p><span class="chinese">他是个越战老兵，举止总有些惶然。</span><span class="english">He was a Vietnam veteran with a haunted mien.</span></p>

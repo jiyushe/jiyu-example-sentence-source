@@ -1,5 +1,7 @@
 # 小满
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoman.md)
+
 <p><span class="chinese">约翰正努力打满小满贯。</span><span class="english">John 's work on a small slam.</span></p>
 
 <p><span class="chinese">约翰正努力打满小满贯。</span><span class="english">John's working on a small slam.</span></p>

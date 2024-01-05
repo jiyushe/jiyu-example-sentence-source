@@ -1,5 +1,7 @@
 # monsoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monsoon.md)
+
 <p><span class="chinese">另外一个问题是雨季。</span><span class="english">Another problem is the monsoon.</span></p>
 
 <p><span class="chinese">它是亚热带温润季风气候。</span><span class="english">It's Subropical moist monsoon climate.</span></p>

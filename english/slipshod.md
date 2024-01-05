@@ -1,5 +1,7 @@
 # slipshod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slipshod.md)
+
 <p><span class="chinese">这活儿做得太糙。</span><span class="english">This is very slipshod work.</span></p>
 
 <p><span class="chinese">你表达得太不认真。</span><span class="english">You're too slipshod about your presentation.</span></p>

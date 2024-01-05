@@ -1,5 +1,7 @@
 # possess 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/possess.md)
+
 <p><span class="chinese">它们有很小的体腔。</span><span class="english">They possess a restricted coelom.</span></p>
 
 <p><span class="chinese">他应该具备什么样的技能？</span><span class="english">And what skills should he possess?</span></p>

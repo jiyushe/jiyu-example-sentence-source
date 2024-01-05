@@ -1,5 +1,7 @@
 # irrepressible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrepressible.md)
+
 <p><span class="chinese">他是个无法自拔的混球，认为自己是只狡猾的狐狸？</span><span class="english">That he is an irrepressible jackass who thinks of himself as a sly fox?</span></p>
 
 <p><span class="chinese">网上出现新一波病毒式传播的图片，对英国暴乱极尽调侃之能事。</span><span class="english">Irrepressible virals try to take a lighthearted view of England's unrest.</span></p>

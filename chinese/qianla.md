@@ -1,5 +1,7 @@
 # 牵拉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianla.md)
+
 <p><span class="chinese">绝不推压或牵拉任何部位。</span><span class="english">Never pull or force anything.</span></p>
 
 <p><span class="chinese">牵拉性支气管扩张也强烈提示肺纤维化。</span><span class="english">Traction bronchiectasis is also strongly suggestive of fibrosis.</span></p>

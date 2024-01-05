@@ -1,5 +1,7 @@
 # underfill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underfill.md)
+
 <p><span class="chinese">通过正确的底部填充，可提高倒装芯片组装的成品率和可靠性。</span><span class="english">T hen show that correct underfill can dramatically increase thermal reliability.</span></p>
 
 <p><span class="chinese">采用与固化过程相关的粘弹性力学模型描述倒装焊底充胶的力学行为。</span><span class="english">A cure-dependent viscoelastic model was applied to describe the mechanical behavior of underfill.</span></p>

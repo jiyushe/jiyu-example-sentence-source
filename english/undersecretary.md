@@ -1,5 +1,7 @@
 # undersecretary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undersecretary.md)
+
 <p><span class="chinese">美国防部副部长费斯结束了对中国的访问。</span><span class="english">U. S. Undersecretary of Defense Douglas Feith just concluded his visit to China.</span></p>
 
 <p><span class="chinese">同时也曾担任国际事务财务部门的次长。</span><span class="english">He has also worked as undersecretary of the Treasury Department for international affairs.</span></p>

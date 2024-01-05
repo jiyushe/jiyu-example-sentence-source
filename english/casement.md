@@ -1,5 +1,7 @@
 # casement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casement.md)
+
 <p><span class="chinese">那是她从前的窗。</span><span class="english">That was once her casement.</span></p>
 
 <p><span class="chinese">可有谁见过她站在窗后？</span><span class="english">Or at the casement seen her stand?</span></p>

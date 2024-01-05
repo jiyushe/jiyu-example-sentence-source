@@ -1,5 +1,7 @@
 # commonness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commonness.md)
+
 <p><span class="chinese">它是一门研究机械共性问题的。</span><span class="english">It is a basic course on study machine commonness problem.</span></p>
 
 <p><span class="chinese">平凡中表现的伟大才能永恒。</span><span class="english">Only the greatness displayed in commonness is everlasting.</span></p>

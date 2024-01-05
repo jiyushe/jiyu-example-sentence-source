@@ -1,5 +1,7 @@
 # reverberation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reverberation.md)
+
 <p><span class="chinese">回响现在也作用于风之剪切。</span><span class="english">Reverberation now affects Wind Shear.</span></p>
 
 <p><span class="chinese">因此反射和弹跳出现了。</span><span class="english">Thus ricochet and reverberation enter in.</span></p>

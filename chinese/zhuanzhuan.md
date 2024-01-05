@@ -1,5 +1,7 @@
 # 转转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzhuan.md)
+
 <p><span class="chinese">我来领你们转转吧。</span><span class="english">Let me show  you around.</span></p>
 
 <p><span class="chinese">薄雾在那座古老的城堡的周围打转转。</span><span class="english">The mist eddied round the old castle.</span></p>

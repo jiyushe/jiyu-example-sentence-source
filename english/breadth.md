@@ -1,5 +1,7 @@
 # breadth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breadth.md)
+
 <p><span class="chinese">她九死一生从那次疾病中逃脱。</span><span class="english">We escaped by a hair 's breadth.</span></p>
 
 <p><span class="chinese">这条河宽是多少？</span><span class="english">What is the breadth of this river?</span></p>

@@ -1,5 +1,7 @@
 # 种姓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxing_4.md)
+
 <p><span class="chinese">当然是我们种姓中的大员。</span><span class="english">Our caste-wallah, of course.</span></p>
 
 <p><span class="chinese">所有的人都是生而为那个种姓的。</span><span class="english">All are born into their caste.</span></p>

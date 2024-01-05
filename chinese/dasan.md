@@ -1,5 +1,7 @@
 # 打散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dasan.md)
+
 <p><span class="chinese">刷上打散的鸡蛋上光。</span><span class="english">Brush on beaten egg glaze.</span></p>
 
 <p><span class="chinese">接着拌入打散的鸡蛋。</span><span class="english">Next, fold in the beaten egg.</span></p>

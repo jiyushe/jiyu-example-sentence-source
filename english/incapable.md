@@ -1,5 +1,7 @@
 # incapable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incapable.md)
+
 <p><span class="chinese">他是个无能之辈。</span><span class="english">He is an incapable person.</span></p>
 
 <p><span class="chinese">但是，迈克却做不到。</span><span class="english">But Mike is incapable of that.</span></p>

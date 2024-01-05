@@ -1,5 +1,7 @@
 # american
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/american.md)
+
 <p><span class="chinese">我是美国人。</span><span class="english">I am American.</span></p>
 
 <p><span class="chinese">一种美洲金属。</span><span class="english">An American metal.</span></p>

@@ -1,5 +1,7 @@
 # pizza 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pizza.md)
+
 <p><span class="chinese">红色男爵比萨？</span><span class="english">Red Baron pizza?</span></p>
 
 <p><span class="chinese">Digiorno's比萨？</span><span class="english">DiGiorno's pizza?</span></p>

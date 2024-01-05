@@ -1,5 +1,7 @@
 # 眼尖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjian.md)
+
 <p><span class="chinese">然后，是眼尖的精神病医生看到了飞鸟。</span><span class="english">Next to spy a bird flying was the sharp-eyed psychiatrist.</span></p>
 
 <p><span class="chinese">由于阵容庞大，拍摄时被眼尖民众「发现」的机率也较高。</span><span class="english">His large crew frequently caught the eye of sharp-eyed citizens.</span></p>

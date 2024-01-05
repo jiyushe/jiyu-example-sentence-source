@@ -1,5 +1,7 @@
 # brook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brook.md)
+
 <p><span class="chinese">不要找任何借口拖延。</span><span class="english">Don’t brook any delays.</span></p>
 
 <p><span class="chinese">那田中有一条小溪穿过。</span><span class="english">A brook cuts that field.</span></p>

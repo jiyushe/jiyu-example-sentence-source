@@ -1,5 +1,7 @@
 # passage 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passage.md)
+
 <p><span class="chinese">此路禁止通行！</span><span class="english">No passage this way!</span></p>
 
 <p><span class="chinese">我个人认为这段文字写得太好了。</span><span class="english">It's a wonderful passage.</span></p>

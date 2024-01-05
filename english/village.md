@@ -1,5 +1,7 @@
 # village 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/village.md)
+
 <p><span class="chinese">他又跑到村口。</span><span class="english">He ran to the village.</span></p>
 
 <p><span class="chinese">我村是美丽的。</span><span class="english">My village is beautiful.</span></p>

@@ -1,5 +1,7 @@
 # extrapolate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrapolate.md)
+
 <p><span class="chinese">你可以把直线外推到室温。</span><span class="english">And then you can extrapolate to room temperature.</span></p>
 
 <p><span class="chinese">可以从团队进度中推断出哪些信息。</span><span class="english">What kind of information can you extrapolate from team velocity?</span></p>

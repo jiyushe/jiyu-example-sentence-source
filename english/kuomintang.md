@@ -1,5 +1,7 @@
 # kuomintang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kuomintang.md)
+
 <p><span class="chinese">你了解国民党和蒋介石吗？</span><span class="english">Do you know Kuomintang and Jiang Jieshi?</span></p>
 
 <p><span class="chinese">这是国民党营垒的破裂。</span><span class="english">It marked a split within the Kuomintang camp.</span></p>

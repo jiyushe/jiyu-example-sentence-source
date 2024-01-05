@@ -1,5 +1,7 @@
 # 浇注
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaozhu_1.md)
+
 <p><span class="chinese">建筑工人浇注了坚实的水泥地基。</span><span class="english">The builders poured a solid foundation of cement.</span></p>
 
 <p><span class="chinese">他把全部心血都浇注在事业上。</span><span class="english">He put his heart and soul into advancing the cause.</span></p>

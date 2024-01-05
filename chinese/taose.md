@@ -1,5 +1,7 @@
 # 套色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taose.md)
+
 <p><span class="chinese">从而保持眇小瓦楞纸不活的套色和盒型的安定性。</span><span class="english">Finy corrugated in order to maintain color and box type.</span></p>
 
 <p><span class="chinese">你喜欢这些套色木版画吗?。</span><span class="english">This is a picture printed in colours from wooden blocks.</span></p>

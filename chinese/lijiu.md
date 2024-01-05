@@ -1,5 +1,7 @@
 # 历久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijiu.md)
+
 <p><span class="chinese">爱能历久常新。</span><span class="english">Love can never grow old.</span></p>
 
 <p><span class="chinese">历久而不衰的绝妙好曲！</span><span class="english">Another good song from Sarah Chen.</span></p>

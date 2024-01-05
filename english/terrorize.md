@@ -1,5 +1,7 @@
 # terrorize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrorize.md)
+
 <p><span class="chinese">据卡“王已经不再袭击我们的城市。</span><span class="english">The Juka no longer terrorize our towns.</span></p>
 
 <p><span class="chinese">据说它的样子会吓到人类，这就使它更酷了。</span><span class="english">It is known to terrorize people, which makes it even more cool.</span></p>

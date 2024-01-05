@@ -1,5 +1,7 @@
 # routinization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/routinization.md)
+
 <p><span class="chinese">专业化和常规化已经减少了他们在工作上的创新局面。</span><span class="english">Specialization and routinization have reduced the creative aspects of their work.</span></p>
 
 <p><span class="chinese">在常规化的服务工作既有尖锐和荒谬的后果。</span><span class="english">The routinization of service work has both poignant and preposterous consequences.</span></p>

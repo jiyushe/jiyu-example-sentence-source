@@ -1,5 +1,7 @@
 # evermore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evermore.md)
+
 <p><span class="chinese">现在如此，直至永远。</span><span class="english">Now and for evermore.</span></p>
 
 <p><span class="chinese">耶和华是应当称颂的，直到永远。</span><span class="english">Blessed be the LORD for evermore.</span></p>

@@ -1,5 +1,7 @@
 # ectropion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ectropion.md)
+
 <p><span class="chinese">这种类型的眼睑外翻，往往影响上睑。</span><span class="english">This type of ectropion often affects the upper lid.</span></p>
 
 <p><span class="chinese">睑内翻和外翻是肯定的品种出现在。</span><span class="english">Entropion and ectropion is certainly seen in the breed.</span></p>

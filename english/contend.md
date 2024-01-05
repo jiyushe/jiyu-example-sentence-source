@@ -1,5 +1,7 @@
 # contend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contend.md)
+
 <p><span class="chinese">我认为我们都是无神论者。</span><span class="english">I contend that we are both atheists.</span></p>
 
 <p><span class="chinese">百家争鸣。</span><span class="english">A hundred schools of thought contend.</span></p>

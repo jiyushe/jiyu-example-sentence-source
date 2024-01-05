@@ -1,5 +1,7 @@
 # 正宗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzong.md)
+
 <p><span class="chinese">这是正宗枫糖。</span><span class="english">This is simon-pure maple sugar.</span></p>
 
 <p><span class="chinese">他卖的羊肉串是最正宗的。</span><span class="english">He sells the most authentic lamb kebabs.</span></p>

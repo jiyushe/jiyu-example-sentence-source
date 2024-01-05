@@ -1,5 +1,7 @@
 # 差价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chajia.md)
+
 <p><span class="chinese">在中国，通常没有这样的差价。</span><span class="english">In China, there usually is no such differential.</span></p>
 
 <p><span class="chinese">被我发现你宰客的话，我就回来找你补差价。</span><span class="english">If you rip me off, I'll come back and ask for a refund.</span></p>

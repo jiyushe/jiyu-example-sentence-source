@@ -1,5 +1,7 @@
 # whiz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiz.md)
+
 <p><span class="chinese">很难再让人啧啧称奇。</span><span class="english">It's hard to say "gee whiz" anymore.</span></p>
 
 <p><span class="chinese">好，一言为定。你说什么时候动身吧。</span><span class="english">All right—it's a whiz. When do you say?</span></p>

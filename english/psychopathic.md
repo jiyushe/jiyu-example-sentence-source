@@ -1,5 +1,7 @@
 # psychopathic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychopathic.md)
+
 <p><span class="chinese">高度自我中心的病态阴谋家。</span><span class="english">Ruthiessly self-centred psychopathic schemers.</span></p>
 
 <p><span class="chinese">高度自我中心的病态阴谋家。</span><span class="english">Ruthlessly self-centred psychopathic schemers.</span></p>

@@ -1,5 +1,7 @@
 # 辞去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciqu_1.md)
+
 <p><span class="chinese">辞去你的任务。</span><span class="english">Resigning your commission.</span></p>
 
 <p><span class="chinese">他辞去了一个报酬非厚的工作。</span><span class="english">He threw up a well-paid job.</span></p>

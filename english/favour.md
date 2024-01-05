@@ -1,5 +1,7 @@
 # favour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favour.md)
+
 <p><span class="chinese">我一向赞同这一做法。</span><span class="english">I was always in favour.</span></p>
 
 <p><span class="chinese">我们赞同你的提议。</span><span class="english">We favour your proposal.</span></p>

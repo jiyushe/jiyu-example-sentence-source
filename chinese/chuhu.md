@@ -1,5 +1,7 @@
 # 出乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuhu.md)
+
 <p><span class="chinese">出乎她的意料，特纳微笑起来。</span><span class="english">To her surprise, Turner smiled.</span></p>
 
 <p><span class="chinese">出乎我的意料，菲比发言了。</span><span class="english">Phoebe, to my surprise, spoke up.</span></p>

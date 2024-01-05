@@ -1,5 +1,7 @@
 # 先令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianling_1.md)
+
 <p><span class="chinese">一周三个先令！</span><span class="english">Three shillings a week!</span></p>
 
 <p><span class="chinese">我找您一先令三便士。</span><span class="english">And one shilling threepence change.</span></p>

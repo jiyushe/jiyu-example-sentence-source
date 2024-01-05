@@ -1,5 +1,7 @@
 # 迎娶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingqu_2.md)
+
 <p><span class="chinese">而我的兄长却迎娶了美丽的女人！</span><span class="english">My brother woos a fair woman!</span></p>
 
 <p><span class="chinese">早上的迎娶和晚上的囍宴都很适合。</span><span class="english">Best for morning and evening event.</span></p>

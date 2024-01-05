@@ -1,5 +1,7 @@
 # grunge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grunge.md)
+
 <p><span class="chinese">但是，也许垃圾摇滚还不算最致命的音乐。</span><span class="english">But grunge probably isn't the most deadly of genres.</span></p>
 
 <p><span class="chinese">我用了垃圾角刷包，以帮助我做到这一点。</span><span class="english">I used the Grunge Corner Brush Pack to help me accomplish that.</span></p>

@@ -1,5 +1,7 @@
 # usability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usability.md)
+
 <p><span class="chinese">可用性该如何定义？</span><span class="english">How to define usability?</span></p>
 
 <p><span class="chinese">但更大的问题是可用性。</span><span class="english">But the bigger problem is usability.</span></p>

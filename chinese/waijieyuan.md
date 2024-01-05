@@ -1,5 +1,7 @@
 # 外接圆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waijieyuan.md)
+
 <p><span class="chinese">那是一个正方形的外接圆。</span><span class="english">It is a circle that is circumscribed around a square.</span></p>
 
 <p><span class="chinese">以最小外接圆法评定了金刚石颗粒投影的圆度。</span><span class="english">The roundness of grit's projection was assessed by minimum circumcircle method.</span></p>

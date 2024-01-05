@@ -1,5 +1,7 @@
 # mogul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mogul.md)
+
 <p><span class="chinese">纳波布莫卧儿帝国统治下的印度总督。</span><span class="english">A governor in India under the Mogul Empire.</span></p>
 
 <p><span class="chinese">在这种情况下，乔布斯成了走出演播室系统的大亨。</span><span class="english">In this scenario, Jobs is a mogul straight out of the studio system.</span></p>

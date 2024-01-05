@@ -1,5 +1,7 @@
 # coca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coca.md)
+
 <p><span class="chinese">递给了杨大海一罐可口可乐。</span><span class="english">Hands Yang Dahai a Coca Cola cans.</span></p>
 
 <p><span class="chinese">可口可乐是铁锈的“天敌”。</span><span class="english">Coca Cola is an excellent rust buster.</span></p>

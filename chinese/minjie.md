@@ -1,5 +1,7 @@
 # 敏捷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minjie.md)
+
 <p><span class="chinese">他敏捷地躲过它。</span><span class="english">He dodges it adroitly.</span></p>
 
 <p><span class="chinese">那样如何能敏捷呢？</span><span class="english">How can that be agile?</span></p>

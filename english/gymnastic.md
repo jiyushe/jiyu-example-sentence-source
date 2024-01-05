@@ -1,5 +1,7 @@
 # gymnastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gymnastic.md)
+
 <p><span class="chinese">语法是一门很好的训练科目。</span><span class="english">Grammar is a good gymnastic.</span></p>
 
 <p><span class="chinese">我们盖住所有体操的预备考试和决赛。</span><span class="english">We cover all Gymnastic prelims and finals.</span></p>

@@ -1,5 +1,7 @@
 # shamefully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shamefully.md)
+
 <p><span class="chinese">她无耻地诽谤他。</span><span class="english">She belied him shamefully.</span></p>
 
 <p><span class="chinese">义人恨恶谎言．恶人有臭名、且致惭愧。</span><span class="english">A righteous man hates falsehood, But a wicked man acts disgustingly and shamefully.</span></p>

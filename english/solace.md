@@ -1,5 +1,7 @@
 # solace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solace.md)
+
 <p><span class="chinese">我找到了我信念的慰籍。</span><span class="english">I find my solace in faith.</span></p>
 
 <p><span class="chinese">我是索拉斯的统治者。</span><span class="english">I'm the High Theocrat of Solace.</span></p>

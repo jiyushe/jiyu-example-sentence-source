@@ -1,5 +1,7 @@
 # studded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/studded.md)
+
 <p><span class="chinese">易钉手提包从圣罗兰！</span><span class="english">Easy Studded Tote from YSL!</span></p>
 
 <p><span class="chinese">那是一把镶满宝石的梳子。</span><span class="english">That's a gem- studded comb.</span></p>

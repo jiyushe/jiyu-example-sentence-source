@@ -1,5 +1,7 @@
 # 工作证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzuozheng.md)
+
 <p><span class="chinese">你有拿到工作证吗？</span><span class="english">Did you get a work visa?</span></p>
 
 <p><span class="chinese">是的你要看看我的工作证吗？</span><span class="english">Yes. Do you need to see my card?</span></p>

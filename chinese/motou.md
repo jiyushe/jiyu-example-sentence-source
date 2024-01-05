@@ -1,5 +1,7 @@
 # 魔头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/motou.md)
+
 <p><span class="chinese">他说，木星是个救世主，但还是一个大魔头。</span><span class="english">Jupiter is just as much a menace as a savior, he said.</span></p>
 
 <p><span class="chinese">这一次他们刚回来的时候，看到一岁的乖宝宝变成了两岁的小魔头还真是有点不知所措。</span><span class="english">We all think it's gonna be hard for them to watch two babies at the same time.</span></p>

@@ -1,5 +1,7 @@
 # chug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chug.md)
+
 <p><span class="chinese">运动之后饮用蛋白奶昔。</span><span class="english">Chug a protein shake after workout.</span></p>
 
 <p><span class="chinese">小摩托艇轧轧地驶出海港。</span><span class="english">Small motorboats chug out of the harbor.</span></p>

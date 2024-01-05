@@ -1,5 +1,7 @@
 # 不定积分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budingjifen.md)
+
 <p><span class="chinese">不定积分是反导数。</span><span class="english">The indefinite integral is an antiderivative.</span></p>
 
 <p><span class="chinese">本文给出求不定积分的一种新方法。</span><span class="english">A new method is given which can solve the indefinite integral.</span></p>

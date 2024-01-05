@@ -1,5 +1,7 @@
 # 独子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duzi.md)
+
 <p><span class="chinese">我是独子.</span><span class="english">I'm an only child.</span></p>
 
 <p><span class="chinese">吉姆是他父母的独子。</span><span class="english">Jim was an only son of his parents.</span></p>

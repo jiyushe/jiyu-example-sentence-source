@@ -1,5 +1,7 @@
 # gangster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gangster.md)
+
 <p><span class="chinese">他只是一个不入流的流氓。</span><span class="english">He is just a gangster.</span></p>
 
 <p><span class="chinese">我很喜欢警匪片。</span><span class="english">I just love gangster movies.</span></p>

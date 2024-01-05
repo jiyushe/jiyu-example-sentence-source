@@ -1,5 +1,7 @@
 # venn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venn.md)
+
 <p><span class="chinese">这是一个文氏图。</span><span class="english">It’s a Venn diagram.</span></p>
 
 <p><span class="chinese">我要画一幅维恩图。</span><span class="english">I will draw a Venn diagram.</span></p>

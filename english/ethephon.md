@@ -1,5 +1,7 @@
 # ethephon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethephon.md)
+
 <p><span class="chinese">采后用乙烯利处理的果实呼吸速率增加明显。</span><span class="english">After harvest, the fruit treated with ethephon showed rapid increase in respiratory rate.</span></p>
 
 <p><span class="chinese">结果提示，乙烯利对小鼠的免疫功能具有一定的抑制作用。</span><span class="english">The results suggested that there were inhibitive effects of ethephon on immunity in mice.</span></p>

@@ -1,5 +1,7 @@
 # liberalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liberalist.md)
+
 <p><span class="chinese">密尔既是一个功利主义者，更是一个自由主义者。</span><span class="english">Mill is a utilitarian and he is also a liberalist.</span></p>
 
 <p><span class="chinese">我可能很接近于一个自由主义者和一个文化女性主义者。</span><span class="english">I may be close to a liberalist and a cultural feminist.</span></p>

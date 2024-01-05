@@ -1,5 +1,7 @@
 # 庄重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangzhong.md)
+
 <p><span class="chinese">与会者庄重地一致同意。</span><span class="english">The assembly assented gravely.</span></p>
 
 <p><span class="chinese">我们需要更庄重一些的。</span><span class="english">Need something a bit statelier.</span></p>

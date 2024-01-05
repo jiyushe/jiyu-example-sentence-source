@@ -1,5 +1,7 @@
 # knighthood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knighthood.md)
+
 <p><span class="chinese">国王授予这位士兵骑士爵位。</span><span class="english">The king ennobled the soldier with knighthood.</span></p>
 
 <p><span class="chinese">骑士精神的黄金时代乃是很久以前的事了。</span><span class="english">The golden age of knighthood was a long time ago.</span></p>

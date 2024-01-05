@@ -1,5 +1,7 @@
 # station 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/station_1.md)
+
 <p><span class="chinese">收费站?。</span><span class="english">Toll station?</span></p>
 
 <p><span class="chinese">站排去！</span><span class="english">Station platoon goes!</span></p>

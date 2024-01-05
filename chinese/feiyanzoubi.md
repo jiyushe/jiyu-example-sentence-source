@@ -1,5 +1,7 @@
 # 飞檐走壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiyanzoubi.md)
+
 <p><span class="chinese">小胡同里，一名球员追球的时候居然展现了一手“飞檐走壁”的绝活儿。</span><span class="english">In a back alley, a player runs up the side of a wall while chasing down a ball.</span></p>
 
 <p><span class="chinese">片中人物能飞檐走壁、以刀剑进行惊险对决。</span><span class="english">Characters leap over rooftops, walk up walls, and cross swords in breathtaking duels.</span></p>

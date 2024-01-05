@@ -1,5 +1,7 @@
 # defenceless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defenceless.md)
+
 <p><span class="chinese">匪徒袭击无防御的村庄。</span><span class="english">The bandits descended upon the defenceless village.</span></p>
 
 <p><span class="chinese">军队肆无忌惮地屠杀手无寸铁的民众。</span><span class="english">Troops indiscriminately massacred the defenceless population.</span></p>

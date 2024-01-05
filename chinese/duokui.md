@@ -1,5 +1,7 @@
 # 夺魁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duokui.md)
+
 <p><span class="chinese">索罗本人则曾在大赛中三度夺魁。</span><span class="english">Solo himself was a three-time winner of the race.</span></p>
 
 <p><span class="chinese">不管怎么说主队好象是志在夺魁。</span><span class="english">Anyway, the host team seems to fight for the gold.</span></p>

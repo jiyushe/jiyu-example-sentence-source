@@ -1,5 +1,7 @@
 # cataclysm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cataclysm.md)
+
 <p><span class="chinese">一场因水坝破裂所造成的大洪水。</span><span class="english">A cataclysm caused by the dam breaking.</span></p>
 
 <p><span class="chinese">没有任何激变曾使整个世界变成荒芜。</span><span class="english">No cataclysm has desolated the whole world.</span></p>

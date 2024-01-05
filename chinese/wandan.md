@@ -1,5 +1,7 @@
 # 完蛋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wandan.md)
+
 <p><span class="chinese">要是这条破船完蛋了。</span><span class="english">If the ship is unsound.</span></p>
 
 <p><span class="chinese">这下完蛋了！我把它忘在家里了。</span><span class="english">Shucks! I forgot it at home.</span></p>

@@ -1,5 +1,7 @@
 # confiscation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confiscation.md)
+
 <p><span class="chinese">因此，我们要求毫不手软地没收一切战争所得。</span><span class="english">We demand therefore the ruthless confiscation of all war profits.</span></p>
 
 <p><span class="chinese">框架决定对与犯罪有关的收入及财产予以没收。</span><span class="english">Framework Decision on the confiscation of crime-related proceeds and property.</span></p>

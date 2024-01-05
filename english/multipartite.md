@@ -1,5 +1,7 @@
 # multipartite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multipartite.md)
+
 <p><span class="chinese">他们几乎完全刻画了唯一3-列表可染完全多部图。</span><span class="english">They almost completely characterized the uniquely 3-list colorable complete multipartite graphs.</span></p>
 
 <p><span class="chinese">“诉调对接”机制最早是由实务部门提出，起源于南通的大调解机制。</span><span class="english">The system of "Docking litigation and conciliation" is named from The multipartite mediation of NanTong.</span></p>

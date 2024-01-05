@@ -1,5 +1,7 @@
 # oratorical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oratorical.md)
+
 <p><span class="chinese">船上可没有雄辩天才。</span><span class="english">There was no oratorical talent in the ship.</span></p>
 
 <p><span class="chinese">你愿意担任下周演讲比赛的评判员吗?</span><span class="english">Will you judge the oratorical contest next week?</span></p>

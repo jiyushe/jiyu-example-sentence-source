@@ -1,5 +1,7 @@
 # columned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/columned.md)
+
 <p><span class="chinese">神殿中巨大的多柱厅，有一部分是在他统治的时期建造的。</span><span class="english">The gigantic columned hall of that temple was partially built during his reign.</span></p>
 
 <p><span class="chinese">其主要功用是引燃位于红外增强吊舱药罐内的固体药柱。</span><span class="english">Its main function is igniting the solid charge columned in the charge pot in the infrared strengthen pod.</span></p>

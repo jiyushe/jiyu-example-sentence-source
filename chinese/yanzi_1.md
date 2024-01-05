@@ -1,5 +1,7 @@
 # 验资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzi_1.md)
+
 <p><span class="chinese">资产评估报告和验资报告。</span><span class="english">Asset appraisal report and capital verification report.</span></p>
 
 <p><span class="chinese">开办时的验资报告或者有关证明文件。</span><span class="english">Capital Verification Report at start-up or other relevant documentary evidence at its start-up.</span></p>

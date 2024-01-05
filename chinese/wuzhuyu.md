@@ -1,5 +1,7 @@
 # 吴茱萸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzhuyu.md)
+
 <p><span class="chinese">目的探讨吴茱萸碱抗肿瘤的作用机制。</span><span class="english">Objective To explore the mechanism of evodiamine in treating Carcinoma.</span></p>
 
 <p><span class="chinese">对近年来有关吴茱萸有效成分的药理研究进行概括。</span><span class="english">The effective components in Fructus Evodiae have lots of pharmacological effects.</span></p>

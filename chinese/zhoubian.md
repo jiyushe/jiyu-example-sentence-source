@@ -1,5 +1,7 @@
 # 周边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoubian.md)
+
 <p><span class="chinese">周边环境怎么样啊？</span><span class="english">How bout the surroundings?</span></p>
 
 <p><span class="chinese">周边以石膏线饰边。</span><span class="english">To plaster line edging around.</span></p>

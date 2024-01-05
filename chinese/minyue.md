@@ -1,5 +1,7 @@
 # 民乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minyue.md)
+
 <p><span class="chinese">我可以肯定的一点是民乐将会改变，但我希望它不会消失。</span><span class="english">I’m sure it will change. I hope it won’t disappear.</span></p>
 
 <p><span class="chinese">哈利。夏平是一位流行的民乐歌手和词曲作家。</span><span class="english">Harry Chapin was a popular folk singer and songwriter.</span></p>

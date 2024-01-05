@@ -1,5 +1,7 @@
 # 拉皮条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lapitiao.md)
+
 <p><span class="chinese">你算什么?拉皮条的?。</span><span class="english">What were you, her pimp?</span></p>
 
 <p><span class="chinese">我可没有给你拉皮条。</span><span class="english">And I am not pimping you out.</span></p>

@@ -1,5 +1,7 @@
 # syndicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syndicate.md)
+
 <p><span class="chinese">这家公司同东海岸的一个犯罪集团有联系。</span><span class="english">This company is associated with an east-coast organized syndicate.</span></p>
 
 <p><span class="chinese">两个企业在开发项目上形成了统一经营辛迪加模式。</span><span class="english">The two businesses joined in syndicate for the development project.</span></p>

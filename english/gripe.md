@@ -1,5 +1,7 @@
 # gripe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gripe.md)
+
 <p><span class="chinese">在论坛中我也发现了有很多人抱怨这个情况。</span><span class="english">This is a big gripe I’ve seen in forums.</span></p>
 
 <p><span class="chinese">美国就不会为中国航母来美国海岸感到烦忧。</span><span class="english">The US would never gripe about a Chinese carrier off its shore.</span></p>

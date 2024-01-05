@@ -1,5 +1,7 @@
 # salmon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salmon.md)
+
 <p><span class="chinese">特别是鲑鱼。</span><span class="english">Especially the salmon.</span></p>
 
 <p><span class="chinese">桂鱼是鱼的一种。</span><span class="english">Salmon is a kind of fish.</span></p>

@@ -1,5 +1,7 @@
 # 顾客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guke_1.md)
+
 <p><span class="chinese">顾客能做些什么呢？</span><span class="english">What can customers do?</span></p>
 
 <p><span class="chinese">我平均每天接送10位顾客。</span><span class="english">I do 10 on average a day.</span></p>

@@ -1,5 +1,7 @@
 # mazy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mazy.md)
+
 <p><span class="chinese">是穿过黑暗的迷宫般的深处。</span><span class="english">Through what mazy depth of gloom.</span></p>
 
 <p><span class="chinese">快乐的路迷宫般的路我们踏行。</span><span class="english">A merry road, a mazy road, and such as we did tread.</span></p>

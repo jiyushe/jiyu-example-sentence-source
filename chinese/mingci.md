@@ -1,5 +1,7 @@
 # 名次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingci.md)
+
 <p><span class="chinese">如再相等，则名次并列。</span><span class="english">If again equal, then the position juxtaposes.</span></p>
 
 <p><span class="chinese">他在班内名次退居第五。</span><span class="english">He has dropped back to the fifth in his class.</span></p>

@@ -1,5 +1,7 @@
 # baroque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baroque.md)
+
 <p><span class="chinese">是巴洛克式的还是浪漫主义的？</span><span class="english">Is it baroque or romantic?</span></p>
 
 <p><span class="chinese">要哥特黑，还是要巴洛克白？</span><span class="english">Gothic black or baroque white?</span></p>

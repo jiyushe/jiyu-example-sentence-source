@@ -1,5 +1,7 @@
 # 叮咬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingyao.md)
+
 <p><span class="chinese">虫子的叮咬痒痒了一整夜。</span><span class="english">The insect bite itched all night.</span></p>
 
 <p><span class="chinese">小虫叮咬马群。</span><span class="english">The insects bedevilled the horses.</span></p>

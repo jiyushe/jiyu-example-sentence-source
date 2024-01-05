@@ -1,5 +1,7 @@
 # cigarette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cigarette.md)
+
 <p><span class="chinese">一个香烟头。</span><span class="english">A cigarette end.</span></p>
 
 <p><span class="chinese">这支烟点着了。</span><span class="english">The cigarette was lit.</span></p>

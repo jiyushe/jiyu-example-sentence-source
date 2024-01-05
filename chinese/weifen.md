@@ -1,5 +1,7 @@
 # 微分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weifen.md)
+
 <p><span class="chinese">我们已经讲了微分。</span><span class="english">We have seen differentials.</span></p>
 
 <p><span class="chinese">为什么我们偏爱偏微分呢？</span><span class="english">Why do we like partial derivatives?</span></p>

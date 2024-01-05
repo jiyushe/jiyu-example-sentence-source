@@ -1,5 +1,7 @@
 # 生力军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenglijun.md)
+
 <p><span class="chinese">县政改革、乡村治理或能增加新的生力军？</span><span class="english">Could county level and rural reform possibly bring in fresh blood?</span></p>
 
 <p><span class="chinese">会党是资产阶级革命派革命的基础和生力军。</span><span class="english">The secret societies became the basis and main force of the revolution.</span></p>

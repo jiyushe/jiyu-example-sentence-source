@@ -1,5 +1,7 @@
 # 劫持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiechi.md)
+
 <p><span class="chinese">两个人劫持了那架飞机。</span><span class="english">Two men hijacked the airplane.</span></p>
 
 <p><span class="chinese">别开枪!他劫持了一名女孩子作人质。</span><span class="english">Don't fire!He hijacked a girl as a hostage.</span></p>

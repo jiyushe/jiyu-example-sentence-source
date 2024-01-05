@@ -1,5 +1,7 @@
 # balata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balata.md)
+
 <p><span class="chinese">大脑中心长橡胶瘤能医治吗?。</span><span class="english">Tumour of brain center long balata can cure?</span></p>
 
 <p><span class="chinese">少数本人或者妻子对橡胶过敏外的男性不能使用。</span><span class="english">Him minority or the wife cannot be used to the male outside balata allergy.</span></p>

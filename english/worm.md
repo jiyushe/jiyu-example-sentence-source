@@ -1,5 +1,7 @@
 # worm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worm.md)
+
 <p><span class="chinese">有虫吐出即愈。</span><span class="english">Worm spit Jiyu.</span></p>
 
 <p><span class="chinese">谁会得到虫子？</span><span class="english">Who gets the worm?</span></p>

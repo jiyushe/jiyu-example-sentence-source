@@ -1,5 +1,7 @@
 # cervical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cervical.md)
+
 <p><span class="chinese">宫颈狭窄。</span><span class="english">Cervical stenosis.</span></p>
 
 <p><span class="chinese">宫颈癌疫苗是否能长期有效？</span><span class="english">Does Cervical Cancer Vaccine Benefit Last?</span></p>

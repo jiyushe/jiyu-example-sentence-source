@@ -1,5 +1,7 @@
 # gilbert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gilbert.md)
+
 <p><span class="chinese">你应该按着吉伯特告诉你的那样去做。</span><span class="english">You ought do as Gilbert tells you.</span></p>
 
 <p><span class="chinese">她主要是想气气基尔伯特。</span><span class="english">Her main purpose was to annoy Gilbert.</span></p>

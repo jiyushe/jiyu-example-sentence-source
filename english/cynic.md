@@ -1,5 +1,7 @@
 # cynic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cynic.md)
+
 <p><span class="chinese">是的，我是既浪漫又愤世嫉俗的。</span><span class="english">Yes, I'm both a romantic and a cynic.</span></p>
 
 <p><span class="chinese">内心的愤世嫉俗可以加速你的学习。</span><span class="english">Your inner cynic can accelerate your learning</span></p>

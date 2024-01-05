@@ -1,5 +1,7 @@
 # scotch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scotch.md)
+
 <p><span class="chinese">请给我威士忌和水。</span><span class="english">Scotch and water, please.</span></p>
 
 <p><span class="chinese">我想要杯加冰块的苏格兰威士忌酒。</span><span class="english">I'd like a scotch on the rocks.</span></p>

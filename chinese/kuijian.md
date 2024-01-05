@@ -1,5 +1,7 @@
 # 窥见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuijian.md)
+
 <p><span class="chinese">当我窥见答案时，不由得气喘吁吁。</span><span class="english">I gasped when I saw the answer.</span></p>
 
 <p><span class="chinese">直到末日窥见我的城堡，将他们驱散。</span><span class="english">Till Doom espy my towers and scatter them.</span></p>

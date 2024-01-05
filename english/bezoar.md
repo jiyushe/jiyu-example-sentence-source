@@ -1,5 +1,7 @@
 # bezoar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bezoar.md)
+
 <p><span class="chinese">波特，如果我要你去给我找一块牛黄，你会到哪里去找？</span><span class="english">Potter, where would you look if I told you to find me a bezoar?</span></p>
 
 <p><span class="chinese">运用化学发光技术研究了培植牛黄的活性氧自由基。</span><span class="english">The active oxygen radicals of cultured bezoar have been studied by chemiluminescence.</span></p>

@@ -1,5 +1,7 @@
 # 决斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juedou.md)
+
 <p><span class="chinese">我挑战你来一场决斗。</span><span class="english">I challenge you to a duel.</span></p>
 
 <p><span class="chinese">一场决斗是不可避免的。</span><span class="english">One meeting was unavoidable.</span></p>

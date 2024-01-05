@@ -1,5 +1,7 @@
 # listless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/listless.md)
+
 <p><span class="chinese">现在蔫了的身体恢复。</span><span class="english">A listless body now revived.</span></p>
 
 <p><span class="chinese">摘下的幸运草还是要蔫掉。</span><span class="english">The lucky grass will be listless anyhow.</span></p>

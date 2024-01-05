@@ -1,5 +1,7 @@
 # 搅拌机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaobanji.md)
+
 <p><span class="chinese">用搅拌机打成黄瓜泥。</span><span class="english">Puree cucumber in a blender.</span></p>
 
 <p><span class="chinese">潜水搅拌机，曝气器等。</span><span class="english">And submersible mixer, aerator etc.</span></p>

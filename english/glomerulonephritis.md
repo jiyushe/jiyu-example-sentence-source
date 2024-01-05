@@ -1,5 +1,7 @@
 # glomerulonephritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glomerulonephritis.md)
+
 <p><span class="chinese">所以本病例水痘-带状疱疹病毒相关肾炎及脑炎诊断成立。</span><span class="english">So, the diagnosis of VZV-related glomerulonephritis and encephalitis was established.</span></p>
 
 <p><span class="chinese">小儿乙肝病毒相关性肾炎肾组织中乙型肝炎病毒DNA的存在状态。</span><span class="english">Detection of hepatitis B virus DNA and RNA in kidney of HBV-related glomerulonephritis.</span></p>

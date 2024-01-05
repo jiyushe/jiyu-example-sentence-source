@@ -1,5 +1,7 @@
 # extrema
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrema.md)
+
 <p><span class="chinese">经济学家经常碰到的是求整体极值。</span><span class="english">Economists are usually interested in global extrema.</span></p>
 
 <p><span class="chinese">我们将不断地得出关于整体极值的某些有用的结果。</span><span class="english">We shall subsequently obtain some interesting results on global extrema.</span></p>

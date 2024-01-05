@@ -1,5 +1,7 @@
 # jess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jess.md)
+
 <p><span class="chinese">我很放松。你什么意思啊？</span><span class="english">I do, Jess. What do you mean?</span></p>
 
 <p><span class="chinese">“早间秀节目”，杰斯·卡杰尔，于纽约。</span><span class="english">For the Early Show, Jess Cagle in New York.</span></p>

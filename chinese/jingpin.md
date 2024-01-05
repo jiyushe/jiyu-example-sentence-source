@@ -1,5 +1,7 @@
 # 精品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingpin.md)
+
 <p><span class="chinese">那只戒子无疑是精品。</span><span class="english">That ring is certainly the cheese.</span></p>
 
 <p><span class="chinese">我想要中国的精品。</span><span class="english">I'd like to buy sone Chinese handicrafts.</span></p>

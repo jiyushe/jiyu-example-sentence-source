@@ -1,5 +1,7 @@
 # suspenseful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suspenseful.md)
+
 <p><span class="chinese">一阵令人焦虑的沉默。</span><span class="english">There was a suspenseful silence.</span></p>
 
 <p><span class="chinese">这是一个关于爱情、失落与迷恋的故事，充满情调与悬疑色彩。</span><span class="english">Lily is an atmospheric and suspenseful tale of love, loss and obsession.</span></p>

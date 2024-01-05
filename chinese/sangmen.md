@@ -1,5 +1,7 @@
 # 嗓门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangmen.md)
+
 <p><span class="chinese">孩子们拉开嗓门使劲唱。</span><span class="english">The children sang out lustily.</span></p>
 
 <p><span class="chinese">他的粗嗓门儿使我们感到刺耳。</span><span class="english">His harsh voice grates on our ears.</span></p>

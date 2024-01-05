@@ -1,5 +1,7 @@
 # hayashi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hayashi.md)
+
 <p><span class="chinese">林先生说，周围的人群中没有恐慌感。</span><span class="english">There was no sense of panic, Mr. Hayashi said.</span></p>
 
 <p><span class="chinese">不过，林先生没有关于家人下落的消息。</span><span class="english">Still, Mr. Hayashi had no word of his family's whereabouts.</span></p>

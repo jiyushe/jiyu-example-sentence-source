@@ -1,5 +1,7 @@
 # enormously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enormously.md)
+
 <p><span class="chinese">这是一个尽头感人的故事。</span><span class="english">Itas an enormously touching story.</span></p>
 
 <p><span class="chinese">这就相当简化了。</span><span class="english">It simplifies your life enormously.</span></p>

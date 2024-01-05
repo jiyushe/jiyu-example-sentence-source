@@ -1,5 +1,7 @@
 # piggery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piggery.md)
+
 <p><span class="chinese">猪圈里有几头猪。</span><span class="english">There are several swine in the piggery.</span></p>
 
 <p><span class="chinese">以前他曾在养猪专场工作过12个月。</span><span class="english">He had been working in a piggery for 12 months.</span></p>

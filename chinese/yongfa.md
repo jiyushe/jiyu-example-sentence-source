@@ -1,5 +1,7 @@
 # 用法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongfa.md)
+
 <p><span class="chinese">对我来说，这可是一个全新的用法。</span><span class="english">This was a new one on me.</span></p>
 
 <p><span class="chinese">十分口语的用法，指喝啤酒去！</span><span class="english">A very slangy word for beer.</span></p>

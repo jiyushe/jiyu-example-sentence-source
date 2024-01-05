@@ -1,5 +1,7 @@
 # 乳白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rubai.md)
+
 <p><span class="chinese">肉色为乳白、蛋黄、桔红、碧绿。</span><span class="english">Color to white, yellow, orange, green.</span></p>
 
 <p><span class="chinese">体腔液为乳白液体。</span><span class="english">The coelomic fluid is a milky white liquid.</span></p>

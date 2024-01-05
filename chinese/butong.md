@@ -1,5 +1,7 @@
 # 不通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/butong.md)
+
 <p><span class="chinese">该运河阻塞不通。</span><span class="english">The canal is blocked.</span></p>
 
 <p><span class="chinese">这钱币不通用。</span><span class="english">This coin will not pass.</span></p>

@@ -1,5 +1,7 @@
 # 正体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengti_2.md)
+
 <p><span class="chinese">所学是正体字或简体字？</span><span class="english">Did you study standard or simplified Characters?</span></p>
 
 <p><span class="chinese">增加正体中文有声图画书。</span><span class="english">Add illustrated audio book with traditional Chinese text.</span></p>

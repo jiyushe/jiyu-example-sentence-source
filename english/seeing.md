@@ -1,5 +1,7 @@
 # seeing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seeing.md)
+
 <p><span class="chinese">看什么?</span><span class="english">"Seeing what"?</span></p>
 
 <p><span class="chinese">它绝对值得一看。</span><span class="english">It’s worth seeing.</span></p>

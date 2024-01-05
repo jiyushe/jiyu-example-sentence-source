@@ -1,5 +1,7 @@
 # 坐标系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuobiaoxi.md)
+
 <p><span class="chinese">再画一个坐标系。</span><span class="english">Here are the axes again.</span></p>
 
 <p><span class="chinese">张量代数则离不开坐标系。</span><span class="english">Tensor algebra is tied to coordinates.</span></p>

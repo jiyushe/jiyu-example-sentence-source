@@ -1,5 +1,7 @@
 # thermal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermal.md)
+
 <p><span class="chinese">抗热冲击，不含石棉。</span><span class="english">Thermal shock, non-asbestos.</span></p>
 
 <p><span class="chinese">热传导真空计。</span><span class="english">Thermal Conductivity Vacuum Gauge.</span></p>

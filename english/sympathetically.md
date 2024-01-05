@@ -1,5 +1,7 @@
 # sympathetically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sympathetically.md)
+
 <p><span class="chinese">医生同情地注视着病人。</span><span class="english">The doctor watched the patient sympathetically.</span></p>
 
 <p><span class="chinese">他同情地看着小女孩，给了她10元钱。</span><span class="english">He looked at the little girl sympathetically and gave her 10 yuan.</span></p>

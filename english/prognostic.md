@@ -1,5 +1,7 @@
 # prognostic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prognostic.md)
+
 <p><span class="chinese">IPI是有价值的预后因素。</span><span class="english">IPI was a valuable prognostic factor.</span></p>
 
 <p><span class="chinese">STAT5是独立的预后因子。</span><span class="english">STAT5 is an independent prognostic factor.</span></p>

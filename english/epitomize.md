@@ -1,5 +1,7 @@
 # epitomize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epitomize.md)
+
 <p><span class="chinese">松果杖代表着塔罗牌“月亮”。</span><span class="english">Thyrsus epitomize the tarot card of The Moon.</span></p>
 
 <p><span class="chinese">概括本文的大意和描写方法。</span><span class="english">Epitomize the general idea , the depict way of the text.</span></p>

@@ -1,5 +1,7 @@
 # denaturalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denaturalization.md)
+
 <p><span class="chinese">病理检查见减轻了肝细胞的组织变性。</span><span class="english">Pathological examination alleviates the organic denaturalization of the liver cell.</span></p>
 
 <p><span class="chinese">结果随着变性温度的降低和退火温度的升高，PCR扩增效率降低，产物量明显减少。</span><span class="english">Change the temperatures for denaturalization and annealing and observe their effect on PCR result.</span></p>

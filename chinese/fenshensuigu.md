@@ -1,5 +1,7 @@
 # 粉身碎骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshensuigu.md)
+
 <p><span class="chinese">一颗手榴弹把他们炸得粉身碎骨。</span><span class="english">A grenade blew them both to bits.</span></p>
 
 <p><span class="chinese">我被炸得粉身碎骨。</span><span class="english">The atomizer comes along,blows me up.</span></p>

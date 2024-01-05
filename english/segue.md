@@ -1,5 +1,7 @@
 # segue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/segue.md)
+
 <p><span class="chinese">那对下一点来说就是个很好的继续。</span><span class="english">Which is a good segue to the next point.</span></p>
 
 <p><span class="chinese">而且，这也是通胀与通缩辩论的继续。</span><span class="english">And that's as good a segue as any to the inflation-vs.-deflation debate.</span></p>

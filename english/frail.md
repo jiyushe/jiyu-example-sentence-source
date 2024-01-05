@@ -1,5 +1,7 @@
 # frail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frail.md)
+
 <p><span class="chinese">它变成了一棵虚弱的小树苗。</span><span class="english">It becomes a weak, frail sapling.</span></p>
 
 <p><span class="chinese">它们开花，然后花凋残、落地。</span><span class="english">They flower, then fall flowers frail.</span></p>

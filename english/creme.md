@@ -1,5 +1,7 @@
 # creme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creme.md)
+
 <p><span class="chinese">乔伊斯奶油焦糖，还有咖啡，热咖啡。</span><span class="english">JOYCE Creme caramel . And coffee. Hot coffee.</span></p>
 
 <p><span class="chinese">然后，按照与驻颜晚霜。</span><span class="english">Then, follow with Capture Totale Night Crème.</span></p>

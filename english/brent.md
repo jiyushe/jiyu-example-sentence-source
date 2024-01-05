@@ -1,5 +1,7 @@
 # brent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brent.md)
+
 <p><span class="chinese">布伦特·赛德勒报道。</span><span class="english">As Brent Sadler reports.</span></p>
 
 <p><span class="chinese">所以，近期内，布伦特原油价格会进一步下跌。</span><span class="english">So Brent should fall further in the near term.</span></p>

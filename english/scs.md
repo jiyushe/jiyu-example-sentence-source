@@ -1,5 +1,7 @@
 # scs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scs.md)
+
 <p><span class="chinese">从总的收支看．南海地区是一个水汽汇区。</span><span class="english">The SCS is a moisture sink area.</span></p>
 
 <p><span class="chinese">机组LCU是监控系统中的基础和核心部分。</span><span class="english">Turbine LCU is the base of core of SCS.</span></p>

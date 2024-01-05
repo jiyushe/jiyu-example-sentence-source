@@ -1,5 +1,7 @@
 # devotion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devotion.md)
+
 <p><span class="chinese">无私奉献。</span><span class="english">Selfless devotion.</span></p>
 
 <p><span class="chinese">正义即一个人的忠诚。</span><span class="english">Justice is devotion to one's own.</span></p>

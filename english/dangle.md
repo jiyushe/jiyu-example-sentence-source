@@ -1,5 +1,7 @@
 # dangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dangle.md)
+
 <p><span class="chinese">我不想吊在一棵枝形吊灯上。</span><span class="english">I don't want to dangle from a chandelier.</span></p>
 
 <p><span class="chinese">两颗雨点坠饰镶有透明密镶水晶。</span><span class="english">Two rain drops dangle in clear crystal pavé.</span></p>

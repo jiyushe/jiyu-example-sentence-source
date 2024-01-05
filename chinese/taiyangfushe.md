@@ -1,5 +1,7 @@
 # 太阳辐射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyangfushe.md)
+
 <p><span class="chinese">冰层同时也能够反射太阳辐射。</span><span class="english">The ice also reflects solar radiation.</span></p>
 
 <p><span class="chinese">云层里小水滴越多，反射回去的太阳辐射也就越多，光照也就减少了。</span><span class="english">More droplets mean more reflection and less sunshine down below.</span></p>

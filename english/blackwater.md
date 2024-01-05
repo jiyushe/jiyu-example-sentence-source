@@ -1,5 +1,7 @@
 # blackwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackwater.md)
+
 <p><span class="chinese">黑水公司称这些指控“带有攻击性”。</span><span class="english">Blackwater has called the assertions “offensive”.</span></p>
 
 <p><span class="chinese">我现在是黑水河的波隆爵士了，小恶魔。这可是过目不望。</span><span class="english">I am Ser Broon of the Blackwater now, Imp. see you don't forget it.</span></p>

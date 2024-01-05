@@ -1,5 +1,7 @@
 # horrific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horrific.md)
+
 <p><span class="chinese">黛博拉的惨死是个极端的悲剧。</span><span class="english">Deborah's horrific death was a rare tragedy.</span></p>
 
 <p><span class="chinese">那部影片中出现了极其可怕的凶杀场面。</span><span class="english">The film showed the most horrific murder scenes.</span></p>

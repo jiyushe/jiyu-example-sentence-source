@@ -1,5 +1,7 @@
 # chemise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemise.md)
+
 <p><span class="chinese">国外需求很旺盛，按所提供价格出价，勿失良机。</span><span class="english">Overseas demand brisk lose no chemise make bid at suggest level.</span></p>
 
 <p><span class="chinese">她也只穿一件衬衫和一条针织的裙，裙上补了好几块旧呢布。</span><span class="english">She, too, was clad only in a chemise and a knitted petticoat patched with bits of old cloth.</span></p>

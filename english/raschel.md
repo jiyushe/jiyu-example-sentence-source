@@ -1,5 +1,7 @@
 # raschel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raschel.md)
+
 <p><span class="chinese">叙述了阳离子可染涤纶拉舍尔毛毯产品的研制过程。</span><span class="english">The development process of cationic-dyeable polyester raschel carpet was recounted.</span></p>
 
 <p><span class="chinese">玻纤复丝在舌针经编机上加工时的其它一些问题。</span><span class="english">Other problems arisen in knitting glass filament on Raschel latch-needle warp knitting machine.</span></p>

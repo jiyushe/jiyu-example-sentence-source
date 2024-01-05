@@ -1,5 +1,7 @@
 # accompany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accompany.md)
+
 <p><span class="chinese">我陪你回家。</span><span class="english">I'll accompany you home.</span></p>
 
 <p><span class="chinese">愿我伴你细水长流。</span><span class="english">May I accompany you long.</span></p>

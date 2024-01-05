@@ -1,5 +1,7 @@
 # 热水袋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reshuidai.md)
+
 <p><span class="chinese">方法三，热水袋可温暖身体。</span><span class="english">Method 3 Reshuidai can warm the body.</span></p>
 
 <p><span class="chinese">用个热水袋你就会觉得暖和些了。</span><span class="english">A hot water bottle will make you feel cosier.</span></p>

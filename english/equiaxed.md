@@ -1,5 +1,7 @@
 # equiaxed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equiaxed.md)
+
 <p><span class="chinese">颗粒的加入细化了复合盐芯等轴晶区晶粒。</span><span class="english">Ceramic reinforcements could refine equiaxed zone grains of salt cores.</span></p>
 
 <p><span class="chinese">显微结构由细小柱晶和等轴晶构成。</span><span class="english">The microstructure consists of fine-scale columnar and equiaxed grains.</span></p>

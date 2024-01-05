@@ -1,5 +1,7 @@
 # 走散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zousan.md)
+
 <p><span class="chinese">那个孩子走散后迷路了。</span><span class="english">The child wandered off and got lost.</span></p>
 
 <p><span class="chinese">遭受炮击时我们走散了，什么时候我才能再见到他们啊？</span><span class="english">During the shelling we got separated.</span></p>

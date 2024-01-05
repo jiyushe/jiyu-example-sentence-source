@@ -1,5 +1,7 @@
 # 包涵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baohan_1.md)
+
 <p><span class="chinese">难免紧张出错，多多包涵与指教。</span><span class="english">Some tension, and got bit wrong.</span></p>
 
 <p><span class="chinese">请包涵这顿不像样的饭菜。</span><span class="english">Please excuse this _ apology for a meal.</span></p>

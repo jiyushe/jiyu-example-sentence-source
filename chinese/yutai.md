@@ -1,5 +1,7 @@
 # 语态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yutai.md)
+
 <p><span class="chinese">这是命令的假设语态。</span><span class="english">This is a jussive subjunctive.</span></p>
 
 <p><span class="chinese">更高层次的成分是语态</span><span class="english">Morphology is the next level up.</span></p>

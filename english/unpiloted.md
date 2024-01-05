@@ -1,5 +1,7 @@
 # unpiloted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpiloted.md)
+
 <p><span class="chinese">从前军事上最使用的一种小型的，无人驾驶的“无人飞机”。</span><span class="english">It used to be mostly the military that used small, unpiloted aircraft, called "drones."</span></p>
 
 <p><span class="chinese">目前还没有人到过比月球更远的地方，不过，无人驾驶的探测船已经超越此限了。</span><span class="english">No human being has yet gone farther than the Moon, but unpiloted probes have gone much farther.</span></p>

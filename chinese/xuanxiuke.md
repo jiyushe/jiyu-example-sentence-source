@@ -1,5 +1,7 @@
 # 选修课
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanxiuke.md)
+
 <p><span class="chinese">选修课学程为四到六周时间。</span><span class="english">These last from four to six weeks.</span></p>
 
 <p><span class="chinese">每学期至少要报一门选修课</span><span class="english">Take at least one extra class each semester.</span></p>

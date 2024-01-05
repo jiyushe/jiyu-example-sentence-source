@@ -1,5 +1,7 @@
 # yeast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yeast.md)
+
 <p><span class="chinese">酵母使啤酒发酵。</span><span class="english">Yeast makes beer work.</span></p>
 
 <p><span class="chinese">混合干酵母与水。</span><span class="english">Mix Dry Yeast with the water.</span></p>

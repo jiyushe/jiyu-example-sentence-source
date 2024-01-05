@@ -1,5 +1,7 @@
 # 雷管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiguan.md)
+
 <p><span class="chinese">棍状TNT炸药被用作雷管。</span><span class="english">TNT sticks are used as detonators.</span></p>
 
 <p><span class="chinese">警方后来找到了这根遥控雷管。</span><span class="english">The police later found the detonator.</span></p>

@@ -1,5 +1,7 @@
 # seventeen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seventeen.md)
+
 <p><span class="chinese">迈克·阿佩尔十七岁。</span><span class="english">Mike Appel was seventeen.</span></p>
 
 <p><span class="chinese">另一个人是路易吉，十七岁。</span><span class="english">Another, Luigi, was seventeen.</span></p>

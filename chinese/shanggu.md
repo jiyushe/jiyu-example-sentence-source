@@ -1,5 +1,7 @@
 # 上古
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanggu.md)
+
 <p><span class="chinese">它的起源可以追溯上古时代。</span><span class="english">Its origins can be traced back in ancient times.</span></p>
 
 <p><span class="chinese">镇上古宅庭院深深，小桥流水悠悠。</span><span class="english">Ancient town house yard deep, small bridges yoyo.</span></p>

@@ -1,5 +1,7 @@
 # corruption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corruption.md)
+
 <p><span class="chinese">腐败也十分流行。</span><span class="english">Corruption also runs rife.</span></p>
 
 <p><span class="chinese">他被控犯有贪污罪。</span><span class="english">He was accused of corruption.</span></p>

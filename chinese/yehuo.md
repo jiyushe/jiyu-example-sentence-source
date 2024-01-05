@@ -1,5 +1,7 @@
 # 野火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yehuo.md)
+
 <p><span class="chinese">野火在暮色中烧。</span><span class="english">Wild-fire burns at dusk.</span></p>
 
 <p><span class="chinese">这件新闻像野火一样地传开了。</span><span class="english">The news ran like wild fire.</span></p>

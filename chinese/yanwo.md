@@ -1,5 +1,7 @@
 # 眼窝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanwo.md)
+
 <p><span class="chinese">眼球及眼睑周国摸得到骨头的两个凹洞，便是眼窝。</span><span class="english">Zhou eye and eyelid bone loss by the two Aodong is orbital.</span></p>
 
 <p><span class="chinese">使用从库存上眼窝，蓝圆晶体。</span><span class="english">Use the BLUE ROUND CRYSTAL from inventory on the eye socket.</span></p>

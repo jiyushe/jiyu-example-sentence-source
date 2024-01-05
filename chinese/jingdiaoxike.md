@@ -1,5 +1,7 @@
 # 精雕细刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdiaoxike.md)
+
 <p><span class="chinese">那么关键还是靠精雕细刻。</span><span class="english">The key still lies in fine craftsmanship.</span></p>
 
 <p><span class="chinese">这篇论文是精雕细刻的工作。</span><span class="english">This essay is a most conscientious piece of work.</span></p>

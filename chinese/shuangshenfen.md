@@ -1,5 +1,7 @@
 # 爽身粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangshenfen.md)
+
 <p><span class="chinese">她给她的小宝宝撒了一些爽身粉。</span><span class="english">She sprinkled powder on her baby.</span></p>
 
 <p><span class="chinese">她给洗过澡的婴儿抹爽身粉。</span><span class="english">She powdered the baby after its bath.</span></p>

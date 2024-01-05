@@ -1,5 +1,7 @@
 # kowloon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kowloon.md)
+
 <p><span class="chinese">甚麽是西九?。</span><span class="english">What is West Kowloon?</span></p>
 
 <p><span class="chinese">九龙城怡德花园。</span><span class="english">Yue Tak Garden, Kowloon City.</span></p>

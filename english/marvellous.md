@@ -1,5 +1,7 @@
 # marvellous 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marvellous.md)
+
 <p><span class="chinese">“那是一个了不起的城市，”埃米尔说。</span><span class="english">“It is a marvellous city, ” Emil said.</span></p>
 
 <p><span class="chinese">见到你可太好啦！＇她兴奋地说。</span><span class="english">It's so marvellous to see you! ' she twittered.</span></p>

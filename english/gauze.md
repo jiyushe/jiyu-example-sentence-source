@@ -1,5 +1,7 @@
 # gauze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gauze.md)
+
 <p><span class="chinese">医生用纱布包扎伤口。</span><span class="english">The doctor bound the wound with gauze.</span></p>
 
 <p><span class="chinese">床架上轻薄的纱帐。</span><span class="english">The frivolous gauze account on bedstead.</span></p>

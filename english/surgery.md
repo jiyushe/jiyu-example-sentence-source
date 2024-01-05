@@ -1,5 +1,7 @@
 # surgery 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surgery.md)
+
 <p><span class="chinese">你需要动手术。</span><span class="english">You need surgery.</span></p>
 
 <p><span class="chinese">他动了一次雷射手术。</span><span class="english">He had a laser surgery.</span></p>

@@ -1,5 +1,7 @@
 # class
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/class.md)
+
 <p><span class="chinese">好棒的一课。</span><span class="english">Great class.</span></p>
 
 <p><span class="chinese">夜间班。</span><span class="english">At night class.</span></p>

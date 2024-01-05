@@ -1,5 +1,7 @@
 # cdd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cdd.md)
+
 <p><span class="chinese">CDD使社区拥有发言权并发挥其影响力。</span><span class="english">CDD gives communities voice and influence.</span></p>
 
 <p><span class="chinese">可分为慢性持续型和慢性复发型。</span><span class="english">CDD is classified into chronic persistency and chronic relapse.</span></p>

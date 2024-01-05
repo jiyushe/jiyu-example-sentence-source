@@ -1,5 +1,7 @@
 # structurally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/structurally.md)
+
 <p><span class="chinese">数据在结构上是否一致？</span><span class="english">Is the data structurally consistent?</span></p>
 
 <p><span class="chinese">句子结构非常完整"</span><span class="english">The whole thing's structurally fine."</span></p>

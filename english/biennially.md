@@ -1,5 +1,7 @@
 # biennially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biennially.md)
+
 <p><span class="chinese">今后将每两年举办一次。</span><span class="english">The Festival will be held biennially in the future.</span></p>
 
 <p><span class="chinese">明导凡是每两年公布CHS工具集的新版本。</span><span class="english">Bright the new version that guides normally biennially releases CHS tool market.</span></p>

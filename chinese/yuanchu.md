@@ -1,5 +1,7 @@
 # 原初
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanchu.md)
+
 <p><span class="chinese">那畅行无阻的充满原初活力的天性。</span><span class="english">Nature without check with original energy.</span></p>
 
 <p><span class="chinese">精神官能症就是起源于那个原初情感情境。</span><span class="english">The neurosis arose from the original affective situations.</span></p>

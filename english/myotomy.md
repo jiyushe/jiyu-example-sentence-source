@@ -1,5 +1,7 @@
 # myotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myotomy.md)
+
 <p><span class="chinese">我还以为是几年前腹腔镜切开术。</span><span class="english">I had a laparoscopic myotomy a few years ago.</span></p>
 
 <p><span class="chinese">在切开术帮助与吞咽问题，这很不错。</span><span class="english">The myotomy helped with the swallowing problems which was great.</span></p>

@@ -1,5 +1,7 @@
 # 双喜临门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangxilinmen.md)
+
 <p><span class="chinese">双喜临门大歌荡漾。</span><span class="english">Double Happiness great Google waves.</span></p>
 
 <p><span class="chinese">对51岁的尔森来说，这是一件双喜临门的事。</span><span class="english">For Erson, 51, it's a double blessing.</span></p>

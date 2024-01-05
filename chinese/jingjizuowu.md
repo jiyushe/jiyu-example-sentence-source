@@ -1,5 +1,7 @@
 # 经济作物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjizuowu.md)
+
 <p><span class="chinese">农民妇女怎样才能从种植经济作物中获得收益？</span><span class="english">How can women farmers benefit from planting cash crops?</span></p>
 
 <p><span class="chinese">和它的同类经济作物一样，这种烟草生长迅速、价格便宜。</span><span class="english">Like its cash-crop cousin, it’s fast-growing and cheap.</span></p>

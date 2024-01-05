@@ -1,5 +1,7 @@
 # 不拘小节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujuxiaojie.md)
+
 <p><span class="chinese">是的，我们很不拘小节的。</span><span class="english">Yes, we're very informal.</span></p>
 
 <p><span class="chinese">要学一点男人的不拘小节。</span><span class="english">Men need to learn that the informal section.</span></p>

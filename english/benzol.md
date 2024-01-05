@@ -1,5 +1,7 @@
 # benzol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benzol.md)
+
 <p><span class="chinese">介绍了焦化粗苯加氢精制的工艺方法及主要反应。</span><span class="english">The process and main reactions for coking crude benzol refining was introduced.</span></p>
 
 <p><span class="chinese">分析了目前武钢粗苯回收工艺存在的问题。</span><span class="english">The present problems existed in crude benzol recovery process of WISCO is analyzed.</span></p>

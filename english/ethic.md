@@ -1,5 +1,7 @@
 # ethic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethic.md)
+
 <p><span class="chinese">“自己做事”的工作理念是否真的能帮到你？</span><span class="english">Is Your Do-It-Yourself Work Ethic Really Helping You?</span></p>
 
 <p><span class="chinese">而最重要的是，她已树立起自己的职业道德。</span><span class="english">Most importantly, however, her work ethic is grown-up.</span></p>

@@ -1,5 +1,7 @@
 # undistributed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undistributed.md)
+
 <p><span class="chinese">未分配盈余将被忽略。</span><span class="english">Undistributed earnings are ignored.</span></p>
 
 <p><span class="chinese">剩余的未分配利润结转到下一年度。</span><span class="english">Remaining undistributed profit carried forward to next year.</span></p>

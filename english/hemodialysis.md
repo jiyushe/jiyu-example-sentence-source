@@ -1,5 +1,7 @@
 # hemodialysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemodialysis.md)
+
 <p><span class="chinese">血液透析机的市场竞争十分激烈。</span><span class="english">The market competing of hemodialysis machine is fierce.</span></p>
 
 <p><span class="chinese">用标准的血液透析装置对血浆进行过滤。</span><span class="english">The plasma is filtered using standard hemodialysis equipment.</span></p>

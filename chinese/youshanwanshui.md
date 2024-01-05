@@ -1,5 +1,7 @@
 # 游山玩水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshanwanshui.md)
+
 <p><span class="chinese">朝圣的目的是超越一般的游山玩水。</span><span class="english">The goal of pilgrimages is beyond sightseeing.</span></p>
 
 <p><span class="chinese">游山玩水的确是保持健康的好主意。</span><span class="english">Visiting places is really a good idea to keep fit.</span></p>

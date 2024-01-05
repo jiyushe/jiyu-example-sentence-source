@@ -1,5 +1,7 @@
 # 胶皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaopi.md)
+
 <p><span class="chinese">牛马不杀，胶皮何取？</span><span class="english">Horses don't kill, rubber and where taken?</span></p>
 
 <p><span class="chinese">那会很无聊，只是在浪费‘胶皮’。</span><span class="english">It would be boring and a waste of cellulite.</span></p>

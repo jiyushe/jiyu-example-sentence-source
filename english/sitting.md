@@ -1,5 +1,7 @@
 # sitting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sitting.md)
+
 <p><span class="chinese">母鸡抱窝了。</span><span class="english">The hen is sitting.</span></p>
 
 <p><span class="chinese">我问道，坐了下来。</span><span class="english">I ask, sitting down.</span></p>

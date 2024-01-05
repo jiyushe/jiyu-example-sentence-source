@@ -1,5 +1,7 @@
 # 不足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzu.md)
+
 <p><span class="chinese">他们的不足又在何处？</span><span class="english">Where do they fall short?</span></p>
 
 <p><span class="chinese">如果摄入不足，需要补充。</span><span class="english">If not, take a supplement.</span></p>

@@ -1,5 +1,7 @@
 # 申诉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shensu.md)
+
 <p><span class="chinese">不存在其他的可供申诉的法庭了。</span><span class="english">There is no other court of appeal.</span></p>
 
 <p><span class="chinese">随后英国报业申诉委员会和苏格兰场均对此做出了批评。</span><span class="english">PCC and Scotland Yard also criticised.</span></p>

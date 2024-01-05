@@ -1,5 +1,7 @@
 # helmsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helmsman.md)
+
 <p><span class="chinese">引航员和舵工下船了。</span><span class="english">Pilot and helmsman left ship.</span></p>
 
 <p><span class="chinese">那舵手把我们的船掉过头来。</span><span class="english">The helmsman brought us about.</span></p>

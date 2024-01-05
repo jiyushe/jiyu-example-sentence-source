@@ -1,5 +1,7 @@
 # gunpoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunpoint.md)
+
 <p><span class="chinese">他们拿枪指着我.</span><span class="english">They held me at gunpoint.</span></p>
 
 <p><span class="chinese">持枪相威胁，抢夺他人财物的行为。</span><span class="english">The act of robbing someone at gunpoint.</span></p>

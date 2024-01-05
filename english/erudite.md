@@ -1,5 +1,7 @@
 # erudite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erudite.md)
+
 <p><span class="chinese">某饱学的学者以其深奥的思想著称。</span><span class="english">An erudite scholar was noted for his recondite thoughts.</span></p>
 
 <p><span class="chinese">就算最博学的母语使用者也不可能知道每个字的意思。</span><span class="english">Even the most erudite native speaker does not know the meaning of every word.</span></p>

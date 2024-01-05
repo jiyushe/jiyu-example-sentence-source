@@ -1,5 +1,7 @@
 # 围困
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weikun.md)
+
 <p><span class="chinese">一群猎狗把野猪围困住。</span><span class="english">The hounds bayed the boar.</span></p>
 
 <p><span class="chinese">敌军被我们围困在碉堡中。</span><span class="english">The enemy besieged in the blockhouse.</span></p>

@@ -1,5 +1,7 @@
 # mayhem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mayhem.md)
+
 <p><span class="chinese">大混乱计划是我的主意。</span><span class="english">Project Mayhem was my idea.</span></p>
 
 <p><span class="chinese">大混乱行动第三条规矩就是不要找借口。</span><span class="english">The third rule in Project Mayhem is no excuses.</span></p>

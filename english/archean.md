@@ -1,5 +1,7 @@
 # archean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archean.md)
+
 <p><span class="chinese">由于太古宙之下尚未建代，现仍称下、中、上太古界。</span><span class="english">As Archean not yet under construction and is still said, in the Pacific community.</span></p>
 
 <p><span class="chinese">花岗岩的活动时代漫长，从太古宙直到新生代呈多幕式展现。</span><span class="english">The geological ages of the granitoids in China extend from the Archean to the Cenozoic.</span></p>

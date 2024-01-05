@@ -1,5 +1,7 @@
 # basin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basin.md)
+
 <p><span class="chinese">这个盆子是铁做的。</span><span class="english">This basin is made of iron.</span></p>
 
 <p><span class="chinese">我有几分一盆含羞草。</span><span class="english">I kind of a basin of mimosa.</span></p>

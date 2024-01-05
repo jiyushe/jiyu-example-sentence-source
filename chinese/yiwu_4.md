@@ -1,5 +1,7 @@
 # 贻误
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwu_4.md)
+
 <p><span class="chinese">你得补上你贻误的事情。</span><span class="english">You must make up the work you missed.</span></p>
 
 <p><span class="chinese">他贻误了我们获得的一个微小的机会。</span><span class="english">He fumbled the one slender chance we had.</span></p>

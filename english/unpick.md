@@ -1,5 +1,7 @@
 # unpick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpick.md)
+
 <p><span class="chinese">在美国，解决这些问题需要数年的时间。</span><span class="english">In America it may take years to unpick this.</span></p>
 
 <p><span class="chinese">专利免拆洗功能刮洗装置，节省您的时间。</span><span class="english">Patent free function of unpick and wash washing device, save your time.</span></p>

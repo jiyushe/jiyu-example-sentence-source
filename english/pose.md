@@ -1,5 +1,7 @@
 # pose 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pose.md)
+
 <p><span class="chinese">吸气，进入眼镜蛇式。</span><span class="english">Inhale into Cobra pose.</span></p>
 
 <p><span class="chinese">山式站立。</span><span class="english">Stand in Mountain pose.</span></p>

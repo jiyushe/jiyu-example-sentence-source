@@ -1,5 +1,7 @@
 # rebuff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebuff.md)
+
 <p><span class="chinese">他的断然拒绝使我心灰意懒。</span><span class="english">His rebuff thoroughly deflated me.</span></p>
 
 <p><span class="chinese">她的拒绝使他的骄气大挫。</span><span class="english">Her rebuff thoroughly deflated him.</span></p>

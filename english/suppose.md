@@ -1,5 +1,7 @@
 # suppose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suppose.md)
+
 <p><span class="chinese">我只是这么想。</span><span class="english">I only suppose so.</span></p>
 
 <p><span class="chinese">我来告诉你吧。</span><span class="english">Suppose I tell you.</span></p>

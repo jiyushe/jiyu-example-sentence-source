@@ -1,5 +1,7 @@
 # transitional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transitional.md)
+
 <p><span class="chinese">子叶节区—根过渡区极短。</span><span class="english">N. Z. -root transitional region is very short.</span></p>
 
 <p><span class="chinese">到目前为止，我们还没有发现鲸的过渡形式。</span><span class="english">So far these transitional forms have not been found.</span></p>

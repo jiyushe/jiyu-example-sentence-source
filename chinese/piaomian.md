@@ -1,5 +1,7 @@
 # 票面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaomian.md)
+
 <p><span class="chinese">请给我5元票面的。</span><span class="english">In fives, please.</span></p>
 
 <p><span class="chinese">八张一百美元票面的纸币。</span><span class="english">Eight one-hundred-dollar bills.</span></p>

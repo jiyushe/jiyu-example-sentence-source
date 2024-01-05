@@ -1,5 +1,7 @@
 # fairy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fairy.md)
+
 <p><span class="chinese">格林童话呢?</span><span class="english">Grimm's fairy tales?</span></p>
 
 <p><span class="chinese">也许是个仙灵？</span><span class="english">Perhaps its a fairy?</span></p>

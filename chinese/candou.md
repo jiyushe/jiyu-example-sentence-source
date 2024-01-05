@@ -1,5 +1,7 @@
 # 蚕豆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/candou.md)
+
 <p><span class="chinese">她自己种蚕豆。</span><span class="english">She grows her own favas.</span></p>
 
 <p><span class="chinese">每粒蚕豆都长黑嘴。</span><span class="english">Every bean hath its black.</span></p>

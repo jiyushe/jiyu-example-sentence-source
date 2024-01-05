@@ -1,5 +1,7 @@
 # ironic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ironic.md)
+
 <p><span class="chinese">这会是一种讽刺的形势变化。</span><span class="english">It would be an ironic turn of events.</span></p>
 
 <p><span class="chinese">你认识那个留胡子那人吗？</span><span class="english">You know the guy with the ironic mustache?</span></p>

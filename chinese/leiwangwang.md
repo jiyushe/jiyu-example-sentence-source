@@ -1,5 +1,7 @@
 # 泪汪汪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiwangwang.md)
+
 <p><span class="chinese">她眼泪汪汪。</span><span class="english">She is all tears.</span></p>
 
 <p><span class="chinese">她只是感觉老是泪汪汪地想哭。</span><span class="english">She is just feeling weepy.</span></p>

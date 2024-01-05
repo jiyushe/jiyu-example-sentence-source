@@ -1,5 +1,7 @@
 # gush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gush.md)
+
 <p><span class="chinese">他的伤口重开时血流如注。</span><span class="english">There am a gush of blood as his wound re-opened.</span></p>
 
 <p><span class="chinese">他的伤口重开时血流如注。</span><span class="english">There was a gush of blood as his wound re-opened.</span></p>

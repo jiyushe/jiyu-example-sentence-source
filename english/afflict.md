@@ -1,5 +1,7 @@
 # afflict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afflict.md)
+
 <p><span class="chinese">管理费盲目症也折磨着我们所有人。</span><span class="english">Fee blindness can afflict us all.</span></p>
 
 <p><span class="chinese">为何女性忍受偏头痛折磨的比例如此之大？</span><span class="english">Why do migraines disproportionately afflict women?</span></p>

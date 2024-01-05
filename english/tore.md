@@ -1,5 +1,7 @@
 # tore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tore.md)
+
 <p><span class="chinese">他把布告揭了下来。</span><span class="english">He tore down the notice.</span></p>
 
 <p><span class="chinese">棘刺划破了她的皮肤。</span><span class="english">The thorns tore her skin.</span></p>

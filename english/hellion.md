@@ -1,5 +1,7 @@
 # hellion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hellion.md)
+
 <p><span class="chinese">恶徒攻击范围由6恢复至5。</span><span class="english">Hellion range reverted from 6 to 5.</span></p>
 
 <p><span class="chinese">坏人为什么脸上有疤?。</span><span class="english">Why does hellion have scar on the face?</span></p>

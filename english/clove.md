@@ -1,5 +1,7 @@
 # clove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clove.md)
+
 <p><span class="chinese">丁香为哈尔滨市市花。</span><span class="english">Harbin City, clove flower.</span></p>
 
 <p><span class="chinese">他仍然坚守着这个理想。</span><span class="english">He still clove to this ideal.</span></p>

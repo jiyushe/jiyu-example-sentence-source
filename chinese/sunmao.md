@@ -1,5 +1,7 @@
 # 榫卯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sunmao.md)
+
 <p><span class="chinese">梵几家具的结构均采用中式榫卯链接。</span><span class="english">Fnji furniture makes use of Chinese mortise and tenon joint structure.</span></p>
 
 <p><span class="chinese">中国传统家具能够保持几百年而依然牢固，皆归功于设计巧妙的榫卯结构。</span><span class="english">Owe to the perfect Sunmao, Chinese antique furniture is able to keep firm for hundreds of years.</span></p>

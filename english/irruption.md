@@ -1,5 +1,7 @@
 # irruption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irruption.md)
+
 <p><span class="chinese">每天都是星期一，因为自己是刚开的。</span><span class="english">All day Monday, because he is the irruption.</span></p>
 
 <p><span class="chinese">试验成果对防治底板承压水的突出具有较大的意义。</span><span class="english">The results are of great significance for preventing floor water irruption.</span></p>

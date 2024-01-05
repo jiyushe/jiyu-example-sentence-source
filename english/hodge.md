@@ -1,5 +1,7 @@
 # hodge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hodge.md)
+
 <p><span class="chinese">加尔文与贺治都持著这看法。</span><span class="english">Calvin and Hodge take this view.</span></p>
 
 <p><span class="chinese">霍奇爷爷眯着眼问道。</span><span class="english">Grandpa Hodge asked, narrowing his eyes.</span></p>

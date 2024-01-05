@@ -1,5 +1,7 @@
 # 振作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzuo.md)
+
 <p><span class="chinese">试着振作起来。</span><span class="english">Try to cheer up.</span></p>
 
 <p><span class="chinese">他振作起来了吗？</span><span class="english">Did he straighten up?</span></p>

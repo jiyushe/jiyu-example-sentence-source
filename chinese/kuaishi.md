@@ -1,5 +1,7 @@
 # 快事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaishi.md)
+
 <p><span class="chinese">人生快事，莫如读书。</span><span class="english">Things in life than the books.</span></p>
 
 <p><span class="chinese">看小说真是一件快事。</span><span class="english">Reading novel is a real delight.</span></p>

@@ -1,5 +1,7 @@
 # tubular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tubular.md)
+
 <p><span class="chinese">这个容器呈管形。</span><span class="english">The container is tubular in shape.</span></p>
 
 <p><span class="chinese">还有很多25管状玛瑙珠。</span><span class="english">A lot of 25 tubular cornelian beads.</span></p>

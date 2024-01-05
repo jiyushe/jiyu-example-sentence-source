@@ -1,5 +1,7 @@
 # antiserum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiserum.md)
+
 <p><span class="chinese">该抗体能够抑制小鼠精卵的融合。</span><span class="english">The antiserum inhibited mouse sperm-egg fusion.</span></p>
 
 <p><span class="chinese">结果得到了HER2ME蛋白特异性抗血清。</span><span class="english">Results The specific antiserum against HER2ME protein was obtained.</span></p>

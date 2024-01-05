@@ -1,5 +1,7 @@
 # africa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/africa.md)
+
 <p><span class="chinese">非洲的情况呢？</span><span class="english">What of Africa?</span></p>
 
 <p><span class="chinese">他在非洲打过仗。</span><span class="english">He saw action in Africa.</span></p>

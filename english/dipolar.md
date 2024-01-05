@@ -1,5 +1,7 @@
 # dipolar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dipolar.md)
+
 <p><span class="chinese">当偶极相互作用变得很强时，这些环将会消失。</span><span class="english">While the hysteresis loop closes as the dipolar interaction is quite strong.</span></p>
 
 <p><span class="chinese">已证实引入偶极缺陷使矫顽场强下降。</span><span class="english">It is shown that the introducing of the dipolar defects will decrease the coercive field.</span></p>

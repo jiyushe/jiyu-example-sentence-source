@@ -1,5 +1,7 @@
 # silex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silex.md)
+
 <p><span class="chinese">Silex可以作为多媒体入门的教育工具</span><span class="english">Silex as an education tool for multimedia introductions</span></p>
 
 <p><span class="chinese">吉恩上星期把渗滤壶打碎了，所以我只能用锅煮咖啡。</span><span class="english">Jean broke the Silex last week, so I'm still boiling it.</span></p>

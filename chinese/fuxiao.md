@@ -1,5 +1,7 @@
 # 拂晓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuxiao.md)
+
 <p><span class="chinese">她在拂晓时上吊了。</span><span class="english">She had hanged herself at daybreak.</span></p>
 
 <p><span class="chinese">拂晓时分，墨尔本遭受再次震颤。</span><span class="english">At dawn, two tremors shook Melbourne.</span></p>

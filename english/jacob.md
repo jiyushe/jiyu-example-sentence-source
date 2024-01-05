@@ -1,5 +1,7 @@
 # jacob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jacob.md)
+
 <p><span class="chinese">雅各一下子就愣在那儿了。</span><span class="english">Jacob froze.</span></p>
 
 <p><span class="chinese">雅各布请上来</span><span class="english">So come on out, Jacob.</span></p>

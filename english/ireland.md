@@ -1,5 +1,7 @@
 # ireland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ireland.md)
+
 <p><span class="chinese">爱尔兰是第二个倒下的。</span><span class="english">Ireland was next to fall.</span></p>
 
 <p><span class="chinese">他在爱尔兰经营一家种马场。</span><span class="english">He runs stud farm in Ireland.</span></p>

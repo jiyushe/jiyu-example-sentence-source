@@ -1,5 +1,7 @@
 # cairo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cairo.md)
+
 <p><span class="chinese">开罗的新鞋。</span><span class="english">New Shoes in Cairo.</span></p>
 
 <p><span class="chinese">乔纳森头开罗报道。</span><span class="english">Jonathon Head reports from Cairo.</span></p>

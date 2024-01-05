@@ -1,5 +1,7 @@
 # 移交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijiao_1.md)
+
 <p><span class="chinese">我会很高兴地移交这项工作。</span><span class="english">I shall be glad to hand this job over.</span></p>
 
 <p><span class="chinese">我们把小偷移交给了警察。</span><span class="english">We --------- the thief ----------- to the police.</span></p>

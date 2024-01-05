@@ -1,5 +1,7 @@
 # 热闹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renao_1.md)
+
 <p><span class="chinese">它是一个非常热闹的景区。.</span><span class="english">It's a massive hotspot.</span></p>
 
 <p><span class="chinese">巴黎市一座热闹的城市。</span><span class="english">Parisis a very busy town.</span></p>

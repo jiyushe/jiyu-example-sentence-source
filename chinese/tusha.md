@@ -1,5 +1,7 @@
 # 屠杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tusha.md)
+
 <p><span class="chinese">大量屠杀他自己的人民。</span><span class="english">Just massacring his own people.</span></p>
 
 <p><span class="chinese">让屠杀开始吧。</span><span class="english">Let the dodgeball slaughter begin.</span></p>

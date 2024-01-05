@@ -1,5 +1,7 @@
 # annulus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annulus.md)
+
 <p><span class="chinese">上环现在什么价钱?。</span><span class="english">Go up annulus now what price?</span></p>
 
 <p><span class="chinese">戴黑环对眼镜好么？会不会很假？</span><span class="english">Is lens of cross-eye of Dai Hei annulus good? Can very false?</span></p>

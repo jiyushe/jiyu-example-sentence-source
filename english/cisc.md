@@ -1,5 +1,7 @@
 # cisc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cisc.md)
+
 <p><span class="chinese">cisc是当时占主导的设计方法，因为它节省存储器。</span><span class="english">CISC was the dominant approach because it conserved memory.</span></p>
 
 <p><span class="chinese">Intel的80x86家族是是典型的CISC处理器。</span><span class="english">Intel's 80x86 family is the quintessential example of CISC.</span></p>

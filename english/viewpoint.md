@@ -1,5 +1,7 @@
 # viewpoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viewpoint.md)
+
 <p><span class="chinese">他重复了他的观点。</span><span class="english">He iterated his viewpoint.</span></p>
 
 <p><span class="chinese">他的观点荒谬绝伦。</span><span class="english">His viewpoint was utterly absurd.</span></p>

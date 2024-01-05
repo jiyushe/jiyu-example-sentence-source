@@ -1,5 +1,7 @@
 # 梗阻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gengzu.md)
+
 <p><span class="chinese">非梗阻病变6例中5例为神经性膀胱。</span><span class="english">In the 6 patients, 5 had nervous bladder.</span></p>
 
 <p><span class="chinese">这可以导致梗阻性脑积水。</span><span class="english">This can result in obstructive hydrocephalus.</span></p>

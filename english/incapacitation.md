@@ -1,5 +1,7 @@
 # incapacitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incapacitation.md)
+
 <p><span class="chinese">它可能已被不可避免的原因，想问题，在家里或丧失能力。</span><span class="english">It may have been an unavoidable reason , like problems at home or incapacitation.</span></p>
 
 <p><span class="chinese">这是一个好迹象，将来传出李光耀病重的消息也不会令新加坡人震惊。</span><span class="english">This is a good indication that future news of his incapacitation would not shock.</span></p>

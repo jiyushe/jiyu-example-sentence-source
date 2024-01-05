@@ -1,5 +1,7 @@
 # Hispanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hispanic.md)
+
 <p><span class="chinese">我们也没有拉美裔大法官。</span><span class="english">We do not have an Hispanic.</span></p>
 
 <p><span class="chinese">我是班上唯一的拉美学生。</span><span class="english">I was the only Hispanic student.</span></p>

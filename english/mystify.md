@@ -1,5 +1,7 @@
 # mystify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mystify.md)
+
 <p><span class="chinese">忘不了你的迷惑。</span><span class="english">Your unforgettable mystify.</span></p>
 
 <p><span class="chinese">他在试图迷惑对手。</span><span class="english">He was trying to mystify his opponent.</span></p>

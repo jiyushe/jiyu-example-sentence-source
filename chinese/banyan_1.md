@@ -1,5 +1,7 @@
 # 板岩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banyan_1.md)
+
 <p><span class="chinese">此种装修，“蘑菇石”和“板岩”都能派上用场。</span><span class="english">Mushroom stone and slate could be both used.</span></p>
 
 <p><span class="chinese">带状疱疹，板岩，和分支吹走。</span><span class="english">Shingles, slates, and branches are blown off.</span></p>

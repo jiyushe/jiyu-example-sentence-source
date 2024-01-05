@@ -1,5 +1,7 @@
 # bacteria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacteria.md)
+
 <p><span class="chinese">就跟细菌和细胞一样。</span><span class="english">So do bacteria and cells.</span></p>
 
 <p><span class="chinese">最笨的细菌。</span><span class="english">The most stupid bacteria.</span></p>

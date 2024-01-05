@@ -1,5 +1,7 @@
 # 夫妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fufu.md)
+
 <p><span class="chinese">他们是新婚夫妇。</span><span class="english">They are newlyweds.</span></p>
 
 <p><span class="chinese">这对夫妇关系已经破裂。</span><span class="english">The couple have split.</span></p>

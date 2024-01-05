@@ -1,5 +1,7 @@
 # 风凉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengliang.md)
+
 <p><span class="chinese">秋天的空气清新而风凉。</span><span class="english">The autumn air is fresh and cool.</span></p>
 
 <p><span class="chinese">这个处所全般炎天都风凉。</span><span class="english">Thellos place remains cool all summer.</span></p>

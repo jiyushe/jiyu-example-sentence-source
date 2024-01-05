@@ -1,5 +1,7 @@
 # 大难临头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dananlintou.md)
+
 <p><span class="chinese">他悲观地说将来可能大难临头。</span><span class="english">He spoke darkly of possible future disaster.</span></p>
 
 <p><span class="chinese">我们所有人都有一种大难临头的感觉。</span><span class="english">A sense of impending doom came upon all of us.</span></p>

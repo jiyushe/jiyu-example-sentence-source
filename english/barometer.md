@@ -1,5 +1,7 @@
 # barometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barometer.md)
+
 <p><span class="chinese">气压表的水银柱在上升。</span><span class="english">The barometer is rising.</span></p>
 
 <p><span class="chinese">经济就是晴雨表。</span><span class="english">The barometer is economic.</span></p>

@@ -1,5 +1,7 @@
 # hydrophobic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrophobic.md)
+
 <p><span class="chinese">样本路径受疏水过滤器。</span><span class="english">Sample path is protected by hydrophobic filter.</span></p>
 
 <p><span class="chinese">憎水性硅石是一种有效的防泡剂。</span><span class="english">Hydrophobic silica is the active antifoam agent.</span></p>

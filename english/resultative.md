@@ -1,5 +1,7 @@
 # resultative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resultative.md)
+
 <p><span class="chinese">此外，还有成就动机，结果动机等等。</span><span class="english">Besides, there is achievement motivation, resultative motivation and so on.</span></p>
 
 <p><span class="chinese">结果结构呈现出跨语言的类型学差异。</span><span class="english">Languages exhibit typologic variation in resultative construction formation.</span></p>

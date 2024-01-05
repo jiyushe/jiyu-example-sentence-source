@@ -1,5 +1,7 @@
 # 笔顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bishun.md)
+
 <p><span class="chinese">生字汉语拼音、配音动画笔顺、部首、例句。</span><span class="english">With Hanyu Pinyin, Stroke Illustrations, Radicals and Example Sentences.</span></p>
 
 <p><span class="chinese">提出一种提取静态字体笔顺信息的方法。</span><span class="english">This paper presented a method of extracting drawing order from static handwriting.</span></p>

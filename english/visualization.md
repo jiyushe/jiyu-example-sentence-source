@@ -1,5 +1,7 @@
 # visualization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visualization.md)
+
 <p><span class="chinese">建模和可视化工具。</span><span class="english">Modeling and visualization tools.</span></p>
 
 <p><span class="chinese">那便是被动直观化。</span><span class="english">That's the passive visualization.</span></p>

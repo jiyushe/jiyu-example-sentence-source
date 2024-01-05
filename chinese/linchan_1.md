@@ -1,5 +1,7 @@
 # 林产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linchan_1.md)
+
 <p><span class="chinese">林产工业的加速发展对实现全面建设小康社会经济目标具有重要意义。</span><span class="english">The forestry industry development played an important part in achieving social economy targets.</span></p>
 
 <p><span class="chinese">本文简要叙述了湖南怀化地区发展工业原料林以保证林产工业可持续发展的必要性。</span><span class="english">Establishing a healthy forest base is critical for ensuring sustainable development of the wood industry.</span></p>

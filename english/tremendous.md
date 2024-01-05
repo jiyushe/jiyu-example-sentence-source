@@ -1,5 +1,7 @@
 # tremendous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tremendous.md)
+
 <p><span class="chinese">学到了很多。</span><span class="english">Tremendous amounts.</span></p>
 
 <p><span class="chinese">这是一个巨大的转变。</span><span class="english">This is a tremendous shift.</span></p>

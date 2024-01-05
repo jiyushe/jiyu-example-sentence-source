@@ -1,5 +1,7 @@
 # breakwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breakwater.md)
+
 <p><span class="chinese">开进防波堤的入口即为指示。</span><span class="english">Proceed to entrance of breakwater for orders.</span></p>
 
 <p><span class="chinese">在防波堤后面挖泥船正在工作。</span><span class="english">Back of the breakwater the dredger was working.</span></p>

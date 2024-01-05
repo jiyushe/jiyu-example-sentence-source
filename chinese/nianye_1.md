@@ -1,5 +1,7 @@
 # 黏液
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianye_1.md)
+
 <p><span class="chinese">这条银白色的痕迹是黏液。</span><span class="english">The slivery trail is slime.</span></p>
 
 <p><span class="chinese">黏液有助于蜗牛滑行。</span><span class="english">The slime helps the snail slide along.</span></p>

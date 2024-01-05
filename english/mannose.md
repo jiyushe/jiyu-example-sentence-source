@@ -1,5 +1,7 @@
 # mannose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mannose.md)
+
 <p><span class="chinese">单糖比例有差异，GLB所含的葡萄糖和甘露糖的比例比BW高。</span><span class="english">The percent of glucose and mannose in BW was much higher compared with GLB.</span></p>
 
 <p><span class="chinese">研究魔芋低聚甘露糖对小鼠的通便作用。</span><span class="english">To study the purgation effect of Mannose oligomer in Amorphophallus konjac.</span></p>

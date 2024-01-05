@@ -1,5 +1,7 @@
 # 原委
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanwei.md)
+
 <p><span class="chinese">二人回家后，朱妈查问事情原委。</span><span class="english">Two people back home, Zhu Ma concerning things wrong.</span></p>
 
 <p><span class="chinese">不管如何，那就是官方纪录下的事件原委。</span><span class="english">Anyway, that was the official account of what happened.</span></p>

@@ -1,5 +1,7 @@
 # 脱氧核糖核酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoyanghetanghesuan.md)
+
 <p><span class="chinese">脱氧核糖核酸告诉身体如何建立蛋白质。</span><span class="english">DNA told the body how to build proteins.</span></p>
 
 <p><span class="chinese">突变体脱氧核糖核酸误编了一个氨基酸密码。</span><span class="english">The mutant DNA miscoded a single amino acid.</span></p>

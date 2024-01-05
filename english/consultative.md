@@ -1,5 +1,7 @@
 # consultative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consultative.md)
+
 <p><span class="chinese">你从何途径认识本谘询计划？</span><span class="english">How do you know about this consultative scheme?</span></p>
 
 <p><span class="chinese">苏州市因私出入境咨询服务中心欢迎您！</span><span class="english">Welcome to Suzhou Exit-Entry Consultative Center!</span></p>

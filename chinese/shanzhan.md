@@ -1,5 +1,7 @@
 # 善战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanzhan.md)
+
 <p><span class="chinese">盾象征着凯迪拉克军队的英勇善战。</span><span class="english">Shield Cadillac symbolizes the heroic army.</span></p>
 
 <p><span class="chinese">战士们个个都能征善战。</span><span class="english">The soldiers were all used to war or fighting.</span></p>

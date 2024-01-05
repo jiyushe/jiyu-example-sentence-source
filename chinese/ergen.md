@@ -1,5 +1,7 @@
 # 耳根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ergen.md)
+
 <p><span class="chinese">她很会说，她把你的耳根都说掉了。</span><span class="english">She can talk your ears off.</span></p>
 
 <p><span class="chinese">听我在你耳根上告诉你吧！</span><span class="english">Let me tell thee, in thine ear!</span></p>

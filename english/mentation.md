@@ -1,5 +1,7 @@
 # mentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mentation.md)
+
 <p><span class="chinese">怎么样才可以保持好心理状态啊？</span><span class="english">How can you just maintain good mentation?</span></p>
 
 <p><span class="chinese">颓废是种心理状态还种生活状态?。</span><span class="english">Decadent be kind of mentation return kind of life condition?</span></p>

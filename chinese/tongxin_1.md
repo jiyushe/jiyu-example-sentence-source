@@ -1,5 +1,7 @@
 # 痛心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxin_1.md)
+
 <p><span class="chinese">很让人痛心。</span><span class="english">It's very tearing data.</span></p>
 
 <p><span class="chinese">那是一个使人痛心的故事。</span><span class="english">That is a tale that wrings the heart.</span></p>

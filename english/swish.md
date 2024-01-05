@@ -1,5 +1,7 @@
 # swish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swish.md)
+
 <p><span class="chinese">一个NLP的方法。</span><span class="english">Swish. A technique from NLP.</span></p>
 
 <p><span class="chinese">它的音调比尼龙发出的“嗖嗖”声低。</span><span class="english">It less of the nylon ' swish ' to it.</span></p>

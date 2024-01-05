@@ -1,5 +1,7 @@
 # zig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zig.md)
+
 <p><span class="chinese">年前教过我这个。</span><span class="english">Zig taught me this twenty years ago.</span></p>
 
 <p><span class="chinese">为什么这个那个不建议给指甲打蜡？</span><span class="english">Why doesn't Zig Zag suggest nail-waxing service?</span></p>

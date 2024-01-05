@@ -1,5 +1,7 @@
 # repute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repute.md)
+
 <p><span class="chinese">他是个很有声望的医生。</span><span class="english">He is a doctor of great repute.</span></p>
 
 <p><span class="chinese">不，我不要，我可是个正派人。</span><span class="english">Oh no, not me, I'm a man of repute.</span></p>

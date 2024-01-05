@@ -1,5 +1,7 @@
 # quercetin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quercetin.md)
+
 <p><span class="chinese">其中一组被给以槲皮素喂养，而另一组没有。</span><span class="english">One non-exercise group received quercetin while the other did not.</span></p>
 
 <p><span class="chinese">结论槲皮素分子和载体分子之间未发生化学变化。</span><span class="english">CONCLUSION There was no chemical reaction between quercetin and carder.</span></p>

@@ -1,5 +1,7 @@
 # microanalysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microanalysis.md)
+
 <p><span class="chinese">生物芯片检测技术是一种全新的微量分析技术。</span><span class="english">Biochip technology was a kind of novel microanalysis technology.</span></p>
 
 <p><span class="chinese">电子探针x-射线显微分析证明，这些沉淀颗粒的主要成份是钙。</span><span class="english">The electron probe X—ray microanalysis indicated that the precipitate is mainly calcium.</span></p>

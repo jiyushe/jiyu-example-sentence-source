@@ -1,5 +1,7 @@
 # 热心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rexin.md)
+
 <p><span class="chinese">我热心于我的约会。</span><span class="english">I am gung-ho about my dating.</span></p>
 
 <p><span class="chinese">苏阿姨是个非常热心的人。</span><span class="english">Aunt Sue is a very warm person.</span></p>

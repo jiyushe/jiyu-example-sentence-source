@@ -1,5 +1,7 @@
 # 中国字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongguozi.md)
+
 <p><span class="chinese">中国字很难写吗？</span><span class="english">Is it very hard to write Chinese characters?</span></p>
 
 <p><span class="chinese">我不会认中国字，这把我搞糊涂了。</span><span class="english">I can't read the Chinese characters and I am confused!</span></p>

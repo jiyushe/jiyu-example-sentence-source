@@ -1,5 +1,7 @@
 # graticule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graticule.md)
+
 <p><span class="chinese">目镜测微计是一个圆形十字格。</span><span class="english">The ocular micrometer is a circular diameter graticule.</span></p>
 
 <p><span class="chinese">都有黑色的分划线和夜间照明设备。</span><span class="english">These were to have a black-line graticule and a facility for night illumination.</span></p>

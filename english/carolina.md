@@ -1,5 +1,7 @@
 # carolina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carolina.md)
+
 <p><span class="chinese">奥克雷科克岛，北卡罗来纳</span><span class="english">Ocracoke Island, North Carolina</span></p>
 
 <p><span class="chinese">北卡罗莱纳则被称为“焦油脚后根之州”。</span><span class="english">North Carolina is the Tar Heel State.</span></p>

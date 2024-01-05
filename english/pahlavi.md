@@ -1,5 +1,7 @@
 # pahlavi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pahlavi.md)
+
 <p><span class="chinese">流亡的伊朗国王穆罕默德·礼萨·马列维在埃及去世。</span><span class="english">Mohammad Reza Pahlavi , the Shah of Iran, died in Ehypt in exile.</span></p>
 
 <p><span class="chinese">人们走上街头，要求推翻巴列维王朝。</span><span class="english">People marched on the streets asking for the overturn of the Pahlavi dynasty.</span></p>

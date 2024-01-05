@@ -1,5 +1,7 @@
 # indices
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indices.md)
+
 <p><span class="chinese">但是，这就是债券指数的逻辑。</span><span class="english">But that is what bond indices do.</span></p>
 
 <p><span class="chinese">它是指一般物价水平普遍地、持续地下降。</span><span class="english">It is the steady come-down of general price indices.</span></p>

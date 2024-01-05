@@ -1,5 +1,7 @@
 # carriageway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carriageway.md)
+
 <p><span class="chinese">高速公?上往南行使的行车道被关闭了。</span><span class="english">The southbound carriageway of the motorway be closed.</span></p>
 
 <p><span class="chinese">行车道上镶嵌反光路钉，用以划分行车道的边缘或行车。</span><span class="english">Road studs delineate the edges of a carriageway or the division of traffic lanes.</span></p>

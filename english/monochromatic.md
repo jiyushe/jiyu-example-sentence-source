@@ -1,5 +1,7 @@
 # monochromatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monochromatic.md)
+
 <p><span class="chinese">这必然是理想化的单色波的极限波形。</span><span class="english">This obviously is the limiting case of the idealized monochromatic wave.</span></p>
 
 <p><span class="chinese">穿上单色套装是显得个子高的一种非常有效的方法。</span><span class="english">Wearing a monochromatic outfit is a very effective way to create a longer look.</span></p>

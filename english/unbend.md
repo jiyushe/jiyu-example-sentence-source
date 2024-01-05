@@ -1,5 +1,7 @@
 # unbend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbend.md)
+
 <p><span class="chinese">这种金属线很容易弄直。</span><span class="english">This kind of wire is easy to unbend.</span></p>
 
 <p><span class="chinese">别生气，甜蜜的女郎，舒展眉头吧！</span><span class="english">Ah! frown not, sweet lady, unbend your soft brow.</span></p>

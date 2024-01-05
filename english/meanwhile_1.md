@@ -1,5 +1,7 @@
 # meanwhile 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meanwhile_1.md)
+
 <p><span class="chinese">也吹绿了她的黑头发。</span><span class="english">Meanwhile her black hair.</span></p>
 
 <p><span class="chinese">与此同时，我开始了演讲。</span><span class="english">Meanwhile I started the speech.</span></p>

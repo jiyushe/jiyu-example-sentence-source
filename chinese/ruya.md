@@ -1,5 +1,7 @@
 # 乳牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruya.md)
+
 <p><span class="chinese">乳牙也应该涂保护胶吗？</span><span class="english">Should sealants be put on baby teeth?</span></p>
 
 <p><span class="chinese">我过去一直没有认识到乳牙是这么重要。</span><span class="english">I never realized that baby teeth are so important.</span></p>

@@ -1,5 +1,7 @@
 # 愁绪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouxu.md)
+
 <p><span class="chinese">我的愁绪揶揄以问我它们自己的名字来揶揄我。</span><span class="english">My sad thoughts tease me asking me their own name.</span></p>
 
 <p><span class="chinese">大部分幸存者手中空空，惟有愁绪重重。</span><span class="english">Of the survivors, most have little left but their stories.</span></p>

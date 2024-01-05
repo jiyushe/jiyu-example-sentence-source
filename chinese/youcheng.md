@@ -1,5 +1,7 @@
 # 游程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youcheng.md)
+
 <p><span class="chinese">游程大约需要一个半小时。</span><span class="english">The total round takes about one and a half hour.</span></p>
 
 <p><span class="chinese">游程检验不要求正态性假设。</span><span class="english">The runs test does not require the normality assumption.</span></p>

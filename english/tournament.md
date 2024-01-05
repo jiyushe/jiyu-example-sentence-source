@@ -1,5 +1,7 @@
 # tournament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tournament.md)
+
 <p><span class="chinese">大师杯保龄球锦标赛。</span><span class="english">Masters Cup Bowling Tournament.</span></p>
 
 <p><span class="chinese">这是一个很好的联赛。</span><span class="english">And yeah, it's a good tournament.</span></p>

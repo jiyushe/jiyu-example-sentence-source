@@ -1,5 +1,7 @@
 # bellyful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bellyful.md)
+
 <p><span class="chinese">我对他这个人已经烦透了。</span><span class="english">I've had a bellyful of him.</span></p>
 
 <p><span class="chinese">满腹怯意化尘埃。</span><span class="english">Bellyful of timid meaning dust.</span></p>

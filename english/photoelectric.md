@@ -1,5 +1,7 @@
 # photoelectric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photoelectric.md)
+
 <p><span class="chinese">该光电管控制着一个伺服电动机。</span><span class="english">The photoelectric cell controls a servomotor.</span></p>
 
 <p><span class="chinese">用光电分光光度计能得到较佳结果。</span><span class="english">Photoelectric spectrophotometers give better result.</span></p>

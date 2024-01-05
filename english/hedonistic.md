@@ -1,5 +1,7 @@
 # hedonistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hedonistic.md)
+
 <p><span class="chinese">在享乐主义的拉斯维加斯，六个星期就足够办完了。</span><span class="english">In hedonistic Las Vegas, six weeks is enough.</span></p>
 
 <p><span class="chinese">过着这种享乐而放荡不羁的私生活，西佐感到极为劳累。</span><span class="english">For one with such a hedonistic and varied private life, Xizor grew tired.</span></p>

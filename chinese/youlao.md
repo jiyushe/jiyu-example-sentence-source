@@ -1,5 +1,7 @@
 # 有劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youlao.md)
+
 <p><span class="chinese">有劳大夫了。</span><span class="english">There is doctor Lao.</span></p>
 
 <p><span class="chinese">能有劳您能拼一下吗？</span><span class="english">Would you kindly spell it for me?</span></p>

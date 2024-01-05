@@ -1,5 +1,7 @@
 # 无人问津
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wurenwenjin.md)
+
 <p><span class="chinese">上海儿童性教育夏令营无人问津。</span><span class="english">Shanghai kids' sexed camp fails to excite.</span></p>
 
 <p><span class="chinese">此外，森岛返回到墨西哥和无人问津！</span><span class="english">Also, Morishima returns to Mexico and nobody cares!</span></p>

@@ -1,5 +1,7 @@
 # bookstall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookstall.md)
+
 <p><span class="chinese">她不会再来这个报摊了。</span><span class="english">She will never come into the bookstall again.</span></p>
 
 <p><span class="chinese">你在读在书摊上买的那本书吗？</span><span class="english">Are you reading the book you picked up at the bookstall?</span></p>

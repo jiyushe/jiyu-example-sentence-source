@@ -1,5 +1,7 @@
 # 骨瘦如柴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gushouruchai.md)
+
 <p><span class="chinese">完美的男人骨瘦如柴。</span><span class="english">Perfect men are scrawny.</span></p>
 
 <p><span class="chinese">他变得骨瘦如柴。</span><span class="english">He is reduced to skin and bones.</span></p>

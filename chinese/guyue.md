@@ -1,5 +1,7 @@
 # 鼓乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyue.md)
+
 <p><span class="chinese">我真的融入到这鼓乐独奏中。</span><span class="english">I really got into the drum solos.</span></p>
 
 <p><span class="chinese">我喜欢非洲鼓乐的令人兴奋的节奏。</span><span class="english">I like the exciting rhythm of African drum music.</span></p>

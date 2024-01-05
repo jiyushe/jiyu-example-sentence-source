@@ -1,5 +1,7 @@
 # renown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renown.md)
+
 <p><span class="chinese">她是位声誉卓著的作家。</span><span class="english">She is a writer of great renown.</span></p>
 
 <p><span class="chinese">拉马克将军是个有声望也有作为的人。</span><span class="english">Lamarque was a man of renown and of action.</span></p>

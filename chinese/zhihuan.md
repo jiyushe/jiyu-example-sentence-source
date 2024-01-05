@@ -1,5 +1,7 @@
 # 指环
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhihuan.md)
+
 <p><span class="chinese">来自理查德，瓦格纳的，尼伯龙根的指环。</span><span class="english">It's from Richard Wagner.</span></p>
 
 <p><span class="chinese">我就不用戴灿烂的指环。</span><span class="english">I need not wear a diamond ring.</span></p>

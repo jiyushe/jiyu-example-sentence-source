@@ -1,5 +1,7 @@
 # 开办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiban.md)
+
 <p><span class="chinese">神开办了一个严紧的学校。</span><span class="english">God keeps a costly school.</span></p>
 
 <p><span class="chinese">这个眼库开办于1996年。</span><span class="english">The Eye Bank opened in 1996.</span></p>

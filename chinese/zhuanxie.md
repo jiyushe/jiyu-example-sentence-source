@@ -1,5 +1,7 @@
 # 撰写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanxie.md)
+
 <p><span class="chinese">使用剧本撰写软件。</span><span class="english">Use screenwriting software.</span></p>
 
 <p><span class="chinese">撰写人物传记的能力。</span><span class="english">Skills of writing a biography.</span></p>

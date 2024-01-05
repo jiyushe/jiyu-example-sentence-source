@@ -1,5 +1,7 @@
 # escapist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escapist.md)
+
 <p><span class="chinese">这是逃避现实的疗法。</span><span class="english">This is an escapist therapy.</span></p>
 
 <p><span class="chinese">逃避现实的倾向会导致过分放纵。</span><span class="english">Escapist tendencies may lead to overindulgence.</span></p>

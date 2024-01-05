@@ -1,5 +1,7 @@
 # 山清水秀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanqingshuixiu.md)
+
 <p><span class="chinese">这里山清水秀，景色优美。</span><span class="english">Forest-clad mountains and limpid streams complete the scene here.</span></p>
 
 <p><span class="chinese">首先，因为那里的空气非常好，山清水秀。</span><span class="english">First of all, the air there is very good, with picturesque scenery.</span></p>

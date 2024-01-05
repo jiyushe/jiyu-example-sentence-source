@@ -1,5 +1,7 @@
 # mesh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesh.md)
+
 <p><span class="chinese">网供排水。</span><span class="english">Mesh for drainage.</span></p>
 
 <p><span class="chinese">尼龙网袜衬。</span><span class="english">Nylon Mesh sock lining.</span></p>

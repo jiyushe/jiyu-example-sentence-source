@@ -1,5 +1,7 @@
 # 反方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanfang.md)
+
 <p><span class="chinese">以上就是反方的观点</span><span class="english">All right. Now, that's the objection.</span></p>
 
 <p><span class="chinese">它要不就服务神性，或者神性的反方。</span><span class="english">It either serves the Krist or it serves its opposite.</span></p>

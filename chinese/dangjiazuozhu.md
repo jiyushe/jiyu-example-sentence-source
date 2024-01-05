@@ -1,5 +1,7 @@
 # 当家作主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangjiazuozhu.md)
+
 <p><span class="chinese">人民当家作主人。</span><span class="english">The people are the masters of their country.</span></p>
 
 <p><span class="chinese">他说，“如果连当家作主都行不通，你如何去发展一个品牌呢？”</span><span class="english">How can youdevelop a brand when you can’t even own your home?</span></p>

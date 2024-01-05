@@ -1,5 +1,7 @@
 # libya
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libya.md)
+
 <p><span class="chinese">我们为毛要攻打利比亚？</span><span class="english">Why are we attacking Libya?</span></p>
 
 <p><span class="chinese">联合国通过决议在利比亚设立禁飞区。</span><span class="english">UN SC okays no-fly zone over Libya.</span></p>

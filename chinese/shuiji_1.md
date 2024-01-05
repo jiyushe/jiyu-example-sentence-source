@@ -1,5 +1,7 @@
 # 税基
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiji_1.md)
+
 <p><span class="chinese">好的地税其税基的流动性较低。</span><span class="english">A good local tax has a less mobile base.</span></p>
 
 <p><span class="chinese">好的地税税种具备横向来看较为公平的税基。</span><span class="english">A good local tax has a base that is horizontally equitable.</span></p>

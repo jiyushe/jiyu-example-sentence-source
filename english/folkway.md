@@ -1,5 +1,7 @@
 # folkway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/folkway.md)
+
 <p><span class="chinese">妈妈说，这是这里的民风。</span><span class="english">Mum said it is the local folkway and habitude.</span></p>
 
 <p><span class="chinese">这里民风淳朴，有“世外桃源”之称。</span><span class="english">Here folkway is simple, and has the name of xanadu.</span></p>

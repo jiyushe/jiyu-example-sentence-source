@@ -1,5 +1,7 @@
 # ellsworth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ellsworth.md)
+
 <p><span class="chinese">当时，我曾在南达科他州的Ellsworth空军基地的一个乐队工作。</span><span class="english">I was in the band at Ellsworth Air Force Base, South Dakota.</span></p>
 
 <p><span class="chinese">担当那个角色的是记者和建筑批评家埃尔斯沃思·图希。</span><span class="english">That is left to journalist and architecture critic Ellsworth Toohey.</span></p>

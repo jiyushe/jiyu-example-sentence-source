@@ -1,5 +1,7 @@
 # documentary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/documentary.md)
+
 <p><span class="chinese">对于纪录片还有什么要说的吗？</span><span class="english">What else about the documentary?</span></p>
 
 <p><span class="chinese">亚洲新闻台关于龙鱼的节目。</span><span class="english">A documentary by Channel News Asia.</span></p>

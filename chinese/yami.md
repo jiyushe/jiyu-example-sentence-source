@@ -1,5 +1,7 @@
 # 哑谜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yami.md)
+
 <p><span class="chinese">我不知道打哑谜是什么。</span><span class="english">I don't know what that is.</span></p>
 
 <p><span class="chinese">你想玩哑谜？</span><span class="english">You want to play charades?</span></p>

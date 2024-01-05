@@ -1,5 +1,7 @@
 # goddamned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goddamned.md)
+
 <p><span class="chinese">该死的，没错，是我。</span><span class="english">You're goddamned right I did!</span></p>
 
 <p><span class="chinese">这个地方就像是一个该死的Roadrunner的漫画。</span><span class="english">This place is like a goddamned</span></p>

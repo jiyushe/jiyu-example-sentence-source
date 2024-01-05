@@ -1,5 +1,7 @@
 # exec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exec.md)
+
 <p><span class="chinese">执行失败。</span><span class="english">Exec failure.</span></p>
 
 <p><span class="chinese">交换器组态模式是经由特权执行模式进入的。</span><span class="english">Switch configuration mode is entered from Privileged EXEC mode.</span></p>

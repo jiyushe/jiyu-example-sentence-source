@@ -1,5 +1,7 @@
 # significative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/significative.md)
+
 <p><span class="chinese">恩，都是很有意义的事情。</span><span class="english">Yeah, there are significative things.</span></p>
 
 <p><span class="chinese">我想那将非常有意义。</span><span class="english">I think that must be very significative.</span></p>

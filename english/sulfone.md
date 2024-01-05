@@ -1,5 +1,7 @@
 # sulfone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfone.md)
+
 <p><span class="chinese">海洋生物、植物、动物和人体均含有二甲基砜。</span><span class="english">Marine living beings, plants, animals and human body all contain dimethyl sulfone.</span></p>
 
 <p><span class="chinese">砜壳这个大蛤蜊能够每隔一段时间就会制造出一个大珍珠！</span><span class="english">Sulfone shell The large clams from time to time will be able to create a large pearls!</span></p>

@@ -1,5 +1,7 @@
 # mtb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mtb.md)
+
 <p><span class="chinese">我父亲下星期就给我买新自行车。</span><span class="english">My father will buy a new mtb for me next week.</span></p>
 
 <p><span class="chinese">楼主，又看见你在上网卖车了。</span><span class="english">LZ, see you again sell your MTB on the internet.</span></p>

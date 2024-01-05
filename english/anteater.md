@@ -1,5 +1,7 @@
 # anteater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anteater.md)
+
 <p><span class="chinese">食蚁兽问为什么你这么无聊?</span><span class="english">Why are you so boring?" the anteater asked.</span></p>
 
 <p><span class="chinese">伊迪斯姑姑的食蚁兽吃了伊迪斯姑姑的蚂蚁。</span><span class="english">Aunt Edith's anteater ate Aunt Edith's ants.</span></p>

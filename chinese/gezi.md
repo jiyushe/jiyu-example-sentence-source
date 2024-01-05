@@ -1,5 +1,7 @@
 # 格子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gezi.md)
+
 <p><span class="chinese">我喜欢棋盘式格子衬衫。</span><span class="english">I prefer a checkered shirt.</span></p>
 
 <p><span class="chinese">其实就是件粉色的格子裙。</span><span class="english">In fact is a pink plaid skirt.</span></p>

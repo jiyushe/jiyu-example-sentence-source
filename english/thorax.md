@@ -1,5 +1,7 @@
 # thorax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thorax.md)
+
 <p><span class="chinese">它的胸部明显地呈球形。</span><span class="english">It has a distinctly globular thorax.</span></p>
 
 <p><span class="chinese">方法DV2经胸注射入白纹伊蚊。</span><span class="english">Methods DV2 were injected into the thorax of Ae.</span></p>

@@ -1,5 +1,7 @@
 # pia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pia.md)
+
 <p><span class="chinese">请告诉我巴航124班机的到达时间好吗？？</span><span class="english">Would you please tell me about the arrival of PIA Flight 124?</span></p>
 
 <p><span class="chinese">他叹了口气，然后走向电脑，在谷歌搜索栏中输入了“皮娅·左达拉”。</span><span class="english">He sighed, walked over to his computer, and Googled Pia Zadora.</span></p>

@@ -1,5 +1,7 @@
 # pyrogallol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrogallol.md)
+
 <p><span class="chinese">方法改良邻苯三酚红钼络合法。</span><span class="english">Methods An improved pyrogallol red-molybdate complex method.</span></p>
 
 <p><span class="chinese">邻苯三酚自氧化法适于测定SOD活性吗?。</span><span class="english">Can be used to assay SOD activity by means of pyrogallol oxidation?</span></p>

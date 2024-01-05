@@ -1,5 +1,7 @@
 # 学院派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueyuanpai.md)
+
 <p><span class="chinese">克鲁格曼是纯粹的学院派。</span><span class="english">Krugman is an academic.</span></p>
 
 <p><span class="chinese">难道是学院派和行业派的冲突吗？</span><span class="english">Is there a conflict between industry and academia?</span></p>

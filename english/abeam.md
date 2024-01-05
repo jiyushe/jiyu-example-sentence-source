@@ -1,5 +1,7 @@
 # abeam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abeam.md)
+
 <p><span class="chinese">灯塔在船的正横方向。</span><span class="english">The lighthouse abeam of the ship.</span></p>
 
 <p><span class="chinese">当巨浪向船舷撞击时，船开始左右摇摆。</span><span class="english">The ship yawned as the heavy wave struck abeam.</span></p>

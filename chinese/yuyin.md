@@ -1,5 +1,7 @@
 # 余音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyin.md)
+
 <p><span class="chinese">余音缭绕。</span><span class="english">The music lingered in the air.</span></p>
 
 <p><span class="chinese">我是来自梅城初中的余音。</span><span class="english">I'm from Meicheng Middle School.</span></p>

@@ -1,5 +1,7 @@
 # jules
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jules.md)
+
 <p><span class="chinese">朱儿，你会很喜欢她的。</span><span class="english">Jules , you're gonna to love her.</span></p>
 
 <p><span class="chinese">其实，凡尔纳只打过一次猎。</span><span class="english">Jules actually went hunting only once.</span></p>

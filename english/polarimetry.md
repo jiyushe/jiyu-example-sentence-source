@@ -1,5 +1,7 @@
 # polarimetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polarimetry.md)
+
 <p><span class="chinese">方法采用旋光法。</span><span class="english">Methods Using the polarimetry.</span></p>
 
 <p><span class="chinese">双通成像旋光在人眼。</span><span class="english">Double-pass imaging polarimetry in the human eye.</span></p>

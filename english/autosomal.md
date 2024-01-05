@@ -1,5 +1,7 @@
 # autosomal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autosomal.md)
+
 <p><span class="chinese">OCA2以常染色体隐性方式遗传。</span><span class="english">OCA2 is inherited in an autosomal recessive manner.</span></p>
 
 <p><span class="chinese">著色性干皮病是一种常染色体的退行性疾病。</span><span class="english">Xeroderma pigmentosum is an autosomal recessive disease.</span></p>

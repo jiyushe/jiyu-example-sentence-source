@@ -1,5 +1,7 @@
 # mayoral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mayoral.md)
+
 <p><span class="chinese">市长候选人答应清洗警察部门。</span><span class="english">The mayoral candidate has promised to purge the police department.</span></p>
 
 <p><span class="chinese">全国各地的市长选举高潮不断。</span><span class="english">Cliffhangers were the norm for mayoral elections all across the country.</span></p>

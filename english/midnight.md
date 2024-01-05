@@ -1,5 +1,7 @@
 # midnight 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midnight.md)
+
 <p><span class="chinese">在某个午夜梦回。</span><span class="english">In a midnight dream.</span></p>
 
 <p><span class="chinese">我一直睡到半夜时醒了。</span><span class="english">I slept until midnight.</span></p>

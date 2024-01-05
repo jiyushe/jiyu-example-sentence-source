@@ -1,5 +1,7 @@
 # kenya
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kenya.md)
+
 <p><span class="chinese">肯尼亚发生了牛瘟。</span><span class="english">Rinderpest took place in Kenya.</span></p>
 
 <p><span class="chinese">而肯尼亚正试图做这方面的引路人。</span><span class="english">Kenya is trying to lead the way.</span></p>

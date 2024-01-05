@@ -1,5 +1,7 @@
 # spoony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spoony.md)
+
 <p><span class="chinese">绝不像痴情的鸟儿。</span><span class="english">I will never imitate spoony birds.</span></p>
 
 <p><span class="chinese">绝不学痴情的鸟儿</span><span class="english">I will never learn from the spoony birds</span></p>

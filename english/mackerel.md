@@ -1,5 +1,7 @@
 # mackerel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mackerel.md)
+
 <p><span class="chinese">干月桂叶是烹制鲭鱼肉极佳的调味料。</span><span class="english">Bay leaf is an excellent herb for mackerel.</span></p>
 
 <p><span class="chinese">挪威鲭鱼的捕捞配额快用完了。</span><span class="english">The Norwegian mackerel quota will soon be over.</span></p>

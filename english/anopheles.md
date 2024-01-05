@@ -1,5 +1,7 @@
 # anopheles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anopheles.md)
+
 <p><span class="chinese">疟蚊传播疟疾。</span><span class="english">Anopheles mosquitos transmit malaria.</span></p>
 
 <p><span class="chinese">中华按蚊是主要传播媒介。</span><span class="english">Anopheles sinensis is the main vehicle of transmission.</span></p>

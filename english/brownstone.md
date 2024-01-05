@@ -1,5 +1,7 @@
 # brownstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brownstone.md)
+
 <p><span class="chinese">我们会住在布鲁克林最郊的地方的一栋用赤褐色砂石造的豪华别墅里。</span><span class="english">We’d live in a brownstone in the furthest reaches of Brooklyn.</span></p>
 
 <p><span class="chinese">这亦是导致创造了“布朗斯通伙伴。”</span><span class="english">It is also what led to the creation of the "Brownstone Buddies."</span></p>

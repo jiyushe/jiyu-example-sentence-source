@@ -1,5 +1,7 @@
 # 念经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianjing_1.md)
+
 <p><span class="chinese">我不会念经，还是你比较重要，小和尚。</span><span class="english">Let me go, don't say no.</span></p>
 
 <p><span class="chinese">嘘，小声点儿。佛爷正在念经哪！</span><span class="english">Hush, be quiet. The monk is reciting sutras!</span></p>

@@ -1,5 +1,7 @@
 # horsepower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horsepower.md)
+
 <p><span class="chinese">马力对他们很有敌意。</span><span class="english">Horsepower was hostile to them.</span></p>
 
 <p><span class="chinese">他们有一只狗叫“马力”。</span><span class="english">They had a dog named horsepower.</span></p>

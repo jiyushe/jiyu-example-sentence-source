@@ -1,5 +1,7 @@
 # smeltery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smeltery.md)
+
 <p><span class="chinese">本系统在韶关冶炼厂投入运行，效果良好。</span><span class="english">This system has been running well since it was put into practice in the Shaoguan smeltery.</span></p>
 
 <p><span class="chinese">对某铜锌冶炼厂周边土壤微生物区系和土壤抗性细菌数进行了实验分析。</span><span class="english">Microbial populations and heavy metal tolerant bacteria in soils around a copper-zinc smeltery were investigated.</span></p>

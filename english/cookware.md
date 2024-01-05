@@ -1,5 +1,7 @@
 # cookware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cookware.md)
+
 <p><span class="chinese">不要使用特富龙炊具餐具钢。</span><span class="english">Don't use steel utensils on Teflon cookware.</span></p>
 
 <p><span class="chinese">你留意寻找一个新的不粘锅定。</span><span class="english">You are on the lookout for a new cookware set.</span></p>

@@ -1,5 +1,7 @@
 # shipman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shipman.md)
+
 <p><span class="chinese">蒂姆“希普曼自华盛顿报道。</span><span class="english">Tim Shipman reports from Washington.</span></p>
 
 <p><span class="chinese">希普曼坚不认罪，他的动机依然成谜。</span><span class="english">Shipman firmly refused to plead guilty. His motives remain a mystery.</span></p>

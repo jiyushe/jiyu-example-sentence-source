@@ -1,5 +1,7 @@
 # 奸诈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzha.md)
+
 <p><span class="chinese">啊，男人的奸诈！</span><span class="english">Oh, the perfidy of men!</span></p>
 
 <p><span class="chinese">我认为你是奸诈自不量力的小…</span><span class="english">I think you are a sneaky.</span></p>

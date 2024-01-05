@@ -1,5 +1,7 @@
 # bandana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bandana.md)
+
 <p><span class="chinese">一套红围巾就可以让所有的衣服亮起来。</span><span class="english">A red bandana brightens nearly any wardrobe.</span></p>
 
 <p><span class="chinese">他觉得他头上戴了条印花头巾就是个痞子样了。</span><span class="english">He thinks he's bad-ass because he wears a bandana.</span></p>

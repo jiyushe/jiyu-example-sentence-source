@@ -1,5 +1,7 @@
 # amazonian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amazonian.md)
+
 <p><span class="chinese">在女权主义，他找到了一位“亚马孙”自供状。</span><span class="english">In feminism he found an "amazonian" element.</span></p>
 
 <p><span class="chinese">福寿螺对水稻的为害十分严重。</span><span class="english">Amazonian snail's endangerment on rice is very severe.</span></p>

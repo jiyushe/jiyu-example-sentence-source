@@ -1,5 +1,7 @@
 # firestorm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firestorm.md)
+
 <p><span class="chinese">卡梅伦称，媒体与警界都陷入一场危机。</span><span class="english">Cameron said that a "firestorm" has hit the media and police.</span></p>
 
 <p><span class="chinese">肯尼迪用自我拆台的自命不凡来对付愤怒的烈火。</span><span class="english">Kennedy handled the firestorm of outrage with self-defeating smugness.</span></p>

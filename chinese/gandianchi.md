@@ -1,5 +1,7 @@
 # 干电池
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gandianchi.md)
+
 <p><span class="chinese">我必须买一节新的干电池了。</span><span class="english">I have to buy a new dry cell.</span></p>
 
 <p><span class="chinese">它有自己的干电池充电器。</span><span class="english">It has its own battery charger.</span></p>

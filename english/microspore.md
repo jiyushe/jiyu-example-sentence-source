@@ -1,5 +1,7 @@
 # microspore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microspore.md)
+
 <p><span class="chinese">月牙形和不规则形的败育小孢子。</span><span class="english">Abort microspore in crescent or irregular shape. 26.</span></p>
 
 <p><span class="chinese">小孢子败育发生在四分体形成以后。</span><span class="english">Microspore abortion occurred after the tetrad formation.</span></p>

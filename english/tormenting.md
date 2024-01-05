@@ -1,5 +1,7 @@
 # tormenting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tormenting.md)
+
 <p><span class="chinese">问一些愚蠢的问题折磨你父亲了。</span><span class="english">Stop tormenting your father by asking silly questions.</span></p>
 
 <p><span class="chinese">杨志良解释，折磨生命就是浪费生命。</span><span class="english">Yang Chih-Liang explained that tormenting life is wasting life.</span></p>

@@ -1,5 +1,7 @@
 # 食心虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixinchong.md)
+
 <p><span class="chinese">本文报道了用苹果饲养桃小食心虫的技术。</span><span class="english">The techniques of rearing Carposina sasakii Matsumura on apple are described.</span></p>
 
 <p><span class="chinese">在26℃条件下，光周期对梨小食心虫成虫的生殖力具有显著的影响。</span><span class="english">At 26℃, The photoperiod was significant influence on the fecundity of oriental fruit moth.</span></p>

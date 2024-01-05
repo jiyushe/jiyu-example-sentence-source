@@ -1,5 +1,7 @@
 # infix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infix.md)
+
 <p><span class="chinese">杰克想找个地缝钻进去。</span><span class="english">Jack intended to find a chink to infix.</span></p>
 
 <p><span class="chinese">中缀表达式到后缀表达式的转换</span><span class="english">Converting infix notation to postfix notation</span></p>

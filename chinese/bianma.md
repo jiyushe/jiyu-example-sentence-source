@@ -1,5 +1,7 @@
 # 编码
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianma.md)
+
 <p><span class="chinese">它是否被编码过?</span><span class="english">How is it encoded?</span></p>
 
 <p><span class="chinese">但是在云中存在编码吗？</span><span class="english">But coding in the cloud?</span></p>

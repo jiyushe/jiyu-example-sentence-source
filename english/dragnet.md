@@ -1,5 +1,7 @@
 # dragnet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dragnet.md)
+
 <p><span class="chinese">仿佛电影里不详的主题音乐随之响起。</span><span class="english">Cue ominous theme music from Dragnet.</span></p>
 
 <p><span class="chinese">虽然目前还没有正式的指控，但这样的事件令投资者饱受惊吓。</span><span class="english">No charges have been filed, but the dragnet alarmed investors.</span></p>

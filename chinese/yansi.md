@@ -1,5 +1,7 @@
 # 烟丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yansi.md)
+
 <p><span class="chinese">请给我来一罐“骆驼”烟丝。</span><span class="english">The camel is a beast of burden.</span></p>
 
 <p><span class="chinese">请给我来一罐“骆驼”烟丝。</span><span class="english">Please give me a can of "Camel".</span></p>

@@ -1,5 +1,7 @@
 # wither
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wither.md)
+
 <p><span class="chinese">我们卖了她们，直到枯萎。</span><span class="english">We sold them, to wither.</span></p>
 
 <p><span class="chinese">为何会在山谷中凋萎？</span><span class="english">Should wither in the vale?</span></p>

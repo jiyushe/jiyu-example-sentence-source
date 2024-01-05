@@ -1,5 +1,7 @@
 # monochrome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monochrome.md)
+
 <p><span class="chinese">黑白画面。</span><span class="english">A monochrome picture.</span></p>
 
 <p><span class="chinese">马则生活在一个单色的世界里。</span><span class="english">Horses live in a monochrome world.</span></p>

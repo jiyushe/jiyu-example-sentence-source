@@ -1,5 +1,7 @@
 # aso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aso.md)
+
 <p><span class="chinese">每当我漫步荒野凝视明月。</span><span class="english">I gaze on the moon aso I tread the drear wild.</span></p>
 
 <p><span class="chinese">上周，日本首相麻生太郎给出一个愚蠢的答案。</span><span class="english">Late last week Prime Minister Aso gave one foolish answer.</span></p>

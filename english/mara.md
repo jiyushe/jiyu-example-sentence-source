@@ -1,5 +1,7 @@
 # mara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mara.md)
+
 <p><span class="chinese">巳征服天魔和其魔徒。</span><span class="english">Having conquered Mara and his mount.</span></p>
 
 <p><span class="chinese">肯尼亚马塞马拉，狮子袭击一只水牛。</span><span class="english">Lions attack a buffalo on the Masai Mara in Kenya</span></p>

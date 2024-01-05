@@ -1,5 +1,7 @@
 # chin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chin.md)
+
 <p><span class="chinese">下巴触须不存在。</span><span class="english">Chin barbel absent.</span></p>
 
 <p><span class="chinese">他冲我下巴打了一拳。</span><span class="english">He hit me on the chin.</span></p>

@@ -1,5 +1,7 @@
 # citic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citic.md)
+
 <p><span class="chinese">在中信银行支付签证费。</span><span class="english">Pay visa fee at CITIC bank.</span></p>
 
 <p><span class="chinese">中信证券找到世达律师事务所做法律顾问。</span><span class="english">Citic Securities has turned to Skadden, Arps for legal advice.</span></p>

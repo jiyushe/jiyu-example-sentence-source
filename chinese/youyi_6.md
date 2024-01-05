@@ -1,5 +1,7 @@
 # 游移
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyi_6.md)
+
 <p><span class="chinese">这两个音又游移不定。</span><span class="english">These two sounds keep on vacillating.</span></p>
 
 <p><span class="chinese">他仍然在两个计划中游移不定。</span><span class="english">He's still wavering between the 2 plans.</span></p>

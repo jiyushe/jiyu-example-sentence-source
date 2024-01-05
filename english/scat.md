@@ -1,5 +1,7 @@
 # scat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scat.md)
+
 <p><span class="chinese">我得赶紧走了，我快迟到了。</span><span class="english">I have to scat now, I will be late.</span></p>
 
 <p><span class="chinese">他们训练工作犬来寻找麋鹿的粪便。</span><span class="english">They train dogs to find moose scat.</span></p>

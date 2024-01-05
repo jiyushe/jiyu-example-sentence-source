@@ -1,5 +1,7 @@
 # kindness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kindness.md)
+
 <p><span class="chinese">他的善意GMH.</span><span class="english">His kindness GMH.</span></p>
 
 <p><span class="chinese">善是善良之义。</span><span class="english">Shang is Kindness.</span></p>

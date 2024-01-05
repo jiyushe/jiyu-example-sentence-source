@@ -1,5 +1,7 @@
 # 滴水不漏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dishuibulou.md)
+
 <p><span class="chinese">我会编一个滴水不漏的遁词。</span><span class="english">I'll hoke up a good alibi.</span></p>
 
 <p><span class="chinese">他们的防守滴水不漏。</span><span class="english">Both of them are so solid defensively.</span></p>

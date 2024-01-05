@@ -1,5 +1,7 @@
 # handwrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handwrite.md)
+
 <p><span class="chinese">手写多些信和咭给别人。</span><span class="english">Handwrite more letters or cards.</span></p>
 
 <p><span class="chinese">手绘的文字也简单地能写！</span><span class="english">You can even handwrite letters on them.</span></p>

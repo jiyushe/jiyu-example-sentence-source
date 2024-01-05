@@ -1,5 +1,7 @@
 # shaikh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaikh.md)
+
 <p><span class="chinese">现在成了一个典型的英国名字了。</span><span class="english">Akmal Shaikh —Now that is a fine old British name.</span></p>
 
 <p><span class="chinese">被捕后两个月，谢赫被判处死刑。</span><span class="english">Two months after his arrest Shaikh was sentenced to death.</span></p>

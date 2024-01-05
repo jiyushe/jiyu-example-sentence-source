@@ -1,5 +1,7 @@
 # jawbone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jawbone.md)
+
 <p><span class="chinese">你的下颌骨是身体里最坚硬的骨头。</span><span class="english">Your jawbone is the hardest bone in your body.</span></p>
 
 <p><span class="chinese">当你到终线时就停止看颌骨。</span><span class="english">Stop looking at the jawbone as your finish line.</span></p>

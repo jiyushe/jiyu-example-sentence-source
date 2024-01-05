@@ -1,5 +1,7 @@
 # roughshod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roughshod.md)
+
 <p><span class="chinese">政府恣意妄为不顾人民的权利。</span><span class="english">The government is riding roughshod over the people's rights.</span></p>
 
 <p><span class="chinese">哈里总是粗暴地对待那些有碍于他的生意计划的人。</span><span class="english">Harry rides roughshod over anybody who gets in the way of his business plans.</span></p>

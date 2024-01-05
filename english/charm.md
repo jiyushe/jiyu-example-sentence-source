@@ -1,5 +1,7 @@
 # charm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charm.md)
+
 <p><span class="chinese">我都不知道我有啥魅力。</span><span class="english">I didnt know I had charm.</span></p>
 
 <p><span class="chinese">你有没有幸运符咒？</span><span class="english">Do you have a lucky charm?</span></p>

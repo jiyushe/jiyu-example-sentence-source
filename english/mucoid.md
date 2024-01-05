@@ -1,5 +1,7 @@
 # mucoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mucoid.md)
+
 <p><span class="chinese">目的探讨CT对支气管黏液嵌塞的诊断价值。</span><span class="english">Objective To evaluate the diagnostic value of CT in bronchial mucoid impaction.</span></p>
 
 <p><span class="chinese">粘液或清除牙菌斑从你激，尝试中药戒毒的节目之一上市。</span><span class="english">Or to remove mucoid plaque from your bowel, try one of the herbal detox programs listed here.</span></p>

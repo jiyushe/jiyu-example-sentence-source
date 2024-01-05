@@ -1,5 +1,7 @@
 # lust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lust.md)
+
 <p><span class="chinese">她迷夨在爱情的欲望之中。</span><span class="english">She lost in the lust of love.</span></p>
 
 <p><span class="chinese">你的思想会被使用去思淫欲。</span><span class="english">Your mind can be used to lust.</span></p>

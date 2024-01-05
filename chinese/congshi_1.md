@@ -1,5 +1,7 @@
 # 从师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congshi_1.md)
+
 <p><span class="chinese">那些从师于我们的现在都超过了我们，这是个莫大的挑战。</span><span class="english">It was a real challenge that those who had learnt from us now excelled us.</span></p>
 
 <p><span class="chinese">从师学习的道理不能恢复，由此就可以知道了。</span><span class="english">It is clear that the tradition of learning from the teacher can no longer be restored.</span></p>

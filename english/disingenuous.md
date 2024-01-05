@@ -1,5 +1,7 @@
 # disingenuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disingenuous.md)
+
 <p><span class="chinese">但是这是虚伪的。</span><span class="english">But this is disingenuous.</span></p>
 
 <p><span class="chinese">女人是邪淫寡信的。</span><span class="english">Woman is perfidious and disingenuous.</span></p>

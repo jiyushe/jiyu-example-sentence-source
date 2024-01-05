@@ -1,5 +1,7 @@
 # diminishing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diminishing.md)
+
 <p><span class="chinese">这病人体力渐减。</span><span class="english">The patient is diminishing in strength.</span></p>
 
 <p><span class="chinese">IE6全球用户正在稳定减少中。</span><span class="english">IE6 is steadily diminishing in usage worldwide.</span></p>

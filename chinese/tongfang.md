@@ -1,5 +1,7 @@
 # 同房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongfang.md)
+
 <p><span class="chinese">给你找了个新同房。</span><span class="english">Scofield. Found you a new cellie.</span></p>
 
 <p><span class="chinese">他和同房间的人处得很融洽。</span><span class="english">He fitted in well with his roommates.</span></p>

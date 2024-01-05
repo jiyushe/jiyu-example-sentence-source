@@ -1,5 +1,7 @@
 # 品红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinhong.md)
+
 <p><span class="chinese">它的颜色是绿色，品红色，橙色以及蓝色。</span><span class="english">Its colors are green, magenta, orange and blue.</span></p>
 
 <p><span class="chinese">品红决定利用大丰报复福喜，让万福楼关门大吉。</span><span class="english">She plans to make use of him to exact her plan for revenge.</span></p>

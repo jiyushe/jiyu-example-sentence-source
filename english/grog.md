@@ -1,5 +1,7 @@
 # grog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grog.md)
+
 <p><span class="chinese">来，再尝点儿这种酒。</span><span class="english">Here, have some more of this grog.</span></p>
 
 <p><span class="chinese">她说，“必须采取措施控制酗酒问题”。</span><span class="english">Something needs to be done to curb this river of grog.</span></p>

@@ -1,5 +1,7 @@
 # 和悦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heyue.md)
+
 <p><span class="chinese">“杜洛埃先生在家吗？”赫斯渥和悦地说。</span><span class="english">"Is Mr. Drouet in?" said Hurstwood blandly.</span></p>
 
 <p><span class="chinese">孙中山视察过后，回到和悦洲。</span><span class="english">After Sun Yat-sen visited back and Yuet Chau.</span></p>

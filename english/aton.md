@@ -1,5 +1,7 @@
 # aton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aton.md)
+
 <p><span class="chinese">杰斯，我是基督迈克艾顿。</span><span class="english">Jess, this is Christ Michael Aton.</span></p>
 
 <p><span class="chinese">艾顿微微一笑，把他的牌放到了桌子上。</span><span class="english">Aton just smirked and laid his cards on the table.</span></p>

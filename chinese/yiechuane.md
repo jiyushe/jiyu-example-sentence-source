@@ -1,5 +1,7 @@
 # 以讹传讹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiechuane.md)
+
 <p><span class="chinese">因此，我特意制作了这个网页，希望以此停止以讹传讹。</span><span class="english">Therefore I made up this page hoping to stop the mistake.</span></p>
 
 <p><span class="chinese">以讹传讹造成的悲剧真是太多了。</span><span class="english">There are really a great many tragedies caused by spreading false news.</span></p>

@@ -1,5 +1,7 @@
 # 守约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyue.md)
+
 <p><span class="chinese">你必须守约。</span><span class="english">You must keep your promise.</span></p>
 
 <p><span class="chinese">我很守约，三月，是我的情郎。</span><span class="english">I'm very punctual. March is my sweetheart.</span></p>

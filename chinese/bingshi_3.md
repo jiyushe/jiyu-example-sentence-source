@@ -1,5 +1,7 @@
 # 病逝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingshi_3.md)
+
 <p><span class="chinese">她的病逝吃了变质的食物造成的。</span><span class="english">Her illness was due to bad food.</span></p>
 
 <p><span class="chinese">第二年9月，左宗棠病逝于福州。</span><span class="english">In the next September, Zuo Zongtang died in Fuzhou.</span></p>

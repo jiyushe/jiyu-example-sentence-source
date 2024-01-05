@@ -1,5 +1,7 @@
 # 打嗝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dage_1.md)
+
 <p><span class="chinese">他于1990年候停止打嗝。</span><span class="english">He stopped in 1990.</span></p>
 
 <p><span class="chinese">我经常都打嗝。</span><span class="english">I can burp on command.</span></p>

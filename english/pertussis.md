@@ -1,5 +1,7 @@
 # pertussis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pertussis.md)
+
 <p><span class="chinese">对于百日咳没有专门的治疗方法。</span><span class="english">There is no specific treatment for pertussis.</span></p>
 
 <p><span class="chinese">病人有咳嗽的朋友做了百日咳假定性治疗。</span><span class="english">The patient's friends with cough were treated for presumed pertussis.</span></p>

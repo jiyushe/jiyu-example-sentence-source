@@ -1,5 +1,7 @@
 # militarization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/militarization.md)
+
 <p><span class="chinese">军事化的经济背景正在改变。</span><span class="english">The economic backdrop to militarization is changing.</span></p>
 
 <p><span class="chinese">显然你没有意识到太空的军事化。</span><span class="english">Obviously you are unaware of the militarization of space.</span></p>

@@ -1,5 +1,7 @@
 # coquetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coquetry.md)
+
 <p><span class="chinese">她给他一个娇嗔。</span><span class="english">She gave him a coquetry.</span></p>
 
 <p><span class="chinese">学会恰到好处地撒娇调皮。</span><span class="english">Learn to be mischievous and coquetry.</span></p>

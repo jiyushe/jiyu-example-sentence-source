@@ -1,5 +1,7 @@
 # branching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/branching.md)
+
 <p><span class="chinese">你的分支策略是什么？</span><span class="english">What is your branching strategy?</span></p>
 
 <p><span class="chinese">讲过了简单的分支程序。</span><span class="english">I have simple branching programs.</span></p>

@@ -1,5 +1,7 @@
 # kbe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kbe.md)
+
 <p><span class="chinese">但他愿在名字后面加上KBE字眼。</span><span class="english">However he agreed to add "KBE" after his name.</span></p>
 
 <p><span class="chinese">并给出了知识工程在凸轮精确建模和机床尾架设计应用实例。</span><span class="english">The application examples of KBE in cam and tailstock design were given.</span></p>

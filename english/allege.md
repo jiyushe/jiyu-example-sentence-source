@@ -1,5 +1,7 @@
 # allege
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allege.md)
+
 <p><span class="chinese">法庭文件宣称她可能是一个偷窥狂。</span><span class="english">The court papers allege she may be a voyeur.</span></p>
 
 <p><span class="chinese">好吧。我承认，你们真是彻头彻尾的烂。</span><span class="english">Yeah, well, I allege that you guys thoroughly suck.</span></p>

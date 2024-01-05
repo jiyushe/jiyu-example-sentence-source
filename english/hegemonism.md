@@ -1,5 +1,7 @@
 # hegemonism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hegemonism.md)
+
 <p><span class="chinese">霸权主义和强权政治依然存在。</span><span class="english">Hegemonism and power politics still exist.</span></p>
 
 <p><span class="chinese">霸权主义和强权政治有新的表现。</span><span class="english">Hegemonism and power politics have new manifestations.</span></p>

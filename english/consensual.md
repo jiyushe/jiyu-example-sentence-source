@@ -1,5 +1,7 @@
 # consensual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consensual.md)
+
 <p><span class="chinese">吴说，无论发生是两厢情愿。</span><span class="english">Wu had said that whatever occurred was consensual.</span></p>
 
 <p><span class="chinese">根据该法律部分内容规定，两厢情愿的性行为也属于犯罪。</span><span class="english">The parts of the law struck down include consensual sex between adults.</span></p>

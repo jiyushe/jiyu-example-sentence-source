@@ -1,5 +1,7 @@
 # 玲珑剔透
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linglongtitou.md)
+
 <p><span class="chinese">詹妮玲珑剔透，我真担心自己会被她笑话。</span><span class="english">Jenny was so smart that I was afraid she would laugh at me.</span></p>
 
 <p><span class="chinese">看，它玲珑剔透、光彩奕奕，它的价值无与伦比。</span><span class="english">Look, it is exquisite and dazzlingly brilliant and its value is incomparable.</span></p>

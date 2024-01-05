@@ -1,5 +1,7 @@
 # hakeem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hakeem.md)
+
 <p><span class="chinese">在电视看到他们，深深喜欢上奥拉朱旺。</span><span class="english">Saw them on TV, fell in love with Hakeem.</span></p>
 
 <p><span class="chinese">哈基姆-奥拉朱旺是历史上最伟大的中锋之一。</span><span class="english">Hakeem Olajuwon is one of the greatest centers of all time.</span></p>

@@ -1,5 +1,7 @@
 # lala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lala.md)
+
 <p><span class="chinese">拉拉是真正的大自然的女儿。</span><span class="english">Lala is a true daughter of nature.</span></p>
 
 <p><span class="chinese">拉拉在前面走，迪西在后面走。</span><span class="english">Lala walks ahead and dipsy walks at back.</span></p>

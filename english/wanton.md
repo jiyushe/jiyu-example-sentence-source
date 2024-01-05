@@ -1,5 +1,7 @@
 # wanton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wanton.md)
+
 <p><span class="chinese">你的流水如此顽皮，濯涤着她洁白的双足。</span><span class="english">How wanton thy waters her snowy feet lave.</span></p>
 
 <p><span class="chinese">那么是什么引起了这些野蛮的破坏？</span><span class="english">So what touched off such wanton destruction?</span></p>

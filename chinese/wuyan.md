@@ -1,5 +1,7 @@
 # 屋檐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyan.md)
+
 <p><span class="chinese">一阵弓射响于屋檐。</span><span class="english">A bow-shot from her bower-eaves.</span></p>
 
 <p><span class="chinese">屋檐上挂着冰柱。</span><span class="english">Icicles depended from the eaves.</span></p>

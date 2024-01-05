@@ -1,5 +1,7 @@
 # limitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limitation.md)
+
 <p><span class="chinese">那也许是我的一种局限吧。</span><span class="english">That may be a limitation for me.</span></p>
 
 <p><span class="chinese">第二个限制更为重要。</span><span class="english">A second limitation is more consequential.</span></p>

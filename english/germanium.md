@@ -1,5 +1,7 @@
 # germanium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/germanium.md)
+
 <p><span class="chinese">锗是常用的红外光学材料。</span><span class="english">Germanium is a common TR optical material.</span></p>
 
 <p><span class="chinese">但是当它们冷却下来，硅往往不能和锗达到同样的收缩度。</span><span class="english">But silicon doesn t contract as much as germanium when it cools.</span></p>

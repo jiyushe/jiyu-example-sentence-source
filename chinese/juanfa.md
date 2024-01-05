@@ -1,5 +1,7 @@
 # 卷发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanfa.md)
+
 <p><span class="chinese">如果是卷发，你也可以使用发油。</span><span class="english">I don't need hair oil.</span></p>
 
 <p><span class="chinese">她烫了卷发。</span><span class="english">She had her hair permed.</span></p>

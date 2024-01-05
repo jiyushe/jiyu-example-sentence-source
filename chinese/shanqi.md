@@ -1,5 +1,7 @@
 # 疝气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanqi.md)
+
 <p><span class="chinese">疝气的病因有哪些？</span><span class="english">WHAT CAUSES A HERNIA?</span></p>
 
 <p><span class="chinese">如何知道我患了疝气？</span><span class="english">HOW DO I KNOW IF I HAVE A HERNIA?</span></p>

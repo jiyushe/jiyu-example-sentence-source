@@ -1,5 +1,7 @@
 # lux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lux.md)
+
 <p><span class="chinese">卢克斯已建立了积极的用户社区。</span><span class="english">Lux has built up an active user community.</span></p>
 
 <p><span class="chinese">卢克斯带有一个自由20游戏测试期。</span><span class="english">Lux comes with a free 20 game trial period.</span></p>

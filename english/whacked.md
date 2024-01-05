@@ -1,5 +1,7 @@
 # whacked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whacked.md)
+
 <p><span class="chinese">安娜贝尔在他头上打了一下。</span><span class="english">Annabel whacked him on the head.</span></p>
 
 <p><span class="chinese">他用力把球击入左外野。</span><span class="english">He whacked the ball into left field.</span></p>

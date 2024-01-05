@@ -1,5 +1,7 @@
 # expressivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expressivity.md)
+
 <p><span class="chinese">表现性是设计的基本属性。</span><span class="english">Expressivity is the essential property of design.</span></p>
 
 <p><span class="chinese">在某些情形中，社会工作结构具有双重性，即表达性和现实性。</span><span class="english">In some circumstance, there are double-characters in the structure of social work, namely expressivity and actuality.</span></p>

@@ -1,5 +1,7 @@
 # 乘风破浪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengfengpolang.md)
+
 <p><span class="chinese">这艘船乘风破浪地前进。</span><span class="english">The ship buffeted her way through the waves.</span></p>
 
 <p><span class="chinese">我们的船正乘风破浪通过海峡。</span><span class="english">Our ship is cleaving her way through the strait.</span></p>

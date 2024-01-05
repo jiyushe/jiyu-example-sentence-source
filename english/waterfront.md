@@ -1,5 +1,7 @@
 # waterfront
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterfront.md)
+
 <p><span class="chinese">工厂和货栈林立在江边。</span><span class="english">Factories and warehouses edge the waterfront.</span></p>
 
 <p><span class="chinese">今年的临海大概是又要下雪了。</span><span class="english">This year's waterfront is probably snowed again.</span></p>

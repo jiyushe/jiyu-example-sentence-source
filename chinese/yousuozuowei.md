@@ -1,5 +1,7 @@
 # 有所作为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yousuozuowei.md)
+
 <p><span class="chinese">但它确实有所作为。</span><span class="english">But it does do something.</span></p>
 
 <p><span class="chinese">你希望有所作为。</span><span class="english">You want to do something.</span></p>

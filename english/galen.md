@@ -1,5 +1,7 @@
 # galen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galen.md)
+
 <p><span class="chinese">我和她不再通信了。</span><span class="english">Galen and I have communicated.</span></p>
 
 <p><span class="chinese">加伦是一个很出名的医生。</span><span class="english">Galen was a very famous doctor.</span></p>

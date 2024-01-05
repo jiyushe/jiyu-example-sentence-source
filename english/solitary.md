@@ -1,5 +1,7 @@
 # solitary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solitary.md)
+
 <p><span class="chinese">他过着离群索居的生活。</span><span class="english">He leads a solitary life.</span></p>
 
 <p><span class="chinese">快乐都是孤独的么？</span><span class="english">Is all happiness solitary?</span></p>

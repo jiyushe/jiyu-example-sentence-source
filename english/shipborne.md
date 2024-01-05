@@ -1,5 +1,7 @@
 # shipborne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shipborne.md)
+
 <p><span class="chinese">武器系统是现代作战系统的重要组成部分。</span><span class="english">Weapon system is an important part of modern shipborne weapon system.</span></p>
 
 <p><span class="chinese">船载风廓线雷达是一种新型海上测风仪器。</span><span class="english">Shipborne Wind-Profile radar is a new type of Wind measurement instruments.</span></p>

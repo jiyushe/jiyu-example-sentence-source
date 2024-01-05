@@ -1,5 +1,7 @@
 # 芥子气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieziqi.md)
+
 <p><span class="chinese">德国使用芥子气干扰同盟军队的炮兵。</span><span class="english">Germans introduced mustard gas which interfered with the Allied artillery.</span></p>
 
 <p><span class="chinese">结论芥子气染毒能诱导小鼠皮肤蛋白表达谱的改变。</span><span class="english">CONCLUSION Sulfur mustard can alter the protein expression patterns of mouse skin.</span></p>

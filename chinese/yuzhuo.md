@@ -1,5 +1,7 @@
 # 愚拙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhuo.md)
+
 <p><span class="chinese">把我的愚拙提到博学的高度。</span><span class="english">As high as learning, my rude ignorance.</span></p>
 
 <p><span class="chinese">神的愚拙远胜过人的智慧。</span><span class="english">Rest our faith on God's power, not human wisdom.</span></p>

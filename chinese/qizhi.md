@@ -1,5 +1,7 @@
 # 器质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizhi.md)
+
 <p><span class="chinese">所有受检者中4名CPT值增高者均证实有器质性病变。</span><span class="english">All the 4 patients who showed higher CPT were proved to have organic diseases.</span></p>
 
 <p><span class="chinese">作为“大的器质”的散文，西部散文是主体生命意识的多维呈现。</span><span class="english">The prose works about western china express multiple sense of life of these writers.</span></p>

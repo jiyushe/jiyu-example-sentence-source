@@ -1,5 +1,7 @@
 # 碳酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tansuan.md)
+
 <p><span class="chinese">它以前叫石碳酸。</span><span class="english">It was known as carbolic acid.</span></p>
 
 <p><span class="chinese">你对碳酸氢纳认识多少？</span><span class="english">What do you know about sodium bicarbonate?</span></p>

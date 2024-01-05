@@ -1,5 +1,7 @@
 # 故去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guqu.md)
+
 <p><span class="chinese">两年前我的父亲故去。</span><span class="english">I lost my father two years ago.</span></p>
 
 <p><span class="chinese">他的第一房夫人在2004年故去了。</span><span class="english">His first wife passed away in 2004.</span></p>

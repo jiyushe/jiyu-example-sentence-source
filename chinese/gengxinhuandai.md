@@ -1,5 +1,7 @@
 # 更新换代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gengxinhuandai.md)
+
 <p><span class="chinese">是各指针式仪表更新换代的理想产品。</span><span class="english">Is the pointer type instrument renewal of ideal products.</span></p>
 
 <p><span class="chinese">可作为低压成套开关设备的更新换代产品使用。</span><span class="english">It is a new generation product of low voltage switchgear assemblies.</span></p>

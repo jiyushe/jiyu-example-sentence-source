@@ -1,5 +1,7 @@
 # gbe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gbe.md)
+
 <p><span class="chinese">结果提示，银杏叶提取物对西洛他唑的蛋白结合率基本无影响。</span><span class="english">Therefore, the protein-binding rate of cilostazol was not disturbed by GBE.</span></p>
 
 <p><span class="chinese">介绍了焊接熔池组织模拟的GBE模型。</span><span class="english">The GBE model for simulation of grain structures in welding pool is introduced.</span></p>

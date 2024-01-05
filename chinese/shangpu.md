@@ -1,5 +1,7 @@
 # 商铺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangpu.md)
+
 <p><span class="chinese">第六句把握商铺投资脉搏.</span><span class="english">Grasp the pulse of investment shops.</span></p>
 
 <p><span class="chinese">暴徒们放火点燃了整排商铺。</span><span class="english">Rioters set fire to a whole row of stores.</span></p>

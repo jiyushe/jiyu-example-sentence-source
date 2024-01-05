@@ -1,5 +1,7 @@
 # 玉树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushu_1.md)
+
 <p><span class="chinese">美如玉树的诗章。</span><span class="english">A poem lovely as a tree.</span></p>
 
 <p><span class="chinese">玉树未列入这一名单。</span><span class="english">Yushu wasn't on the list.</span></p>

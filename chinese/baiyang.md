@@ -1,5 +1,7 @@
 # 白杨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiyang.md)
+
 <p><span class="chinese">这个白杨-M到底厉害在哪儿？</span><span class="english">The Topol-M in the end where the powerful?</span></p>
 
 <p><span class="chinese">道路两旁笔直的白杨排成行。</span><span class="english">Erect poplars lined both sides of the road.</span></p>

@@ -1,5 +1,7 @@
 # intelligentize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intelligentize.md)
+
 <p><span class="chinese">其技术特点是数字化、网络化、智能化和多媒体化。</span><span class="english">The characters is digital, internet, intelligentize and multimedia.</span></p>
 
 <p><span class="chinese">本测试仪解决了传统测时仪难以具备的高分辨率问题，人机界面友好，实现智能化操作。</span><span class="english">The instrument with friendly man-machine conversation interface can also simplify and intelligentize the operations.</span></p>

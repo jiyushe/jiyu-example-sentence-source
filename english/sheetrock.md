@@ -1,5 +1,7 @@
 # sheetrock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheetrock.md)
+
 <p><span class="chinese">他拿了一份暑期工被卸下部分胶纸夹板工作。</span><span class="english">He had taken a summer job and was unloading some sheetrock at work.</span></p>
 
 <p><span class="chinese">到了安装非承重墙的时候，他四处走动，注意到一处没用上的小角落。</span><span class="english">As they got to the sheetrock stage, he was walking around and noticed an unused alcove.</span></p>

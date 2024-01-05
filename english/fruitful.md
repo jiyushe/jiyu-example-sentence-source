@@ -1,5 +1,7 @@
 # fruitful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fruitful.md)
+
 <p><span class="chinese">狄更斯是位多产的小说家。</span><span class="english">Dicken's was a fruitful novelist.</span></p>
 
 <p><span class="chinese">她仅仅是一位多子多孙的妇女。</span><span class="english">She was simply the most fruitful woman.</span></p>

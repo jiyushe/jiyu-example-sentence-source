@@ -1,5 +1,7 @@
 # 惊雷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinglei.md)
+
 <p><span class="chinese">有时沉默好似震天惊雷。</span><span class="english">Sometimes silence can seem so loud.</span></p>
 
 <p><span class="chinese">当地的居民管它叫“莫斯特-噢-屯雅”或是“烟雾惊雷”。</span><span class="english">Area natives call them "Most-oa-tunya" or "the smoke that thunders.</span></p>

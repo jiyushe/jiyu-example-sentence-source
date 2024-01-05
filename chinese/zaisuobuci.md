@@ -1,5 +1,7 @@
 # 在所不辞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaisuobuci.md)
+
 <p><span class="chinese">为了正义事业赴汤蹈火在所不辞。</span><span class="english">I wouldn't hesitate to go through fire and water for the just cause.</span></p>
 
 <p><span class="chinese">他们做事会采取主动，即使这样做要冒风险，也在所不辞。</span><span class="english">They are prepared to take the initiative , even when there is a risk in doing so.</span></p>

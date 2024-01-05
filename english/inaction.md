@@ -1,5 +1,7 @@
 # inaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inaction.md)
+
 <p><span class="chinese">这种无为的的代价太大了。</span><span class="english">The costs of inaction are too great.</span></p>
 
 <p><span class="chinese">无所作为的另一种风险可能就是局部战争。</span><span class="english">Another risk of inaction could be regional war.</span></p>

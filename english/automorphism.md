@@ -1,5 +1,7 @@
 # automorphism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automorphism.md)
+
 <p><span class="chinese">一个地图的自同构就是到它本身的一个同构。</span><span class="english">An automorphism of a map is an isomorphism from the map to itself.</span></p>
 
 <p><span class="chinese">给出了这个非结合代数的自同构。</span><span class="english">The forms of any automorphism of the non-associative algebra are also given.</span></p>

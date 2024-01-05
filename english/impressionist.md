@@ -1,5 +1,7 @@
 # impressionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impressionist.md)
+
 <p><span class="chinese">苏富比上周的印象派画作拍卖表现疲软。</span><span class="english">Sotheby's Impressionist sale had a poor showing last week.</span></p>
 
 <p><span class="chinese">哥斯达黎加的层层水波，颇似印象派绘画。</span><span class="english">Water ripples resemble an impressionist painting in Costa Rica.</span></p>

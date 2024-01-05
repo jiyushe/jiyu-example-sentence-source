@@ -1,5 +1,7 @@
 # confluence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confluence.md)
+
 <p><span class="chinese">合流是历史的必然。</span><span class="english">Confluence is an inexorable historical trend.</span></p>
 
 <p><span class="chinese">抢盐恐慌由片状谣言合流而引发。</span><span class="english">It was triggered by a confluence of flaky rumours.</span></p>

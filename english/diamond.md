@@ -1,5 +1,7 @@
 # diamond 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diamond.md)
+
 <p><span class="chinese">他先出了一张方块。</span><span class="english">He led a diamond.</span></p>
 
 <p><span class="chinese">钻石怎么样?</span><span class="english">How about diamond?</span></p>

@@ -1,5 +1,7 @@
 # frustum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frustum.md)
+
 <p><span class="chinese">摄像机视景外剔除对象花费的时间。</span><span class="english">Time spent culling objects outside the camera frustum.</span></p>
 
 <p><span class="chinese">剩下的缀片通过视见体进行剔除。</span><span class="english">All remaining patches are culled against the viewing frustum.</span></p>

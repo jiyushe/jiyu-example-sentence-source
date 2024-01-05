@@ -1,5 +1,7 @@
 # 莲子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianzi_2.md)
+
 <p><span class="chinese">但莲子也不会死掉。</span><span class="english">But it will not die, either.</span></p>
 
 <p><span class="chinese">莲子清如水。</span><span class="english">Seeds as translucent as water.</span></p>

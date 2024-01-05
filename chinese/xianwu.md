@@ -1,5 +1,7 @@
 # 嫌恶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianwu.md)
+
 <p><span class="chinese">他的行为使每个人都嫌恶。</span><span class="english">His behaviour disgusted everybody.</span></p>
 
 <p><span class="chinese">我们都非常嫌恶这些旧习惯。</span><span class="english">We all hold these old customs in detestation.</span></p>

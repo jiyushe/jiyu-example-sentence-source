@@ -1,5 +1,7 @@
 # jupiter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jupiter.md)
+
 <p><span class="chinese">普鲁特和杰比特是外星人。</span><span class="english">Pluto and Jupiter are aliens.</span></p>
 
 <p><span class="chinese">普鲁特和杰比特准备回家了。</span><span class="english">Pluto and Jupiter are going home.</span></p>

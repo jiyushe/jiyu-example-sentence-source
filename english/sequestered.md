@@ -1,5 +1,7 @@
 # sequestered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequestered.md)
+
 <p><span class="chinese">学习的爱，退隐的角落。</span><span class="english">The love of learning, the sequestered nooks.</span></p>
 
 <p><span class="chinese">它们被隔离在硅树脂层之间。</span><span class="english">They're sequestered between layers of silicone.</span></p>

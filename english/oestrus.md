@@ -1,5 +1,7 @@
 # oestrus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oestrus.md)
+
 <p><span class="chinese">抒发自己的情感就叫发情。</span><span class="english">Him express affection calls oestrus.</span></p>
 
 <p><span class="chinese">他使用催情的方法来提高兔子的繁殖率。</span><span class="english">He increased the reproduction rate of rabbits by inducing oestrus.</span></p>

@@ -1,5 +1,7 @@
 # 标点符号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaodianfuhao.md)
+
 <p><span class="chinese">逗号是一种标点符号。</span><span class="english">Comma is a kind of punctuation.</span></p>
 
 <p><span class="chinese">我用标点符号叹气。</span><span class="english">And I sigh with my punctuations.</span></p>

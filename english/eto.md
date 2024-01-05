@@ -1,5 +1,7 @@
 # eto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eto.md)
+
 <p><span class="chinese">很高兴见到你，汤姆。</span><span class="english">Nice eto see you, Tom.</span></p>
 
 <p><span class="chinese">例8。向文明市民致敬！</span><span class="english">Salute eto Civilized Citizens!</span></p>

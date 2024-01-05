@@ -1,5 +1,7 @@
 # acoustic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acoustic.md)
+
 <p><span class="chinese">这个大厅的传音效果很好。</span><span class="english">The hall has a fine acoustic.</span></p>
 
 <p><span class="chinese">玻璃的声学振动。</span><span class="english">Acoustic vibrations of a glass.</span></p>

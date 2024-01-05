@@ -1,5 +1,7 @@
 # nineteen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nineteen.md)
+
 <p><span class="chinese">那年我十九岁。</span><span class="english">I was nineteen.</span></p>
 
 <p><span class="chinese">她十九岁了。</span><span class="english">She is nineteen.</span></p>

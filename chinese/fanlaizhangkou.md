@@ -1,5 +1,7 @@
 # 饭来张口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanlaizhangkou.md)
+
 <p><span class="chinese">那里住着一个饭来张口的贵人，它名叫王子。</span><span class="english">There lived a pampered personage by the name of Prince.</span></p>
 
 <p><span class="chinese">如果你今晚有空，一起吃晚饭来张口怎么样?。</span><span class="english">If you're free tonight, how about having dinner together?</span></p>

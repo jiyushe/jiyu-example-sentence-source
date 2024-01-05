@@ -1,5 +1,7 @@
 # twin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twin.md)
+
 <p><span class="chinese">是诺米的孪生姐妹。</span><span class="english">Naomi's twin sister.</span></p>
 
 <p><span class="chinese">她们是孪生姐妹。</span><span class="english">They are twin sisters.</span></p>

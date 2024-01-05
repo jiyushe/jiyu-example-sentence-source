@@ -1,5 +1,7 @@
 # 地心引力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixinyinli.md)
+
 <p><span class="chinese">地心引力不懈地拖曳着我的眼皮。</span><span class="english">Gravity is tugging on my eyelids.</span></p>
 
 <p><span class="chinese">啊，地心引力，你是一个无情无义的婊子。</span><span class="english">Ah gravity, thou are a heartless bitch.</span></p>

@@ -1,5 +1,7 @@
 # 评审
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingshen.md)
+
 <p><span class="chinese">评审这个模型。</span><span class="english">Review the model.</span></p>
 
 <p><span class="chinese">美国设计优秀奖是如何评审的？</span><span class="english">How are judges selected for IDEA?</span></p>

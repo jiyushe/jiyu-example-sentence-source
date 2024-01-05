@@ -1,5 +1,7 @@
 # 葡萄胎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putaotai.md)
+
 <p><span class="chinese">这是三倍体部分性葡萄胎的另一实例。</span><span class="english">Here is another partial mole in a case of triploidy.</span></p>
 
 <p><span class="chinese">葡萄胎无血管的绒毛是十分大的。</span><span class="english">The avascular villi of molar pregnancy are quite large.</span></p>

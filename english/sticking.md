@@ -1,5 +1,7 @@
 # sticking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sticking.md)
+
 <p><span class="chinese">我看见他一直在广场附近闲荡。</span><span class="english">I saw him sticking by the square.</span></p>
 
 <p><span class="chinese">从土块里还伸出来一只鞋。</span><span class="english">Sticking out of the clod is a shoe.</span></p>

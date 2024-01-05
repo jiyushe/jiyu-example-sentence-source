@@ -1,5 +1,7 @@
 # exhaustible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhaustible.md)
+
 <p><span class="chinese">这个国家的煤储藏量在不久的将来就会用尽。</span><span class="english">The amount of coal of this country will be exhaustible within not a long time.</span></p>
 
 <p><span class="chinese">人们应该清楚地认识到水资源是有限的，而且是会枯竭的。</span><span class="english">People on earth should be fully aware that water resource is limited and exhaustible.</span></p>

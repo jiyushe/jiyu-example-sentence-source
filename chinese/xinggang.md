@@ -1,5 +1,7 @@
 # 型钢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinggang.md)
+
 <p><span class="chinese">当然可以。各种中厚板和薄板，以及各种型钢。</span><span class="english">Of course. plate, sheet and various kinds of section steel.</span></p>
 
 <p><span class="chinese">当然可以。各种中厚板和薄板，以及各种型钢。</span><span class="english">Of course. Plate, sheet and various kinds of section steels.</span></p>

@@ -1,5 +1,7 @@
 # fencer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fencer.md)
+
 <p><span class="chinese">实际上我是个花剑比赛选手。</span><span class="english">Actually, I am a competitive foil fencer.</span></p>
 
 <p><span class="chinese">击剑手挡开了对手的猛刺。</span><span class="english">The fencer parried his opponent's thrust.</span></p>

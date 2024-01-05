@@ -1,5 +1,7 @@
 # 特派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tepai.md)
+
 <p><span class="chinese">他自告奋勇当这次会议的特派记者。</span><span class="english">He volunteered as special correspondent for the conference.</span></p>
 
 <p><span class="chinese">“我们会坚守长城到剩最后一个人”卡特派克说道。</span><span class="english">"We'll defend the Wall to the last man, " said Cotter Pyke.</span></p>

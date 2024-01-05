@@ -1,5 +1,7 @@
 # 文学家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxuejia.md)
+
 <p><span class="chinese">作者是清代文学家曹雪芹。</span><span class="english">The author was Cao Xueqin of the Qing Dynasty.</span></p>
 
 <p><span class="chinese">他是专攻美国诗歌的语文学家。</span><span class="english">He is a philologist, specialising in American poetry.</span></p>

@@ -1,5 +1,7 @@
 # underdeveloped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underdeveloped.md)
+
 <p><span class="chinese">在欠发达国家里，几乎没有无神论者。</span><span class="english">In underdeveloped countries, there are virtually no atheists.</span></p>
 
 <p><span class="chinese">在一些不发澾的国家，伐木业十分重嘦。</span><span class="english">Lumbering is very momentous in some underdeveloped countries.</span></p>

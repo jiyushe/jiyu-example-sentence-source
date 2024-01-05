@@ -1,5 +1,7 @@
 # 利害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lihai.md)
+
 <p><span class="chinese">新规则对雒海超有很大的利害关系。</span><span class="english">Mr Luo has a lot at stake.</span></p>
 
 <p><span class="chinese">这是一种很利害的手段。</span><span class="english">This is a formidable move.</span></p>

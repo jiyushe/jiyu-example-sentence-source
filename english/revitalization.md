@@ -1,5 +1,7 @@
 # revitalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revitalization.md)
+
 <p><span class="chinese">艾里·勒琼成为复兴法裔美国人音乐的关键人物。</span><span class="english">Iry Lejeune became a pivotal figure in the revitalization of Cajun music.</span></p>
 
 <p><span class="chinese">每当羚羊烘干和艰苦成为，浸泡它在水中为复活。</span><span class="english">Whenever chamois dries up and becomes hard, Soak it in water for revitalization.</span></p>

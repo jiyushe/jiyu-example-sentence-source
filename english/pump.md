@@ -1,5 +1,7 @@
 # pump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pump.md)
+
 <p><span class="chinese">启动消防泵。</span><span class="english">Start the fire pump.</span></p>
 
 <p><span class="chinese">快点浦头哦！</span><span class="english">Quickly pump head Oh!</span></p>

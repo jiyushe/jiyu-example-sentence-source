@@ -1,5 +1,7 @@
 # sitcom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sitcom.md)
+
 <p><span class="chinese">情景喜剧中的单身女人从来不会独身很久的。</span><span class="english">The sitcom single woman is never alone for long.</span></p>
 
 <p><span class="chinese">小品演员赵本山位居第六。</span><span class="english">Skit and sitcom actor Zhao Benshan is in the sixth place.</span></p>

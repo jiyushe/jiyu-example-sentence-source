@@ -1,5 +1,7 @@
 # 祛除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quchu_1.md)
+
 <p><span class="chinese">什么东西可以祛除杨梅汁？</span><span class="english">What gets out waxberry juice?</span></p>
 
 <p><span class="chinese">祛除黄褐斑的最好中药是什么？</span><span class="english">Get rid of melasma what is the best medicine?</span></p>

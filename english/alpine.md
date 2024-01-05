@@ -1,5 +1,7 @@
 # alpine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alpine.md)
+
 <p><span class="chinese">培植高山植物。</span><span class="english">He breeds alpine plants.</span></p>
 
 <p><span class="chinese">以高山棘刺植物为食。</span><span class="english">To feed on alpine plants thorns.</span></p>

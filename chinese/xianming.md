@@ -1,5 +1,7 @@
 # 显明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianming.md)
+
 <p><span class="chinese">祂的挚爱常在幽秘中显明表征</span><span class="english">In secret of His deeper love is shown</span></p>
 
 <p><span class="chinese">神是如何显明他对我们的爱呢？</span><span class="english">How does God demonstrate his love for us?</span></p>

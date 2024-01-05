@@ -1,5 +1,7 @@
 # blandness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blandness.md)
+
 <p><span class="chinese">温柔是女人特有的武器。</span><span class="english">Blandness is women's special weapon.</span></p>
 
 <p><span class="chinese">传播媒介在基本政治问题上通常采取温和的态度。</span><span class="english">Blandness in the basic politics of the media became standard.</span></p>

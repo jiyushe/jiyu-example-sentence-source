@@ -1,5 +1,7 @@
 # delighted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delighted.md)
+
 <p><span class="chinese">奈妲被逗乐了。</span><span class="english">Naida was delighted.</span></p>
 
 <p><span class="chinese">很高兴认识你。</span><span class="english">Delighted to meet you.</span></p>

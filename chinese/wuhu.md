@@ -1,5 +1,7 @@
 # 呜呼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhu.md)
+
 <p><span class="chinese">呜呼，现在比下单前更紧张了。</span><span class="english">Now i am even more tense.</span></p>
 
 <p><span class="chinese">呜呼！，我必须保持公平！</span><span class="english">Alack! and i must keep the fair!</span></p>

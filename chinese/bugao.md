@@ -1,5 +1,7 @@
 # 布告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bugao.md)
+
 <p><span class="chinese">他把布告揭了下来。</span><span class="english">He tore down the notice.</span></p>
 
 <p><span class="chinese">请帮我把这些布告贴在墙上。</span><span class="english">Help me to paste up these notices.</span></p>

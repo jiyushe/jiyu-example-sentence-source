@@ -1,5 +1,7 @@
 # centrally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centrally.md)
+
 <p><span class="chinese">布鲁塞尔也位于欧洲的中心。</span><span class="english">Brussels is also centrally located in Europe.</span></p>
 
 <p><span class="chinese">它在本质上属于中央控制和自上而下的模式。</span><span class="english">It is centrally controlled and top-down in nature.</span></p>

@@ -1,5 +1,7 @@
 # regurgitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regurgitate.md)
+
 <p><span class="chinese">不要照背课本中的东西。</span><span class="english">Don't regurgitate the stuff given in the textbook.</span></p>
 
 <p><span class="chinese">窒息，作呕，因为痉挛使人反胃、想吐。</span><span class="english">Choke retch or have a spasm causing one to regurgitate.</span></p>

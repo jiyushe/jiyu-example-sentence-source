@@ -1,5 +1,7 @@
 # coin 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coin.md)
+
 <p><span class="chinese">那是一枚硬币。</span><span class="english">It was a coin.</span></p>
 
 <p><span class="chinese">我把硬币塞入钱包。</span><span class="english">I will purse the coin.</span></p>

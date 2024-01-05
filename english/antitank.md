@@ -1,5 +1,7 @@
 # antitank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antitank.md)
+
 <p><span class="chinese">1941年生产的反坦克加农炮——ZIS-2.</span><span class="english">ZiS-2, the antitank cannon, 1941.</span></p>
 
 <p><span class="chinese">地雷按用途分为防步兵地雷、防坦克地雷和特种地雳。</span><span class="english">The land mine divides into the personnel mine, the antitank mine according to the use and special li.</span></p>

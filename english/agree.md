@@ -1,5 +1,7 @@
 # agree 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agree.md)
+
 <p><span class="chinese">我当然同意。</span><span class="english">I do agree.</span></p>
 
 <p><span class="chinese">愚以为不然。</span><span class="english">I do not agree.</span></p>

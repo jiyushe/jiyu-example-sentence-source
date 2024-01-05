@@ -1,5 +1,7 @@
 # feebly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feebly.md)
+
 <p><span class="chinese">他有气无力地挥了挥手。</span><span class="english">He waved his hands feebly.</span></p>
 
 <p><span class="chinese">我能做到这一点，我对自己说谎无力。</span><span class="english">I can do this, I lied to myself feebly.</span></p>

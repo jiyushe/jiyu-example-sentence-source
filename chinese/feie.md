@@ -1,5 +1,7 @@
 # 飞蛾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feie.md)
+
 <p><span class="chinese">飞蛾扑火，有几人能做到。</span><span class="english">A moth, a few people can do.</span></p>
 
 <p><span class="chinese">飞蛾不会离火而去。</span><span class="english">The moth can't fly from a fire.</span></p>

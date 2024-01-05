@@ -1,5 +1,7 @@
 # metalloid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metalloid.md)
+
 <p><span class="chinese">钋是高放射性的元素，金属。</span><span class="english">Polonium is a highly radioactive element and a metalloid.</span></p>
 
 <p><span class="chinese">评价公路旁土壤中重金属和类金属污染。</span><span class="english">To assess the pollution of heavy metals and metalloid in soil along road.</span></p>

@@ -1,5 +1,7 @@
 # 陈规
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengui.md)
+
 <p><span class="chinese">让你的大脑忙碌起来，挑战你自己，和别人聊天，打破陈规。</span><span class="english">Challenge yourself. Talk to somebody.</span></p>
 
 <p><span class="chinese">平庸无才和内心挫折才是默守陈规真正的代价。</span><span class="english">Mediocrity and inner frustration are the true price of conforming.</span></p>

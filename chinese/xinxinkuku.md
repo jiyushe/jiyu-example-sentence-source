@@ -1,5 +1,7 @@
 # 辛辛苦苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxinkuku.md)
+
 <p><span class="chinese">我们辛辛苦苦干了一整天。</span><span class="english">We drudged away a whole day.</span></p>
 
 <p><span class="chinese">这活我已经辛辛苦苦地干了整整一天。</span><span class="english">I've fagged at this work all day.</span></p>

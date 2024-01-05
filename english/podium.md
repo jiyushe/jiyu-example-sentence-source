@@ -1,5 +1,7 @@
 # podium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/podium.md)
+
 <p><span class="chinese">这是一个讲台</span><span class="english">So here's a podium.</span></p>
 
 <p><span class="chinese">我站在讲台跟前</span><span class="english">I stand near this podium.</span></p>

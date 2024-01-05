@@ -1,5 +1,7 @@
 # accentuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accentuation.md)
+
 <p><span class="chinese">病程为持续性加重。</span><span class="english">Course of diseases is durative accentuation.</span></p>
 
 <p><span class="chinese">贫血会加重乙肝吗?。</span><span class="english">Liver of second of anaemic meeting accentuation?</span></p>

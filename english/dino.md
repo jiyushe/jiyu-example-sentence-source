@@ -1,5 +1,7 @@
 # dino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dino.md)
+
 <p><span class="chinese">按恐龙脖子上的按键斯巴克就会开始扭动它的脖子。</span><span class="english">Push the dino neck button to make Spike move his neck!</span></p>
 
 <p><span class="chinese">恐龙跑跑跑是我理想中的C64游戏。</span><span class="english">Dino Run is what I wish my Commodore 64 games were like.</span></p>

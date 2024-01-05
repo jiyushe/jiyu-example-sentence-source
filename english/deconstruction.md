@@ -1,5 +1,7 @@
 # deconstruction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deconstruction.md)
+
 <p><span class="chinese">这是对解构主义的普遍反应。</span><span class="english">This is a common response to deconstruction.</span></p>
 
 <p><span class="chinese">这种对作品的分拆破解叫做“解构”。</span><span class="english">This fragmentation of a work is called "deconstruction."</span></p>

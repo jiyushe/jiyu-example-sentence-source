@@ -1,5 +1,7 @@
 # 产床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanchuang.md)
+
 <p><span class="chinese">一个好的干湿饲喂产床有优势。</span><span class="english">A good wet dry farrow crate feeder has advantage.</span></p>
 
 <p><span class="chinese">玛丽亚无须再前行——欢迎啊，茅屋，屋顶下的产床！</span><span class="english">Mary she might not further go—Welcome thatch, and litter below!</span></p>

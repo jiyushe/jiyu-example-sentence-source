@@ -1,5 +1,7 @@
 # hazing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hazing.md)
+
 <p><span class="chinese">再说回欺负新人。</span><span class="english">Go back to hazing.</span></p>
 
 <p><span class="chinese">容易切割、钻孔、弯曲且变位不会变白。</span><span class="english">Can be drilled, cut, curved without cracking or hazing.</span></p>

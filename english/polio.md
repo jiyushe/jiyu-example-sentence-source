@@ -1,5 +1,7 @@
 # polio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polio.md)
+
 <p><span class="chinese">什么是疫苗衍生的脊髓灰质炎病毒?</span><span class="english">What is vaccine-derived polio?</span></p>
 
 <p><span class="chinese">这是一小瓶脊髓灰质炎疫苗。</span><span class="english">Here is a vial of polio vaccine.</span></p>

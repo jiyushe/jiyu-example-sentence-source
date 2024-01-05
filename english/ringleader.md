@@ -1,5 +1,7 @@
 # ringleader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ringleader.md)
+
 <p><span class="chinese">捕捉强盗，第一的捕捉魁首。</span><span class="english">To catch bandits , first catch the ringleader.</span></p>
 
 <p><span class="chinese">作为社区管理者的您同时也是社区的领导者。</span><span class="english">You, as the community manager, are their ringleader.</span></p>

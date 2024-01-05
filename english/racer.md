@@ -1,5 +1,7 @@
 # racer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racer.md)
+
 <p><span class="chinese">我的叔叔，鲍勃，是一个狗雪橇比赛者。</span><span class="english">My uncle, Bob, is a dogsled racer.</span></p>
 
 <p><span class="chinese">竞赛者用了1分43秒跑完了一圈。</span><span class="english">The racer lapped in 1 minute 43 seconds.</span></p>

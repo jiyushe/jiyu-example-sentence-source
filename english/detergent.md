@@ -1,5 +1,7 @@
 # detergent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detergent.md)
+
 <p><span class="chinese">低泡洗衣粉。</span><span class="english">Low foaming detergent.</span></p>
 
 <p><span class="chinese">我喜欢这个洗洁精。</span><span class="english">I like this dish detergent.</span></p>

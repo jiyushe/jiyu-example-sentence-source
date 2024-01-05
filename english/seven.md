@@ -1,5 +1,7 @@
 # seven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seven.md)
+
 <p><span class="chinese">七月七的玫瑰！</span><span class="english">July seven roses!</span></p>
 
 <p><span class="chinese">我七点钟起床。</span><span class="english">I get up at seven.</span></p>

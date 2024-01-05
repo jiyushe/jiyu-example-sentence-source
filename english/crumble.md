@@ -1,5 +1,7 @@
 # crumble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crumble.md)
+
 <p><span class="chinese">黑莓崩溃？</span><span class="english">BlackBerry crumble?</span></p>
 
 <p><span class="chinese">或者梦到牙齿碎成粉状。</span><span class="english">Or your teeth crumble into powder.</span></p>

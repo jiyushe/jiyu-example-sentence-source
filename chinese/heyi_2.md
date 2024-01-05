@@ -1,5 +1,7 @@
 # 合一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heyi_2.md)
+
 <p><span class="chinese">深色鹅绒夜当我俩合一。</span><span class="english">Deep velvet nights when we are one.</span></p>
 
 <p><span class="chinese">你居我衷里，我与你合一。</span><span class="english">Thou in me dwelling, and I with thee one.</span></p>

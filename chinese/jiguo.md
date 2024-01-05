@@ -1,5 +1,7 @@
 # 记过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiguo.md)
+
 <p><span class="chinese">记过基本上令人满意。</span><span class="english">Give a demerit basically satisfactory.</span></p>
 
 <p><span class="chinese">如果你缺席会议，会被记过的。</span><span class="english">You get demerits if you miss a meeting.</span></p>

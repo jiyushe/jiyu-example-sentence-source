@@ -1,5 +1,7 @@
 # 直升机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishengji.md)
+
 <p><span class="chinese">米-28与mi-24直升机群。</span><span class="english">The Mi-28 and Mi-24.</span></p>
 
 <p><span class="chinese">直升机和滑雪者在红宝石山。</span><span class="english">Heli-Ski the Ruby Mountains.</span></p>

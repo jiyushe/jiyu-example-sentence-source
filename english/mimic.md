@@ -1,5 +1,7 @@
 # mimic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mimic.md)
+
 <p><span class="chinese">它们模拟真实情况。</span><span class="english">They mimic in a real sense we do it.</span></p>
 
 <p><span class="chinese">她5岁时就学会模仿。</span><span class="english">She learned to mimic at the age of five.</span></p>

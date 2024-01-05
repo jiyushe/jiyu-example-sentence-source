@@ -1,5 +1,7 @@
 # ak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ak.md)
+
 <p><span class="chinese">我目前最喜欢的就是AK记事本。</span><span class="english">My favorite, by far, is AK Notepad.</span></p>
 
 <p><span class="chinese">他通过发明AK对世界造成了一个巨大的伤害。</span><span class="english">He has done a great disservice to the world by inventing AK.</span></p>

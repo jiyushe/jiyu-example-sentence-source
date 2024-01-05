@@ -1,5 +1,7 @@
 # 盐场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanchang_2.md)
+
 <p><span class="chinese">1430年，这里首次发现了盐场。</span><span class="english">First saltworks here were observed in 1430.</span></p>
 
 <p><span class="chinese">这个角度恰好能很好的展现Baskunchak和盐场的景色。</span><span class="english">Here's a great view of Baskunchak and salt-mines.</span></p>

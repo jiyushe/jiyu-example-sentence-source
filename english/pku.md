@@ -1,5 +1,7 @@
 # pku
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pku.md)
+
 <p><span class="chinese">如果你从未听说过北大，没有汗水它。</span><span class="english">If you never heard of PKU , don't sweat it.</span></p>
 
 <p><span class="chinese">天渐渐暗了下来，我们搭公交转向北大。</span><span class="english">It was getting dark. We went to PKU by bus.</span></p>

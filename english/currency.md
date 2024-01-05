@@ -1,5 +1,7 @@
 # currency 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/currency.md)
+
 <p><span class="chinese">任何形式的货币.</span><span class="english">Any type of currency.</span></p>
 
 <p><span class="chinese">津巴布韦货币没有任何价值！</span><span class="english">Zim currency has no value!</span></p>

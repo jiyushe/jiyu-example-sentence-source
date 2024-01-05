@@ -1,5 +1,7 @@
 # tidily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tidily.md)
+
 <p><span class="chinese">请把你的东西整齐地收好。</span><span class="english">Please put your things away tidily.</span></p>
 
 <p><span class="chinese">他的书籍整整齐齐地排列在书架上。</span><span class="english">His books were ranked tidily on the bookshelf.</span></p>

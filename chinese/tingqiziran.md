@@ -1,5 +1,7 @@
 # 听其自然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingqiziran.md)
+
 <p><span class="chinese">要想痊愈就听其自然吧。</span><span class="english">Leave the cure to Mother Nature.</span></p>
 
 <p><span class="chinese">我侍建议是听其自然。</span><span class="english">My advice is to leave well alone.</span></p>

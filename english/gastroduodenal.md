@@ -1,5 +1,7 @@
 # gastroduodenal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastroduodenal.md)
+
 <p><span class="chinese">目的探讨胃十二指肠溃疡大出血的外科治疗。</span><span class="english">Objective To study the surgical treatment in massive hemorrhage of gastroduodenal ulcer.</span></p>
 
 <p><span class="chinese">可用治肝炎、胃十二指肠溃疡、白带、泻痢、口舌生疮、疮痔疥癣、水火虫伤。</span><span class="english">It can cure hepatitis, gastroduodenal ulcer, leucorrhea, dysentery and sore in the mouth.</span></p>

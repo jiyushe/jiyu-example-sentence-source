@@ -1,5 +1,7 @@
 # 瓷漆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciqi.md)
+
 <p><span class="chinese">用瓷漆做了一次试验。</span><span class="english">Experiments with enamel paint.</span></p>
 
 <p><span class="chinese">伊斯法罕的艺术家在制作瓷漆铜制品。</span><span class="english">An enamelled copperware artist at work in Esfahan.</span></p>

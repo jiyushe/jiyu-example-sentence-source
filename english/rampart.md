@@ -1,5 +1,7 @@
 # rampart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rampart.md)
+
 <p><span class="chinese">大牛，这就是敌楼。</span><span class="english">Daniel, this was a rampart.</span></p>
 
 <p><span class="chinese">我们是否在坍塌墙顶的一只锡杯中呆过。</span><span class="english">Were we in a tin cup on top of a busted rampart.</span></p>

@@ -1,5 +1,7 @@
 # profession 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profession_1.md)
+
 <p><span class="chinese">什么职业？</span><span class="english">What profession?</span></p>
 
 <p><span class="chinese">你的职业是什么？</span><span class="english">What’s your profession?</span></p>

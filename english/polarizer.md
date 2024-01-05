@@ -1,5 +1,7 @@
 # polarizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polarizer.md)
+
 <p><span class="chinese">随着偏光镜和最大。</span><span class="english">With a polarizer and max.</span></p>
 
 <p><span class="chinese">阿偏光板有两个环。</span><span class="english">A polarizer has two rings.</span></p>

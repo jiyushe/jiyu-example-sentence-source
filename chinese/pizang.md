@@ -1,5 +1,7 @@
 # 脾脏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pizang.md)
+
 <p><span class="chinese">脾脏肿大怎么治疗？</span><span class="english">Is milt intumescent how to treat?</span></p>
 
 <p><span class="chinese">脾脏能从其蒂撕脱。</span><span class="english">The spleen can be avulsed from its pedicle.</span></p>

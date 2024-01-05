@@ -1,5 +1,7 @@
 # isf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isf.md)
+
 <p><span class="chinese">这种水可以喝。</span><span class="english">This water isf for drink.</span></p>
 
 <p><span class="chinese">你们应该用标准的ISF表格。</span><span class="english">You should use our standard ISF form.</span></p>

@@ -1,5 +1,7 @@
 # alternating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alternating.md)
+
 <p><span class="chinese">我们工作三班倒。</span><span class="english">We work on alternating shifts.</span></p>
 
 <p><span class="chinese">尼古拉特斯拉发明了交流电。</span><span class="english">Nicola Tesla invents alternating current.</span></p>

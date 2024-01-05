@@ -1,5 +1,7 @@
 # tolerably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tolerably.md)
+
 <p><span class="chinese">我和他很贴心。</span><span class="english">I'm tolerably intimate with him.</span></p>
 
 <p><span class="chinese">这时，有人在门上敲了一下，并且敲得相当凶。</span><span class="english">At that moment there came a tolerably violent knock on the door.</span></p>

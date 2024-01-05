@@ -1,5 +1,7 @@
 # diablo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diablo.md)
+
 <p><span class="chinese">冰箱给我家带来了方便。</span><span class="english">DIABLO convenience of a refrigerator to me.</span></p>
 
 <p><span class="chinese">暗黑一直对用户友好。</span><span class="english">Diablo has always been about user-friendliness.</span></p>

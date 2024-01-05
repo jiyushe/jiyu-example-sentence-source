@@ -1,5 +1,7 @@
 # 图腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuteng.md)
+
 <p><span class="chinese">所有图腾现在持续5分钟。</span><span class="english">All totems now last 5 min.</span></p>
 
 <p><span class="chinese">可奈喜欢她的图腾吗?为什么?。</span><span class="english">Did Kenai like his totem?And why?</span></p>

@@ -1,5 +1,7 @@
 # 大是大非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dashidafei.md)
+
 <p><span class="chinese">我们详细讨论了一个大是大非的问题。</span><span class="english">We batted a cardinal question of right and wrong.</span></p>
 
 <p><span class="chinese">他并指跟他站在一起，才是“最有大是大非的同胞”。</span><span class="english">" He also refers to stand together with him, is "the most major of our compatriots".</span></p>

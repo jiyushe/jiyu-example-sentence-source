@@ -1,5 +1,7 @@
 # tripoli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tripoli.md)
+
 <p><span class="chinese">利比亚发对派将总部搬至的黎波里。</span><span class="english">Rebels to move HQ to Tripoli.</span></p>
 
 <p><span class="chinese">的黎波里支持卡扎菲的示威者们</span><span class="english">Pro-Gaddafi Protesters in Tripoli</span></p>

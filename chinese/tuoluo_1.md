@@ -1,5 +1,7 @@
 # 陀螺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoluo_1.md)
+
 <p><span class="chinese">玩具陀螺。</span><span class="english">Toy gyro.</span></p>
 
 <p><span class="chinese">拿一个陀螺。</span><span class="english">Take a top.</span></p>

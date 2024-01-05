@@ -1,5 +1,7 @@
 # angiotensin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angiotensin.md)
+
 <p><span class="chinese">本品是一种血管紧张素转换酶抑制剂。</span><span class="english">This drug is an angiotensin converting enzyme inhibitor.</span></p>
 
 <p><span class="chinese">这种药物阻断肾素-血管紧张素系统的机制不同于其他药物。</span><span class="english">The mechanism by which they block the renin- angiotensin system is different.</span></p>

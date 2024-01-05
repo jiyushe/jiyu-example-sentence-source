@@ -1,5 +1,7 @@
 # finesse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finesse.md)
+
 <p><span class="chinese">这其实就是一种悲喜剧的手法。</span><span class="english">This actually is a tragicomedy's finesse.</span></p>
 
 <p><span class="chinese">显然，还需要一些更好的策略。</span><span class="english">Clearly, some sort of finesse is required.</span></p>

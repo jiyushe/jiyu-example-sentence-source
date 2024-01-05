@@ -1,5 +1,7 @@
 # lp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lp.md)
+
 <p><span class="chinese">纯棉巧克力色斜纹内层。</span><span class="english">Solid cotton LP chocolate-color twill lining.</span></p>
 
 <p><span class="chinese">把手可折叠，内部可存放一只2207气罐。</span><span class="english">Folding handles, room for one 2207 LP gas cartridge.</span></p>

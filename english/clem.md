@@ -1,5 +1,7 @@
 # clem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clem.md)
+
 <p><span class="chinese">克莱蒙做兼职而且总是在家。</span><span class="english">Clem works part time and is home a lot.</span></p>
 
 <p><span class="chinese">我嫁给“克莱蒙”已经两年了。</span><span class="english">I've been married to " Clem " for two years.</span></p>

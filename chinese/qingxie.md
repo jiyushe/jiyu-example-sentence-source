@@ -1,5 +1,7 @@
 # 倾泻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxie.md)
+
 <p><span class="chinese">人们每天都会通过电波倾泻自己的不满。</span><span class="english">It pours out of the radio all day.</span></p>
 
 <p><span class="chinese">阳光如瀑布般倾泻。</span><span class="english">Sunshine pours down like waterfall.</span></p>

@@ -1,5 +1,7 @@
 # 挑选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoxuan.md)
+
 <p><span class="chinese">乞丐不可能有挑选。</span><span class="english">Bears can't be choosers.</span></p>
 
 <p><span class="chinese">任你挑选一个。</span><span class="english">Choose any one you like.</span></p>

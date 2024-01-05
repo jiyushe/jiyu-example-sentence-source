@@ -1,5 +1,7 @@
 # banditry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banditry.md)
+
 <p><span class="chinese">匪患成为贵州一个严重的社会问题。</span><span class="english">The banditry had became a serious social problem in Guizhou.</span></p>
 
 <p><span class="chinese">农民开始有怨言，进而落草为寇。</span><span class="english">He began to grumble. From grumbling, he passed into banditry.</span></p>

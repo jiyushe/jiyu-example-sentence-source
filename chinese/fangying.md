@@ -1,5 +1,7 @@
 # 放映
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangying.md)
+
 <p><span class="chinese">大部分影院只有一个放映厅。</span><span class="english">Most have only one screen.</span></p>
 
 <p><span class="chinese">这影片已连续放映了一个月。</span><span class="english">The film has run for a month.</span></p>

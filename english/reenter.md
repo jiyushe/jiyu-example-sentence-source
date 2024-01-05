@@ -1,5 +1,7 @@
 # reenter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reenter.md)
+
 <p><span class="chinese">他现在正在努力地重返社会。</span><span class="english">He's now trying to reenter society.</span></p>
 
 <p><span class="chinese">她将重新报名参加托福考试。</span><span class="english">She was going to reenter for TOEFL.</span></p>

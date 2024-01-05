@@ -1,5 +1,7 @@
 # lille
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lille.md)
+
 <p><span class="chinese">能向我们介绍一下里尔吗？</span><span class="english">What can you tell us about Lille?</span></p>
 
 <p><span class="chinese">里尔很危险，希望我们可以踢好比赛。</span><span class="english">Lille are dangerous, but hopefully we can play well.</span></p>

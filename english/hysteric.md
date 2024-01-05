@@ -1,5 +1,7 @@
 # hysteric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hysteric.md)
+
 <p><span class="chinese">你，我亲爱的，是个歇斯底里的疯子。</span><span class="english">You, my dear, are an unhinged hysteric.</span></p>
 
 <p><span class="chinese">但我疯狂地，歇斯底里地疯狂着，我自欺欺人地以为你仍是在乎我的。</span><span class="english">I am a jerk, a hysteric jerk, cheating myself that you still care about me.</span></p>

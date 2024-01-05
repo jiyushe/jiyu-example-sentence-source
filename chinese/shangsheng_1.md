@@ -1,5 +1,7 @@
 # 上声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangsheng_1.md)
+
 <p><span class="chinese">他们在他们的网站上声称他们拥有38只。</span><span class="english">They claim on their Web site that they have 38.</span></p>
 
 <p><span class="chinese">另外，针对上声的特点提出了一种改进的基音平滑算法。</span><span class="english">This paper describes a new method of using those parameters.</span></p>

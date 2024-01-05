@@ -1,5 +1,7 @@
 # subfamily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subfamily.md)
+
 <p><span class="chinese">多个族组成了一个亚科。</span><span class="english">A number of tribes comprise a subfamily.</span></p>
 
 <p><span class="chinese">大戟科一新亚科——秋枫亚科。</span><span class="english">Bischofioideae, a new subfamily of Euphorbiaceae.</span></p>

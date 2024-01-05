@@ -1,5 +1,7 @@
 # neoconservative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neoconservative.md)
+
 <p><span class="chinese">新保守主义对亡灵造反的政策回应是简单而直接的。</span><span class="english">The neoconservative policy response to an undead uprising would be simple and direct.</span></p>
 
 <p><span class="chinese">一是在外国行使霸权，实际操作比新保守主义理论所阐述的更为困难。</span><span class="english">First, wielding power abroad proved harder in practice than in neoconservative theory.</span></p>

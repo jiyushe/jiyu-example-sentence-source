@@ -1,5 +1,7 @@
 # upcast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upcast.md)
+
 <p><span class="chinese">学生眼睛朝上看着他的老师。</span><span class="english">The student looked at his teacher with upcast eyes.</span></p>
 
 <p><span class="chinese">一旦把一个对象上溯给一个接口类型，只有该接口中指定的成员才可以被使用。</span><span class="english">Once an object has been upcast to an interface type, only the members specified in the interface can be used.</span></p>

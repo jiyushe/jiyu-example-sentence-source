@@ -1,5 +1,7 @@
 # jihad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jihad.md)
+
 <p><span class="chinese">他在互联网上领导讨伐异教徒活动。</span><span class="english">He led the charge of jihad on the internet.</span></p>
 
 <p><span class="chinese">他的全球圣战思想也正在退却。</span><span class="english">His ideology of global jihad has also retreated.</span></p>

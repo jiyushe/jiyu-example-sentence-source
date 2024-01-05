@@ -1,5 +1,7 @@
 # 账本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangben.md)
+
 <p><span class="chinese">程云发将偷来的账本交给了监督室。</span><span class="english">Cloud hair stolen books to the supervision office.</span></p>
 
 <p><span class="chinese">学习绿色数据中心怎样促进降低你的账本底线。</span><span class="english">Learn how green data centers can add more to your bottom line.</span></p>

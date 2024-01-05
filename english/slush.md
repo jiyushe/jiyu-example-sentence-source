@@ -1,5 +1,7 @@
 # slush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slush.md)
+
 <p><span class="chinese">创建一笔备用基金。</span><span class="english">Create a slush fund.</span></p>
 
 <p><span class="chinese">雪花变成了雪泥。</span><span class="english">The snow turned to slush.</span></p>

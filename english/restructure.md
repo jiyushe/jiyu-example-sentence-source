@@ -1,5 +1,7 @@
 # restructure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restructure.md)
+
 <p><span class="chinese">这次重组是由近来的一连串错误判断引起的。</span><span class="english">The restructure was brought on by a series of recent misjudgments.</span></p>
 
 <p><span class="chinese">日月食期间适合于向内观察、疗愈、释放和重建。</span><span class="english">The eclipses are a time to look inward, to heal, release and restructure.</span></p>

@@ -1,5 +1,7 @@
 # 夕阳西下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyangxixia.md)
+
 <p><span class="chinese">当夕阳西下之时，天际被染成了红色。</span><span class="english">When the sun sets, the sky is dyed red.</span></p>
 
 <p><span class="chinese">夕阳西下，天渐渐黑下来了。</span><span class="english">The sun was setting. It was getting dark.</span></p>

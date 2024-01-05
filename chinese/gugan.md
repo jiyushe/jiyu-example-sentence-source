@@ -1,5 +1,7 @@
 # 骨干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gugan.md)
+
 <p><span class="chinese">中年教师是体育科研的骨干。</span><span class="english">Mid-aged teachers are backbones.</span></p>
 
 <p><span class="chinese">甚高速骨干网络服务系统?。</span><span class="english">VBNS?Very high speed Backbone Network Services?</span></p>

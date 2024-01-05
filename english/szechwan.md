@@ -1,5 +1,7 @@
 # szechwan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/szechwan.md)
+
 <p><span class="chinese">与Szechwan蟹，新鲜的清蒸鱼和生鱼片搭配食用，味道更佳。</span><span class="english">Goes well with Szechwan crab, fresh steamed fish and sashimi.</span></p>
 
 <p><span class="chinese">我试过广东，湖南和四川菜，他们都颇潍不同。</span><span class="english">I've Cantonese, Hunan and Szechwan food and they differ quite considerably.</span></p>

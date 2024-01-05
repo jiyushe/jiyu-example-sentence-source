@@ -1,5 +1,7 @@
 # succor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succor.md)
+
 <p><span class="chinese">这是祂的洪涛，有时为救我们</span><span class="english">They are HIS billows, whether for our succor</span></p>
 
 <p><span class="chinese">在短短的两小时内，韦布将军的救兵就可望到达。</span><span class="english">In two short hours we may look for succor from Webb.</span></p>

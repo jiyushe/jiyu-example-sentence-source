@@ -1,5 +1,7 @@
 # detachment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detachment.md)
+
 <p><span class="chinese">在光明中巍然屹立！</span><span class="english">In bright detachment stand!</span></p>
 
 <p><span class="chinese">超脱是纯粹的，是纯真无邪。</span><span class="english">Detachment is purity, is innocence.</span></p>

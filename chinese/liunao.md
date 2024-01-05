@@ -1,5 +1,7 @@
 # 流脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liunao.md)
+
 <p><span class="chinese">春季防流脑，荠菜煮粥好。</span><span class="english">Spring anti-ECM, a good shepherd's purse porridge.</span></p>
 
 <p><span class="chinese">近期是否接种过狂犬、流脑或其它疫苗？</span><span class="english">Have you been vaccinated against rabies, meningitis recently?</span></p>

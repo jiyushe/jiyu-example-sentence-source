@@ -1,5 +1,7 @@
 # 亚欧大陆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoudalu.md)
+
 <p><span class="chinese">新疆地处亚欧大陆腹地，是典型的半干旱、干旱气候。</span><span class="english">Xinjiang lies in Eurasia inland, has typical half-arid, arid climate.</span></p>
 
 <p><span class="chinese">位于东面的是一块面积、外形近似于亚欧大陆的陆地。</span><span class="english">Located in the east, appearance is an area of approximate to Eurasia land.</span></p>

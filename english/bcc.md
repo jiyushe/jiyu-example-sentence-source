@@ -1,5 +1,7 @@
 # bcc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bcc.md)
+
 <p><span class="chinese">此电邮以密件传给我名单中所的人。</span><span class="english">This email is Bcc to all on my list.</span></p>
 
 <p><span class="chinese">第三腮腺囊肿位于颈后间隙。</span><span class="english">A third BCC is seen in the posterior cervical space.</span></p>

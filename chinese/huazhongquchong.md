@@ -1,5 +1,7 @@
 # 哗众取宠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huazhongquchong.md)
+
 <p><span class="chinese">这仅仅是一个“哗众取宠”的帖子。</span><span class="english">This is just another “sensationalist” post.</span></p>
 
 <p><span class="chinese">不要使用愚蠢的，哗众取宠的ID或昵称。</span><span class="english">Don't use a silly, grandiose user ID or screen name.</span></p>

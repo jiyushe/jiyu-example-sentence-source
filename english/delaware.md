@@ -1,5 +1,7 @@
 # delaware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delaware.md)
+
 <p><span class="chinese">最后他渡过了特拉华河。</span><span class="english">At last he crossed the Delaware River.</span></p>
 
 <p><span class="chinese">很好。我现在可以看见德拉威交流道接近了。</span><span class="english">Great. I can see the Delaware exit ramp coming up now.</span></p>

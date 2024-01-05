@@ -1,5 +1,7 @@
 # bobsled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bobsled.md)
+
 <p><span class="chinese">在美国，乘雪橇滑雪是一种流行的冬季运动。</span><span class="english">Bobsled is a popular winter sport in America.</span></p>
 
 <p><span class="chinese">如同真正的长撬滑行，甚至更加危险。</span><span class="english">Just like a real bobsled ride, only more dangerous.</span></p>

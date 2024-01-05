@@ -1,5 +1,7 @@
 # 意欲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyu_3.md)
+
 <p><span class="chinese">杰克意欲娶她为妻。</span><span class="english">Jack desires her for his wife.</span></p>
 
 <p><span class="chinese">沃尔玛意欲在中国投资电子商务。</span><span class="english">Wal-Mart eyes e-commerce business in China.</span></p>

@@ -1,5 +1,7 @@
 # 同志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhi_5.md)
+
 <p><span class="chinese">不对不对，同志！</span><span class="english">Nyet nyet comrade!</span></p>
 
 <p><span class="chinese">螺栓同志电影47。</span><span class="english">Stud gay Movies 47.</span></p>

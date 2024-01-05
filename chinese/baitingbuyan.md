@@ -1,5 +1,7 @@
 # 百听不厌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baitingbuyan.md)
+
 <p><span class="chinese">镜中人。百听不厌。</span><span class="english">Man in the mirror.</span></p>
 
 <p><span class="chinese">那些故事我百听不厌。</span><span class="english">I never get tired of listening to them.</span></p>

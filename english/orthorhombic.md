@@ -1,5 +1,7 @@
 # orthorhombic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthorhombic.md)
+
 <p><span class="chinese">结果表明，实验样品具有正交对称性结构。</span><span class="english">All the samples analyzed by XRD are orthorhombic structure.</span></p>
 
 <p><span class="chinese">XRD分析表明，LSGM样品具有正交钙钛矿结构。</span><span class="english">The XRD analysis shows that the LSGM samples possess orthorhombic perovskite structure.</span></p>

@@ -1,5 +1,7 @@
 # 无缝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wufeng_1.md)
+
 <p><span class="chinese">一个幻想的无缝错落有致。</span><span class="english">A Seamless Patchwork Of Fantasy.</span></p>
 
 <p><span class="chinese">集成是近乎无缝的。</span><span class="english">The integration is almost seamless.</span></p>

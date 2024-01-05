@@ -1,5 +1,7 @@
 # 如约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruyue.md)
+
 <p><span class="chinese">我无法如约会面，因为我生病了。</span><span class="english">I can't keep the appointment because I'm sick.</span></p>
 
 <p><span class="chinese">正如约翰指出的，穆勒是这样来确定的。</span><span class="english">So as John points out, Mill says here's the test.</span></p>

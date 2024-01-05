@@ -1,5 +1,7 @@
 # seditious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seditious.md)
+
 <p><span class="chinese">它们是许可证，税收和煽动性诽谤。</span><span class="english">They were licensing, taxation , and seditious libel.</span></p>
 
 <p><span class="chinese">但是，“亵渎、不道德、谋反、分裂、煽动叛乱、或恶毒诽谤”的定义是什么呢？</span><span class="english">But what constituted "blasphemous, immoral, treasonable, schismatic, seditious or scandalous libels"?</span></p>

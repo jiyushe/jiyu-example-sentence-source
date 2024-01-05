@@ -1,5 +1,7 @@
 # loris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loris.md)
+
 <p><span class="chinese">懒猴是世界上唯一有毒的灵长类动物。</span><span class="english">The slow loris is the world's only poisonous primate.</span></p>
 
 <p><span class="chinese">如果世界上也有动物需要提速的话，那就是懒猴了。</span><span class="english">If ever an animal needed to be fast, it is the slow loris.</span></p>

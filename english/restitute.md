@@ -1,5 +1,7 @@
 # restitute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restitute.md)
+
 <p><span class="chinese">将连接并包扎好的线路进行整理，尽量使其恢复原状，作到美观。</span><span class="english">Tidy up the connected and well wrapped wires, try to restitute it and make it well viewed.</span></p>
 
 <p><span class="chinese">废名张扬非严肃精神之意义在于对小说所拥有的诸多艺术功能的恢复和拓展。</span><span class="english">The meaning of fei-ming's workings is to restitute and extending the hidden functions of fiction that had once possessed.</span></p>

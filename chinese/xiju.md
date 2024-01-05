@@ -1,5 +1,7 @@
 # 喜剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiju.md)
+
 <p><span class="chinese">你是喜剧笑匠？</span><span class="english">You are a comic.</span></p>
 
 <p><span class="chinese">喜剧演员比尔·伯尔如此说道。</span><span class="english">Comedian Bill Burr.</span></p>

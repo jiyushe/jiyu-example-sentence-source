@@ -1,5 +1,7 @@
 # invocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invocation.md)
+
 <p><span class="chinese">简化Varargs方法调用。</span><span class="english">Simplified Varargs Method Invocation.</span></p>
 
 <p><span class="chinese">按名称的动态子流程调用</span><span class="english">Dynamic invocation of subprocesses by name</span></p>

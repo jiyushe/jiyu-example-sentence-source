@@ -1,5 +1,7 @@
 # 严实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshi.md)
+
 <p><span class="chinese">这个罐子得封严实了。</span><span class="english">The jar must be well sealed.</span></p>
 
 <p><span class="chinese">大雾把山水景色笼罩了个严实。</span><span class="english">A fog abolished the landscape.</span></p>

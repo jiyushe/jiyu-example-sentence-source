@@ -1,5 +1,7 @@
 # wheat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wheat.md)
+
 <p><span class="chinese">小麦或混合麦的细粉。</span><span class="english">Wheat or maslin flour.</span></p>
 
 <p><span class="chinese">小麦已经收割。</span><span class="english">The wheat has been cut.</span></p>

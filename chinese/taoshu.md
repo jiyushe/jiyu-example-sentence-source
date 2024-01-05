@@ -1,5 +1,7 @@
 # 套数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoshu.md)
+
 <p><span class="chinese">探讨了圆环套数对减震效果的影响。</span><span class="english">The effect of sets of cirque costing-energy is discussed.</span></p>
 
 <p><span class="chinese">到2011年底前，合肥市廉租房总套数将达到6000套。</span><span class="english">By the end of 2011, low-rent units in Hefei will total 6000.</span></p>

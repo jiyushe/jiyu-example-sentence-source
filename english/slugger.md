@@ -1,5 +1,7 @@
 # slugger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slugger.md)
+
 <p><span class="chinese">那个运动员是一个真正的棒球强击手。</span><span class="english">That player is a real slugger.</span></p>
 
 <p><span class="chinese">路易斯维尔制造球棒已经很久了。</span><span class="english">Louisville Slugger has been manufacturing bats for some time.</span></p>

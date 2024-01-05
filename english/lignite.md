@@ -1,5 +1,7 @@
 # lignite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lignite.md)
+
 <p><span class="chinese">褐煤油是从褐煤中得来的防腐油。</span><span class="english">Lignite oil is creosote derived from lignite tar.</span></p>
 
 <p><span class="chinese">该球磨条件对其它褐煤半焦同样适用。</span><span class="english">And this grinding condition is also feasible to other lignite chars.</span></p>

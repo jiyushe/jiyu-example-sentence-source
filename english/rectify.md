@@ -1,5 +1,7 @@
 # rectify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rectify.md)
+
 <p><span class="chinese">永乐时期对女真的政策有哪些调整?。</span><span class="english">Yong-Le period how to rectify the policy?</span></p>
 
 <p><span class="chinese">一个新版本的标准可以修正它。</span><span class="english">A new version of the standard could rectify this.</span></p>

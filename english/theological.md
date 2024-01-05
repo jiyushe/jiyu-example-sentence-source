@@ -1,5 +1,7 @@
 # theological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theological.md)
+
 <p><span class="chinese">神学上的术语就是“全知”。</span><span class="english">The theological term is " omniscience."</span></p>
 
 <p><span class="chinese">证明武神学院的都是废物！</span><span class="english">Proof force theological seminary of is all reject!</span></p>

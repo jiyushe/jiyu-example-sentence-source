@@ -1,5 +1,7 @@
 # extensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extensive.md)
+
 <p><span class="chinese">减少恢病。</span><span class="english">Reduces the extensive sickness.</span></p>
 
 <p><span class="chinese">这大厦四周的庭园广阔。</span><span class="english">The mansion has extensive grounds.</span></p>

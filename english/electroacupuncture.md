@@ -1,5 +1,7 @@
 # electroacupuncture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electroacupuncture.md)
+
 <p><span class="chinese">分为假手术组、模型组、电针组。</span><span class="english">Sham operation, model and electroacupuncture groups were set up.</span></p>
 
 <p><span class="chinese">损毁弓状核后，电针对胃的抑制效应减弱。</span><span class="english">Inhibitory effect of electroacupuncture attenuated partly after the des troy to ARC.</span></p>

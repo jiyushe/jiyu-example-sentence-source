@@ -1,5 +1,7 @@
 # possessor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/possessor.md)
+
 <p><span class="chinese">他具有一副唱歌的好嗓子。</span><span class="english">He is the possessor of a fine singing voice.</span></p>
 
 <p><span class="chinese">他们把财产从非法占有者手里收回来了。</span><span class="english">They evicted the property from its unlawful possessor.</span></p>

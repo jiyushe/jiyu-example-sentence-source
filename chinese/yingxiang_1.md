@@ -1,5 +1,7 @@
 # 影响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingxiang_1.md)
+
 <p><span class="chinese">它影响了我。</span><span class="english">It affected me.</span></p>
 
 <p><span class="chinese">它会相互影响。</span><span class="english">It's interacted.</span></p>

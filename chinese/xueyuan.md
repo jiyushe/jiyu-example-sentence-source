@@ -1,5 +1,7 @@
 # 学员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueyuan.md)
+
 <p><span class="chinese">尼古拉斯是海军学校的一名新学员。</span><span class="english">Nicholas is a new cadet.</span></p>
 
 <p><span class="chinese">还有些学员划船在水上训练。</span><span class="english">Some cadets went boating.</span></p>

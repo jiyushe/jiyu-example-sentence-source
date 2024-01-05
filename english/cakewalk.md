@@ -1,5 +1,7 @@
 # cakewalk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cakewalk.md)
+
 <p><span class="chinese">我期望这是一个步态竞赛反正。</span><span class="english">I expected it to be a cakewalk anyway.</span></p>
 
 <p><span class="chinese">这学期我通过考试是轻而易举的事情。</span><span class="english">Doing my exams was a cakewalk in this semester.</span></p>

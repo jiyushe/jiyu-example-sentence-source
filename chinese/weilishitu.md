@@ -1,5 +1,7 @@
 # 唯利是图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilishitu.md)
+
 <p><span class="chinese">联合国对私营军事嗤之以鼻,我们绝不容忍“唯利是图”的做法。</span><span class="english">We don’t condone “mercenaries, ” sniffs the UN.</span></p>
 
 <p><span class="chinese">可能一些人误认为我是个唯利是图的人。</span><span class="english">Some people may first misunderstand me as a money-grabber.</span></p>

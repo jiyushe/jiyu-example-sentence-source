@@ -1,5 +1,7 @@
 # fab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fab.md)
+
 <p><span class="chinese">晶圆厂的所有权是关键。</span><span class="english">Ownership of the fab is the key.</span></p>
 
 <p><span class="chinese">报刊给他们起了个绰号叫"四绝".</span><span class="english">The papers dubbed them The Fab Four'.</span></p>

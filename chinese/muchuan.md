@@ -1,5 +1,7 @@
 # 木船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muchuan.md)
+
 <p><span class="chinese">他们把那只木船从河里拖了上来。</span><span class="english">They pulled up the boat out of the river.</span></p>
 
 <p><span class="chinese">从重庆到汉口，我坐了木船。</span><span class="english">I took a wooden boat from Chongqing to Hankou.</span></p>

@@ -1,5 +1,7 @@
 # 戏说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishuo.md)
+
 <p><span class="chinese">戏说文字更是拿手一绝。</span><span class="english">Joking is good at writing a must.</span></p>
 
 <p><span class="chinese">探讨目前历史题材电视剧关于“戏说”的问题。</span><span class="english">Inthe third part, the author discusses the produce of teleplays based on history.</span></p>

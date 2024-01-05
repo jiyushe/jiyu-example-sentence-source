@@ -1,5 +1,7 @@
 # replicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replicate.md)
+
 <p><span class="chinese">我怎么复制Vista的功能？</span><span class="english">Can I replicate the Vista functionality?</span></p>
 
 <p><span class="chinese">添加一个列到复制定义</span><span class="english">Adding a column to a replicate definition</span></p>

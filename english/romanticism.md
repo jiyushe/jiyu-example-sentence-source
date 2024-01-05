@@ -1,5 +1,7 @@
 # romanticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romanticism.md)
+
 <p><span class="chinese">李白是一位浪漫主义风格的诗人！</span><span class="english">Libai is a romanticism style poet.</span></p>
 
 <p><span class="chinese">同时他也是一个积极浪漫主义大师。</span><span class="english">LiBai was also a positive romanticism master.</span></p>

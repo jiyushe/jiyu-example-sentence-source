@@ -1,5 +1,7 @@
 # 日元
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riyuan.md)
+
 <p><span class="chinese">日元在回升。</span><span class="english">The yen is turning up.</span></p>
 
 <p><span class="chinese">我可以在这个旅馆里换日元吗？</span><span class="english">Can I exchange "yen" in this hotel?</span></p>

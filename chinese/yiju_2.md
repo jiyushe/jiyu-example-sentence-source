@@ -1,5 +1,7 @@
 # 依据
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiju_2.md)
+
 <p><span class="chinese">律师依据事实办案。</span><span class="english">A lawyer Builds his case on facts.</span></p>
 
 <p><span class="chinese">这一主张的依据是什么？</span><span class="english">What is the foundation of your claim?</span></p>

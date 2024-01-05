@@ -1,5 +1,7 @@
 # anhydride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anhydride.md)
+
 <p><span class="chinese">所述固化剂可以为多元酸酸酐。</span><span class="english">The curing agent may be a polybasic acid anhydride.</span></p>
 
 <p><span class="chinese">对邻苯二甲酸酐水解反应动力学进行了研究。</span><span class="english">The hydrolysis kinetics of phthalic anhydride was investigated.</span></p>

@@ -1,5 +1,7 @@
 # 疗程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaocheng.md)
+
 <p><span class="chinese">疗程短见效快。</span><span class="english">Quick short course of treatment.</span></p>
 
 <p><span class="chinese">治疗组加用治肝灵口服液，疗程12周。</span><span class="english">All treatments were given for 12 weeks.</span></p>

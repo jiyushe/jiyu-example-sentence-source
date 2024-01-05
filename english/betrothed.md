@@ -1,5 +1,7 @@
 # betrothed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betrothed.md)
+
 <p><span class="chinese">玛丽与他订过婚。</span><span class="english">Mary betrothed herself to him.</span></p>
 
 <p><span class="chinese">不久玛丽就和乔治订婚了。</span><span class="english">Mary soon betrothed herself go George.</span></p>

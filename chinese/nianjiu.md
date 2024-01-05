@@ -1,5 +1,7 @@
 # 念旧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianjiu.md)
+
 <p><span class="chinese">俄是个念旧的人。</span><span class="english">Russia is weakened, people.</span></p>
 
 <p><span class="chinese">忘了从什么时候，开始喜欢念旧。</span><span class="english">Forget when, begin to love you.</span></p>

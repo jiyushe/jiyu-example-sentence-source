@@ -1,5 +1,7 @@
 # 奔腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benteng.md)
+
 <p><span class="chinese">洪水奔腾澎湃漫过溪谷。</span><span class="english">The floods surged over the valley.</span></p>
 
 <p><span class="chinese">吼声如雷，奔腾咆哮。</span><span class="english">With their voices soft as thunder.</span></p>

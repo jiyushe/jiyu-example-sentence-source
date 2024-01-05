@@ -1,5 +1,7 @@
 # 闪石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanshi_3.md)
+
 <p><span class="chinese">辉石与闪石也含有钙。</span><span class="english">Pyroxenes and amphiboles also contain calcium.</span></p>
 
 <p><span class="chinese">赋矿层位中富含磁黄铁矿、黄铁矿、锰铝榴石和锰铁闪石。</span><span class="english">Ore bearing stratum contain richly pyrrhotite, pyrite, spessartine and dannemorite.</span></p>

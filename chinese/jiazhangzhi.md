@@ -1,5 +1,7 @@
 # 家长制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazhangzhi.md)
+
 <p><span class="chinese">他们被描写为父权家长制的贝都印式酋长。</span><span class="english">They are presented as patriarchal Bedouin chiefs.</span></p>
 
 <p><span class="chinese">北京的四合院是有等级的，是家长制的。</span><span class="english">Beijing's courtyard there is a hierarchy, is the patriarchal system.</span></p>

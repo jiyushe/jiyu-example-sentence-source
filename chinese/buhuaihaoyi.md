@@ -1,5 +1,7 @@
 # 不怀好意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buhuaihaoyi.md)
+
 <p><span class="chinese">他不怀好意地笑，…</span><span class="english">He laughed nastily and walked away.</span></p>
 
 <p><span class="chinese">纹身男不怀好意的朝我靠了过来。</span><span class="english">The tattooed man leans toward me ominously.</span></p>

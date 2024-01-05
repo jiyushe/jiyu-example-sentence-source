@@ -1,5 +1,7 @@
 # 看戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanxi.md)
+
 <p><span class="chinese">你喜欢看戏吗？</span><span class="english">Do you enjoy the theater?</span></p>
 
 <p><span class="chinese">只可以行街看戏吃饭。</span><span class="english">We can only hang out together.</span></p>

@@ -1,5 +1,7 @@
 # 事务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwu.md)
+
 <p><span class="chinese">他的事务处于一团乱。</span><span class="english">His affairs are in a mess.</span></p>
 
 <p><span class="chinese">他们讨论过外交事务。</span><span class="english">They debated on foreign affairs.</span></p>

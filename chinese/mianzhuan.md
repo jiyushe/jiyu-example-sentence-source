@@ -1,5 +1,7 @@
 # 面砖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianzhuan.md)
+
 <p><span class="chinese">经过特殊处理的沥青、混凝土或者路面砖都可以使用。</span><span class="english">Specially formulated asphalt, concrete or pavers can be used.</span></p>
 
 <p><span class="chinese">大楼的外立面与前期一样，采用了米黄色带蓝色线条的贴面砖。</span><span class="english">Building Wailimian with early, the use of cream-colored ribbons with dark blue lines.</span></p>

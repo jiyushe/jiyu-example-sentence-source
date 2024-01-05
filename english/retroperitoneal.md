@@ -1,5 +1,7 @@
 # retroperitoneal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retroperitoneal.md)
+
 <p><span class="chinese">对成年人来说，原发性后腹腔畸胎瘤是相对比较少见的。</span><span class="english">A primary retroperitoneal teratoma is a relatively rare disease in adults.</span></p>
 
 <p><span class="chinese">腹膜后肿瘤除肾上腺肿瘤外绝大多数为恶性肿瘤。</span><span class="english">Excepts renicapsule tumors, most retroperitoneal tumors were malignant ones.</span></p>

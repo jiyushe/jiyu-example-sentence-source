@@ -1,5 +1,7 @@
 # ginza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ginza.md)
+
 <p><span class="chinese">从银座线到虎门，对吗?。</span><span class="english">Ginza Line to Toranomon, right?</span></p>
 
 <p><span class="chinese">其他人在银座区。</span><span class="english">The others are in the Ginza district.</span></p>

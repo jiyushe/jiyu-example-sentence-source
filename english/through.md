@@ -1,5 +1,7 @@
 # through
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/through.md)
+
 <p><span class="chinese">我都看不透。</span><span class="english">I see through.</span></p>
 
 <p><span class="chinese">经历癌症。</span><span class="english">Through cancer.</span></p>

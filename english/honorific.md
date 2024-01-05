@@ -1,5 +1,7 @@
 # honorific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honorific.md)
+
 <p><span class="chinese">更是一个尊敬问题。</span><span class="english">but also an honorific question.</span></p>
 
 <p><span class="chinese">尊敬的朋友，很高兴见到您！</span><span class="english">Honorific friend, i am glad to see you!</span></p>

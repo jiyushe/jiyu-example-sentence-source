@@ -1,5 +1,7 @@
 # balanced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balanced.md)
+
 <p><span class="chinese">这是不平衡的。</span><span class="english">It is not balanced.</span></p>
 
 <p><span class="chinese">愿我成就舍心。</span><span class="english">May I gain a balanced mind.</span></p>

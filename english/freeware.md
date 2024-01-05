@@ -1,5 +1,7 @@
 # freeware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freeware.md)
+
 <p><span class="chinese">免费，具有众多功能。</span><span class="english">A freeware option with a long feature list.</span></p>
 
 <p><span class="chinese">其中既有免费软件又有收费软件。</span><span class="english">These include both freeware and priced software.</span></p>

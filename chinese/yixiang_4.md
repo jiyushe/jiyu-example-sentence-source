@@ -1,5 +1,7 @@
 # 意想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiang_4.md)
+
 <p><span class="chinese">人类意想的力量能移山。</span><span class="english">The power of human intent can move mountains.</span></p>
 
 <p><span class="chinese">你透过有意识的意想正在预报这个新时代。</span><span class="english">You are heralding this era through conscious intention.</span></p>

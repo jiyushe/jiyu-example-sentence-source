@@ -1,5 +1,7 @@
 # ridiculously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ridiculously.md)
+
 <p><span class="chinese">飞行伞真是可笑的简单。</span><span class="english">Paragliding is ridiculously simple.</span></p>
 
 <p><span class="chinese">这次考试容易得不象话。</span><span class="english">The examination was ridiculously easy.</span></p>

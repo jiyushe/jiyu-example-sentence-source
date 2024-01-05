@@ -1,5 +1,7 @@
 # antics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antics.md)
+
 <p><span class="chinese">伊丽莎白容忍了萨拉的搞怪。</span><span class="english">Elizabeth tolerated Sarah's antics.</span></p>
 
 <p><span class="chinese">李洁因为她略显滑稽的行为吃到了第二张黄牌。</span><span class="english">Li received a second yellow card for her antics.</span></p>

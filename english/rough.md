@@ -1,5 +1,7 @@
 # rough 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rough.md)
+
 <p><span class="chinese">天气真坏！</span><span class="english">Rough weather!</span></p>
 
 <p><span class="chinese">他是个外粗内秀的人。</span><span class="english">He is rough diamond.</span></p>

@@ -1,5 +1,7 @@
 # mandolin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mandolin.md)
+
 <p><span class="chinese">尼诺开始在曼陀林上胡乱弹奏。</span><span class="english">Nino began strumming on the mandolin.</span></p>
 
 <p><span class="chinese">倚着曼陀林，蟋蟀在鸣唱。</span><span class="english">My cricket chirps against thy mandolin.</span></p>

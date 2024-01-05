@@ -1,5 +1,7 @@
 # risky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/risky.md)
+
 <p><span class="chinese">不不，太冒险了。</span><span class="english">Nah, too risky.</span></p>
 
 <p><span class="chinese">但是，这是一场危险的游戏。</span><span class="english">But it is a risky game.</span></p>

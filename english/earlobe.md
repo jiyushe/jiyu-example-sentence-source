@@ -1,5 +1,7 @@
 # earlobe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earlobe.md)
+
 <p><span class="chinese">按摩你的耳垂就可以减慢你的心跳。</span><span class="english">I can touch your earlobe and slow your heartbeat.</span></p>
 
 <p><span class="chinese">现在你要做的是轻轻的咬这个小婊子的耳垂。</span><span class="english">Now all you gotta do is nibble on this little bitch's earlobe.</span></p>

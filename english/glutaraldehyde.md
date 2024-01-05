@@ -1,5 +1,7 @@
 # glutaraldehyde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glutaraldehyde.md)
+
 <p><span class="chinese">简述了戊二醛生理性质。</span><span class="english">Physiological property of glutaraldehyde was briefed.</span></p>
 
 <p><span class="chinese">用戊二醛处理硝酸纤维素膜可以增强蛋白吸附。</span><span class="english">Glutaraldehyde can strengthen the conjugation of NCF with protein.</span></p>

@@ -1,5 +1,7 @@
 # 名角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingjue_1.md)
+
 <p><span class="chinese">然后不久她加入了施虐并成为里面的一个名角。</span><span class="english">Then she soon became an abuser and a star inside the group.</span></p>
 
 <p><span class="chinese">卢局长是京剧名角，对沈先生非常仰慕。</span><span class="english">Director is a Beijing Opera star, very admire to Mr. Shen. But Mr.</span></p>

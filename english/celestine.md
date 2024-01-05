@@ -1,5 +1,7 @@
 # celestine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celestine.md)
+
 <p><span class="chinese">圣境预言书包含秘密，目前正在改变我们的世界。</span><span class="english">THE CELESTINE PROPHECY contains secrets that are currently changing our world.</span></p>
 
 <p><span class="chinese">本文研究了用原子吸收分光光度法测定钡天青石中微量镁、锰简捷新方法。</span><span class="english">A simple method for the determination of trace of Mg and Mn in celestine by AAS was studied.</span></p>

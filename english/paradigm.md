@@ -1,5 +1,7 @@
 # paradigm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paradigm.md)
+
 <p><span class="chinese">新的计划范型。</span><span class="english">New planning paradigm.</span></p>
 
 <p><span class="chinese">认识到两种范式的价值。</span><span class="english">Recognize the value of each paradigm.</span></p>

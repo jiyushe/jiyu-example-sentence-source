@@ -1,5 +1,7 @@
 # 日前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riqian.md)
+
 <p><span class="chinese">截止日前的检查权。</span><span class="english">Inspection Rights Prior to Closing.</span></p>
 
 <p><span class="chinese">请于二零一一年四月一日前回覆本会秘书处。</span><span class="english">Please reply on or before 1 April 2011.</span></p>

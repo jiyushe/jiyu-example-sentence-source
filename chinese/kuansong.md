@@ -1,5 +1,7 @@
 # 宽松
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuansong.md)
+
 <p><span class="chinese">把绳子绑成一个宽松的结。</span><span class="english">Tie the rope in a loose knot.</span></p>
 
 <p><span class="chinese">他的袜子宽松下垂及踝。</span><span class="english">His socks bagged at the ankles.</span></p>

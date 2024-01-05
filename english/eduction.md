@@ -1,5 +1,7 @@
 # eduction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eduction.md)
+
 <p><span class="chinese">学校教育需要家庭教育的协调。</span><span class="english">School eduction needs the coordination of family education.</span></p>
 
 <p><span class="chinese">被粉碎的矿石经排料部分排出筒外。</span><span class="english">Be crushed ore by discharging part eduction canister outside.</span></p>

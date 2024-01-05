@@ -1,5 +1,7 @@
 # pemphigus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pemphigus.md)
+
 <p><span class="chinese">天疱疮抗体滴度下降。</span><span class="english">The level of pemphigus antibody decreased.</span></p>
 
 <p><span class="chinese">疱疹样天疱疮为天疱疮的一种变异型。</span><span class="english">Herpetiform pemphigus is a variant of pemphigus.</span></p>

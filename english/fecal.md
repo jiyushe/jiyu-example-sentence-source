@@ -1,5 +1,7 @@
 # fecal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fecal.md)
+
 <p><span class="chinese">回肠消化率比粪消化率准确。</span><span class="english">Ileal digestibility is more accurate than fecal.</span></p>
 
 <p><span class="chinese">相关于是否有大便失禁的病史也应询问。</span><span class="english">Patients should be questioned about fecal incontinence.</span></p>

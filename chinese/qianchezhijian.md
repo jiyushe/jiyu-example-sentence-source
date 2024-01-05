@@ -1,5 +1,7 @@
 # 前车之鉴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianchezhijian.md)
+
 <p><span class="chinese">但日本的前车之鉴表明了没有什么事是不可避免的。</span><span class="english">But the lesson of Japan is that nothing is inevitable.</span></p>
 
 <p><span class="chinese">我们有着金融和汽车行业的前车之鉴。</span><span class="english">We have the example of the banking system and the car industry.</span></p>

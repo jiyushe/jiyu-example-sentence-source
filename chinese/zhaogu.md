@@ -1,5 +1,7 @@
 # 照顾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaogu.md)
+
 <p><span class="chinese">谁给我的照顾呢？</span><span class="english">Whw gives me care?</span></p>
 
 <p><span class="chinese">好好照顾我的女儿。</span><span class="english">Take care of my girl.</span></p>

@@ -1,5 +1,7 @@
 # daunted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daunted.md)
+
 <p><span class="chinese">她能勇往直前毫无惧色。</span><span class="english">She went ahead, nothing daunted.</span></p>
 
 <p><span class="chinese">首次的约会使他畏怯。</span><span class="english">He was daunted by his first date.</span></p>

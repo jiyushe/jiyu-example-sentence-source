@@ -1,5 +1,7 @@
 # 苦战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuzhan.md)
+
 <p><span class="chinese">他预测接下去几周里会有一场苦战。</span><span class="english">He predicted a bitter fight in the coming weeks.</span></p>
 
 <p><span class="chinese">经过几天的苦战，高低把涵洞修好了。</span><span class="english">After days of hard work, the culvert was at last completed.</span></p>

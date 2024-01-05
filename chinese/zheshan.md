@@ -1,5 +1,7 @@
 # 折扇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheshan.md)
+
 <p><span class="chinese">她带回一把大大的折扇。</span><span class="english">And she brought with her a big hand.</span></p>
 
 <p><span class="chinese">她带回一把大大的折扇。</span><span class="english">And she brought with her a big hand fan.</span></p>

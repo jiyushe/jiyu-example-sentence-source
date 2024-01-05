@@ -1,5 +1,7 @@
 # 黄鼬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangyou_1.md)
+
 <p><span class="chinese">目的研究黄鼬控制害鼠的能力。</span><span class="english">Objective To research on rat-control capabilities of the yellow weasel.</span></p>
 
 <p><span class="chinese">以草兔、黄鼬、岩松鼠产量最高。</span><span class="english">Among them most abundant are Talai hare, yellow weasel and rock squirrel.</span></p>

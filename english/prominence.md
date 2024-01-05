@@ -1,5 +1,7 @@
 # prominence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prominence.md)
+
 <p><span class="chinese">这火焰，就是日珥。</span><span class="english">This flame is the prominence.</span></p>
 
 <p><span class="chinese">影片展示了这次显著的喷发。</span><span class="english">The movie shows the prominence erupting.</span></p>

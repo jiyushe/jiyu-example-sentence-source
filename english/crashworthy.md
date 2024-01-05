@@ -1,5 +1,7 @@
 # crashworthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crashworthy.md)
+
 <p><span class="chinese">对进一步改进耐碰撞车辆的设计进行了讨论。</span><span class="english">The design to further improve the crashworthy vehicles is discussed.</span></p>
 
 <p><span class="chinese">这些都是提高车辆的耐撞性能的有利条件。</span><span class="english">All these characters are favorable for a better crashworthy performance in automobiles.</span></p>

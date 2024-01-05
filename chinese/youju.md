@@ -1,5 +1,7 @@
 # 幽居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youju.md)
+
 <p><span class="chinese">在漫长的冬季，她患上了幽居病。</span><span class="english">She suffered from cabin fever during the long winter.</span></p>
 
 <p><span class="chinese">幽居病是由于身处受限区域而产生的坐立不安。</span><span class="english">Cabin fever is restlessness from being in a confined area.</span></p>

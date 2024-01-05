@@ -1,5 +1,7 @@
 # canonize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canonize.md)
+
 <p><span class="chinese">因为其影响力所涵盖的对像是全人类，所以大家都尊敬他，推崇他。</span><span class="english">For this reason, he is non self. Hence all people respect and canonize him.</span></p>
 
 <p><span class="chinese">因为其影响力所涵盖的对像是全人类，所以大家都尊敬他们，推崇他们。</span><span class="english">For the reason, they are no attribute. Hence all people respect and canonize them.</span></p>

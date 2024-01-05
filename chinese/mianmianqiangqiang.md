@@ -1,5 +1,7 @@
 # 勉勉强强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianmianqiangqiang.md)
+
 <p><span class="chinese">他勉勉强强能写自己的名字。</span><span class="english">He can scarcely write his name.</span></p>
 
 <p><span class="chinese">她还清醒，虽然勉勉强强。</span><span class="english">She was still conscious, barely.</span></p>

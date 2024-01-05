@@ -1,5 +1,7 @@
 # 编外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianwai.md)
+
 <p><span class="chinese">涂黑诗作就是一个编外项目。</span><span class="english">The blackout poems were a side project.</span></p>
 
 <p><span class="chinese">我们单位有编内人员和编外人员。</span><span class="english">We have in-staff and off-staff members in our units.</span></p>

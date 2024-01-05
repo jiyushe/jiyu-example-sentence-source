@@ -1,5 +1,7 @@
 # 权要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanyao.md)
+
 <p><span class="chinese">有人想拉你做朋友，就因你位高是权要。</span><span class="english">Some people will be your friend, because of whom your position.</span></p>
 
 <p><span class="chinese">为了提高政府部门的工作效率，咱们必需与权要风纪作斗争。</span><span class="english">We must fight against the bureaucracy in order to improve governmental work.</span></p>

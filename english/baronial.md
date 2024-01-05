@@ -1,5 +1,7 @@
 # baronial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baronial.md)
+
 <p><span class="chinese">这是一个宏大的规划。</span><span class="english">This is a baronial program.</span></p>
 
 <p><span class="chinese">这是马云近来的最宏大构想。</span><span class="english">This is Ma Yun's latter the most baronial conception.</span></p>

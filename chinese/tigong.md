@@ -1,5 +1,7 @@
 # 提供
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tigong.md)
+
 <p><span class="chinese">提供现金还是食品？</span><span class="english">Cash or Tortillas?</span></p>
 
 <p><span class="chinese">向某人提供谋事的详情。</span><span class="english">Fill sb in on sth.</span></p>

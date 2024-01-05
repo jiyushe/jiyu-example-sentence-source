@@ -1,5 +1,7 @@
 # healthfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/healthfully.md)
+
 <p><span class="chinese">这些产品能帮助美国人吃得更健康么？</span><span class="english">Will such products help Americans to eat more healthfully?</span></p>
 
 <p><span class="chinese">因此本文给出了一些建议，帮你从零食中吃出健康的。</span><span class="english">So here are a few ideas to help you snack more healthfully.</span></p>

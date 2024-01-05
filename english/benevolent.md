@@ -1,5 +1,7 @@
 # benevolent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benevolent.md)
+
 <p><span class="chinese">是高雅和仁慈吗？</span><span class="english">Will it be noble and benevolent?</span></p>
 
 <p><span class="chinese">阿旭是有爱心的，喜欢小动物的。</span><span class="english">He is benevolent , and like small animals.</span></p>

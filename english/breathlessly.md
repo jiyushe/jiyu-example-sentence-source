@@ -1,5 +1,7 @@
 # breathlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breathlessly.md)
+
 <p><span class="chinese">我屏住呼吸问道。</span><span class="english">I asked breathlessly.</span></p>
 
 <p><span class="chinese">林惇夫人向前探身，上气不接下气地倾听着。</span><span class="english">Mrs Linton bent forward, and listened breathlessly.</span></p>

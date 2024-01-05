@@ -1,5 +1,7 @@
 # 笑意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyi_3.md)
+
 <p><span class="chinese">笑意从她唇上渐渐消逝了。</span><span class="english">The laughter died on her lips.</span></p>
 
 <p><span class="chinese">点染出她眼里的笑意。</span><span class="english">Enrich that smile her eyes began.</span></p>

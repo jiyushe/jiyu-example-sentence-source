@@ -1,5 +1,7 @@
 # splenectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splenectomy.md)
+
 <p><span class="chinese">脾切除通常将纠正细胞减少。</span><span class="english">Splenectomy will usually correct the cytopenias.</span></p>
 
 <p><span class="chinese">大多数患者可实施腹腔镜脾切除术。</span><span class="english">Most patients can have a laparoscopic splenectomy.</span></p>

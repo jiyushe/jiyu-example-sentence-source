@@ -1,5 +1,7 @@
 # 时运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyun.md)
+
 <p><span class="chinese">她胡锂胡锂有时运微笑以一数字和甜。</span><span class="english">She had a slim figure and sweet smile.</span></p>
 
 <p><span class="chinese">最终战胜了死亡，时运，还有你，时间。</span><span class="english">Triumphing over Death, and Chance, and thee, O Time.</span></p>

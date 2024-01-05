@@ -1,5 +1,7 @@
 # passerine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passerine.md)
+
 <p><span class="chinese">一种鸟，尤其指雀形目鸟中鸣禽亚目中的一种，其歌声或叫声宛啭动听。</span><span class="english">A bird, especially one of the suborder Oscines of passerine birds, having a melodious song or call.</span></p>
 
 <p><span class="chinese">本文分析了雀形目8种鸟的核型，并与已报道的资料进行了比较。</span><span class="english">The karyotypes of 8 species of Passerine birds were studied and compared with the data reported before.</span></p>

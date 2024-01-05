@@ -1,5 +1,7 @@
 # twaddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twaddle.md)
+
 <p><span class="chinese">第二个奖为“经济学家的废话”而设。</span><span class="english">The second award is for Economists’ Twaddle.</span></p>
 
 <p><span class="chinese">我这样说她，那是全无希望的拙劣废话。</span><span class="english">This is all hopeless twaddle that I am saying about her.</span></p>

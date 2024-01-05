@@ -1,5 +1,7 @@
 # backstage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backstage.md)
+
 <p><span class="chinese">猴子们表演完后在后台休息。</span><span class="english">Monkeys rest backstage after a show.</span></p>
 
 <p><span class="chinese">可我刚在后台听你在谈论运动比赛。</span><span class="english">I heard you talking sports backstage.</span></p>

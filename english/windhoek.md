@@ -1,5 +1,7 @@
 # windhoek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windhoek.md)
+
 <p><span class="chinese">温德和克火车站从旧时代保留至今。</span><span class="english">The railway station in Windhoek is a survivor from the old days.</span></p>
 
 <p><span class="chinese">温得和克附近的卡图拉和科马斯达尔是非洲人聚居的城镇。</span><span class="english">Windhoek card near Tula and comas Darfur are Africans live in cities and towns.</span></p>

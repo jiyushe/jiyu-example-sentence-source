@@ -1,5 +1,7 @@
 # factuality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/factuality.md)
+
 <p><span class="chinese">而这个实在性也只对这个意识有效。</span><span class="english">And this factuality is only effective to this consciousness.</span></p>
 
 <p><span class="chinese">负责叁坐标测量，确保测量结果的真实性。</span><span class="english">Be responsible for CMM, ensure factuality of the measurement result.</span></p>

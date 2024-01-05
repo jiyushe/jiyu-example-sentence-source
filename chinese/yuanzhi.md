@@ -1,5 +1,7 @@
 # 原址
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhi.md)
+
 <p><span class="chinese">灰狗汽车公司原址博物馆座落在明尼苏达的希宾镇。</span><span class="english">The greyhound bus origin museum is located in hibbing minnesota.</span></p>
 
 <p><span class="chinese">在这座建筑的原址上，一件事实上的复制品最近已经被揭幕。</span><span class="english">A virtual replica was recently unveiled in the place of the original.</span></p>

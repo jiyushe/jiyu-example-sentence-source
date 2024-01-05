@@ -1,5 +1,7 @@
 # 回暖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huinuan.md)
+
 <p><span class="chinese">大范围的回暖是共有的客观事实。</span><span class="english">Greater resilience is a shared objective.</span></p>
 
 <p><span class="chinese">此时大地刚刚回暖，茶芽非常稚嫩。</span><span class="english">At this time the earth has warmed up, Chaya very immature.</span></p>

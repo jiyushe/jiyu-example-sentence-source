@@ -1,5 +1,7 @@
 # enough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enough.md)
+
 <p><span class="chinese">乍听下很有道理。</span><span class="english">Fair enough.</span></p>
 
 <p><span class="chinese">“充分”地大声疾呼。</span><span class="english">To cry "enough".</span></p>

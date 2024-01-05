@@ -1,5 +1,7 @@
 # 四处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sichu.md)
+
 <p><span class="chinese">它是四处遍布的。</span><span class="english">It's pervasive.</span></p>
 
 <p><span class="chinese">人们可以开始四处针砭时弊</span><span class="english">But they could lash out.</span></p>

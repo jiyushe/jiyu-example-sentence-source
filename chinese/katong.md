@@ -1,5 +1,7 @@
 # 卡通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/katong.md)
+
 <p><span class="chinese">辛普森家族"是个卡通节目，很好玩的。</span><span class="english">The Simpsons are on.</span></p>
 
 <p><span class="chinese">卡通书里有什么？</span><span class="english">What's in a cartoon?</span></p>

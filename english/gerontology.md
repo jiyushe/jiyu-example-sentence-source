@@ -1,5 +1,7 @@
 # gerontology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gerontology.md)
+
 <p><span class="chinese">我已经决定大学要攻读老年病学。</span><span class="english">I have decided to study gerontology at college.</span></p>
 
 <p><span class="chinese">所以，是老年医学的一个似是而非的追求？</span><span class="english">So, is the field of gerontology a plausible pursuit?</span></p>

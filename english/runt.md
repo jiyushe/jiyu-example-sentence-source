@@ -1,5 +1,7 @@
 # runt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/runt.md)
+
 <p><span class="chinese">放下小娃子。</span><span class="english">Put the little runt down!</span></p>
 
 <p><span class="chinese">再接着，他可以跑步了。</span><span class="english">T hen again, he can runt he.</span></p>

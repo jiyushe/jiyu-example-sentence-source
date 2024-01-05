@@ -1,5 +1,7 @@
 # 洋装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangzhuang_1.md)
+
 <p><span class="chinese">那真是件性感的洋装！</span><span class="english">That's a sexy dress!</span></p>
 
 <p><span class="chinese">我喜爱黑色洋装。</span><span class="english">I love a black dress.</span></p>

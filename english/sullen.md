@@ -1,5 +1,7 @@
 # sullen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sullen.md)
+
 <p><span class="chinese">而现在，他们闷不做声了。</span><span class="english">Now they were sullen.</span></p>
 
 <p><span class="chinese">稍复平静后，他拥抱了脸色阴沉的马胡。</span><span class="english">Moments later, he embraced a sullen Mr.</span></p>

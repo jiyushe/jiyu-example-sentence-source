@@ -1,5 +1,7 @@
 # intravenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intravenous.md)
+
 <p><span class="chinese">她拒绝静脉内的Demerol。</span><span class="english">She refused the intravenous Demerol.</span></p>
 
 <p><span class="chinese">将导管盘在合适的位置。</span><span class="english">N. Tape the intravenous tubing in place.</span></p>

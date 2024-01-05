@@ -1,5 +1,7 @@
 # trivial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trivial.md)
+
 <p><span class="chinese">这个消息看起来似乎没有什么意义。</span><span class="english">This message seems trivial.</span></p>
 
 <p><span class="chinese">仅只是眼睑，如此琐细。</span><span class="english">Merely lid. How trivial it is.</span></p>

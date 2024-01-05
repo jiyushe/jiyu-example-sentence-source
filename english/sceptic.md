@@ -1,5 +1,7 @@
 # sceptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sceptic.md)
+
 <p><span class="chinese">坚决的怀疑分子是誓不罢休的。</span><span class="english">The determined sceptic can never be silenced.</span></p>
 
 <p><span class="chinese">说明一下，Dyson是气候变化的怀疑论者。</span><span class="english">For the record, Dyson is a sceptic on climate change.</span></p>

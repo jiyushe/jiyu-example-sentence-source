@@ -1,5 +1,7 @@
 # cctv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cctv.md)
+
 <p><span class="chinese">她是中国中央电视台的播音员。</span><span class="english">She announces for CCTV.</span></p>
 
 <p><span class="chinese">谢谢，我是大旨电视台和央视网记者。</span><span class="english">I'm with CCTV a new goodd . Mr.</span></p>

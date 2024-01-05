@@ -1,5 +1,7 @@
 # polemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polemic.md)
+
 <p><span class="chinese">这本书的形式半是传记，半是辩论。</span><span class="english">Mr Blom’s book is part biography and part polemic.</span></p>
 
 <p><span class="chinese">新约是一本争辨的书，几乎是从头开始，一直到结束为止。</span><span class="english">The New Testament is a polemic book almost from beginning to end.</span></p>

@@ -1,5 +1,7 @@
 # carious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carious.md)
+
 <p><span class="chinese">选择不同部件材质，可使用多种介质。</span><span class="english">Wide selection of materials, applicable for carious medium.</span></p>
 
 <p><span class="chinese">结果实验组龋齿发病率明显小于对照组。</span><span class="english">Results The carious rate of test group was lower than the control.</span></p>

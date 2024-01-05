@@ -1,5 +1,7 @@
 # frankish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frankish.md)
+
 <p><span class="chinese">法兰克诗人和查理曼宫廷的高级教士。</span><span class="english">Frankish poet and prelate at the court of Charlemagne.</span></p>
 
 <p><span class="chinese">那法兰克大公悲痛地哭着看着自已的士兵被残杀。</span><span class="english">The Frankish duke wept bitterly to see his soldiers massacred.</span></p>

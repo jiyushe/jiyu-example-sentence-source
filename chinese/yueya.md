@@ -1,5 +1,7 @@
 # 月牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueya.md)
+
 <p><span class="chinese">看看像不像一轮弯弯的月牙呢？</span><span class="english">Look like a curved crescent?</span></p>
 
 <p><span class="chinese">挽起一面轻纱，看清天边月牙。</span><span class="english">Take a veil, see the horizon moon.</span></p>

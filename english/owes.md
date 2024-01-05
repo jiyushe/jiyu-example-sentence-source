@@ -1,5 +1,7 @@
 # owes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/owes.md)
+
 <p><span class="chinese">因为他不欠任何人的帐。</span><span class="english">For rhe owes not any man.</span></p>
 
 <p><span class="chinese">她把成功归功于勤奋。</span><span class="english">She owes her success to diligence.</span></p>

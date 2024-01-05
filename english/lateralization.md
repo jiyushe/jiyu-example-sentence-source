@@ -1,5 +1,7 @@
 # lateralization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lateralization.md)
+
 <p><span class="chinese">侧化的过程被认为是一种发育成长的过程。</span><span class="english">The process of lateralization is believed to be maturational.</span></p>
 
 <p><span class="chinese">鱼类的脑部侧化现象则似乎也能带来一些生存优势。</span><span class="english">Lateralization seems to confer an advantage for some fish as well.</span></p>

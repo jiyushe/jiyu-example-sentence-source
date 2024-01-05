@@ -1,5 +1,7 @@
 # 午后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhou.md)
+
 <p><span class="chinese">诺城，家中午后。</span><span class="english">Norwich, afternoon at home.</span></p>
 
 <p><span class="chinese">细线，微尘于午后起舞</span><span class="english">lint and dust dances in the afternoon</span></p>

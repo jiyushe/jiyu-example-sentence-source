@@ -1,5 +1,7 @@
 # judaic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judaic.md)
+
 <p><span class="chinese">这也是耶稣，耶稣秉承了这种丰富而具有预言性的犹太传统。</span><span class="english">What Jesus called, That rich prophetic Judaic tradition that Jesus flows out of.</span></p>
 
 <p><span class="chinese">犹太教的一些戒律具有养生保健作用。</span><span class="english">Some Judaic disciplines possessed the function of life nourishment and health care.</span></p>

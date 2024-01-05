@@ -1,5 +1,7 @@
 # elysian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elysian.md)
+
 <p><span class="chinese">那些极乐世界的仙女们。</span><span class="english">Those fairy forms of bliss Elysian.</span></p>
 
 <p><span class="chinese">但这就是真实的芝加哥伊莉希安酒店给我的感觉。</span><span class="english">This was the exact feeling that Elysian Hotel Chicago gave me.</span></p>

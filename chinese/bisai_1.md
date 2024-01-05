@@ -1,5 +1,7 @@
 # 鼻塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bisai_1.md)
+
 <p><span class="chinese">怎样有效的治疗鼻塞？</span><span class="english">How effective cure n&v snuffle?</span></p>
 
 <p><span class="chinese">我给您一种鼻塞专用药。</span><span class="english">I give you a nasal decongestion.</span></p>

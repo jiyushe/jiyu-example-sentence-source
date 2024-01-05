@@ -1,5 +1,7 @@
 # 面色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianse.md)
+
 <p><span class="chinese">她的面色变得蜡黄。</span><span class="english">Her face turned waxen.</span></p>
 
 <p><span class="chinese">他的面色变得像死人一样苍白。</span><span class="english">He turned as pale as death.</span></p>

@@ -1,5 +1,7 @@
 # sava
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sava.md)
+
 <p><span class="chinese">所有民事纠纷都将在萨瓦每月一次举行的公开法庭上解决。</span><span class="english">All civil disputes are settled by the Sava who holds an open court once a month.</span></p>
 
 <p><span class="chinese">沿海为达尔马提亚海岸，北部为斯拉沃尼丘陵与萨瓦河沿岸平原。</span><span class="english">Dalmatian coast to coast, north to the Sava River Slavonski hills and coastal plain.</span></p>

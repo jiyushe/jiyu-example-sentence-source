@@ -1,5 +1,7 @@
 # palatable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palatable.md)
+
 <p><span class="chinese">这道菜非常鲜美可口。</span><span class="english">This course is quite palatable.</span></p>
 
 <p><span class="chinese">艾伯特烤的这个蛋糕非常好吃。</span><span class="english">This cake Albert baked is quite palatable.</span></p>

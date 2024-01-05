@@ -1,5 +1,7 @@
 # flagman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagman.md)
+
 <p><span class="chinese">“要多长时间？”我问司旗手。</span><span class="english">"How long's this gonna take?" I asked the flagman.</span></p>
 
 <p><span class="chinese">此外，瓦良格号真是一艘漂亮的巡洋舰，是舰队的真正旗舰。</span><span class="english">Besides, Varyag is just a beautiful ship and a real flagman of the Fleet.</span></p>

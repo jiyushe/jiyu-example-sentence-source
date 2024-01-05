@@ -1,5 +1,7 @@
 # vein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vein.md)
+
 <p><span class="chinese">也许是肝静脉？</span><span class="english">Maybe the hepatic vein?</span></p>
 
 <p><span class="chinese">怀特读了很多相关的书。</span><span class="english">He read a lot in that vein.</span></p>

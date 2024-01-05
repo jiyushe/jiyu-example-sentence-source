@@ -1,5 +1,7 @@
 # monopolise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monopolise.md)
+
 <p><span class="chinese">奖学金是他们的专利。</span><span class="english">They monopolise the scholarships.</span></p>
 
 <p><span class="chinese">首先，广告垄断消费者注意力的力量从未减弱。</span><span class="english">First, its power to monopolise attention is undiminished.</span></p>

@@ -1,5 +1,7 @@
 # 蛇蝎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shexie.md)
+
 <p><span class="chinese">那个阴险的家伙心如蛇蝎，无恶不作。</span><span class="english">AS a viper, stopped at no evils.</span></p>
 
 <p><span class="chinese">经典的黑色电影蛇蝎美人形象。</span><span class="english">The classic film noir femme fatale image.</span></p>

@@ -1,5 +1,7 @@
 # 适时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_16.md)
+
 <p><span class="chinese">这则消息是适时的。</span><span class="english">This news is timely.</span></p>
 
 <p><span class="chinese">感到不适时，我就往外滴。</span><span class="english">When I'm not well, I drip.</span></p>

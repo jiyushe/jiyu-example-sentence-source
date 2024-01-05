@@ -1,5 +1,7 @@
 # 燎原
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoyuan.md)
+
 <p><span class="chinese">为此，我感谢燎原。</span><span class="english">For this, I thank Liaoyuan.</span></p>
 
 <p><span class="chinese">就如同星星之火，顺势燎原。</span><span class="english">Just like fire, burnin' up the way.</span></p>

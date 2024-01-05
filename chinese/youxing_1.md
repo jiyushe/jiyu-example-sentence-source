@@ -1,5 +1,7 @@
 # 游行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxing_1.md)
+
 <p><span class="chinese">游行队伍的末尾是一个乐队。</span><span class="english">A band ended the parade.</span></p>
 
 <p><span class="chinese">这是游行其有罪不罚的现象。</span><span class="english">It was parading its impunity.</span></p>

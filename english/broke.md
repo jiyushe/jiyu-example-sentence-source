@@ -1,5 +1,7 @@
 # broke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broke.md)
+
 <p><span class="chinese">我腿骨折了。</span><span class="english">I broke my leg.</span></p>
 
 <p><span class="chinese">第一种情况是，我破产了。</span><span class="english">One, I'm broke.</span></p>

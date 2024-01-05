@@ -1,5 +1,7 @@
 # 引得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinde.md)
+
 <p><span class="chinese">他这一句话引得大家笑起来。</span><span class="english">His remark set everybody laughing.</span></p>
 
 <p><span class="chinese">这些猫的哀叫引得我的狗毛发竖立。</span><span class="english">My dog's hair bristles in response.</span></p>

@@ -1,5 +1,7 @@
 # 炉火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luhuo_1.md)
+
 <p><span class="chinese">靠着炉火暖和一下。</span><span class="english">Warm up by the fire.</span></p>
 
 <p><span class="chinese">炉火中劈啪劈啪地爆溅出煤渣。</span><span class="english">The fire sputtered cinders.</span></p>

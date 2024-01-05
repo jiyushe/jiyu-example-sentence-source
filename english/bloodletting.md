@@ -1,5 +1,7 @@
 # bloodletting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodletting.md)
+
 <p><span class="chinese">在这之前采用的则是放血和水蛭疗法。</span><span class="english">Before that bloodletting and leaches were used.</span></p>
 
 <p><span class="chinese">相比于给经济放血，它看起来更热衷于给它输血。</span><span class="english">It seems keener on blood transfusions than on bloodletting.</span></p>

@@ -1,5 +1,7 @@
 # transitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transitive.md)
+
 <p><span class="chinese">及物动词有宾语。</span><span class="english">Transitive verbs have an object.</span></p>
 
 <p><span class="chinese">及物动词有一个宾语。</span><span class="english">A transitive verb takes  an object.</span></p>

@@ -1,5 +1,7 @@
 # brewster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brewster.md)
+
 <p><span class="chinese">另外也感谢您对布鲁斯特产品的兴趣。</span><span class="english">Thank you also for being interested in Brewster products.</span></p>
 
 <p><span class="chinese">布鲁斯特家族的每一个人都在谈论新的大型购物中心。</span><span class="english">Everybody in Brewster is talking about the city's new shopping mall.</span></p>

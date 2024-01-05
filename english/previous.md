@@ -1,5 +1,7 @@
 # previous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/previous.md)
+
 <p><span class="chinese">我以前的老板太烂了。</span><span class="english">My previous employer sucked.</span></p>
 
 <p><span class="chinese">加上第n-2个月的兔子对数。</span><span class="english">The sum of the previous two.</span></p>

@@ -1,5 +1,7 @@
 # 触手可及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushoukeji.md)
+
 <p><span class="chinese">而那一轮银月却仿佛触手可及。</span><span class="english">A silver moon, almost close enough to touch.</span></p>
 
 <p><span class="chinese">朱梓骁，你在我那触手可及的最远处。</span><span class="english">Master peer, You the most distance in my fingertips.</span></p>

@@ -1,5 +1,7 @@
 # europium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/europium.md)
+
 <p><span class="chinese">你电视里的图像——红色来自一种叫作铕的元素。</span><span class="english">The phosphors in your TV—the red color comes from an element called europium.</span></p>
 
 <p><span class="chinese">例如，帕斯山生产的铕，使彩色电视机产生成为可能。</span><span class="english">It was europium from Mountain Pass, for instance, that made colour television possible.</span></p>

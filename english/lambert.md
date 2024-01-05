@@ -1,5 +1,7 @@
 # lambert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lambert.md)
+
 <p><span class="chinese">兰伯特是一只小狮子。</span><span class="english">Lambert is a baby lion.</span></p>
 
 <p><span class="chinese">销户是由兰伯特女士办理的。</span><span class="english">Ms. Lambert handles all our closures.</span></p>

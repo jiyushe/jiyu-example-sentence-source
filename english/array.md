@@ -1,5 +1,7 @@
 # array
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/array.md)
+
 <p><span class="chinese">是激光列阵吗？</span><span class="english">Is that a laser array?</span></p>
 
 <p><span class="chinese">阵列开始形成。</span><span class="english">And word array is loaded.</span></p>

@@ -1,5 +1,7 @@
 # 心满意足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinmanyizu.md)
+
 <p><span class="chinese">本来你说棕色我就心满意足了。</span><span class="english">I would have settled for brown.</span></p>
 
 <p><span class="chinese">仅是声音便让人心满意足。</span><span class="english">Thee sound alone instills satisfaction.</span></p>

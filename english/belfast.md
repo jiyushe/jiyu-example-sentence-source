@@ -1,5 +1,7 @@
 # belfast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belfast.md)
+
 <p><span class="chinese">巴利米纳，离贝尔法斯特30英里远。</span><span class="english">Ballymena. Thirty miles from Belfast.</span></p>
 
 <p><span class="chinese">贝尔法斯特教会给我留下了深刻的印象。</span><span class="english">And I was very impressed by the Belfast Ecclesia. If.</span></p>

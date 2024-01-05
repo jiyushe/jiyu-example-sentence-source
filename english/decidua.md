@@ -1,5 +1,7 @@
 # decidua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decidua.md)
+
 <p><span class="chinese">病理检查胎盘蜕膜细胞、绒毛膜滋养层细胞变性坏死。</span><span class="english">The placental decidua cells and villi ceil degenerated with necrosis.</span></p>
 
 <p><span class="chinese">自拟方能加速光镜下蜕膜和绒毛的变性、坏死。</span><span class="english">ZNF could promote the degeneration and necrosis of chorion and decidua cells.</span></p>

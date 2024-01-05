@@ -1,5 +1,7 @@
 # beaming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beaming.md)
+
 <p><span class="chinese">一会儿之后，她是喜上眉梢。</span><span class="english">A moment later, she was beaming.</span></p>
 
 <p><span class="chinese">“这些是我的小宝贝”，他微笑着说。</span><span class="english">"These are my babies," he says, beaming.</span></p>

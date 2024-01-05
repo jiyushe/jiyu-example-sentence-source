@@ -1,5 +1,7 @@
 # 直立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhili_2.md)
+
 <p><span class="chinese">这头猪鬃毛直立。</span><span class="english">The hog bristled up.</span></p>
 
 <p><span class="chinese">马用后腿直立站起来。</span><span class="english">The horse reared itself up.</span></p>

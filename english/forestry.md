@@ -1,5 +1,7 @@
 # forestry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forestry.md)
+
 <p><span class="chinese">森林学和地理学有关。</span><span class="english">Forestry appertains to geography.</span></p>
 
 <p><span class="chinese">什么是林业的优先重点？</span><span class="english">What are the priorities for forestry?</span></p>

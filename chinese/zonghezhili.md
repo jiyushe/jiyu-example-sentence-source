@@ -1,5 +1,7 @@
 # 综合治理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonghezhili.md)
+
 <p><span class="chinese">改善教育的综合治理办法</span><span class="english">A MULTIFACETED APPROACH TO IMPROVING EDUCATION</span></p>
 
 <p><span class="chinese">绥芬河市城市垃圾综合治理工程，采用卫生填埋法。</span><span class="english">The synthesis waste disposal is of sanitation covering way.</span></p>

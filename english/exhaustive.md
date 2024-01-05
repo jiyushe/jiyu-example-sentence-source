@@ -1,5 +1,7 @@
 # exhaustive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhaustive.md)
+
 <p><span class="chinese">此列表并不十分详尽。</span><span class="english">This list is not exhaustive.</span></p>
 
 <p><span class="chinese">上面的列表并不够详尽。</span><span class="english">The above list is hardly exhaustive.</span></p>

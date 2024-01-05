@@ -1,5 +1,7 @@
 # housemaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housemaid.md)
+
 <p><span class="chinese">他把我当作他的女佣人了。</span><span class="english">He took me for his housemaid.</span></p>
 
 <p><span class="chinese">女仆在桌边伺候。</span><span class="english">The housemaid served at the table.</span></p>

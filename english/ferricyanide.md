@@ -1,5 +1,7 @@
 # ferricyanide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferricyanide.md)
+
 <p><span class="chinese">使用碳粉铁氰化钾的照片时，棕褐色色调。</span><span class="english">Use toner with ferricyanide when sepia toning photographs.</span></p>
 
 <p><span class="chinese">使用小分子无机物铁氰化钾作为介体是电池的最大输出电流较使用硫堇等有机化合物时增大了一倍。</span><span class="english">The current output mediated by ferricyanide was much greater than that mediated by organic compound such as thionine.</span></p>

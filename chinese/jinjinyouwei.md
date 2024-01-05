@@ -1,5 +1,7 @@
 # 津津有味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinjinyouwei.md)
+
 <p><span class="chinese">克劳斯津津有味地体验着世人的关注。</span><span class="english">Klaus relishes the attention.</span></p>
 
 <p><span class="chinese">他津津有味地吃着大龙虾。</span><span class="english">He takes great delight in eating lobster.</span></p>

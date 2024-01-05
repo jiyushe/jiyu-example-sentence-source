@@ -1,5 +1,7 @@
 # 无情无义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuqingwuyi.md)
+
 <p><span class="chinese">他是个无情无义的人。</span><span class="english">He is a man without a soul.</span></p>
 
 <p><span class="chinese">你们当真是无情无义的人吗！</span><span class="english">You are really harsh right person!</span></p>

@@ -1,5 +1,7 @@
 # leopard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leopard.md)
+
 <p><span class="chinese">雪豹桌面。</span><span class="english">Snow Leopard desktop.</span></p>
 
 <p><span class="chinese">花豹改变不了身上的花斑。本性难改。</span><span class="english">A leopard can't change its spots.</span></p>

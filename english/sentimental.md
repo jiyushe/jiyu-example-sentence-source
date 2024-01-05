@@ -1,5 +1,7 @@
 # sentimental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sentimental.md)
+
 <p><span class="chinese">感伤？</span><span class="english">Sentimental?</span></p>
 
 <p><span class="chinese">我是个感情脆弱的失败者。</span><span class="english">I'm a sentimental failure.</span></p>

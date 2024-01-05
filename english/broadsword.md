@@ -1,5 +1,7 @@
 # broadsword
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broadsword.md)
+
 <p><span class="chinese">拿着一把他妈的苏格兰大剑。</span><span class="english">With a big fucking broadsword.</span></p>
 
 <p><span class="chinese">一把金煌煌的大刀挂在墙上。</span><span class="english">A shiny broadsword is hanging on the wall.</span></p>

@@ -1,5 +1,7 @@
 # contestant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contestant.md)
+
 <p><span class="chinese">我是19号选手，孙雪莹。</span><span class="english">I'm No. 19 contestant.</span></p>
 
 <p><span class="chinese">每位选手对这个问题都有自己的看法。</span><span class="english">Each contestant had his own take on the subject.</span></p>

@@ -1,5 +1,7 @@
 # strangeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strangeness.md)
+
 <p><span class="chinese">陌生感会随著时间而消失。</span><span class="english">The strangeness will wear off with time.</span></p>
 
 <p><span class="chinese">我过去很喜欢肉体的陌生感。</span><span class="english">I was interested in corporeal strangeness.</span></p>

@@ -1,5 +1,7 @@
 # cannibalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cannibalism.md)
+
 <p><span class="chinese">很多朊病毒类型的疾病是由同类相食所导致的。</span><span class="english">Much prion type diseases can be caused by cannibalism.</span></p>
 
 <p><span class="chinese">关于人吃人的想法几千年以前就开始了。</span><span class="english">The idea of cannibalism stems back thousands of years.</span></p>

@@ -1,5 +1,7 @@
 # 泄密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiemi.md)
+
 <p><span class="chinese">考试者已经泄密答案了。</span><span class="english">The examiner has given away the answer.</span></p>
 
 <p><span class="chinese">你说漏嘴时，也就意味着你在泄密。</span><span class="english">When you spill the beans, you tell a secret.</span></p>

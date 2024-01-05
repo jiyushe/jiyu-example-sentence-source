@@ -1,5 +1,7 @@
 # 极光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiguang.md)
+
 <p><span class="chinese">不过，美丽的极光也可能形成于此。</span><span class="english">They can also produce beautiful auroras.</span></p>
 
 <p><span class="chinese">这些光亮造就了我们所看到的极光。</span><span class="english">The light creates the aurora that we see.</span></p>

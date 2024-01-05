@@ -1,5 +1,7 @@
 # uncompensated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncompensated.md)
+
 <p><span class="chinese">千百万的中国战争受害者，没有得到日本政府的赔偿。</span><span class="english">Millions of Chinese war victims are uncompensated by the Japanese government.</span></p>
 
 <p><span class="chinese">医院将不被允许获得这方面给患者治疗的偿付。</span><span class="english">And hospitals won't be allowed to pass along the costs of uncompensated care to patients.</span></p>

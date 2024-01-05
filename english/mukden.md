@@ -1,5 +1,7 @@
 # mukden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mukden.md)
+
 <p><span class="chinese">那么东大营的官兵们在918事变后为什么会放弃抵抗？</span><span class="english">But why they give up the resistance after Mukden Incident?</span></p>
 
 <p><span class="chinese">我遇到一位在沈阳贸易局供职的会说英语的官员。</span><span class="english">I met an English-speaking official in the Trade Bureau in Mukden.</span></p>

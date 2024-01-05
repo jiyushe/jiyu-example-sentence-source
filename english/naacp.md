@@ -1,5 +1,7 @@
 # naacp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naacp.md)
+
 <p><span class="chinese">全国有色人种协进会章将支持迈克尔·维克。</span><span class="english">NAACP chapter will be out to support Michael Vick.</span></p>
 
 <p><span class="chinese">美国全国有色人种协进会希望“N”字最终停止使用。</span><span class="english">The NAACP is hoping to finally lay the N-Word to rest.</span></p>

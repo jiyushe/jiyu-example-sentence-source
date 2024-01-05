@@ -1,5 +1,7 @@
 # thusly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thusly.md)
+
 <p><span class="chinese">就这样留心你的“直觉”吧。</span><span class="english">HEED your "instincts" thusly.</span></p>
 
 <p><span class="chinese">简单的说，事情就是这样。</span><span class="english">In brief, the matter stand thusly.</span></p>

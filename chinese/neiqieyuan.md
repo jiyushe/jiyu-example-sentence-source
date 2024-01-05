@@ -1,5 +1,7 @@
 # 内切圆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiqieyuan.md)
+
 <p><span class="chinese">文中分别介绍了用计算机求最小外接圆和最大内切圆的新算法。</span><span class="english">The new algorithms to find out minimum circumscribed and maximum inscribed circle with computer are respectively introduced.</span></p>
 
 <p><span class="chinese">棒材规格指圆棒直径、如方棒及多角形棒指内切圆直径。</span><span class="english">Rod material specification regarding to the diametre of round rod. Square rod and multi-shaped rod regarding to inside diametre.</span></p>

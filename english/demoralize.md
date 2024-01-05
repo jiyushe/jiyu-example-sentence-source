@@ -1,5 +1,7 @@
 # demoralize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demoralize.md)
+
 <p><span class="chinese">不好的员工会破坏好员工的士气。</span><span class="english">Bad employees demoralize the good employees.</span></p>
 
 <p><span class="chinese">即将采取制裁的谣言能使士气低落。</span><span class="english">Rumors of impending sanctions can demoralize.</span></p>

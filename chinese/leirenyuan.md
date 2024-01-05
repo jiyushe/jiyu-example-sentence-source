@@ -1,5 +1,7 @@
 # 类人猿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leirenyuan.md)
+
 <p><span class="chinese">人是从类人猿进化来的。</span><span class="english">Man has evolved from the ape.</span></p>
 
 <p><span class="chinese">人类是由类人猿进化而成的。</span><span class="english">Human beings are evolved from ape-man.</span></p>

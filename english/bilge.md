@@ -1,5 +1,7 @@
 # bilge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bilge.md)
+
 <p><span class="chinese">只不过是只舱鼠！</span><span class="english">Nothin' but a bilge rat!</span></p>
 
 <p><span class="chinese">先将污水泵入污水柜。</span><span class="english">Pump bilge water into bilge tank.</span></p>

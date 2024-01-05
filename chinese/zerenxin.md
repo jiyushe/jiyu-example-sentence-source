@@ -1,5 +1,7 @@
 # 责任心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zerenxin.md)
+
 <p><span class="chinese">孩子让我们变得富有责任心、变得成熟稳重，并且更好的理解人生。</span><span class="english">understand life better.</span></p>
 
 <p><span class="chinese">他们富有经验和责任心。</span><span class="english">They are very experienced and responsible.</span></p>

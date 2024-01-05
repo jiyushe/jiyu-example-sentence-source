@@ -1,5 +1,7 @@
 # 线性方程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxingfangcheng.md)
+
 <p><span class="chinese">我们来看关于x，y，z的一个线性方程。</span><span class="english">Let's take a linear function of x, y, and z.</span></p>
 
 <p><span class="chinese">薛定谔方程是一个线性方程。</span><span class="english">The Schr?dinger equation is a linear equation.</span></p>

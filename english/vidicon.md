@@ -1,5 +1,7 @@
 # vidicon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vidicon.md)
+
 <p><span class="chinese">光导摄像管摄像系统?。</span><span class="english">VCS? Vidicon Camera System?</span></p>
 
 <p><span class="chinese">厂区外围增加一个摄像机。</span><span class="english">Add a vidicon around the factory.</span></p>

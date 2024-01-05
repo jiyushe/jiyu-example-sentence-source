@@ -1,5 +1,7 @@
 # 傻乎乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shahuhu.md)
+
 <p><span class="chinese">我傻乎乎地笑了笑。</span><span class="english">I just smiled like a twit.</span></p>
 
 <p><span class="chinese">有害的“脂肪”能使你傻乎乎么？</span><span class="english">Can “bad” fats make you dumb?</span></p>

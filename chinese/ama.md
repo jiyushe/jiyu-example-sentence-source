@@ -1,5 +1,7 @@
 # 阿妈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ama.md)
+
 <p><span class="chinese">阿妈正在使用其他锄头！</span><span class="english">Grandma is using the other hoe!</span></p>
 
 <p><span class="chinese">大牛，你看阿妈那么热情。</span><span class="english">Daniel, since Amah is so sincere.</span></p>

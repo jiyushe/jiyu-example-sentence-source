@@ -1,5 +1,7 @@
 # 婶婶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenshen_1.md)
+
 <p><span class="chinese">我婶婶那时已经瞎了。</span><span class="english">My aunt was blind by then.</span></p>
 
 <p><span class="chinese">那是照片上的卢佩婶婶。</span><span class="english">Aunt Lupe of the photographs.</span></p>

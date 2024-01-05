@@ -1,5 +1,7 @@
 # lessening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lessening.md)
+
 <p><span class="chinese">但你为什么突然想减少盐的摄取量？</span><span class="english">But why your sudden interest in lessening your salt intake?</span></p>
 
 <p><span class="chinese">日子一周周过去，小猫的悲哀似乎也渐渐减轻。</span><span class="english">The weeks went by and the cat 's sorrow seemed to be lessening.</span></p>

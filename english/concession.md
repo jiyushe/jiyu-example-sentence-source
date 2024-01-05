@@ -1,5 +1,7 @@
 # concession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concession.md)
+
 <p><span class="chinese">请办一张去里奇蒙的学生半价周票。</span><span class="english">A weekly concession to Richmond, please.</span></p>
 
 <p><span class="chinese">我们在这个问题上不能过于让步。</span><span class="english">We can not make heavy concession to the matter.</span></p>

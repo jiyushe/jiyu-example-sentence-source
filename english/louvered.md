@@ -1,5 +1,7 @@
 # louvered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/louvered.md)
+
 <p><span class="chinese">空气清洁器10不限于包括百叶窗式通风口16来形成空气出口。</span><span class="english">The air purifier 10 is not limited to including the louvered vent 16 to form the air outlet 16.</span></p>
 
 <p><span class="chinese">前脸也有大规模的百叶窗门，打开窗户或树荫它的阳光。</span><span class="english">The front face also has massive louvered doors which open up the windows or shade it from the sun.</span></p>

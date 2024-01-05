@@ -1,5 +1,7 @@
 # slanderous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slanderous.md)
+
 <p><span class="chinese">在一条毁谤之舌的毒焰中焚烧。</span><span class="english">Burning in fires of a slanderous tongue.</span></p>
 
 <p><span class="chinese">她中伤性的话损害了他的名誉。</span><span class="english">Her slanderous words soiled his reputation.</span></p>

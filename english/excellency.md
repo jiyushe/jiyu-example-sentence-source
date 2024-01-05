@@ -1,5 +1,7 @@
 # excellency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excellency.md)
+
 <p><span class="chinese">总督大人要我恳请你。</span><span class="english">His Excellency entreats you by me.</span></p>
 
 <p><span class="chinese">我陪您去吗，伯爵阁下？</span><span class="english">Am I to accompany you, your excellency?</span></p>

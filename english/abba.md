@@ -1,5 +1,7 @@
 # abba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abba.md)
+
 <p><span class="chinese">我整个星期都在哼唱ABBA音乐。</span><span class="english">I’ve been humming ABBA all week.</span></p>
 
 <p><span class="chinese">现在，当然了，每个人都喜欢ABBA。</span><span class="english">Now, of course, everyone likes ABBA.</span></p>

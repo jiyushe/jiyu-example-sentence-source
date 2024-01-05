@@ -1,5 +1,7 @@
 # gunnar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunnar.md)
+
 <p><span class="chinese">突然他意识到那是古纳尔。</span><span class="english">Suddenly he realized that it Was Gunnar.</span></p>
 
 <p><span class="chinese">萨索斯岛附近有石油蕴藏。</span><span class="english">Sasha Gunnar solskjaer island near a oil reserves.</span></p>

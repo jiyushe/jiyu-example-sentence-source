@@ -1,5 +1,7 @@
 # teaspoonful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teaspoonful.md)
+
 <p><span class="chinese">往锅里放一茶匙盐。</span><span class="english">Put a teaspoonful of salt into the pan.</span></p>
 
 <p><span class="chinese">吃了一堆和士的宁混在一起的迷幻药？</span><span class="english">Then add half a teaspoonful of strychnine.</span></p>

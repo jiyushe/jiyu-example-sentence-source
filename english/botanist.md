@@ -1,5 +1,7 @@
 # botanist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/botanist.md)
+
 <p><span class="chinese">植物学家能区分各种不同的植物。</span><span class="english">A botanist can differentiate varieties of plants.</span></p>
 
 <p><span class="chinese">百思不得乓解，他便去请教一位植物学家。</span><span class="english">We shall not, he went to table a botanist consult.</span></p>

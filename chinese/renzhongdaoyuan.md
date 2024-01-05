@@ -1,5 +1,7 @@
 # 任重道远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzhongdaoyuan.md)
+
 <p><span class="chinese">几内亚的新领导人任重道远。</span><span class="english">"Guinea's new leaders have important work ahead," Dufka said.</span></p>
 
 <p><span class="chinese">创业维艰、未来任重道远，驰球人坚信——我们将开启一个又一个辉煌之门！</span><span class="english">Start, the future still, Chiqiu believed -- we will open a door to glory!</span></p>

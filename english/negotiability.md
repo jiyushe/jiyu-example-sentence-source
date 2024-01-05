@@ -1,5 +1,7 @@
 # negotiability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negotiability.md)
+
 <p><span class="chinese">流通性是票据的生命力之所在。</span><span class="english">Negotiability is the essence of the negotiable instrument.</span></p>
 
 <p><span class="chinese">本节讨论如何跟踪工会谈判上诉。</span><span class="english">This section discusses how to track union negotiability appeals.</span></p>

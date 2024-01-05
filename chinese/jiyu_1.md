@@ -1,5 +1,7 @@
 # 觊觎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiyu_1.md)
+
 <p><span class="chinese">那青年觊觎王位。</span><span class="english">He pretended to the throne.</span></p>
 
 <p><span class="chinese">中国也觊觎稳定。</span><span class="english">China, too, covets stability.</span></p>

@@ -1,5 +1,7 @@
 # ADHD
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adhd.md)
+
 <p><span class="chinese">多动症就像幻灯机。</span><span class="english">ADHD is like a slide projector.</span></p>
 
 <p><span class="chinese">他有过动症，经常与集中精神做斗争。</span><span class="english">He has ADHD and often struggles with focus.</span></p>

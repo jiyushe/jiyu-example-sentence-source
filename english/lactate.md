@@ -1,5 +1,7 @@
 # lactate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lactate.md)
+
 <p><span class="chinese">他们不用孕育或哺乳。</span><span class="english">They don't gestate or lactate.</span></p>
 
 <p><span class="chinese">像所有的哺乳动物一样，牛能lactate。</span><span class="english">Cows, like all mammals, lactate.</span></p>

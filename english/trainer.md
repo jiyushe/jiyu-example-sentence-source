@@ -1,5 +1,7 @@
 # trainer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trainer.md)
+
 <p><span class="chinese">狮子咬伤其驯兽者。</span><span class="english">The lion bit his trainer.</span></p>
 
 <p><span class="chinese">金钱是生命的训兽师。</span><span class="english">Fortune is a trainer of life.</span></p>

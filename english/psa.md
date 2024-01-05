@@ -1,5 +1,7 @@
 # psa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psa.md)
+
 <p><span class="chinese">通过应用辅助建树软件能够提高一级PSA的质量。</span><span class="english">By the application of FTES, the quality of level I PSA can be improved.</span></p>
 
 <p><span class="chinese">然而液体中却含有一种前列腺特有抗原或PSA。</span><span class="english">One marker it did contain, however, was prostate-specific antigen, or PSA.</span></p>

@@ -1,5 +1,7 @@
 # 烟灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhui_1.md)
+
 <p><span class="chinese">他弹去雪茄烟烟灰。</span><span class="english">He flicked the ashes from his cigar.</span></p>
 
 <p><span class="chinese">他把烟灰从烟斗里磕出来。</span><span class="english">He tapped the ashes out of the pipe.</span></p>

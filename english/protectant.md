@@ -1,5 +1,7 @@
 # protectant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protectant.md)
+
 <p><span class="chinese">可以作为保护剂抵制进一步的过敏。</span><span class="english">May be used as a protectant against further irritation.</span></p>
 
 <p><span class="chinese">天然胶体燕麦二甲聚硅氧烷皮肤保护。</span><span class="english">With natural Colloidal Oatmeal Dimethicone skin protectant.</span></p>

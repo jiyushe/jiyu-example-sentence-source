@@ -1,5 +1,7 @@
 # 律诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvshi.md)
+
 <p><span class="chinese">七言律诗自萌芽至成熟，经历了一个漫长的发展阶段。</span><span class="english">QiLu'poem has a long development stage from beginning to aging.</span></p>
 
 <p><span class="chinese">这两个全译本对律诗部分的处理可说是可圈可点。</span><span class="english">The two versions dealing with the verse part in the novel should take the credit.</span></p>

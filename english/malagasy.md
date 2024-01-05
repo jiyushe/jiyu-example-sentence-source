@@ -1,5 +1,7 @@
 # malagasy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malagasy.md)
+
 <p><span class="chinese">齐默曼研究了马达加斯加上土地上的马达加斯加人。</span><span class="english">Zimmerman studied Malagasy populations on Madagascar.</span></p>
 
 <p><span class="chinese">香草是马达加斯加人的一种战略经济作物。</span><span class="english">The vanilla is a strategic product for Malagasy economy.</span></p>

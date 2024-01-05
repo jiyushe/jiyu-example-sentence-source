@@ -1,5 +1,7 @@
 # 柔嫩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rounen.md)
+
 <p><span class="chinese">以你的柔嫩的双唇吻醒我吧。</span><span class="english">Wake me up with your lips.</span></p>
 
 <p><span class="chinese">柔嫩寡断是他失败的原因。</span><span class="english">Vacillation is the cause of his failure.</span></p>

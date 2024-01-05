@@ -1,5 +1,7 @@
 # customarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/customarily.md)
+
 <p><span class="chinese">印度的父母传统上都会给黄金首饰作为礼品。</span><span class="english">Indian parents customarily give gold jewelry as gifts.</span></p>
 
 <p><span class="chinese">这一术语习惯上即包括燃料，又包括氧化剂。</span><span class="english">The term customarily takes in both the fuel and the oxidizer.</span></p>

@@ -1,5 +1,7 @@
 # concur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concur.md)
+
 <p><span class="chinese">我同意。</span><span class="english">I concur.</span></p>
 
 <p><span class="chinese">提速，我同意。</span><span class="english">Accelerated movement, I concur.</span></p>

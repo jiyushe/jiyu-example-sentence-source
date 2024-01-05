@@ -1,5 +1,7 @@
 # 文娱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenyu.md)
+
 <p><span class="chinese">你得参加文娱活动。</span><span class="english">You must take some recreation.</span></p>
 
 <p><span class="chinese">我想知道他来还是不来。学会搜搜大发文娱城。</span><span class="english">I wonder whether he will come or not.</span></p>

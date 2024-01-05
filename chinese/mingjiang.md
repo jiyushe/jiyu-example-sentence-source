@@ -1,5 +1,7 @@
 # 名将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingjiang.md)
+
 <p><span class="chinese">这位24岁的网球名将生在斯洛伐克。</span><span class="english">This 24-year-old tennis player was born in Slovakia.</span></p>
 
 <p><span class="chinese">很多当今的网坛名将都自己定制自己的网球拍。</span><span class="english">Many of today's touring pros play with customized racquets.</span></p>

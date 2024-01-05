@@ -1,5 +1,7 @@
 # multiplex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiplex.md)
+
 <p><span class="chinese">濒危的国家重见曙光。</span><span class="english">The endangered state multiplex to dawn.</span></p>
 
 <p><span class="chinese">诽谤者指责这张照片最近被多次放映过。</span><span class="english">Defamer snapped this photo at a recent multiplex screening.</span></p>

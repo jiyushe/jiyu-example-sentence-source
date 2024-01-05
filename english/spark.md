@@ -1,5 +1,7 @@
 # spark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spark.md)
+
 <p><span class="chinese">那也不会有火花。</span><span class="english">There's no spark.</span></p>
 
 <p><span class="chinese">埃文鲁德火花塞。</span><span class="english">Evinrude spark plugs.</span></p>

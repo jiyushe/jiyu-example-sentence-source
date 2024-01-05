@@ -1,5 +1,7 @@
 # loathe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loathe.md)
+
 <p><span class="chinese">我不喜欢单独旅行。</span><span class="english">I loathe travelling alone.</span></p>
 
 <p><span class="chinese">我们痛恨、厌恶这些不折不扣的魔鬼。</span><span class="english">We hate and loathe these veritable fiends.</span></p>

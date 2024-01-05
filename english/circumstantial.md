@@ -1,5 +1,7 @@
 # circumstantial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumstantial.md)
+
 <p><span class="chinese">情报虽然很好，但却是间接的。</span><span class="english">The case was good, but circumstantial.</span></p>
 
 <p><span class="chinese">陪审团不会仅仅根据旁证来定罪。</span><span class="english">The jury will not convict on circumstantial evidence alone.</span></p>

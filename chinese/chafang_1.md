@@ -1,5 +1,7 @@
 # 查访
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chafang_1.md)
+
 <p><span class="chinese">我们记下车牌号，查访到23名以上的女性，并对她们进行了警告。</span><span class="english">We took down numberplates and tracked down more than 23 women to warn them.</span></p>
 
 <p><span class="chinese">有必要对工厂进行追踪查访，以确保纠正措施的落实。</span><span class="english">Follow-up factory visits are necessary to ensure corrective actions are taken.</span></p>

@@ -1,5 +1,7 @@
 # lactation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lactation.md)
+
 <p><span class="chinese">乳母需要摄取更多膳食钙吗?。</span><span class="english">Does lactation mother need more diet calcium?</span></p>
 
 <p><span class="chinese">你是否正在怀孕期、产期或哺乳期？</span><span class="english">Are you now in pregnant, confinement or lactation period?</span></p>

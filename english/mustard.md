@@ -1,5 +1,7 @@
 # mustard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mustard.md)
+
 <p><span class="chinese">他拧开了芥子酱的瓶盖。</span><span class="english">He unscrewed a jar of mustard.</span></p>
 
 <p><span class="chinese">野莴苣与牛蒡花。</span><span class="english">Wild mustard green and burdock.</span></p>

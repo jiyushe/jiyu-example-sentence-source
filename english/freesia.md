@@ -1,5 +1,7 @@
 # freesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freesia.md)
+
 <p><span class="chinese">你只漏掉了鸢尾草和玫瑰。</span><span class="english">You only missed the freesia and the roses.</span></p>
 
 <p><span class="chinese">香雪兰染色体组型的研究。</span><span class="english">Karyotypic study of Freesia refracta Klatt.</span></p>

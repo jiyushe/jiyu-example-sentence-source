@@ -1,5 +1,7 @@
 # 心服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfu_1.md)
+
 <p><span class="chinese">打出来的女人口服，疼出来的的女人心服。</span><span class="english">Hit woman oral pain, the woman convinced.</span></p>
 
 <p><span class="chinese">不小心服伤了小孩子？</span><span class="english">Have you accidentally kicked a small child?</span></p>

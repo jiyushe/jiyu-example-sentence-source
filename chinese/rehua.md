@@ -1,5 +1,7 @@
 # 热化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rehua.md)
+
 <p><span class="chinese">好，让我们来做一些热化学。</span><span class="english">OK, so let's do some thermochemistry.</span></p>
 
 <p><span class="chinese">首先是地球的表面的参差不齐的热化在星期日以前。</span><span class="english">First is the uneven heating of the earth's surface by the sun.</span></p>

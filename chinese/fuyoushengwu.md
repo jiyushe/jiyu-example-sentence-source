@@ -1,5 +1,7 @@
 # 浮游生物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyoushengwu.md)
+
 <p><span class="chinese">浮游生物和自游生物都是海面的生物。</span><span class="english">Plankton and nekton are pelagic organisms.</span></p>
 
 <p><span class="chinese">一只海豹躲在浮游生物的幕面。</span><span class="english">A sea leopard behind a curtain of plankton.</span></p>

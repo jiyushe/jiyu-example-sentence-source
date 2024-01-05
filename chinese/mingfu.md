@@ -1,5 +1,7 @@
 # 冥府
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingfu.md)
+
 <p><span class="chinese">是一条来自冥府的黑虫。</span><span class="english">A black worm from Hades.</span></p>
 
 <p><span class="chinese">它在冥府的大门口喘息。</span><span class="english">Who wheezes at the gate.</span></p>

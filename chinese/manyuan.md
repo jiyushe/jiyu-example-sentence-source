@@ -1,5 +1,7 @@
 # 埋怨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manyuan.md)
+
 <p><span class="chinese">我埋怨我们的父母。</span><span class="english">I blame our parents.</span></p>
 
 <p><span class="chinese">不要道歉，也不要埋怨谁，都是命。</span><span class="english">Don't blame anybody. It's fate.</span></p>

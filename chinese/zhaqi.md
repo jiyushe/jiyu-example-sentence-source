@@ -1,5 +1,7 @@
 # 诈欺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaqi.md)
+
 <p><span class="chinese">法官判定那个生意人诈欺。</span><span class="english">The judge convicted the businessman of fraud.</span></p>
 
 <p><span class="chinese">艾斯勒最后由于护照诈欺行为被起诉。</span><span class="english">Eisler was finally indicted for passport fraud.</span></p>

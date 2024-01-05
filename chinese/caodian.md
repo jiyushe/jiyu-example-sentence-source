@@ -1,5 +1,7 @@
 # 草甸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caodian.md)
+
 <p><span class="chinese">同时，卡梅拉和草甸硬碰硬。</span><span class="english">Meanwhile, Carmela and Meadow butt heads.</span></p>
 
 <p><span class="chinese">四周多草甸、箭竹林、冷杉、高山杜鹃。</span><span class="english">More around the meadow, arrow bamboo, fir, alpine cuckoo.</span></p>

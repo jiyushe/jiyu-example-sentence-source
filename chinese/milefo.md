@@ -1,5 +1,7 @@
 # 弥勒佛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/milefo.md)
+
 <p><span class="chinese">你就是他们的弥勒佛。</span><span class="english">You are Happy Buddha.</span></p>
 
 <p><span class="chinese">我是弥勒佛，来到你的身旁。</span><span class="english">I AM Maitreya, having come to you.</span></p>

@@ -1,5 +1,7 @@
 # rmb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rmb.md)
+
 <p><span class="chinese">价格仅从人民币23元起。</span><span class="english">Price starting from RMB 23.</span></p>
 
 <p><span class="chinese">价格仅从人民币32元起。</span><span class="english">Price starting from RMB 32.</span></p>

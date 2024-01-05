@@ -1,5 +1,7 @@
 # 掩人耳目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanrenermu.md)
+
 <p><span class="chinese">假如要欺骗敌人，掩人耳目是必要旳。</span><span class="english">Camouflage is necessary if we are to deceive the enemy.</span></p>
 
 <p><span class="chinese">为了掩人耳目发表第一部诗集，诗人就为自己取了个笔名--聂鲁达。</span><span class="english">To cover up the publication of his first poem he took the pen name pablo neruda.</span></p>

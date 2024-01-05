@@ -1,5 +1,7 @@
 # manometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manometry.md)
+
 <p><span class="chinese">测压术和内窥镜可能也是必要的。</span><span class="english">Manometry and endoscopy may also be necessary.</span></p>
 
 <p><span class="chinese">在咽测压实现的潜力。</span><span class="english">The unrealized potential of pharyngeal manometry.</span></p>

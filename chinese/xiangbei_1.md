@@ -1,5 +1,7 @@
 # 相悖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangbei_1.md)
+
 <p><span class="chinese">优化与简明性是相悖的。</span><span class="english">Optimization is the enemy of clarity.</span></p>
 
 <p><span class="chinese">这种数据与事实相悖的情况引起了一些人的认知失调。</span><span class="english">This has caused some cognitive dissonance.</span></p>

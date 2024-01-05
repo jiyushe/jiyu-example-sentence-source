@@ -1,5 +1,7 @@
 # locational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locational.md)
+
 <p><span class="chinese">什么区位因素是必不可少的？</span><span class="english">What locational factors are essential?</span></p>
 
 <p><span class="chinese">世界经济发展格局中存在着区位条件的差异。</span><span class="english">There are locational differences in the development of world economy.</span></p>

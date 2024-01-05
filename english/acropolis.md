@@ -1,5 +1,7 @@
 # acropolis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acropolis.md)
+
 <p><span class="chinese">雅典卫城的缩写，是一种民主的象征。</span><span class="english">The Acropolis is the focal point of Athens.</span></p>
 
 <p><span class="chinese">卫城的顶端是怕台农神庙。</span><span class="english">On the top of the Acropolis is the Parthenon.</span></p>

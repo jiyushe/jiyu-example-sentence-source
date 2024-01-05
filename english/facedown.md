@@ -1,5 +1,7 @@
 # facedown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facedown.md)
+
 <p><span class="chinese">摩西听见这话就俯伏在地</span><span class="english">When Moses heard this, he fell facedown.</span></p>
 
 <p><span class="chinese">你妈太丑了，看病时医生让她脸朝下躺着。</span><span class="english">Your mom's so ugly the doctor makes her lie facedown.</span></p>

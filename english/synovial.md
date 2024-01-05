@@ -1,5 +1,7 @@
 # synovial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synovial.md)
+
 <p><span class="chinese">纵隔腔的滑膜肉瘤是一个相当罕见的肿瘤。</span><span class="english">Synovial sarcoma is an extremely rare tumor of the mediastinum.</span></p>
 
 <p><span class="chinese">肾脏原发性滑液肉瘤是一种罕见的肾脏肿瘤。</span><span class="english">Primary synovial sarcoma of the kidney is a rare renal malignancy.</span></p>

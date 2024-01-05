@@ -1,5 +1,7 @@
 # strut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strut.md)
+
 <p><span class="chinese">他将刚刚支杆。</span><span class="english">He will just strut.</span></p>
 
 <p><span class="chinese">孔雀在周围的草地上昂首阔步。</span><span class="english">Peacocks strut in the surrounding meadow.</span></p>

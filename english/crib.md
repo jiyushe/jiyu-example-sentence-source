@@ -1,5 +1,7 @@
 # crib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crib.md)
+
 <p><span class="chinese">你买婴儿床了吗？</span><span class="english">Have you bought a crib yet?</span></p>
 
 <p><span class="chinese">请将孩子放入童床。</span><span class="english">Please lay a child in the crib.</span></p>

@@ -1,5 +1,7 @@
 # cinematographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinematographic.md)
+
 <p><span class="chinese">镜头，让您能保存各类摄影机视图并且添加各类电影动作。</span><span class="english">Shots, so you can save camera views and add cinematographic movements.</span></p>
 
 <p><span class="chinese">可用于任何类型的相机从胶片单反针孔到电影。</span><span class="english">Can be used for any type of camera from film SLR to pinhole to cinematographic.</span></p>

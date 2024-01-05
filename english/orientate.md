@@ -1,5 +1,7 @@
 # orientate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orientate.md)
+
 <p><span class="chinese">在功能上具有定位、定情、定向的作用。</span><span class="english">In function, it can locate, emotionally set and orientate.</span></p>
 
 <p><span class="chinese">内部会计控制的功能如何定位？</span><span class="english">How do we orientate the function of internal accounting control?</span></p>

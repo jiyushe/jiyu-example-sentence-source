@@ -1,5 +1,7 @@
 # swoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swoon.md)
+
 <p><span class="chinese">包括医生们也昏厥过去了。</span><span class="english">Even the doctors swoon.</span></p>
 
 <p><span class="chinese">永远这样活着或昏阙而死去。</span><span class="english">And so live ever-or else swoon to die.</span></p>

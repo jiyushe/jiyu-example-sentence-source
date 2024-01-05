@@ -1,5 +1,7 @@
 # authorize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authorize.md)
+
 <p><span class="chinese">申根签证的授权产品。</span><span class="english">Shengen visa authorize product.</span></p>
 
 <p><span class="chinese">不要将其授权给任何传输队列。</span><span class="english">Do not authorize it to any transmit queues.</span></p>

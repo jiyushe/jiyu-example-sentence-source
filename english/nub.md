@@ -1,5 +1,7 @@
 # nub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nub.md)
+
 <p><span class="chinese">这正是问题的症结所在。</span><span class="english">Herein lies the nub of the problem.</span></p>
 
 <p><span class="chinese">问题的要点在于如何将这种理想情况投入实际应用。</span><span class="english">The nub of the problem is how to bring this ideal into practice.</span></p>

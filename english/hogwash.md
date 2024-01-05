@@ -1,5 +1,7 @@
 # hogwash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hogwash.md)
+
 <p><span class="chinese">通常都是些废话。</span><span class="english">Usually hogwash.</span></p>
 
 <p><span class="chinese">其余的都是废话。</span><span class="english">All the rest are hogwash.</span></p>

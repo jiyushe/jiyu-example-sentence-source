@@ -1,5 +1,7 @@
 # kid 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kid.md)
+
 <p><span class="chinese">孩子们是无法理解的</span><span class="english">And our kid failed.</span></p>
 
 <p><span class="chinese">你是个倔孩子。</span><span class="english">You're a tough kid.</span></p>

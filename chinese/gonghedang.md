@@ -1,5 +1,7 @@
 # 共和党
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonghedang.md)
+
 <p><span class="chinese">你，去教育共和党人！</span><span class="english">You indoctrinate republicans!</span></p>
 
 <p><span class="chinese">然而，共和党人却在说不。</span><span class="english">Yet Republicans are saying no.</span></p>

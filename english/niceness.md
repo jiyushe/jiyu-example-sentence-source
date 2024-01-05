@@ -1,5 +1,7 @@
 # niceness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/niceness.md)
+
 <p><span class="chinese">但总而言之，我们已经进入美好事物的叠加循环中。</span><span class="english">But overall, we have moved into a vicious cycle of niceness.</span></p>
 
 <p><span class="chinese">你不能用逻辑，礼物和美好的事物“说服”一个女人。</span><span class="english">and you can't "convince" a woman to feel it with logic, gifts, and NICENESS.</span></p>

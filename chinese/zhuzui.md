@@ -1,5 +1,7 @@
 # 住嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzui.md)
+
 <p><span class="chinese">彼得，住嘴！</span><span class="english">Shut up, Peter!</span></p>
 
 <p><span class="chinese">你从来不住嘴。</span><span class="english">You never shut up.</span></p>

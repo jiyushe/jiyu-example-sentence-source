@@ -1,5 +1,7 @@
 # 祖孙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zusun.md)
+
 <p><span class="chinese">他们祖孙俩来到这里。</span><span class="english">The grandfather and grandson came here.</span></p>
 
 <p><span class="chinese">祖孙俩过着凄惨的生活。</span><span class="english">The grandfather and his grandson led a miserable life.</span></p>

@@ -1,5 +1,7 @@
 # 于是乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushihu.md)
+
 <p><span class="chinese">于是乎，第一个打击乐器诞生了。</span><span class="english">The first percussion instrument was born.</span></p>
 
 <p><span class="chinese">于是乎，这项技术还在应用。</span><span class="english">So, again, the technology is still being used.</span></p>

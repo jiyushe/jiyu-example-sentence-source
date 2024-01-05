@@ -1,5 +1,7 @@
 # borohydride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borohydride.md)
+
 <p><span class="chinese">用硼氢化钠对呫吨酮还原得到呫吨醇。</span><span class="english">Xanthone was reduced to xanthydrol by sodium borohydride.</span></p>
 
 <p><span class="chinese">在醇溶剂中，它不能被硼氢化物还原。</span><span class="english">It is resistant to borohydride reduction in alcoholic solvents.</span></p>

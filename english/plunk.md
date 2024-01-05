@@ -1,5 +1,7 @@
 # plunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plunk.md)
+
 <p><span class="chinese">我们将支持兴建更多的公共住宅。</span><span class="english">We'll plunk for more public housing.</span></p>
 
 <p><span class="chinese">请勿摘折花园里的花。</span><span class="english">Do not plunk the flower in the garden, please.</span></p>

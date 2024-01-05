@@ -1,5 +1,7 @@
 # semantic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semantic.md)
+
 <p><span class="chinese">协助语义建模。</span><span class="english">Assists semantic modeling.</span></p>
 
 <p><span class="chinese">搭上语义高速公路的便车</span><span class="english">Hitchhiking the semantic highway</span></p>

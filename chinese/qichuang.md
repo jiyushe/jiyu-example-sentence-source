@@ -1,5 +1,7 @@
 # 气窗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qichuang.md)
+
 <p><span class="chinese">一束灯光从门头上的气窗里透了出来。</span><span class="english">A light appeared through the transom overhead.</span></p>
 
 <p><span class="chinese">专业制造与销售实木透气窗及百叶窗系列。</span><span class="english">And it also has more than 7years' experiences in producing, designing, and selling in wood industry.</span></p>

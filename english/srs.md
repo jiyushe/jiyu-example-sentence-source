@@ -1,5 +1,7 @@
 # srs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/srs.md)
+
 <p><span class="chinese">SRS及ODI评分恶化有明显的统计学意义。</span><span class="english">Deterioration in the SRS and ODI scores was of statistical significance.</span></p>
 
 <p><span class="chinese">果实可溶性固形物含量以M7自根砧较高，MM106中砧较低。</span><span class="english">The soluble solid contents of fruit of SRS M7 was highest, 1SS MM106's lowest.</span></p>

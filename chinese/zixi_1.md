@@ -1,5 +1,7 @@
 # 仔细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixi_1.md)
+
 <p><span class="chinese">切宜仔细。</span><span class="english">Act carefully!</span></p>
 
 <p><span class="chinese">她仔细地整理头发。</span><span class="english">She primped her hair.</span></p>

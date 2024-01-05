@@ -1,5 +1,7 @@
 # seir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seir.md)
+
 <p><span class="chinese">厄撒乌就在当天回了色依尔。</span><span class="english">So Esau returned that day on his way to Seir.</span></p>
 
 <p><span class="chinese">于是，以扫当日起行，回往西珥去了。</span><span class="english">So that day Esau started on his way back to Seir.</span></p>

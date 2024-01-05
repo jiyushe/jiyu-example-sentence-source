@@ -1,5 +1,7 @@
 # 一反常态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifanchangtai.md)
+
 <p><span class="chinese">他们今天一反常态。</span><span class="english">They are not themselves today.</span></p>
 
 <p><span class="chinese">路上，她一反常态，竟非常沉默。</span><span class="english">She seemed abnormal, and quite silent along the way.</span></p>

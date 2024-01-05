@@ -1,5 +1,7 @@
 # watercress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watercress.md)
+
 <p><span class="chinese">把鳄梨去皮切薄片，和豆瓣菜一起放入碗中。</span><span class="english">Peel and slice the avocado and add to bowl with watercress.</span></p>
 
 <p><span class="chinese">这只鸡配有西洋菜和新鲜小块马铃薯来装饰。</span><span class="english">The chicken was garnished with watercress and tiny new potatoes.</span></p>

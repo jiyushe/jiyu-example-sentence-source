@@ -1,5 +1,7 @@
 # announcer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/announcer.md)
+
 <p><span class="chinese">播音员提到了塞尔比。</span><span class="english">The announcer mentioned Selby.</span></p>
 
 <p><span class="chinese">她是电视台的一名主持人。</span><span class="english">She is an announcer in TV broadcast.</span></p>

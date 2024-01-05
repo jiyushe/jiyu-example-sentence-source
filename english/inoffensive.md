@@ -1,5 +1,7 @@
 # inoffensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inoffensive.md)
+
 <p><span class="chinese">他是一个温和、不惹人讨厌的人。</span><span class="english">He is a mild, inoffensive man.</span></p>
 
 <p><span class="chinese">它是三种中性情最温和的。</span><span class="english">It is the most inoffensive of the three.</span></p>

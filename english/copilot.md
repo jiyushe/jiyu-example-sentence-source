@@ -1,5 +1,7 @@
 # copilot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copilot.md)
+
 <p><span class="chinese">驾驶员与副驾驶位人员受伤程度较重。</span><span class="english">The driver and copilot were injured heavier.</span></p>
 
 <p><span class="chinese">你们还需要一个副驾驶你还是个驾驶员？</span><span class="english">You are going to need a copilot You're a pilot too?</span></p>

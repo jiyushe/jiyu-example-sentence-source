@@ -1,5 +1,7 @@
 # 统筹兼顾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongchoujiangu.md)
+
 <p><span class="chinese">——必须坚持统筹兼顾。</span><span class="english">We must persist in overall consideration.</span></p>
 
 <p><span class="chinese">这就是我们为什么要寻求减少赤字的统筹兼顾的方法的原因。</span><span class="english">That’s why we need a balanced approach to cutting the deficit.</span></p>

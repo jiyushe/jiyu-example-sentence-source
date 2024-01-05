@@ -1,5 +1,7 @@
 # 改选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaixuan.md)
+
 <p><span class="chinese">在半学期后的班干部改选中，她终于被选上了。</span><span class="english">Re-elects after the semester class cadre, she is elected finally.</span></p>
 
 <p><span class="chinese">非常任理事国由联合国大会每年秋天选举产生，每年改选5个席位。</span><span class="english">By the non-permanent members elected by the General Assembly every autumn, 5 seats each election.</span></p>

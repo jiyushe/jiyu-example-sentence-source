@@ -1,5 +1,7 @@
 # 死命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siming_1.md)
+
 <p><span class="chinese">一把餐刀都可能是个致人死命武器。</span><span class="english">A knife can be a deadly weapon.</span></p>
 
 <p><span class="chinese">高血压是致人死命的。</span><span class="english">High blood pressure is a killer.</span></p>

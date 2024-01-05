@@ -1,5 +1,7 @@
 # 校训
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxun.md)
+
 <p><span class="chinese">你们的校训是什么？</span><span class="english">What is your motto here?</span></p>
 
 <p><span class="chinese">你校的校训是什么？</span><span class="english">What is the motto of your university?</span></p>

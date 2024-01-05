@@ -1,5 +1,7 @@
 # baldly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baldly.md)
+
 <p><span class="chinese">直销人文学科，使得该领域的一些人忧心忡忡。</span><span class="english">Baldly marketing the humanities makes some in the field uneasy.</span></p>
 
 <p><span class="chinese">不客气的说，所谓下士者绝大部分是指一般的知识份子。</span><span class="english">Speaking baldly , the lowest types men mostly are the common intellect.</span></p>

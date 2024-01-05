@@ -1,5 +1,7 @@
 # intelligent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intelligent.md)
+
 <p><span class="chinese">他们都很聪明。</span><span class="english">They are very intelligent.</span></p>
 
 <p><span class="chinese">智能很好地读。</span><span class="english">Intelligent very well read.</span></p>

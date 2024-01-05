@@ -1,5 +1,7 @@
 # convertibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convertibility.md)
+
 <p><span class="chinese">于是他们放弃了英镑的可兑换性。</span><span class="english">They dropped the pound convertibility.</span></p>
 
 <p><span class="chinese">中国许诺人民币将趋向于可自由兑换。</span><span class="english">China has pledged to move to full yuan convertibility.</span></p>

@@ -1,5 +1,7 @@
 # gladiolus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gladiolus.md)
+
 <p><span class="chinese">结果表明，冷藏不仅缩短了唐菖蒲切花瓶插时间，也降低了切花的小花开放率。</span><span class="english">The physiological variation of cut gladiolus flower after cool storage was studied in the paper.</span></p>
 
 <p><span class="chinese">茶几上放一些剑兰、玫瑰等，这些都是极好的待客鲜花。</span><span class="english">A few gladiolus , rose is put to wait on tea table, these are wonderful entertain a guest flower.</span></p>

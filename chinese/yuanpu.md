@@ -1,5 +1,7 @@
 # 园圃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanpu.md)
+
 <p><span class="chinese">什么是社区园圃？</span><span class="english">What is a community garden plot?</span></p>
 
 <p><span class="chinese">有一个荒废的园圃。</span><span class="english">There is a garden ground falling into disuse.</span></p>

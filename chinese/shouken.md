@@ -1,5 +1,7 @@
 # 首肯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouken.md)
+
 <p><span class="chinese">你稍微首肯，成堆蜘蛛精将会一哄而上！</span><span class="english">You nod slightly, piles Zhizhu Jing will be herd!</span></p>
 
 <p><span class="chinese">没有美国的首肯，中国也不可能加入泛美开发银行。</span><span class="english">China could not have joined the IADB without US consent.</span></p>

@@ -1,5 +1,7 @@
 # vanishingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vanishingly.md)
+
 <p><span class="chinese">但是这微乎其微。</span><span class="english">It is vanishingly small.</span></p>
 
 <p><span class="chinese">这些项都很小。</span><span class="english">This is vanishingly small.</span></p>

@@ -1,5 +1,7 @@
 # 气力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qili_2.md)
+
 <p><span class="chinese">我的气力没有白费。</span><span class="english">My efforts were not in vain.</span></p>
 
 <p><span class="chinese">但是雅俐很快就没有气力。</span><span class="english">But Ari soon went out of breath.</span></p>

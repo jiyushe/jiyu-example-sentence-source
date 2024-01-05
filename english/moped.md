@@ -1,5 +1,7 @@
 # moped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moped.md)
+
 <p><span class="chinese">就这样，我租了一辆粉红色的机器脚踏车。</span><span class="english">And so the pink moped is mine.</span></p>
 
 <p><span class="chinese">他整天闷闷不乐地呆在屋里。</span><span class="english">He moped in the house all day.</span></p>

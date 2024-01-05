@@ -1,5 +1,7 @@
 # 委曲求全
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiquqiuquan.md)
+
 <p><span class="chinese">在这场生命里，我的委曲求全也只能换来以泪洗面。</span><span class="english">In this life, I can only get the settling in tears.</span></p>
 
 <p><span class="chinese">如果多数党派委曲求全，默克尔势力也将削弱，也许是致命的。</span><span class="english">If the majority buckles, Mrs Merkel would be weakened, perhaps fatally.</span></p>

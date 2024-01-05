@@ -1,5 +1,7 @@
 # undershoot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undershoot.md)
+
 <p><span class="chinese">而且，有效市场假说还承认，市场调节可能不足，也可能过量。</span><span class="english">Also EMH now agrees that markets can undershoot or overshoot.</span></p>
 
 <p><span class="chinese">偏见影响过头或欠该议案通过关键帧。</span><span class="english">Bias affects the overshoot or undershoot of the motion through the keyframe.</span></p>

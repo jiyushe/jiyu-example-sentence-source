@@ -1,5 +1,7 @@
 # foxhole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foxhole.md)
+
 <p><span class="chinese">那个士兵急忙冲向散兵坑。</span><span class="english">The soldier made a dive for the foxhole.</span></p>
 
 <p><span class="chinese">在那里没有办法可能挖一个大的散兵坑。</span><span class="english">There was no way we could dig a foxhole.</span></p>

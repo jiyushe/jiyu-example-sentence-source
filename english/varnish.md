@@ -1,5 +1,7 @@
 # varnish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varnish.md)
+
 <p><span class="chinese">把清漆涂在表面。</span><span class="english">Apply varnish to the surface.</span></p>
 
 <p><span class="chinese">我想在脚指甲上涂上指甲油。</span><span class="english">I want to varnish my toe nails.</span></p>

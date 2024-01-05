@@ -1,5 +1,7 @@
 # affirmance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affirmance.md)
+
 <p><span class="chinese">公司登记就其性质而言是一种行政确认行为。</span><span class="english">Company registering is in itself a conduct of administrative affirmance.</span></p>
 
 <p><span class="chinese">政治宣誓制度是一个历史的范畴，它的发展体现了人类对民主制度的确认。</span><span class="english">Politics oath system is a historical category, which incarnates people's affirmance to democracy system.</span></p>

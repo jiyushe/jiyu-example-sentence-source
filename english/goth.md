@@ -1,5 +1,7 @@
 # goth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goth.md)
+
 <p><span class="chinese">他是个哥德人。</span><span class="english">He is a Goth.</span></p>
 
 <p><span class="chinese">哥特金属，嗯，我觉得并非是我们的音乐类型。</span><span class="english">Goth metal, I think, it is not our style.</span></p>

@@ -1,5 +1,7 @@
 # 睡椅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiyi_1.md)
+
 <p><span class="chinese">睡椅焕然一新。</span><span class="english">The couches were new.</span></p>
 
 <p><span class="chinese">他躺在睡椅上吸着烟斗。</span><span class="english">He was lying on the couch, enjoying his pipe.</span></p>

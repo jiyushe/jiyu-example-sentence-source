@@ -1,5 +1,7 @@
 # paned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paned.md)
+
 <p><span class="chinese">我买了双层玻璃窗。</span><span class="english">I bought double- paned windows.</span></p>
 
 <p><span class="chinese">这个房屋有新的双窗格的窗口。</span><span class="english">This home has new dual paned windows.</span></p>

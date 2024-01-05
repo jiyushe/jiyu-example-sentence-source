@@ -1,5 +1,7 @@
 # 日臻完善
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rizhenwanshan.md)
+
 <p><span class="chinese">近年来，乐清的基础设施日臻完善。</span><span class="english">In recent years, Yueqing's infrastructure is improving daily.</span></p>
 
 <p><span class="chinese">其后，他们建立起复杂而精细的物流系统和日臻完善的企业。</span><span class="english">Behind it, they set up a sophisticated logistics and fulfillment enterprise.</span></p>

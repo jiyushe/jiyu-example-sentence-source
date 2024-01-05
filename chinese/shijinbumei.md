@@ -1,5 +1,7 @@
 # 拾金不昧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijinbumei.md)
+
 <p><span class="chinese">这位拾金不昧的好人还希望能保持匿名。</span><span class="english">The extremely honest finder wished to remain anonymous.</span></p>
 
 <p><span class="chinese">我认为任何人都有可能，除了拾金不昧的人。</span><span class="english">I think everyone has the possibility except the founder.</span></p>

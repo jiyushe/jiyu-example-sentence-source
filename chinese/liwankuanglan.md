@@ -1,5 +1,7 @@
 # 力挽狂澜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liwankuanglan.md)
+
 <p><span class="chinese">现在谁能力挽狂澜？</span><span class="english">Who can now tell them apart?</span></p>
 
 <p><span class="chinese">尽管队友如此，我还是力挽狂澜。</span><span class="english">Even with this team, I managed to win.</span></p>

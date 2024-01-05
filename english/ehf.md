@@ -1,5 +1,7 @@
 # ehf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ehf.md)
+
 <p><span class="chinese">提示养貂者为好发EHF的危险人群。</span><span class="english">This indicated that Marten' breeder is high risk population for EHF.</span></p>
 
 <p><span class="chinese">可见尽早进行血液透析是抢救重型流行性出血热的关键措施。</span><span class="english">It concludes that early hemodialysis is the important measure of saving the severe EHF.</span></p>

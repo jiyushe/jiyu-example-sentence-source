@@ -1,5 +1,7 @@
 # confirmatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confirmatory.md)
+
 <p><span class="chinese">一般采用四种实验室确认方法</span><span class="english">Four laboratory confirmatory methods are commonly used</span></p>
 
 <p><span class="chinese">生物制剂会被保留验证分析和存档。</span><span class="english">Bio-agents are retained for confirmatory analysis and archiving.</span></p>

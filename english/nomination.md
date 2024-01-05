@@ -1,5 +1,7 @@
 # nomination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nomination.md)
+
 <p><span class="chinese">我附议该项提名。</span><span class="english">I second the nomination.</span></p>
 
 <p><span class="chinese">这是首次提交委任书。</span><span class="english">This is the first nomination.</span></p>

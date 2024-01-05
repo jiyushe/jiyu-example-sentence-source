@@ -1,5 +1,7 @@
 # settlor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/settlor.md)
+
 <p><span class="chinese">如无需要，不应委任成立人为受益人。</span><span class="english">Settlor shall not be named as beneficiary if unnecessary.</span></p>
 
 <p><span class="chinese">受托人必须遵守并执行财产赠与人的指示。</span><span class="english">The trustee must obey and carry out be directions of the settlor.</span></p>

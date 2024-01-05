@@ -1,5 +1,7 @@
 # 治乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiluan.md)
+
 <p><span class="chinese">吏治的好坏，直接关系到国家的治乱兴衰。</span><span class="english">The quality of the management is directly related to the rise and fall of the nation.</span></p>
 
 <p><span class="chinese">研究兴衰治乱的轨迹，成长和发展的过程。</span><span class="english">Research rise and fall of governing revolution trajectory, growth and development process.</span></p>

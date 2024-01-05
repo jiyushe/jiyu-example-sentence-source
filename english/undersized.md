@@ -1,5 +1,7 @@
 # undersized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undersized.md)
+
 <p><span class="chinese">他被认为是不够大。</span><span class="english">He is said to be undersized.</span></p>
 
 <p><span class="chinese">从现在的投篮标准来看，这还远远不够。</span><span class="english">He also happens to be vastly undersized by today's wing standards.</span></p>

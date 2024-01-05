@@ -1,5 +1,7 @@
 # droughty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/droughty.md)
+
 <p><span class="chinese">棉区需要更多降雨以缓解旱情。</span><span class="english">Much more rainfall will be needed before droughty conditions are alleviated.</span></p>
 
 <p><span class="chinese">水资源是干旱地区社会经济发展的最大瓶颈。</span><span class="english">Water resources are the biggest choke point of social and economical development in droughty areas.</span></p>

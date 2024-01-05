@@ -1,5 +1,7 @@
 # geography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geography.md)
+
 <p><span class="chinese">你的地理课是什么时候？</span><span class="english">When is your geography class?</span></p>
 
 <p><span class="chinese">甘蒂主修地理。</span><span class="english">Candy is majoring in geography.</span></p>

@@ -1,5 +1,7 @@
 # 痛风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongfeng.md)
+
 <p><span class="chinese">我有痛风可以吃吗？</span><span class="english">Can a gouty patient eat nuts?</span></p>
 
 <p><span class="chinese">我因患痛风而感到脚趾像刺扎的一样痛。</span><span class="english">My toe is pricking with the gout.</span></p>

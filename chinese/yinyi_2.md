@@ -1,5 +1,7 @@
 # 音译
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyi_2.md)
+
 <p><span class="chinese">布尔乔亚"是法语bourgeois的音译</span><span class="english">Bourgeois is a French word.</span></p>
 
 <p><span class="chinese">一种程序，以便音译短信。</span><span class="english">A program for transliterating SMS messages.</span></p>

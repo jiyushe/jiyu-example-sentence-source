@@ -1,5 +1,7 @@
 # extortionate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extortionate.md)
+
 <p><span class="chinese">过高的出价将不会被考虑。</span><span class="english">Extortionate bids will not be considered.</span></p>
 
 <p><span class="chinese">他显出一副报复和敲诈的样子。</span><span class="english">Bob appears to be both vindictive and extortionate.</span></p>

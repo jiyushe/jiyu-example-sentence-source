@@ -1,5 +1,7 @@
 # towel 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/towel.md)
+
 <p><span class="chinese">一条白毛巾。</span><span class="english">One white towel.</span></p>
 
 <p><span class="chinese">他拧干了毛巾。</span><span class="english">He dried off the towel.</span></p>

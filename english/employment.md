@@ -1,5 +1,7 @@
 # employment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/employment.md)
+
 <p><span class="chinese">我一定要有职业和社交生活。</span><span class="english">I must have employment and society.</span></p>
 
 <p><span class="chinese">什么是目标投资区？</span><span class="english">What is a targeted employment area?</span></p>

@@ -1,5 +1,7 @@
 # forefathers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forefathers.md)
+
 <p><span class="chinese">你们的列祖在哪里呢？</span><span class="english">Where are your forefathers now?</span></p>
 
 <p><span class="chinese">小村里粗鄙的父老在那里安睡。</span><span class="english">The rude forefathers of the hamlet sleep.</span></p>

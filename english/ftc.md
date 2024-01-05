@@ -1,5 +1,7 @@
 # ftc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ftc.md)
+
 <p><span class="chinese">FTC的一名发言人拒绝置评。</span><span class="english">A spokeswoman for the FTC declined to comment.</span></p>
 
 <p><span class="chinese">如何使用FTC模糊温度控制指令？</span><span class="english">How to use the fuzzy temperature control command, FTC?</span></p>

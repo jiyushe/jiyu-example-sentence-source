@@ -1,5 +1,7 @@
 # glasses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glasses.md)
+
 <p><span class="chinese">我“跌破眼镜”。</span><span class="english">"I" below glasses.</span></p>
 
 <p><span class="chinese">把玻璃杯排起来。</span><span class="english">Line up the glasses.</span></p>

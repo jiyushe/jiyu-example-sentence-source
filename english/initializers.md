@@ -1,5 +1,7 @@
 # initializers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/initializers.md)
+
 <p><span class="chinese">类型构造函数也称为类型初始值设定项。</span><span class="english">Type constructors are also known as type initializers.</span></p>
 
 <p><span class="chinese">数组初始值设定项也可以在调用函数中内联使用。</span><span class="english">Array initializers may also be used inline for calling functions.</span></p>

@@ -1,5 +1,7 @@
 # 午睡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushui.md)
+
 <p><span class="chinese">午睡时间到了。</span><span class="english">Itrs bed time.</span></p>
 
 <p><span class="chinese">你觉得午睡对你有帮助吗?</span><span class="english">Do you feel that it helps you?</span></p>

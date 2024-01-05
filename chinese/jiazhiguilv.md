@@ -1,5 +1,7 @@
 # 价值规律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazhiguilv.md)
+
 <p><span class="chinese">第四，使用价值是表达价值规律内容的基本范畴。</span><span class="english">Thirdly use value is the basic category of content of value Law.</span></p>
 
 <p><span class="chinese">价值规律是商品价值由社会必要劳动时间决定的规律。</span><span class="english">The law of value is determined by socially necessary labour time.</span></p>

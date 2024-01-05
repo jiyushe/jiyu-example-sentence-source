@@ -1,5 +1,7 @@
 # inattention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inattention.md)
+
 <p><span class="chinese">但是忽视就相当于灭绝。</span><span class="english">But inattention equals extinction.</span></p>
 
 <p><span class="chinese">他在演说前先警告听众不可不用心听。</span><span class="english">He preceded his speech with a warning against inattention.</span></p>

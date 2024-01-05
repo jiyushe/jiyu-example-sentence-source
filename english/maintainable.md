@@ -1,5 +1,7 @@
 # maintainable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maintainable.md)
+
 <p><span class="chinese">你认为我们的车可维修吗?。</span><span class="english">Do you think our car is maintainable?</span></p>
 
 <p><span class="chinese">写下良好的组成和易于维护的代码！</span><span class="english">Write well-composed and easy maintainable code!</span></p>

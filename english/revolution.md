@@ -1,5 +1,7 @@
 # revolution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revolution.md)
+
 <p><span class="chinese">革命军太强大了。</span><span class="english">The revolution is strong.</span></p>
 
 <p><span class="chinese">欢迎来到这场革命。</span><span class="english">Welcome to the Revolution.</span></p>

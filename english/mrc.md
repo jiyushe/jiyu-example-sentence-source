@@ -1,5 +1,7 @@
 # mrc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mrc.md)
+
 <p><span class="chinese">由位于剑桥大学的英国医学研究理事会流行病学中心发表的第二篇论文分析了数千人的基因信息。</span><span class="english">The second paper, led by the MRC Epidemiology Unit at Cambridge, analysed genetic information from thousands of people.</span></p>
 
 <p><span class="chinese">对于肝外胆管微结石，ERC的确诊率并不高于腹部超声以及MRC。</span><span class="english">Sensitivity of ERC in diagnosis of extra-hepatic microlithiasis is not superior to that of transabdominal ultrasonography or MRC.</span></p>

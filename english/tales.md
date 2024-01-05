@@ -1,5 +1,7 @@
 # tales
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tales.md)
+
 <p><span class="chinese">格林童话呢?</span><span class="english">Grimm's fairy tales?</span></p>
 
 <p><span class="chinese">死人不出卖人家的阴私。</span><span class="english">Dead men tells no tales.</span></p>

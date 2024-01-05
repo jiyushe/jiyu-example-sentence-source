@@ -1,5 +1,7 @@
 # veterinarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veterinarian.md)
+
 <p><span class="chinese">兽医师是什么？</span><span class="english">What is veterinarian?</span></p>
 
 <p><span class="chinese">杰克决心长大后当一名兽医。</span><span class="english">Jack determined to be a veterinarian.</span></p>

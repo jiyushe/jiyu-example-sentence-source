@@ -1,5 +1,7 @@
 # metrological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metrological.md)
+
 <p><span class="chinese">实际应用表明该设计方案确实能够提高计量工作效率。</span><span class="english">This design project is proven to be effective for metrological work.</span></p>
 
 <p><span class="chinese">医院计量的规范化和动态化管理。</span><span class="english">Objective To realize metrological dynamic management in a modern hospital.</span></p>

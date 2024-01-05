@@ -1,5 +1,7 @@
 # 双管齐下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangguanqixia.md)
+
 <p><span class="chinese">没错，韩国多家银行就推出了这种双管齐下的服务。</span><span class="english">South Korean banks have plans to help with both.</span></p>
 
 <p><span class="chinese">双管齐下，但是任何情况下，不要只是读书。</span><span class="english">Do both, but in any event, don't merely read the book.</span></p>

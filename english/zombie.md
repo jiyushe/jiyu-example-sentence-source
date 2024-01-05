@@ -1,5 +1,7 @@
 # zombie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zombie.md)
+
 <p><span class="chinese">不吓人，略血腥，很搞笑，无节操。</span><span class="english">Zombie isn't my thing. Too much blood.</span></p>
 
 <p><span class="chinese">但正是草根的僵尸们开始行动了。</span><span class="english">But the lowly zombie is making its move.</span></p>

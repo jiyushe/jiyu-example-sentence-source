@@ -1,5 +1,7 @@
 # 染指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ranzhi.md)
+
 <p><span class="chinese">现在，每一所学校都被染指。</span><span class="english">Now, every school is being touched.</span></p>
 
 <p><span class="chinese">他能够在没有鲨鱼奥尼尔的情况下染指冠军？</span><span class="english">Can he win a title without Shaquille O'Neal?</span></p>

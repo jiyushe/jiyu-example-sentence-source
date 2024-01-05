@@ -1,5 +1,7 @@
 # recklessness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recklessness.md)
+
 <p><span class="chinese">冲动与鲁莽便是其中之一。</span><span class="english">Impetuousness and recklessness is one of them.</span></p>
 
 <p><span class="chinese">狂飙可以学会控制他那不记后果的鲁莽吗？</span><span class="english">Will CYCLONUS ever learn to control his savage recklessness?</span></p>

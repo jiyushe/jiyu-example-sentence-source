@@ -1,5 +1,7 @@
 # combustion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combustion.md)
+
 <p><span class="chinese">多种燃料内燃机。</span><span class="english">Multi-fuel internal combustion engine.</span></p>
 
 <p><span class="chinese">燃烧学会会议录。</span><span class="english">Proceedings of the Combustion Institute.</span></p>

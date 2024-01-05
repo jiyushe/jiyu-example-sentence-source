@@ -1,5 +1,7 @@
 # 自始至终
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishizhizhong.md)
+
 <p><span class="chinese">自始至终，这都是一个忠诚、可靠的爱。</span><span class="english">It was a loyal and reliable love.</span></p>
 
 <p><span class="chinese">盖茨坐了约一个小时，自始至终沉默不言。</span><span class="english">Gates sat through it silently for about an hour.</span></p>

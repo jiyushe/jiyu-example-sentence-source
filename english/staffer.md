@@ -1,5 +1,7 @@
 # staffer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staffer.md)
+
 <p><span class="chinese">萨拉丁说要是想申请，可能得再顾一名全职员工才行。</span><span class="english">Salatin says he would need another full-time staffer.</span></p>
 
 <p><span class="chinese">职员安提雅•弗朗索瓦与杰夫志愿做这项工作。</span><span class="english">Staffer Etienne Francois and Jeff volunteered for the job.</span></p>

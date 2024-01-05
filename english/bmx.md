@@ -1,5 +1,7 @@
 # bmx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bmx.md)
+
 <p><span class="chinese">小轮车自行车的生产制造摩托车的灯体。</span><span class="english">The BMX bike producers manufacture bikes with light body.</span></p>
 
 <p><span class="chinese">我在哪里可以在线看电影免费小轮车寇充分流？</span><span class="english">Where can I watch BMX Bandits movie online free full stream?</span></p>

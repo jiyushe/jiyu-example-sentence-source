@@ -1,5 +1,7 @@
 # potpourri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potpourri.md)
+
 <p><span class="chinese">闻起来像是百味袋。</span><span class="english">It smells like a potpourri bag.</span></p>
 
 <p><span class="chinese">为蓝妹妹旳百花香种些土豆。</span><span class="english">Grow some potatoes for Smurfette's potpourri.</span></p>

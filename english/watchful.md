@@ -1,5 +1,7 @@
 # watchful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watchful.md)
+
 <p><span class="chinese">不要畏惧那些警觉的哨岗。</span><span class="english">Nor fear those watchful sentinels.</span></p>
 
 <p><span class="chinese">中国的政策制定者们是一群谨小慎微的人。</span><span class="english">CHINA’S policymakers are a wary and watchful bunch.</span></p>

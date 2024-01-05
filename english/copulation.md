@@ -1,5 +1,7 @@
 # copulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copulation.md)
+
 <p><span class="chinese">对达尔文来说，择偶仅仅停留在交尾。</span><span class="english">For Darwin, mate choice simply stopped at copulation.</span></p>
 
 <p><span class="chinese">骡马市上的交配也就成了情理之事。</span><span class="english">The copulation in mule market has become the common thing.</span></p>

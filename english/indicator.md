@@ -1,5 +1,7 @@
 # indicator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indicator.md)
+
 <p><span class="chinese">长度是一个很好的暗示。</span><span class="english">Wordiness is a good indicator.</span></p>
 
 <p><span class="chinese">指标和声光报警。</span><span class="english">Audible and visual indicator alarm.</span></p>

@@ -1,5 +1,7 @@
 # retardance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retardance.md)
+
 <p><span class="chinese">王政平。李庆波。欧阳春梅延迟片法测量光学玻璃电流传感头线性双折射。</span><span class="english">Wang Z P. Li Q B. Tan Q Novel method for the measurement of the retardance of a quarter-wave plate.</span></p>
 
 <p><span class="chinese">敷设在有阻燃要求的室内。电缆沟、管道、直埋等承受较大机械外力的固定场合。</span><span class="english">For laying indoors, in trenches , in ducts and for fixed installation , The cable should be flame retardance.</span></p>

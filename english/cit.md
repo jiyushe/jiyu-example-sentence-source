@@ -1,5 +1,7 @@
 # cit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cit.md)
+
 <p><span class="chinese">大城市里的高层建筑。</span><span class="english">High-rise Buildings in Big Cit.</span></p>
 
 <p><span class="chinese">六安博羽有限责任公司位于安徽省西部六安地区。</span><span class="english">Luan max-down co. , ltd is located in Luan cit of western of Anhui province.</span></p>

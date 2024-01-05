@@ -1,5 +1,7 @@
 # alma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alma.md)
+
 <p><span class="chinese">清华大学是我的母校。</span><span class="english">Qinghua University is my Alma Mater.</span></p>
 
 <p><span class="chinese">我离别母校已经10年了.</span><span class="english">I've left the Alma Mater for 10 years.</span></p>

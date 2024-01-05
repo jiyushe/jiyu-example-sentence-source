@@ -1,5 +1,7 @@
 # 过硬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoying.md)
+
 <p><span class="chinese">大量的询盘证明我们的产品质量过硬。</span><span class="english">Heavy enquires witness the quality of our products!</span></p>
 
 <p><span class="chinese">大量询盘证明我们产品质量过硬。</span><span class="english">A lot of inquiries confirm the high quality of our products.</span></p>

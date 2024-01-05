@@ -1,5 +1,7 @@
 # restful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restful.md)
+
 <p><span class="chinese">睡意渐浓，安睡后，我们做了不少愉快的美梦。</span><span class="english">Sleep gradually claimed us and brought gentle, restful dreams.</span></p>
 
 <p><span class="chinese">相比之下，喝茶的人睡得更久更香。</span><span class="english">Tea drinkers, in contrast, had longer and more restful slumbers.</span></p>

@@ -1,5 +1,7 @@
 # 遍体鳞伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biantilinshang.md)
+
 <p><span class="chinese">这船壳撞得遍体鳞伤。</span><span class="english">The hull was pocked with dents.</span></p>
 
 <p><span class="chinese">我跌落在生命的利刺上，鲜血淋漓，遍体鳞伤！</span><span class="english">I fall upon the thorns of life! I bleed! ①</span></p>

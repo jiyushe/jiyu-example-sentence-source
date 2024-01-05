@@ -1,5 +1,7 @@
 # 鸟雀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niaoque.md)
+
 <p><span class="chinese">呵鸟雀的欢乐！</span><span class="english">Oh joy of the birds!</span></p>
 
 <p><span class="chinese">鸟雀留记黄果黑斑。</span><span class="english">Birds have made the black prints on yellow.</span></p>

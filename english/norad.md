@@ -1,5 +1,7 @@
 # norad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norad.md)
+
 <p><span class="chinese">见鬼的加拿大是北美防空司令部和北约的一部分！</span><span class="english">What a bunch of B. S. Canada is part of NORAD and NATO!</span></p>
 
 <p><span class="chinese">打往北美防空司令部科罗拉多州总部的电话没有收到立即回应。</span><span class="english">Calls to NORAD headquarters in Colorado were not immediately returned.</span></p>

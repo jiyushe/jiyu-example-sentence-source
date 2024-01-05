@@ -1,5 +1,7 @@
 # demitasse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demitasse.md)
+
 <p><span class="chinese">精美小饼和小杯黑咖啡，是的，先生。</span><span class="english">Petits fours and demitasse. Yes, sir.</span></p>
 
 <p><span class="chinese">我只要小杯黑咖啡，也要法国白兰地。</span><span class="english">I'll take just demitasse and also Cognac.</span></p>

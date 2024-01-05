@@ -1,5 +1,7 @@
 # gaius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaius.md)
+
 <p><span class="chinese">盖尤斯在交易站遇到的女人叫什么？</span><span class="english">What is the name of the woman Gaius encounters at the trading post?</span></p>
 
 <p><span class="chinese">在罗斯林总统给盖尔斯·波尔塔的信中，她说他缺少什么？</span><span class="english">In her letter to Gaius Baltar, what does President Roslin say he lacks?</span></p>

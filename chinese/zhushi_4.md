@@ -1,5 +1,7 @@
 # 注释
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushi_4.md)
+
 <p><span class="chinese">不要过度注释。</span><span class="english">Don't over-comment.</span></p>
 
 <p><span class="chinese">参见底下的注释。</span><span class="english">See the note below.</span></p>

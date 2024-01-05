@@ -1,5 +1,7 @@
 # aperture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aperture.md)
+
 <p><span class="chinese">光圈孔径数字标识小时。</span><span class="english">Hours marked by aperture values!</span></p>
 
 <p><span class="chinese">校准快门速度和光圈。</span><span class="english">Adjust the shutter speed and aperture.</span></p>

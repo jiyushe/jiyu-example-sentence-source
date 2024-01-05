@@ -1,5 +1,7 @@
 # atomizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atomizer.md)
+
 <p><span class="chinese">什么是依思瑞的雾化器？</span><span class="english">What is a YSR atomizer?</span></p>
 
 <p><span class="chinese">我被炸得粉身碎骨。</span><span class="english">The atomizer comes along,blows me up.</span></p>

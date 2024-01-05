@@ -1,5 +1,7 @@
 # 刀豆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daodou.md)
+
 <p><span class="chinese">刀豆种子。刀豆这种蔬菜在云南是没有的。</span><span class="english">A sword bean. It's unavailable in Yunnan.</span></p>
 
 <p><span class="chinese">羊肉要配新鲜土豆和青刀豆一起上。</span><span class="english">Serve the lamb with new potatoes and green beans.</span></p>

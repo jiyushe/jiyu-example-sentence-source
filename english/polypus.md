@@ -1,5 +1,7 @@
 # polypus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polypus.md)
+
 <p><span class="chinese">目的提高对贲门息肉X线诊断水平和检出率。</span><span class="english">Objective To improve X-ray diagnosis of cardiac polypus.</span></p>
 
 <p><span class="chinese">结果将华支睾吸虫病误诊为急慢性“胆囊炎”和“胆囊息肉”。</span><span class="english">Result The clonorchiasis has been mistaken for acute or chronic " cholecystitis "and "cholecystic polypus".</span></p>

@@ -1,5 +1,7 @@
 # matthew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matthew.md)
+
 <p><span class="chinese">马修是个老师。</span><span class="english">Matthew is a teacher.</span></p>
 
 <p><span class="chinese">马修高兴地笑了。</span><span class="english">Matthew smiled happily.</span></p>

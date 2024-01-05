@@ -1,5 +1,7 @@
 # sensationalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensationalism.md)
+
 <p><span class="chinese">不要屈从于轰动效应。</span><span class="english">Don't give in to sensationalism.</span></p>
 
 <p><span class="chinese">从该时开始，煽情主义在香港植根。</span><span class="english">Afterwards, sensationalism places its root in Hong Kong media.</span></p>

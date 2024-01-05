@@ -1,5 +1,7 @@
 # 硅酸盐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guisuanyan.md)
+
 <p><span class="chinese">最后，硅酸盐熔化。</span><span class="english">At last the silicates is melted.</span></p>
 
 <p><span class="chinese">如果脱模剂发粘，则减少硅酸盐。</span><span class="english">If the mold spray is sticky, reduce the silicate.</span></p>

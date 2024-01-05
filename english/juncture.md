@@ -1,5 +1,7 @@
 # juncture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juncture.md)
+
 <p><span class="chinese">我们正处在这样一个关头。</span><span class="english">We are at such a juncture.</span></p>
 
 <p><span class="chinese">我们正处在一个关键的时刻。</span><span class="english">We are at a critical juncture.</span></p>

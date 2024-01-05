@@ -1,5 +1,7 @@
 # 薄饼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baobing.md)
+
 <p><span class="chinese">薄饼是非常好储存的。</span><span class="english">Crepes are good keepers.</span></p>
 
 <p><span class="chinese">这种薄饼很可口。</span><span class="english">The bannock is delicious.</span></p>

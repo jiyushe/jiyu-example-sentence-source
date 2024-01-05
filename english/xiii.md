@@ -1,5 +1,7 @@
 # xiii
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xiii.md)
+
 <p><span class="chinese">路易十四之前的统治者是路易十三</span><span class="english">Louis XIV was preceded in number by Louis XIII.</span></p>
 
 <p><span class="chinese">以你所知道的来看，他们是为托勒密做事。</span><span class="english">For your information, they work for Ptolemy XIII.</span></p>

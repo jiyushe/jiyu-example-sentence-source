@@ -1,5 +1,7 @@
 # pooh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pooh.md)
+
 <p><span class="chinese">小熊维尼一不小心将瓶子摔下来。</span><span class="english">Pooh dropped a bottle by mistake.</span></p>
 
 <p><span class="chinese">我的小维尼熊想冒个险吗？</span><span class="english">Right my little pooh bear, wanna take a chance?</span></p>

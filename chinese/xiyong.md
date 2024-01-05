@@ -1,5 +1,7 @@
 # 习用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyong.md)
+
 <p><span class="chinese">因而习用障碍一词来概括。</span><span class="english">Thus the term to summarize conventional barriers.</span></p>
 
 <p><span class="chinese">习语是一种语言所特有的习用表达方法。</span><span class="english">Idioms is an authentic way of expression in any language.</span></p>

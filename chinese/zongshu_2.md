@@ -1,5 +1,7 @@
 # 棕树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongshu_2.md)
+
 <p><span class="chinese">红树叶，黄树叶，橙树叶和棕树叶。</span><span class="english">Red leaves, yellow leaves, orange and brown.</span></p>
 
 <p><span class="chinese">耶！红树叶，黄树叶，橙树叶和棕树叶。</span><span class="english">Yeah. Red leaves, yellow leaves, orange and brown.</span></p>

@@ -1,5 +1,7 @@
 # 囤积居奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tunjijuqi.md)
+
 <p><span class="chinese">中国领导人许诺打压并惩罚囤积居奇者和投机商。</span><span class="english">China'sleaders promise to hunt down and punish hoarders and speculators.</span></p>
 
 <p><span class="chinese">大蒜价格的疯涨主要是由一些人的囤积居奇引起的。</span><span class="english">The price hike in garlic was mainly caused by hoarding and profiteering.</span></p>

@@ -1,5 +1,7 @@
 # respecter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respecter.md)
+
 <p><span class="chinese">上帝是没有尊重的人。</span><span class="english">God is no respecter of persons.</span></p>
 
 <p><span class="chinese">死神不问贫富，一视同仁。</span><span class="english">Death is no respecter of wealth.</span></p>

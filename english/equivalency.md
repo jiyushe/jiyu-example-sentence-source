@@ -1,5 +1,7 @@
 # equivalency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equivalency.md)
+
 <p><span class="chinese">他退出了高中，但获得了等值的文凭。</span><span class="english">He dropped out of high school but obtained an equivalency diploma.</span></p>
 
 <p><span class="chinese">首先，得到了若干关于缺省理论等价的性质。</span><span class="english">First, some properties of equivalency of default theories are proposed.</span></p>

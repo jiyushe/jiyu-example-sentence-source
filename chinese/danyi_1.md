@@ -1,5 +1,7 @@
 # 单衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danyi_1.md)
+
 <p><span class="chinese">马上单衣寒恻恻。</span><span class="english">Immediately cold unlined grieved.</span></p>
 
 <p><span class="chinese">塔米莎带了件保暖的粗布牛仔大衣，汤姆的夹克衫却是单衣，连衬里都没有。</span><span class="english">Tamitha had an insulated denim coat, but Tom's jacket was unlined.</span></p>

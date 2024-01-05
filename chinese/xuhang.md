@@ -1,5 +1,7 @@
 # 续航
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuhang.md)
+
 <p><span class="chinese">你船可以在协调世界时0900时续航。</span><span class="english">You may proceed at 0900 UTC.</span></p>
 
 <p><span class="chinese">而混合动力电动车的续航能力一般为300英里。</span><span class="english">And as a rule, the hybrid e-vehicle can run 300 miles.</span></p>

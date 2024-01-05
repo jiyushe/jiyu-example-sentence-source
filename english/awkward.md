@@ -1,5 +1,7 @@
 # awkward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awkward.md)
+
 <p><span class="chinese">有点小尴尬。</span><span class="english">It's a little awkward.</span></p>
 
 <p><span class="chinese">这把锄头太笨。</span><span class="english">This is an awkward hoe.</span></p>

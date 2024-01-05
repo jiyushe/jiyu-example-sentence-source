@@ -1,5 +1,7 @@
 # affixation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affixation.md)
+
 <p><span class="chinese">然后，所述初级附接在烘箱中被完全固化。</span><span class="english">Then, the initial affixation is cured completely in an oven.</span></p>
 
 <p><span class="chinese">词缀是汉语语言学界颇有争议的问题。</span><span class="english">Affixation is quite a controversial issue in the circle of Chinese linguistics.</span></p>

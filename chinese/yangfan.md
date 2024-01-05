@@ -1,5 +1,7 @@
 # 扬帆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangfan.md)
+
 <p><span class="chinese">我继续扬帆向前驶去。</span><span class="english">And I sailed on.</span></p>
 
 <p><span class="chinese">扬帆驾舟十分有趣。</span><span class="english">It's great fun to sail a boat.</span></p>

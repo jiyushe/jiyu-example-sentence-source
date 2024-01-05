@@ -1,5 +1,7 @@
 # 午觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujiao.md)
+
 <p><span class="chinese">王子睡了个午觉，并在树下睡去。</span><span class="english">The prince took a nap and snored under the tree.</span></p>
 
 <p><span class="chinese">弗吉尼亚刚在地道里睡完午觉。</span><span class="english">Virginia wakes up after an afternoon nap in the tunnel.</span></p>

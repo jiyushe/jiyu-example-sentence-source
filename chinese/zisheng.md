@@ -1,5 +1,7 @@
 # 吱声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zisheng.md)
+
 <p><span class="chinese">经理没有吱声。</span><span class="english">The manager made no answer.</span></p>
 
 <p><span class="chinese">刹车发出吱吱声。</span><span class="english">The brakes of the car squealed.</span></p>

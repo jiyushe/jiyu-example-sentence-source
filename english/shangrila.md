@@ -1,5 +1,7 @@
 # shangrila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shangrila.md)
+
 <p><span class="chinese">太好了，我喜欢香格里拉饭店。</span><span class="english">Good. I like the shangriLa Hotel.</span></p>
 
 <p><span class="chinese">想了解更多的香格里拉吗？</span><span class="english">Do you want to know more about shangrila ?</span></p>

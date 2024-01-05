@@ -1,5 +1,7 @@
 # 傻眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shayan.md)
+
 <p><span class="chinese">褶围兜装饰傻眼了。</span><span class="english">Pleated bib adorns the bodice.</span></p>
 
 <p><span class="chinese">七宝顿时傻眼。</span><span class="english">Seven treasure immediately silly eye.</span></p>

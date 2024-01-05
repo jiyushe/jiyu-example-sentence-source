@@ -1,5 +1,7 @@
 # crockery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crockery.md)
+
 <p><span class="chinese">星期天我去沃尔沃斯购买餐具。</span><span class="english">I went to Woolworths on Sunday to buy crockery.</span></p>
 
 <p><span class="chinese">我们正打算向picc保险这批陶器呢？</span><span class="english">We are going to insure the crockery with the PICC.</span></p>

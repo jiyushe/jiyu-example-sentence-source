@@ -1,5 +1,7 @@
 # 一隅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyu.md)
+
 <p><span class="chinese">白云谦逊地站在天之一隅。晨光给它戴上霞彩。</span><span class="english">The cloud stood humbly in a cor.</span></p>
 
 <p><span class="chinese">即使困于一隅。水仍能另辟蹊径。</span><span class="english">And when trapped, water makes a new path.</span></p>

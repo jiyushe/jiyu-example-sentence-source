@@ -1,5 +1,7 @@
 # vagal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vagal.md)
+
 <p><span class="chinese">食管本体的蠕动受迷走神经支配。</span><span class="english">Peristalsis in the body of the esophagus is under vagal control.</span></p>
 
 <p><span class="chinese">文献报道迷走传入直接或间接投射至多个脑区。</span><span class="english">Vagal afferents project directly or indirectly to several brain areas.</span></p>

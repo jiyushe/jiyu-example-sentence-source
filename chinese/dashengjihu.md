@@ -1,5 +1,7 @@
 # 大声疾呼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dashengjihu.md)
+
 <p><span class="chinese">“充分”地大声疾呼。</span><span class="english">To cry "enough".</span></p>
 
 <p><span class="chinese">我的灵魂大声疾呼</span><span class="english">So, my spirit dictates to me.</span></p>

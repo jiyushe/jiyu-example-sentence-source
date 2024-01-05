@@ -1,5 +1,7 @@
 # irrelevance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrelevance.md)
+
 <p><span class="chinese">考虑到税负,我们要修正负债不相关性</span><span class="english">Again, we have to qualify the debt irrelevance for taxes.</span></p>
 
 <p><span class="chinese">你的财富、名望和尘世的权力都将消失，变得无关紧要。</span><span class="english">Your wealth, fame and temporal power will shrivel to irrelevance.</span></p>

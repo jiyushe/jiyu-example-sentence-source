@@ -1,5 +1,7 @@
 # somehow 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somehow.md)
+
 <p><span class="chinese">不管怎样，你总会长大的。</span><span class="english">You'll grow up somehow.</span></p>
 
 <p><span class="chinese">不知怎的，他们成了朋友。</span><span class="english">Somehow they became friends.</span></p>

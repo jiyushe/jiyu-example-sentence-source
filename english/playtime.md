@@ -1,5 +1,7 @@
 # playtime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playtime.md)
+
 <p><span class="chinese">我的儿子，他需要娱乐时间。</span><span class="english">My son, he needs his playtime.</span></p>
 
 <p><span class="chinese">请在娱乐时间和我玩。</span><span class="english">Please play with me at playtime.</span></p>

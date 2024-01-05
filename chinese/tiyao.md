@@ -1,5 +1,7 @@
 # 提要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiyao.md)
+
 <p><span class="chinese">回提要先找劫材。</span><span class="english">Take back want, find a kozai first.</span></p>
 
 <p><span class="chinese">现在播报今天的新闻提要。</span><span class="english">Here are the headlines in today's news.</span></p>

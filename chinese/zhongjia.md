@@ -1,5 +1,7 @@
 # 重价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjia.md)
+
 <p><span class="chinese">出土文物，重价收购。</span><span class="english">High prices are offered for unearthed relies.</span></p>
 
 <p><span class="chinese">这自由是用重价所买来的。</span><span class="english">It is a liberty which has been dearly purchased.</span></p>

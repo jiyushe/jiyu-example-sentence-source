@@ -1,5 +1,7 @@
 # 测验
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ceyan.md)
+
 <p><span class="chinese">测验分数?。</span><span class="english">Test scores?</span></p>
 
 <p><span class="chinese">好了，两次小测验。</span><span class="english">OK. Two quizzes.</span></p>

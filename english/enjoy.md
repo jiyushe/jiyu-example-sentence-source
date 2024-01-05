@@ -1,5 +1,7 @@
 # enjoy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enjoy.md)
+
 <p><span class="chinese">享受它吧。</span><span class="english">Enjoy it.</span></p>
 
 <p><span class="chinese">享受喝茶时间。</span><span class="english">Enjoy teatime.</span></p>

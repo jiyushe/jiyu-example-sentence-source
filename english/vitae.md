@@ -1,5 +1,7 @@
 # vitae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitae.md)
+
 <p><span class="chinese">卫哲的从容和冷静缘于他的“金领简历”。</span><span class="english">Wei Zhe calm and cool due to his "Jinling curriculum vitae."</span></p>
 
 <p><span class="chinese">大部分人是希望在这里能赚取足够的钱，并且给自己的履历表添光加彩。</span><span class="english">Most expect to make good money and burnish their curricula vitae.</span></p>

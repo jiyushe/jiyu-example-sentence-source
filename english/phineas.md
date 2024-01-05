@@ -1,5 +1,7 @@
 # phineas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phineas.md)
+
 <p><span class="chinese">耶稣，大祭司，菲尼亚斯的儿子。</span><span class="english">Jesus, high priest, son of Phineas.</span></p>
 
 <p><span class="chinese">菲尼亚斯·盖奇又坐了起来,说"哦"</span><span class="english">And Phineas Gage sat down and went, "Uh, oh."</span></p>

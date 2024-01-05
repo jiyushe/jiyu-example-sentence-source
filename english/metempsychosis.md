@@ -1,5 +1,7 @@
 # metempsychosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metempsychosis.md)
+
 <p><span class="chinese">传说在花江峡谷开始了又一次轮回。</span><span class="english">This fame have a metempsychosis again.</span></p>
 
 <p><span class="chinese">一个朋友就说了个转世的故事。</span><span class="english">My friend told us a story of metempsychosis.</span></p>

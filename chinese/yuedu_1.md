@@ -1,5 +1,7 @@
 # 阅读
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuedu_1.md)
+
 <p><span class="chinese">阅读并补全下表。</span><span class="english">Read and fill.</span></p>
 
 <p><span class="chinese">阅读摘要部分。</span><span class="english">Read abstracts.</span></p>

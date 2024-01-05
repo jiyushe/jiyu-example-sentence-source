@@ -1,5 +1,7 @@
 # 注定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuding.md)
+
 <p><span class="chinese">命中注定？</span><span class="english">DOOMED?</span></p>
 
 <p><span class="chinese">这已注定是一场败仗</span><span class="english">It was a losing battle.</span></p>

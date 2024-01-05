@@ -1,5 +1,7 @@
 # iron 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iron.md)
+
 <p><span class="chinese">铁艺大门。</span><span class="english">Iron gate.</span></p>
 
 <p><span class="chinese">铁艺围栏。</span><span class="english">Iron fence.</span></p>

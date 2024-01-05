@@ -1,5 +1,7 @@
 # accretion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accretion.md)
+
 <p><span class="chinese">高炉结瘤是能够预防的。</span><span class="english">The accretion in blast furnace is preventable.</span></p>
 
 <p><span class="chinese">对传统与有机食物的转基因污染正在扩大。</span><span class="english">GM contagion of accepted and amoebic aliment is accretion.</span></p>

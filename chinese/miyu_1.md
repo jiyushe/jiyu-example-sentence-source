@@ -1,5 +1,7 @@
 # 谜语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miyu_1.md)
+
 <p><span class="chinese">你能猜出这个谜语吗?</span><span class="english">Can you answer this riddle?</span></p>
 
 <p><span class="chinese">我们虚构了不真实的谜语</span><span class="english">we invented impossible riddles</span></p>

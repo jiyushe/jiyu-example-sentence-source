@@ -1,5 +1,7 @@
 # 抢险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangxian_1.md)
+
 <p><span class="chinese">日本参加核电站泄漏抢险的一名工人死亡。</span><span class="english">Worker dies at Japan's tsunami-hit nuclear plant.</span></p>
 
 <p><span class="chinese">一场紧张的抗洪抢险应急战再次打开。</span><span class="english">One emergency war against floods was kicked off again.</span></p>

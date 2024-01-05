@@ -1,5 +1,7 @@
 # hosting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hosting.md)
+
 <p><span class="chinese">使用基于名字的虚拟主机。</span><span class="english">Use name-based virtual hosting.</span></p>
 
 <p><span class="chinese">哈，他们现在在主持派对呢。</span><span class="english">Uh-uh. They're hosting the party now.</span></p>

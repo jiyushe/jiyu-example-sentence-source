@@ -1,5 +1,7 @@
 # textually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/textually.md)
+
 <p><span class="chinese">图形应尽可能以文字表达。</span><span class="english">Graphics should be described textually as far as possible.</span></p>
 
 <p><span class="chinese">数据库的分歧将显示图形和文本。</span><span class="english">Database differences will be shown graphically and textually.</span></p>

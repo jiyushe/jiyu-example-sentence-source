@@ -1,5 +1,7 @@
 # 井然有序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingranyouxu.md)
+
 <p><span class="chinese">连畜棚都井然有序。</span><span class="english">Even the barn was shipshape.</span></p>
 
 <p><span class="chinese">军队井然有序地撤退。</span><span class="english">The troops retired in good order.</span></p>

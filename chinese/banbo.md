@@ -1,5 +1,7 @@
 # 斑驳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banbo.md)
+
 <p><span class="chinese">一个斑驳又破碎的梦境。</span><span class="english">A mottled and broken dreams.</span></p>
 
 <p><span class="chinese">斑斑驳驳，生意葱茏。</span><span class="english">To mark or mottle with spots.</span></p>

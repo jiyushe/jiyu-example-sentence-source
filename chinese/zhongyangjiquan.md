@@ -1,5 +1,7 @@
 # 中央集权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyangjiquan.md)
+
 <p><span class="chinese">科技，火药，再次的中央集权化。</span><span class="english">Technology, gunpowder, centralization of power again.</span></p>
 
 <p><span class="chinese">他加强了中央集权的统治</span><span class="english">And he makes state centralization even more important.</span></p>

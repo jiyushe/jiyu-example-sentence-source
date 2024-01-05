@@ -1,5 +1,7 @@
 # 全家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanjia_1.md)
+
 <p><span class="chinese">有请冯·特普全家。</span><span class="english">The family Von Trapp.</span></p>
 
 <p><span class="chinese">我家的全家照。</span><span class="english">A picture of my family.</span></p>

@@ -1,5 +1,7 @@
 # pearson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pearson.md)
+
 <p><span class="chinese">他的家人起诉皮尔逊先生。</span><span class="english">His family sued Mr. Pearson.</span></p>
 
 <p><span class="chinese">最终皮尔逊先生赢得了他的诉讼。</span><span class="english">Mr. Pearson won his suit at last.</span></p>

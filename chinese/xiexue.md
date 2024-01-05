@@ -1,5 +1,7 @@
 # 谐谑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiexue.md)
+
 <p><span class="chinese">谐谑曲，为钢琴而作的小品4首。</span><span class="english">Scherzo, Four Pieces for piano No. 4</span></p>
 
 <p><span class="chinese">谐谑曲也可以是很快的快板的。</span><span class="english">The scherzo is marked allegro molto.</span></p>

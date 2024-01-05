@@ -1,5 +1,7 @@
 # participle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/participle.md)
+
 <p><span class="chinese">什么是「半天吊」的分词？</span><span class="english">What is a "dangling participle"?</span></p>
 
 <p><span class="chinese">于是就有了分词的必要。</span><span class="english">So there will be a participle necessary.</span></p>

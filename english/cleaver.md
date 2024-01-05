@@ -1,5 +1,7 @@
 # cleaver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleaver.md)
+
 <p><span class="chinese">家里有切肉刀和磨刀器。</span><span class="english">You own your own meat cleaver and sharpen it.</span></p>
 
 <p><span class="chinese">你有自己的切肉刀而且你会磨它。</span><span class="english">You own your own meat cleaver and sharpen it.</span></p>

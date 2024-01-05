@@ -1,5 +1,7 @@
 # 乐善好施
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leshanhaoshi.md)
+
 <p><span class="chinese">器官网站上涌现出许多乐善好施的人。</span><span class="english">Organ websites reflect a surge in the number of Good Samaritans.</span></p>
 
 <p><span class="chinese">例如，从一项乐善好施的行为中取得的乐趣就往往与之相关。</span><span class="english">The pleasure obtained from a benevolent act is often relevant, for example.</span></p>

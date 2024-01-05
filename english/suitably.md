@@ -1,5 +1,7 @@
 # suitably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suitably.md)
+
 <p><span class="chinese">以后要打造宜居城市吧。</span><span class="english">Later must make occupies the city suitably.</span></p>
 
 <p><span class="chinese">使误差小到适当的程度要遵循的步骤</span><span class="english">Steps to follow until error is suitably small</span></p>

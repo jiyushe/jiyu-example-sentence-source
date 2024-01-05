@@ -1,5 +1,7 @@
 # 飞狐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feihu.md)
+
 <p><span class="chinese">即使新桥建成，凡迪说，他也不一定飞狐创事业板想放弃每天划船。</span><span class="english">Even when the new bridge is finished, Fandi said, he isn't sure he wants to give up hellos daily row.</span></p>
 
 <p><span class="chinese">拍打着半透明的黄色翅膀，一只红色的小飞狐在一夜紧张的觅食后正在归途当中。</span><span class="english">On translucent tawny wings, a little red flying fox flaps homeward after a night of intense foraging.</span></p>

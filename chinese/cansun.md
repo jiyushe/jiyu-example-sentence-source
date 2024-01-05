@@ -1,5 +1,7 @@
 # 残损
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cansun.md)
+
 <p><span class="chinese">她的脸因鼻子残损而破相。</span><span class="english">Her face was disfigured by a broken nose.</span></p>
 
 <p><span class="chinese">如果我们发现残损该怎么处理？</span><span class="english">If we find damaged cargo, how to deal with it?</span></p>

@@ -1,5 +1,7 @@
 # 河流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heliu_1.md)
+
 <p><span class="chinese">古老的，忧郁的河流。</span><span class="english">Ancient, dusky rivers.</span></p>
 
 <p><span class="chinese">老夫人读着读着，泪水如小河流水般奔涌而出。</span><span class="english">Tears flowed like river.</span></p>

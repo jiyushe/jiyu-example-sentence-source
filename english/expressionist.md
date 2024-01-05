@@ -1,5 +1,7 @@
 # expressionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expressionist.md)
+
 <p><span class="chinese">她帮我强化突击了现代表现主义艺术。</span><span class="english">She helped me get boned up on my modern expressionist art.</span></p>
 
 <p><span class="chinese">第一个表现主义团体于1905年在德累斯顿成立。</span><span class="english">The first Expressionist group gathered at Dresden in 1905.</span></p>

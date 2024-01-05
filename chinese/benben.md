@@ -1,5 +1,7 @@
 # 本本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benben.md)
+
 <p><span class="chinese">这样让本本看起来就像一个有把手的屏幕。</span><span class="english">This makes the laptop into just a screen with a handle.</span></p>
 
 <p><span class="chinese">这本本绝对是为恶劣环境设计的。</span><span class="english">This laptop is definitely designed for harsh conditions.</span></p>

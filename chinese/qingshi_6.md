@@ -1,5 +1,7 @@
 # 青石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshi_6.md)
+
 <p><span class="chinese">龙甲村的青石小径。</span><span class="english">A rustic path in Longjia village.</span></p>
 
 <p><span class="chinese">青石地面上铺着软木垫。</span><span class="english">There was cork matting on the stone floor.</span></p>

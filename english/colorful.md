@@ -1,5 +1,7 @@
 # colorful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorful.md)
+
 <p><span class="chinese">享受属于你的多彩生活！</span><span class="english">Enjoy your colorful life!</span></p>
 
 <p><span class="chinese">多么鲜艳芬芳！</span><span class="english">How colorful and fragrant!</span></p>

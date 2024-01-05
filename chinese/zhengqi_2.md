@@ -1,5 +1,7 @@
 # 正气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengqi_2.md)
+
 <p><span class="chinese">我们晚到了一小时，她正气得七窍生烟。</span><span class="english">By the time we arrived an hour late she was fuming.</span></p>
 
 <p><span class="chinese">我们晚到了一个小时，她正气得七窍生烟。</span><span class="english">By the time we arrived an hour later she was fuming with rage.</span></p>

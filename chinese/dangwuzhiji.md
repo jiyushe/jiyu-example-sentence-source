@@ -1,5 +1,7 @@
 # 当务之急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangwuzhiji.md)
+
 <p><span class="chinese">建造一个新的生态城作为榜样是当务之急。</span><span class="english">A new model is certainly needed.</span></p>
 
 <p><span class="chinese">我认为当务之急是要通力合作。</span><span class="english">I believe now that cooperation is everything.</span></p>

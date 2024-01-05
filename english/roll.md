@@ -1,5 +1,7 @@
 # roll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roll.md)
+
 <p><span class="chinese">卷云。</span><span class="english">Roll cloud.</span></p>
 
 <p><span class="chinese">头到地上滚吧！</span><span class="english">Head's gonna roll.</span></p>

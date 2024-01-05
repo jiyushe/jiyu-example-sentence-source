@@ -1,5 +1,7 @@
 # mythical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mythical.md)
+
 <p><span class="chinese">凤凰是神话中的一种鸟。</span><span class="english">The phoenix is a mythical bird.</span></p>
 
 <p><span class="chinese">戈耳戈蛇发女妖是神话中的怪物。</span><span class="english">The gorgon was a mythical creature.</span></p>

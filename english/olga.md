@@ -1,5 +1,7 @@
 # olga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olga.md)
+
 <p><span class="chinese">奥尔加不久和一个军官结了婚。并离开了家。</span><span class="english">Olga soon afterward married an army man and left home.</span></p>
 
 <p><span class="chinese">奥尔佳·科布特独自一人将体操变成了一项重要赛事。</span><span class="english">Olga Korbut single-handedly turned gymnastics into a major event.</span></p>

@@ -1,5 +1,7 @@
 # 粗糙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cucao.md)
+
 <p><span class="chinese">我的皮肤摸起来很粗糙。</span><span class="english">My skin feels rough.</span></p>
 
 <p><span class="chinese">这计划还很粗糙。</span><span class="english">The plan is yet in the rough.</span></p>

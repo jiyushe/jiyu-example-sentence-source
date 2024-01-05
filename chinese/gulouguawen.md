@@ -1,5 +1,7 @@
 # 孤陋寡闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gulouguawen.md)
+
 <p><span class="chinese">我们的祖先孤陋寡闻是否算幸运呢？</span><span class="english">Were our ancestors lucky to be only partly informed?</span></p>
 
 <p><span class="chinese">是我们都太孤陋寡闻，竟然没听说过激情杀人。</span><span class="english">We are all too ignorant to hear of such a term before.</span></p>

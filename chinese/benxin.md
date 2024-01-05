@@ -1,5 +1,7 @@
 # 本心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benxin.md)
+
 <p><span class="chinese">我本心如铁石，却不由颤抖。</span><span class="english">My heart is stone and still it trembles.</span></p>
 
 <p><span class="chinese">没有廉耻的人，没有本心。</span><span class="english">He who has no shherehase has no conscience.</span></p>

@@ -1,5 +1,7 @@
 # halal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halal.md)
+
 <p><span class="chinese">清真寺后面的清真小吃排档生意红红火火。</span><span class="english">Behind the mosque, halal snack stalls do brisk business.</span></p>
 
 <p><span class="chinese">靠近牛街附近的一些清真餐厅也是人气红火。</span><span class="english">Near Cow street, some of Halal restaurants are also very popular.</span></p>

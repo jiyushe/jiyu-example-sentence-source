@@ -1,5 +1,7 @@
 # 一定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiding.md)
+
 <p><span class="chinese">我一定要赢。</span><span class="english">I must win.</span></p>
 
 <p><span class="chinese">他一定是疯了。</span><span class="english">He must be mad.</span></p>

@@ -1,5 +1,7 @@
 # 精疲力竭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingpilijie.md)
+
 <p><span class="chinese">我感到精疲力竭。</span><span class="english">I feel washed up.</span></p>
 
 <p><span class="chinese">我被这些工作搞的精疲力竭。</span><span class="english">I am shagged out after the work!</span></p>

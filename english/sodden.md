@@ -1,5 +1,7 @@
 # sodden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sodden.md)
+
 <p><span class="chinese">别把桌布弄湿了。</span><span class="english">Don't sodden the tablecloth.</span></p>
 
 <p><span class="chinese">烂鳃病的症状？</span><span class="english">The symptom of sodden branchial disease?</span></p>

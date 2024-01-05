@@ -1,5 +1,7 @@
 # 老百姓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laobaixing.md)
+
 <p><span class="chinese">老百姓也管它叫四方城。</span><span class="english">People call it the Square City.</span></p>
 
 <p><span class="chinese">老百姓戏称它是“大裤衩”。</span><span class="english">People called it as “The Big Pant ”.</span></p>

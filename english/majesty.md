@@ -1,5 +1,7 @@
 # majesty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/majesty.md)
+
 <p><span class="chinese">用温柔的庄严。</span><span class="english">With tender majesty.</span></p>
 
 <p><span class="chinese">我们希望觐见女王陛下。</span><span class="english">We hope to see Her Majesty.</span></p>

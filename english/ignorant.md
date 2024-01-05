@@ -1,5 +1,7 @@
 # ignorant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ignorant.md)
+
 <p><span class="chinese">他们依旧无知。</span><span class="english">They remain ignorant.</span></p>
 
 <p><span class="chinese">其次，这是无知的。</span><span class="english">And secondly, it’s ignorant.</span></p>

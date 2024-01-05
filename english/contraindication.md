@@ -1,5 +1,7 @@
 # contraindication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contraindication.md)
+
 <p><span class="chinese">有什么禁忌症吗？</span><span class="english">What contraindication does it have?</span></p>
 
 <p><span class="chinese">百日咳、白喉、破伤风混合疫苗禁忌症。</span><span class="english">Whooping cough, diphtheria, tetanus mixed vaccine contraindication.</span></p>

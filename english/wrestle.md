@@ -1,5 +1,7 @@
 # wrestle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrestle.md)
+
 <p><span class="chinese">想要摔角吗？</span><span class="english">Wanna wrestle?</span></p>
 
 <p><span class="chinese">你会摔交吗?。</span><span class="english">Can you wrestle ?</span></p>

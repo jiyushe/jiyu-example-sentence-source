@@ -1,5 +1,7 @@
 # 难听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanting.md)
+
 <p><span class="chinese">每只鸟都喜难听本身唱歌。</span><span class="english">Each bird love to hear himself sing.</span></p>
 
 <p><span class="chinese">他唱的他妈的比Ringo还难听。</span><span class="english">He sounded worse than fuckin' Ringo.</span></p>

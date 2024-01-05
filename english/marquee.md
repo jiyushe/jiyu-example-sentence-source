@@ -1,5 +1,7 @@
 # marquee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marquee.md)
+
 <p><span class="chinese">这样应当会在行星四周生成一个矩形选区。</span><span class="english">This should bring up a marquee around the planet.</span></p>
 
 <p><span class="chinese">狼现在已经成了黄石国家公园的招牌动物。</span><span class="english">Wolves are now the marquee animal in Yellowstone.</span></p>

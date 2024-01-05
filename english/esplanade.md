@@ -1,5 +1,7 @@
 # esplanade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esplanade.md)
+
 <p><span class="chinese">你可以把车停在房子外面。</span><span class="english">You can esplanade your car alfresco the houtilize.</span></p>
 
 <p><span class="chinese">那儿是我们在那个大风天散步的海滩。</span><span class="english">There's the esplanade where we walked that windy day.</span></p>

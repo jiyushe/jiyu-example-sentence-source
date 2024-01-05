@@ -1,5 +1,7 @@
 # autoclave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autoclave.md)
+
 <p><span class="chinese">实验采用高压釜反应器。</span><span class="english">The reactor used in the experiment is autoclave.</span></p>
 
 <p><span class="chinese">在两年内就可以节省一台高压釜的钱。</span><span class="english">A period of two years can save a autoclave money.</span></p>

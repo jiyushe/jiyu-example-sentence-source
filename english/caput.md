@@ -1,5 +1,7 @@
 # caput
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caput.md)
+
 <p><span class="chinese">近来，我们实验室在大鼠附睾头部先后克隆了两个基因。</span><span class="english">Our lab have cloned two genes in the caput of rat epididymis recently.</span></p>
 
 <p><span class="chinese">按位异或及其在求解游戏策略问题中的应用。</span><span class="english">Caput or vary the game and its strategy in solving problems of application.</span></p>

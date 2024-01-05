@@ -1,5 +1,7 @@
 # beggarly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beggarly.md)
+
 <p><span class="chinese">你是说我太矮了？</span><span class="english">You beggarly I'm too fleeting, ?</span></p>
 
 <p><span class="chinese">中国朋友的话是什么意思？</span><span class="english">What did the Chinese friend beggarly?</span></p>

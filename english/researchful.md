@@ -1,5 +1,7 @@
 # researchful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/researchful.md)
+
 <p><span class="chinese">因此以这两个时期的鸟纹为主要研究对象。</span><span class="english">So the primary researchful objects are the bird figures of the two phases above.</span></p>
 
 <p><span class="chinese">研究结果显示其研制的系统具有未来泛用型交流感应马达驱动器的雏型。</span><span class="english">The researchful results can become prototype machine of universal ac induction motor drive.</span></p>

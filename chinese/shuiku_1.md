@@ -1,5 +1,7 @@
 # 睡裤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiku_1.md)
+
 <p><span class="chinese">爱情看起来像一条睡裤</span><span class="english">Does it look like a pair of pyjamas</span></p>
 
 <p><span class="chinese">快去收拾你的牙刷和睡裤吧。</span><span class="english">Time to pack up your toothbrush and pajamas.</span></p>

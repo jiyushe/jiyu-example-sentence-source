@@ -1,5 +1,7 @@
 # sharpie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sharpie.md)
+
 <p><span class="chinese">用笔写上你的蔬菜、水果的名字。</span><span class="english">Use a Sharpie to write your vegetable and fruit names.</span></p>
 
 <p><span class="chinese">骗子关于市场上大理石象征的评论值得眷注。</span><span class="english">The sharpie remark on the marble mark in the market is remarkably craple.</span></p>

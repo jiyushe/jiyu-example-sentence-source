@@ -1,5 +1,7 @@
 # vaporizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaporizer.md)
+
 <p><span class="chinese">蒸发器是由陶瓷盘制成的。</span><span class="english">The vaporizer is made of ceramic discs.</span></p>
 
 <p><span class="chinese">在家中，一个清凉的喷雾器也许会有用。</span><span class="english">A cool mist vaporizer may be useful in the home.</span></p>

@@ -1,5 +1,7 @@
 # emigration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emigration.md)
+
 <p><span class="chinese">他呼吁停止近期的移民潮。</span><span class="english">He called for a halt to the recent wave of emigration.</span></p>
 
 <p><span class="chinese">但是，这样做就失去了移民的意义。</span><span class="english">But, to doing this loses the significance of emigration.</span></p>

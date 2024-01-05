@@ -1,5 +1,7 @@
 # shenyang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shenyang.md)
+
 <p><span class="chinese">你让我唱一个呗。</span><span class="english">Shenyang    Let me sing.</span></p>
 
 <p><span class="chinese">沈阳嘉禾实业有限公司。</span><span class="english">Shenyang Jiahe Industry Co. , Ltd.</span></p>

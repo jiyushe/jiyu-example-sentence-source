@@ -1,5 +1,7 @@
 # concerned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concerned.md)
+
 <p><span class="chinese">唯维说，你应该担心吗？</span><span class="english">Should you be concerned?</span></p>
 
 <p><span class="chinese">她看着我，脸上带着忧虑的神色。</span><span class="english">She gave me a concerned look.</span></p>

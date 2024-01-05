@@ -1,5 +1,7 @@
 # extremity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extremity.md)
+
 <p><span class="chinese">他接受哪一条末路？</span><span class="english">What extremity did he accept?</span></p>
 
 <p><span class="chinese">在它的顶头有四棵树。</span><span class="english">Four trees were to be seen at its extremity.</span></p>

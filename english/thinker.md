@@ -1,5 +1,7 @@
 # thinker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thinker.md)
+
 <p><span class="chinese">里德算不上什么深刻的思想者。</span><span class="english">Mr Reid is not a deep thinker.</span></p>
 
 <p><span class="chinese">你是孤独的看客，是智者。</span><span class="english">You're a solitary gazer , a thinker.</span></p>

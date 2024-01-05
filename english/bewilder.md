@@ -1,5 +1,7 @@
 # bewilder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bewilder.md)
+
 <p><span class="chinese">使迷惑或使吃惊。</span><span class="english">To bewilder or astonish.</span></p>
 
 <p><span class="chinese">很多问题使我感到困惑。</span><span class="english">So many questions bewilder me.</span></p>

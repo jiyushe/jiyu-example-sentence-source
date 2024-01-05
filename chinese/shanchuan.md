@@ -1,5 +1,7 @@
 # 山川
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanchuan.md)
+
 <p><span class="chinese">我俯视洋洲山川。</span><span class="english">I overlook oceans, mountains and rivers.</span></p>
 
 <p><span class="chinese">他发现了月球上的山川和峡谷。</span><span class="english">He found mountains and valleys on the moon.</span></p>

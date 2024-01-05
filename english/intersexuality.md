@@ -1,5 +1,7 @@
 # intersexuality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intersexuality.md)
+
 <p><span class="chinese">就自身来说，也是程度差异的问题。</span><span class="english">Intersexuality is a matter of degree.</span></p>
 
 <p><span class="chinese">中间性的问题就是一个很好的例证。</span><span class="english">The issue of intersexuality is a good example.</span></p>

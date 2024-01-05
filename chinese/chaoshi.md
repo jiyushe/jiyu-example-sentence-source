@@ -1,5 +1,7 @@
 # 超市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaoshi.md)
+
 <p><span class="chinese">她一路骑脚踏车去超市。</span><span class="english">He pedaled off on his bicycle.</span></p>
 
 <p><span class="chinese">你路过那个超市吗?。</span><span class="english">Do you go by that super-market?</span></p>

@@ -1,5 +1,7 @@
 # 茶余饭后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chayufanhou.md)
+
 <p><span class="chinese">这个笑话成了茶余饭后的谈资。</span><span class="english">The joke became dinner-party material.</span></p>
 
 <p><span class="chinese">但是每一桌都要12389元，这也成为了人们茶余饭后的谈资。</span><span class="english">But each table cost a staggering RMB 12, 389 and it was the talk of the town.</span></p>

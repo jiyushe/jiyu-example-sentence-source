@@ -1,5 +1,7 @@
 # 亲自
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinzi_1.md)
+
 <p><span class="chinese">他必须亲自干那事吗？</span><span class="english">Must he do it himself.</span></p>
 
 <p><span class="chinese">到华星来吧，亲自看看。</span><span class="english">Come Huaxing and see for.</span></p>

@@ -1,5 +1,7 @@
 # schema
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schema.md)
+
 <p><span class="chinese">创建一个星型模式。</span><span class="english">Create a star schema.</span></p>
 
 <p><span class="chinese">首先，选择要摄取的架构。</span><span class="english">First, select a schema to ingest.</span></p>

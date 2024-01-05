@@ -1,5 +1,7 @@
 # 拾遗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyi_3.md)
+
 <p><span class="chinese">东北产某些新植物资源——东北植物拾遗之一。</span><span class="english">Some plant resources new to N. -E. China.</span></p>
 
 <p><span class="chinese">尽情拾遗是很有趣，但还亟需整理。</span><span class="english">It is great fun to dip into but in dire need of organisation.</span></p>

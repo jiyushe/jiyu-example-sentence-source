@@ -1,5 +1,7 @@
 # coriaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coriaceous.md)
+
 <p><span class="chinese">红色的皮质脚垫，梳妆台是40年代的风格。</span><span class="english">Gules coriaceous foot is filled up, dresser is the style of 40 time.</span></p>
 
 <p><span class="chinese">人类全身上下，最强韧有力的肌肉，是舌头。</span><span class="english">All over the human body, the most coriaceous and forceful muscle is tongue.</span></p>

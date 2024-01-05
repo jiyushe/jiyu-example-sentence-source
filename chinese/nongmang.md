@@ -1,5 +1,7 @@
 # 农忙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongmang.md)
+
 <p><span class="chinese">农忙季节他们帮助干农活。</span><span class="english">During busy seasons they help with field work.</span></p>
 
 <p><span class="chinese">这一刻，宣告着农忙时期的结束。</span><span class="english">At this moment, to announce the end of busy periods.</span></p>

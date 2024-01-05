@@ -1,5 +1,7 @@
 # epiphyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epiphyte.md)
+
 <p><span class="chinese">一种液态药水，可以杀死真菌。</span><span class="english">It is a kind of liquid medicine , and can kill the epiphyte.</span></p>
 
 <p><span class="chinese">稻瘟病是由稻瘟病菌引起的水稻真菌性病害。</span><span class="english">Rice blast is a kind of epiphyte disease by Magnaporthe grisea.</span></p>

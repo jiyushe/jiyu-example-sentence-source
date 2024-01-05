@@ -1,5 +1,7 @@
 # bumper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bumper.md)
+
 <p><span class="chinese">请给我斟一满杯。</span><span class="english">Please fill me a bumper.</span></p>
 
 <p><span class="chinese">我喜欢去开碰碰车。</span><span class="english">I like to drive bumper cars.</span></p>

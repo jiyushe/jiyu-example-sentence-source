@@ -1,5 +1,7 @@
 # 盐土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yantu_2.md)
+
 <p><span class="chinese">对含盐土的渗透系数进行了室内试验研究。</span><span class="english">The permeability of saline soils is studied in laboratory.</span></p>
 
 <p><span class="chinese">有很多种类的盐土植物具有肥厚的茎叶，属于肉质植物。</span><span class="english">Many have a succulent growth form with swollen stems or leaves.</span></p>

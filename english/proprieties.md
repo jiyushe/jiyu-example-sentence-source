@@ -1,5 +1,7 @@
 # proprieties
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proprieties.md)
+
 <p><span class="chinese">我们应该遵守礼节。</span><span class="english">We should observe the proprieties.</span></p>
 
 <p><span class="chinese">注意遵守礼仪。</span><span class="english">Be careful to observe the proprieties.</span></p>

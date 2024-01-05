@@ -1,5 +1,7 @@
 # 隐形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxing_2.md)
+
 <p><span class="chinese">是我的隐形眼睛包！</span><span class="english">It's my contact bag!</span></p>
 
 <p><span class="chinese">这就好比他一丝不挂的坦露在我面前，而我却是隐形的。</span><span class="english">He was naked. I was not.</span></p>

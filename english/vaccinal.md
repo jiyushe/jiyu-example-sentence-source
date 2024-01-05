@@ -1,5 +1,7 @@
 # vaccinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaccinal.md)
+
 <p><span class="chinese">给宝宝打的疫苗进口的一定比国产的好吗？</span><span class="english">Is those who give darling hit vaccinal entrance certain than homebred?</span></p>
 
 <p><span class="chinese">现在接种的预防乙肝疫苗真的能防止病菌吗?。</span><span class="english">Can vaccine of vaccinal now precautionary second liver prevent a bacteria really?</span></p>

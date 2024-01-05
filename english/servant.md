@@ -1,5 +1,7 @@
 # servant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/servant.md)
+
 <p><span class="chinese">任何人都可以做为一个奉献者。</span><span class="english">Anyone can be a servant.</span></p>
 
 <p><span class="chinese">他是一个懒惰的仆人。</span><span class="english">He is a slothful servant.</span></p>

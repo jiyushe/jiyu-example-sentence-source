@@ -1,5 +1,7 @@
 # clone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clone.md)
+
 <p><span class="chinese">多利是头克隆羊。</span><span class="english">Dolly is a clone.</span></p>
 
 <p><span class="chinese">你的女儿并非你的复制品。</span><span class="english">Your daughter is not your clone.</span></p>

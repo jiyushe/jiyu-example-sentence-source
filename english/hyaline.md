@@ -1,5 +1,7 @@
 # hyaline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyaline.md)
+
 <p><span class="chinese">玻璃品掺合了嗜中性粒细胞。</span><span class="english">Hyaline casts were admixed with neutrophils.</span></p>
 
 <p><span class="chinese">幼年透明蛋白纤维瘤病。</span><span class="english">It was diagnosed as juvenile hyaline fibromatosis.</span></p>

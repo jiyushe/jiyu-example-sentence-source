@@ -1,5 +1,7 @@
 # ezra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ezra.md)
+
 <p><span class="chinese">埃兹拉是位令人难以招架的孩子。</span><span class="english">Ezra was a very difficult baby.</span></p>
 
 <p><span class="chinese">以斯拉称颂耶和华至大的神。</span><span class="english">And Ezra blessed the LORD, the great God.</span></p>

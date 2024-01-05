@@ -1,5 +1,7 @@
 # surveying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surveying.md)
+
 <p><span class="chinese">有时候需要回访你的老客户。</span><span class="english">Sometimes that will mean surveying old customers.</span></p>
 
 <p><span class="chinese">通过电话为市场研究进行统计调查。</span><span class="english">Qualitative surveying over the phone for market research.</span></p>

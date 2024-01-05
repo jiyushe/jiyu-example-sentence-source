@@ -1,5 +1,7 @@
 # alchemist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alchemist.md)
+
 <p><span class="chinese">欢迎动画，全金属炼金术士。</span><span class="english">Welcome to the anime, Full Metal Alchemist.</span></p>
 
 <p><span class="chinese">那么，你想做一个炼金术士，还是一个化学家呢？</span><span class="english">Would you rather be an alchemist or a chemist?</span></p>

@@ -1,5 +1,7 @@
 # anaesthesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaesthesia.md)
+
 <p><span class="chinese">这是什么？看起来好像是麻醉药。</span><span class="english">What is this?It looks like anaesthesia.</span></p>
 
 <p><span class="chinese">这项研究发表于英国麻醉学杂志。</span><span class="english">The study is in the British Journal of Anaesthesia.</span></p>

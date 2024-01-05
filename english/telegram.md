@@ -1,5 +1,7 @@
 # telegram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telegram.md)
+
 <p><span class="chinese">他摸了摸电报。</span><span class="english">He touched the telegram.</span></p>
 
 <p><span class="chinese">她们给咱们拍了电报。</span><span class="english">They send us a telegram.</span></p>

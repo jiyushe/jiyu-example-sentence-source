@@ -1,5 +1,7 @@
 # impulsive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impulsive.md)
+
 <p><span class="chinese">秋香，你太冲动了！</span><span class="english">Chou-heung, you are too impulsive.</span></p>
 
 <p><span class="chinese">彼得容易冲动，脾气暴躁</span><span class="english">Peter was impulsive and hot-tempered</span></p>

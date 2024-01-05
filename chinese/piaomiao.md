@@ -1,5 +1,7 @@
 # 缥缈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaomiao.md)
+
 <p><span class="chinese">玉楼缥缈孤烟际。</span><span class="english">Jade floor dimly discernible solitary smoke border.</span></p>
 
 <p><span class="chinese">乡村的炊烟凝结细雨中，如此缥缈。</span><span class="english">In the drizzling rain the village smoke congealed, concealed.</span></p>

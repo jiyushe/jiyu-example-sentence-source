@@ -1,5 +1,7 @@
 # exhume
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhume.md)
+
 <p><span class="chinese">他们得到充足的时间来开棺验尸。</span><span class="english">He wanted to get enough time to exhume the body.</span></p>
 
 <p><span class="chinese">他们得到充足的时间来开棺验尸。</span><span class="english">That should give us more than enough time to exhume the body.</span></p>

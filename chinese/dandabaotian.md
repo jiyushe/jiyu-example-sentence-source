@@ -1,5 +1,7 @@
 # 胆大包天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dandabaotian.md)
+
 <p><span class="chinese">这伙强盗胆大包天，竟把银行抢了。</span><span class="english">The bandits pulled off a daring bank robbery.</span></p>
 
 <p><span class="chinese">从来就没有胆大包天的英雄好汉。</span><span class="english">There never was a hero who did not have his bounds.</span></p>

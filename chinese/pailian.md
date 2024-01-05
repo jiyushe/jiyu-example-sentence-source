@@ -1,5 +1,7 @@
 # 排练
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pailian.md)
+
 <p><span class="chinese">不过我们还是没有排练过</span><span class="english">We did not do this.</span></p>
 
 <p><span class="chinese">我很好。我今天排练了。</span><span class="english">I'm fine. I rehearsed today.</span></p>

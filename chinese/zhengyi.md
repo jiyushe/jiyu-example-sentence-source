@@ -1,5 +1,7 @@
 # 争议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengyi.md)
+
 <p><span class="chinese">颇受争议的第18章规定**</span><span class="english">CHAPTER 18</span></p>
 
 <p><span class="chinese">另一种是争议。</span><span class="english">The other is disputes.</span></p>

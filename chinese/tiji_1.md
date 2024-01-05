@@ -1,5 +1,7 @@
 # 提及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiji_1.md)
+
 <p><span class="chinese">但是托马斯没有提及。</span><span class="english">But not with Mr Thomas.</span></p>
 
 <p><span class="chinese">而人们所提及的均值是指什么呢？</span><span class="english">But what do people mean by mean?</span></p>

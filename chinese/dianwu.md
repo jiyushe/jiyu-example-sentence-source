@@ -1,5 +1,7 @@
 # 玷污
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianwu.md)
+
 <p><span class="chinese">是罪恶玷污了我们。</span><span class="english">Sin is what defiles us.</span></p>
 
 <p><span class="chinese">他玷污了家族的荣誉。</span><span class="english">He stained the family honor.</span></p>

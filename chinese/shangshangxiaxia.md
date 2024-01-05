@@ -1,5 +1,7 @@
 # 上上下下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshangxiaxia.md)
+
 <p><span class="chinese">我上上下下打量了他一下。</span><span class="english">I looked at him up and down.</span></p>
 
 <p><span class="chinese">只是依然安静的看着上上下下的人。</span><span class="english">But still quiet at the rafter.</span></p>

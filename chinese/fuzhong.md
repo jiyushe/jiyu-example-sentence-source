@@ -1,5 +1,7 @@
 # 浮肿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzhong.md)
+
 <p><span class="chinese">天也容易造成眼部浮肿。</span><span class="english">Days are likely to cause eye puffiness.</span></p>
 
 <p><span class="chinese">眼泪从漏底的眼睛流到浮肿的鼻子。</span><span class="english">Maudlin from leaky eye to swollen nose.</span></p>

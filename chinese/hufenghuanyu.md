@@ -1,5 +1,7 @@
 # 呼风唤雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hufenghuanyu.md)
+
 <p><span class="chinese">你知道，我以前在这里呼风唤雨。</span><span class="english">You know, I used to walk tall around here.</span></p>
 
 <p><span class="chinese">朋友是风，朋友是雨，有了朋友可以呼风唤雨。</span><span class="english">Friend is the wind, rain, a friend's friend can influence.</span></p>

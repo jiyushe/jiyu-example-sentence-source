@@ -1,5 +1,7 @@
 # jean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jean.md)
+
 <p><span class="chinese">冉阿让张耳细听。</span><span class="english">Jean Valjean listened.</span></p>
 
 <p><span class="chinese">冉阿让脸色惨白。</span><span class="english">Jean Valjean turned pale.</span></p>

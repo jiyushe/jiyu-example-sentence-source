@@ -1,5 +1,7 @@
 # intertwine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intertwine.md)
+
 <p><span class="chinese">在马德里，轻松与欢快交织一片。</span><span class="english">In Madrid, relief and rejoicing intertwine</span></p>
 
 <p><span class="chinese">微距镜头——伴随着温和的交织起伏，两人的卷须缠结在一起。</span><span class="english">MACRO SHOT -- The tendrils INTERTWINE with gentle undulations.</span></p>

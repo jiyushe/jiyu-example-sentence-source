@@ -1,5 +1,7 @@
 # bronchopneumonia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronchopneumonia.md)
+
 <p><span class="chinese">这是支气管肺炎的另一病例。</span><span class="english">Here is another example of a bronchopneumonia.</span></p>
 
 <p><span class="chinese">这种类型的肺炎比支气管肺炎少多了。</span><span class="english">This pattern is much less common than the bronchopneumonia pattern.</span></p>

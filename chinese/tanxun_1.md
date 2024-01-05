@@ -1,5 +1,7 @@
 # 探询
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanxun_1.md)
+
 <p><span class="chinese">所以我们开始探询。</span><span class="english">So we begin to enquire.</span></p>
 
 <p><span class="chinese">不过在探询消息时一定要谨慎。</span><span class="english">But be discreet with your inquiries.</span></p>

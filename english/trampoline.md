@@ -1,5 +1,7 @@
 # trampoline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trampoline.md)
+
 <p><span class="chinese">一起玩蹦蹦床.</span><span class="english">Jump on a trampoline together.</span></p>
 
 <p><span class="chinese">摆上一个鞍马和蹦床。</span><span class="english">Get a vaulting horse and a trampoline.</span></p>

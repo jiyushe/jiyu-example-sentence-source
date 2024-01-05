@@ -1,5 +1,7 @@
 # 福音书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyinshu.md)
+
 <p><span class="chinese">上一周你们都知道了对观福音书问题。</span><span class="english">you learned about the synoptic problem last week.</span></p>
 
 <p><span class="chinese">总共有两卷福音书记载了这篇「主祷文」。</span><span class="english">The Lord's prayer is recorded twice in the gospels.</span></p>

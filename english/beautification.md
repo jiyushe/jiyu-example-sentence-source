@@ -1,5 +1,7 @@
 # beautification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beautification.md)
+
 <p><span class="chinese">海伦是城市美化委员会的成员之一。</span><span class="english">Helen is on the beautification committee of the city.</span></p>
 
 <p><span class="chinese">植牙美齿连锁运行模式。</span><span class="english">Chain Operating Model of Planting and Beautification Teeth.</span></p>

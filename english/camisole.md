@@ -1,5 +1,7 @@
 # camisole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camisole.md)
+
 <p><span class="chinese">一个小背心可能会非常棘手，如果有褶边。</span><span class="english">A camisole can be tricky if it has ruffles.</span></p>
 
 <p><span class="chinese">你可以用女装背心和舒服的长裤来搭配。</span><span class="english">Match the top with a camisole and comfy pants.</span></p>

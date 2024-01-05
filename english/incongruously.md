@@ -1,5 +1,7 @@
 # incongruously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incongruously.md)
+
 <p><span class="chinese">有些中国男人各个指头上都留着长指甲，但在小指头上留着别扭的长指甲则更是普遍。</span><span class="english">Some Chinese men keep all of their fingernails long, but the incongruously long pinky nail is rather more common.</span></p>
 
 <p><span class="chinese">最后一行与前面数行拙劣的诗句相比，显得鹤立鸡群，老师有一种似曾相识感。</span><span class="english">In this last line so incongruously good on the heels of its outrageous precursor the teacher sensed a familiar ring.</span></p>

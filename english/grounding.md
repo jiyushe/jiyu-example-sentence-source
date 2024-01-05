@@ -1,5 +1,7 @@
 # grounding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grounding.md)
+
 <p><span class="chinese">他的汉语底子厚。</span><span class="english">He has a good grounding in Chinese.</span></p>
 
 <p><span class="chinese">经常检查振捣器接地情况。</span><span class="english">Frequently check grounding of vibrator.</span></p>

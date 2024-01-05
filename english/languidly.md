@@ -1,5 +1,7 @@
 # languidly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/languidly.md)
+
 <p><span class="chinese">懒洋洋在这里是否应理解为道路曲折？</span><span class="english">A little path stretched languidly into the distance.</span></p>
 
 <p><span class="chinese">短笛若隐若现，小提琴浅吟低唱。</span><span class="english">The piccolo peeped the tune, the violins sang languidly.</span></p>

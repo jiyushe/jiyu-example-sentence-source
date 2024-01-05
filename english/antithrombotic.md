@@ -1,5 +1,7 @@
 # antithrombotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antithrombotic.md)
+
 <p><span class="chinese">许多人对没有抗血栓治疗。</span><span class="english">Many were on no antithrombotic therapy.</span></p>
 
 <p><span class="chinese">因此，临床医生应该更多的重视抗栓治疗。</span><span class="english">Antithrombotic therapy deserves more attention from physicians.</span></p>

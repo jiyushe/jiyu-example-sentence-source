@@ -1,5 +1,7 @@
 # lashkar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lashkar.md)
+
 <p><span class="chinese">利用如虔诚军这样的非常规部队也是方法之一。</span><span class="english">The use of irregular outfits like Lashkar is another.</span></p>
 
 <p><span class="chinese">哈吉·萨利·穆罕默德，一个拉什卡尔加店主，也同意警察在不断改进他们的工作。</span><span class="english">Haji Salih Mohammad, a Lashkar Gah shopkeeper, agreed that the police were improving.</span></p>

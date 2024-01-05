@@ -1,5 +1,7 @@
 # 自由主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyouzhuyi.md)
+
 <p><span class="chinese">对于我们自由主义者来说，这是糟糕的一天。</span><span class="english">It's a bad day for us liberals.</span></p>
 
 <p><span class="chinese">还有没自由主义者要加入。</span><span class="english">Other libertarians who will join.</span></p>

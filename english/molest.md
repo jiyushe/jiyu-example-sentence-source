@@ -1,5 +1,7 @@
 # molest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molest.md)
+
 <p><span class="chinese">黑暗权势不能把我骚扰。</span><span class="english">No powers of darkness me molest.</span></p>
 
 <p><span class="chinese">哪种人更可能骚扰儿童？</span><span class="english">Who's more likely to molest a child?</span></p>

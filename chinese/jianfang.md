@@ -1,5 +1,7 @@
 # 见方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianfang.md)
+
 <p><span class="chinese">去找张纸，画六个一寸见方的小格子，然后试着画出六个词来。</span><span class="english">Get a sheet of paper and draw six one-inch squares.</span></p>
 
 <p><span class="chinese">峰顶是一块仅仅6米见方的岩石。</span><span class="english">At its summit is a rock only about six meters across.</span></p>

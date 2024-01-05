@@ -1,5 +1,7 @@
 # 冬闲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongxian.md)
+
 <p><span class="chinese">冬闲，人们喜欢“猫冬”，意思是，像猫一样固守在家里不动。</span><span class="english">Winter fallow, it is like "Winter-cat", meaning Like a cat with Fixed stuck at home.</span></p>
 
 <p><span class="chinese">冬闲的日子，太阳暖暖地照着，古老的淮北乡村开始唱起大戏。</span><span class="english">During winter leisure, in warm sunshine, there will be drama shows in Huaibei rural areas.</span></p>

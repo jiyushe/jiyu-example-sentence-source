@@ -1,5 +1,7 @@
 # patten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patten.md)
+
 <p><span class="chinese">这块布上有红白相间的方格子。</span><span class="english">The cloth has a patten of red white square.</span></p>
 
 <p><span class="chinese">彭定康是管理香港的最后一任总督。</span><span class="english">Chris Patten is the last governor to administer HongKong.</span></p>

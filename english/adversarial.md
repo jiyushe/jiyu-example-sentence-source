@@ -1,5 +1,7 @@
 # adversarial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adversarial.md)
+
 <p><span class="chinese">你听说过咱们的对抗式诉讼模式吧？</span><span class="english">You’ve heard of our adversarial system of justice?</span></p>
 
 <p><span class="chinese">更多对手的评估报告在小布什担任总统之后允许的一项五角大楼研究中得出。</span><span class="english">The more adversarial assessment was backed up by a Pentagon study Mr.</span></p>

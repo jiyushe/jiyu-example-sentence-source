@@ -1,5 +1,7 @@
 # preface
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preface.md)
+
 <p><span class="chinese">序言已经改写。</span><span class="english">The preface has been reworded.</span></p>
 
 <p><span class="chinese">这篇序句，是以诗代序。</span><span class="english">This poem serves as a preface.</span></p>

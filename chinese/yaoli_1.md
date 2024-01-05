@@ -1,5 +1,7 @@
 # 药理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoli_1.md)
+
 <p><span class="chinese">柏树叶子有药理作用吗？</span><span class="english">Does cypress leaf have pharmacodynamics effect?</span></p>
 
 <p><span class="chinese">我不了解生物和药理方面的细节。</span><span class="english">I don't know the biological and medical details.</span></p>

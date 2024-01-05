@@ -1,5 +1,7 @@
 # dissimilarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissimilarity.md)
+
 <p><span class="chinese">这种不同是因为什么呢？</span><span class="english">This dissimilarity because of why?</span></p>
 
 <p><span class="chinese">你看那月亮和大苑有什么不同？</span><span class="english">You see that moon and big Yuan have what dissimilarity?</span></p>

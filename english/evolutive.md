@@ -1,5 +1,7 @@
 # evolutive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evolutive.md)
+
 <p><span class="chinese">五运六气学说有着坚实的天文学基础。</span><span class="english">The doctrine of"Five evolutive phases and six climatic factors"has a solid foundation of astronomy.</span></p>
 
 <p><span class="chinese">然后，重点阐述了城市地价空间结构的基本模型和演化规律。</span><span class="english">Secondly, this paper mainly expatiates basic models and evolutive rules of city land-value spatial structure.</span></p>

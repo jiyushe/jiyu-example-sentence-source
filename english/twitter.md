@@ -1,5 +1,7 @@
 # twitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twitter.md)
+
 <p><span class="chinese">我们就是这么推广推特的。</span><span class="english">We did this with Twitter.</span></p>
 
 <p><span class="chinese">为何大部分的Twitter用户要弃之不用呢？</span><span class="english">Why Most Twitter Users Give Up</span></p>

@@ -1,5 +1,7 @@
 # 势能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shineng.md)
+
 <p><span class="chinese">现在是势能。</span><span class="english">Now the potential energy.</span></p>
 
 <p><span class="chinese">那么势能呢？</span><span class="english">How about potential energy?</span></p>

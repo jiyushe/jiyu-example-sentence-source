@@ -1,5 +1,7 @@
 # backslide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backslide.md)
+
 <p><span class="chinese">很多人认为它会倒退。</span><span class="english">Many thought it would backslide.</span></p>
 
 <p><span class="chinese">规则改变但银行故态复萌**</span><span class="english">RULES CHANGE, BUT BANKS BACKSLIDE</span></p>

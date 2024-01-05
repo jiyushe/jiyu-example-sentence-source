@@ -1,5 +1,7 @@
 # butanol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butanol.md)
+
 <p><span class="chinese">同乙醇一样，丁醇也是一种乙醇。</span><span class="english">Like ethanol, butanol is an alcohol.</span></p>
 
 <p><span class="chinese">丁醇也比乙醇有很多优点。</span><span class="english">Butanol is also superior to ethanol in several ways.</span></p>

@@ -1,5 +1,7 @@
 # entanglement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entanglement.md)
+
 <p><span class="chinese">您以最终得到的是纠缠，而非真正的拷贝。</span><span class="english">You wind up with entanglement rather than a real copy.</span></p>
 
 <p><span class="chinese">所有的纠缠和羁绊、是毁灭还是救赎。</span><span class="english">All the entanglement and the fetter, is destroyed or redemption.</span></p>

@@ -1,5 +1,7 @@
 # navicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/navicular.md)
+
 <p><span class="chinese">舟骨骨折之后没有完全恢复。怎么办？</span><span class="english">Did not restore completely after navicular fracture. How to do?</span></p>
 
 <p><span class="chinese">左手舟骨腰部骨折3个月能否活动？</span><span class="english">Fracture of waist of left hand navicular 3 months whether activity?</span></p>

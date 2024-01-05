@@ -1,5 +1,7 @@
 # 教养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyang.md)
+
 <p><span class="chinese">教养赛过天性。</span><span class="english">Nurture passes nature.</span></p>
 
 <p><span class="chinese">她是一个很有教养的人，也是一名成功的生意人。</span><span class="english">She was a cultured person.</span></p>

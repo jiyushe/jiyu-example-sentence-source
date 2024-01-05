@@ -1,5 +1,7 @@
 # summertime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summertime.md)
+
 <p><span class="chinese">夏季营养食品是什么？</span><span class="english">What is summertime nutrition food?</span></p>
 
 <p><span class="chinese">季夏是蚊子肆虐的时候。</span><span class="english">Late summertime is mosquito season.</span></p>

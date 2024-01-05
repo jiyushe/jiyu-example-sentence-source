@@ -1,5 +1,7 @@
 # busker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busker.md)
+
 <p><span class="chinese">最常见的街头艺人是吉他演奏者。</span><span class="english">The most common kind of busker plays a guitar.</span></p>
 
 <p><span class="chinese">街头艺人是指在大街上演奏音乐或表演节目的人。很简单。</span><span class="english">A busker is someone who performs music or an act on the street.</span></p>

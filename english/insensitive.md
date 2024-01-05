@@ -1,5 +1,7 @@
 # insensitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insensitive.md)
+
 <p><span class="chinese">他对舆论反应不灵敏。</span><span class="english">He is insensitive to public opinion.</span></p>
 
 <p><span class="chinese">她常说风凉话。</span><span class="english">She often makes insensitive remarks.</span></p>

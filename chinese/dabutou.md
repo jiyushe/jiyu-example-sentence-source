@@ -1,5 +1,7 @@
 # 大部头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabutou.md)
+
 <p><span class="chinese">这三个大部头。</span><span class="english">Those are the big three.</span></p>
 
 <p><span class="chinese">要读的都是新闻史上留名的大部头。</span><span class="english">It was all tomes on the history of journalism.</span></p>

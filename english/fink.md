@@ -1,5 +1,7 @@
 # fink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fink.md)
+
 <p><span class="chinese">南西·芬克是咨询中心的副主任。</span><span class="english">Nancy Fink is the Assistant Director of POAC.</span></p>
 
 <p><span class="chinese">1984年，戴维·科赫和理查德·芬克创立了另一个组织，也就在此时，基布加入了他们。</span><span class="english">In 1984, David Koch and Richard Fink created yet another organization, and Kibbe joined them.</span></p>

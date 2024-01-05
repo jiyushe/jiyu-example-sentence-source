@@ -1,5 +1,7 @@
 # eightieth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eightieth.md)
+
 <p><span class="chinese">他已经达到了他的八十岁。</span><span class="english">He has now attained his eightieth year.</span></p>
 
 <p><span class="chinese">你都说了八十遍了。面对现实吧。</span><span class="english">You're in your eightieth. Please face the reality.</span></p>

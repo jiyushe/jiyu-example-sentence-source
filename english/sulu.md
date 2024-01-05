@@ -1,5 +1,7 @@
 # sulu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulu.md)
+
 <p><span class="chinese">山打根马来西亚一城市，位于北婆罗洲的山打根港，它是苏禄海的一个小水湾。</span><span class="english">A city of Malaysia in northern Borneo on Sandakan Harbor, an inlet of the Sulu Sea.</span></p>
 
 <p><span class="chinese">在电影中，无法知道苏鲁驾驶的那架直升飞机到底是偷来的还是租来的。</span><span class="english">As shown, it is unknown whether Sulu actually stole the helicopter or simply hired it.</span></p>

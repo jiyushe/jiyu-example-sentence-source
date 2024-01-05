@@ -1,5 +1,7 @@
 # hymn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hymn.md)
+
 <p><span class="chinese">她带头唱赞美诗。</span><span class="english">She deaconed off a hymn.</span></p>
 
 <p><span class="chinese">他正为你献上一首青铜之歌。</span><span class="english">Who offers you a brazen hymn.</span></p>

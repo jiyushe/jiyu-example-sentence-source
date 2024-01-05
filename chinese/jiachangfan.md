@@ -1,5 +1,7 @@
 # 家常饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiachangfan.md)
+
 <p><span class="chinese">这是家常饭！</span><span class="english">This is home cooking!</span></p>
 
 <p><span class="chinese">她为我们做了一顿家常饭。</span><span class="english">She cooked us a homely meal.</span></p>

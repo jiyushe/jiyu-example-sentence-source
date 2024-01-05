@@ -1,5 +1,7 @@
 # dma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dma.md)
+
 <p><span class="chinese">设计了一个通用的ISA总线DMA和中断请求电路。</span><span class="english">A general design method of request circuit on DMA and Interrup based on ISA.</span></p>
 
 <p><span class="chinese">最后，本文给出了DMA模式下绘图机联机调试的打印效果图。</span><span class="english">At last, the print picture of Spray-paint Graph Plotter is given in DMA mode in this paper.</span></p>

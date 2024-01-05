@@ -1,5 +1,7 @@
 # 搅乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoluan.md)
+
 <p><span class="chinese">她搅乱了他的安宁。</span><span class="english">She troubled his peace.</span></p>
 
 <p><span class="chinese">他或许会将头发梳齐，也可能将其搅乱。</span><span class="english">He'll smooth or mess up his hair.</span></p>

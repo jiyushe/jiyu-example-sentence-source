@@ -1,5 +1,7 @@
 # diabetes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diabetes.md)
+
 <p><span class="chinese">什么是糖尿病？</span><span class="english">What is diabetes?</span></p>
 
 <p><span class="chinese">心脏病和糖尿病。</span><span class="english">Heart disease and diabetes.</span></p>

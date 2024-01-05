@@ -1,5 +1,7 @@
 # 助学金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuxuejin.md)
+
 <p><span class="chinese">您为什么需要助学金？</span><span class="english">Why do you need the Bursary?</span></p>
 
 <p><span class="chinese">你就能得到一笔不用偿还的助学金。</span><span class="english">you get a grant that you don't have to repay.</span></p>

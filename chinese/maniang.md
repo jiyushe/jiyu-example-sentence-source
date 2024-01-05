@@ -1,5 +1,7 @@
 # 骂娘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maniang.md)
+
 <p><span class="chinese">当其中一个士兵开始骂娘时，她彻底被激怒了，掏出手枪，立马毙了他。</span><span class="english">Belle pulled out a pistol and shot the man down.</span></p>
 
 <p><span class="chinese">那场面，骂爹的，骂娘的，骂啥都有了。</span><span class="english">The scene, scolding father, fuck, what are called.</span></p>

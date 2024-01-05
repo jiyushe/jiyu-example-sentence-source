@@ -1,5 +1,7 @@
 # synovitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synovitis.md)
+
 <p><span class="chinese">发病早期常由于跖趾关节滑膜炎局部发生肿痛。</span><span class="english">Come on inchoate because synovitis of Zhi foot joint is local, often produce gall.</span></p>
 
 <p><span class="chinese">方法181例膝关节创伤性滑膜炎患者随机分为2组。</span><span class="english">Methods 181 patients with traumatic synovitis were randomly divided into 2 groups.</span></p>

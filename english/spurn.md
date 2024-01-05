@@ -1,5 +1,7 @@
 # spurn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spurn.md)
+
 <p><span class="chinese">自从童年时起卡尔就一直是一个被命运跑踢来踢去的球，饱经沧桑。</span><span class="english">Carl had been from his childhood a ball of fortune to spurn at.</span></p>
 
 <p><span class="chinese">我们应该蔑视困难，但绝不应轻视它们。</span><span class="english">We should spurn at the difficulties but not look down upon them.</span></p>

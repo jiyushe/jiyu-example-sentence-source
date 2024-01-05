@@ -1,5 +1,7 @@
 # unconditional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconditional.md)
+
 <p><span class="chinese">何谓无条件的接受？</span><span class="english">What is Unconditional Acceptance?</span></p>
 
 <p><span class="chinese">我用无条件的爱来拥抱大家。</span><span class="english">I embrace you in unconditional love.</span></p>

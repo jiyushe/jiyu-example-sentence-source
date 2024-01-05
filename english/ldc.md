@@ -1,5 +1,7 @@
 # ldc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ldc.md)
+
 <p><span class="chinese">采用液晶显示，现时内容丰富、直观。</span><span class="english">It adapts LDC show, rich real-time contents.</span></p>
 
 <p><span class="chinese">二零零一年五月一日，土地发展公司由市区重建局取代。</span><span class="english">The LDC was replaced by the Urban Renewal Authority on May 1, 2001.</span></p>

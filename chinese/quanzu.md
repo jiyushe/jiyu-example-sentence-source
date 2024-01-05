@@ -1,5 +1,7 @@
 # 劝阻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanzu.md)
+
 <p><span class="chinese">而卢孟并没有劝阻她。</span><span class="english">Lu did not dissuade her.</span></p>
 
 <p><span class="chinese">劝阻未婚生育。</span><span class="english">Discourage out-of-wedlock births.</span></p>

@@ -1,5 +1,7 @@
 # 无耻之徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuchizhitu.md)
+
 <p><span class="chinese">你真是个无耻之徒！</span><span class="english">You are such a shameless hustler!</span></p>
 
 <p><span class="chinese">无耻之徒总是会欺骗头脑单纯的人。</span><span class="english">The unscrupulous often deceive the innocent.</span></p>

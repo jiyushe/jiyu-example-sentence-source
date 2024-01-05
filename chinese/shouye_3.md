@@ -1,5 +1,7 @@
 # 授业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouye_3.md)
+
 <p><span class="chinese">师者，传道，授业，解惑也。</span><span class="english">Teacher, preach, teach, dispel doubt also.</span></p>
 
 <p><span class="chinese">教师语言是用来“传道、授业、解惑”并用来传情达意的。</span><span class="english">The teachers language is a kind of professional language.</span></p>

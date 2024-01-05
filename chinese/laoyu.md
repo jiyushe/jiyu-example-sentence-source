@@ -1,5 +1,7 @@
 # 牢狱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoyu.md)
+
 <p><span class="chinese">那么世界也是一所牢狱。</span><span class="english">ROSENCRANTZ Then is the world one.</span></p>
 
 <p><span class="chinese">她可能还会面临审判和牢狱之刑。</span><span class="english">She could still face a trial and prison time.</span></p>

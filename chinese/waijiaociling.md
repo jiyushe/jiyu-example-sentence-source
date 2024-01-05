@@ -1,5 +1,7 @@
 # 外交辞令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waijiaociling.md)
+
 <p><span class="chinese">李导游对此倒是一副外交辞令。</span><span class="english">Li was diplomatic.</span></p>
 
 <p><span class="chinese">这儿不用外交辞令，是真的很好听。</span><span class="english">No need for diplomacy, it really is very good.</span></p>

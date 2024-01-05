@@ -1,5 +1,7 @@
 # dalliance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dalliance.md)
+
 <p><span class="chinese">他总是调戏女孩子。</span><span class="english">He always dalliance the girls.</span></p>
 
 <p><span class="chinese">在约旦，这个是一个调情的手势。</span><span class="english">In Jordan, this is a shortcut to signal interest in a dalliance.</span></p>

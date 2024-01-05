@@ -1,5 +1,7 @@
 # anus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anus.md)
+
 <p><span class="chinese">他的双臂也不再痒了。</span><span class="english">So did the itching in his anus.</span></p>
 
 <p><span class="chinese">从事肛肠专科工作近二十年。</span><span class="english">Worked in anus & intestine Dept. over twenty years.</span></p>

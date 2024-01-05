@@ -1,5 +1,7 @@
 # 出门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chumen.md)
+
 <p><span class="chinese">我送丈夫出门。</span><span class="english">I see my husband off.</span></p>
 
 <p><span class="chinese">没有身分证千万别出门…</span><span class="english">Don't go out without ID.</span></p>

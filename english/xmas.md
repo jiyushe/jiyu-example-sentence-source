@@ -1,5 +1,7 @@
 # xmas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xmas.md)
+
 <p><span class="chinese">祝大伙儿节日快乐，新年吉祥！</span><span class="english">Merry Xmas & Happe New Year!</span></p>
 
 <p><span class="chinese">谨向我们所有的朋友敬祝圣诞快乐！</span><span class="english">A merry Xmas to all our friend!</span></p>

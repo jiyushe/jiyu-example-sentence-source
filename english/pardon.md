@@ -1,5 +1,7 @@
 # pardon  
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pardon.md)
+
 <p><span class="chinese">什么？</span><span class="english">Pardon?</span></p>
 
 <p><span class="chinese">请再说一遍</span><span class="english">Pardon me?</span></p>

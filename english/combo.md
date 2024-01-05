@@ -1,5 +1,7 @@
 # combo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combo.md)
+
 <p><span class="chinese">在街机模式下完成50连击。</span><span class="english">Got a combo of 50 in Arcade mode.</span></p>
 
 <p><span class="chinese">表演一分钟的特技组合。</span><span class="english">Perform a minute-long Stunt Combo.</span></p>

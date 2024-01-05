@@ -1,5 +1,7 @@
 # 门子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menzi.md)
+
 <p><span class="chinese">抱歉，这是那门子的赢局？</span><span class="english">I'm sorry, how is this a win?</span></p>
 
 <p><span class="chinese">门子的后面有一把扫帚。</span><span class="english">Behind the door there is a broom.</span></p>

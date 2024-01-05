@@ -1,5 +1,7 @@
 # 陈放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenfang.md)
+
 <p><span class="chinese">他们是在法国和美国橡木桶中陈放的。</span><span class="english">They are aged in French and American oak.</span></p>
 
 <p><span class="chinese">可即时饮用或陈放2年后饮用更显完美。</span><span class="english">Ready to drink or age to perfection in 2 years.</span></p>

@@ -1,5 +1,7 @@
 # faraway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faraway.md)
+
 <p><span class="chinese">如此靠近却又如此遥远。</span><span class="english">So close while so faraway.</span></p>
 
 <p><span class="chinese">她把它称为“遥远”。</span><span class="english">She called it “the faraway.</span></p>

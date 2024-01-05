@@ -1,5 +1,7 @@
 # sternum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sternum.md)
+
 <p><span class="chinese">胸骨小呈银杏叶片状，具低的龙骨突。</span><span class="english">Sternum small and ginkgo leaf-shaped with low keel.</span></p>
 
 <p><span class="chinese">吸气，双手从脚上松开。胸骨上提。</span><span class="english">Inhale, release your hands from your feet. Lift your sternum.</span></p>

@@ -1,5 +1,7 @@
 # giro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giro.md)
+
 <p><span class="chinese">通过网上银行直接转账汇款等！</span><span class="english">Through online bank giro remittance!</span></p>
 
 <p><span class="chinese">钱已由银行直接转帐入你的帐户。</span><span class="english">Money has been credited to your account by bank giro.</span></p>

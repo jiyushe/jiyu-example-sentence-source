@@ -1,5 +1,7 @@
 # westwards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/westwards.md)
+
 <p><span class="chinese">第一架班机向西飞回了家。</span><span class="english">The first of the airliners winged westwards and home.</span></p>
 
 <p><span class="chinese">他们现在已经沿着滨海公路向西推进。</span><span class="english">They've now advanced westwards along the coastal highway.</span></p>

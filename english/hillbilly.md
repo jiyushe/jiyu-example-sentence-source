@@ -1,5 +1,7 @@
 # hillbilly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hillbilly.md)
+
 <p><span class="chinese">你算是哪门子的乡巴佬嘛？</span><span class="english">what kind of hillbilly are you,really?</span></p>
 
 <p><span class="chinese">你还真是个乡巴佬。</span><span class="english">What kind of hillbilly are you, really?</span></p>

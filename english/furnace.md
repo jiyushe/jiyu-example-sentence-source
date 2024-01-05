@@ -1,5 +1,7 @@
 # furnace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furnace.md)
+
 <p><span class="chinese">反射炉启动了。</span><span class="english">The reflex furnace is online.</span></p>
 
 <p><span class="chinese">在什么熔炉中把你的大脑烧炼?。</span><span class="english">In what furnace was the brain?</span></p>

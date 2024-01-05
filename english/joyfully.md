@@ -1,5 +1,7 @@
 # joyfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joyfully.md)
+
 <p><span class="chinese">舒畅地穿梭在你的清波。</span><span class="english">Joyfully swimming in your clear waves.</span></p>
 
 <p><span class="chinese">百灵鸟儿在空中欢快啁啾哟。</span><span class="english">When the lark in the sky sings joyfully.</span></p>

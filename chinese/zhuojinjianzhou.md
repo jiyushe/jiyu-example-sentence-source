@@ -1,5 +1,7 @@
 # 捉襟见肘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuojinjianzhou.md)
+
 <p><span class="chinese">相较之下，卫生部的安德鲁·兰斯利可是捉襟见肘。</span><span class="english">In contrast, Andrew Lansley at Health is in serious trouble.</span></p>
 
 <p><span class="chinese">于是我们家成了一个单亲家庭，日子过得捉襟见肘。</span><span class="english">So we became a single parent family and money got really tight.</span></p>

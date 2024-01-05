@@ -1,5 +1,7 @@
 # 不伦不类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bulunbulei.md)
+
 <p><span class="chinese">在中文中，它还有“不伦不类”之意。</span><span class="english">In Chinese it also means “neither fish nor fowl”.</span></p>
 
 <p><span class="chinese">新建的汽车车库与房子不相称，有点不伦不类。</span><span class="english">The new garage made an awkward addition to the house.</span></p>

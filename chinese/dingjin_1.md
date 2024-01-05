@@ -1,5 +1,7 @@
 # 订金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingjin_1.md)
+
 <p><span class="chinese">请您预付点订金。</span><span class="english">Will you please pay a deposit?</span></p>
 
 <p><span class="chinese">您要采取什么形式付订金？</span><span class="english">How do you like to pay for your deposit?</span></p>

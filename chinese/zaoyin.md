@@ -1,5 +1,7 @@
 # 噪音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoyin.md)
+
 <p><span class="chinese">我们的一切只是噪音。</span><span class="english">All about us is noise.</span></p>
 
 <p><span class="chinese">你不该弄出噪音来！</span><span class="english">You mustn't make a noise!</span></p>

@@ -1,5 +1,7 @@
 # 本土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bentu.md)
+
 <p><span class="chinese">这同样影响美国的本土银行</span><span class="english">The same thing affected U.S. Banks as well.</span></p>
 
 <p><span class="chinese">这种源自美国的理论能在中国本土扎根吗？</span><span class="english">Can the US-born "Queer theory" be "Chinese"?</span></p>

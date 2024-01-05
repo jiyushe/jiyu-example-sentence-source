@@ -1,5 +1,7 @@
 # disquieting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disquieting.md)
+
 <p><span class="chinese">历史给出了一个令人忧虑的答案。</span><span class="english">History offers a disquieting answer.</span></p>
 
 <p><span class="chinese">但也存在某些令人忧虑的趋势。</span><span class="english">But there are some disquieting trends.</span></p>

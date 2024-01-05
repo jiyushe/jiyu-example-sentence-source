@@ -1,5 +1,7 @@
 # estimation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estimation.md)
+
 <p><span class="chinese">依我来评价，他应占首位。</span><span class="english">He comes first in my estimation.</span></p>
 
 <p><span class="chinese">公众对他的评价很高。</span><span class="english">He stands high in public estimation.</span></p>

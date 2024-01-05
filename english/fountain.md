@@ -1,5 +1,7 @@
 # fountain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fountain.md)
+
 <p><span class="chinese">喷水池在哪儿啊？</span><span class="english">Where is the fountain?</span></p>
 
 <p><span class="chinese">于是自来水笔诞生了。</span><span class="english">The fountain pen was born.</span></p>

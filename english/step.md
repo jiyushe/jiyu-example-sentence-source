@@ -1,5 +1,7 @@
 # step
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/step.md)
+
 <p><span class="chinese">下一步？</span><span class="english">Next step?</span></p>
 
 <p><span class="chinese">跨到这里。</span><span class="english">Step here.</span></p>

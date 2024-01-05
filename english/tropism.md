@@ -1,5 +1,7 @@
 # tropism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tropism.md)
+
 <p><span class="chinese">自觉是人实践-认识活动的取向。</span><span class="english">Consciousness is the tropism of practice-cognition.</span></p>
 
 <p><span class="chinese">本文最后提出了实施这一价值取向的原则要求。</span><span class="english">At last, I put forward the principle on implementing the value tropism.</span></p>

@@ -1,5 +1,7 @@
 # preganglionic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preganglionic.md)
+
 <p><span class="chinese">成为节前最让人关心的问题。</span><span class="english">Preganglionic become the most concern.</span></p>
 
 <p><span class="chinese">第一神经元在此序列被称为节前神经元。</span><span class="english">The first neuron in this sequence is called the preganglionic neuron.</span></p>

@@ -1,5 +1,7 @@
 # hyperglycemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperglycemia.md)
+
 <p><span class="chinese">可能发生血糖过高或糖尿。</span><span class="english">Hyperglycemia and glycosuria tend to occur.</span></p>
 
 <p><span class="chinese">甘精胰岛素不能治疗餐后高血糖。</span><span class="english">Insulin Glargine does not treat postprandial hyperglycemia.</span></p>

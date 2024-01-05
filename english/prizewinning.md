@@ -1,5 +1,7 @@
 # prizewinning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prizewinning.md)
+
 <p><span class="chinese">她的获奖小说是部卓越的读物。</span><span class="english">Her prizewinning novel is a good read.</span></p>
 
 <p><span class="chinese">她的获奖小说是部精彩的读物。</span><span class="english">Her prizewinning novel is a good read.</span></p>

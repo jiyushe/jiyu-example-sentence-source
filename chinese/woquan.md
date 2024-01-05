@@ -1,5 +1,7 @@
 # 握拳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woquan.md)
+
 <p><span class="chinese">好的，让我们一起握拳。</span><span class="english">Well, let's make a fist.</span></p>
 
 <p><span class="chinese">屏幕上的手便握拳。</span><span class="english">The hand on the screen closes.</span></p>

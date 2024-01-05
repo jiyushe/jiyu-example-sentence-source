@@ -1,5 +1,7 @@
 # housecleaning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housecleaning.md)
+
 <p><span class="chinese">我觉得我们应该进行一次大扫除。</span><span class="english">I feel we ought to have a housecleaning.</span></p>
 
 <p><span class="chinese">别担心，下午我的朋友会过来帮着打扫房间的。</span><span class="english">Don't worry. My friends will come help with the housecleaning.</span></p>

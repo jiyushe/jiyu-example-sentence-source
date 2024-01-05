@@ -1,5 +1,7 @@
 # 高级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoji_1.md)
+
 <p><span class="chinese">这个东西真高级.</span><span class="english">This is topnotch.</span></p>
 
 <p><span class="chinese">喜欢抽高级雪茄烟。</span><span class="english">Likes a good cigar.</span></p>

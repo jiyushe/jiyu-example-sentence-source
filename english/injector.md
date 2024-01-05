@@ -1,5 +1,7 @@
 # injector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/injector.md)
+
 <p><span class="chinese">喷油器修好后装入气缸盖。</span><span class="english">Fix the injector into the cylinder cover after repair.</span></p>
 
 <p><span class="chinese">本方法流路简单，使用手动进样阀。</span><span class="english">The flow system is simple and a manual injector is used.</span></p>

@@ -1,5 +1,7 @@
 # pungent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pungent.md)
+
 <p><span class="chinese">姜还是老的辣。</span><span class="english">Aged ginger is more pungent.</span></p>
 
 <p><span class="chinese">姜还是老的辣。</span><span class="english">Aged ginger is more pungent.</span></p>

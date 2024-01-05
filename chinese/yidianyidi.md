@@ -1,5 +1,7 @@
 # 一点一滴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidianyidi.md)
+
 <p><span class="chinese">一点一滴，滋润心田。</span><span class="english">Bit by bit, moisten heart.</span></p>
 
 <p><span class="chinese">儿童只能一点一滴地掌握它。</span><span class="english">A child assimilates it only gradually.</span></p>

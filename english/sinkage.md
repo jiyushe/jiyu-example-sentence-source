@@ -1,5 +1,7 @@
 # sinkage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinkage.md)
+
 <p><span class="chinese">在负压作用下的下沉过程中，其结构与地基产生了相互作用。</span><span class="english">During the course of sinkage under the negative pressure, the interaction occurs between the structure and the foundation.</span></p>
 
 <p><span class="chinese">结果表明，随着载荷倾角的增大，平板沉陷量增加，沙土承载能力降低。</span><span class="english">The results indicated that increase of load inclination causes increase of plate sinkage and a decrease of sand bearing capacity.</span></p>

@@ -1,5 +1,7 @@
 # vail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vail.md)
+
 <p><span class="chinese">天然食物中的聚糖大大多余游离单糖。</span><span class="english">glycant vail over free glycoses in natural foods.</span></p>
 
 <p><span class="chinese">周一欧文在范尔的斯蒂德曼霍金斯诊所接受了手术。</span><span class="english">Owen had the operation on Monday at the Steadman Hawkins Clinic in Vail.</span></p>

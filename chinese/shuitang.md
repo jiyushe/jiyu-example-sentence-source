@@ -1,5 +1,7 @@
 # 水塘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuitang.md)
+
 <p><span class="chinese">我愿你在雨后水塘里尽情欢跳。</span><span class="english">I hope you jump in rain puddles.</span></p>
 
 <p><span class="chinese">哦！好凉，水塘的水好凉啊！</span><span class="english">Oh! How cool, how cool the pool.</span></p>

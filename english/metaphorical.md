@@ -1,5 +1,7 @@
 # metaphorical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metaphorical.md)
+
 <p><span class="chinese">特纳用隐喻的词汇谈到它。</span><span class="english">Turner spoke of it in metaphorical terms.</span></p>
 
 <p><span class="chinese">这部作品沉溺于隐喻性的语言中。</span><span class="english">The write indulged in metaphorical language.</span></p>

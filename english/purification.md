@@ -1,5 +1,7 @@
 # purification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purification.md)
+
 <p><span class="chinese">手套箱及净化系统。</span><span class="english">Glove box system and purification system.</span></p>
 
 <p><span class="chinese">提纯挥发性弱的物质。</span><span class="english">So purification of less volatile components.</span></p>

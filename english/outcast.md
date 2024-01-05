@@ -1,5 +1,7 @@
 # outcast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outcast.md)
+
 <p><span class="chinese">他接纳被遗弃者。</span><span class="english">He embraced the outcast.</span></p>
 
 <p><span class="chinese">乔，过去你是个弃儿。</span><span class="english">Jon, you were Outcast once.</span></p>

@@ -1,5 +1,7 @@
 # 风机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengji.md)
+
 <p><span class="chinese">炉的排风机你开了吗？</span><span class="english">Did you turn the stove fan on?</span></p>
 
 <p><span class="chinese">现在，这里有了很多的风机。</span><span class="english">Now, the wind turbines are here.</span></p>

@@ -1,5 +1,7 @@
 # corral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corral.md)
+
 <p><span class="chinese">他们把矮种马赶进了畜栏。</span><span class="english">They drove the ponies into a corral.</span></p>
 
 <p><span class="chinese">把马关进围栏后，我们就吃中饭。</span><span class="english">After we corral the horses we'll have lunch.</span></p>

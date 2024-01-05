@@ -1,5 +1,7 @@
 # lilium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lilium.md)
+
 <p><span class="chinese">它的植物学上的名字是百合科百合属植物。</span><span class="english">The botanical name is lilium in the liliaceae family.</span></p>
 
 <p><span class="chinese">研究了百合上桃蚜种群数量季节变动动态。</span><span class="english">The population dynamic of Myzus Persicae on Lilium Speciosum was studied.</span></p>

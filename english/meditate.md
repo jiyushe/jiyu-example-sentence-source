@@ -1,5 +1,7 @@
 # meditate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meditate.md)
+
 <p><span class="chinese">沉思于此。</span><span class="english">Meditate on this.</span></p>
 
 <p><span class="chinese">沉思，然后松手。</span><span class="english">Meditate and let go.</span></p>

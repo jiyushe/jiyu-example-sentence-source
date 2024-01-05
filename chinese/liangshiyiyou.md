@@ -1,5 +1,7 @@
 # 良师益友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangshiyiyou.md)
+
 <p><span class="chinese">球童是球员击球的良师益友。</span><span class="english">Caddie is your "golfing friend".</span></p>
 
 <p><span class="chinese">拥有一位良师益友是职业进程的关键。</span><span class="english">Having a mentor is the crux to the vocationing process.</span></p>

@@ -1,5 +1,7 @@
 # daresay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daresay.md)
+
 <p><span class="chinese">这幅画和墙搭配得很好，但是我敢说我能旋开它。</span><span class="english">The frame's fixed to the wall, but I daresay I could unscrew it.</span></p>
 
 <p><span class="chinese">我敢说，她讲的种种事情中实际上确有不少是她自己创作出来的。</span><span class="english">In fact, for a good deal of what she said, I daresay she was the author.</span></p>

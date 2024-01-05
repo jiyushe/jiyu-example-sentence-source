@@ -1,5 +1,7 @@
 # venerable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venerable.md)
+
 <p><span class="chinese">他是一个德高望重的人。</span><span class="english">He is a venerable old man.</span></p>
 
 <p><span class="chinese">可以告诉我你的寿龄吗？</span><span class="english">May I have your venerable age?</span></p>

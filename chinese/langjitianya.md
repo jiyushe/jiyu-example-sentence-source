@@ -1,5 +1,7 @@
 # 浪迹天涯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langjitianya.md)
+
 <p><span class="chinese">我必须再一次浪迹天涯。</span><span class="english">I must wander again all over the world.</span></p>
 
 <p><span class="chinese">很长一段时间石涛都在过着浪迹天涯的生活。</span><span class="english">Shi led a wandering life for a long time.</span></p>

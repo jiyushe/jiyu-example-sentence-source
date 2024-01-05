@@ -1,5 +1,7 @@
 # contribution 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contribution.md)
+
 <p><span class="chinese">什么是你应当贡献的？</span><span class="english">What will be your contribution?</span></p>
 
 <p><span class="chinese">我也确实重视你的贡献。</span><span class="english">And I do value your contribution.</span></p>

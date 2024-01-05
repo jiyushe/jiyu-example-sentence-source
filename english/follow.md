@@ -1,5 +1,7 @@
 # follow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/follow.md)
+
 <p><span class="chinese">你明白我的意思吗?</span><span class="english">Do you follow me?</span></p>
 
 <p><span class="chinese">马克西！跟着我！</span><span class="english">Maxie! Follow me!</span></p>

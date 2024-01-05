@@ -1,5 +1,7 @@
 # submucous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submucous.md)
+
 <p><span class="chinese">结论治疗子宫黏膜下肌瘤，宫腔镜手术是最佳选择。</span><span class="english">Hysteroscopic operation is the best choice in treating submucous myoma.</span></p>
 
 <p><span class="chinese">粘膜下层有粗大的静脉网和动脉丛。</span><span class="english">In submucous layer, arterial plexus and coarse venous network were observed.</span></p>

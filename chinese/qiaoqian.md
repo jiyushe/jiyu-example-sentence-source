@@ -1,5 +1,7 @@
 # 乔迁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoqian.md)
+
 <p><span class="chinese">瑞吉儿家今晚正在举行乔迁庆宴。</span><span class="english">Rachel's having a housewarming tonight.</span></p>
 
 <p><span class="chinese">如果标准契合，配偶即乔迁而来。</span><span class="english">If they meet her standards, mating will follow.</span></p>

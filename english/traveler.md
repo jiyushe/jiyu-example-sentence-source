@@ -1,5 +1,7 @@
 # traveler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traveler.md)
+
 <p><span class="chinese">我是一个幸运的旅行者。</span><span class="english">I’m a lucky traveler.</span></p>
 
 <p><span class="chinese">萨布伦是一名真正的旅行家。</span><span class="english">Thubron is a true traveler.</span></p>

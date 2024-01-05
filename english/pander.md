@@ -1,5 +1,7 @@
 # pander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pander.md)
+
 <p><span class="chinese">就因为我提议减税，他说我是奴颜媚骨，讨好中产阶级选民。</span><span class="english">He called me a pander bear for proposing the tax cuts.</span></p>
 
 <p><span class="chinese">那儿的报纸迎合读者对犯罪和暴力的兴趣…词形变化。</span><span class="english">The newspapers there pander to people's interest in crime and violence.</span></p>

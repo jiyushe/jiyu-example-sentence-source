@@ -1,5 +1,7 @@
 # 仰角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangjiao.md)
+
 <p><span class="chinese">在拉好机头仰角的同时，我把油门退出军用推力开始减速。</span><span class="english">With the nose set, I come out of MIL power and slow down.</span></p>
 
 <p><span class="chinese">但须注意，不应用极度的俯角或仰角。</span><span class="english">But should note that no application of extreme bow Angle or elevation.</span></p>

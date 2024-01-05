@@ -1,5 +1,7 @@
 # 人影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renying.md)
+
 <p><span class="chinese">一个人影都看不见。</span><span class="english">Not a soul was to be seen.</span></p>
 
 <p><span class="chinese">一个人影都看不见。</span><span class="english">There wasn't a soul to be seen.</span></p>

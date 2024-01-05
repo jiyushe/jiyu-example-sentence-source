@@ -1,5 +1,7 @@
 # assertion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assertion.md)
+
 <p><span class="chinese">这种说法很可能是不真实的。</span><span class="english">This assertion is likely untrue.</span></p>
 
 <p><span class="chinese">可能是一个立场自由的主张。</span><span class="english">It might be a free standing assertion.</span></p>

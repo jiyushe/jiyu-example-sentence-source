@@ -1,5 +1,7 @@
 # vaginal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaginal.md)
+
 <p><span class="chinese">通常，子宫肌肉会及时紧绷。</span><span class="english">Often, the vaginal muscles tighten up again in time.</span></p>
 
 <p><span class="chinese">当你有音道探头的时候，谁又需要月球探测器呢?。</span><span class="english">Who needs a lunar probe when you can have a vaginal probe?</span></p>

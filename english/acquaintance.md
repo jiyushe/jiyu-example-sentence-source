@@ -1,5 +1,7 @@
 # acquaintance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquaintance.md)
+
 <p><span class="chinese">他是我的老相识。</span><span class="english">He is my old acquaintance.</span></p>
 
 <p><span class="chinese">他是我的老相识。</span><span class="english">He was my closest acquaintance.</span></p>

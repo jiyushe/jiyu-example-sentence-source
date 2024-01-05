@@ -1,5 +1,7 @@
 # watcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watcher.md)
+
 <p><span class="chinese">关闭这个文件监视器。</span><span class="english">Shuts down the file watcher.</span></p>
 
 <p><span class="chinese">我是烈火中的利剑，干柴旁的守卫。</span><span class="english">I am the watcher near the dry wood.</span></p>

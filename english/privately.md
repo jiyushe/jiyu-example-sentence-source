@@ -1,5 +1,7 @@
 # privately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/privately.md)
+
 <p><span class="chinese">然而这其中，只有82家是私营企业。</span><span class="english">But of these, just 82 are privately owned.</span></p>
 
 <p><span class="chinese">在欧洲有超过二百个主题公园，很多规模很小，由私人拥有。</span><span class="english">Many are small privately owned businesses.</span></p>

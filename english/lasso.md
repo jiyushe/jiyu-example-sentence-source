@@ -1,5 +1,7 @@
 # lasso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lasso.md)
+
 <p><span class="chinese">按选择套索工具。</span><span class="english">Pressto select the Lasso Tool.</span></p>
 
 <p><span class="chinese">好极了。你能套住一头牛吗？</span><span class="english">With your lasso you could stop an ox ?</span></p>

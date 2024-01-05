@@ -1,5 +1,7 @@
 # 犀利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xili_3.md)
+
 <p><span class="chinese">犀利是水王！</span><span class="english">Xili is water king , haha!</span></p>
 
 <p><span class="chinese">鲁宾是一个非常犀利的家伙。</span><span class="english">Rubin is a pretty sharp guy.</span></p>

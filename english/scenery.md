@@ -1,5 +1,7 @@
 # scenery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scenery.md)
+
 <p><span class="chinese">西溪风景好。</span><span class="english">Xixi's scenery is good.</span></p>
 
 <p><span class="chinese">她喜欢山景。</span><span class="english">She enjoys mountain scenery.</span></p>

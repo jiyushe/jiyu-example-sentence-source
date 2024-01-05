@@ -1,5 +1,7 @@
 # mycosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mycosis.md)
+
 <p><span class="chinese">目的探讨鼻部真菌病的诊断和治疗问题。</span><span class="english">Objective To improve the knowledge on diagnosis and treatment of nasal mycosis.</span></p>
 
 <p><span class="chinese">探讨霉菌性鼻窦炎的CT表现和价值。</span><span class="english">Objective To discuss the representation and value of CT examination of mycosis of sinus.</span></p>

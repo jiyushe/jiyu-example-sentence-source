@@ -1,5 +1,7 @@
 # fyi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fyi.md)
+
 <p><span class="chinese">让你知道一下报告是明天要交。</span><span class="english">The paper is due tomorrow fyi.</span></p>
 
 <p><span class="chinese">回楼上，最后两句好讽刺。</span><span class="english">The last two sentences are sarcasm FYI.</span></p>

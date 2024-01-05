@@ -1,5 +1,7 @@
 # freshly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freshly.md)
+
 <p><span class="chinese">它们都是现榨的吗?。</span><span class="english">Are they all freshly squeezed?</span></p>
 
 <p><span class="chinese">新煮的茶和咖啡。</span><span class="english">Freshly brewed tea and coffee.</span></p>

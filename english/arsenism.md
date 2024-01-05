@@ -1,5 +1,7 @@
 # arsenism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arsenism.md)
+
 <p><span class="chinese">结论慢性砷中毒能够导致肝线粒体细胞色素C氧化酶和ATP酶的活性下降。</span><span class="english">Conclusion The chronic arsenism could result in the activity decline of the mitochondria cytochrome C oxidase and ATPase.</span></p>
 
 <p><span class="chinese">目的查清应县地方性砷中毒病区的流行范围、分布特征和危害程度。</span><span class="english">Objective To investigate the epidemical range, the distribution features and the state of endemic arsenism in Ying County.</span></p>

@@ -1,5 +1,7 @@
 # 风化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenghua.md)
+
 <p><span class="chinese">风化壳和土壤。</span><span class="english">Regolith and soil.</span></p>
 
 <p><span class="chinese">那尊塑像风化得厉害。</span><span class="english">That stature has badly weathered.</span></p>

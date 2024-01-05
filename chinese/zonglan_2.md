@@ -1,5 +1,7 @@
 # 纵览
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonglan_2.md)
+
 <p><span class="chinese">他纵览了全部教令文献。</span><span class="english">He surveyed the whole of the decretalist literature.</span></p>
 
 <p><span class="chinese">到马鲁姆克时期为止的住宅建筑纵览。</span><span class="english">A brief survey of residential architecture up to the Mamluk period.</span></p>

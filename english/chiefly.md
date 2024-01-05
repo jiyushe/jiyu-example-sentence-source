@@ -1,5 +1,7 @@
 # chiefly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chiefly.md)
+
 <p><span class="chinese">羊主要以草为食。</span><span class="english">The sheep feed chiefly on grass.</span></p>
 
 <p><span class="chinese">这主要是因为他太没有耐心的缘故。</span><span class="english">It is chiefly because he is too impatient.</span></p>

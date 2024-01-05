@@ -1,5 +1,7 @@
 # 帮子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangzi.md)
+
 <p><span class="chinese">你认识那个戴眼镜的高个儿小帮子吗？</span><span class="english">Do you know the tall young man wearing eyeglasses?</span></p>
 
 <p><span class="chinese">就咱俩之间说说，那小帮子的头发实在是太长了。</span><span class="english">Between ourselves, that young man's hair is much too long.</span></p>

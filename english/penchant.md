@@ -1,5 +1,7 @@
 # penchant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penchant.md)
+
 <p><span class="chinese">大脑同样对对称别有嗜好。</span><span class="english">The brain also has a penchant for symmetry.</span></p>
 
 <p><span class="chinese">目前在国内免疫学界，他是一位颇有影响的海归派专家。</span><span class="english">In China immune circles, he is quite the penchant to send experts.</span></p>

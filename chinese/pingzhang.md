@@ -1,5 +1,7 @@
 # 凭仗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingzhang.md)
+
 <p><span class="chinese">他们凭仗着顽强不屈的精神克服了重重困难。</span><span class="english">They overcame all kinds of difficulties by dint of an indomitable spirit.</span></p>
 
 <p><span class="chinese">哈克正是凭仗这种敢想敢做的肉体和信心才过上了美妙的生活。</span><span class="english">Huck is precisely relies on this kind of dare to do spirit and faith to live a better life.</span></p>

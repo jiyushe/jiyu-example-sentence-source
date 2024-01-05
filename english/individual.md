@@ -1,5 +1,7 @@
 # individual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/individual.md)
+
 <p><span class="chinese">个人所有制。</span><span class="english">Individual ownership.</span></p>
 
 <p><span class="chinese">个人授权。</span><span class="english">An individual mandate.</span></p>

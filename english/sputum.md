@@ -1,5 +1,7 @@
 # sputum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sputum.md)
+
 <p><span class="chinese">对粘稠的痰液有分解作用。</span><span class="english">It can decompose the viscous sputum.</span></p>
 
 <p><span class="chinese">痰中含有蛔蚴及嗜酸性细胞。</span><span class="english">The sputum contains larvae and eosinophils.</span></p>

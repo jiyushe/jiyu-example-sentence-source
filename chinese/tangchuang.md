@@ -1,5 +1,7 @@
 # 镗床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangchuang.md)
+
 <p><span class="chinese">另外还有车床镗床刨床等设备。</span><span class="english">Another boring machine planer lathes and other equipment.</span></p>
 
 <p><span class="chinese">加工时是用镗床镗孔。</span><span class="english">While processing is to use the boring machine boring bore.</span></p>

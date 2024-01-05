@@ -1,5 +1,7 @@
 # subspecialty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subspecialty.md)
+
 <p><span class="chinese">中华医学会儿科学分会心血管学组。</span><span class="english">The Subspecialty Group of Cardiology, Society of Pediatrics, Chinese Medical Association.</span></p>
 
 <p><span class="chinese">中华医学会儿科学分会肾脏病学组。</span><span class="english">The Subspecialty Group of Nephrology, Society of Pediatrics, Chinese Medical Association.</span></p>

@@ -1,5 +1,7 @@
 # 印纹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinwen_1.md)
+
 <p><span class="chinese">它并增强非印纹部份的亲水性。</span><span class="english">It also increases the hydrophilic property of the non-image areas.</span></p>
 
 <p><span class="chinese">印刷时，油墨没有转移纸上，印纹露出白点的情况。</span><span class="english">Minute white spots appear in images caused by lack of ink transfer.</span></p>

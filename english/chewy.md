@@ -1,5 +1,7 @@
 # chewy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chewy.md)
+
 <p><span class="chinese">易咀嚼的和有嚼劲的。</span><span class="english">crunchy and chewy.</span></p>
 
 <p><span class="chinese">你还真看来又软又有嚼劲。</span><span class="english">You do look soft and chewy.</span></p>

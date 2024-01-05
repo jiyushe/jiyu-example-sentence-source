@@ -1,5 +1,7 @@
 # 它们
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tamen_2.md)
+
 <p><span class="chinese">它们是计程车。</span><span class="english">It is taxi.</span></p>
 
 <p><span class="chinese">它们用的是声呐。</span><span class="english">It is sonar.</span></p>

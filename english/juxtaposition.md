@@ -1,5 +1,7 @@
 # juxtaposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juxtaposition.md)
+
 <p><span class="chinese">这样微妙的并列是不可避免的。</span><span class="english">The not-so-subtle juxtaposition is inescapable.</span></p>
 
 <p><span class="chinese">我记得当我第一次注意到这奇怪的排列组合时是如何震惊。</span><span class="english">I recall how this juxtaposition jarred when I first noticed it.</span></p>

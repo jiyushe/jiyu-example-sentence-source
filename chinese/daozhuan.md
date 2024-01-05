@@ -1,5 +1,7 @@
 # 倒转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daozhuan.md)
+
 <p><span class="chinese">可是我不能让时光倒转。</span><span class="english">But, I can't turn back time.</span></p>
 
 <p><span class="chinese">现实中存在着古怪的角色倒转。</span><span class="english">There is a curious role reversal.</span></p>

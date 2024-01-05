@@ -1,5 +1,7 @@
 # trier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trier.md)
+
 <p><span class="chinese">冯·提尔被禁止参加电影节。</span><span class="english">Von Trier was banned from the festival.</span></p>
 
 <p><span class="chinese">卡尔·马克思于1818年5月5日出生在德国特里尔城。</span><span class="english">Karl Marx was born in Trier , Germany in May 5, 1818.</span></p>

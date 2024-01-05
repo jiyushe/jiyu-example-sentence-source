@@ -1,5 +1,7 @@
 # congolese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congolese.md)
+
 <p><span class="chinese">三名护林员和五名刚果士兵阵亡。</span><span class="english">Three rangers and five Congolese soldiers were killed.</span></p>
 
 <p><span class="chinese">在他倦意蜷蜷的伦巴歌声中，刚果夫妇们从来没有停止过舞步。</span><span class="english">Congolese couples had never stopped dancing to his languorous rumbas.</span></p>

@@ -1,5 +1,7 @@
 # thud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thud.md)
+
 <p><span class="chinese">碗橱门砰然响了一声。</span><span class="english">Cupboard doors thud.</span></p>
 
 <p><span class="chinese">他砰的一声把它墩在桌子上。</span><span class="english">He put it on the table with a thud.</span></p>

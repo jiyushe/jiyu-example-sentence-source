@@ -1,5 +1,7 @@
 # coach 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coach.md)
+
 <p><span class="chinese">找一个教练。</span><span class="english">Get a coach.</span></p>
 
 <p><span class="chinese">雇个教练。</span><span class="english">Find a coach.</span></p>

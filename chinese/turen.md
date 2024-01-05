@@ -1,5 +1,7 @@
 # 土人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/turen.md)
+
 <p><span class="chinese">他们企图教化土人。</span><span class="english">They tried to civilize the natives.</span></p>
 
 <p><span class="chinese">这帮土人对跳舞可入迷了。</span><span class="english">The natives were crazy about dancing.</span></p>

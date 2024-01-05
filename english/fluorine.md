@@ -1,5 +1,7 @@
 # fluorine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluorine.md)
+
 <p><span class="chinese">这就是氧和氟。</span><span class="english">Here is oxygen and fluorine.</span></p>
 
 <p><span class="chinese">氟原子极化率低。</span><span class="english">The polarizability of fluorine atom is low.</span></p>

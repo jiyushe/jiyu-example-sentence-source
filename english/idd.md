@@ -1,5 +1,7 @@
 # idd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idd.md)
+
 <p><span class="chinese">你可以教我打国际直拨电话吗?。</span><span class="english">Can you tell me how to use IDD?</span></p>
 
 <p><span class="chinese">这是您的长途电话费。</span><span class="english">This is the charge for your IDD calls.</span></p>

@@ -1,5 +1,7 @@
 # nucellar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucellar.md)
+
 <p><span class="chinese">属薄珠心，胚囊形成时珠心细胞全部消失。</span><span class="english">All nucellar cells disappear, when an embryo sac is ripe.</span></p>
 
 <p><span class="chinese">认为由花粉管的流出物能使珠心细胞活化。</span><span class="english">Activation of nucellar cells by discharge from the pollen tubes has been claimed.</span></p>

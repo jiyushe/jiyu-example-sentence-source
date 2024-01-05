@@ -1,5 +1,7 @@
 # phillip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phillip.md)
+
 <p><span class="chinese">我的姓名是菲利浦·亚莫尔。</span><span class="english">My name is Phillip D. Armour.</span></p>
 
 <p><span class="chinese">菲利普亲王先上的头条。</span><span class="english">Prince Phillip got there first.</span></p>

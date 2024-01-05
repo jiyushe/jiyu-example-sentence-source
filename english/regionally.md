@@ -1,5 +1,7 @@
 # regionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regionally.md)
+
 <p><span class="chinese">划区医疗、就近就便的保障是确保改革成功的关键。</span><span class="english">Treat regionally and expediently is the guarantee key that reform succeeds.</span></p>
 
 <p><span class="chinese">灌输安宁与过度温泉水区域的启发治疗。</span><span class="english">Instil tranquility with regionally inspired treatments in an over-water spa.</span></p>

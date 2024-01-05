@@ -1,5 +1,7 @@
 # 张榜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangbang.md)
+
 <p><span class="chinese">关于张榜单也同样存在着一场竞赛。</span><span class="english">This list also includes a competition.</span></p>
 
 <p><span class="chinese">队员名单将于今天张榜公布。</span><span class="english">The names of the members of the team will be posted up today.</span></p>

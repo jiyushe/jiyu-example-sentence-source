@@ -1,5 +1,7 @@
 # bbc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bbc.md)
+
 <p><span class="chinese">她是英国广播公司的播音员。</span><span class="english">She announces for BBC.</span></p>
 
 <p><span class="chinese">BBC拒绝置评。</span><span class="english">The BBC declined to -comment.</span></p>

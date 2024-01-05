@@ -1,5 +1,7 @@
 # vincristine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vincristine.md)
+
 <p><span class="chinese">例如硫酸长春新碱、酒石酸长春瑞宪，NHDC。</span><span class="english">Such as Vincristine Sulfate, Vinorelbine Bitartrate, NHDC and Hesperidin Methyl Chalcone.</span></p>
 
 <p><span class="chinese">他们发现这种协同作用也发生在脂质体和长春新碱或紫杉醇。</span><span class="english">They also found that this synergy occurred with trastuzumab and either paclitaxel or vincristine.</span></p>

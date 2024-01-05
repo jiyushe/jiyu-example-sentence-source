@@ -1,5 +1,7 @@
 # capacitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capacitor.md)
+
 <p><span class="chinese">电容器是不同的。</span><span class="english">A capacitor is different.</span></p>
 
 <p><span class="chinese">因为里面有一个电容器。</span><span class="english">There is a capacitor in there.</span></p>

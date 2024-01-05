@@ -1,5 +1,7 @@
 # comminution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comminution.md)
+
 <p><span class="chinese">无需植骨，即使是在骨折粉碎部位。</span><span class="english">No bone graft was needed, even with comminution at the fracture site.</span></p>
 
 <p><span class="chinese">初步考察了影响米糠超微细化工艺的因素。</span><span class="english">Studying primarily conditions for super-fine comminution of rice bran.</span></p>

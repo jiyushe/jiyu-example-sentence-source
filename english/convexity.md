@@ -1,5 +1,7 @@
 # convexity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convexity.md)
+
 <p><span class="chinese">凸性可以通过正性来解决。</span><span class="english">Convexity can be solved by positivity.</span></p>
 
 <p><span class="chinese">用集合的近似凸性研究函数的拟凸性。</span><span class="english">Quasiconvex functions are studied by applying nearly convexity of sets.</span></p>

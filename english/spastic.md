@@ -1,5 +1,7 @@
 # spastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spastic.md)
+
 <p><span class="chinese">她患有肠痉挛的疾病。</span><span class="english">She suffered from spastic colitis.</span></p>
 
 <p><span class="chinese">痉挛性瘫痪是一种脑性瘫痪形式。</span><span class="english">Spastic paralysis is a spastic form of cerebral palsy.</span></p>

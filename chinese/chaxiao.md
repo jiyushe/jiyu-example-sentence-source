@@ -1,5 +1,7 @@
 # 插销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaxiao.md)
+
 <p><span class="chinese">插销是一种扣拴。</span><span class="english">A bolt is a fastening.</span></p>
 
 <p><span class="chinese">他悄悄地把插销插上。</span><span class="english">He eased  the bolt in.</span></p>

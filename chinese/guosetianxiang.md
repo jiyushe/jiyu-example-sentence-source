@@ -1,5 +1,7 @@
 # 国色天香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guosetianxiang.md)
+
 <p><span class="chinese">而最为人津津乐道的就是他拥有八位国色天香的娇妻。</span><span class="english">He was envied by many men, cause he had eight wives.</span></p>
 
 <p><span class="chinese">古老的寺院内何来这般国色天香？</span><span class="english">How come there exists such beauty in the ancient temple?</span></p>

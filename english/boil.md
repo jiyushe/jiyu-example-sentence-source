@@ -1,5 +1,7 @@
 # boil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boil.md)
+
 <p><span class="chinese">我烧开水。</span><span class="english">I boil some water.</span></p>
 
 <p><span class="chinese">那个疮出脓头了。</span><span class="english">The boil gatherd head.</span></p>

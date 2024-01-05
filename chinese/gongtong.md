@@ -1,5 +1,7 @@
 # 共同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongtong.md)
+
 <p><span class="chinese">我们共同建设的。</span><span class="english">We built it together.</span></p>
 
 <p><span class="chinese">和慈善机构共同拥有？</span><span class="english">Co-own with a charity?</span></p>

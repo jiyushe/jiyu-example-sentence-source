@@ -1,5 +1,7 @@
 # butt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butt.md)
+
 <p><span class="chinese">抱歉，打岔一下。</span><span class="english">Sorry to butt in.</span></p>
 
 <p><span class="chinese">幸福就是能让屁股暖和。</span><span class="english">Hapiness is a warm butt.</span></p>

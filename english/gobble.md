@@ -1,5 +1,7 @@
 # gobble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gobble.md)
+
 <p><span class="chinese">吞吃粽叶包饭的他们吓得要死。</span><span class="english">They who gobble their rice off a leaf</span></p>
 
 <p><span class="chinese">当他看着我们大快朵颐时都冒汗了。</span><span class="english">He sweated as he watched us gobble down the food.</span></p>

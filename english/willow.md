@@ -1,5 +1,7 @@
 # willow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willow.md)
+
 <p><span class="chinese">我是一朵柳絮。</span><span class="english">I'm a willow catkin.</span></p>
 
 <p><span class="chinese">那是一棵柳树。</span><span class="english">It is a willow tree.</span></p>

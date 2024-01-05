@@ -1,5 +1,7 @@
 # wizard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wizard.md)
+
 <p><span class="chinese">嘶，红袍法师会的！</span><span class="english">Hss, Red Wizard would!</span></p>
 
 <p><span class="chinese">每个巫师都能感觉到它。</span><span class="english">Every Wizard can feel it.</span></p>

@@ -1,5 +1,7 @@
 # narcotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narcotic.md)
+
 <p><span class="chinese">权力就是华盛顿特别的毒品。</span><span class="english">Washington’s narcotic of choice is power.</span></p>
 
 <p><span class="chinese">麻醉性镇痛药和酒中毒。</span><span class="english">Narcotic analgesics and alcohol poisoning.</span></p>

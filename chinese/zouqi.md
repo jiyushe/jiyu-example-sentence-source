@@ -1,5 +1,7 @@
 # 走起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouqi.md)
+
 <p><span class="chinese">她走起路来一扭一摆的。</span><span class="english">She walks with a wiggle.</span></p>
 
 <p><span class="chinese">他走起路来就好像他是国王。</span><span class="english">He walks as if he were a king.</span></p>

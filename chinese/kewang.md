@@ -1,5 +1,7 @@
 # 可望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kewang.md)
+
 <p><span class="chinese">白云在青天，可望不可即。</span><span class="english">White clouds in the sky, is the.</span></p>
 
 <p><span class="chinese">今秋可望丰收。</span><span class="english">We expect a good harvest this autumn.</span></p>

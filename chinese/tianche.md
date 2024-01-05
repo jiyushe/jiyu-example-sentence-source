@@ -1,5 +1,7 @@
 # 天车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianche.md)
+
 <p><span class="chinese">修理天车的栏杆。</span><span class="english">Repair the handrails on the crown.</span></p>
 
 <p><span class="chinese">每月对天车防碰装置进行功能试验。</span><span class="english">Function test the anti-freefall brake on monthly basis.</span></p>

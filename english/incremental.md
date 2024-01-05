@@ -1,5 +1,7 @@
 # incremental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incremental.md)
+
 <p><span class="chinese">现在可以进行增量式的更新。</span><span class="english">An incremental update is now possible.</span></p>
 
 <p><span class="chinese">此外，它还支持增量式的文件更新。</span><span class="english">It also supports incremental file updates.</span></p>

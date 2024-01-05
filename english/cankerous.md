@@ -1,5 +1,7 @@
 # cankerous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cankerous.md)
+
 <p><span class="chinese">溃疡性结肠炎的治疗方法?。</span><span class="english">The remedial method of cankerous sex colonitis?</span></p>
 
 <p><span class="chinese">溃疡性结肠炎到底看的好伐？！</span><span class="english">The good attack that cankerous sex colonitis treats after all? !</span></p>

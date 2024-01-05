@@ -1,5 +1,7 @@
 # prolactin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prolactin.md)
+
 <p><span class="chinese">催乳素产生高潮后的满足感。</span><span class="english">Prolactin produces a sense of satiety after orgasm.</span></p>
 
 <p><span class="chinese">贝拉尔认为，一个更为有趣的研究课题是泌乳刺激素。</span><span class="english">Beral thinks a more interesting candidate for study is prolactin.</span></p>

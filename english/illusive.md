@@ -1,5 +1,7 @@
 # illusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illusive.md)
+
 <p><span class="chinese">他便在幻影论坛上发出了招募黑客的帖子。</span><span class="english">He issued the card of recruit hacker on illusive forum.</span></p>
 
 <p><span class="chinese">否则我们一直在这梦幻的世界里追逐泡影。</span><span class="english">Otherwise, we are "Chasing the Wind" in this illusive world.</span></p>

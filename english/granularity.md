@@ -1,5 +1,7 @@
 # granularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granularity.md)
+
 <p><span class="chinese">服务应具有精心选择的粒度</span><span class="english">Services have well-chosen granularity</span></p>
 
 <p><span class="chinese">寻找出模式设计的合适粒度。</span><span class="english">Find the right granularity for pattern design.</span></p>

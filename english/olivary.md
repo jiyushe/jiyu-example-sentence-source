@@ -1,5 +1,7 @@
 # olivary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olivary.md)
+
 <p><span class="chinese">果近球形，分裂为数个平凸状。长卵形的分果爿。</span><span class="english">Fruit is close globose, disrupt number smooth gibbous, long olivary divides fruit Pan.</span></p>
 
 <p><span class="chinese">副橄榄核中的标记终枝，在数量上腰髓注射例多于颈髓注射例。</span><span class="english">In the accessory olivary nuclei labeled terminal branches were more numerous in lumbar injection cases.</span></p>

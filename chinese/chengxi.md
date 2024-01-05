@@ -1,5 +1,7 @@
 # 承袭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengxi.md)
+
 <p><span class="chinese">承袭的传统可以改变。</span><span class="english">The legacy can change.</span></p>
 
 <p><span class="chinese">休谟在很多方面都承袭于霍布斯。</span><span class="english">Hume in many ways follows Hobbes.</span></p>

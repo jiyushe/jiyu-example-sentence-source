@@ -1,5 +1,7 @@
 # entrench
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entrench.md)
+
 <p><span class="chinese">延长基尼亚将军的任期将确立他的地位。</span><span class="english">Extending the general’s term will entrench his position.</span></p>
 
 <p><span class="chinese">法西斯主义如果不消灭工人组织就不能牢固地掌握政权。</span><span class="english">Fascism cannot entrench itself in power without annihilating the workers' organizations.</span></p>

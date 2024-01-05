@@ -1,5 +1,7 @@
 # 壁龛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bikan.md)
+
 <p><span class="chinese">西壁龛外北侧文殊变。</span><span class="english">North side of west wall.</span></p>
 
 <p><span class="chinese">那每一个壁龛里。</span><span class="english">In every niche in the wall.</span></p>

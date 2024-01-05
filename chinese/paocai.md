@@ -1,5 +1,7 @@
 # 泡菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paocai.md)
+
 <p><span class="chinese">然后是洋葱和泡菜。</span><span class="english">Then onion and pickles.</span></p>
 
 <p><span class="chinese">吃从罐里捞出的泡菜。</span><span class="english">Eat pickles out of the jar.</span></p>

@@ -1,5 +1,7 @@
 # tunisia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tunisia.md)
+
 <p><span class="chinese">突尼斯害怕邻近的利比亚。</span><span class="english">Tunisia is afraid of neighboring Libya.</span></p>
 
 <p><span class="chinese">2006年，多萝茜在突尼斯度假时认识了拉法。</span><span class="english">She met him on a holiday in Tunisia in 2006.</span></p>

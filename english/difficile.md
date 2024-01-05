@@ -1,5 +1,7 @@
 # difficile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/difficile.md)
+
 <p><span class="chinese">难辨梭状芽孢杆菌是一种革兰阳性肠道病原体。</span><span class="english">Clostridium difficile is a gram-positive enteric pathogen.</span></p>
 
 <p><span class="chinese">他们希望利用他们的研究结果来制定治疗艰难梭菌的方案。</span><span class="english">They hope to use their findings to develop a treatment for C. difficile.</span></p>

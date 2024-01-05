@@ -1,5 +1,7 @@
 # hubbard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hubbard.md)
+
 <p><span class="chinese">哈伯德把这一等级叫做烈焰之墙。</span><span class="english">Hubbard called this level the Wall of Fire.</span></p>
 
 <p><span class="chinese">哈伯德和贝蒂在洛杉矶分手了。</span><span class="english">Hubbard and Northrup ended up in Los Angeles.</span></p>

@@ -1,5 +1,7 @@
 # aspartate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspartate.md)
+
 <p><span class="chinese">该法快速、简便，结果准确，适用于该制剂质量控制。</span><span class="english">It is suitable for the quality control of the solution of aspartate malate electrolyte.</span></p>
 
 <p><span class="chinese">另设一对照组，其饲粮中不添加天冬氨酸镁和氯化钙。</span><span class="english">Another group with neither magnesium aspartate nor calcium calcium supplementation was used as control.</span></p>

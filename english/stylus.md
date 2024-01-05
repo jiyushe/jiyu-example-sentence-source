@@ -1,5 +1,7 @@
 # stylus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stylus.md)
+
 <p><span class="chinese">它还配有触控笔。</span><span class="english">It also has a stylus.</span></p>
 
 <p><span class="chinese">唱针正循着唱片纹路移动。</span><span class="english">The stylus is traveling in a groove.</span></p>

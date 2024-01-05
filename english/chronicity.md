@@ -1,5 +1,7 @@
 # chronicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chronicity.md)
+
 <p><span class="chinese">并对滑脱的严重性和慢性化程度进行了分级。</span><span class="english">The severity and the chronicity of the slips were graded.</span></p>
 
 <p><span class="chinese">她们每天中午都抽一根，难道她们不知道她们正在慢性自杀中吗?。</span><span class="english">They noon all pull out everyday, don't they know in their chronicity suicide?</span></p>

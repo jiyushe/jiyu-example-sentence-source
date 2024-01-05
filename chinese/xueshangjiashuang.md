@@ -1,5 +1,7 @@
 # 雪上加霜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueshangjiashuang.md)
+
 <p><span class="chinese">我们目前的浴缸更是雪上加霜。</span><span class="english">Our current bathtubs are even worse. Kira said</span></p>
 
 <p><span class="chinese">结交快乐的朋友。整日愁眉不展只能让你雪上加霜。</span><span class="english">Keep only cheerful friends. The grouches pull you down.</span></p>

@@ -1,5 +1,7 @@
 # adopter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adopter.md)
+
 <p><span class="chinese">收养人只能收养一名子女。</span><span class="english">The adopter may only adopt one child.</span></p>
 
 <p><span class="chinese">收养人只能收养一名子女。</span><span class="english">The adopter may adopt one child only, male or female.</span></p>

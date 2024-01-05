@@ -1,5 +1,7 @@
 # relenting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relenting.md)
+
 <p><span class="chinese">你温柔的心肠就会春光一派。</span><span class="english">And thy relenting heart would kindly warm.</span></p>
 
 <p><span class="chinese">对这个问题有任何松口的迹象。</span><span class="english">On this issue have any signs of relenting.</span></p>

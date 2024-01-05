@@ -1,5 +1,7 @@
 # despond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despond.md)
+
 <p><span class="chinese">但不要陷入绝望的泥沼。</span><span class="english">But do not fall into slough of despond.</span></p>
 
 <p><span class="chinese">他虽然失败了却没有悲观失望。</span><span class="english">Though he had failed, he did not despond.</span></p>

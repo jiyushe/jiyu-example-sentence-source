@@ -1,5 +1,7 @@
 # 蠕虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruchong.md)
+
 <p><span class="chinese">我已经传播了这个该死的蠕虫。</span><span class="english">I had spread the accursed worm.</span></p>
 
 <p><span class="chinese">当蠕虫在她周围爬动！</span><span class="english">Soft may the worms about her creep!</span></p>

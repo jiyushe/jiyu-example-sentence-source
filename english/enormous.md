@@ -1,5 +1,7 @@
 # enormous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enormous.md)
+
 <p><span class="chinese">那头熊非常庞大。</span><span class="english">The bear was enormous.</span></p>
 
 <p><span class="chinese">巴黎已经很庞大了</span><span class="english">Paris is already enormous.</span></p>

@@ -1,5 +1,7 @@
 # monastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monastic.md)
+
 <p><span class="chinese">终究在1060年他获得了修道院僧侣资格。</span><span class="english">He eventually took his monastic orders in 1060.</span></p>
 
 <p><span class="chinese">再次，关于隋唐时期的僧尼角色冲突。</span><span class="english">Again, about part conflict of monastic in Sui and Tang dynasty.</span></p>

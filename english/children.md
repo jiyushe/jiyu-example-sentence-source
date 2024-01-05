@@ -1,5 +1,7 @@
 # children
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/children.md)
+
 <p><span class="chinese">你们好啊，孩子们。</span><span class="english">Hello children.</span></p>
 
 <p><span class="chinese">哪些孩子？</span><span class="english">Which children?</span></p>

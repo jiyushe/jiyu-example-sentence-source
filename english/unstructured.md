@@ -1,5 +1,7 @@
 # unstructured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unstructured.md)
+
 <p><span class="chinese">将多重网格法运用于非结构网格。</span><span class="english">The multigrid method is applied in the unstructured grid.</span></p>
 
 <p><span class="chinese">发展了动态非结构重叠网格技术。</span><span class="english">A new dynamic unstructured overset grid method is de ve loped.</span></p>

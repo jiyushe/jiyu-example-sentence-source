@@ -1,5 +1,7 @@
 # compressional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compressional.md)
+
 <p><span class="chinese">此模型同样适用于挤压构造地区。</span><span class="english">This model is equally valid in regions of compressional tectonics.</span></p>
 
 <p><span class="chinese">利用纵波和横波的衰减确定裂缝位置的一种声波测井方法。</span><span class="english">An acoustic log that uses the attenuation of compressional and shear waves to locate fractures.</span></p>

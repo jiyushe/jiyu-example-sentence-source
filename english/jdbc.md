@@ -1,5 +1,7 @@
 # jdbc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jdbc.md)
+
 <p><span class="chinese">这个连接器提供连接池，并装载您所指定的驱动。</span><span class="english">The connector provides connection pooling and loads the JDBC driver you specify.</span></p>
 
 <p><span class="chinese">从客户端使用驱动导致了每个JDBC调用产生往返成本。</span><span class="english">Using the driver from the client side incurs round-trip cost for every JDBC call being made.</span></p>

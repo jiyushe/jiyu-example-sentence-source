@@ -1,5 +1,7 @@
 # shingle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shingle.md)
+
 <p><span class="chinese">油毡瓦市场有希望吗?。</span><span class="english">Is there hope for the shingle market?</span></p>
 
 <p><span class="chinese">用优质木瓦盖的屋顶是一种经久耐用的屋顶。</span><span class="english">A good shingle roof is a most durable type of roof.</span></p>

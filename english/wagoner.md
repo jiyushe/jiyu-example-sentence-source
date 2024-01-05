@@ -1,5 +1,7 @@
 # wagoner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wagoner.md)
+
 <p><span class="chinese">一刻钟里难得有一辆小车和一个车夫走过。</span><span class="english">Hardly one cart or wagoner passes in a quarter of an hour.</span></p>
 
 <p><span class="chinese">瓦格纳和葛蒂尔芬格没有回复记者的置评请求。</span><span class="english">Mr. Wagoner and Mr. Gettelfinger didn't return messages seeking comment.</span></p>

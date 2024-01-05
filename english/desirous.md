@@ -1,5 +1,7 @@
 # desirous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desirous.md)
+
 <p><span class="chinese">因此我很想得到这一职位。</span><span class="english">Therefore I am desirous to get this post.</span></p>
 
 <p><span class="chinese">渴望能与你方加强业务往来。</span><span class="english">Desirous of increasing our business with you.</span></p>

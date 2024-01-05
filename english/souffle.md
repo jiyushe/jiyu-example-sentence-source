@@ -1,5 +1,7 @@
 # souffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/souffle.md)
+
 <p><span class="chinese">我想起了我的草莓。</span><span class="english">I think of my strawberry souffle.</span></p>
 
 <p><span class="chinese">我想起了我的草莓舒芙蕾。</span><span class="english">I think of my strawberry souffle.</span></p>

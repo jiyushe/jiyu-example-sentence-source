@@ -1,5 +1,7 @@
 # taiga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taiga.md)
+
 <p><span class="chinese">大约一半的人在针叶林山上放牧驯鹿。</span><span class="english">About half a are reindeer herders up in the Taiga mountains.</span></p>
 
 <p><span class="chinese">大约一半是驯鹿猎人住在针叶树木地带的山里。</span><span class="english">About half are reindeer herders of being up in the Tiger Taiga mountains.</span></p>

@@ -1,5 +1,7 @@
 # stewardess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stewardess.md)
+
 <p><span class="chinese">她是一位空中小姐。</span><span class="english">She is a stewardess.</span></p>
 
 <p><span class="chinese">是的，服务员在换票。</span><span class="english">Yes. The stewardess is changing tickets.</span></p>

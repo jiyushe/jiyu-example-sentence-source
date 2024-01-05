@@ -1,5 +1,7 @@
 # telescope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telescope.md)
+
 <p><span class="chinese">1608年人们发明了望远镜。</span><span class="english">The telescope was invented in 1608.</span></p>
 
 <p><span class="chinese">这个因素取决于主镜。</span><span class="english">This is determined by the telescope.</span></p>

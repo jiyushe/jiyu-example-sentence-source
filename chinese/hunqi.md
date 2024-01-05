@@ -1,5 +1,7 @@
 # 婚期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunqi.md)
+
 <p><span class="chinese">目前，这对准夫妻还没有定下婚期。</span><span class="english">The couple have not set a wedding date.</span></p>
 
 <p><span class="chinese">我可不喜欢漫长的订婚期。</span><span class="english">Mingott? Iwasn't made for long engagements.</span></p>

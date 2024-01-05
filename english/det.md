@@ -1,5 +1,7 @@
 # det
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/det.md)
+
 <p><span class="chinese">艾伯林侦探“上帝会帮助我们。”</span><span class="english">Det. Aberline God help us.</span></p>
 
 <p><span class="chinese">本文概述了民族关系理论体系的主要纲目。</span><span class="english">This paper expounds the det ailed outline of this system.</span></p>

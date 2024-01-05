@@ -1,5 +1,7 @@
 # shea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shea.md)
+
 <p><span class="chinese">谢伊抛出了一只复制品。</span><span class="english">Shea has made copies and throws one.</span></p>
 
 <p><span class="chinese">奥谢则填补了布朗右边的空缺。</span><span class="english">Shea filled in for Brown at right-back.</span></p>

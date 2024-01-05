@@ -1,5 +1,7 @@
 # 头号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touhao.md)
+
 <p><span class="chinese">亚洲头号土霸。</span><span class="english">Asia's number one bully.</span></p>
 
 <p><span class="chinese">他是个头号势利小人。</span><span class="english">He's a snob of the first water.</span></p>

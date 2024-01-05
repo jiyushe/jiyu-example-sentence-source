@@ -1,5 +1,7 @@
 # inn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inn.md)
+
 <p><span class="chinese">您这是客店吗？</span><span class="english">Is this an inn?</span></p>
 
 <p><span class="chinese">他住在一个小客栈。</span><span class="english">He lived in an inn.</span></p>

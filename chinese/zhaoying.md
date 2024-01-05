@@ -1,5 +1,7 @@
 # 照应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoying.md)
+
 <p><span class="chinese">我明天得在一场晚会上帮忙照应。</span><span class="english">I have to chaperon a party tomorrow.</span></p>
 
 <p><span class="chinese">我生病时王太太照应我。</span><span class="english">Mrs. Wang did forme during my illness.</span></p>

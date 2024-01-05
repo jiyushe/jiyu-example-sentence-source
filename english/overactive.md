@@ -1,5 +1,7 @@
 # overactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overactive.md)
+
 <p><span class="chinese">都怪古代的天文学家想象力“泛滥成灾”。</span><span class="english">Blame ancient stargazers with overactive imaginations.</span></p>
 
 <p><span class="chinese">如果你的甲状腺过于活跃或运动不足，你的头发可能会掉下来。</span><span class="english">If your thyroid gland is overactive or underactive, your hair may fall out.</span></p>

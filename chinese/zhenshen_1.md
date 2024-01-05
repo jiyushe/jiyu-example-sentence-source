@@ -1,5 +1,7 @@
 # 真身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenshen_1.md)
+
 <p><span class="chinese">为什么，既然他是玫瑰花的真身。</span><span class="english">Roses of shadow, since his rose is true?</span></p>
 
 <p><span class="chinese">上帝不会在自然中现出真身。</span><span class="english">God is not known through natural manifestations.</span></p>

@@ -1,5 +1,7 @@
 # meliorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meliorate.md)
+
 <p><span class="chinese">蝎毒介入治疗肝癌可改善症状。</span><span class="english">Scorpion venom can meliorate symptom of hepatic carcinoma.</span></p>
 
 <p><span class="chinese">所以，给面试官一个好心情，说说称赞的话。</span><span class="english">So apt put an interviewer in a meliorate mood, attempt a praise.</span></p>

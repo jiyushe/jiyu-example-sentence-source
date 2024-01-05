@@ -1,5 +1,7 @@
 # speck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speck.md)
+
 <p><span class="chinese">我叫斯帕克。</span><span class="english">My name is Speck.</span></p>
 
 <p><span class="chinese">一点灰尘也没有。</span><span class="english">There is not a speck of dust.</span></p>

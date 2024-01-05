@@ -1,5 +1,7 @@
 # superluminal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superluminal.md)
+
 <p><span class="chinese">一个虚粒子也可以看作是超光速粒子。</span><span class="english">A virtual particle may also be viewed as superluminal one.</span></p>
 
 <p><span class="chinese">分析了电磁波传播时的超光速群速。</span><span class="english">A simple analysis is made of the superluminal group velocity.</span></p>

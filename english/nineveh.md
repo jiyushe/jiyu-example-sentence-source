@@ -1,5 +1,7 @@
 # nineveh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nineveh.md)
+
 <p><span class="chinese">尼尼微人做了什么事？</span><span class="english">What had the people of Nineveh done?</span></p>
 
 <p><span class="chinese">尼尼微是个被分裂和掠夺的地方。</span><span class="english">Nineveh is torn, split and plundered!</span></p>

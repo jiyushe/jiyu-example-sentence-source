@@ -1,5 +1,7 @@
 # toulon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toulon.md)
+
 <p><span class="chinese">他出发到土伦去。</span><span class="english">He set out for Toulon.</span></p>
 
 <p><span class="chinese">土伦监牢里的苦役犯。</span><span class="english">In the galleys at Toulon.</span></p>

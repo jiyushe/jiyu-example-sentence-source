@@ -1,5 +1,7 @@
 # conidia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conidia.md)
+
 <p><span class="chinese">分生孢子还可以转化成长柔毛分生孢子。</span><span class="english">The conidia may also transform into villous conidia.</span></p>
 
 <p><span class="chinese">光照对孢子萌发影响不大。</span><span class="english">And the conidia germination was not affected by light.</span></p>

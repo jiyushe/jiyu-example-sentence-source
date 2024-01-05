@@ -1,5 +1,7 @@
 # 憔悴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaocui.md)
+
 <p><span class="chinese">但他现在仍然很憔悴。</span><span class="english">But he is gaunt still.</span></p>
 
 <p><span class="chinese">和憔悴的冰障。</span><span class="english">And the gaunt ice-blocks.</span></p>

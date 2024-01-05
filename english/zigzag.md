@@ -1,5 +1,7 @@
 # zigzag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zigzag.md)
+
 <p><span class="chinese">电闪是一个之字形。</span><span class="english">The lightning bolt is a zigzag.</span></p>
 
 <p><span class="chinese">这条小路曲曲弯弯地通往山上。</span><span class="english">The path ran zigzag up the hill.</span></p>

@@ -1,5 +1,7 @@
 # 分级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenji_1.md)
+
 <p><span class="chinese">对风险进行综合与分级。</span><span class="english">Synthesize and rank the risks.</span></p>
 
 <p><span class="chinese">将孩子依年令分级。</span><span class="english">Grade children according to age.</span></p>

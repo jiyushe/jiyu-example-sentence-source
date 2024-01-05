@@ -1,5 +1,7 @@
 # 藏污纳垢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cangwunagou.md)
+
 <p><span class="chinese">那家旅馆是个藏污纳垢之所。</span><span class="english">That hotel is asinkof iniquity.</span></p>
 
 <p><span class="chinese">他认为纽约是个藏污纳垢之处。</span><span class="english">We think the place is a den of iniquity.</span></p>

@@ -1,5 +1,7 @@
 # 卖唱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maichang.md)
+
 <p><span class="chinese">你现在又像个卖唱的了？</span><span class="english">So, you're like a rapper now?</span></p>
 
 <p><span class="chinese">街头艺人也到这儿来卖唱。</span><span class="english">Ballad-singers come and chant here.</span></p>

@@ -1,5 +1,7 @@
 # vhs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vhs.md)
+
 <p><span class="chinese">历年演出录影带转成VCD保存计划案。</span><span class="english">Converting Historical Performing Program VHS Tape into VCD.</span></p>
 
 <p><span class="chinese">家庭录像机把电影带进家中，使人们不再去电影院。</span><span class="english">The VHS player brought movies to people who'd stopped going to movies.</span></p>

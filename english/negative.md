@@ -1,5 +1,7 @@
 # negative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negative.md)
+
 <p><span class="chinese">那是一个负值。</span><span class="english">And that's a negative.</span></p>
 
 <p><span class="chinese">消极的心，解锁！</span><span class="english">Negative Heaet Lock on!</span></p>

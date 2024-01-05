@@ -1,5 +1,7 @@
 # underlay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underlay.md)
+
 <p><span class="chinese">永远选择您可以接受的最好的衬垫物。</span><span class="english">And always choose the best underlay you can afford.</span></p>
 
 <p><span class="chinese">经济现实总是衬托了很多跨文化交流的关系。</span><span class="english">Financial realities always underlay many cross-cultural relationships.</span></p>

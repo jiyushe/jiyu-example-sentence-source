@@ -1,5 +1,7 @@
 # sailing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sailing.md)
+
 <p><span class="chinese">我们将在黎明启航。</span><span class="english">We are sailing at dawn.</span></p>
 
 <p><span class="chinese">这些帆船在行驶.</span><span class="english">The sailboats are sailing.</span></p>

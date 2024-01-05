@@ -1,5 +1,7 @@
 # 羁绊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiban.md)
+
 <p><span class="chinese">但是最后你还是难逃现实的羁绊，因为现实总是让你失望。</span><span class="english">And reality inevitably disappoints you.</span></p>
 
 <p><span class="chinese">我们之间唯一的羁绊，叫刻骨铭记。</span><span class="english">We only between fetter, called my mind.</span></p>

@@ -1,5 +1,7 @@
 # cur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cur.md)
+
 <p><span class="chinese">她被一条杂种狗吓坏了。</span><span class="english">She was frightened by a cur.</span></p>
 
 <p><span class="chinese">一只难看的大个杂种狗试了试运气。</span><span class="english">A big ugly cur tried his luck.</span></p>

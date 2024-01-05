@@ -1,5 +1,7 @@
 # 撤走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chezou.md)
+
 <p><span class="chinese">部队在结束战斗以后，撤走了。</span><span class="english">The army pulled back after the battle.</span></p>
 
 <p><span class="chinese">驻守在那里的几个士兵仓皇地撤走了。</span><span class="english">The few soldiers there withdrew in panic.</span></p>

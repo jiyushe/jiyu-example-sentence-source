@@ -1,5 +1,7 @@
 # 贫困
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinkun.md)
+
 <p><span class="chinese">过着贫困潦倒的生活。</span><span class="english">Live a dog's life.</span></p>
 
 <p><span class="chinese">奢侈最终导致贫困。</span><span class="english">Extravagance ends in want.</span></p>

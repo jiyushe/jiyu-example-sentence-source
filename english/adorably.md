@@ -1,5 +1,7 @@
 # adorably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adorably.md)
+
 <p><span class="chinese">特别是两个宝宝凑在一起时简直是可爱至极。</span><span class="english">Especially the babies they are just so adorably cute together.</span></p>
 
 <p><span class="chinese">罗琳的小说，把这位闻名遐迩的少年巫师画进了可爱幽默的招贴画里。</span><span class="english">Rowling's books about the boy wizard into adorably rendered posters.</span></p>

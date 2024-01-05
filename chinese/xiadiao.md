@@ -1,5 +1,7 @@
 # 下调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiadiao.md)
+
 <p><span class="chinese">下调的基因主要是免疫球蛋白基因。</span><span class="english">The immunoglobulin genes were down-regulated.</span></p>
 
 <p><span class="chinese">我妻子和我喜欢在星光下调情。</span><span class="english">My wife and I like to make-out under the stars.</span></p>

@@ -1,5 +1,7 @@
 # dislocate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dislocate.md)
+
 <p><span class="chinese">她怎么使她的肩膀四次脱臼?。</span><span class="english">How did she dislocate her shoulder 4 times?</span></p>
 
 <p><span class="chinese">猛张口为什么会掉牙脱臼呢?。</span><span class="english">Why can fierce dehisce drop tooth dislocate?</span></p>

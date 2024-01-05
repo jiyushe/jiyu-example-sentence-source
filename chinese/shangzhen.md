@@ -1,5 +1,7 @@
 # 上阵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangzhen.md)
+
 <p><span class="chinese">远足时要轻装上阵。</span><span class="english">When traveling, pack light.</span></p>
 
 <p><span class="chinese">必要时轻装上阵。</span><span class="english">Travel light when necessary.</span></p>

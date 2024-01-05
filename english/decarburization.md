@@ -1,5 +1,7 @@
 # decarburization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decarburization.md)
+
 <p><span class="chinese">结果表明，两者均为热处理脱碳所引起。</span><span class="english">The results show that both are caused by decarburization in heat tret-ment.</span></p>
 
 <p><span class="chinese">本发明亦公开了脱碳清洗剂的配方和制备方法。</span><span class="english">The invention also discloses a formula and a preparation method of the decarburization cleaner.</span></p>

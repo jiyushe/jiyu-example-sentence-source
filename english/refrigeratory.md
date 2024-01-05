@@ -1,5 +1,7 @@
 # refrigeratory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refrigeratory.md)
+
 <p><span class="chinese">这冰箱是一个低噪声设计。</span><span class="english">This refrigeratory is a low noise design.</span></p>
 
 <p><span class="chinese">冷库出现故障，保证作到随叫随到。</span><span class="english">Guarantee arrival at site called in case refrigeratory is failure.</span></p>

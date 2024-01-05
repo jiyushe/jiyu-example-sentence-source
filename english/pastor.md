@@ -1,5 +1,7 @@
 # pastor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pastor.md)
+
 <p><span class="chinese">作为一个牧师我一直面对着这种状况。</span><span class="english">As a pastor I face this all the time.</span></p>
 
 <p><span class="chinese">牧师与师母将前往参加。</span><span class="english">Pastor Pai and wife will be attending.</span></p>

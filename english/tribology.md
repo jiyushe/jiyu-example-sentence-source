@@ -1,5 +1,7 @@
 # tribology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tribology.md)
+
 <p><span class="chinese">该神经网络可为工程设计人员在摩擦学设计时提供有效的计算工具。</span><span class="english">The network model could provide calculable measure for the tribology design engineers.</span></p>
 
 <p><span class="chinese">切削加工、切削运动广义地说也属于摩擦学的范畴。</span><span class="english">Cutting, Cutting movement, Cutting tool's damages are all belong to the tribology in general.</span></p>

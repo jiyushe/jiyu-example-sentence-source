@@ -1,5 +1,7 @@
 # 岁差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suicha.md)
+
 <p><span class="chinese">然后他解释分点岁差。</span><span class="english">He then accounts for the precession of the equinoxes.</span></p>
 
 <p><span class="chinese">这是由于岁差现象所导致。</span><span class="english">It is due to a phenomenon called the precession of the equinoxes.</span></p>

@@ -1,5 +1,7 @@
 # knight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knight.md)
+
 <p><span class="chinese">他被授予骑士绶带。</span><span class="english">He was belted a knight.</span></p>
 
 <p><span class="chinese">他是个懦弱的骑士。</span><span class="english">He is a recreant knight.</span></p>

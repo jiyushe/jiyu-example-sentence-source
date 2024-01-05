@@ -1,5 +1,7 @@
 # 软饮料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanyinliao.md)
+
 <p><span class="chinese">我喜欢软饮料。</span><span class="english">I like soft drinks.</span></p>
 
 <p><span class="chinese">我们这的软饮料要五块钱一瓶。？？</span><span class="english">We serve soft-drink at five.</span></p>

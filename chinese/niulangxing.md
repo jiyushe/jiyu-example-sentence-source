@@ -1,5 +1,7 @@
 # 牛郎星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niulangxing.md)
+
 <p><span class="chinese">2020年，“猎户座”会和“牛郎星”月球着陆装置协同工作。</span><span class="english">By 2020, Orion will be paired with the lunar lander Altair.</span></p>
 
 <p><span class="chinese">阴天的夜空既看不到牛郎星，也看不到北斗星。</span><span class="english">We can see neither Altair or Ursa Major in the cloudy night sky.</span></p>

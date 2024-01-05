@@ -1,5 +1,7 @@
 # fortnightly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortnightly.md)
+
 <p><span class="chinese">这杂志将两周出一期。</span><span class="english">This magazine will appear fortnightly.</span></p>
 
 <p><span class="chinese">约翰并非每周去那儿，只是隔周去一次。</span><span class="english">John goes there fortnightly instead of weekly.</span></p>

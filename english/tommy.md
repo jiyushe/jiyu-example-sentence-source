@@ -1,5 +1,7 @@
 # tommy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tommy.md)
+
 <p><span class="chinese">汤米是一片叶子。</span><span class="english">Tommy was a leaf.</span></p>
 
 <p><span class="chinese">汤米问这叶子。</span><span class="english">Tommy asked the leaf.</span></p>

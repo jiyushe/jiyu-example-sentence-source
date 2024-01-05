@@ -1,5 +1,7 @@
 # thermonuclear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermonuclear.md)
+
 <p><span class="chinese">我愿意为此发动热核战争。</span><span class="english">I’m willing to go thermonuclear war on this.</span></p>
 
 <p><span class="chinese">核聚变是一种热核反应。</span><span class="english">A nuclear fusion is a thermonuclear reaction.</span></p>

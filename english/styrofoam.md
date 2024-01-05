@@ -1,5 +1,7 @@
 # styrofoam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/styrofoam.md)
+
 <p><span class="chinese">删除发泡胶一块。</span><span class="english">Remove Styrofoam piece.</span></p>
 
 <p><span class="chinese">然后我纹理与小岩夫妇的发泡胶。</span><span class="english">I then texture the styrofoam with a couple of small rocks.</span></p>

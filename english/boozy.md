@@ -1,5 +1,7 @@
 # boozy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boozy.md)
+
 <p><span class="chinese">他嗜酒的同伴。</span><span class="english">His boozy drinking companions.</span></p>
 
 <p><span class="chinese">嗜酒是指和喝很多酒。</span><span class="english">And boozy means lots of alcohol.</span></p>

@@ -1,5 +1,7 @@
 # penalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penalize.md)
+
 <p><span class="chinese">奢侈了怎么处罚？</span><span class="english">How to penalize the luxury officers?</span></p>
 
 <p><span class="chinese">你的侦察和搜寻检定不再因雨和雪受到处罚。</span><span class="english">Rain and snow don't penalize your Spot and Search checks.</span></p>

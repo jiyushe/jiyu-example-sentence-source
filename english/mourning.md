@@ -1,5 +1,7 @@
 # mourning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mourning.md)
+
 <p><span class="chinese">写它的悲悼。</span><span class="english">And write about it mourning.</span></p>
 
 <p><span class="chinese">黑色是居丧的象征。</span><span class="english">Black is a token of mourning.</span></p>

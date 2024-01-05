@@ -1,5 +1,7 @@
 # armoire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armoire.md)
+
 <p><span class="chinese">马来西亚的高端电视衣橱销售！</span><span class="english">Malaysia's High End TV Armoire On Sales!</span></p>
 
 <p><span class="chinese">其中之一，本·拉登站在一个大衣橱前。</span><span class="english">In one, bin Laden stands in front of an armoire.</span></p>

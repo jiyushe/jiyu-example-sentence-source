@@ -1,5 +1,7 @@
 # precisely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precisely.md)
+
 <p><span class="chinese">这很难精确说明。</span><span class="english">Hard to say precisely.</span></p>
 
 <p><span class="chinese">我不太清楚具体原因</span><span class="english">I don't know precisely why.</span></p>

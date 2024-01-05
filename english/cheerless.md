@@ -1,5 +1,7 @@
 # cheerless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheerless.md)
+
 <p><span class="chinese">这房间给人以寒冷阴郁的感觉。</span><span class="english">The room struck cold and cheerless.</span></p>
 
 <p><span class="chinese">在这样一个阴郁的雨天，没有人会感到高兴的。</span><span class="english">Nobody will be cheerful on such a cheerless rainy day.</span></p>

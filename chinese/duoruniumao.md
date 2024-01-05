@@ -1,5 +1,7 @@
 # 多如牛毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoruniumao.md)
+
 <p><span class="chinese">欧洲的商业企业多如牛毛。</span><span class="english">There are countless enterprises in europe.</span></p>
 
 <p><span class="chinese">现在软件公司多如牛毛。</span><span class="english">There are so many software companies out there.</span></p>

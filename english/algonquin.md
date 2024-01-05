@@ -1,5 +1,7 @@
 # algonquin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/algonquin.md)
+
 <p><span class="chinese">据媒体报道，Meng在亚岗昆学院学习计算机。</span><span class="english">Media reports said Meng studied computers at Algonquin College.</span></p>
 
 <p><span class="chinese">一位警察透露，这两位失踪者分别在卡尔顿大学和亚港昆学院读书。</span><span class="english">A police report said the missing men were studying at Algonquin and Carleton University.</span></p>

@@ -1,5 +1,7 @@
 # uphill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uphill.md)
+
 <p><span class="chinese">我们进展艰难。</span><span class="english">We progressed well uphill.</span></p>
 
 <p><span class="chinese">他们试图引水上山。</span><span class="english">They try to conduct water uphill.</span></p>

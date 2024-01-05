@@ -1,5 +1,7 @@
 # fixity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fixity.md)
+
 <p><span class="chinese">缺乏稳定性或固定性或稳固性的。</span><span class="english">Lacking stability or fixity or firmness.</span></p>
 
 <p><span class="chinese">“超域性”是对存在“单一固定性”的否定。</span><span class="english">Hyper-filed Feature is the total denial of the Single- fixity.</span></p>

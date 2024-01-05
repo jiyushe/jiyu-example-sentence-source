@@ -1,5 +1,7 @@
 # arrowhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrowhead.md)
+
 <p><span class="chinese">慈菇泵服务。</span><span class="english">Arrowhead Pump Service.</span></p>
 
 <p><span class="chinese">箭镞过去用来作为猎食的武器。</span><span class="english">The arrowhead was used as a weapon to hunt food.</span></p>

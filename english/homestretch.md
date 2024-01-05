@@ -1,5 +1,7 @@
 # homestretch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homestretch.md)
+
 <p><span class="chinese">我们正处于最后冲刺阶段。</span><span class="english">We are in the homestretch now.</span></p>
 
 <p><span class="chinese">马在终点直道上不肯跑了。</span><span class="english">The horse folded up in the homestretch.</span></p>

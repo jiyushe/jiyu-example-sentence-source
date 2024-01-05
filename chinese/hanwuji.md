@@ -1,5 +1,7 @@
 # 寒武纪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanwuji.md)
+
 <p><span class="chinese">早寒武世最早期梅树村期处于“寒武纪大爆发”序幕阶段。</span><span class="english">The Meishucun stage is the prelude of the Cambrian Explosion.</span></p>
 
 <p><span class="chinese">被后寒武纪地台沉积盖层不整合覆盖。</span><span class="english">It is overlain unconformably by the post Cambrian platform cover.</span></p>

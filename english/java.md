@@ -1,5 +1,7 @@
 # java
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/java.md)
+
 <p><span class="chinese">使用构造函数的字符串。</span><span class="english">Use java. lang. String for strings.</span></p>
 
 <p><span class="chinese">这种咖啡是爪哇咖啡和巴西咖啡搀和制成的。</span><span class="english">This coffee is a blend of Java and Brazil.</span></p>

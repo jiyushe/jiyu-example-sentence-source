@@ -1,5 +1,7 @@
 # batholith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/batholith.md)
+
 <p><span class="chinese">属于或与岩基有关。</span><span class="english">Geology of or relating to a batholith.</span></p>
 
 <p><span class="chinese">东沟含钼斑岩由太山庙岩基派生?。</span><span class="english">Was Donggou porphyry Mo deposit derived from Taishanmiao batholith?</span></p>

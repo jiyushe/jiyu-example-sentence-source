@@ -1,5 +1,7 @@
 # ax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ax.md)
+
 <p><span class="chinese">他要开斧刃。</span><span class="english">He'll edge the ax.</span></p>
 
 <p><span class="chinese">他再次挥舞了他的斧头。</span><span class="english">Again he wielded his ax.</span></p>

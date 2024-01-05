@@ -1,5 +1,7 @@
 # barrage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barrage.md)
+
 <p><span class="chinese">需要弹幕?。</span><span class="english">Need a bullet barrage?</span></p>
 
 <p><span class="chinese">“弹幕”现在影响瞄准射击。</span><span class="english">Barrage now affects Aimed Shot.</span></p>

@@ -1,5 +1,7 @@
 # natriuretic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/natriuretic.md)
+
 <p><span class="chinese">奈西立肽是利用重组DNA技术得到的合成型人类脑利钠肽。</span><span class="english">Nesiritide is a synthetic form of brain natriuretic peptide using recombinant DNA technology.</span></p>
 
 <p><span class="chinese">目的探讨N-端脑钠肽前体在慢性阻塞性肺疾病中的变化及其意义。</span><span class="english">Objective To study the change and the significance of N-terminal pro-brain natriuretic peptide in the COPD patients.</span></p>

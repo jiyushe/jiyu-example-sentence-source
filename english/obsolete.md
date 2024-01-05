@@ -1,5 +1,7 @@
 # obsolete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obsolete.md)
+
 <p><span class="chinese">这已经过时了。</span><span class="english">It's obsolete.</span></p>
 
 <p><span class="chinese">而男人，会被淘汰。</span><span class="english">Men will be obsolete.</span></p>

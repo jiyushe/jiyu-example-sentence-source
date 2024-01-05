@@ -1,5 +1,7 @@
 # mutter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutter.md)
+
 <p><span class="chinese">他嘀嘀咕咕轻声说话。</span><span class="english">He spoke in a mutter.</span></p>
 
 <p><span class="chinese">我们都听到你念道那兽人的事，他说。</span><span class="english">We both heard you mutter about the orc, he said.</span></p>

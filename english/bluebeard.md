@@ -1,5 +1,7 @@
 # bluebeard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluebeard.md)
+
 <p><span class="chinese">蓝胡子答道。</span><span class="english">replied Bluebeard.</span></p>
 
 <p><span class="chinese">“你到底下不下来？”蓝胡子在喊。</span><span class="english">"Will you not come down?" cried Bluebeard.</span></p>

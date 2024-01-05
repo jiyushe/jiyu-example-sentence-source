@@ -1,5 +1,7 @@
 # flaked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flaked.md)
+
 <p><span class="chinese">凯西说过会帮忙的，但她对我们食言了。</span><span class="english">Kathy said she'd help but she flaked out on us.</span></p>
 
 <p><span class="chinese">天花板上和墙上的灰泥不断地掉下来。</span><span class="english">The plaster flaked constantly from ceiling and walls.</span></p>

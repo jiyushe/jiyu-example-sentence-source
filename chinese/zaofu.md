@@ -1,5 +1,7 @@
 # 造福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaofu.md)
+
 <p><span class="chinese">因为它只造福了三分之一的世界。</span><span class="english">It only reached one-third of the world.</span></p>
 
 <p><span class="chinese">这是一项造福人类的创造。</span><span class="english">This is an invention that benefits mankind.</span></p>

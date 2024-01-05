@@ -1,5 +1,7 @@
 # peltier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peltier.md)
+
 <p><span class="chinese">这种所谓的Peltier效应也可用来给诸如笔记本电脑这样的电子设备降温。</span><span class="english">This so-called Peltier effect also helps cool electronic device such as laptops.</span></p>
 
 <p><span class="chinese">XAFS的研究数据在使用一台被磷覆盖冷却的普林斯顿CCD相机收集了。</span><span class="english">The XAFS data were collected using a phosphorus-masked Peltier cooled Princeton CCD camera.</span></p>

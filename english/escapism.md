@@ -1,5 +1,7 @@
 # escapism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escapism.md)
+
 <p><span class="chinese">朋友说我在逃避现实。</span><span class="english">Friends say I am escapism.</span></p>
 
 <p><span class="chinese">难道就不能有一点空间让我们逃避现实吗？</span><span class="english">Isn't there room for a bit of escapism?</span></p>

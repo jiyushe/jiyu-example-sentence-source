@@ -1,5 +1,7 @@
 # 积淀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jidian_2.md)
+
 <p><span class="chinese">他们没有汽车文化的积淀。</span><span class="english">They don't come from a car culture.</span></p>
 
 <p><span class="chinese">它是在适当的位置，经过时间积淀而唯一生成的。</span><span class="english">It is generated uniquely, in place, over time.</span></p>

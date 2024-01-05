@@ -1,5 +1,7 @@
 # lampstand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lampstand.md)
+
 <p><span class="chinese">在一边是一个有七条分支的灯柱或是烛台。</span><span class="english">And then on one side a seven-branched lampstand or menorah.</span></p>
 
 <p><span class="chinese">为做灯台和一切用具，用了一塔冷通纯金。</span><span class="english">A talent of pure gold was used for the lampstand and its various appurtenances.</span></p>

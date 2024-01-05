@@ -1,5 +1,7 @@
 # 至尊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizun.md)
+
 <p><span class="chinese">成为百草中的至尊。</span><span class="english">Become the King of Herbs.</span></p>
 
 <p><span class="chinese">用他那至尊的眼媚悦着山顶。</span><span class="english">Flatter the mountain tops with sovereign eye.</span></p>

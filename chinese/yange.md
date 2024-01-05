@@ -1,5 +1,7 @@
 # 严格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yange.md)
+
 <p><span class="chinese">策略2严格优势于策略1</span><span class="english">strictly dominates 1.</span></p>
 
 <p><span class="chinese">严格按规定时间到岗和离岗。</span><span class="english">Arrive and leave on time.</span></p>

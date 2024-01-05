@@ -1,5 +1,7 @@
 # 小腿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaotui.md)
+
 <p><span class="chinese">还因为你的小腿肚的抽搐。</span><span class="english">And because your calf twitches.</span></p>
 
 <p><span class="chinese">他感到有粒子弹击中了他的小腿。</span><span class="english">He felt a bullet hit his shank.</span></p>

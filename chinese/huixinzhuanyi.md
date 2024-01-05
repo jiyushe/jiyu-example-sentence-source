@@ -1,5 +1,7 @@
 # 回心转意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huixinzhuanyi.md)
+
 <p><span class="chinese">我的小心翼翼，希望你的回心转意。</span><span class="english">I hope you change mind carefully.</span></p>
 
 <p><span class="chinese">我认为他最终会回心转意的。</span><span class="english">I think he'll come round eventually.</span></p>

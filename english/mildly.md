@@ -1,5 +1,7 @@
 # mildly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mildly.md)
+
 <p><span class="chinese">还算挺有意思的</span><span class="english">That was mildly fun.</span></p>
 
 <p><span class="chinese">“我就过来观察，”卡纳温和地说。</span><span class="english">"I'm just observing, " Connor said mildly.</span></p>

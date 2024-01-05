@@ -1,5 +1,7 @@
 # 誓死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shisi.md)
+
 <p><span class="chinese">我誓死保卫了你们。</span><span class="english">I will defend you.</span></p>
 
 <p><span class="chinese">誓死保卫祖国！</span><span class="english">Our country or death!</span></p>

@@ -1,5 +1,7 @@
 # 大有文章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayouwenzhang.md)
+
 <p><span class="chinese">这里边大有文章。</span><span class="english">There's a lot behind all this.</span></p>
 
 <p><span class="chinese">有人发现他原来是个风格作家，他的风格之中大有文章。</span><span class="english">It had been discovered that he was a stylist, with meat under his style.</span></p>

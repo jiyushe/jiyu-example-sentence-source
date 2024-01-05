@@ -1,5 +1,7 @@
 # davao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/davao.md)
+
 <p><span class="chinese">这木马将被放置在达沃市附近。</span><span class="english">The horse will be delivered next to Davao.</span></p>
 
 <p><span class="chinese">到天涯海角海南岛去看一看。</span><span class="english">Go to faraway places Davao Islands to have a look.</span></p>

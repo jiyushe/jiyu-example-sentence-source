@@ -1,5 +1,7 @@
 # stunner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stunner.md)
+
 <p><span class="chinese">一部绝妙的影片。</span><span class="english">One stunner of a movie.</span></p>
 
 <p><span class="chinese">他的第一个大动作是一个尤物。</span><span class="english">His first big move was a stunner.</span></p>

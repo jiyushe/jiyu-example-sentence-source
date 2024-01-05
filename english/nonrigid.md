@@ -1,5 +1,7 @@
 # nonrigid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonrigid.md)
+
 <p><span class="chinese">一个壁可以是刚性的，也可以是非刚性的。</span><span class="english">A wall can be either rigid or nonrigid.</span></p>
 
 <p><span class="chinese">首次提出了片状非刚性嵌件安放机构的设计构思。</span><span class="english">The conception on an insertion mechanism of nonrigid flat inserts was firstly suggested by us.</span></p>

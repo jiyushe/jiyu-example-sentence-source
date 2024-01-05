@@ -1,5 +1,7 @@
 # standpoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/standpoint.md)
+
 <p><span class="chinese">从弗洛依德德观点谈梦。</span><span class="english">Dreams from a Freudian standpoint.</span></p>
 
 <p><span class="chinese">从精神分析的观点来看，梦是这样的。</span><span class="english">Dream is, from a Freudian standpoint.</span></p>

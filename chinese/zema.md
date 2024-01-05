@@ -1,5 +1,7 @@
 # 责骂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zema.md)
+
 <p><span class="chinese">或是在责骂他们呢？</span><span class="english">Or had I scolded?</span></p>
 
 <p><span class="chinese">她因受到责骂而感到难受。</span><span class="english">She smarted from the scolding.</span></p>

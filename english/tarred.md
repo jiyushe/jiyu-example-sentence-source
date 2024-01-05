@@ -1,5 +1,7 @@
 # tarred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tarred.md)
+
 <p><span class="chinese">谁挑动他们干的?</span><span class="english">Who tarred them on?</span></p>
 
 <p><span class="chinese">我的锚链是不涂焦油的。</span><span class="english">My anchor's cable is not tarred.</span></p>

@@ -1,5 +1,7 @@
 # snapdragon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snapdragon.md)
+
 <p><span class="chinese">二唇的二唇的，如金鱼草的花冠。</span><span class="english">Having two lips, as the corollas of the snapdragon.</span></p>
 
 <p><span class="chinese">“现在，”罗伊纳宣布，进行今晚的最后一个游戏，火中取栗。</span><span class="english">And now, " said Rowena, that last one for the evening. Snapdragon ."</span></p>

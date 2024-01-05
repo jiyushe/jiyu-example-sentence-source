@@ -1,5 +1,7 @@
 # native 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/native.md)
+
 <p><span class="chinese">你的籍贯是？</span><span class="english">What is your native place?</span></p>
 
 <p><span class="chinese">他的本国语是什么？</span><span class="english">What's his native language?</span></p>

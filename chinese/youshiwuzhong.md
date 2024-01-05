@@ -1,5 +1,7 @@
 # 有始无终
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshiwuzhong.md)
+
 <p><span class="chinese">犹如那场有始无终的爱情。</span><span class="english">As if that field peter love.</span></p>
 
 <p><span class="chinese">做什么事都不要有始无终。</span><span class="english">Doing what does not all start, but to carry it through.</span></p>

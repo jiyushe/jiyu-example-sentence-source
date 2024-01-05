@@ -1,5 +1,7 @@
 # insolvency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insolvency.md)
+
 <p><span class="chinese">该公司快要破产了。</span><span class="english">The company is on the verge of insolvency.</span></p>
 
 <p><span class="chinese">高企的国度债务将他们逼至破产的边缘。</span><span class="english">High national debt brings them to the edge of insolvency.</span></p>

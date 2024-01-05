@@ -1,5 +1,7 @@
 # diagonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diagonal.md)
+
 <p><span class="chinese">请问想说她的房间在我的“斜对面”怎么说？</span><span class="english">Her room is in diagonal to mine.</span></p>
 
 <p><span class="chinese">交叉对角线的图案。</span><span class="english">A pattern of crisscross diagonal lines.</span></p>

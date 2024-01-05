@@ -1,5 +1,7 @@
 # direction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/direction.md)
+
 <p><span class="chinese">照这个方向走。</span><span class="english">Go in this direction.</span></p>
 
 <p><span class="chinese">风有风的方向。</span><span class="english">Wind is wind direction.</span></p>

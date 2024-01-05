@@ -1,5 +1,7 @@
 # spidery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spidery.md)
+
 <p><span class="chinese">她有修长的大腿。</span><span class="english">She has spidery long legs.</span></p>
 
 <p><span class="chinese">没人住在那个多蜘蛛的阁楼上。</span><span class="english">No one lives in that spidery attic.</span></p>

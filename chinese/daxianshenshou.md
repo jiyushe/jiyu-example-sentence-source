@@ -1,5 +1,7 @@
 # 大显身手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxianshenshou.md)
+
 <p><span class="chinese">风有天出来大显身手。</span><span class="english">The wind came out to play one day.</span></p>
 
 <p><span class="chinese">这正是注册中心大显身手的地方。</span><span class="english">This is where the registry steps in.</span></p>

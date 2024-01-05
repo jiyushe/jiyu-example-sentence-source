@@ -1,5 +1,7 @@
 # 优点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdian.md)
+
 <p><span class="chinese">还是更注重优点？</span><span class="english">Or your strength?</span></p>
 
 <p><span class="chinese">他有他的优点。</span><span class="english">He has his merits.</span></p>

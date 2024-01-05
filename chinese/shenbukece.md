@@ -1,5 +1,7 @@
 # 深不可测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenbukece.md)
+
 <p><span class="chinese">我知道一口深不可测的井。</span><span class="english">I know of a fathomless well.</span></p>
 
 <p><span class="chinese">河水深不可测。</span><span class="english">The river is unfathomably deep.</span></p>

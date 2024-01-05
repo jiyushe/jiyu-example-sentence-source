@@ -1,5 +1,7 @@
 # 有生之年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshengzhinian.md)
+
 <p><span class="chinese">在有生之年是不可能的。</span><span class="english">Not in our life time.</span></p>
 
 <p><span class="chinese">满级啊，我一直在想我有生之年能不能满…</span><span class="english">You're on my heart just like a tattoo.</span></p>

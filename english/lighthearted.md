@@ -1,5 +1,7 @@
 # lighthearted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lighthearted.md)
+
 <p><span class="chinese">我想变得勇敢，充满渴望，自信，自在，无忧无虑。</span><span class="english">I wanted to be brave, eager, confident, at ease, lighthearted.</span></p>
 
 <p><span class="chinese">所有的一切发生时都是轻松愉快的。</span><span class="english">It was just a bit of fun on his part -- it was all very lighthearted.</span></p>

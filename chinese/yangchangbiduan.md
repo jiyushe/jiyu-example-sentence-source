@@ -1,5 +1,7 @@
 # 扬长避短
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangchangbiduan.md)
+
 <p><span class="chinese">我们对自己的双重性格高谈阔论，对扬长避短却无所作为。</span><span class="english">We talk of our dual personality, and do nothing to cultivate the better part.</span></p>
 
 <p><span class="chinese">只有抓住机遇，扬长避短，办出特色才是师专唯一的出路。</span><span class="english">Only way out for them is to seize opportunities and develop with local features.</span></p>

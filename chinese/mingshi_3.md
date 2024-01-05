@@ -1,5 +1,7 @@
 # 明示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingshi_3.md)
+
 <p><span class="chinese">请明示哪张更准确。</span><span class="english">Please verify which one is more accurate.</span></p>
 
 <p><span class="chinese">本册并非一份默认或明示的合同。</span><span class="english">The brochure is not an implied or express contract.</span></p>

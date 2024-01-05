@@ -1,5 +1,7 @@
 # disinflation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disinflation.md)
+
 <p><span class="chinese">这说明通货紧缩在快速进行着。</span><span class="english">This suggests that disinflation is proceeding rapidly.</span></p>
 
 <p><span class="chinese">在消费逆转和汇率变化之后，第三个“新标准”是反通胀。</span><span class="english">The third "new normal" condition, after shifts in consumption and exchange rates, is disinflation.</span></p>

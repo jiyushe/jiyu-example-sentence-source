@@ -1,5 +1,7 @@
 # 隐秘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinmi_1.md)
+
 <p><span class="chinese">耶鲁大学人类学系的研究助理，加里.阿龙森说，“它是非常隐秘的动物，我们对它几乎一无所知。”</span><span class="english">It is a very cryptic animal.</span></p>
 
 <p><span class="chinese">这是你我之间的隐秘。</span><span class="english">Itas a secret during you and me.</span></p>

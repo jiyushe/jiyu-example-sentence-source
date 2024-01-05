@@ -1,5 +1,7 @@
 # tortfeasor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tortfeasor.md)
+
 <p><span class="chinese">侵权人应对第三人的惊吓损害承担以精神损害赔偿为主的民事责任。</span><span class="english">Accordingly, the tortfeasor should take the responsibility to pay spirit compensation to the victim.</span></p>
 
 <p><span class="chinese">任何共同侵权人都不能够被强迫分摊超过其所占全部责任的按份份额。</span><span class="english">No tortfeasor is compelled to make contribution beyond his own prorata share of the entire liability.</span></p>

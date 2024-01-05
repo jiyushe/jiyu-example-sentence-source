@@ -1,5 +1,7 @@
 # 笑口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaokou.md)
+
 <p><span class="chinese">他总是一副笑口常开的样子。</span><span class="english">He always looks very happy.</span></p>
 
 <p><span class="chinese">少女笑口开，婚事成一半。</span><span class="english">A maid that laughs is half taken.</span></p>

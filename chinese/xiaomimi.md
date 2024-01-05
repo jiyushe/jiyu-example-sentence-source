@@ -1,5 +1,7 @@
 # 笑眯眯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaomimi.md)
+
 <p><span class="chinese">管家大爷笑眯眯的说。</span><span class="english">The maid big Ye smilingly says.</span></p>
 
 <p><span class="chinese">管家大爷笑眯眯的说。</span><span class="english">The domestic big Ye smilingly says.</span></p>

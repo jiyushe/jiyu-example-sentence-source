@@ -1,5 +1,7 @@
 # 凉拌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangban_1.md)
+
 <p><span class="chinese">我要一份凉拌高丽沙拉。</span><span class="english">I'll take a cold slaw.</span></p>
 
 <p><span class="chinese">有的，我们有凉拌鸡。</span><span class="english">I'd love chicken salad.</span></p>

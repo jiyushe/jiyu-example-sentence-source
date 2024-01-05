@@ -1,5 +1,7 @@
 # 出产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchan.md)
+
 <p><span class="chinese">加拿大出产小麦和毛皮。</span><span class="english">Canada produces wheat and furs.</span></p>
 
 <p><span class="chinese">还是峻峭高山，那全部出产。</span><span class="english">And all the craggy mountains yield.</span></p>

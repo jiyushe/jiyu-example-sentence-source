@@ -1,5 +1,7 @@
 # doubtless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doubtless.md)
+
 <p><span class="chinese">无疑，富于想象的你还能想起别的。</span><span class="english">Doubtless imaginative readers can think of others.</span></p>
 
 <p><span class="chinese">是宝乐山庄最为强劲有力的葡萄酒之一。</span><span class="english">It is doubtless the most vigorous wine of our range.</span></p>

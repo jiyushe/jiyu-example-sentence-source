@@ -1,5 +1,7 @@
 # glitch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glitch.md)
+
 <p><span class="chinese">“Glitch”将是免费的。</span><span class="english">Glitch will be free to play.</span></p>
 
 <p><span class="chinese">也可能在关键时刻掉链子。</span><span class="english">There may yet be a last-minute glitch.</span></p>

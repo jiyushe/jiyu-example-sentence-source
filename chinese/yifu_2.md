@@ -1,5 +1,7 @@
 # 姨夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifu_2.md)
+
 <p><span class="chinese">她的心灵跪倒在姨夫面前。</span><span class="english">She knelt in spirit to her uncle.</span></p>
 
 <p><span class="chinese">他的姨夫姨妈交换了一下愤怒的眼光。</span><span class="english">His aunt and uncle exchanged looks of outrage.</span></p>

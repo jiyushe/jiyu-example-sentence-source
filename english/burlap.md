@@ -1,5 +1,7 @@
 # burlap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burlap.md)
+
 <p><span class="chinese">对我来说，购物商场就像是一个麻布袋，我不想被套在里面。</span><span class="english">The mall was like a burlap bag to me. I didn't want to be in it.</span></p>
 
 <p><span class="chinese">从服装面料看，中国最早使用的纺织品是葛布、苎麻布和大麻布。</span><span class="english">From the fabric, used first in China Textiles hemp, ramie cloth and large burlap.</span></p>

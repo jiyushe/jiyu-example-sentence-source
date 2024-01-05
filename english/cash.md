@@ -1,5 +1,7 @@
 # cash 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cash.md)
+
 <p><span class="chinese">用现金支付。</span><span class="english">Pay with cash.</span></p>
 
 <p><span class="chinese">垃圾桶里的钱钱。</span><span class="english">Cash in the trash.</span></p>

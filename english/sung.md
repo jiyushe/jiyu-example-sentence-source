@@ -1,5 +1,7 @@
 # sung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sung.md)
+
 <p><span class="chinese">这个是唱呢，还是念?。</span><span class="english">Is it to be sung or said?</span></p>
 
 <p><span class="chinese">歌用法语唱起来好唱。</span><span class="english">A song sung in the evening.</span></p>

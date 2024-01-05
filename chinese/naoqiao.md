@@ -1,5 +1,7 @@
 # 脑桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoqiao.md)
+
 <p><span class="chinese">这些神经细胞位于脑干的脑桥部位。</span><span class="english">They are in the pons part of the brain stem.</span></p>
 
 <p><span class="chinese">压迫部位在面神经根入脑桥处前方，位置隐蔽。</span><span class="english">The compressing site is in front of REZ and is very convert.</span></p>

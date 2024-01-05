@@ -1,5 +1,7 @@
 # debbie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debbie.md)
+
 <p><span class="chinese">这次不同，黛比。</span><span class="english">This is different, Debbie.</span></p>
 
 <p><span class="chinese">你最近看到黛比了吗？</span><span class="english">Have you seen Debbie lately?</span></p>

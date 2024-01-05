@@ -1,5 +1,7 @@
 # distribution 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distribution.md)
+
 <p><span class="chinese">输入通讯组列表名称。</span><span class="english">Type the distribution list name.</span></p>
 
 <p><span class="chinese">积极调整收入分配关系。</span><span class="english">We adjusted income distribution.</span></p>

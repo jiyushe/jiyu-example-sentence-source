@@ -1,5 +1,7 @@
 # jobber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jobber.md)
+
 <p><span class="chinese">这些是经纪人的职责和一个批发商之间的不同。</span><span class="english">These are the differences between the responsibilities of a broker and a jobber.</span></p>
 
 <p><span class="chinese">美国可以直接从网络上找到服装批发商，然后运过来么？</span><span class="english">The United States can find dress jobber from the network directly, carry next come over?</span></p>

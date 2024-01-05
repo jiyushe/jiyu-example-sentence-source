@@ -1,5 +1,7 @@
 # 农机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongji_1.md)
+
 <p><span class="chinese">化肥厂邻接农机厂。</span><span class="english">The school adjoins the factory.</span></p>
 
 <p><span class="chinese">迪尔农机的销售与农场的收入息息相关。</span><span class="english">Deere's sales closely track farm income.</span></p>

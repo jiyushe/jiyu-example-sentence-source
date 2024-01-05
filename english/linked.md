@@ -1,5 +1,7 @@
 # linked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linked.md)
+
 <p><span class="chinese">巨蟹，跟金牛座有干连。</span><span class="english">Cancer, linked with Taurus.</span></p>
 
 <p><span class="chinese">现在我们终生联系在一起。</span><span class="english">Now we are linked for life.</span></p>

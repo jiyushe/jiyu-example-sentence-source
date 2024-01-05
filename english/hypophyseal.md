@@ -1,5 +1,7 @@
 # hypophyseal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypophyseal.md)
+
 <p><span class="chinese">视神经主要由垂体上前动脉供血，半数有分支沿视神经前行。</span><span class="english">Optic nerve was mainly supported by superior anterior hypophyseal artery.</span></p>
 
 <p><span class="chinese">因为垂体柄缺乏血脑屏障结构，所以在此图像中呈亮信号。</span><span class="english">The hypophyseal or pituitary stalk is bright because it lacks the barrier found throughout most of the brain.</span></p>

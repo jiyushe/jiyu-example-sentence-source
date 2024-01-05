@@ -1,5 +1,7 @@
 # ablaze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ablaze.md)
+
 <p><span class="chinese">秋天里枫叶满山红遍。</span><span class="english">A maple tree ablaze in autumn.</span></p>
 
 <p><span class="chinese">很快，整个城市淹没于火海中。</span><span class="english">Soon, the entire city was ablaze.</span></p>

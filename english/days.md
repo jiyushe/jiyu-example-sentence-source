@@ -1,5 +1,7 @@
 # days
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/days.md)
+
 <p><span class="chinese">为什么实行夏时制的日子被称为“绿色日子”？</span><span class="english">Green days.</span></p>
 
 <p><span class="chinese">三天以前，大前天。</span><span class="english">Three days ago.</span></p>

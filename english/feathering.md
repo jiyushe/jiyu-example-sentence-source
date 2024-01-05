@@ -1,5 +1,7 @@
 # feathering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feathering.md)
+
 <p><span class="chinese">那些小鸟正在长羽毛。</span><span class="english">The nestlings are feathering out.</span></p>
 
 <p><span class="chinese">这只幼雕已开始长出羽毛。</span><span class="english">The young eagle has begun feathering.</span></p>

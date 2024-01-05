@@ -1,5 +1,7 @@
 # regionalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regionalism.md)
+
 <p><span class="chinese">民族主义，地区主义和部族主义意识都在提升。</span><span class="english">Nationalism, regionalism and tribalism are all on the rise.</span></p>
 
 <p><span class="chinese">“批判的地域主义”则是理论界对其的响应。</span><span class="english">Critical Regionalism is the response of theory circle to it.</span></p>

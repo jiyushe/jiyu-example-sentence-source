@@ -1,5 +1,7 @@
 # bess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bess.md)
+
 <p><span class="chinese">贝丝吃光了所有的六块水果蛋糕。</span><span class="english">Bess ate all of six fruit cakes.</span></p>
 
 <p><span class="chinese">贝丝叉起一片黄瓜。</span><span class="english">Bess stabbed a slice of cucumber.</span></p>

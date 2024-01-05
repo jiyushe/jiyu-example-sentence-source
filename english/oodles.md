@@ -1,5 +1,7 @@
 # oodles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oodles.md)
+
 <p><span class="chinese">苹果在中国赚取大量现金。</span><span class="english">Apple has made oodles of cash in China.</span></p>
 
 <p><span class="chinese">一些程序还有许多您并不一定希望拥有的特性。</span><span class="english">Some programs also have oodles of features that you might or might not want.</span></p>

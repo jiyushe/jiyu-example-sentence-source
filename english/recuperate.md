@@ -1,5 +1,7 @@
 # recuperate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recuperate.md)
+
 <p><span class="chinese">好了你先安心的养病。</span><span class="english">Well you at ease and recuperate.</span></p>
 
 <p><span class="chinese">他去乡下养病去了。</span><span class="english">He went to the country to recuperate.</span></p>

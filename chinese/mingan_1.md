@@ -1,5 +1,7 @@
 # 敏感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingan_1.md)
+
 <p><span class="chinese">恭喜你，你很敏感。</span><span class="english">You are very perceptive.</span></p>
 
 <p><span class="chinese">他对于冷过于敏感。</span><span class="english">He is oversensitive to cold.</span></p>

@@ -1,5 +1,7 @@
 # smoothie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smoothie.md)
+
 <p><span class="chinese">最后,我喝掉思木西.</span><span class="english">At last,I drink the smoothie.</span></p>
 
 <p><span class="chinese">你如何做香蕉思木西饮料?。</span><span class="english">How do you make a banana smoothie?</span></p>

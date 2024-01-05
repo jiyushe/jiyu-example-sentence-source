@@ -1,5 +1,7 @@
 # daddy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daddy.md)
+
 <p><span class="chinese">那么是谁呢，爸爸？</span><span class="english">Who then, Daddy?</span></p>
 
 <p><span class="chinese">告诉你，爸爸。</span><span class="english">Tells you, daddy.</span></p>

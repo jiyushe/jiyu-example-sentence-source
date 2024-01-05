@@ -1,5 +1,7 @@
 # outmost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outmost.md)
+
 <p><span class="chinese">客户满意是我们最优先考虑的，也是我们所渴望做到的。</span><span class="english">Client satisfaction is our outmost priority and we are eager to please.</span></p>
 
 <p><span class="chinese">人们耕地时，会非常容易地发现这些土壤标记。</span><span class="english">These soil marks can be picked outmost easily when the land has been ploughed.</span></p>

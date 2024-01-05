@@ -1,5 +1,7 @@
 # 屡次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvci.md)
+
 <p><span class="chinese">自我病愈以来，他屡次写信给我。</span><span class="english">He has writing to me frequently since I am ill.</span></p>
 
 <p><span class="chinese">她屡次向吝啬鬼讨酒都没到手。</span><span class="english">She repeated the miser no hand to discuss wine.</span></p>

@@ -1,5 +1,7 @@
 # survey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/survey.md)
+
 <p><span class="chinese">你不能教概论。</span><span class="english">You can't teach a survey.</span></p>
 
 <p><span class="chinese">因此我进行了一项快速调查。</span><span class="english">So I launched a quick survey.</span></p>

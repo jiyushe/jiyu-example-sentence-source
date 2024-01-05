@@ -1,5 +1,7 @@
 # jibe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jibe.md)
+
 <p><span class="chinese">他的地位不合他的理想。</span><span class="english">His position did not jibe with his ideal.</span></p>
 
 <p><span class="chinese">有时候，你想要的工作并不在你生活的地方。</span><span class="english">Sometimes, the job you want and the place you live don't jibe.</span></p>

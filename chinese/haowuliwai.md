@@ -1,5 +1,7 @@
 # 毫无例外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haowuliwai.md)
+
 <p><span class="chinese">关键——毫无例外——就是要适度。</span><span class="english">The key--no surprise-- is moderation.</span></p>
 
 <p><span class="chinese">毫无例外地，她的美丽，也让沈从文一见倾心。</span><span class="english">Without being an exception, Shen was also totally attracted by her beauty.</span></p>

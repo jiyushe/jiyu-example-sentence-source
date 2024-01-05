@@ -1,5 +1,7 @@
 # 雅俗共赏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yasugongshang.md)
+
 <p><span class="chinese">期间，演员赵本山也助阵朗朗的演奏会，雅俗共赏。</span><span class="english">And he and actor Zhao Benshan perform during the concert.</span></p>
 
 <p><span class="chinese">但是有一样极致的乐趣雅俗共赏，那就是欢笑。</span><span class="english">But one supreme pleasure that spans all people is laughter.</span></p>

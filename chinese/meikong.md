@@ -1,5 +1,7 @@
 # 没空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meikong.md)
+
 <p><span class="chinese">我们今晚没空。</span><span class="english">We won, t be free tonight.</span></p>
 
 <p><span class="chinese">恐怕我那会没空。</span><span class="english">I'm afraid I won't be free then.</span></p>

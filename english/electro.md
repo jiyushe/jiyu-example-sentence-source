@@ -1,5 +1,7 @@
 # electro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electro.md)
+
 <p><span class="chinese">电动阀安装在一个盒子内。</span><span class="english">Electro valves installed in a box.</span></p>
 
 <p><span class="chinese">而且你能看到，电板插入了这些老鼠的脑中。</span><span class="english">and you can see the electro going to those rats' brain.</span></p>

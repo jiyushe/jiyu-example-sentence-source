@@ -1,5 +1,7 @@
 # redox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redox.md)
+
 <p><span class="chinese">原电池的本质是氧化还原反应。</span><span class="english">The essence of primary battery is redox reaction.</span></p>
 
 <p><span class="chinese">本文就林邦公式在氧化还原滴定中的应用进行了讨论。</span><span class="english">Ringbom formula used in redox titration was discussed in this paper.</span></p>

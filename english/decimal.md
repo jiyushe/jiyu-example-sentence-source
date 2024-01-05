@@ -1,5 +1,7 @@
 # decimal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decimal.md)
+
 <p><span class="chinese">我们用十进位制。</span><span class="english">We use the decimal system.</span></p>
 
 <p><span class="chinese">你漏看了一个小数点。</span><span class="english">You missed a decimal point read.</span></p>

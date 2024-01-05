@@ -1,5 +1,7 @@
 # laplacian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laplacian.md)
+
 <p><span class="chinese">主要研究冠的拉普拉斯谱。</span><span class="english">In the present paper, the Laplacian spectrum of coronas was studied.</span></p>
 
 <p><span class="chinese">这是一个VC图象处理源代码，用拉普拉斯锐化进行边缘检测。</span><span class="english">This is a VC image processing source code, using Laplacian sharpening edge detection.</span></p>

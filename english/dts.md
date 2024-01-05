@@ -1,5 +1,7 @@
 # dts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dts.md)
+
 <p><span class="chinese">DCR和DTS大气稳定度的影响是非线性的。</span><span class="english">Effect of atmospheric stability on DCR and DTS was nonlinear.</span></p>
 
 <p><span class="chinese">逐行扫描，杜比数码，杜比专业逻辑，和DTS解码。</span><span class="english">Progressive Scan, Dolby Digital, Dolby Pro Logic, and DTS decoding.</span></p>

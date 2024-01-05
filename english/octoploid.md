@@ -1,5 +1,7 @@
 # octoploid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octoploid.md)
+
 <p><span class="chinese">通过核型研究，分析了节-硬-偏八倍体的遗传组成。</span><span class="english">Genetic construction of JYP octoploid were analysed by karyotype.</span></p>
 
 <p><span class="chinese">本文用八倍体小黑麦与普通小麦进行正反交。</span><span class="english">In this paper, the reciprocal cross was made between octoploid triticale and common wheat.</span></p>

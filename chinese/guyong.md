@@ -1,5 +1,7 @@
 # 雇佣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyong.md)
+
 <p><span class="chinese">我们为什么要雇佣你？</span><span class="english">Why should we  employ you?</span></p>
 
 <p><span class="chinese">改正2幕雇佣工气氛。</span><span class="english">Altered Act 2 Hireling Auras.</span></p>

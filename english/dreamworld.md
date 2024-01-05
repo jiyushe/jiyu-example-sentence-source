@@ -1,5 +1,7 @@
 # dreamworld
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreamworld.md)
+
 <p><span class="chinese">她仿佛来到了梦幻世界。</span><span class="english">She seemed to have entered a dreamworld.</span></p>
 
 <p><span class="chinese">爱情是把幻想变成现实的尝试。</span><span class="english">Love is an attempt to change a piece of dreamworld into reality.</span></p>

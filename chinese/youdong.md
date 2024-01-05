@@ -1,5 +1,7 @@
 # 游动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdong.md)
+
 <p><span class="chinese">几条小黄鱼在水中调皮地游动。</span><span class="english">Can the fish swim? Yes, she can.</span></p>
 
 <p><span class="chinese">不，大鲸鱼将在我体内游动。</span><span class="english">No, huge whales will swim in me.</span></p>

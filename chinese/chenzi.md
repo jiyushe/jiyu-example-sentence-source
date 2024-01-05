@@ -1,5 +1,7 @@
 # 臣子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenzi.md)
+
 <p><span class="chinese">臣子向帝王呈递的意见书。</span><span class="english">The opinion book from the vassal to a lord.</span></p>
 
 <p><span class="chinese">你说哪个皇上不喜欢这样的臣子啊？</span><span class="english">You say, which emperor won't like this kind of official?</span></p>

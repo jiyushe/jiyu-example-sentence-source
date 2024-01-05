@@ -1,5 +1,7 @@
 # jenny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jenny.md)
+
 <p><span class="chinese">我驰念你，珍妮。</span><span class="english">I miss you Jenny.</span></p>
 
 <p><span class="chinese">詹妮很喜爱这一串珍珠项链。</span><span class="english">Jenny loved her pearls.</span></p>

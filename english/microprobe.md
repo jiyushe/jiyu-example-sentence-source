@@ -1,5 +1,7 @@
 # microprobe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microprobe.md)
+
 <p><span class="chinese">本文讨论了测量离子探针灵敏度的各种方法。</span><span class="english">This paper describes the sensitivity measurement of ion microprobe mass analyzer.</span></p>
 
 <p><span class="chinese">电子探针成分分析表明，其颜色是由铜离子引起的，铜的含量越高，颜色就越鲜艳。</span><span class="english">Chemical composition analysis by microprobe shows that its colour is related to the content of CuO.</span></p>

@@ -1,5 +1,7 @@
 # uncertainty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncertainty.md)
+
 <p><span class="chinese">不确定性缘何如此危险？</span><span class="english">Why is uncertainty so dangerous?</span></p>
 
 <p><span class="chinese">确实有很多不确定性。</span><span class="english">There is a lot of uncertainty in it.</span></p>

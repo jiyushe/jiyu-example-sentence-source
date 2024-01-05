@@ -1,5 +1,7 @@
 # roseate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roseate.md)
+
 <p><span class="chinese">我喜欢粉色的玫瑰。</span><span class="english">I like roseate roses.</span></p>
 
 <p><span class="chinese">她脸颊红润。</span><span class="english">She has a roseate cheek.</span></p>

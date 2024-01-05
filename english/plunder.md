@@ -1,5 +1,7 @@
 # plunder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plunder.md)
+
 <p><span class="chinese">那贼被迫吐出脏物。</span><span class="english">The thief disgorged his plunder.</span></p>
 
 <p><span class="chinese">经济增长不能依靠掠夺。</span><span class="english">Growth doesn't depend on plunder.</span></p>

@@ -1,5 +1,7 @@
 # 随感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suigan.md)
+
 <p><span class="chinese">对这个节日，我的一些随感，始于上周末。</span><span class="english">For this festival, some of my Essay, beginning last weekend.</span></p>
 
 <p><span class="chinese">小麦印度腥黑穗病主要随感病种子传播。</span><span class="english">Karnal bunt is spread mainly by the planting of infected seeds.</span></p>

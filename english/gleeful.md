@@ -1,5 +1,7 @@
 # gleeful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gleeful.md)
+
 <p><span class="chinese">这次是民主党人的掌声占了上风。</span><span class="english">This time the gleeful Democrats led the applause.</span></p>
 
 <p><span class="chinese">祝自己明天旅途愉快！</span><span class="english">Here I am wishing myself to have a smooth and gleeful trip tomorrow!</span></p>

@@ -1,5 +1,7 @@
 # 男生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nansheng_1.md)
+
 <p><span class="chinese">穿红衣服的那个男生来回答</span><span class="english">The guy in red.</span></p>
 
 <p><span class="chinese">学校男生宿舍出租，双人间。</span><span class="english">School dorm for rent.</span></p>

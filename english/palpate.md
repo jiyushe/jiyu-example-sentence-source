@@ -1,5 +1,7 @@
 # palpate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palpate.md)
+
 <p><span class="chinese">触碰检查有无触痛。</span><span class="english">Palpate to detect tenderness.</span></p>
 
 <p><span class="chinese">通常在触诊之前应先听诊腹部。</span><span class="english">Always auscultate the abdomen before you palpate it.</span></p>

@@ -1,5 +1,7 @@
 # warehouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warehouse.md)
+
 <p><span class="chinese">十三号仓库。第1季全。</span><span class="english">Warehouse 13 Season 1 720P.</span></p>
 
 <p><span class="chinese">窃贼撬窃了仓库。</span><span class="english">Thieves burgled the warehouse.</span></p>

@@ -1,5 +1,7 @@
 # quartile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quartile.md)
+
 <p><span class="chinese">我们介绍了位置的其他度量手段，中间以及内部四分位范围。</span><span class="english">We introduced two additional measures of location, the median and inter quartile range.</span></p>
 
 <p><span class="chinese">在名牌大学里只有不到百分之五的学生来自低收入阶层。</span><span class="english">And less than 5 percent of students at elite colleges come from the bottom quartile of family income.</span></p>

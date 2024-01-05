@@ -1,5 +1,7 @@
 # 查办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaban_2.md)
+
 <p><span class="chinese">别担心，黛斯尔夫人，我的两个最得力的助手正在查办此事。</span><span class="english">I have two of my best operatives working on your case.</span></p>
 
 <p><span class="chinese">违反此规定的移民顾问将可能会被取消会员资格，或被查办。</span><span class="english">Consultants who break the rules can be disbarred or prosecuted.</span></p>

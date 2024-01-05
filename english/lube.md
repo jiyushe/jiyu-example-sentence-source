@@ -1,5 +1,7 @@
 # lube
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lube.md)
+
 <p><span class="chinese">用橄榄油代替润滑剂。</span><span class="english">Use olive oil as lube.</span></p>
 
 <p><span class="chinese">如果有需要，继续添加润滑剂。</span><span class="english">Add more lube if needed.</span></p>

@@ -1,5 +1,7 @@
 # credit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/credit.md)
+
 <p><span class="chinese">他的信用好。</span><span class="english">His credit is good.</span></p>
 
 <p><span class="chinese">这是我赊帐买的。</span><span class="english">I bought it on credit.</span></p>

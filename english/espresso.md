@@ -1,5 +1,7 @@
 # espresso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/espresso.md)
+
 <p><span class="chinese">他看上去就像个压缩咖啡机！</span><span class="english">It looks like an espresso machine!</span></p>
 
 <p><span class="chinese">我想我需要一、两杯双倍义式浓缩咖啡。</span><span class="english">I guess I need a double espresso or two.</span></p>

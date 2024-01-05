@@ -1,5 +1,7 @@
 # jackknife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jackknife.md)
+
 <p><span class="chinese">但是，雅虎仍存在重叠管理问题。</span><span class="english">But, yahoo still is put in jackknife government issue.</span></p>
 
 <p><span class="chinese">阿奇又朝靴面上吐了些烟沫，再把大折刀磨了几下。</span><span class="english">Arch spat some more tobacco juice on his boot top and whetted the jackknife blade some more.</span></p>

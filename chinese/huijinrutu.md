@@ -1,5 +1,7 @@
 # 挥金如土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huijinrutu.md)
+
 <p><span class="chinese">他挥金如土。</span><span class="english">He spends gold like soil.</span></p>
 
 <p><span class="chinese">挥金如土的人会说，‘我要削减开支。’</span><span class="english">The spender will say, 'I'll cut back.'</span></p>

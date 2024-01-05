@@ -1,5 +1,7 @@
 # filtration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filtration.md)
+
 <p><span class="chinese">提取的粗提物经凝胶过滤后得到抗菌肽。</span><span class="english">AMP was obtained by sephadex gel filtration.</span></p>
 
 <p><span class="chinese">微粒过滤是三种技术中最简单的。</span><span class="english">Particle filtration is the simplest of the three.</span></p>

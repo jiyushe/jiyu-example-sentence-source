@@ -1,5 +1,7 @@
 # astrakhan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astrakhan.md)
+
 <p><span class="chinese">乐团经理扣好了羔皮外套。</span><span class="english">The impresario had buttoned his astrakhan coat.</span></p>
 
 <p><span class="chinese">乐团经理扣好了羔皮外套。</span><span class="english">The impresario had buttoned his astrakhan coat.</span></p>

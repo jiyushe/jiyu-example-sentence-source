@@ -1,5 +1,7 @@
 # 雾气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuqi_1.md)
+
 <p><span class="chinese">穿过无声无息的雾气。</span><span class="english">Through the pulseless haze.</span></p>
 
 <p><span class="chinese">空气中飘溢着香水的雾气。</span><span class="english">A mist of perfume hung in the air.</span></p>

@@ -1,5 +1,7 @@
 # interdependence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interdependence.md)
+
 <p><span class="chinese">这些力量就是”接触“和”互相依赖“</span><span class="english">These include "contact" and "interdependence."</span></p>
 
 <p><span class="chinese">这是我最喜欢的一句格言，揭示了我们是互相依存的。</span><span class="english">It's my favorite epithet, an ode to interdependence.</span></p>

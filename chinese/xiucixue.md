@@ -1,5 +1,7 @@
 # 修辞学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiucixue.md)
+
 <p><span class="chinese">对照是修辞学中的一个修辞格。</span><span class="english">Antithesis is a figure of speech in rhetoric.</span></p>
 
 <p><span class="chinese">张炼强先生是我国著名的修辞学家。</span><span class="english">Zhang Lianqiang is a famous rhetorician in China.</span></p>

@@ -1,5 +1,7 @@
 # feint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feint.md)
+
 <p><span class="chinese">我觉得是一种假象。</span><span class="english">I think it is a feint.</span></p>
 
 <p><span class="chinese">他装作努力工作。</span><span class="english">He made a feint of working hard.</span></p>

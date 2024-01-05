@@ -1,5 +1,7 @@
 # 雪线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuexian.md)
+
 <p><span class="chinese">但过去几年，雪线上升了500米。</span><span class="english">But in the past few years, the snow-line has risen 500m.</span></p>
 
 <p><span class="chinese">北国的雪线就在那伊利湖，尼亚加拉，渥太华。</span><span class="english">Some in the north finding their way to Erie, Niagara, Ottawa.</span></p>

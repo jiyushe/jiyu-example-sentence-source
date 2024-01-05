@@ -1,5 +1,7 @@
 # 苯酚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benfen_2.md)
+
 <p><span class="chinese">五氯苯酚中所含的二恶英正是污染物。</span><span class="english">PCP contains dioxins as contamination.</span></p>
 
 <p><span class="chinese">苯酚如果被摄入体内，可能会损坏人体的内脏。</span><span class="english">Carbolic acid can damage internal organs if ingested.</span></p>

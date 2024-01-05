@@ -1,5 +1,7 @@
 # criminally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/criminally.md)
+
 <p><span class="chinese">她们被指控犯了不良行为罪，一种轻罪。</span><span class="english">They are charged criminally with reckless conduct, a misdemeanor.</span></p>
 
 <p><span class="chinese">我在负责刑事犯病人的护士长的办公室里见到了拜妲。</span><span class="english">We met Baida in the office of the head nurse for the criminally insane.</span></p>

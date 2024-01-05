@@ -1,5 +1,7 @@
 # oozy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oozy.md)
+
 <p><span class="chinese">什么叫红斑渗出性胃炎？</span><span class="english">What calls erythema oozy sex gastritis ?</span></p>
 
 <p><span class="chinese">那海洋中的花草和泥污的森林</span><span class="english">The sea-blooms and the oozy woods which wear</span></p>

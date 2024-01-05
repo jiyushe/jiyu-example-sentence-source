@@ -1,5 +1,7 @@
 # 结束语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshuyu.md)
+
 <p><span class="chinese">在结束语后面用逗号。</span><span class="english">End the closing with a comma.</span></p>
 
 <p><span class="chinese">第三部分是本文的结束语。</span><span class="english">The third part is the peroration.</span></p>

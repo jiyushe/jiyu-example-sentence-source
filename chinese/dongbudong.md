@@ -1,5 +1,7 @@
 # 动不动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongbudong.md)
+
 <p><span class="chinese">所以别动不动就听他们的。</span><span class="english">So don’t listen to them.</span></p>
 
 <p><span class="chinese">他动不动就生点小病。</span><span class="english">He's prone to minor ailments.</span></p>

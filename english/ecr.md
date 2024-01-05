@@ -1,5 +1,7 @@
 # ecr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecr.md)
+
 <p><span class="chinese">然而，他是很难去讲述的，例如，3PL，供应链管理或ECR属于一个特殊的理论学说。</span><span class="english">Still, it is hard to relate, for example, 3PL, SCM or ECR to a specific theory.</span></p>
 
 <p><span class="chinese">将该系统应用于微波ECR等离子体参数的测定，经实验测试效果较好。</span><span class="english">This system is applied to the measurement of microwave ECR plasma inner parameters and proved to work well.</span></p>

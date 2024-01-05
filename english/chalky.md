@@ -1,5 +1,7 @@
 # chalky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chalky.md)
+
 <p><span class="chinese">这块饼有白垩味。</span><span class="english">This cake has got a chalky taste.</span></p>
 
 <p><span class="chinese">每个珊瑚虫有灰质的骨骼。</span><span class="english">Each animal has a chalky skeleton.</span></p>

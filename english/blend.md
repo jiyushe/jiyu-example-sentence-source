@@ -1,5 +1,7 @@
 # blend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blend.md)
+
 <p><span class="chinese">它将会是一个交融。</span><span class="english">It'll be a blend.</span></p>
 
 <p><span class="chinese">倒入牛奶和提子拌匀。</span><span class="english">Blend in milk and raisins.</span></p>

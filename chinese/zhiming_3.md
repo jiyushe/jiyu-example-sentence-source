@@ -1,5 +1,7 @@
 # 致命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiming_3.md)
+
 <p><span class="chinese">致命的海洋。</span><span class="english">The deadly ocean.</span></p>
 
 <p><span class="chinese">致命的系统错误！</span><span class="english">Critcal system Error!</span></p>

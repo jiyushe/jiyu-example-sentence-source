@@ -1,5 +1,7 @@
 # 皲裂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junlie.md)
+
 <p><span class="chinese">在这种干燥的气候下，我的嘴唇皲裂了。</span><span class="english">My lips chap in this dry weather.</span></p>
 
 <p><span class="chinese">他的嘴唇全都皲裂了，变得很粗糙。</span><span class="english">His lips were all chapped and rough.</span></p>

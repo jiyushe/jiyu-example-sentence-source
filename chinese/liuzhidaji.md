@@ -1,5 +1,7 @@
 # 溜之大吉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuzhidaji.md)
+
 <p><span class="chinese">这正是你溜之大吉的好时机。</span><span class="english">It's a good time for you to slip away.</span></p>
 
 <p><span class="chinese">当一只健康的老鼠闻到猫的味道时，立马溜之大吉。</span><span class="english">When a healthy rat smells a cat, it flees.</span></p>

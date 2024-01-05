@@ -1,5 +1,7 @@
 # pour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pour.md)
+
 <p><span class="chinese">倒进锅里。</span><span class="english">Pour into pan.</span></p>
 
 <p><span class="chinese">拉下来壶嘴倒。</span><span class="english">Pull pour spout down.</span></p>

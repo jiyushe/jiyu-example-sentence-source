@@ -1,5 +1,7 @@
 # doa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doa.md)
+
 <p><span class="chinese">现对麻醉深度监测技术作一综述。</span><span class="english">In this paper, the techniques for monitoring DOA are reviewed.</span></p>
 
 <p><span class="chinese">因此可靠而无创伤的DOA监测方法是病人迫切想得到的。</span><span class="english">So reliable and noninvasive monitoring of the DOA is highly desirable.</span></p>

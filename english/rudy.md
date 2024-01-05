@@ -1,5 +1,7 @@
 # rudy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rudy.md)
+
 <p><span class="chinese">鲁迪知道我爱黄玫瑰。</span><span class="english">Rudy knew I loved yellow roses.</span></p>
 
 <p><span class="chinese">台上还有凯莉·安、克里斯、鲁迪、史蒂夫和大卫。</span><span class="english">And Kellyanne and Chris and Rudy and Steve and David.</span></p>

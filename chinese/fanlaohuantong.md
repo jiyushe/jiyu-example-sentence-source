@@ -1,5 +1,7 @@
 # 返老还童
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanlaohuantong.md)
+
 <p><span class="chinese">现在就开始返老还童吧。</span><span class="english">Now, go forth and rejuvenate.</span></p>
 
 <p><span class="chinese">你不可能返老还童的，那段时光已经过去了。</span><span class="english">That time of your life has past.</span></p>

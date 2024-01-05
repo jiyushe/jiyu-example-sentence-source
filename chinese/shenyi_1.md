@@ -1,5 +1,7 @@
 # 深意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenyi_1.md)
+
 <p><span class="chinese">之后，他们对我颇有深意的眨眼。</span><span class="english">Then they wink at me.</span></p>
 
 <p><span class="chinese">他们都富有深意。</span><span class="english">They are redolent of meaning.</span></p>

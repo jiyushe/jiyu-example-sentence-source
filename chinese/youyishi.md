@@ -1,5 +1,7 @@
 # 有意识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyishi.md)
+
 <p><span class="chinese">有意识的肉块！</span><span class="english">Conscious meat!</span></p>
 
 <p><span class="chinese">她是一个有意识的梦想者。</span><span class="english">She is a conscious dre amer.</span></p>

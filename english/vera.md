@@ -1,5 +1,7 @@
 # vera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vera.md)
+
 <p><span class="chinese">菲拉的水比苏珊的少。</span><span class="english">Vera has less water than Susan.</span></p>
 
 <p><span class="chinese">富含天然芦荟、杏油、蜂胶和绵羊油。</span><span class="english">With Aloe Vera and Apricot oil extra.</span></p>

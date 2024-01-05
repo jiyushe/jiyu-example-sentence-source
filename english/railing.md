@@ -1,5 +1,7 @@
 # railing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/railing.md)
+
 <p><span class="chinese">桥栏杆?。</span><span class="english">Bridge railing?</span></p>
 
 <p><span class="chinese">他们撞在围栏上。</span><span class="english">They bumped against the railing.</span></p>

@@ -1,5 +1,7 @@
 # 工商业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshangye.md)
+
 <p><span class="chinese">美国的工商业衰退，银行关门，工人失业，农民失去他们的农场。</span><span class="english">Banks closed their doors. Workers lost their jobs.</span></p>
 
 <p><span class="chinese">美国工商业界对此承诺表示欢迎.</span><span class="english">The U.S. business community welcomed the commitment.</span></p>

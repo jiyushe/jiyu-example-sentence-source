@@ -1,5 +1,7 @@
 # 马列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/malie.md)
+
 <p><span class="chinese">马列德勒是他的独特个性的现象。</span><span class="english">Marlen Spindler is the phenomenon of his unique individuality.</span></p>
 
 <p><span class="chinese">流亡的伊朗国王穆罕默德·礼萨·马列维在埃及去世。</span><span class="english">Mohammad Reza Pahlavi , the Shah of Iran, died in Ehypt in exile.</span></p>

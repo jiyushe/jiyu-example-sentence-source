@@ -1,5 +1,7 @@
 # cart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cart.md)
+
 <p><span class="chinese">覂驾。</span><span class="english">The cart turned over.</span></p>
 
 <p><span class="chinese">这辆车易拉。</span><span class="english">The cart draws easily.</span></p>

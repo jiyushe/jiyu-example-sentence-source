@@ -1,5 +1,7 @@
 # practised
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practised.md)
+
 <p><span class="chinese">他利用了我的轻信。</span><span class="english">He has practised on my credulity.</span></p>
 
 <p><span class="chinese">他已养成了做自己事的习流。</span><span class="english">He has practised doing his own things.</span></p>

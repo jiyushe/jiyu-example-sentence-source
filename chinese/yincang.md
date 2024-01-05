@@ -1,5 +1,7 @@
 # 隐藏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yincang.md)
+
 <p><span class="chinese">揭露你隐藏的错处。</span><span class="english">Expose your hidden faults.</span></p>
 
 <p><span class="chinese">隐藏式筒夹组合。</span><span class="english">Built-in collet holder set.</span></p>

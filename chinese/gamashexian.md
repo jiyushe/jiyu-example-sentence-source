@@ -1,5 +1,7 @@
 # 伽马射线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gamashexian.md)
+
 <p><span class="chinese">这就需要观测更多的伽马射线爆发目标。</span><span class="english">And this will require observations of many more GRBs.</span></p>
 
 <p><span class="chinese">然而，像银河系这样的星系中，伽马射线爆很少发生。</span><span class="english">However, GRBs are rare in galaxies like the Milky Way.</span></p>

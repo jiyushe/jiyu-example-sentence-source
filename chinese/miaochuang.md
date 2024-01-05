@@ -1,5 +1,7 @@
 # 苗床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaochuang.md)
+
 <p><span class="chinese">秧苗被放置在一大片浅苗床上。</span><span class="english">The seedlings were placed in a big flat.</span></p>
 
 <p><span class="chinese">他们将土耙平作为苗床。</span><span class="english">They raked the soil smooth for a seedbed.</span></p>

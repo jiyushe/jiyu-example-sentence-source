@@ -1,5 +1,7 @@
 # dimensionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimensionally.md)
+
 <p><span class="chinese">图形的尺寸必须正确。</span><span class="english">The image must be dimensionally correct.</span></p>
 
 <p><span class="chinese">尺寸稳定，不缩不裂。</span><span class="english">Dimensionally stable, non-indented crack.</span></p>

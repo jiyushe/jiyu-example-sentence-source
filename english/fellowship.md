@@ -1,5 +1,7 @@
 # fellowship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fellowship.md)
+
 <p><span class="chinese">他在研究员基金资助下出了国。</span><span class="english">He went abroad on a fellowship.</span></p>
 
 <p><span class="chinese">这是团契相交的问题。</span><span class="english">This is the question of fellowship.</span></p>

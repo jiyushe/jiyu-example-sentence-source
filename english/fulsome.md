@@ -1,5 +1,7 @@
 # fulsome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fulsome.md)
+
 <p><span class="chinese">这是一个很满的议程。</span><span class="english">It’s a fulsome agenda.</span></p>
 
 <p><span class="chinese">我讨厌她那套令人作呕的奉承。</span><span class="english">I was disgusted by her fulsome flattery.</span></p>

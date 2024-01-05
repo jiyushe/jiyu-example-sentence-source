@@ -1,5 +1,7 @@
 # carbonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbonic.md)
+
 <p><span class="chinese">二氧化碳一旦进入水中，就会发生反应形成碳酸。</span><span class="english">Once in the water, it reacts to form carbonic acid.</span></p>
 
 <p><span class="chinese">这些蛋白质叫做碳酸酐酶。</span><span class="english">The proteins are enzymes called carbonic anhydrases.</span></p>

@@ -1,5 +1,7 @@
 # noble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noble.md)
+
 <p><span class="chinese">他出身高贵。</span><span class="english">He is of noble birth.</span></p>
 
 <p><span class="chinese">犹如高洁的剑侠。</span><span class="english">As a noble sword master.</span></p>

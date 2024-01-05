@@ -1,5 +1,7 @@
 # ban 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ban.md)
+
 <p><span class="chinese">卡尔弗反对禁止实验。</span><span class="english">Culver opposes a ban.</span></p>
 
 <p><span class="chinese">马斯达将禁止汽车。</span><span class="english">Masdar will ban cars.</span></p>

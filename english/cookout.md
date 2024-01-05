@@ -1,5 +1,7 @@
 # cookout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cookout.md)
+
 <p><span class="chinese">这真是个在外吃烧烤的好天气。</span><span class="english">This is a perfect day for a cookout.</span></p>
 
 <p><span class="chinese">我会在野炊时见到你吗？</span><span class="english">To Holly Will I see you at the cookout ?</span></p>

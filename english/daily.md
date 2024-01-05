@@ -1,5 +1,7 @@
 # daily 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daily.md)
+
 <p><span class="chinese">所以我天天跳舞。</span><span class="english">So I dance daily.</span></p>
 
 <p><span class="chinese">每日一软胶囊。</span><span class="english">One softgel daily.</span></p>

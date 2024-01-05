@@ -1,5 +1,7 @@
 # 陈诉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chensu_1.md)
+
 <p><span class="chinese">演示者陈诉一个提案。</span><span class="english">A presenter states the proposal.</span></p>
 
 <p><span class="chinese">正在陈诉你的航班信息。</span><span class="english">They're calling your flight now.</span></p>

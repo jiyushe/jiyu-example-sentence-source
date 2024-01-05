@@ -1,5 +1,7 @@
 # escarpment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escarpment.md)
+
 <p><span class="chinese">悬崖上凸出一块空地。</span><span class="english">A shelf of land extended from the escarpment.</span></p>
 
 <p><span class="chinese">在海藻森林的下面是陡峭的悬崖。</span><span class="english">The face of an escarpment below the kelp forest.</span></p>

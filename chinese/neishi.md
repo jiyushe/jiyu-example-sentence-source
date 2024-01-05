@@ -1,5 +1,7 @@
 # 内室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neishi.md)
+
 <p><span class="chinese">来到你的内室几分宁静。</span><span class="english">Come into your room silently.</span></p>
 
 <p><span class="chinese">现在就进入你内室。</span><span class="english">Into Your chambers right now.</span></p>

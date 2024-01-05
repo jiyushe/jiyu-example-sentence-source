@@ -1,5 +1,7 @@
 # 抚恤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuxu_1.md)
+
 <p><span class="chinese">抚恤死难工家属的基金会即将建立起来。</span><span class="english">A fund will be set up for the dead men's families.</span></p>
 
 <p><span class="chinese">孙皓初立时，抚恤人民、开仓赈贫。</span><span class="english">Early immediate, compassionate people, the poor relief opening.</span></p>

@@ -1,5 +1,7 @@
 # generic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generic.md)
+
 <p><span class="chinese">OPC是一个基本的原则。</span><span class="english">OPC is a generic principle.</span></p>
 
 <p><span class="chinese">BB霜和隔离霜可以通用？</span><span class="english">BB Cream and Cream can be generic?</span></p>

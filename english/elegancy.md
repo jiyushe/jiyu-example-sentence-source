@@ -1,5 +1,7 @@
 # elegancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elegancy.md)
+
 <p><span class="chinese">有时我喜欢老式故事平静优雅的叙事方式。</span><span class="english">Sometimes I like the calm elegancy of the old ones.</span></p>
 
 <p><span class="chinese">三是使中原汉画呈现出飘逸的美学风格。</span><span class="english">Third, the Han paintings of central China have an aesthetic style of elegancy.</span></p>

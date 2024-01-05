@@ -1,5 +1,7 @@
 # 塞子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saizi.md)
+
 <p><span class="chinese">拔掉塞子，把水放掉。</span><span class="english">Pull the plug out.</span></p>
 
 <p><span class="chinese">他拔去酒瓶的塞子。</span><span class="english">He uncorked the wine bottle.</span></p>

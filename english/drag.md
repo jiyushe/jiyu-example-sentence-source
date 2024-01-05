@@ -1,5 +1,7 @@
 # drag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drag.md)
+
 <p><span class="chinese">干么把我拉扯进去？</span><span class="english">Why drag me in?</span></p>
 
 <p><span class="chinese">高速度低担搁。</span><span class="english">High speed low drag.</span></p>

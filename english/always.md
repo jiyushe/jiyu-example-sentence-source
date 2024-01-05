@@ -1,5 +1,7 @@
 # always
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/always.md)
+
 <p><span class="chinese">你经常有饥饿感吗？</span><span class="english">Always hungry?</span></p>
 
 <p><span class="chinese">我总是会扣上它。</span><span class="english">I always do it.</span></p>

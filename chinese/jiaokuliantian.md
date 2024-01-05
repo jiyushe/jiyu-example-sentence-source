@@ -1,5 +1,7 @@
 # 叫苦连天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaokuliantian.md)
+
 <p><span class="chinese">修路工程使当地居民叫苦连天。</span><span class="english">The road works caused much complaint among local neighbors.</span></p>
 
 <p><span class="chinese">修路工程使当地居民叫苦连天。</span><span class="english">The road-works caused much complaint among local neighbours.</span></p>

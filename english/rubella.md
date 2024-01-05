@@ -1,5 +1,7 @@
 # rubella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rubella.md)
+
 <p><span class="chinese">风疹引起皮疹和腺体肿胀。</span><span class="english">Rubella causes a rash and swollen glands.</span></p>
 
 <p><span class="chinese">MMR代表麻疹、腮腺炎和风疹。</span><span class="english">MMR stands for measles, mumps, and rubella.</span></p>

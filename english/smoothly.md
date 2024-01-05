@@ -1,5 +1,7 @@
 # smoothly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smoothly.md)
+
 <p><span class="chinese">这车乘起来很平稳。</span><span class="english">The car rides smoothly.</span></p>
 
 <p><span class="chinese">这支钢笔书写流畅。</span><span class="english">The pen writes smoothly.</span></p>

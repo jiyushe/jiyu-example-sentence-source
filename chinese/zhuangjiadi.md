@@ -1,5 +1,7 @@
 # 庄稼地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangjiadi.md)
+
 <p><span class="chinese">但是现在有更多的庄稼地，是吗?。</span><span class="english">What is the world's population now?</span></p>
 
 <p><span class="chinese">别让这些动物进庄稼地里去。</span><span class="english">Keep these animals out of the fields.</span></p>

@@ -1,5 +1,7 @@
 # 电熨斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianyundou.md)
+
 <p><span class="chinese">我能不能向你借一只电熨斗？</span><span class="english">Do you have an iron I could borrow?</span></p>
 
 <p><span class="chinese">你知道我能在哪儿买到电熨斗吗？</span><span class="english">Do you know where I can buy an iron?</span></p>

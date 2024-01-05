@@ -1,5 +1,7 @@
 # marinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marinate.md)
+
 <p><span class="chinese">将肉在腌汁里浸一整夜。</span><span class="english">Let the meat marinate overnight.</span></p>
 
 <p><span class="chinese">腌制猪肉20分钟左右。</span><span class="english">Marinate pork for about 20 minutes.</span></p>

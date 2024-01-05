@@ -1,5 +1,7 @@
 # 充饥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongji.md)
+
 <p><span class="chinese">他以果充饥。</span><span class="english">The fruit appeased  his hunger.</span></p>
 
 <p><span class="chinese">他们摘了一些蚕豆充饥。</span><span class="english">They picked some favas to stay their hunger.</span></p>

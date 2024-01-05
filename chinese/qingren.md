@@ -1,5 +1,7 @@
 # 情人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingren.md)
+
 <p><span class="chinese">你的初恋情人？</span><span class="english">Your first lover?</span></p>
 
 <p><span class="chinese">可我是她的情人吗？</span><span class="english">But was I her lover?</span></p>

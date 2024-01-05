@@ -1,5 +1,7 @@
 # 现金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjin_3.md)
+
 <p><span class="chinese">用现金支付。</span><span class="english">Pay with cash.</span></p>
 
 <p><span class="chinese">提供现金还是食品？</span><span class="english">Cash or Tortillas?</span></p>

@@ -1,5 +1,7 @@
 # 古典
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudian.md)
+
 <p><span class="chinese">古典音乐的听众年纪可能大一些。</span><span class="english">it could be older audience.</span></p>
 
 <p><span class="chinese">啊，古典的力量啊。</span><span class="english">Ah, the power of quaintness.</span></p>

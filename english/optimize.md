@@ -1,5 +1,7 @@
 # optimize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optimize.md)
+
 <p><span class="chinese">最后，找准你最适合的职业生涯。</span><span class="english">Finally, optimize your career-life fit.</span></p>
 
 <p><span class="chinese">因此这个函数就是我想要最优化的函数。</span><span class="english">So that's the function I want to optimize.</span></p>

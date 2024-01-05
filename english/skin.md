@@ -1,5 +1,7 @@
 # skin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skin.md)
+
 <p><span class="chinese">皮肤干燥？</span><span class="english">Dry skin?</span></p>
 
 <p><span class="chinese">我说干性皮肤。</span><span class="english">My skin is dry.</span></p>

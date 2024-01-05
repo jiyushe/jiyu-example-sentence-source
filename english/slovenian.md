@@ -1,5 +1,7 @@
 # slovenian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slovenian.md)
+
 <p><span class="chinese">八年后，这名斯洛文尼亚选手又为祖国赢得一枚金牌。</span><span class="english">Eight years later the Slovenian rower also brought home a gold medal.</span></p>
 
 <p><span class="chinese">看到斯洛文尼亚国旗在巴塞罗那奥运会领奖台上方飘扬，对这个国家而言意义非凡。</span><span class="english">To see the Slovenian flag among medal winners in Barcelona was a big thing.</span></p>

@@ -1,5 +1,7 @@
 # dustpan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dustpan.md)
+
 <p><span class="chinese">扫帚和簸箕。</span><span class="english">A broom and dustpan.</span></p>
 
 <p><span class="chinese">畚箕通常用于扫垃圾。</span><span class="english">A dustpan is often used to pickup rubbish.</span></p>

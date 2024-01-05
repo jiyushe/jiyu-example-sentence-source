@@ -1,5 +1,7 @@
 # knave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knave.md)
+
 <p><span class="chinese">一次成无赖，永远是无赖。</span><span class="english">Once a knave, ever a knave.</span></p>
 
 <p><span class="chinese">聪明的骗子不需要中介人。</span><span class="english">A crafty knave needs no broker.</span></p>

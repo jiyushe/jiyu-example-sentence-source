@@ -1,5 +1,7 @@
 # immovable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immovable.md)
+
 <p><span class="chinese">但这一梦想，似乎也很遥远。</span><span class="english">But, it too, seemed immovable.</span></p>
 
 <p><span class="chinese">但是你的话被石头关住了，啊，“不动的美”！</span><span class="english">But your speech is shut up in stone, O Immovable Beauty!</span></p>

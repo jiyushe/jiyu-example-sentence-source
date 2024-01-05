@@ -1,5 +1,7 @@
 # fraught
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fraught.md)
+
 <p><span class="chinese">这个过程也将问题重重。</span><span class="english">That process, too, will be fraught.</span></p>
 
 <p><span class="chinese">显然这一段会充满感情的创伤。</span><span class="english">Clearly this episode will be fraught with emotion.</span></p>

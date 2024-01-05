@@ -1,5 +1,7 @@
 # 琼浆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiongjiang.md)
+
 <p><span class="chinese">饮得琼浆鲜草宴。</span><span class="english">Drink then eat fresh grass.</span></p>
 
 <p><span class="chinese">纯洁的心田贮满爱的琼浆。</span><span class="english">A heart whose love in innocent.</span></p>

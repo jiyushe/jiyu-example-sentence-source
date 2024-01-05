@@ -1,5 +1,7 @@
 # neurochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurochemical.md)
+
 <p><span class="chinese">总之，我在考虑来个生物学的社交探索，结合神经化学方面的专家知识。</span><span class="english">Anyway, I was thinking more of a bio- social exploration with a neurochemical overlay.</span></p>
 
 <p><span class="chinese">一种叫多巴胺的影响神经系统的化学物质从腹侧表皮释放到尾核状体。</span><span class="english">A neurochemical called dopamine is released from the ventral tegmental area into the caudate nucleus.</span></p>

@@ -1,5 +1,7 @@
 # 过滤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guolv.md)
+
 <p><span class="chinese">追踪和过滤。</span><span class="english">Tracking and filtering.</span></p>
 
 <p><span class="chinese">别再说“自动过滤洛杉矶”了！加入我们吧！</span><span class="english">Don't beat L. A. ! Join us!</span></p>

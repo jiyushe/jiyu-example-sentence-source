@@ -1,5 +1,7 @@
 # 高歌猛进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaogemengjin.md)
+
 <p><span class="chinese">丈母娘鞭促房价高歌猛进。</span><span class="english">Mothers-in-law improve the rising housing price.</span></p>
 
 <p><span class="chinese">而澳大利亚的本国经济和外汇也在过去的十年高歌猛进。</span><span class="english">Australia’s whole economy and its currency have been on a tear in the past decade.</span></p>

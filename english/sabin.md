@@ -1,5 +1,7 @@
 # sabin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sabin.md)
+
 <p><span class="chinese">哈罗德。莎宝先生有电话。</span><span class="english">We have a call for Mr. Harold Sabin.</span></p>
 
 <p><span class="chinese">一个名叫萨宾的人研发出了,一种口服小儿麻痹症疫苗</span><span class="english">An oral polio vaccine was developed by a man named Sabin.</span></p>

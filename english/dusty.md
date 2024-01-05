@@ -1,5 +1,7 @@
 # dusty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dusty.md)
+
 <p><span class="chinese">你的车真的积满了灰尘。</span><span class="english">Your car sure is dusty.</span></p>
 
 <p><span class="chinese">天也蓝，云也白。</span><span class="english">Navy sky and dusty white.</span></p>

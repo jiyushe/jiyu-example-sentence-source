@@ -1,5 +1,7 @@
 # 描摹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaomo.md)
+
 <p><span class="chinese">对爱我真挚，描摹只求实</span><span class="english">O' let me, true in love, but truly write</span></p>
 
 <p><span class="chinese">这些画按原尺寸描摹了出来。</span><span class="english">They were sketched out full size on paper.</span></p>

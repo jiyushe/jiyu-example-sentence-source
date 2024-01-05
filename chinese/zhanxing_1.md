@@ -1,5 +1,7 @@
 # 展性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanxing_1.md)
+
 <p><span class="chinese">本体材质采用精选的展性铸铁不易破裂变形。</span><span class="english">Made of selected malleable steel making them virtually unbreakable.</span></p>
 
 <p><span class="chinese">结论钉螺血淋巴细胞中的伸展性阿米巴细胞含ACP。</span><span class="english">Conclusion There is ACP in the spreading blood cells of oncomelania hupensis.</span></p>

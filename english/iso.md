@@ -1,5 +1,7 @@
 # iso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iso.md)
+
 <p><span class="chinese">由国际标准化组织了200余花仍然尖锐。</span><span class="english">By ISO 200 I took the flower still sharp.</span></p>
 
 <p><span class="chinese">ISO大致是在暗光下对光的敏感程度。</span><span class="english">ISO is a rough measure of sensitivity to low light.</span></p>

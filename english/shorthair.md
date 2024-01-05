@@ -1,5 +1,7 @@
 # shorthair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shorthair.md)
+
 <p><span class="chinese">希望在此结识更多美国短毛猫的爱好者。</span><span class="english">Hope to meet more American Shorthair Lover in here.</span></p>
 
 <p><span class="chinese">CFA登录猫场，专门繁殖英国短毛猫。</span><span class="english">CFA registered Cattery which breeds British shorthair.</span></p>

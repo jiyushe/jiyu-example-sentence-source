@@ -1,5 +1,7 @@
 # viscera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viscera.md)
+
 <p><span class="chinese">可食用的屠宰过的动物内脏。</span><span class="english">Edible viscera of a butch ered animal.</span></p>
 
 <p><span class="chinese">各种内脏绞痛的针灸治疗。</span><span class="english">The acupuncture treatment of viscera angina.</span></p>

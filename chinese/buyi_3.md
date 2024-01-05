@@ -1,5 +1,7 @@
 # 不意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyi_3.md)
+
 <p><span class="chinese">但沉默不意指默认。</span><span class="english">But silence didn't imply consent.</span></p>
 
 <p><span class="chinese">它会随时随地且出奇不意地发生。</span><span class="english">It will happen by surprise in any place and time.</span></p>

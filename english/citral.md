@@ -1,5 +1,7 @@
 # citral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citral.md)
+
 <p><span class="chinese">柠檬醛和桉叶油素的新资源植物。</span><span class="english">New resource plants for citral and cineole.</span></p>
 
 <p><span class="chinese">香叶醛由香叶醇氧化得到的柠檬酸的结构上的同质异构体。</span><span class="english">A structural isomer of citral that is obtained from the oxidation of geraniol.</span></p>

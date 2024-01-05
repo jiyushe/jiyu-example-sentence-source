@@ -1,5 +1,7 @@
 # 十有八九
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyoubajiu.md)
+
 <p><span class="chinese">我们俩十有八九会被抓进集中营。</span><span class="english">Nine chances out of ten we'd both wind up in a concentration camp.</span></p>
 
 <p><span class="chinese">十有八九是我们俩最终都进集中营。</span><span class="english">Eight or nine of the ten victims, labeled lackeys, were poor people.</span></p>

@@ -1,5 +1,7 @@
 # 如此
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruci.md)
+
 <p><span class="chinese">但愿如此!</span><span class="english">I wish!</span></p>
 
 <p><span class="chinese">如此柔软。</span><span class="english">So soft.</span></p>

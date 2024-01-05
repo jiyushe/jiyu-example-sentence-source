@@ -1,5 +1,7 @@
 # abjure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abjure.md)
+
 <p><span class="chinese">他发誓放弃那份工作。</span><span class="english">He abjure to give up the job.</span></p>
 
 <p><span class="chinese">我爸爸让我戒烟。</span><span class="english">My father made me to abjure smoking.</span></p>

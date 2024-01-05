@@ -1,5 +1,7 @@
 # 汹涌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongyong.md)
+
 <p><span class="chinese">水势汹涌。</span><span class="english">The current is turbulent.</span></p>
 
 <p><span class="chinese">汹涌的大海吞没了那艘小机帆船。</span><span class="english">A wave of grief engulfed them.</span></p>

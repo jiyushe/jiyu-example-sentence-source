@@ -1,5 +1,7 @@
 # 川流不息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanliubuxi.md)
+
 <p><span class="chinese">人群川流不息沿街道走下去。</span><span class="english">The crowds flowed down the street.</span></p>
 
 <p><span class="chinese">车辆和行人在市内街上川流不息。</span><span class="english">Traffic circulates in the streets of a city.</span></p>

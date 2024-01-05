@@ -1,5 +1,7 @@
 # 运动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yundong.md)
+
 <p><span class="chinese">运动外套？</span><span class="english">Sports coats?</span></p>
 
 <p><span class="chinese">那就多运动吧！</span><span class="english">Exercise more!</span></p>

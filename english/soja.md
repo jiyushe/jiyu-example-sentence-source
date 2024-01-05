@@ -1,5 +1,7 @@
 # soja
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soja.md)
+
 <p><span class="chinese">含蛋白质的代表食物是大豆及豆制品。</span><span class="english">Containing protein delegate food is soja and bean products.</span></p>
 
 <p><span class="chinese">大豆浓缩蛋白是一种优质蛋白质资源。</span><span class="english">Soja condenses albumen is a kind of high grade protein resource.</span></p>

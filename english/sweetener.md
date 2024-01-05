@@ -1,5 +1,7 @@
 # sweetener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweetener.md)
+
 <p><span class="chinese">或者是牛奶加甜味料呢？</span><span class="english">Or with milk and sweetener?</span></p>
 
 <p><span class="chinese">甜菊糖苷是一种低热能的高倍甜味剂。</span><span class="english">Steviosides is a low heat energy sweetener.</span></p>

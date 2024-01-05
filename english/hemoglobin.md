@@ -1,5 +1,7 @@
 # hemoglobin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemoglobin.md)
+
 <p><span class="chinese">不知道你的血色素指标是多少？</span><span class="english">You do not know how much of hemoglobin targets?</span></p>
 
 <p><span class="chinese">请等一下你的血红蛋白化验结果。</span><span class="english">Please wait for the result of your hemoglobin test.</span></p>

@@ -1,5 +1,7 @@
 # 牙龈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yayin_1.md)
+
 <p><span class="chinese">腐烂的牙齿和牙龈。</span><span class="english">Rotting teeth and gums.</span></p>
 
 <p><span class="chinese">按摩，刺激牙龈。</span><span class="english">Massage, stimulates gums.</span></p>

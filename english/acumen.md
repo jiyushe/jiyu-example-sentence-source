@@ -1,5 +1,7 @@
 # acumen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acumen.md)
+
 <p><span class="chinese">如果李在镕具有商业才干，那这是幸事。</span><span class="english">If Mr Lee the third has business acumen , fine.</span></p>
 
 <p><span class="chinese">鲍勃是一名超卓的辩护律师，他拥有超群的法令才智。</span><span class="english">Bob is an excellent trial lawyer with a superior legal acumen.</span></p>

@@ -1,5 +1,7 @@
 # incongruent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incongruent.md)
+
 <p><span class="chinese">名物化是过程或事件的非一致表达形式。</span><span class="english">Nominalization is the incongruent way of expressing processes or events.</span></p>
 
 <p><span class="chinese">摔倒事件在通常的生活中是不够协调的，它们显得出乎人们的意料。</span><span class="english">Falls are incongruent in the normal course of life in that they are unexpected.</span></p>

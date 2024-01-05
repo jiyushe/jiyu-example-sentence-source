@@ -1,5 +1,7 @@
 # 情谊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyi_2.md)
+
 <p><span class="chinese">贪爱财帛会分离情谊。</span><span class="english">Love of money destroys friendships.</span></p>
 
 <p><span class="chinese">你们在银幕上怎么演那种情谊？</span><span class="english">How did you recreate that bond on screen?</span></p>

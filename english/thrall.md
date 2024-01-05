@@ -1,5 +1,7 @@
 # thrall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrall.md)
+
 <p><span class="chinese">酒鬼是酒的奴隶。</span><span class="english">He is a thrall to drink.</span></p>
 
 <p><span class="chinese">她完全是被狄更斯给迷住了。</span><span class="english">She was completely in thrall to Dickens.</span></p>

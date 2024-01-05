@@ -1,5 +1,7 @@
 # 仙界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjie.md)
+
 <p><span class="chinese">仙界是彩虹仙子的家！</span><span class="english">Fairyland is home to seven colorful sisters.</span></p>
 
 <p><span class="chinese">仙界是七位气象仙子的家！</span><span class="english">Fairyland is home to the seven Weather Fairies!</span></p>

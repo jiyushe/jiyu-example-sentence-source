@@ -1,5 +1,7 @@
 # initiating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/initiating.md)
+
 <p><span class="chinese">重整与启动上帝的下一步行动。</span><span class="english">Realigning and Initiating the Next Move of God.</span></p>
 
 <p><span class="chinese">创造绿色饭店，倡导绿色消费。</span><span class="english">Establishing Green Hotel, Initiating Green Consumption.</span></p>

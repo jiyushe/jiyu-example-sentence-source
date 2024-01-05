@@ -1,5 +1,7 @@
 # albuminuria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albuminuria.md)
+
 <p><span class="chinese">主要终点为蛋白尿改变。</span><span class="english">The primary end point was a change in albuminuria.</span></p>
 
 <p><span class="chinese">而这种重吸收作用受损就会导致蛋白尿发生。</span><span class="english">Dysfunction of this retrieval pathway leads to albuminuria.</span></p>

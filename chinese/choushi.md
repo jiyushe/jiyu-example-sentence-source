@@ -1,5 +1,7 @@
 # 丑事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choushi.md)
+
 <p><span class="chinese">村子里的居民知道这件丑事。</span><span class="english">The villagers knew about the scandal.</span></p>
 
 <p><span class="chinese">公众对丑事总是喜闻乐道。</span><span class="english">The public has an appetite for scandal.</span></p>

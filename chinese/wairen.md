@@ -1,5 +1,7 @@
 # 外人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wairen.md)
+
 <p><span class="chinese">外人是不能随便靠的。</span><span class="english">Outsides can't lean on it.</span></p>
 
 <p><span class="chinese">别把我当做外人。</span><span class="english">Don't treat me as an outsider.</span></p>

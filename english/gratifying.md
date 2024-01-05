@@ -1,5 +1,7 @@
 # gratifying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gratifying.md)
+
 <p><span class="chinese">形势喜人。</span><span class="english">The situation is gratifying.</span></p>
 
 <p><span class="chinese">又是另一个奇怪的令人满足的暴力时刻。</span><span class="english">Another oddly gratifying moment of violence.</span></p>

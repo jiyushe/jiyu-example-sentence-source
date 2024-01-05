@@ -1,5 +1,7 @@
 # 起居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiju_3.md)
+
 <p><span class="chinese">有生活起居用品吗？</span><span class="english">Is there any life necessary?</span></p>
 
 <p><span class="chinese">他生活起居都应该有定时。</span><span class="english">He ought to live by regular hours.</span></p>

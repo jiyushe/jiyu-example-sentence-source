@@ -1,5 +1,7 @@
 # deratization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deratization.md)
+
 <p><span class="chinese">上次你船何时开始灭鼠的？</span><span class="english">When was the last deratization carried out on your ship?</span></p>
 
 <p><span class="chinese">在济南市近郊区农村家庭进行现场灭鼠效果观察。</span><span class="english">Observation on the effect of deratization was carried out on-the-spot in houses of Ji'nan suburb.</span></p>

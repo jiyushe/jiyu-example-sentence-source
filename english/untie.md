@@ -1,5 +1,7 @@
 # untie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untie.md)
+
 <p><span class="chinese">但是，他还是解开了袋子。</span><span class="english">But untie it he did.</span></p>
 
 <p><span class="chinese">我解不开这个结。</span><span class="english">I can't untie this knot.</span></p>

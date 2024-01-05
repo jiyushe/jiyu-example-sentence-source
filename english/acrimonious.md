@@ -1,5 +1,7 @@
 # acrimonious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acrimonious.md)
+
 <p><span class="chinese">但是刚开始的时候的确是很痛苦。</span><span class="english">But it was acrimonious from the beginning.</span></p>
 
 <p><span class="chinese">但是,数周来的针锋相对可能使两党很难缩小分歧.</span><span class="english">But weeks of acrimonious dealings may make it hard to narrow the partisan differences.</span></p>

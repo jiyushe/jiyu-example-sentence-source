@@ -1,5 +1,7 @@
 # featureless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/featureless.md)
+
 <p><span class="chinese">经过艰难跋涉，我们来到一块铺满鹅卵石被晒干的凹陷区域，此地除了有一堆粗糙的半圆形玄武岩外，乍看起来毫无特色。</span><span class="english">We trudged out onto a cobbled, sunbaked pan, featureless but for a rough semicircle of basalt rocks.</span></p>
 
 <p><span class="chinese">毫无特色的收费高速公路和州际公路成了我们许多人的专门选择，这是为什么呢？</span><span class="english">Why is it that the featureless turnpikes and interstates are the routes of choice for so many of us?</span></p>

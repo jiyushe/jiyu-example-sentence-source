@@ -1,5 +1,7 @@
 # 罗列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luolie.md)
+
 <p><span class="chinese">我来罗列出一些美国的税率</span><span class="english">I'm going to give some U.S. tax rates.</span></p>
 
 <p><span class="chinese">她开始扳着手指罗列这些名字。</span><span class="english">And she began ticking them off on her fingers.</span></p>

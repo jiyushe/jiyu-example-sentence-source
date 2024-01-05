@@ -1,5 +1,7 @@
 # aslant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aslant.md)
+
 <p><span class="chinese">他身子歪斜着依靠在墙上。</span><span class="english">He leant aslant against the wall.</span></p>
 
 <p><span class="chinese">阳光斜斜地照到他的脸上。</span><span class="english">The sun shone aslant into his face.</span></p>

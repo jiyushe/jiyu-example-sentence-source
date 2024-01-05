@@ -1,5 +1,7 @@
 # 巨擘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jubo.md)
+
 <p><span class="chinese">全球钻石巨擘戴比尔斯'封矿'。</span><span class="english">De Beers mothballs mines as diamond sales slide.</span></p>
 
 <p><span class="chinese">制药和工程巨擘也公布良好的业绩.</span><span class="english">Drugs and engineering giants gave good readouts too.</span></p>

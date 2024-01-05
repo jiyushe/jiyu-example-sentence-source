@@ -1,5 +1,7 @@
 # cmos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cmos.md)
+
 <p><span class="chinese">单芯片16位CMOS单片机。</span><span class="english">Single chip 16-bit CMOS microcomputer.</span></p>
 
 <p><span class="chinese">六角缓冲区。高压硅栅CMOS。</span><span class="english">Hex buffer. High-voltage silicon-gate CMOS.</span></p>

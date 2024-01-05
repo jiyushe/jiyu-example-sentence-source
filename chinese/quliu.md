@@ -1,5 +1,7 @@
 # 去留
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quliu.md)
+
 <p><span class="chinese">去留听便。</span><span class="english">You may go or stay as you please.</span></p>
 
 <p><span class="chinese">在去留问题上，他犹豫不决了。</span><span class="english">He hovered between staying and leaving.</span></p>

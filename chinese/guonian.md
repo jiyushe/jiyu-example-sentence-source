@@ -1,5 +1,7 @@
 # 过年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guonian.md)
+
 <p><span class="chinese">你今年过年还回家吗？</span><span class="english">How did you get home?</span></p>
 
 <p><span class="chinese">过年了要忙年货。</span><span class="english">New Year New Year to be busy.</span></p>

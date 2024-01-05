@@ -1,5 +1,7 @@
 # rouge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rouge.md)
+
 <p><span class="chinese">女人不抹胭脂自带彩。</span><span class="english">Women wore Rouge with color.</span></p>
 
 <p><span class="chinese">两个都是狂暴欺人的国家。</span><span class="english">Both are rouge and bully nations.</span></p>

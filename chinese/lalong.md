@@ -1,5 +1,7 @@
 # 拉拢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lalong.md)
+
 <p><span class="chinese">他们不想被拉拢回来。</span><span class="english">They want to be wooed back.</span></p>
 
 <p><span class="chinese">院外集团的说客用贿金拉拢政府官员。</span><span class="english">Lobbyists use slush fund to bribe public officials.</span></p>

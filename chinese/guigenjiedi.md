@@ -1,5 +1,7 @@
 # 归根结底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guigenjiedi.md)
+
 <p><span class="chinese">性爱归根结底是件荒唐事。</span><span class="english">SEX is the ultimate absurdity.</span></p>
 
 <p><span class="chinese">为画家树碑立传归根结底还是他的作品。</span><span class="english">A painter's monument is his work.</span></p>

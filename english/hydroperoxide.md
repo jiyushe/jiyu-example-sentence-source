@@ -1,5 +1,7 @@
 # hydroperoxide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroperoxide.md)
+
 <p><span class="chinese">研究了过氧化氢蒎烷对丁苯橡胶聚合的影响。</span><span class="english">The effect of pinane hydroperoxide on the polymerization of SBR 1502 was studied.</span></p>
 
 <p><span class="chinese">以高顺式选择性蒎烷为原料，经液相空气氧化制得蒎烷氢过氧化物。</span><span class="english">Pinane hydroperoxide was obtained from the initial material-pinane with high cis-pinane content.</span></p>

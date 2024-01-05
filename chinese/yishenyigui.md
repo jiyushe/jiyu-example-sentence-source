@@ -1,5 +1,7 @@
 # 疑神疑鬼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishenyigui.md)
+
 <p><span class="chinese">对于人与人之间的合作，疑神疑鬼总是有害。</span><span class="english">The suspicion of Procris is always harmful to teamwork.</span></p>
 
 <p><span class="chinese">而且她既不会疑神疑鬼，也不会限制你的自由。</span><span class="english">She will not be suspicious and never limited your freedom.</span></p>

@@ -1,5 +1,7 @@
 # mcg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mcg.md)
+
 <p><span class="chinese">通过线性插值和高阶拟合的方法，绘制出人体心脏各个时刻的等磁图。</span><span class="english">Three-dimensional MCG is plotted by the way of bilinear interpolation and higher fitting.</span></p>
 
 <p><span class="chinese">利用它可以使心磁信号的信噪比提高到器件的本征噪声水平。</span><span class="english">With this filter, the signal-to-noise ratio of a MCG is improved to the intrinsic noise level.</span></p>

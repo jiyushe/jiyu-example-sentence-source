@@ -1,5 +1,7 @@
 # 评比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingbi.md)
+
 <p><span class="chinese">华硕在这项评比中的得分是416分。</span><span class="english">ASUS ranked with a score of 416.</span></p>
 
 <p><span class="chinese">首先，请看手抄报评比活动的相关情况。</span><span class="english">First, let's have a look at the posters.</span></p>

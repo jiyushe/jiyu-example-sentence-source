@@ -1,5 +1,7 @@
 # mischief
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mischief.md)
+
 <p><span class="chinese">杂洁的一圆是好好的。</span><span class="english">Innocent mischief is good.</span></p>
 
 <p><span class="chinese">她从来不恶作剧。</span><span class="english">She never played mischief.</span></p>

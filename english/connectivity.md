@@ -1,5 +1,7 @@
 # connectivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connectivity.md)
+
 <p><span class="chinese">连通性提供方服务器。</span><span class="english">Connectivity provider server.</span></p>
 
 <p><span class="chinese">添加新的连通性提供方。</span><span class="english">Add a new connectivity provider.</span></p>

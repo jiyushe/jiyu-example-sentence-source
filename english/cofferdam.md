@@ -1,5 +1,7 @@
 # cofferdam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cofferdam.md)
+
 <p><span class="chinese">目前围堰是稳定安全的。</span><span class="english">The cofferdam is safe and stable.</span></p>
 
 <p><span class="chinese">承建的导流明渠和纵向围堰工程。</span><span class="english">Open Channel and Longitudinal Cofferdam Project Attributed to CGGC.</span></p>

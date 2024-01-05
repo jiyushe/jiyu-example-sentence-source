@@ -1,5 +1,7 @@
 # 多事之秋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoshizhiqiu.md)
+
 <p><span class="chinese">哎，中国，今年实在是多事之秋。</span><span class="english">The ah, China, really is a troublous times this year.</span></p>
 
 <p><span class="chinese">1968年是全世界政局的多事之秋。</span><span class="english">The year 1968 was one of political upheaval throughout the world.</span></p>

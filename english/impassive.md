@@ -1,5 +1,7 @@
 # impassive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impassive.md)
+
 <p><span class="chinese">他转向毫无表情的女人。</span><span class="english">He turned to the impassive woman.</span></p>
 
 <p><span class="chinese">我还是面无表情、不露声色。</span><span class="english">Again I was impassive and expressionless.</span></p>

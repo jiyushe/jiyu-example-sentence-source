@@ -1,5 +1,7 @@
 # yare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yare.md)
+
 <p><span class="chinese">它们是由皮革制成的。</span><span class="english">They yare made of leather.</span></p>
 
 <p><span class="chinese">你为什么抓住我的包？</span><span class="english">Why yare you holding my bag?</span></p>

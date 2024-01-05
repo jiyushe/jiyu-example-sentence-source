@@ -1,5 +1,7 @@
 # 口吃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouchi_1.md)
+
 <p><span class="chinese">“唔，嗯，”露丝口吃了。</span><span class="english">“Well, eh,” Ruth stuttered.</span></p>
 
 <p><span class="chinese">“唔，嗯，”露丝口吃了。</span><span class="english">"Well, eh, " Ruth stuttered.</span></p>

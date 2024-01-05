@@ -1,5 +1,7 @@
 # 十字路口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizilukou.md)
+
 <p><span class="chinese">你抵达十字路口。</span><span class="english">You reach a cross-road.</span></p>
 
 <p><span class="chinese">我们转回到那个十字路口吧。</span><span class="english">Let's go back to that crossroad.</span></p>

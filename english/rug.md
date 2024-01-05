@@ -1,5 +1,7 @@
 # rug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rug.md)
+
 <p><span class="chinese">他躺在地毯上。</span><span class="english">He reclined on a rug.</span></p>
 
 <p><span class="chinese">这条地毯能卷起来。</span><span class="english">The rug can double up.</span></p>

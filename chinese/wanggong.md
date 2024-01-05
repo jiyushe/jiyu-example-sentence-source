@@ -1,5 +1,7 @@
 # 王宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanggong.md)
+
 <p><span class="chinese">一座王宫建在山顶上。</span><span class="english">A palace crowns the hill.</span></p>
 
 <p><span class="chinese">这座王宫有四层楼高。</span><span class="english">The place stood four storeys high.</span></p>

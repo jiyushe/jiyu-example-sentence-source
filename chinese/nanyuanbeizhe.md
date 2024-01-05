@@ -1,5 +1,7 @@
 # 南辕北辙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanyuanbeizhe.md)
+
 <p><span class="chinese">传达的寓意也南辕北辙。</span><span class="english">It's providing a very different message.</span></p>
 
 <p><span class="chinese">但是，如果你的超人梦与我的南辕北辙，请看“梦到降落”。</span><span class="english">But what if your superhero dreams go south?</span></p>

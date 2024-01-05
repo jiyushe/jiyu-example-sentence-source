@@ -1,5 +1,7 @@
 # employ
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/employ.md)
+
 <p><span class="chinese">我们为什么要雇佣你？</span><span class="english">Why should we  employ you?</span></p>
 
 <p><span class="chinese">产品是否具有激光部件？</span><span class="english">Does this device employ a laser?</span></p>

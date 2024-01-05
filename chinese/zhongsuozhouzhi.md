@@ -1,5 +1,7 @@
 # 众所周知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongsuozhouzhi.md)
+
 <p><span class="chinese">他是个众所周知的大忽悠。</span><span class="english">He is bluff known to all!</span></p>
 
 <p><span class="chinese">当然，这是众所周知的。</span><span class="english">Sure, they're well-known.</span></p>

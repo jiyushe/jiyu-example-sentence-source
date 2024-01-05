@@ -1,5 +1,7 @@
 # 首日封
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shourifeng.md)
+
 <p><span class="chinese">有些人对“首日封”非常感兴趣。</span><span class="english">Some people are very interested in these "first day covers."</span></p>
 
 <p><span class="chinese">我们这儿不但有纪念邮折,还有首日封</span><span class="english">We not only have the souvenir folders,but also have the first day covers</span></p>

@@ -1,5 +1,7 @@
 # 谋取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mouqu_1.md)
+
 <p><span class="chinese">我们谋取他们的帮助。</span><span class="english">We enlisted them to help.</span></p>
 
 <p><span class="chinese">利用您的资产谋取私利。</span><span class="english">Exploiting your assets for personal gain.</span></p>

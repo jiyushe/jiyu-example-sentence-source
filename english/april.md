@@ -1,5 +1,7 @@
 # april
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/april.md)
+
 <p><span class="chinese">在这四月天。</span><span class="english">In the April days.</span></p>
 
 <p><span class="chinese">2004年，如今的延中绿地。</span><span class="english">April of 2004 by you.</span></p>

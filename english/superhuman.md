@@ -1,5 +1,7 @@
 # superhuman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superhuman.md)
+
 <p><span class="chinese">但是超人并不意味着超自然。</span><span class="english">But superhuman does not mean supernatural.</span></p>
 
 <p><span class="chinese">现在，他们会幻想那是超人的无畏壮举。</span><span class="english">For now, they'll imagine superhuman feats of daring.</span></p>

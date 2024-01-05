@@ -1,5 +1,7 @@
 # 一往无前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwangwuqian.md)
+
 <p><span class="chinese">这个军队有一往无前的精神。</span><span class="english">This army has an indomitable spirit.</span></p>
 
 <p><span class="chinese">是坚定信念后一往无前的勇气？</span><span class="english">Is it the courage to act with conviction?</span></p>

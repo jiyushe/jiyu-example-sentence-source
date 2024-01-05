@@ -1,5 +1,7 @@
 # leaving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaving.md)
+
 <p><span class="chinese">她要离开了。</span><span class="english">She was leaving.</span></p>
 
 <p><span class="chinese">我要离开英国了。</span><span class="english">I am leaving Engl.</span></p>

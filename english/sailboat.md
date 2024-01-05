@@ -1,5 +1,7 @@
 # sailboat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sailboat.md)
+
 <p><span class="chinese">学着驾驶帆船。</span><span class="english">Learn to sail a sailboat.</span></p>
 
 <p><span class="chinese">帆船竞赛怎么样？</span><span class="english">What about the sailboat race?</span></p>

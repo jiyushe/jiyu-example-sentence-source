@@ -1,5 +1,7 @@
 # rosy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rosy.md)
+
 <p><span class="chinese">看看她那玫瑰色的面颊。</span><span class="english">Look at her rosy cheeks.</span></p>
 
 <p><span class="chinese">他脸色红润，头发金黄。</span><span class="english">He was all rosy and blond.</span></p>

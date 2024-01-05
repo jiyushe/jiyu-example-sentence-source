@@ -1,5 +1,7 @@
 # chess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chess.md)
+
 <p><span class="chinese">我和他下了一盘西洋棋。</span><span class="english">He's a dab at chess.</span></p>
 
 <p><span class="chinese">我喜欢玩西洋棋。</span><span class="english">I like to play chess.</span></p>

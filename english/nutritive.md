@@ -1,5 +1,7 @@
 # nutritive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutritive.md)
+
 <p><span class="chinese">你需要多休息，多吃有营养的食物。</span><span class="english">You need relax more, eat more nutritive food.</span></p>
 
 <p><span class="chinese">粗饲料的营养价值较低。</span><span class="english">Roughages are usually poor nutritive feeds for ruminants.</span></p>

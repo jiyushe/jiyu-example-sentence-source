@@ -1,5 +1,7 @@
 # 嚣张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozhang_2.md)
+
 <p><span class="chinese">一个嚣张的贱种。</span><span class="english">One irritating little son of a bitch.</span></p>
 
 <p><span class="chinese">政府这么能嚣张吗？</span><span class="english">So government can be such unruliness?</span></p>

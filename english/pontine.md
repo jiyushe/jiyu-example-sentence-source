@@ -1,5 +1,7 @@
 # pontine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pontine.md)
+
 <p><span class="chinese">目的探索X-刀治疗桥脑胶质瘤的疗效。</span><span class="english">Objective To explore effect of pontine glioma treated with X-knife.</span></p>
 
 <p><span class="chinese">随着CT的临床应用，原发性脑桥出血的发现率明显提高。</span><span class="english">More and more cases of primary pontine hemorrhage are found with development of CT.</span></p>

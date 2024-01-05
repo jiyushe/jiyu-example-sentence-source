@@ -1,5 +1,7 @@
 # 进位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinwei_2.md)
+
 <p><span class="chinese">我们用十进位制。</span><span class="english">We use the decimal system.</span></p>
 
 <p><span class="chinese">在中国是用十进位制。</span><span class="english">We go by the centimeter in China.</span></p>

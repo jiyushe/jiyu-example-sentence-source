@@ -1,5 +1,7 @@
 # dmz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dmz.md)
+
 <p><span class="chinese">不过，我确实在非军事区发现疑似谷山炮的装备</span><span class="english">I did find what I suspect is a Koksan gun near the DMZ however</span></p>
 
 <p><span class="chinese">他说，“现在我和我妈的关系比韩朝关系还紧张。”</span><span class="english">Now, he wrote, "my relationship with my mother is more tense than the Korean DMZ."</span></p>

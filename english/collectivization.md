@@ -1,5 +1,7 @@
 # collectivization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collectivization.md)
+
 <p><span class="chinese">到那以后，才能谈集体化。</span><span class="english">After that we can talk of collectivization.</span></p>
 
 <p><span class="chinese">在1928年，强迫农场集体化开始了。</span><span class="english">In 1928, forced collectivization of farms was initiated.</span></p>

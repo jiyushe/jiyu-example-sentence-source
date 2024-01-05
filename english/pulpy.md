@@ -1,5 +1,7 @@
 # pulpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulpy.md)
+
 <p><span class="chinese">她的身体感觉碰伤了，她的嘴唇柔软娇嫩。</span><span class="english">Her body felt bruised, her lips pulpy and tender.</span></p>
 
 <p><span class="chinese">被包在肉质果实内的这种植物的豆样种子。</span><span class="english">The bean like seeds of this plant, enclosed within a pulpy fruit.</span></p>

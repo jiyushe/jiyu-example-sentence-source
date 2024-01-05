@@ -1,5 +1,7 @@
 # cupped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cupped.md)
+
 <p><span class="chinese">他用手托着下巴。</span><span class="english">He cupped his chin in his hand.</span></p>
 
 <p><span class="chinese">那只温暖的手托着你。</span><span class="english">The warm hand is cupped under you.</span></p>

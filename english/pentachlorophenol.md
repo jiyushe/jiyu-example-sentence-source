@@ -1,5 +1,7 @@
 # pentachlorophenol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentachlorophenol.md)
+
 <p><span class="chinese">五氯酚是结晶固体。</span><span class="english">Pentachlorophenol is a crystalline solid.</span></p>
 
 <p><span class="chinese">要避免使用咋酚等油漆过的木材做框架。</span><span class="english">Avoid the use of creosote or pentachlorophenol treated lumber for bed frames.</span></p>

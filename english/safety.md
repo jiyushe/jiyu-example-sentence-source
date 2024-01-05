@@ -1,5 +1,7 @@
 # safety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/safety.md)
+
 <p><span class="chinese">带好安全设备。</span><span class="english">Carry safety gear.</span></p>
 
 <p><span class="chinese">摇滚与安全。</span><span class="english">Rockin with safety.</span></p>

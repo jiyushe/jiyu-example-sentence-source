@@ -1,5 +1,7 @@
 # bubble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bubble.md)
+
 <p><span class="chinese">泡泡浴。</span><span class="english">A bubble bath.</span></p>
 
 <p><span class="chinese">那是泡沫红茶。</span><span class="english">It's bubble tea.</span></p>

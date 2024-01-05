@@ -1,5 +1,7 @@
 # 邀请
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoqing.md)
+
 <p><span class="chinese">我邀请你去阅读。</span><span class="english">I invite you to read.</span></p>
 
 <p><span class="chinese">但是我们没被邀请。</span><span class="english">But we were uninvited.</span></p>

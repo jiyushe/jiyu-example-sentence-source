@@ -1,5 +1,7 @@
 # 主人家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhurenjia.md)
+
 <p><span class="chinese">主人家是谁？</span><span class="english">Who is the owner?</span></p>
 
 <p><span class="chinese">原来这条小公犬在主人家里大搞破坏。</span><span class="english">The pup had been destructive in the house.</span></p>

@@ -1,5 +1,7 @@
 # 美事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meishi_1.md)
+
 <p><span class="chinese">哪找这样的美事啊？</span><span class="english">Where can I seek this nice thing?</span></p>
 
 <p><span class="chinese">她在我身上做的是一件美事。</span><span class="english">She has done a beautiful thing to me.</span></p>

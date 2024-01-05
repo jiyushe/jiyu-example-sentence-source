@@ -1,5 +1,7 @@
 # 胭脂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhi.md)
+
 <p><span class="chinese">她的脸上搽了胭脂。</span><span class="english">Her cheeks were rouged.</span></p>
 
 <p><span class="chinese">女人不抹胭脂自带彩。</span><span class="english">Women wore Rouge with color.</span></p>

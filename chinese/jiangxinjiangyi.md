@@ -1,5 +1,7 @@
 # 将信将疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangxinjiangyi.md)
+
 <p><span class="chinese">可是他仍旧将信将疑。</span><span class="english">But he was still doubtful.</span></p>
 
 <p><span class="chinese">胡德一开始将信将疑，但后来信任她了。</span><span class="english">Hood was wary but he grew to trust her.</span></p>

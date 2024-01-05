@@ -1,5 +1,7 @@
 # evaporation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evaporation.md)
+
 <p><span class="chinese">水通过蒸发进入空气。</span><span class="english">Water enters air via evaporation.</span></p>
 
 <p><span class="chinese">我们有一个盖子防止水蒸发。</span><span class="english">We have a cover to prevent evaporation.</span></p>

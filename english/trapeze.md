@@ -1,5 +1,7 @@
 # trapeze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trapeze.md)
+
 <p><span class="chinese">他们在高秋千上表演。</span><span class="english">They performed on the trapeze.</span></p>
 
 <p><span class="chinese">我小女儿是一名吊杠演员。</span><span class="english">My younger daughter is a trapeze artist.</span></p>

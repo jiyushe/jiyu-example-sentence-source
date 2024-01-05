@@ -1,5 +1,7 @@
 # 失明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiming_1.md)
+
 <p><span class="chinese">爆炸使她失明。</span><span class="english">The explosion blinded her.</span></p>
 
 <p><span class="chinese">玛丽从一生下来就双目失明。</span><span class="english">Mary's been blind since birth.</span></p>

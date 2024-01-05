@@ -1,5 +1,7 @@
 # 心迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinji_1.md)
+
 <p><span class="chinese">但是我对他们会心迹他们的行为持有怀疑态度。</span><span class="english">But I doubt they would change their behavior.</span></p>
 
 <p><span class="chinese">你的心迹将这书的空页存管。</span><span class="english">The vacant leaves thy mind's imprint will bear.</span></p>

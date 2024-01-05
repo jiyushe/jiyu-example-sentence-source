@@ -1,5 +1,7 @@
 # outback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outback.md)
+
 <p><span class="chinese">在新西兰内地生活的几个月来，我一直在找寻这样一个地方。</span><span class="english">I explored such a place for some months, whilst living in the New Zealand outback.</span></p>
 
 <p><span class="chinese">同样，如遗产，内陆得到新的哑弹，以补充其他升级。</span><span class="english">Again, like the Legacy, the Outback gets new duds to complement its other upgrades.</span></p>

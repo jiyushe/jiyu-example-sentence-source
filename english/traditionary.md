@@ -1,5 +1,7 @@
 # traditionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traditionary.md)
+
 <p><span class="chinese">传统的教学扩声有什么弱点？</span><span class="english">What is disadvantage of traditionary teaching?</span></p>
 
 <p><span class="chinese">研究传统文化具有重要意义。</span><span class="english">It has important meaning to study traditionary culture.</span></p>

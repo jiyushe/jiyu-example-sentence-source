@@ -1,5 +1,7 @@
 # 命运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingyun.md)
+
 <p><span class="chinese">命运多舛的N-1</span><span class="english">Ill-Fated N-1</span></p>
 
 <p><span class="chinese">这是我们的命运。</span><span class="english">It is our fate.</span></p>

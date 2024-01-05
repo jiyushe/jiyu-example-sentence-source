@@ -1,5 +1,7 @@
 # lackadaisical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lackadaisical.md)
+
 <p><span class="chinese">我只好无精打采的转身回家。</span><span class="english">I had to turn around to go home lackadaisical.</span></p>
 
 <p><span class="chinese">我们确实打的很懒散，这是不幸的。</span><span class="english">We were real lackadaisical and it is unfortunate.</span></p>

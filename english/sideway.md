@@ -1,5 +1,7 @@
 # sideway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sideway.md)
+
 <p><span class="chinese">别把我挤出人行道外。</span><span class="english">Don't elbow me off the sideway.</span></p>
 
 <p><span class="chinese">只有一条路通向这个村庄，没有旁路。</span><span class="english">There is only one way to the village. No sideway.</span></p>

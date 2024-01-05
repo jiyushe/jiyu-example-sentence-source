@@ -1,5 +1,7 @@
 # heatstroke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heatstroke.md)
+
 <p><span class="chinese">憨熊中暑了。</span><span class="english">Han Bear gets heatstroke.</span></p>
 
 <p><span class="chinese">吐血，鼻子流血是中暑吗？</span><span class="english">Haematemesis , is nose bleeds heatstroke?</span></p>

@@ -1,5 +1,7 @@
 # chromite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromite.md)
+
 <p><span class="chinese">铬铁矿是生产铬铁合金的重要原料。</span><span class="english">Chromite is main raw material for smelting ferrochromium.</span></p>
 
 <p><span class="chinese">该地区的铬铁矿异常属于矿致异常。</span><span class="english">Local chromite anomaly caused mineral anomaly in this area.</span></p>

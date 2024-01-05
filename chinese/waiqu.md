@@ -1,5 +1,7 @@
 # 歪曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiqu.md)
+
 <p><span class="chinese">停止媒体歪曲！</span><span class="english">Stop Media Distoring!</span></p>
 
 <p><span class="chinese">别歪曲我说的话。</span><span class="english">Stop distorting what I've said.</span></p>

@@ -1,5 +1,7 @@
 # discord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discord.md)
+
 <p><span class="chinese">和谐已经让位给了不和谐。</span><span class="english">Harmony has yielded to discord.</span></p>
 
 <p><span class="chinese">他在朋友中间挑拨离间。</span><span class="english">He sowed discord among his friends.</span></p>

@@ -1,5 +1,7 @@
 # retiree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retiree.md)
+
 <p><span class="chinese">乔治·布什退休生活过得很不错。</span><span class="english">George W. Bush is doing pretty well for a retiree.</span></p>
 
 <p><span class="chinese">这为退休老人精心培养他的盆景。</span><span class="english">The retiree is painstakingly nurturing his bonsai.</span></p>

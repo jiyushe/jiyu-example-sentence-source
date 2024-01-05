@@ -1,5 +1,7 @@
 # 共同纲领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongtonggangling.md)
+
 <p><span class="chinese">应该把它巩固起来，实行一个共同纲领。</span><span class="english">It is necessary to consolidate the united front and pursue a common programme.</span></p>
 
 <p><span class="chinese">山岳派没有被认可的共同纲领。</span><span class="english">The Montagnards had no common programme generally acknowledged by all its members.</span></p>

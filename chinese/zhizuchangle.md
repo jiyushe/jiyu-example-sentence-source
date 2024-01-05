@@ -1,5 +1,7 @@
 # 知足常乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizuchangle.md)
+
 <p><span class="chinese">你是个知足常乐的人吗？</span><span class="english">Are you an easily satisfied man?</span></p>
 
 <p><span class="chinese">换句话说，他们知足常乐。</span><span class="english">In other words, they count their blessings.</span></p>

@@ -1,5 +1,7 @@
 # arable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arable.md)
+
 <p><span class="chinese">“邓普利顿是谁？”阿拉伯夫人又问。</span><span class="english">"Who is Templeton?" asked Mrs. Arable.</span></p>
 
 <p><span class="chinese">阿瑞博先生就把纸板箱放在了芬的座位上。</span><span class="english">Arable set the carton down at Fern's place.</span></p>

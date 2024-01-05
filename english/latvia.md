@@ -1,5 +1,7 @@
 # latvia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latvia.md)
+
 <p><span class="chinese">同时，拉脱维亚和爱沙尼亚也不满这一举动，这两个国家在苏联时期接收了大量的苏联移民，因此不愿采取剧烈的变革。</span><span class="english">It also displeased Estonia and Latvia.</span></p>
 
 <p><span class="chinese">其他人来自俄罗斯和拉脱维亚。</span><span class="english">The others were from Russia and Latvia.</span></p>

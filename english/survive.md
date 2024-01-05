@@ -1,5 +1,7 @@
 # survive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/survive.md)
+
 <p><span class="chinese">蛛网逃生。</span><span class="english">Survive a spiderweb.</span></p>
 
 <p><span class="chinese">我能幸免于死吗</span><span class="english">Do I survive my death?</span></p>

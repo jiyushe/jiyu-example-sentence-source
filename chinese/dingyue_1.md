@@ -1,5 +1,7 @@
 # 订阅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingyue_1.md)
+
 <p><span class="chinese">订阅费是多少？</span><span class="english">How much is the subscription?</span></p>
 
 <p><span class="chinese">请订阅本频道。</span><span class="english">Please subscribe this channel.</span></p>

@@ -1,5 +1,7 @@
 # 极点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jidian_1.md)
+
 <p><span class="chinese">我高兴到了极点。</span><span class="english">I am on top of the wold.</span></p>
 
 <p><span class="chinese">我今天真是倒楣到极点。</span><span class="english">Today is just not my day.</span></p>

@@ -1,5 +1,7 @@
 # hanger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hanger.md)
+
 <p><span class="chinese">解开了衣架领口的部分。</span><span class="english">I untwisted the neck part of a wire hanger.</span></p>
 
 <p><span class="chinese">巨型机库门适用航空部队，民航等行业的飞机机库。</span><span class="english">For hanger door of air army, civil aviation etc.</span></p>

@@ -1,5 +1,7 @@
 # 上调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangdiao_1.md)
+
 <p><span class="chinese">目前聚酯切片价格震荡上调。</span><span class="english">Current pet chip price shock rise.</span></p>
 
 <p><span class="chinese">王汉表示，“此次上调评级非常正常。</span><span class="english">The ratings improvement is quite normal.</span></p>

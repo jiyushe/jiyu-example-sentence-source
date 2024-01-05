@@ -1,5 +1,7 @@
 # carcinogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carcinogen.md)
+
 <p><span class="chinese">据认为，丙烯酰胺可能是一种人类致癌物。</span><span class="english">Acrylamide is considered a possible human carcinogen.</span></p>
 
 <p><span class="chinese">不过他说，致癌物质镉已经不再使用。</span><span class="english">He does say the carcinogen cadmium is no longer in use.</span></p>

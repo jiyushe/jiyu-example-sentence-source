@@ -1,5 +1,7 @@
 # enslave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enslave.md)
+
 <p><span class="chinese">我要奴役全人类！</span><span class="english">I will enslave all mankind.</span></p>
 
 <p><span class="chinese">人们奴役它们，鞭打它们，还将其吞咽</span><span class="english">People enslave them, beat them, then eat them too</span></p>

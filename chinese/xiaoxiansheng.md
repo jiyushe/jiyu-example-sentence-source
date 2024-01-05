@@ -1,5 +1,7 @@
 # 小先生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxiansheng.md)
+
 <p><span class="chinese">我是一个小先生。</span><span class="english">I'm a pupil.</span></p>
 
 <p><span class="chinese">你顶住我的小先生了！</span><span class="english">You kneed me in my misters!</span></p>

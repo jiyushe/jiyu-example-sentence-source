@@ -1,5 +1,7 @@
 # occasionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occasionally.md)
+
 <p><span class="chinese">他偶尔不修边幅。</span><span class="english">He is a slob occasionally.</span></p>
 
 <p><span class="chinese">我偶尔投资共同基金。</span><span class="english">I invest in them occasionally.</span></p>

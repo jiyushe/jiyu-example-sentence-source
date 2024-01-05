@@ -1,5 +1,7 @@
 # thimerosal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thimerosal.md)
+
 <p><span class="chinese">硫柳汞未用于生产流感喷雾剂。</span><span class="english">Thimerosal is not used in the production of FluMist.</span></p>
 
 <p><span class="chinese">这代表硫柳汞毒性的剧烈增强。</span><span class="english">This represents a severe enhancement of thimerosal toxicity.</span></p>

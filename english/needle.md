@@ -1,5 +1,7 @@
 # needle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/needle.md)
+
 <p><span class="chinese">往针上穿线。</span><span class="english">Thread your needle.</span></p>
 
 <p><span class="chinese">绣花针是她的武器。</span><span class="english">His weapon is needle.</span></p>

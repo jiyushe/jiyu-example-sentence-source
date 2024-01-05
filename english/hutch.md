@@ -1,5 +1,7 @@
 # hutch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hutch.md)
+
 <p><span class="chinese">还有笼子里的小兔子。</span><span class="english">And the rabbits in their hutch.</span></p>
 
 <p><span class="chinese">他们的宠物兔已回到西天的兔宫了。</span><span class="english">Their pet rabbit had gone to the great rabbit hutch in the sky.</span></p>

@@ -1,5 +1,7 @@
 # aspirin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspirin.md)
+
 <p><span class="chinese">那么你只能买到阿斯匹林。</span><span class="english">Then you can buy Aspirin.</span></p>
 
 <p><span class="chinese">你应该吃点阿司匹林。</span><span class="english">You should take an aspirin.</span></p>

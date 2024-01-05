@@ -1,5 +1,7 @@
 # 借故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiegu.md)
+
 <p><span class="chinese">他借故走了。</span><span class="english">He found an excuse and left.</span></p>
 
 <p><span class="chinese">我每滴请她定一各时间，她总饲借故拖矣。</span><span class="english">Every time I ask her to set date she stalls.</span></p>

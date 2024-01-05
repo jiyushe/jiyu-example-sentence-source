@@ -1,5 +1,7 @@
 # maldives
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maldives.md)
+
 <p><span class="chinese">你在马尔代夫的暂住地是？</span><span class="english">Where are you stay in Maldives?</span></p>
 
 <p><span class="chinese">一条灰烬隆头鱼的眼睛马尔代夫。</span><span class="english">The eye of an ember parrotfish Maldives.</span></p>

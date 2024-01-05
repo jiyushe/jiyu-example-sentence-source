@@ -1,5 +1,7 @@
 # dismountable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dismountable.md)
+
 <p><span class="chinese">搅拌装置，安装在底盘上，可拆卸设计。</span><span class="english">Man driven mixer fixed in chassis, Dismountable frame.</span></p>
 
 <p><span class="chinese">可分别对各个炊事单元进行拆卸或更换维护。</span><span class="english">Every cooking unit is dismountable for maintenance and replacement.</span></p>

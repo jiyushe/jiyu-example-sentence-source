@@ -1,5 +1,7 @@
 # 螺母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luomu.md)
+
 <p><span class="chinese">翼形螺母的俯视图。</span><span class="english">Top view of wing nut.</span></p>
 
 <p><span class="chinese">旋开锁住盘片的螺母。</span><span class="english">Unscrew the disc-locking nut.</span></p>

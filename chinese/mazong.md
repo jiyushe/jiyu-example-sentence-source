@@ -1,5 +1,7 @@
 # 马鬃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mazong.md)
+
 <p><span class="chinese">你额头上为什么披着一团马鬃一样的头发。</span><span class="english">And why have you got that mane of hair on your forehead.</span></p>
 
 <p><span class="chinese">只见马鬃，是因为马已经跑过。</span><span class="english">Sees only the horse hair, is because the horse had already run.</span></p>

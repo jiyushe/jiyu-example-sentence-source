@@ -1,5 +1,7 @@
 # hydrochloric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrochloric.md)
+
 <p><span class="chinese">盐酸，液氨，氨水。</span><span class="english">Hydrochloric acid, Yean, ammonia water.</span></p>
 
 <p><span class="chinese">金在盐酸中不溶解。</span><span class="english">Gold won't dissolve in hydrochloric acid.</span></p>

@@ -1,5 +1,7 @@
 # shill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shill.md)
+
 <p><span class="chinese">我仍然留着你爱的长发。</span><span class="english">I shill had the long hair that you like.</span></p>
 
 <p><span class="chinese">这也是“托”在英式拍卖中更加猖獗的原因之一。</span><span class="english">And this is one reason that shill bidding is more rampancy in English auction.</span></p>

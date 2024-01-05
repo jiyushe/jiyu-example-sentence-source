@@ -1,5 +1,7 @@
 # suppurative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suppurative.md)
+
 <p><span class="chinese">腮腺肿胀的其它原因是化脓性腮腺炎。</span><span class="english">Other causes of parotid swelling are suppurative parotitis.</span></p>
 
 <p><span class="chinese">肿且有压痛的“热”关节可能提示急性化脓性关节炎。</span><span class="english">A "hot" joint that is swollen and tender may indicate an acute suppurative arthritis.</span></p>

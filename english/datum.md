@@ -1,5 +1,7 @@
 # datum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/datum.md)
+
 <p><span class="chinese">给出统一的空间基准线。</span><span class="english">An united space datum line has been given.</span></p>
 
 <p><span class="chinese">转至一个基准点并限制沿着轴移动。</span><span class="english">Go to a datum point and restrict moves along axes.</span></p>

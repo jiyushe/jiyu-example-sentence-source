@@ -1,5 +1,7 @@
 # 野战军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yezhanjun.md)
+
 <p><span class="chinese">月下旬，东北野战军奉命入关。</span><span class="english">In late November, Northeast Field Army was ordered into the customs.</span></p>
 
 <p><span class="chinese">这是野战军首长拍来的十万火急的电报。</span><span class="english">This is a signal of the urgent urgency from Field Army Headquarters.</span></p>

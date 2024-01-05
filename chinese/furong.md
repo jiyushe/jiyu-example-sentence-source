@@ -1,5 +1,7 @@
 # 芙蓉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/furong.md)
+
 <p><span class="chinese">给出浴的“芙蓉”擦干身子。</span><span class="english">Towel her dry after she showers.</span></p>
 
 <p><span class="chinese">冰雹摧毁了我的芙蓉花。</span><span class="english">The hailstorm destroyed my hibiscus.</span></p>

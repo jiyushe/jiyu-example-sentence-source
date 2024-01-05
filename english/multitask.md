@@ -1,5 +1,7 @@
 # multitask
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multitask.md)
+
 <p><span class="chinese">多任务。</span><span class="english">Multitask.</span></p>
 
 <p><span class="chinese">我可以一心二用。</span><span class="english">I can multitask.</span></p>

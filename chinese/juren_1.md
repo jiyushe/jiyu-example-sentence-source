@@ -1,5 +1,7 @@
 # 巨人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juren_1.md)
+
 <p><span class="chinese">吻我，我是巨人！</span><span class="english">Kiss me I'm gnomish!</span></p>
 
 <p><span class="chinese">吻我，我是巨人！</span><span class="english">Kiss meand I'm gnonish!</span></p>

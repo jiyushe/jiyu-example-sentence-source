@@ -1,5 +1,7 @@
 # putrescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/putrescence.md)
+
 <p><span class="chinese">放荡的哲人、腐败的孩子。</span><span class="english">Wanton philosophers, children of putrescence.</span></p>
 
 <p><span class="chinese">肝细胞、肾小管细胞呈现溶解性坏死。</span><span class="english">The liver cell and renal tubular cell showed to dissolve putrescence.</span></p>

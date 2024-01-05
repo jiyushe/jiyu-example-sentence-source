@@ -1,5 +1,7 @@
 # 牛奶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niunai.md)
+
 <p><span class="chinese">糖和牛奶都要加。</span><span class="english">Sugar and milk.</span></p>
 
 <p><span class="chinese">把你的牛奶喝完。</span><span class="english">Finish up your milk.</span></p>

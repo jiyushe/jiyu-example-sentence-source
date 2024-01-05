@@ -1,5 +1,7 @@
 # lenient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lenient.md)
+
 <p><span class="chinese">对他不能太温情了。</span><span class="english">Don't be too lenient with him.</span></p>
 
 <p><span class="chinese">中资银行十分仁慈。</span><span class="english">Chinese banks are more lenient.</span></p>

@@ -1,5 +1,7 @@
 # 恶运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eyun_2.md)
+
 <p><span class="chinese">恶运临头后，方知幸运贵。</span><span class="english">Misfortunes tells us what fortune is.</span></p>
 
 <p><span class="chinese">不良的婚姻是恶运的来源。</span><span class="english">An ill marriage is a spring of ill fortune.</span></p>

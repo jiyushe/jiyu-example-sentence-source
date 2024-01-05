@@ -1,5 +1,7 @@
 # biped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biped.md)
+
 <p><span class="chinese">后来的经验集中在与两足动物的前期工作。</span><span class="english">Later lessons focus on advanced work with the biped.</span></p>
 
 <p><span class="chinese">过来，小家伙过来，你这小虫虫。</span><span class="english">Come here, you little biped. Come here, you little wormy-worm.</span></p>

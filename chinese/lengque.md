@@ -1,5 +1,7 @@
 # 冷却
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengque.md)
+
 <p><span class="chinese">倒换一台冷却泵。</span><span class="english">Replace one water pump.</span></p>
 
 <p><span class="chinese">冷却时间是5秒一样。</span><span class="english">Cooldown time is like 5 secs.</span></p>

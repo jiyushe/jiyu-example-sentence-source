@@ -1,5 +1,7 @@
 # matter 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matter.md)
+
 <p><span class="chinese">你对我很重要。</span><span class="english">You matter to me.</span></p>
 
 <p><span class="chinese">你对我很重要。</span><span class="english">You matter to me.</span></p>

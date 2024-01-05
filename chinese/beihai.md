@@ -1,5 +1,7 @@
 # 被害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beihai.md)
+
 <p><span class="chinese">但如果我要被害，我想至少死在我的小村庄里。</span><span class="english">I'd like at least to die in my village.</span></p>
 
 <p><span class="chinese">被害粮粒常蛀成孔洞。</span><span class="english">Food grain was often decayed into holes.</span></p>

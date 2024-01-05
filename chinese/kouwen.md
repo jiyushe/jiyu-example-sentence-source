@@ -1,5 +1,7 @@
 # 口吻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouwen.md)
+
 <p><span class="chinese">他试图表现出轻蔑地口吻。</span><span class="english">He tried to say it dismissively.</span></p>
 
 <p><span class="chinese">我听了今后松一口吻。</span><span class="english">I am much relieved to hear that.</span></p>

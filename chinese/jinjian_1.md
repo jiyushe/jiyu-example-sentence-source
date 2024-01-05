@@ -1,5 +1,7 @@
 # 进谏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinjian_1.md)
+
 <p><span class="chinese">我向他的行为提出进谏。</span><span class="english">I remonstrated against his behaviour.</span></p>
 
 <p><span class="chinese">他的职责是向国王进谏。</span><span class="english">His job was to give advice to the emperor.</span></p>

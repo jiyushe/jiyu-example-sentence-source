@@ -1,5 +1,7 @@
 # tune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tune.md)
+
 <p><span class="chinese">给小调起个名。</span><span class="english">Name that tune.</span></p>
 
 <p><span class="chinese">他们唱得走了调。</span><span class="english">They sang out of tune.</span></p>

@@ -1,5 +1,7 @@
 # 所归
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suogui.md)
+
 <p><span class="chinese">家是心之所归。</span><span class="english">Home is where the heart is.</span></p>
 
 <p><span class="chinese">环境科学，就是我的宿命所归！</span><span class="english">There was never any doubt that I would pick Environmental Science.</span></p>

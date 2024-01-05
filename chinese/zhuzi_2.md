@@ -1,5 +1,7 @@
 # 猪仔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzi_2.md)
+
 <p><span class="chinese">小猪仔轻轻的晃着摇篮。</span><span class="english">The little pig rocked the cradle.</span></p>
 
 <p><span class="chinese">你找到了猪，还有小猪仔！</span><span class="english">You found the pig and piglets, too.</span></p>

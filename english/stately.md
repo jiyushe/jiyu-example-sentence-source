@@ -1,5 +1,7 @@
 # stately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stately.md)
+
 <p><span class="chinese">你比桤木还要高挑和端庄。</span><span class="english">More tall and stately that the alder.</span></p>
 
 <p><span class="chinese">我们沿着两旁有榆树的大街步行。</span><span class="english">We walked down a stately avenue of elms.</span></p>

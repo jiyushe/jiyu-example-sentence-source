@@ -1,5 +1,7 @@
 # 散架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjia.md)
+
 <p><span class="chinese">这汽车的车身简直都要散架了。</span><span class="english">The car's bodywork scarcely holds together.</span></p>
 
 <p><span class="chinese">如果没有它们，机器就会散架。</span><span class="english">Without them, the machine would fall apart.</span></p>

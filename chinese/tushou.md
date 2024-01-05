@@ -1,5 +1,7 @@
 # 徒手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tushou.md)
+
 <p><span class="chinese">他是徒手格斗的能手。</span><span class="english">He is an expert in unarmed combat.</span></p>
 
 <p><span class="chinese">掌握徒手绘图的技巧。</span><span class="english">Master skills of freehand drawing.</span></p>

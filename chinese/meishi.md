@@ -1,5 +1,7 @@
 # 没事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meishi.md)
+
 <p><span class="chinese">嘘。你没事了。</span><span class="english">Shh. You're ok.</span></p>
 
 <p><span class="chinese">迈克，我会没事的。</span><span class="english">Mikey, I'll be okay.</span></p>

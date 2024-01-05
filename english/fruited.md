@@ -1,5 +1,7 @@
 # fruited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fruited.md)
+
 <p><span class="chinese">一棵苹果树，终于结果了。</span><span class="english">An apple tree finally fruited.</span></p>
 
 <p><span class="chinese">过去，每年树都会结果。</span><span class="english">In the past, the tree fruited every year.</span></p>

@@ -1,5 +1,7 @@
 # attach 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attach_1.md)
+
 <p><span class="chinese">如有，请各附复印件一份。</span><span class="english">If yes, attach a copy.</span></p>
 
 <p><span class="chinese">把提手柄装到箱子上去。</span><span class="english">Attach the handle to the box.</span></p>

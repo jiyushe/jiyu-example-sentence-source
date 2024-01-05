@@ -1,5 +1,7 @@
 # association 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/association.md)
+
 <p><span class="chinese">它只是联结而已。</span><span class="english">It's just association.</span></p>
 
 <p><span class="chinese">它只是一种关联性。</span><span class="english">It's just an association.</span></p>

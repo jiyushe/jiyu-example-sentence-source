@@ -1,5 +1,7 @@
 # peat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peat.md)
+
 <p><span class="chinese">把插枝扦插泥炭中。</span><span class="english">A cutting in a peat bog.</span></p>
 
 <p><span class="chinese">在这种状态中，有一种叫泥煤的东西。</span><span class="english">In this state the material is peat.</span></p>

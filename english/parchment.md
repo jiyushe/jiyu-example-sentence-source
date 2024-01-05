@@ -1,5 +1,7 @@
 # parchment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parchment.md)
+
 <p><span class="chinese">波顿大人打开羊皮纸。</span><span class="english">Lord Bolton unrolled the parchment.</span></p>
 
 <p><span class="chinese">鸭子有他的剑，我有羽毛笔和羊皮纸。</span><span class="english">Duck has his sword, I my quill and parchment.</span></p>

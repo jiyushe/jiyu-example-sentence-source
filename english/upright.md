@@ -1,5 +1,7 @@
 # upright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upright.md)
+
 <p><span class="chinese">她把他拉了起来。</span><span class="english">She pulls him upright.</span></p>
 
 <p><span class="chinese">躯干保持向上。</span><span class="english">Keep your torso upright.</span></p>

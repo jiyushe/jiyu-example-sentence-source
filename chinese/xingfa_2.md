@@ -1,5 +1,7 @@
 # 刑罚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingfa_2.md)
+
 <p><span class="chinese">你们这些蛇类，毒蛇之种阿，怎能逃脱地狱的刑罚呢。</span><span class="english">You snakes! You brood of vipers!</span></p>
 
 <p><span class="chinese">他救我们脱离了罪的刑罚。</span><span class="english">He saved us from the penalty of sin.</span></p>

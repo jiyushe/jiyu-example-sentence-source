@@ -1,5 +1,7 @@
 # aspectual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspectual.md)
+
 <p><span class="chinese">利用元数据描述方面化的接口是一种强大的概念。</span><span class="english">Utilizing metadata to describe aspectual interfaces is a powerful concept.</span></p>
 
 <p><span class="chinese">完成体和未完成体之间的对立见于许多斯拉夫语。</span><span class="english">The aspectual contrast between perfective and imperfective is found in many Slavic languages.</span></p>

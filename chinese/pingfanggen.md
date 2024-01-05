@@ -1,5 +1,7 @@
 # 平方根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingfanggen.md)
+
 <p><span class="chinese">取它的平方根。</span><span class="english">Take the square root.</span></p>
 
 <p><span class="chinese">现在我要求一下16的平方根。</span><span class="english">And I'm looking here at 16.</span></p>

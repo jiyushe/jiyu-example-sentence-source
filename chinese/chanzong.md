@@ -1,5 +1,7 @@
 # 禅宗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanzong.md)
+
 <p><span class="chinese">这是交际的禅宗。</span><span class="english">It's social Zen.</span></p>
 
 <p><span class="chinese">蒲团，俳句，禅宗是日语。</span><span class="english">Futon, haiku , Zen, they're Japanese.</span></p>

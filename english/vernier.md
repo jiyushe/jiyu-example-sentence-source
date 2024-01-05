@@ -1,5 +1,7 @@
 # vernier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vernier.md)
+
 <p><span class="chinese">本试验采用老化箱、游标卡尺。</span><span class="english">The test employs aging oven and vernier caliper.</span></p>
 
 <p><span class="chinese">使用游标卡尺，测量电刷长度。</span><span class="english">Using vernier calipers, measure the brush length.</span></p>

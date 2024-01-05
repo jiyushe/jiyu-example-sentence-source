@@ -1,5 +1,7 @@
 # 击掌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizhang.md)
+
 <p><span class="chinese">跟宝宝玩击掌游戏。</span><span class="english">Play hand games with baby.</span></p>
 
 <p><span class="chinese">他们相互举手击掌互致敬意。</span><span class="english">They high-fived each other.</span></p>

@@ -1,5 +1,7 @@
 # 老当益壮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laodangyizhuang.md)
+
 <p><span class="chinese">爷爷真是老当益壮。</span><span class="english">Grandpa is old but hale.</span></p>
 
 <p><span class="chinese">喔，他可真是个老当益壮的人，永远充满活力呢。</span><span class="english">Oh, he's a real spring chicken, always full of energy.</span></p>

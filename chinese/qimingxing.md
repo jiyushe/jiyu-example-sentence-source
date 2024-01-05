@@ -1,5 +1,7 @@
 # 启明星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qimingxing.md)
+
 <p><span class="chinese">就像一颗启明星。</span><span class="english">Like a guiding star.</span></p>
 
 <p><span class="chinese">启明星，是代表爱与美。</span><span class="english">Venus, representing love and beauty.</span></p>

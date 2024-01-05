@@ -1,5 +1,7 @@
 # lights
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lights.md)
+
 <p><span class="chinese">汽车有灯。</span><span class="english">A car has lights.</span></p>
 
 <p><span class="chinese">我打开了灯光。</span><span class="english">I turned on lights.</span></p>

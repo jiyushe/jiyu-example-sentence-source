@@ -1,5 +1,7 @@
 # 顶撞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzhuang.md)
+
 <p><span class="chinese">不要顶撞我。</span><span class="english">Don't backtalk me.</span></p>
 
 <p><span class="chinese">我没有用爱斯基摩口吻顶撞你。</span><span class="english">I'm not sassing you in Eskimo talk.</span></p>

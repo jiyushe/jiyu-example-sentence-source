@@ -1,5 +1,7 @@
 # 售卖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoumai.md)
+
 <p><span class="chinese">售卖的头梳！</span><span class="english">Combs for sale!</span></p>
 
 <p><span class="chinese">为售卖的头梳和缎带！</span><span class="english">Combs and ribbons for sale!</span></p>

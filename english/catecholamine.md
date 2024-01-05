@@ -1,5 +1,7 @@
 # catecholamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catecholamine.md)
+
 <p><span class="chinese">用HPLC法检测血清中儿茶酚胺水平。</span><span class="english">The serum concentrations of catecholamine were determined by HPLC methods.</span></p>
 
 <p><span class="chinese">实验后对移植物进行了儿茶酚胺组织化学检查。</span><span class="english">Catecholamine histofluorescence study of the grafts was done after the experiment.</span></p>

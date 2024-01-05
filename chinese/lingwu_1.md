@@ -1,5 +1,7 @@
 # 领悟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingwu_1.md)
+
 <p><span class="chinese">我不能肯定我是否领悟了你的意思。</span><span class="english">I am not sure I know what you mean.</span></p>
 
 <p><span class="chinese">这时学生们领悟过来了。“可能还没满吧！”</span><span class="english">By this time the class was on to him.</span></p>

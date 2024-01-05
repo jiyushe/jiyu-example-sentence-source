@@ -1,5 +1,7 @@
 # uncanny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncanny.md)
+
 <p><span class="chinese">他告诉我们许多不可思议的故事。</span><span class="english">He told us mant uncanny stories.</span></p>
 
 <p><span class="chinese">他们惊人的相似。</span><span class="english">They had an uncanny resemblance.</span></p>

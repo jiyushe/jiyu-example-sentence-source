@@ -1,5 +1,7 @@
 # odour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odour.md)
+
 <p><span class="chinese">里面有一种明显的气味。</span><span class="english">Inside there was a distinct odour.</span></p>
 
 <p><span class="chinese">他们闻到一种刺鼻的气味。</span><span class="english">A pungent odour met their nostrils.</span></p>

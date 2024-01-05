@@ -1,5 +1,7 @@
 # 人马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renma.md)
+
 <p><span class="chinese">他看着自己的人马。</span><span class="english">He looked at his men.</span></p>
 
 <p><span class="chinese">训练你们去杀半人马?。</span><span class="english">Training you to kill half-breeds?</span></p>

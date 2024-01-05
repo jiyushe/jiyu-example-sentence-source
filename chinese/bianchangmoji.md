@@ -1,5 +1,7 @@
 # 鞭长莫及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianchangmoji.md)
+
 <p><span class="chinese">喀尔巴阡山是在该国鞭长莫及的地方。</span><span class="english">The Carpathians are far from that country.</span></p>
 
 <p><span class="chinese">我不能帮助他，是因为我鞭长莫及。</span><span class="english">I cannot help him because it is beyond my grasp.</span></p>

@@ -1,5 +1,7 @@
 # 有理函数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youlihanshu.md)
+
 <p><span class="chinese">每个多项式都是可微的，而每个有理函数也是如此。</span><span class="english">Every polynomial is differentiable , and so is every rational.</span></p>
 
 <p><span class="chinese">研究了基于有理函数的路面不平度时域模型。</span><span class="english">Time domain model of road roughness based on rational functions is studied.</span></p>

@@ -1,5 +1,7 @@
 # dorian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dorian.md)
+
 <p><span class="chinese">道林格雷的画像。</span><span class="english">The Picture of Dorian Gray.</span></p>
 
 <p><span class="chinese">隐藏我的真面目，就像多利安‧葛雷一样。</span><span class="english">Hides my true shape, like Dorian Gray.</span></p>

@@ -1,5 +1,7 @@
 # 诱惑力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youhuoli.md)
+
 <p><span class="chinese">我的气息对你有诱惑力吗？</span><span class="english">Does my breath smell baited to you?</span></p>
 
 <p><span class="chinese">但是黑暗面是有诱惑力的。</span><span class="english">But the dark side of the force is seductive.</span></p>

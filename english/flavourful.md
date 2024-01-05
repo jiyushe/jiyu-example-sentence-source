@@ -1,5 +1,7 @@
 # flavourful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flavourful.md)
+
 <p><span class="chinese">西澳的玛格丽特河以盛产口味浓郁的赤霞珠和梅洛而著称于世。</span><span class="english">River in Western Australia is world renowned for its flavourful Cabernet and Merlot.</span></p>
 
 <p><span class="chinese">西澳的玛格丽特河以盛产口味浓郁的赤霞珠和梅洛而著称于世。</span><span class="english">Margaret River in Western Australia is world renowned for its flavourful Cabernet and Merlot.</span></p>

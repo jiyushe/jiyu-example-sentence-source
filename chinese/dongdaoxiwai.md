@@ -1,5 +1,7 @@
 # 东倒西歪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongdaoxiwai.md)
+
 <p><span class="chinese">风把树吹得东倒西歪。</span><span class="english">Winds tortured the trees.</span></p>
 
 <p><span class="chinese">这辆旧汽车东倒西歪地行驶。</span><span class="english">The old car walloped down.</span></p>

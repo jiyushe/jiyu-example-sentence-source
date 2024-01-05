@@ -1,5 +1,7 @@
 # cautious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cautious.md)
+
 <p><span class="chinese">我劝你要小心谨慎。</span><span class="english">I advise you to be cautious.</span></p>
 
 <p><span class="chinese">但是马克还是不够谨慎。</span><span class="english">But Mark was not so cautious.</span></p>

@@ -1,5 +1,7 @@
 # 以便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibian.md)
+
 <p><span class="chinese">以便我们可以清除它们。</span><span class="english">So that we may clear them.</span></p>
 
 <p><span class="chinese">他正在练习演“哈姆雷特”以便临时代替别人。</span><span class="english">He is understudying Hamlet.</span></p>

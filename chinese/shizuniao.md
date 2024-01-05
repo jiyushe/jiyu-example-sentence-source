@@ -1,5 +1,7 @@
 # 始祖鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizuniao.md)
+
 <p><span class="chinese">有点像最早开始进化的始祖鸟。</span><span class="english">This is like the Archaeopteryx of primate evolution.</span></p>
 
 <p><span class="chinese">始祖鸟拥有如此奇怪的翅膀一定事出有因。</span><span class="english">There must be a reason why Xenicibis had such strange wings.</span></p>

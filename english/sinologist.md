@@ -1,5 +1,7 @@
 # sinologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinologist.md)
+
 <p><span class="chinese">饶宗颐先生不光是一位国学大师。</span><span class="english">Rao Zongyi was not just a sinologist.</span></p>
 
 <p><span class="chinese">与汉学家霍布恩先生切磋。</span><span class="english">Yang Yuanhong to direct the poetry. and sinologist Bunn TON.</span></p>

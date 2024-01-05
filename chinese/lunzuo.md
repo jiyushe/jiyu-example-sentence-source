@@ -1,5 +1,7 @@
 # 轮作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunzuo.md)
+
 <p><span class="chinese">然后,你更换不同的作物,在土地上轮作</span><span class="english">So, you have varied crops, among them.</span></p>
 
 <p><span class="chinese">想提高产量，最好的办法是倒茬轮作。</span><span class="english">Crop rotation is the best way to increase output.</span></p>

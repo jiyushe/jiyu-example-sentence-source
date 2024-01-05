@@ -1,5 +1,7 @@
 # 自来水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zilaishui.md)
+
 <p><span class="chinese">自来水也要钱？</span><span class="english">Water also want money?</span></p>
 
 <p><span class="chinese">我们没有自来水。</span><span class="english">We have no piped water.</span></p>

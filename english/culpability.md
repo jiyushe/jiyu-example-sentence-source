@@ -1,5 +1,7 @@
 # culpability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culpability.md)
+
 <p><span class="chinese">如果你没有做到，罪恶感将会扩散到更高的领域，让你感觉更加有气无力！</span><span class="english">If you done it not, a culpability diffuses high risk to paralyse you more!</span></p>
 
 <p><span class="chinese">需要进一步的调查去证实或是排除这名男子有罪。</span><span class="english">Further investigation will be needed to confirm or rule out the alleged culpability.</span></p>

@@ -1,5 +1,7 @@
 # 驻外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuwai.md)
+
 <p><span class="chinese">1927年到1935年期间，聂鲁达曾任驻外领事。</span><span class="english">Between 1927 and 1935, he held numerous honorary consulships.</span></p>
 
 <p><span class="chinese">指导驻外旅游办事机构的业务工作。</span><span class="english">instructing the operation of China's tourist institutions stationed abroad.</span></p>

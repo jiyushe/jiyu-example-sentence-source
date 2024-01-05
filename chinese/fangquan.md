@@ -1,5 +1,7 @@
 # 放权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangquan.md)
+
 <p><span class="chinese">放权?谁在哪方面得到多大的权力?。</span><span class="english">Decentralization ? who gets how much power over what?</span></p>
 
 <p><span class="chinese">执委们爽快同意应向国家办事处进一步放权。</span><span class="english">EB members readily agreed that more authority should be delegated to country offices.</span></p>

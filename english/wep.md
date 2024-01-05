@@ -1,5 +1,7 @@
 # wep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wep.md)
+
 <p><span class="chinese">下列哪一个是引起WPA首选加密技术是WEP的原因?。</span><span class="english">What is one reason that WPA encryption is preferred over WEP?</span></p>
 
 <p><span class="chinese">WEP密钥可以是数字，字母，或两者兼而有之。</span><span class="english">WEP keys can be numeric , alphabetic, or a combination of both.</span></p>

@@ -1,5 +1,7 @@
 # gio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gio.md)
+
 <p><span class="chinese">她也是我的最爱！</span><span class="english">GIO She is my favorite as well!</span></p>
 
 <p><span class="chinese">如果让你成为某种动物，你希望是什么？原因呢？</span><span class="english">GIO If you could be any animal, what would you be and why?</span></p>

@@ -1,5 +1,7 @@
 # 维妙维肖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weimiaoweixiao_1.md)
+
 <p><span class="chinese">詹姆斯能维妙维肖地模仿他教师的言语。</span><span class="english">James can imitate his teacher's speech perfectly.</span></p>
 
 <p><span class="chinese">他把母亲的签名伪造得越来越维妙维肖了。</span><span class="english">He's getting good at forging his mother's signature.</span></p>

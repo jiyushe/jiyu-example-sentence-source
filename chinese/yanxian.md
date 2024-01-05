@@ -1,5 +1,7 @@
 # 沿线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxian.md)
+
 <p><span class="chinese">守者配置于海岸沿线。</span><span class="english">The path lies along the coast.</span></p>
 
 <p><span class="chinese">游行路线沿线挤满了人群。</span><span class="english">Crowds lined the processional route.</span></p>

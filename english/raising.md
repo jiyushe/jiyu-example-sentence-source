@@ -1,5 +1,7 @@
 # raising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raising.md)
+
 <p><span class="chinese">我们看见旗女升上去。</span><span class="english">The flags was seen raising.</span></p>
 
 <p><span class="chinese">我们现在的情况是孩子养孩子。</span><span class="english">so we have kids raising kids.</span></p>

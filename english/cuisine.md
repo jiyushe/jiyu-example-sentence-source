@@ -1,5 +1,7 @@
 # cuisine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuisine.md)
+
 <p><span class="chinese">你喜欢粤菜吗？</span><span class="english">Do you like Cantonese cuisine?</span></p>
 
 <p><span class="chinese">你更喜欢中国菜吗?</span><span class="english">Do you prefer Chinese cuisine?</span></p>

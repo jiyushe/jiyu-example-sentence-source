@@ -1,5 +1,7 @@
 # 轻轻松松
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingqingsongsong.md)
+
 <p><span class="chinese">大多数时候，她轻轻松松的牵着狗散步长达一小时。</span><span class="english">Most days she took the dog for a brisk, hour-long walk.</span></p>
 
 <p><span class="chinese">在网上轻轻松松就可以找到便宜的片源。</span><span class="english">You can easily find used copies for pretty cheap online.</span></p>

@@ -1,5 +1,7 @@
 # conjugate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjugate.md)
+
 <p><span class="chinese">你就会变位。</span><span class="english">And you can conjugate it.</span></p>
 
 <p><span class="chinese">肺炎球菌结合疫苗的安全性</span><span class="english">Safety of pneumococcal conjugate vaccine</span></p>

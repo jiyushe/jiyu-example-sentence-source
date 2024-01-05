@@ -1,5 +1,7 @@
 # 经纬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingwei_2.md)
+
 <p><span class="chinese">这些天涯的朋友使世界变得如此广袤，是他们织成了地球的经纬。</span><span class="english">Those who build up your broad world are your various range of friends.</span></p>
 
 <p><span class="chinese">本剧以春夏秋冬四季为经纬线索。</span><span class="english">This drama is classics woof to all alone with the four seasons of Chun Xiaqiu winter.</span></p>

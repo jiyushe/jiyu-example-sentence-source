@@ -1,5 +1,7 @@
 # alternative 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alternative_1.md)
+
 <p><span class="chinese">哪个选项适合你？</span><span class="english">Which alternative fits you?</span></p>
 
 <p><span class="chinese">但是，有没有替代方案？</span><span class="english">But was there any alternative?</span></p>

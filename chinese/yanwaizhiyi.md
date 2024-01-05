@@ -1,5 +1,7 @@
 # 言外之意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanwaizhiyi.md)
+
 <p><span class="chinese">言外之意是，人不能只追求物质生活。</span><span class="english">Man does not live by bread alone.</span></p>
 
 <p><span class="chinese">这个练习的言外之意在此。</span><span class="english">That's the idea behind that exercise.</span></p>

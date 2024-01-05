@@ -1,5 +1,7 @@
 # bicentennial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bicentennial.md)
+
 <p><span class="chinese">她出演双百年女郎时她父亲来观看过一次。</span><span class="english">Her father came to watch her once as Miss Bicentennial.</span></p>
 
 <p><span class="chinese">1932年举行了乔治。华盛顿诞辰两百周年的庆典。</span><span class="english">The bicentennial of George Washington's birth was celebrated in 1932.</span></p>

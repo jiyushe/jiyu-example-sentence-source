@@ -1,5 +1,7 @@
 # peculiar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peculiar.md)
+
 <p><span class="chinese">他有独特的习惯用语。</span><span class="english">He has a peculiar idiom.</span></p>
 
 <p><span class="chinese">他的口音很特别。</span><span class="english">He has a peculiar accent.</span></p>

@@ -1,5 +1,7 @@
 # amidships
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amidships.md)
+
 <p><span class="chinese">我们的舱位在船的中腰。</span><span class="english">Our cabin is amidships.</span></p>
 
 <p><span class="chinese">你的舱位在船中部。</span><span class="english">You' ll find your cabin amidships.</span></p>

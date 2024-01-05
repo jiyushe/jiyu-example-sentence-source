@@ -1,5 +1,7 @@
 # hematic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hematic.md)
+
 <p><span class="chinese">血压低可以吃冰糖坝吗?。</span><span class="english">Can hematic depress take rock candy?</span></p>
 
 <p><span class="chinese">人的血从那来的？</span><span class="english">Hematic wherefrom of the person comes?</span></p>

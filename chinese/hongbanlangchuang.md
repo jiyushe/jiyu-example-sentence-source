@@ -1,5 +1,7 @@
 # 红斑狼疮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongbanlangchuang.md)
+
 <p><span class="chinese">如果你有盘状红斑狼疮的经验，详细请联系我。</span><span class="english">If you have DLE experience, please contact me for full details.</span></p>
 
 <p><span class="chinese">经医生诊断，她得了红斑狼疮。</span><span class="english">According to the doctor's diagnosis, she has got lupus erythematosus.</span></p>

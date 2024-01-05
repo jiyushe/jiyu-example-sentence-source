@@ -1,5 +1,7 @@
 # exacerbation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exacerbation.md)
+
 <p><span class="chinese">基线ACQ-5评分与急性发作率呈正相关。</span><span class="english">Baseline ACQ-5 score correlated positively with exacerbation rates.</span></p>
 
 <p><span class="chinese">这些人中，209名为哮喘恶化，77名为稳定型哮喘。</span><span class="english">Of these, 209 had recently suffered an asthma exacerbation and 77 had stable disease.</span></p>

@@ -1,5 +1,7 @@
 # goniometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goniometer.md)
+
 <p><span class="chinese">此外，我们利用角度测量器贴在参与者的下背部，去监测弯曲角度。</span><span class="english">In addition, we attached a goniometer to the participant to monitor the motion.</span></p>
 
 <p><span class="chinese">颈活动度和压痛阈用关节角度计和痛觉计进行测量。</span><span class="english">Cervical range of motion and pressure pain thresholds were measured using a goniometer and an algometer.</span></p>

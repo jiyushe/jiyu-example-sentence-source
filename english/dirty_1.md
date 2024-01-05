@@ -1,5 +1,7 @@
 # dirty 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dirty_1.md)
+
 <p><span class="chinese">多脏的脸啊！</span><span class="english">How dirty face!</span></p>
 
 <p><span class="chinese">你个下贱的骗子！</span><span class="english">You dirty liar!</span></p>

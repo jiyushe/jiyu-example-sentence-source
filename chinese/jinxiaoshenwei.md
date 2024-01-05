@@ -1,5 +1,7 @@
 # 谨小慎微
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinxiaoshenwei.md)
+
 <p><span class="chinese">不过她也有谨小慎微的一面。</span><span class="english">But she can be cautious, too.</span></p>
 
 <p><span class="chinese">当然，并非所有的富人在投资时都谨小慎微。</span><span class="english">Not all the rich are playing it safe, of course.</span></p>

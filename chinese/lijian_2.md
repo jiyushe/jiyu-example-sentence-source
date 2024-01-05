@@ -1,5 +1,7 @@
 # 离间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijian_2.md)
+
 <p><span class="chinese">出于嫉妒之心，她离间了他们的关系。</span><span class="english">She broke them up out of jealousy.</span></p>
 
 <p><span class="chinese">恶意的流言蜚语离间了这对老朋友。</span><span class="english">Spiteful gossip separated the two old friends.</span></p>

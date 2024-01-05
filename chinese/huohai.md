@@ -1,5 +1,7 @@
 # 祸害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huohai.md)
+
 <p><span class="chinese">速度是现代文明的祸害。</span><span class="english">Speed is the curse of modern civilisation.</span></p>
 
 <p><span class="chinese">我是一个讨厌的东西，一个累赘，和一个祸害。</span><span class="english">I was a nuisance, an incumbrance , and a pest.</span></p>

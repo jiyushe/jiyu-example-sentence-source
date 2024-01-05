@@ -1,5 +1,7 @@
 # impound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impound.md)
+
 <p><span class="chinese">我们要扣留你的车辆。</span><span class="english">We'll need to impound your car.</span></p>
 
 <p><span class="chinese">他们可以查封并扣押可疑产品。</span><span class="english">They may seize and impound suspect products.</span></p>

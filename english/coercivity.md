@@ -1,5 +1,7 @@
 # coercivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coercivity.md)
+
 <p><span class="chinese">实验结果表明，460℃退火可获得较低的矫顽力。</span><span class="english">A low coercivity was obtained for the alloy annealed at 460 ℃.</span></p>
 
 <p><span class="chinese">合金的矫顽力随钴原子含量的增加而增大。</span><span class="english">The coercivity of the Co-Ni alloys increased with the increasing of Co content.</span></p>

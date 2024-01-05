@@ -1,5 +1,7 @@
 # 水土流失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuituliushi.md)
+
 <p><span class="chinese">柳河流域是水土流失重点地区。</span><span class="english">The river area is a soil erosion point region.</span></p>
 
 <p><span class="chinese">树木还可以防止水土流失。</span><span class="english">Trees can also stop water and  soil from going away.</span></p>

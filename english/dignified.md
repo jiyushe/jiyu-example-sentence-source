@@ -1,5 +1,7 @@
 # dignified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dignified.md)
+
 <p><span class="chinese">器宇轩昂。</span><span class="english">One's deportment is dignified.</span></p>
 
 <p><span class="chinese">她们太过高贵。</span><span class="english">They are simply too dignified.</span></p>

@@ -1,5 +1,7 @@
 # 同治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhi.md)
+
 <p><span class="chinese">这个丑女孩会服从他的同治。</span><span class="english">And the ugly chinese girls will obey his own "rules".</span></p>
 
 <p><span class="chinese">第六章题为“同治初年的新格局”。</span><span class="english">Chapter 6 is entitled "the new situation in the early Tongzhi's reign".</span></p>

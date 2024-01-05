@@ -1,5 +1,7 @@
 # nore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nore.md)
+
 <p><span class="chinese">诺尔细节时，将给予你赢了。</span><span class="english">Nore details will be given when you win.</span></p>
 
 <p><span class="chinese">不要怕去尝试你以前不敢啃的骨头。</span><span class="english">Don't be afraid to bite off nore than you can chew.</span></p>

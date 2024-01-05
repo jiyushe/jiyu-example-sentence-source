@@ -1,5 +1,7 @@
 # subvention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subvention.md)
+
 <p><span class="chinese">中国消费者协会的经费由政府资助和社会赞助。</span><span class="english">CCA is funded by Government subvention and social donations.</span></p>
 
 <p><span class="chinese">□否，本年度未获任何经费补助。</span><span class="english">No, I didn't get any subvention from Taiwan's government this year.</span></p>

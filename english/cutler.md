@@ -1,5 +1,7 @@
 # cutler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutler.md)
+
 <p><span class="chinese">什么武器都不能在你的脸上留痕。</span><span class="english">No cutler"s horn will mark thy face".</span></p>
 
 <p><span class="chinese">这一个转变是由学生们主导的，科特勒说。</span><span class="english">The shift is driven by students, Cutler says.</span></p>

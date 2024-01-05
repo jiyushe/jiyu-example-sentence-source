@@ -1,5 +1,7 @@
 # 神来之笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenlaizhibi.md)
+
 <p><span class="chinese">这是一个我们可以称之为神来之笔的处理方法。</span><span class="english">It’s an act we can call miraculous.</span></p>
 
 <p><span class="chinese">光线是摄影创意的神来之笔。</span><span class="english">Light is an inspiration to photography creation.</span></p>

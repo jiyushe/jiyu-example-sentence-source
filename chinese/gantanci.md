@@ -1,5 +1,7 @@
 # 感叹词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gantanci.md)
+
 <p><span class="chinese">他的话语中从来没有感叹词。</span><span class="english">There are no interjections when he speaks.</span></p>
 
 <p><span class="chinese">“天哪！”和“哎哟”都是感叹词。</span><span class="english">"Good Heavens! "and "Ouch! "are interjections.</span></p>

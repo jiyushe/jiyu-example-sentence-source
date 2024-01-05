@@ -1,5 +1,7 @@
 # harsh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harsh.md)
+
 <p><span class="chinese">是的，这听起来很刺耳。</span><span class="english">Yes, this sounds harsh.</span></p>
 
 <p><span class="chinese">眯着眼看那刺目的光。</span><span class="english">Blink at the harsh light.</span></p>

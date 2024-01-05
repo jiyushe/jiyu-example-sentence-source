@@ -1,5 +1,7 @@
 # 雷霆万钧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leitingwanjun.md)
+
 <p><span class="chinese">每一幕都雷霆万钧！</span><span class="english">Every Scene has a thunder!</span></p>
 
 <p><span class="chinese">声似雷霆万钧，势如万马奔腾。</span><span class="english">Sound like force of a thunderbolt, potential, such as full steam ahead.</span></p>

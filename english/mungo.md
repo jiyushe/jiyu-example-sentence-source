@@ -1,5 +1,7 @@
 # mungo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mungo.md)
+
 <p><span class="chinese">芒戈赢得比赛，获得温布人民的钦佩。</span><span class="english">Mungo won the competition, securing the admiration of the Umboo people.</span></p>
 
 <p><span class="chinese">此时，成吉思汗已死，窝阔台、蒙哥、忽必烈先后继任大汗。</span><span class="english">At this point, Genghis Khan is dead, Wokuo Tai, Mungo , Khan has profusely successor.</span></p>

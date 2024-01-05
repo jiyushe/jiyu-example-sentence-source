@@ -1,5 +1,7 @@
 # okayama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/okayama.md)
+
 <p><span class="chinese">全日空说，周日上午飞往冈山的航班机票全部售罄。</span><span class="english">The flight to Okayama was sold out on Sunday morning, ANA said.</span></p>
 
 <p><span class="chinese">别墅位于冈山省濑户内海附近。</span><span class="english">The house positions itself in Okayama Prefecture near Seto Inland Sea.</span></p>

@@ -1,5 +1,7 @@
 # avid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avid.md)
+
 <p><span class="chinese">我是一名狂热的山地车手。</span><span class="english">I'm an avid mountain biker.</span></p>
 
 <p><span class="chinese">穆尔则热衷于技术。</span><span class="english">Moore was avid in technology.</span></p>

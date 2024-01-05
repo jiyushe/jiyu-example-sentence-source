@@ -1,5 +1,7 @@
 # 应有尽有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyoujinyou.md)
+
 <p><span class="chinese">他们应有尽有，也不缺财富。</span><span class="english">They had everything, even riches.</span></p>
 
 <p><span class="chinese">看！我们应有尽有，有刨冰、方冰还有干冰。</span><span class="english">We have crushed! Cubed ! And dry! Watch!</span></p>

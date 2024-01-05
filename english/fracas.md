@@ -1,5 +1,7 @@
 # fracas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fracas.md)
+
 <p><span class="chinese">那么这场稀土纷争给人什么的教训？</span><span class="english">So what are the lessons of the rare earth fracas?</span></p>
 
 <p><span class="chinese">大约30分钟后，争吵开始，一切都结束了。</span><span class="english">Some 30 minutes after the fracas began, it was over.</span></p>

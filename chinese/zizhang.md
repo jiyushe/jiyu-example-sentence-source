@@ -1,5 +1,7 @@
 # 滋长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhang.md)
+
 <p><span class="chinese">这似乎滋长了它的嚣张气焰。</span><span class="english">It seems the growth of its arrogance.</span></p>
 
 <p><span class="chinese">他的灵感以令人发晕的速度滋长着。</span><span class="english">His muse pullulated with dizzying speed.</span></p>

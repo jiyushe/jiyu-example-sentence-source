@@ -1,5 +1,7 @@
 # spandrel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spandrel.md)
+
 <p><span class="chinese">提出一种混凝土框架边梁预应力筋的新束型。</span><span class="english">A new layout of prestressed cables in concrete frame spandrel beams is present.</span></p>
 
 <p><span class="chinese">板柱结构的周边布置边梁可以提高结构的抗震性能。</span><span class="english">The seismic performance of flat plate structure can be improved by the spandrel beam.</span></p>

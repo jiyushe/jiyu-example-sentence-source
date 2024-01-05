@@ -1,5 +1,7 @@
 # pork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pork.md)
+
 <p><span class="chinese">你喜欢吃红烧肉吗?。</span><span class="english">Do you like pork?</span></p>
 
 <p><span class="chinese">我睇到件猪扒啊！</span><span class="english">I saw a pork chop.</span></p>

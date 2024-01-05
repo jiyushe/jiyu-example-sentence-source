@@ -1,5 +1,7 @@
 # 圆滑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanhua.md)
+
 <p><span class="chinese">然后，圆滑那些转角。</span><span class="english">Then round the corners.</span></p>
 
 <p><span class="chinese">他是一个圆滑的朝臣。</span><span class="english">He was an adroit courtier.</span></p>

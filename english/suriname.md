@@ -1,5 +1,7 @@
 # suriname
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suriname.md)
+
 <p><span class="chinese">相思豆被种植在苏利南莫河作为装饰用的。</span><span class="english">The red sandalwood tree has been planted in Suriname as an ornamental.</span></p>
 
 <p><span class="chinese">苏里南城市道路修筑项目所在地为该国首都帕拉马里博市。</span><span class="english">This City Road Building Project is located in Paramaribo City, the capital of Suriname.</span></p>

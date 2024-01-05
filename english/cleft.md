@@ -1,5 +1,7 @@
 # cleft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleft.md)
+
 <p><span class="chinese">机甲跟着jake进入一个岩石裂缝。</span><span class="english">It follows him into a narrow rocky cleft.</span></p>
 
 <p><span class="chinese">唇裂或腭裂并非上天的诅咒，厄运的征兆。</span><span class="english">A cleft lip or palate is not a curse or omen.</span></p>

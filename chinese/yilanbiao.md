@@ -1,5 +1,7 @@
 # 一览表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilanbiao.md)
+
 <p><span class="chinese">这些在最近的综论中已列出一览表。</span><span class="english">These have been listed in a recent review.</span></p>
 
 <p><span class="chinese">“大学主修科目成果一览表”2。</span><span class="english">University major subject result data sheet 2.</span></p>

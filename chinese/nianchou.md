@@ -1,5 +1,7 @@
 # 粘稠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianchou.md)
+
 <p><span class="chinese">对粘稠的痰液有分解作用。</span><span class="english">It can decompose the viscous sputum.</span></p>
 
 <p><span class="chinese">汤团充满了甜的粘稠物。</span><span class="english">The dumplings are filled with sweet goo.</span></p>

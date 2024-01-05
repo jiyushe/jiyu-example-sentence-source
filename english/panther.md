@@ -1,5 +1,7 @@
 # panther
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panther.md)
+
 <p><span class="chinese">巴希拉是一只黑豹。</span><span class="english">Bagheera is a panther.</span></p>
 
 <p><span class="chinese">一个三英寸高的蓝色绒毛熊。</span><span class="english">A plush blue stuffed panther 3 feet high.</span></p>

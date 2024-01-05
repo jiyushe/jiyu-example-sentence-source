@@ -1,5 +1,7 @@
 # mudflow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mudflow.md)
+
 <p><span class="chinese">它兼有滑坡和泥石流的一些特征。</span><span class="english">It has some properties of landslide and mudflow concurrently.</span></p>
 
 <p><span class="chinese">滑坡或泥石流结束后可能会有洪水或其他的碎屑。</span><span class="english">Flooding or additional slides may occur after a landslide or mudflow.</span></p>

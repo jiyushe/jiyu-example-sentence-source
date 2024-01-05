@@ -1,5 +1,7 @@
 # reputable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reputable.md)
+
 <p><span class="chinese">这个学校的声誉好吗？</span><span class="english">Is the school reputable?</span></p>
 
 <p><span class="chinese">产品遍布全国各地，声誉卓著。</span><span class="english">Products across the country, reputable.</span></p>

@@ -1,5 +1,7 @@
 # grievance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grievance.md)
+
 <p><span class="chinese">双方都觉得自己很委屈。</span><span class="english">Both sides feeled a sense of grievance.</span></p>
 
 <p><span class="chinese">他在报纸上为自己鸣不平。</span><span class="english">He aired his grievance in the newspaper.</span></p>

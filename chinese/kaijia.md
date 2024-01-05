@@ -1,5 +1,7 @@
 # 开价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaijia.md)
+
 <p><span class="chinese">他们开价2000元把那部电脑卖给我。</span><span class="english">They offered me the computer for 2000 yuan.</span></p>
 
 <p><span class="chinese">夏对那个女人开价15元。那个女人同意了。</span><span class="english">Xia offered the woman 15yuan. The woman accepted.</span></p>

@@ -1,5 +1,7 @@
 # accede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accede.md)
+
 <p><span class="chinese">其他国家如果需要，却可能同意这种开放。</span><span class="english">Other countries could accede to the deal if they wanted.</span></p>
 
 <p><span class="chinese">我以为时光治理是我的强项之一。</span><span class="english">I accede time administration to be one of my key backbones.</span></p>

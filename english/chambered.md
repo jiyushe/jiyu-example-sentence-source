@@ -1,5 +1,7 @@
 # chambered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chambered.md)
+
 <p><span class="chinese">他被关进一个狭窄的地下室里。</span><span class="english">He was chambered in a narrow basement.</span></p>
 
 <p><span class="chinese">女孩在树下约会，这是有空间间隔的。</span><span class="english">The girl met under the tree. It was chambered.</span></p>

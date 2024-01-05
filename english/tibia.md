@@ -1,5 +1,7 @@
 # tibia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tibia.md)
+
 <p><span class="chinese">足三里穴，位于外膝眼下4横指、胫骨边缘。</span><span class="english">Foot 3 miles, located outside the knees at 4, tibia edge.</span></p>
 
 <p><span class="chinese">注意肥厚、结实的胫骨成角部分未受损坏。</span><span class="english">Note that thick, strong angles of tibia are not violated.</span></p>

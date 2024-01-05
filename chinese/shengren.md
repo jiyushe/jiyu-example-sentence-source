@@ -1,5 +1,7 @@
 # 升任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengren.md)
+
 <p><span class="chinese">他升任经理是众望所归.</span><span class="english">He is very to be promoted as the manager.</span></p>
 
 <p><span class="chinese">在升任经理的竞争中，约翰以些微差距输给亚当。</span><span class="english">John was pipped at the post by Adams for promotion to manager.</span></p>

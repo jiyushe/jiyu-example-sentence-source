@@ -1,5 +1,7 @@
 # undissolved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undissolved.md)
+
 <p><span class="chinese">得出了未溶铁素体含量的影响规律，弄清了未溶铁素体的作用机理。</span><span class="english">The effect laws of amount of undissolved ferrite has been gained.</span></p>
 
 <p><span class="chinese">裂纹沿未溶碳化物和晶界走向开裂，说明未溶碳化物降低了晶界处结合强度。</span><span class="english">Finally, the slight crackle fissures along the direction of undissolved carbide and crystal boundary, and.</span></p>

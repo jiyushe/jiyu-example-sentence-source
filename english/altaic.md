@@ -1,5 +1,7 @@
 # altaic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/altaic.md)
+
 <p><span class="chinese">阿尔泰语的或与之相关的。</span><span class="english">Of or pertaining to or written in altaic.</span></p>
 
 <p><span class="chinese">属于阿尔泰语系满-通古斯语族。</span><span class="english">The Hezhe language belongs to the Altaic phylum.</span></p>

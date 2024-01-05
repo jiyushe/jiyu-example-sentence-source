@@ -1,5 +1,7 @@
 # 二进制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erjinzhi.md)
+
 <p><span class="chinese">它只是复制那些二进制数字。</span><span class="english">It just copies the bits.</span></p>
 
 <p><span class="chinese">二进制数据通信。</span><span class="english">Binary data communication.</span></p>

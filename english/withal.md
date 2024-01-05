@@ -1,5 +1,7 @@
 # withal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/withal.md)
+
 <p><span class="chinese">她是一位漂亮而又聪明的妇女。</span><span class="english">She is fair and a wise lady withal.</span></p>
 
 <p><span class="chinese">所有的灯都亮着，街道看起来更加漂亮。</span><span class="english">The street looks more beautiful withal the lights on.</span></p>

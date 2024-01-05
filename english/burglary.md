@@ -1,5 +1,7 @@
 # burglary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burglary.md)
+
 <p><span class="chinese">我想报失窃案。</span><span class="english">I want to report a burglary.</span></p>
 
 <p><span class="chinese">他们捏造了一个有关偷盗的故事。</span><span class="english">They faked up a story about burglary.</span></p>

@@ -1,5 +1,7 @@
 # 淘金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taojin.md)
+
 <p><span class="chinese">他尝试过淘金，采珍珠和猎兽皮。</span><span class="english">He tried gold mining, pearling and fur trapping.</span></p>
 
 <p><span class="chinese">那时候每个人都想着去那里淘金，赚得很多的钱。</span><span class="english">where everyone came out to make millions on gold.</span></p>

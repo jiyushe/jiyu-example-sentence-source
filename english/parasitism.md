@@ -1,5 +1,7 @@
 # parasitism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parasitism.md)
+
 <p><span class="chinese">而我们人类呢，则为它们的生存提供了上佳的处所，简直是让它们寄生在我们的社会当中。</span><span class="english">And in doing so, we were breeding them for parasitism.</span></p>
 
 <p><span class="chinese">指寄生虫对软体动物造成的损伤的器官、组织等。</span><span class="english">The impaired organ, tissue, etc. Of mollusc host caused by parasitism.</span></p>

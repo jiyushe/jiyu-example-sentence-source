@@ -1,5 +1,7 @@
 # 殷实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshi_1.md)
+
 <p><span class="chinese">这个国家的财源殷实吗?</span><span class="english">Are the country's finances sound?</span></p>
 
 <p><span class="chinese">一个真正的朋友永远不会在意他的朋友是贫窭的仍然殷实的。</span><span class="english">A true friend never care whether his friend is poor or rich.</span></p>

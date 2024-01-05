@@ -1,5 +1,7 @@
 # giantess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giantess.md)
+
 <p><span class="chinese">别站在风口上，小心着凉。</span><span class="english">The giantess stands on her tiny island.</span></p>
 
 <p><span class="chinese">小女巨人引导柏林，德国在周日，2009年10月4日。</span><span class="english">Little Giantess walks through Berlin, Germany on Sunday, Oct. 4, 2009.</span></p>

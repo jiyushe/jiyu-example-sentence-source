@@ -1,5 +1,7 @@
 # 笨手笨脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benshoubenjiao.md)
+
 <p><span class="chinese">他是个笨手笨脚的家伙。</span><span class="english">He's an awkward old cuss.</span></p>
 
 <p><span class="chinese">这个补鞋匠真是笨手笨脚。</span><span class="english">This cobbler is rather clumsy.</span></p>

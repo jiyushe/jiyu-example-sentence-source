@@ -1,5 +1,7 @@
 # shyness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shyness.md)
+
 <p><span class="chinese">很多人摆脱了羞怯。</span><span class="english">Many outgrow their shyness.</span></p>
 
 <p><span class="chinese">他的羞怯在她的亲切态度之下消失了。</span><span class="english">His shyness thawed under her kindness.</span></p>

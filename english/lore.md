@@ -1,5 +1,7 @@
 # lore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lore.md)
+
 <p><span class="chinese">早已跟学问与逻辑私定终身。</span><span class="english">Wedded to lore and logic long ago.</span></p>
 
 <p><span class="chinese">塞内加和柏拉图叫我离开你那套。</span><span class="english">Senec and Plato call me from thy lore.</span></p>

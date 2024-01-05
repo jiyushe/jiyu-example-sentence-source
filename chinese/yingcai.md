@@ -1,5 +1,7 @@
 # 英才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingcai.md)
+
 <p><span class="chinese">我住在英才路。</span><span class="english">I live on Ying-Tsai Road.</span></p>
 
 <p><span class="chinese">我们民族有你这样的英才，无所畏惧。</span><span class="english">I have no fear because so many elites aassist me.</span></p>

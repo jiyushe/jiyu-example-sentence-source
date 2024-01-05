@@ -1,5 +1,7 @@
 # instruction 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instruction.md)
+
 <p><span class="chinese">我必要回护。</span><span class="english">I need instruction.</span></p>
 
 <p><span class="chinese">它是一条指令。</span><span class="english">It's an instruction.</span></p>

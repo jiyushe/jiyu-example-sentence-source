@@ -1,5 +1,7 @@
 # 器材
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qicai_1.md)
+
 <p><span class="chinese">您使用什么摄影器材？</span><span class="english">What gear do you use?</span></p>
 
 <p><span class="chinese">拒绝为“健康土豆”运动器材。</span><span class="english">No ‘health-potato’ equipment.</span></p>

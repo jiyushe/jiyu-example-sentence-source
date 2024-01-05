@@ -1,5 +1,7 @@
 # 女方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvfang.md)
+
 <p><span class="chinese">为了给女方留下一个好印象，男方会同意女方的选择。</span><span class="english">Guy wants to impress the girl, agrees to her pick.</span></p>
 
 <p><span class="chinese">为了让男方喜欢她，女方会同意男方的选择。</span><span class="english">Girl wants the guy to like her, agrees to his pick.</span></p>

@@ -1,5 +1,7 @@
 # 盛意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyi_2.md)
+
 <p><span class="chinese">衷心感谢您的一片盛意。</span><span class="english">I heartily appreciate your great kindness to me.</span></p>
 
 <p><span class="chinese">你的邀请我心领了，感谢盛意改日一定践约。</span><span class="english">I appreciate your invitation, but I have to take a rain check.</span></p>

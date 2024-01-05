@@ -1,5 +1,7 @@
 # snowmobile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowmobile.md)
+
 <p><span class="chinese">我们可以在阿拉斯加看到雪车。</span><span class="english">We can see snowmobile in Alasca.</span></p>
 
 <p><span class="chinese">威廉驾驶着雪地摩托，而凯特在他身后高兴得大叫起来。</span><span class="english">Kate, roared with delight, as William took the snowmobile controls.</span></p>

@@ -1,5 +1,7 @@
 # idler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idler.md)
+
 <p><span class="chinese">只帮助那些不懒惰的人。</span><span class="english">Only help him who is not an idler.</span></p>
 
 <p><span class="chinese">我不能指望那个懒惰者的帮忙。</span><span class="english">I can't expect help from the idler.</span></p>

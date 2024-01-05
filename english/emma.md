@@ -1,5 +1,7 @@
 # emma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emma.md)
+
 <p><span class="chinese">他帮助埃玛。</span><span class="english">He helps Emma.</span></p>
 
 <p><span class="chinese">埃玛是热还是冷?。</span><span class="english">Is Emma hot or cold?</span></p>

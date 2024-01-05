@@ -1,5 +1,7 @@
 # 银根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingen.md)
+
 <p><span class="chinese">现在该银行的银根很紧。</span><span class="english">Money is tight just now in the bank.</span></p>
 
 <p><span class="chinese">但问题不仅仅只在于银根紧锁的银行。</span><span class="english">But the problem isn’t just tight-fisted banks.</span></p>

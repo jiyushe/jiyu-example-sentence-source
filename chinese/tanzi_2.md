@@ -1,5 +1,7 @@
 # 摊子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanzi_2.md)
+
 <p><span class="chinese">首先，随便去一家烤肉串的摊子。</span><span class="english">First, go to any döner kebab stand.</span></p>
 
 <p><span class="chinese">卖热狗的摊子前排着长队。</span><span class="english">There is a long line at the hotdog stand.</span></p>

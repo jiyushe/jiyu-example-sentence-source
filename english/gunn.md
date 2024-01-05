@@ -1,5 +1,7 @@
 # gunn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunn.md)
+
 <p><span class="chinese">“本·葛恩！”西尔弗叫道。</span><span class="english">Ben Gunn ! ' shouted Silver.</span></p>
 
 <p><span class="chinese">“本·葛恩算条汉子吧？”他问。</span><span class="english">Is this Ben Gunn a man?' he asked.</span></p>

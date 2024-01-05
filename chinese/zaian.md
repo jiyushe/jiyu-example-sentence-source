@@ -1,5 +1,7 @@
 # 在案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaian.md)
+
 <p><span class="chinese">所有的东西都会被记录在案。</span><span class="english">It would all be on the record.</span></p>
 
 <p><span class="chinese">警方将他的名字记录在案。</span><span class="english">The police kept his name on record.</span></p>

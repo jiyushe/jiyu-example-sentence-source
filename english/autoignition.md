@@ -1,5 +1,7 @@
 # autoignition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autoignition.md)
+
 <p><span class="chinese">煤炭自燃火灾严重影响煤炭的安全生产和储藏。</span><span class="english">Such coal autoignition is a big hidden trouble to the coal storage.</span></p>
 
 <p><span class="chinese">自燃通常会，但并不总是引起爆震。</span><span class="english">The experimental results show that knock is caused by end gas autoignition.</span></p>

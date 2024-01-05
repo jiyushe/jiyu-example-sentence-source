@@ -1,5 +1,7 @@
 # 以至于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhiyu.md)
+
 <p><span class="chinese">但汤姆太羞涩了，以至于说不出话来。</span><span class="english">But Tom was too shy to say anything.</span></p>
 
 <p><span class="chinese">她太矮了，以至于够不到苹果。</span><span class="english">She is too short to reach the apple.</span></p>

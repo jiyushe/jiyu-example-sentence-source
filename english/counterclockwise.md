@@ -1,5 +1,7 @@
 # counterclockwise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterclockwise.md)
+
 <p><span class="chinese">这里它是逆时针的。</span><span class="english">So, here, it stays counterclockwise.</span></p>
 
 <p><span class="chinese">好，3转-,顺时针方向还是逆时针方向？</span><span class="english">Okay, three-- shall we go clockwise or counterclockwise?</span></p>

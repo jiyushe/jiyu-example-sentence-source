@@ -1,5 +1,7 @@
 # interpretive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpretive.md)
+
 <p><span class="chinese">我们属于同一个释意群体。</span><span class="english">We say we belong to an interpretive community.</span></p>
 
 <p><span class="chinese">我们是怎么看待释意群体这个概念的？</span><span class="english">What do we make of this idea of interpretive community?</span></p>

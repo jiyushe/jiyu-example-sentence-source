@@ -1,5 +1,7 @@
 # 香艳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangyan_3.md)
+
 <p><span class="chinese">内容非常、非常香艳。</span><span class="english">It's very, very racy.</span></p>
 
 <p><span class="chinese">还有香艳美人们古老的颂咏。</span><span class="english">And beauty making beautiful old rhyme.</span></p>

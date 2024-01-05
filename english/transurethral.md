@@ -1,5 +1,7 @@
 # transurethral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transurethral.md)
+
 <p><span class="chinese">我们使用经尿道电烧成功治疗这名病人。</span><span class="english">The patient was successfully treated with transurethral fulguration.</span></p>
 
 <p><span class="chinese">经尿道膀胱颈部后唇切除为有效的治疗方法。</span><span class="english">Transurethral resection of posterior lip of cervix vesicae is an effective therapeutic method.</span></p>

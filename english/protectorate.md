@@ -1,5 +1,7 @@
 # protectorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protectorate.md)
+
 <p><span class="chinese">在1881年时，随着法国对殖民地的开拓，转而成为法国的被保护国。</span><span class="english">It passed under French protectorate in 1881.</span></p>
 
 <p><span class="chinese">但乔拒绝接受这一切，他不想失去保护权。</span><span class="english">But Cho refused to accept that, not wanting to lose the protectorate.</span></p>

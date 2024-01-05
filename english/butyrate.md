@@ -1,5 +1,7 @@
 # butyrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butyrate.md)
+
 <p><span class="chinese">用丁酸钠诱导其分化。</span><span class="english">Differentiation was induced by sodium butyrate.</span></p>
 
 <p><span class="chinese">硫酸铈是合成丁酸戊酯的良好催化剂。</span><span class="english">Ceric sulfate is an excellent catalyst for synthesis of amyl butyrate.</span></p>

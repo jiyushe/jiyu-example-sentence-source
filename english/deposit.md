@@ -1,5 +1,7 @@
 # deposit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deposit.md)
+
 <p><span class="chinese">是的，但恐怕你得先交押金。</span><span class="english">How much is the deposit?</span></p>
 
 <p><span class="chinese">您可以付一些预付金吗？</span><span class="english">May I have some deposit?</span></p>

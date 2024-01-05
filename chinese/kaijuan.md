@@ -1,5 +1,7 @@
 # 开卷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaijuan.md)
+
 <p><span class="chinese">这场是开卷考。</span><span class="english">It's an open-book exam.</span></p>
 
 <p><span class="chinese">那是开卷考试吗？</span><span class="english">Is it an open book exam?</span></p>

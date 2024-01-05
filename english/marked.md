@@ -1,5 +1,7 @@
 # marked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marked.md)
+
 <p><span class="chinese">现在，沈奎安成了一个标志性的人物。</span><span class="english">Shen became a marked man.</span></p>
 
 <p><span class="chinese">有一天是用红色标注的。</span><span class="english">One day was marked in red.</span></p>

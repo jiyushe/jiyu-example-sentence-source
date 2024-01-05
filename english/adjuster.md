@@ -1,5 +1,7 @@
 # adjuster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjuster.md)
+
 <p><span class="chinese">从头部保护装置拔除调节器条。</span><span class="english">Pull the adjuster bar from the head restraint.</span></p>
 
 <p><span class="chinese">顺时针转动红色调节钮以减慢回弹速度。</span><span class="english">For slower rebound, turn the red adjuster knob clockwise.</span></p>

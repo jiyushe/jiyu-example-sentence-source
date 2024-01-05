@@ -1,5 +1,7 @@
 # interpose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpose.md)
+
 <p><span class="chinese">但是它是如何干预和强制的呢？</span><span class="english">But how does it interpose and compel?</span></p>
 
 <p><span class="chinese">这位老人喜欢调停争论。</span><span class="english">The old man likes to interpose in the disputes.</span></p>

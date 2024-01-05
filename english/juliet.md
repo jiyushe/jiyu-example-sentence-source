@@ -1,5 +1,7 @@
 # juliet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juliet.md)
+
 <p><span class="chinese">你们都是朱丽叶?</span><span class="english">You’re all Juliet?</span></p>
 
 <p><span class="chinese">朱丽叶是个白痴。</span><span class="english">Juliet is an idiot.</span></p>

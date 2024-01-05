@@ -1,5 +1,7 @@
 # downshift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downshift.md)
+
 <p><span class="chinese">手动档车辆，在减速时应相应换档至合理档位。</span><span class="english">In a vehicle with manual transmission, downshift as you reduce speed.</span></p>
 
 <p><span class="chinese">一旦速度下降，踏下离合器，切换到更低挡位。</span><span class="english">Once this happens, push in the clutch, and downshift to a lower gear.</span></p>

@@ -1,5 +1,7 @@
 # 清晨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingchen.md)
+
 <p><span class="chinese">清晨那如烟的雾。</span><span class="english">The smoky morning haze.</span></p>
 
 <p><span class="chinese">在你们的某个清晨</span><span class="english">You know, your morning.</span></p>

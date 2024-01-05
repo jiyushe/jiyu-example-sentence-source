@@ -1,5 +1,7 @@
 # boggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boggle.md)
+
 <p><span class="chinese">切莫见难而止。</span><span class="english">Never boggle at a difficulty.</span></p>
 
 <p><span class="chinese">距离之大，不可思议。</span><span class="english">Vast distances boggle the mind.</span></p>

@@ -1,5 +1,7 @@
 # 实景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijing_1.md)
+
 <p><span class="chinese">入口处两处规模宏大的实景模型。</span><span class="english">Two large dioramas at the entrance.</span></p>
 
 <p><span class="chinese">因为有些影片不能在实景拍摄。</span><span class="english">Because it can't be film in the real place.</span></p>

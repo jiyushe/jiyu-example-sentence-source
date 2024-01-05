@@ -1,5 +1,7 @@
 # 走红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouhong.md)
+
 <p><span class="chinese">她现在是个走红的演员。</span><span class="english">She is now a popular actress.</span></p>
 
 <p><span class="chinese">台湾版苏珊·博伊尔“小胖”走红网络。</span><span class="english">Taiwan's male 'Susan Boyle' a web sensation.</span></p>

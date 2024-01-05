@@ -1,5 +1,7 @@
 # pancake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pancake.md)
+
 <p><span class="chinese">名声就像画在墙上的饼，不可以拿来吃。</span><span class="english">We can have Dutch pancake and wine.</span></p>
 
 <p><span class="chinese">谁准备好要吃可爱的鸭鸭薄烤饼呀？</span><span class="english">Who's ready for a cute duck pancake?</span></p>

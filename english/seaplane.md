@@ -1,5 +1,7 @@
 # seaplane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seaplane.md)
+
 <p><span class="chinese">然后他们去了水上飞机。</span><span class="english">Then they got into the seaplane.</span></p>
 
 <p><span class="chinese">他看著水上飞机在海面上降落。</span><span class="english">He watched the seaplane landing on water.</span></p>

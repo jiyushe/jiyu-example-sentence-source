@@ -1,5 +1,7 @@
 # polisher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polisher.md)
+
 <p><span class="chinese">自动擦鞋机“，”</span><span class="english">Auto Shoe Polisher.</span></p>
 
 <p><span class="chinese">玛丽是个马屁精。</span><span class="english">Mary is an apple polisher.</span></p>

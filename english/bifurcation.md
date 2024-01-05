@@ -1,5 +1,7 @@
 # bifurcation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bifurcation.md)
+
 <p><span class="chinese">是我哪儿惹着你了还是你丫有病啊？</span><span class="english">Was where I annoys your your bifurcation to be sick?</span></p>
 
 <p><span class="chinese">我们再次来到了历史上的分歧点。</span><span class="english">We have reached another bifurcation point in history.</span></p>

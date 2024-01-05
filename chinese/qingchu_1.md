@@ -1,5 +1,7 @@
 # 清除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingchu_1.md)
+
 <p><span class="chinese">此参数用于快速清除。</span><span class="english">Used for quick cleanup.</span></p>
 
 <p><span class="chinese">你也无法清除它们。</span><span class="english">You cannot sweep it up.</span></p>

@@ -1,5 +1,7 @@
 # 客客气气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kekeqiqi.md)
+
 <p><span class="chinese">对了，这样才好，我早说过，大家应当客客气气。</span><span class="english">That's right, that's good, I said so, you are nice fellows.</span></p>
 
 <p><span class="chinese">这绝不保证警察们会客客气气的。</span><span class="english">This by no means guarantees gentle treatment by the police.</span></p>

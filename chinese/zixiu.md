@@ -1,5 +1,7 @@
 # 自修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixiu.md)
+
 <p><span class="chinese">不，我船不能自修损坏处。</span><span class="english">No, I cannot repair damage.</span></p>
 
 <p><span class="chinese">这是个自修室，是么？</span><span class="english">This is like study hall right?</span></p>

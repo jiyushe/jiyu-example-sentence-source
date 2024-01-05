@@ -1,5 +1,7 @@
 # delectation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delectation.md)
+
 <p><span class="chinese">我现在觉得，他们读我讲的故事都很愉快。</span><span class="english">I now feel, they read the story that I speak all very delectation.</span></p>
 
 <p><span class="chinese">希望在今后的日子里与大家相处愉快。</span><span class="english">Hope in the day of aftertime to get along with everyone delectation.</span></p>

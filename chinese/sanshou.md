@@ -1,5 +1,7 @@
 # 散手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanshou.md)
+
 <p><span class="chinese">太极散手是太极推手技法的延伸。</span><span class="english">Taichi Sanshou is the extension of Taichi push-hands exercise.</span></p>
 
 <p><span class="chinese">2008年被邀请做为中国散手道协会顾问。</span><span class="english">In 2008 he was invited as a consultant in China Sanshou Dao Association.</span></p>

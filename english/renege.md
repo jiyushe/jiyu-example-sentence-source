@@ -1,5 +1,7 @@
 # renege
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renege.md)
+
 <p><span class="chinese">文胜见杜思曼食言对她更加怀恨。</span><span class="english">WenSheng see DuSiMan renege on her more grudge.</span></p>
 
 <p><span class="chinese">有些公司，比如航运巨头中国远洋运输公司厚颜无耻地试图毁约。</span><span class="english">Some, like Cosco, a shipping giant, have brazenly tried to renege on contracts.</span></p>

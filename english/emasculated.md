@@ -1,5 +1,7 @@
 # emasculated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emasculated.md)
+
 <p><span class="chinese">左派持不同政见者已经遭到削弱和排挤。</span><span class="english">Left-wing dissidents have been emasculated and marginalised.</span></p>
 
 <p><span class="chinese">凡外肾受伤的，或被阉割的，不可入耶和华的会。</span><span class="english">No one who has been emasculated by crushing or cutting may enter the assembly of the LORD.</span></p>

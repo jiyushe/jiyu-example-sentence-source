@@ -1,5 +1,7 @@
 # evenhanded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evenhanded.md)
+
 <p><span class="chinese">老师给我们的试卷打分时很公正。</span><span class="english">Our teacher is evenhanded when grading our papers.</span></p>
 
 <p><span class="chinese">奥巴马传达的信息是非常公平且具有外交性的。</span><span class="english">President Obama’s message was evenhanded and diplomatic.</span></p>

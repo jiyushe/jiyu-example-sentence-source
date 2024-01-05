@@ -1,5 +1,7 @@
 # 摇手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoshou.md)
+
 <p><span class="chinese">她轻视的摇了摇手。</span><span class="english">She waves her hand dismissively.</span></p>
 
 <p><span class="chinese">向爷爷摇手再见。</span><span class="english">Wave goodbye to your grandfather.</span></p>

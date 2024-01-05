@@ -1,5 +1,7 @@
 # 虚妄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuwang.md)
+
 <p><span class="chinese">他们哄骗她，使她产生一种虚妄的安全感。</span><span class="english">They lulled her into a false sense of security.</span></p>
 
 <p><span class="chinese">外邦为什么争闹，万民为什么谋算虚妄的事。</span><span class="english">Why do the nations conspire and the peoples plot in vain?</span></p>

@@ -1,5 +1,7 @@
 # circumscription
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumscription.md)
+
 <p><span class="chinese">关于川木香属的界限问题。</span><span class="english">On circumscription of the genus Dolomiaea DC.</span></p>
 
 <p><span class="chinese">许多工程应用中需要计算区域最小面积的包围盒。</span><span class="english">It is necessary to calculate the min-area encasing box of a circumscription.</span></p>

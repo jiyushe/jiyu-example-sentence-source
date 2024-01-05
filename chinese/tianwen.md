@@ -1,5 +1,7 @@
 # 天文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianwen.md)
+
 <p><span class="chinese">他是一位天文观测员。</span><span class="english">He is a astronomical observer.</span></p>
 
 <p><span class="chinese">相比之下，地球轨道只是一个天文单位。</span><span class="english">In comparison, the Earth orbits at just 1 AU.</span></p>

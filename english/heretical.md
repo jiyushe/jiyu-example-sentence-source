@@ -1,5 +1,7 @@
 # heretical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heretical.md)
+
 <p><span class="chinese">它被认为是无益甚至邪佞之事。</span><span class="english">It was oppposed as worthless and even heretical.</span></p>
 
 <p><span class="chinese">没有什么可以收取严格邪教对孟他努。</span><span class="english">Nothing strictly heretical could be charged against Montanism.</span></p>

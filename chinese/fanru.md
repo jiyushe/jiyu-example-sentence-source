@@ -1,5 +1,7 @@
 # 繁缛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanru.md)
+
 <p><span class="chinese">在其泛世俗化阶段，表现出一种繁缛富丽而丰富的艺术美感。</span><span class="english">At secularization stage, it displays the splendid rich artistic beauty.</span></p>
 
 <p><span class="chinese">从文字繁缛的文档迁移到可视化的文档是一条可行之路。</span><span class="english">One way is to shift from text heavy documentation to visual documentation.</span></p>

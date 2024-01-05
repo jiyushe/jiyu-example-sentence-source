@@ -1,5 +1,7 @@
 # cga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cga.md)
+
 <p><span class="chinese">要知道这些接头的详细图纸可以参考CGA手册V-1。</span><span class="english">For detailed drawings of these connections consult CGA Pamphlet V-1.</span></p>
 
 <p><span class="chinese">我已经过去了15注册会计师考试，我期望我会的注册会计师资格在2009年。</span><span class="english">And I've passed 15 exams in CGA, I anticipate I will get the CGA qualification in 2009.</span></p>

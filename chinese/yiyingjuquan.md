@@ -1,5 +1,7 @@
 # 一应俱全
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyingjuquan.md)
+
 <p><span class="chinese">整理箱以及编织袋一应俱全。</span><span class="english">The sorting box and bag.</span></p>
 
 <p><span class="chinese">什么都有，所有家居的舒适设施一应俱全。</span><span class="english">anything, all the comforts of home.</span></p>

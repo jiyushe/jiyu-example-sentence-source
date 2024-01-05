@@ -1,5 +1,7 @@
 # glaucomatous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glaucomatous.md)
+
 <p><span class="chinese">青光眼性视神经萎缩由异常的眼内压所致。</span><span class="english">Glaucomatous optic nerve atrophy results from the abnormal intraocular pressure.</span></p>
 
 <p><span class="chinese">方法对3例垂体瘤误诊青光眼的患者资料进行回顾性分析。</span><span class="english">Methods Study respectively 3 cases that glaucomatous patients were misdiagnosised to hypophyseoma.</span></p>

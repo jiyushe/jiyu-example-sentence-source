@@ -1,5 +1,7 @@
 # semicolon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semicolon.md)
+
 <p><span class="chinese">它当然是一个分号。</span><span class="english">So it's definitely the semicolon.</span></p>
 
 <p><span class="chinese">使用分号来分开各个模式。</span><span class="english">Use a semicolon to separate each mode.</span></p>

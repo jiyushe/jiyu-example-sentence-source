@@ -1,5 +1,7 @@
 # photoreceptor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photoreceptor.md)
+
 <p><span class="chinese">色素细胞吸收光后，在光感细胞上投放阴影。</span><span class="english">It absorbs light and casts a shadow over the photoreceptor.</span></p>
 
 <p><span class="chinese">射入光线首先到达感光细胞层，并在此转化成电脉冲。</span><span class="english">Incoming light first reaches the photoreceptor cells, which turn it into electrical impulses.</span></p>

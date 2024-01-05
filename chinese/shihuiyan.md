@@ -1,5 +1,7 @@
 # 石灰岩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihuiyan.md)
+
 <p><span class="chinese">对白云岩化的石灰岩的命名。</span><span class="english">The name given to dolomitized limestone.</span></p>
 
 <p><span class="chinese">石灰岩实验未观察到粘滑现象。</span><span class="english">For limestone no stick-slip was observed.</span></p>

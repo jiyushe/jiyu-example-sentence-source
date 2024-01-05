@@ -1,5 +1,7 @@
 # hug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hug.md)
+
 <p><span class="chinese">拥抱怪物吧。</span><span class="english">Hug the monster.</span></p>
 
 <p><span class="chinese">他给了我一个拥抱。</span><span class="english">He gives me a hug.</span></p>

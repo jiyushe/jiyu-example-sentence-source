@@ -1,5 +1,7 @@
 # casablanca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casablanca.md)
+
 <p><span class="chinese">在卡萨布兰卡里克的大名是如雷贯耳啊。</span><span class="english">There's a great deal about Rick in Casablanca.</span></p>
 
 <p><span class="chinese">卡莎布兰卡是一长而软弱的铁路线的终点。</span><span class="english">Casablanca was the terminus of a long rickety railway line.</span></p>

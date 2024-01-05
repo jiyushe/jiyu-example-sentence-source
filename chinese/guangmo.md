@@ -1,5 +1,7 @@
 # 广漠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangmo.md)
+
 <p><span class="chinese">化成面前的广漠的平原。</span><span class="english">And a plain vast and bare in front of us.</span></p>
 
 <p><span class="chinese">只见广漠的荒地中央一位老人正在弯腰播种。</span><span class="english">In the middle of this vast wasteland was a bent-over old man.</span></p>

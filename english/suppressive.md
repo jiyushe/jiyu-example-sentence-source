@@ -1,5 +1,7 @@
 # suppressive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suppressive.md)
+
 <p><span class="chinese">抑制性的逃避即是大脑知道怎么做。</span><span class="english">Suppressive avoidance is what the mind knows how to do.</span></p>
 
 <p><span class="chinese">压制火力唯一管用的时候是用来对付废弃的阵地的时候。</span><span class="english">The only time suppressive fire works is when it is used on abandoned positions.</span></p>

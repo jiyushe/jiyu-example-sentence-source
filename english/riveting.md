@@ -1,5 +1,7 @@
 # riveting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riveting.md)
+
 <p><span class="chinese">适用于适用于高尔夫球袋底部的铆合。</span><span class="english">Designed for riveting golf bag bottom.</span></p>
 
 <p><span class="chinese">多年来，标准方法是铆。</span><span class="english">For many years the standard method was riveting.</span></p>

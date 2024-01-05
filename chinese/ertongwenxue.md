@@ -1,5 +1,7 @@
 # 儿童文学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ertongwenxue.md)
+
 <p><span class="chinese">他也是一位多产的儿童文学作家。</span><span class="english">He is also a prolific writer for children.</span></p>
 
 <p><span class="chinese">地海古墓是1972年纽伯利儿童文学银奖作品。</span><span class="english">The Tombs of Atuan was a Newbery Honor Book in 1972.</span></p>

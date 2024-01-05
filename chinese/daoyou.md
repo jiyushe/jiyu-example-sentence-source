@@ -1,5 +1,7 @@
 # 导游
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoyou.md)
+
 <p><span class="chinese">李导游对此倒是一副外交辞令。</span><span class="english">Li was diplomatic.</span></p>
 
 <p><span class="chinese">你需要一位导游吗？</span><span class="english">Do you need a guide?</span></p>

@@ -1,5 +1,7 @@
 # elastoplastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elastoplastic.md)
+
 <p><span class="chinese">研究了武汉地区高压缩性黏土弹塑性本构模型。</span><span class="english">The elastoplastic constitutive relation of high compressibility clay in Wuhan was investigated.</span></p>
 
 <p><span class="chinese">最后还分析了节点板与销栓的弹塑性接触问题。</span><span class="english">Finally, contact method is used to analyze the elastoplastic contact behavior between gusset and pin.</span></p>

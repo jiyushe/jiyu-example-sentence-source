@@ -1,5 +1,7 @@
 # accordant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accordant.md)
+
 <p><span class="chinese">这也符合当今社会的发展需要。</span><span class="english">This is accordant with today social development.</span></p>
 
 <p><span class="chinese">你是怎样做到帐物一致的？</span><span class="english">How do you make the material and account accordant ?</span></p>

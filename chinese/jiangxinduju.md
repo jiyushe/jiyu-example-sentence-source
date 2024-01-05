@@ -1,5 +1,7 @@
 # 匠心独具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangxinduju.md)
+
 <p><span class="chinese">而且匠心独具，制作精细。</span><span class="english">and it's just very well conceived and developed.</span></p>
 
 <p><span class="chinese">每一个角落均有其妙处，足见主人的匠心独具。</span><span class="english">Every part shows the inventive mind of the owner.</span></p>

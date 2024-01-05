@@ -1,5 +1,7 @@
 # horary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horary.md)
+
 <p><span class="chinese">辛勤的蜜蜂永没有时间的悲哀。</span><span class="english">The industrious bee always has no horary woe.</span></p>
 
 <p><span class="chinese">放弃时间的人，时间也放弃他。</span><span class="english">Give up a horary person, time also gives him up.</span></p>

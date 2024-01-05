@@ -1,5 +1,7 @@
 # vixen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vixen.md)
+
 <p><span class="chinese">浏览或购买维克森今天。</span><span class="english">Browse or Buy Vixen Today.</span></p>
 
 <p><span class="chinese">五十年代的魅力适合老式的狐狸精。</span><span class="english">Fifties glamour fit for a vintage vixen.</span></p>

@@ -1,5 +1,7 @@
 # piscatorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piscatorial.md)
+
 <p><span class="chinese">我国是个渔业大国。</span><span class="english">Our country is a piscatorial big country.</span></p>
 
 <p><span class="chinese">政府正在采取措施促进渔业发展。</span><span class="english">The government is taking measures to promote piscatorial development.</span></p>

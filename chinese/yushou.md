@@ -1,5 +1,7 @@
 # 御手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushou.md)
+
 <p><span class="chinese">御手洗还支持员工终身雇用制。</span><span class="english">He also believes in lifetime employment.</span></p>
 
 <p><span class="chinese">御手洗先生想出了一个不同的管理模式。</span><span class="english">Mr Mitarai has come up with a different management model.</span></p>

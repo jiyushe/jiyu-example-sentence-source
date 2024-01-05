@@ -1,5 +1,7 @@
 # testability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/testability.md)
+
 <p><span class="chinese">但这有一些问题，现在任在测试阶段。</span><span class="english">One of these issues is that of testability.</span></p>
 
 <p><span class="chinese">另一个主要的优点是获得应用程序可测试性。</span><span class="english">Another major gain is application testability.</span></p>

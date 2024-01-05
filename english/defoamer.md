@@ -1,5 +1,7 @@
 # defoamer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defoamer.md)
+
 <p><span class="chinese">高效的消泡剂可以保证工艺顺利进行。</span><span class="english">An effective defoamer can ensure smooth processes.</span></p>
 
 <p><span class="chinese">消泡剂用于水性墨以及光油。</span><span class="english">Defoamer for water based inks and overprint varnishes.</span></p>

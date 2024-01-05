@@ -1,5 +1,7 @@
 # 生漆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengqi_1.md)
+
 <p><span class="chinese">本文就我国生漆化学研究状况做了评述。</span><span class="english">Research condition of raw lacquer chemistry in our country was reviewed.</span></p>
 
 <p><span class="chinese">本文简要论述了贵州省生漆历史概况。</span><span class="english">The general situation ot lacquer history in Guizhou province is simply discussed.</span></p>

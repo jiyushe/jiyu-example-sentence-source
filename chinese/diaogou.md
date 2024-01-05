@@ -1,5 +1,7 @@
 # 钓钩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaogou.md)
+
 <p><span class="chinese">我们的钓钩挂在一块了。</span><span class="english">Our fishhooks have hung together.</span></p>
 
 <p><span class="chinese">这样我像是用一只钓钩而捉住了两条鱼。</span><span class="english">Thus I caught two fishes as it were with one hook.</span></p>

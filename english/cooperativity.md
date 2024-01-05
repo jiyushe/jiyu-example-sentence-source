@@ -1,5 +1,7 @@
 # cooperativity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cooperativity.md)
+
 <p><span class="chinese">酸碱协同作用普遍存在于酶和抗体的催化过程中。</span><span class="english">Acid-base cooperativity is commonly invoked in enzymatic and catalytic antibody catalysis.</span></p>
 
 <p><span class="chinese">文中以柔性机器人协调操作为例，分析了影响机器人的协调操作协调性的因素。</span><span class="english">Factors that affect the cooperativity were discussed by taking the multiple flexible robot system as example.</span></p>

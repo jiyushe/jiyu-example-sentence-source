@@ -1,5 +1,7 @@
 # greatest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greatest.md)
+
 <p><span class="chinese">猛龙队史最伟大的球员。</span><span class="english">Greatest Raptor of all time.</span></p>
 
 <p><span class="chinese">自由是最好的礼物。</span><span class="english">Freedom is the greatest gift.</span></p>

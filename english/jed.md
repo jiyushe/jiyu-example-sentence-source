@@ -1,5 +1,7 @@
 # jed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jed.md)
+
 <p><span class="chinese">杰德把我叫到另一边。</span><span class="english">Jed took me aside.</span></p>
 
 <p><span class="chinese">杰德对马了如指掌。</span><span class="english">Jed knew all about horse.</span></p>

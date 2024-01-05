@@ -1,5 +1,7 @@
 # pound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pound.md)
+
 <p><span class="chinese">割走你要的那一磅肉吧！</span><span class="english">Take your pound of flesh!</span></p>
 
 <p><span class="chinese">茶叶按磅出售。</span><span class="english">Tea is sold by the pound.</span></p>

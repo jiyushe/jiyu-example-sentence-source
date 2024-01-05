@@ -1,5 +1,7 @@
 # 惬意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieyi.md)
+
 <p><span class="chinese">那些好话使她感受心里很惬意。</span><span class="english">The good words made her feelgood.</span></p>
 
 <p><span class="chinese">选择一种生活，闲适惬意，随心而动！</span><span class="english">Chose better life, free your heart!</span></p>

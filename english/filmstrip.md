@@ -1,5 +1,7 @@
 # filmstrip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filmstrip.md)
+
 <p><span class="chinese">命名幻灯片组并标记他们。</span><span class="english">Click the group slide in the Filmstrip.</span></p>
 
 <p><span class="chinese">它还将高于这个幻灯片的控制。</span><span class="english">It will also be faster than this filmstrip control.</span></p>

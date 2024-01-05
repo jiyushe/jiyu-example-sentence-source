@@ -1,5 +1,7 @@
 # 就范
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiufan.md)
+
 <p><span class="chinese">他们妄图以女色迫我就范。</span><span class="english">They tried to starve me out by a sex-trap.</span></p>
 
 <p><span class="chinese">所以你就假装缉毒、演这么一处好让我就范吗？</span><span class="english">So you set up a pretend drugs bust to bully me?</span></p>

@@ -1,5 +1,7 @@
 # 井田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingtian.md)
+
 <p><span class="chinese">如果你看看图片密切，你可以看到井田塔贝尔的脸。</span><span class="english">If you look closely at the picture, you can see the face of Ida Tarbell.</span></p>
 
 <p><span class="chinese">东山井田位于娘子关奥陶系岩溶泉域的西部。</span><span class="english">Dongshan Coalfield is located in the western part of Niangziguan Spring Area.</span></p>

@@ -1,5 +1,7 @@
 # pelagic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pelagic.md)
+
 <p><span class="chinese">远洋软泥的来源是什么？</span><span class="english">What is the origin of pelagic oozes ?</span></p>
 
 <p><span class="chinese">这艘船从事远洋渔业。</span><span class="english">The ship is engaged in pelagic fishery.</span></p>

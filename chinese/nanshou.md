@@ -1,5 +1,7 @@
 # 难受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanshou.md)
+
 <p><span class="chinese">是令人难受的愧疚之情？</span><span class="english">Is it pangs of guilt?</span></p>
 
 <p><span class="chinese">响铃痛苦或难受。</span><span class="english">Bell pain or discomfort.</span></p>

@@ -1,5 +1,7 @@
 # 陆战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luzhan.md)
+
 <p><span class="chinese">那个用左轮枪留着史诗般胡子的陆战队员是谁？</span><span class="english">Who is the Marine with the revolver and the epic mustache?</span></p>
 
 <p><span class="chinese">这些纳瓦霍人被分配到海军陆战师后，就登船出发了。</span><span class="english">The Navajos were assigned to Marine divisions and shipped out.</span></p>

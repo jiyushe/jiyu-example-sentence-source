@@ -1,5 +1,7 @@
 # 应声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingsheng.md)
+
 <p><span class="chinese">店小二应声来到程咬金身边。</span><span class="english">He answer to cheng bite gold side.</span></p>
 
 <p><span class="chinese">乒乒两枪，他应声倒地身亡。</span><span class="english">The gun spat twice and he fell dead.</span></p>

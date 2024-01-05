@@ -1,5 +1,7 @@
 # localism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/localism.md)
+
 <p><span class="chinese">其次，需要打击地方主义。</span><span class="english">Second, the need to combat localism.</span></p>
 
 <p><span class="chinese">相较而言，意大利从来没有跨越地方主义。</span><span class="english">By contrast, Italy never overcame localism.</span></p>

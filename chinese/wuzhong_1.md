@@ -1,5 +1,7 @@
 # 物种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzhong_1.md)
+
 <p><span class="chinese">但物种和生态圈不能搬家。</span><span class="english">Species and habitats can't.</span></p>
 
 <p><span class="chinese">我们不实践物种歧视。</span><span class="english">We do not practice speciesism.</span></p>

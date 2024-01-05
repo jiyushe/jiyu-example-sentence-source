@@ -1,5 +1,7 @@
 # collectively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collectively.md)
+
 <p><span class="chinese">为什么会集体选择小北？</span><span class="english">Why have they collectively chosen Xiaobei?</span></p>
 
 <p><span class="chinese">我们集体报名考全民英检。</span><span class="english">We collectively enter our names for taking the GEPT.</span></p>

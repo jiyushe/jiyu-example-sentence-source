@@ -1,5 +1,7 @@
 # 熟语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuyu_2.md)
+
 <p><span class="chinese">本文对梅县熟语进行了初步研究。</span><span class="english">This paper make a primary study on Meixian idiom.</span></p>
 
 <p><span class="chinese">第四章是汉语熟语的文化理据。</span><span class="english">Chapter four -the cultural reason of Chinese idioms.</span></p>

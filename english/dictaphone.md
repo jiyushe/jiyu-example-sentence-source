@@ -1,5 +1,7 @@
 # dictaphone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dictaphone.md)
+
 <p><span class="chinese">或者是录音机。</span><span class="english">Or a dictaphone.</span></p>
 
 <p><span class="chinese">因此你可以把它作为留声机使用。</span><span class="english">So you can use it as dictaphone.</span></p>

@@ -1,5 +1,7 @@
 # lioness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lioness.md)
+
 <p><span class="chinese">母狮低伏着身子准备攻击。</span><span class="english">The lioness crouched ready to strike.</span></p>
 
 <p><span class="chinese">想要吃掉彭彭的母狮子是谁？</span><span class="english">Who was the lioness trying to eat pumbaa?</span></p>

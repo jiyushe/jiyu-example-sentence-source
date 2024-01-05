@@ -1,5 +1,7 @@
 # fundament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fundament.md)
+
 <p><span class="chinese">分析结果为轮胎的寿命分析提供了基础。</span><span class="english">It gives the fundament for life analysis of SRT.</span></p>
 
 <p><span class="chinese">拥有一份好的心情是做好工作的基础。</span><span class="english">Owning a good mood is the fundament of efficient work.</span></p>

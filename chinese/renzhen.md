@@ -1,5 +1,7 @@
 # 认真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzhen.md)
+
 <p><span class="chinese">没错，我是认真的。</span><span class="english">Yes, I’m serious.</span></p>
 
 <p><span class="chinese">不过我是认真的，金儿。</span><span class="english">But I'm serious, Gin.</span></p>

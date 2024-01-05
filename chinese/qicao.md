@@ -1,5 +1,7 @@
 # 起草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qicao.md)
+
 <p><span class="chinese">他起草了讲演稿。</span><span class="english">He drafted his speech.</span></p>
 
 <p><span class="chinese">我在起草一篇演说稿。</span><span class="english">I am drafting a speech.</span></p>

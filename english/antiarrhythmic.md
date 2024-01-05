@@ -1,5 +1,7 @@
 # antiarrhythmic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiarrhythmic.md)
+
 <p><span class="chinese">抗心律失常药物是治疗的主要手段。</span><span class="english">Antiarrhythmic drugs have been the mainstay of therapy.</span></p>
 
 <p><span class="chinese">第三个重点是关于抗心律失常治疗。</span><span class="english">The third important point is regarding antiarrhythmic therapy.</span></p>

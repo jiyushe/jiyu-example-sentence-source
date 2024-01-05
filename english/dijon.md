@@ -1,5 +1,7 @@
 # dijon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dijon.md)
+
 <p><span class="chinese">你知道什么是第戎长炮吗？</span><span class="english">Do you know what a Dijon Culverin is?</span></p>
 
 <p><span class="chinese">总之，只要让我在第戎下火车就行。</span><span class="english">Just put me off the train at Dijon anyway.</span></p>

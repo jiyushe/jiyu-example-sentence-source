@@ -1,5 +1,7 @@
 # 处女地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunvdi.md)
+
 <p><span class="chinese">爵士乐好象在华人嬉哈里还是块处女地。</span><span class="english">Jazz seems to be a virgin territory in Mandopop.</span></p>
 
 <p><span class="chinese">五十年前，亚马逊几乎还是一块处女地。</span><span class="english">Fifty years ago, the Amazon was still largely intact.</span></p>

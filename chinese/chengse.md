@@ -1,5 +1,7 @@
 # 成色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengse.md)
+
 <p><span class="chinese">这批衣质量高、成色好。</span><span class="english">Those overats are of good quality and nice lour.</span></p>
 
 <p><span class="chinese">为了适应流行，黄金也要降低成色。</span><span class="english">To be fit for circulation the gold must be alloyed.</span></p>

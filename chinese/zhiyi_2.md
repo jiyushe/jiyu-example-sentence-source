@@ -1,5 +1,7 @@
 # 旨意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyi_2.md)
+
 <p><span class="chinese">而这，才是这正神的旨意。</span><span class="english">And that is truly divine.</span></p>
 
 <p><span class="chinese">设若这就是大自然的神圣的旨意。</span><span class="english">If such be Nature's holy plan.</span></p>

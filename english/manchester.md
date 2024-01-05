@@ -1,5 +1,7 @@
 # manchester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manchester.md)
+
 <p><span class="chinese">我支持曼彻斯特联队。</span><span class="english">I support Manchester United.</span></p>
 
 <p><span class="chinese">他们在大约1911年的是后来到了曼彻斯特。</span><span class="english">They came to Manchester around 1911.</span></p>

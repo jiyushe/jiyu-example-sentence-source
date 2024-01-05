@@ -1,5 +1,7 @@
 # 公务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongwu.md)
+
 <p><span class="chinese">不要妨碍警察执行公务。</span><span class="english">Don't cross the police barricade.</span></p>
 
 <p><span class="chinese">他又安下心来，处理那些公务邮件。</span><span class="english">He settled down again to the official mail.</span></p>

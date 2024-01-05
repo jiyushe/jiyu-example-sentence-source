@@ -1,5 +1,7 @@
 # tidier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tidier.md)
+
 <p><span class="chinese">现在这儿看起来要整洁多了。</span><span class="english">It looks much tidier now.</span></p>
 
 <p><span class="chinese">你本可以更加整齐一些。</span><span class="english">You could have been a little tidier.</span></p>

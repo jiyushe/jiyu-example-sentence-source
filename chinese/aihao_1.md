@@ -1,5 +1,7 @@
 # 爱好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aihao_1.md)
+
 <p><span class="chinese">找到一项爱好。</span><span class="english">Find an interest.</span></p>
 
 <p><span class="chinese">她爱好体育。</span><span class="english">She loves sports.</span></p>

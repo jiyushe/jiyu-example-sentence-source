@@ -1,5 +1,7 @@
 # 无所作为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusuozuowei.md)
+
 <p><span class="chinese">无所作为我们就不能学习了解。</span><span class="english">And we cannot learn without doing.</span></p>
 
 <p><span class="chinese">政府并非完全无所作为。</span><span class="english">The government was not entirely inactive.</span></p>

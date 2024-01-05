@@ -1,5 +1,7 @@
 # shameless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shameless.md)
+
 <p><span class="chinese">她和那些不知羞耻的女孩子们不一样。</span><span class="english">Not like shameless girls.</span></p>
 
 <p><span class="chinese">你实在恬不知耻。</span><span class="english">You really are shameless.</span></p>

@@ -1,5 +1,7 @@
 # 避讳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bihui.md)
+
 <p><span class="chinese">日本的古代神话，对性就毫不避讳。</span><span class="english">Japan's ancient myth, no taboo on sex.</span></p>
 
 <p><span class="chinese">但是中国人甚至不避讳承认这就是事实。</span><span class="english">But the Chinese don't even pretend this is the case.</span></p>

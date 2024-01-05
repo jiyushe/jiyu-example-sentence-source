@@ -1,5 +1,7 @@
 # intrepid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intrepid.md)
+
 <p><span class="chinese">他生性悍勇，力大过人。</span><span class="english">He has an intrepid disposition, and great strength.</span></p>
 
 <p><span class="chinese">可是修渠的勇士们还是非常乐观的。</span><span class="english">But the intrepid canal builders were very optimistic.</span></p>

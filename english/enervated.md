@@ -1,5 +1,7 @@
 # enervated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enervated.md)
+
 <p><span class="chinese">你灰心丧气，感到无力。</span><span class="english">You feel deflated. Enervated.</span></p>
 
 <p><span class="chinese">宫廷的奢华生活使她变得萎靡不振。</span><span class="english">She was enervated by the luxury of palace life.</span></p>

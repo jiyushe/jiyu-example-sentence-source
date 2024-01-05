@@ -1,5 +1,7 @@
 # ennui
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ennui.md)
+
 <p><span class="chinese">厌倦是我们体内时间自我撕裂的回声。</span><span class="english">Ennui is the echo in us of time tearing itself apart.</span></p>
 
 <p><span class="chinese">生命自创于狂乱，破灭于厌倦中。</span><span class="english">Life creates itself in delirium and is undone in ennui.</span></p>

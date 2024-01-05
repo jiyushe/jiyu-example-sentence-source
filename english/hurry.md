@@ -1,5 +1,7 @@
 # hurry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurry.md)
+
 <p><span class="chinese">快点，哈兰！</span><span class="english">Haran! Hurry up!</span></p>
 
 <p><span class="chinese">请抓紧时间。</span><span class="english">Please hurry up.</span></p>

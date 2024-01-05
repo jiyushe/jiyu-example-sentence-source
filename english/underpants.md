@@ -1,5 +1,7 @@
 # underpants
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underpants.md)
+
 <p><span class="chinese">月亮穿起了她们的裤衩。</span><span class="english">The moon put on their underpants.</span></p>
 
 <p><span class="chinese">人们叫它“小裤衩”。</span><span class="english">People call it "small underpants".</span></p>

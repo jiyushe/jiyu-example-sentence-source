@@ -1,5 +1,7 @@
 # clubhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clubhouse.md)
+
 <p><span class="chinese">她在我们会所的儿童乐园里。</span><span class="english">She's in the Children's Center of our clubhouse.</span></p>
 
 <p><span class="chinese">溱乔住客会所是一座小型的公共建筑。</span><span class="english">The Giverny Clubhouse is a very small but public building.</span></p>

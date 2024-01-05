@@ -1,5 +1,7 @@
 # beryl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beryl.md)
+
 <p><span class="chinese">贝里尔被热带小虫咬伤而瘫痪。</span><span class="english">Beryl was paralysed by a tropical worm.</span></p>
 
 <p><span class="chinese">贝丽尔今天上午来登门道歉了。</span><span class="english">Beryl came round this morning to apologize.</span></p>

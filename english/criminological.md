@@ -1,5 +1,7 @@
 # criminological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/criminological.md)
+
 <p><span class="chinese">因此，我国刑法应增设诉讼欺诈罪，合理配置其法定刑。</span><span class="english">Consequently it is imminent to do criminological sutdies and add the crime of litigation fraud in the criminal law.</span></p>
 
 <p><span class="chinese">目的探讨精神分裂症患者和精神正常者凶杀案件犯罪学特征的差异性。</span><span class="english">Objective To explore the differences of criminological characteristics between schizophrenic and eunoia murder cases.</span></p>

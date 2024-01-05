@@ -1,5 +1,7 @@
 # abundantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abundantly.md)
+
 <p><span class="chinese">盛放工作液。</span><span class="english">Puts the driving fluid abundantly.</span></p>
 
 <p><span class="chinese">我期求主丰丰硕富地祝福你。</span><span class="english">I pray the Lord to bless you abundantly.</span></p>

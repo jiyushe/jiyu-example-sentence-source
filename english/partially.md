@@ -1,5 +1,7 @@
 # partially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/partially.md)
+
 <p><span class="chinese">说对了一部分。</span><span class="english">Right. Partially right.</span></p>
 
 <p><span class="chinese">它们只是片面的美</span><span class="english">They're partially beautiful.</span></p>

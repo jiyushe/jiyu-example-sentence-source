@@ -1,5 +1,7 @@
 # 行装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzhuang.md)
+
 <p><span class="chinese">父亲立即整理行装。</span><span class="english">My father packed immediately.</span></p>
 
 <p><span class="chinese">我不喜欢忙乱地整理行装。</span><span class="english">I hate all this fussy packing.</span></p>

@@ -1,5 +1,7 @@
 # disarray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disarray.md)
+
 <p><span class="chinese">顽皮的学生打乱了班上的秩序。</span><span class="english">The naughty pupils disarray the class.</span></p>
 
 <p><span class="chinese">衣冠不整的陈燕儿来到杨坚面前。</span><span class="english">Disarray ChenYan son came to the front of YangJian.</span></p>

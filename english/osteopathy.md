@@ -1,5 +1,7 @@
 # osteopathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteopathy.md)
+
 <p><span class="chinese">支付由家庭医生介绍的整骨师的费用。</span><span class="english">Covers Osteopathy treatment costs on referral from a GP.</span></p>
 
 <p><span class="chinese">各种肾性骨病的发生率已发生变化。</span><span class="english">Incidence rates of different kinds of renal osteopathy have changed.</span></p>

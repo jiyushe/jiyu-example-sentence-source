@@ -1,5 +1,7 @@
 # race
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/race.md)
+
 <p><span class="chinese">那只有一站比赛。</span><span class="english">That was one race.</span></p>
 
 <p><span class="chinese">但是我赢得了这场比赛。</span><span class="english">But I won the race.</span></p>

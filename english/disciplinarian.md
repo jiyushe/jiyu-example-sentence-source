@@ -1,5 +1,7 @@
 # disciplinarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disciplinarian.md)
+
 <p><span class="chinese">生活之中没有严师，就做自己的严师。</span><span class="english">Be your own one if no disciplinarian in your life.</span></p>
 
 <p><span class="chinese">刘是主要的纪律管理者和首席的传达者。</span><span class="english">Liu is the head disciplinarian and chief communicator.</span></p>

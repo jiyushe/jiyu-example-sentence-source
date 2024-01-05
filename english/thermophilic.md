@@ -1,5 +1,7 @@
 # thermophilic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermophilic.md)
+
 <p><span class="chinese">由于能在高温条件下生存，它们也被称为嗜热菌。</span><span class="english">Such bacteria are called thermophilic for their ability to thrive where it"s hot."</span></p>
 
 <p><span class="chinese">在本研究中也进行厨馀高温发酵之可行性探讨。</span><span class="english">This study include the feasibility of food waste thermophilic hydrogen fermentation.</span></p>

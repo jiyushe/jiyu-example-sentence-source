@@ -1,5 +1,7 @@
 # coulometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coulometry.md)
+
 <p><span class="chinese">俄歇能谱分析表明库仑分析法测定铜的硫化腐蚀膜厚度是可靠的。</span><span class="english">The AES analysis shows that coulometry was used correctly in our experiment condition.</span></p>
 
 <p><span class="chinese">用恒电流库仑法测定芳伯胺类药物含量。</span><span class="english">The constant current coulometry was established for determination of aromatic primary amine drugs.</span></p>

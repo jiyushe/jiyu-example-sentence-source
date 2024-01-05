@@ -1,5 +1,7 @@
 # contact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contact.md)
+
 <p><span class="chinese">是我的隐形眼睛包！</span><span class="english">It's my contact bag!</span></p>
 
 <p><span class="chinese">联系海沧区。</span><span class="english">Contact Haicang area.</span></p>

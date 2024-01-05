@@ -1,5 +1,7 @@
 # 藩篱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanli_1.md)
+
 <p><span class="chinese">大学的研究所才是初步研究学问的所在，在这里做学问也只能算是粗涉藩篱，注重的是研究学问的方法与实习。</span><span class="english">What has been being stressed is the method to do research and practice.</span></p>
 
 <p><span class="chinese">曾经在夏令用作藩篱的茂郁松树现在却够我拖的了。</span><span class="english">An old forest fence which had seen its best days was a great haul for me.</span></p>

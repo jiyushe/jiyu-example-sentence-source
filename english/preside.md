@@ -1,5 +1,7 @@
 # preside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preside.md)
+
 <p><span class="chinese">主持赣榆县全面工作。</span><span class="english">Preside the overall work of Ganyu County.</span></p>
 
 <p><span class="chinese">他是校际选举大会的主席。</span><span class="english">He will preside at the election of school officers.</span></p>

@@ -1,5 +1,7 @@
 # 不论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bulun.md)
+
 <p><span class="chinese">不论好坏。</span><span class="english">Neither good nor bad.</span></p>
 
 <p><span class="chinese">不论晴雨，星期五我都会来看你的。</span><span class="english">I'll see you on Friday.</span></p>

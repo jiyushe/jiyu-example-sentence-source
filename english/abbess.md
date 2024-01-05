@@ -1,5 +1,7 @@
 # abbess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abbess.md)
+
 <p><span class="chinese">43岁时她成为当地的女修道院院长。</span><span class="english">At age 43 she became abbess of her community.</span></p>
 
 <p><span class="chinese">修道院的院长被称为女修道院院长。</span><span class="english">The superior of an abbey is called an abbess.</span></p>

@@ -1,5 +1,7 @@
 # depressive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depressive.md)
+
 <p><span class="chinese">这是一种易产生抑郁的疾病。</span><span class="english">This is a depressive illness.</span></p>
 
 <p><span class="chinese">真正的抑郁来自美国的黑金属。</span><span class="english">True Depressive Black Metal from the US.</span></p>

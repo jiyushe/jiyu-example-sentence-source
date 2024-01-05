@@ -1,5 +1,7 @@
 # adroitly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adroitly.md)
+
 <p><span class="chinese">他敏捷地躲过它。</span><span class="english">He dodges it adroitly.</span></p>
 
 <p><span class="chinese">他巧妙地避而不答我的问题。</span><span class="english">He adroitly avoided answering my questions.</span></p>

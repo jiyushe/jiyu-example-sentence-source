@@ -1,5 +1,7 @@
 # eve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eve.md)
+
 <p><span class="chinese">伊夫有一个新朋友。</span><span class="english">Eve has a new friend.</span></p>
 
 <p><span class="chinese">在每一个年三十儿。</span><span class="english">In every Chinese Eve.</span></p>

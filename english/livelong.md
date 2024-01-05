@@ -1,5 +1,7 @@
 # livelong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/livelong.md)
+
 <p><span class="chinese">他喜欢整天其他事都不干，专心于钓鱼。</span><span class="english">He likes to sit and fish all the livelong day.</span></p>
 
 <p><span class="chinese">她坐在她丈夫的身边度过一个漫漫长夜。</span><span class="english">She sat beside her husband through the livelong night.</span></p>

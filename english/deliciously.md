@@ -1,5 +1,7 @@
 # deliciously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deliciously.md)
+
 <p><span class="chinese">一股可口的豆子味儿。</span><span class="english">They taste deliciously beany.</span></p>
 
 <p><span class="chinese">一回忆起来他就欣喜震颤。</span><span class="english">He thrilled deliciously at the remembrance.</span></p>

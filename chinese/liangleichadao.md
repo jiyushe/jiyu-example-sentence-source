@@ -1,5 +1,7 @@
 # 两肋插刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangleichadao.md)
+
 <p><span class="chinese">没事，愿为你两肋插刀。</span><span class="english">Don't mention it, anything for you.</span></p>
 
 <p><span class="chinese">没问题，哥们！愿为亲密的同事两肋插刀！</span><span class="english">Sure buddy! Anything for a close colleague!</span></p>

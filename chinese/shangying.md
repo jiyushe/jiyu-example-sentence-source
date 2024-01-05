@@ -1,5 +1,7 @@
 # 上映
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangying.md)
+
 <p><span class="chinese">我真想去看那部新上映的电影。</span><span class="english">I really want to see that new movie.</span></p>
 
 <p><span class="chinese">一部新片即将在城市剧院上映。</span><span class="english">A new movie will be on at City Theater.</span></p>

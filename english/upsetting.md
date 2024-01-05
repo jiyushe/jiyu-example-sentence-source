@@ -1,5 +1,7 @@
 # upsetting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upsetting.md)
+
 <p><span class="chinese">颠覆社会秩序</span><span class="english">Upsetting the social order.</span></p>
 
 <p><span class="chinese">这个消息真令人难过。</span><span class="english">This news is really upsetting.</span></p>

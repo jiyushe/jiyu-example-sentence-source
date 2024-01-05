@@ -1,5 +1,7 @@
 # 招生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaosheng.md)
+
 <p><span class="chinese">扩大招生导致教育费用急剧上升。</span><span class="english">Increas enrol caus a sharp rise in educ costs.</span></p>
 
 <p><span class="chinese">从九月到十一月是个招生淡季。</span><span class="english">It is an off-season from September to November.</span></p>

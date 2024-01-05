@@ -1,5 +1,7 @@
 # though
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/though.md)
+
 <p><span class="chinese">他临死还是挺高兴的</span><span class="english">He's happy though.</span></p>
 
 <p><span class="chinese">就好像我是上帝。</span><span class="english">As though I were God.</span></p>

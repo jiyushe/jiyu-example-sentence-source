@@ -1,5 +1,7 @@
 # 实益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyi_2.md)
+
 <p><span class="chinese">用心良好没有实益，所作所为的结果最为重要。</span><span class="english">The road to Hell is paved with good intentions.</span></p>
 
 <p><span class="chinese">阁下是否此帐户之最终实益拥有人?。</span><span class="english">Are you the ultimate beneficial owner of the Account?</span></p>

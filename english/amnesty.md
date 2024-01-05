@@ -1,5 +1,7 @@
 # amnesty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amnesty.md)
+
 <p><span class="chinese">国王颁布了大赦令。</span><span class="english">The king decreed a general amnesty.</span></p>
 
 <p><span class="chinese">新皇帝宣布大赦天下。</span><span class="english">The new emperor declared a total amnesty.</span></p>

@@ -1,5 +1,7 @@
 # bacteriologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacteriologist.md)
+
 <p><span class="chinese">美国细菌学家，研究腮腺炎病毒的抗体。</span><span class="english">American bacteriologist who researched antibodies for the mumps virus.</span></p>
 
 <p><span class="chinese">德国细菌生物学家。他首次培养了白喉细菌。</span><span class="english">German bacteriologist who was the first to culture the diphtheria bacterium.</span></p>

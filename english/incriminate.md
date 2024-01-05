@@ -1,5 +1,7 @@
 # incriminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incriminate.md)
+
 <p><span class="chinese">我不能连累他。</span><span class="english">I can not incriminate him.</span></p>
 
 <p><span class="chinese">证据似乎显示他有罪。</span><span class="english">The evidence seemed to incriminate him.</span></p>

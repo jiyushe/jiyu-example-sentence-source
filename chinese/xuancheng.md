@@ -1,5 +1,7 @@
 # 宣称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuancheng.md)
+
 <p><span class="chinese">所有的政客都宣称谙熟此道。</span><span class="english">The politicians all claim they understand this.</span></p>
 
 <p><span class="chinese">同时,政府也宣称,不会为他们进行担保</span><span class="english">On the other hand, the government says, it's not guaranteeing them.</span></p>

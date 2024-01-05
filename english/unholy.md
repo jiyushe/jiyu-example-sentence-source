@@ -1,5 +1,7 @@
 # unholy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unholy.md)
+
 <p><span class="chinese">他永不会原谅她不洁的媾和。</span><span class="english">He never forgave her unholy alliance.</span></p>
 
 <p><span class="chinese">我知道这听起来邪恶和荒谬的。</span><span class="english">I know this sounds unholy and rediculous.</span></p>

@@ -1,5 +1,7 @@
 # methodical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methodical.md)
+
 <p><span class="chinese">她工作很有条理。</span><span class="english">She is a methodical worker.</span></p>
 
 <p><span class="chinese">他做事有条不紊，每件事情都是按规则做的。</span><span class="english">He is very methodical in His work, doing everything by rule.</span></p>

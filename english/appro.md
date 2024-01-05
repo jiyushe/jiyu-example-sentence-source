@@ -1,5 +1,7 @@
 # appro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appro.md)
+
 <p><span class="chinese">我们这些货品一星期内包退包换。</span><span class="english">We have the goods on appro for a week.</span></p>
 
 <p><span class="chinese">它提供了一个复杂问题在限定领域中的简单答案。</span><span class="english">Rich ard has a bl ack- and-white appro ach to all complex problems.</span></p>

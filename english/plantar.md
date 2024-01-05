@@ -1,5 +1,7 @@
 # plantar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plantar.md)
+
 <p><span class="chinese">脚底生皮，有什么办法能解决吗?。</span><span class="english">Plantar peltry, what method can be solved?</span></p>
 
 <p><span class="chinese">足底筋膜炎是负责足跟痛。</span><span class="english">Plantar fasciitis is responsible for heel pain.</span></p>

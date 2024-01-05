@@ -1,5 +1,7 @@
 # 改编
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaibian_1.md)
+
 <p><span class="chinese">这支歌改编已成大合唱。</span><span class="english">They were all singing in chorus.</span></p>
 
 <p><span class="chinese">她把小说改编为电影。</span><span class="english">She adapted the novel for movies.</span></p>

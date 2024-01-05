@@ -1,5 +1,7 @@
 # weigher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weigher.md)
+
 <p><span class="chinese">圆盘科具有较好的实用性。</span><span class="english">Disc weigher is a well-Pratical device.</span></p>
 
 <p><span class="chinese">从理论上找到了提高光子秤精度的方法。</span><span class="english">The method of improving the precision of the photonic weigher has being found in theory.</span></p>

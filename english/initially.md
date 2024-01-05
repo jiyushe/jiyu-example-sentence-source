@@ -1,5 +1,7 @@
 # initially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/initially.md)
+
 <p><span class="chinese">最初6毫克，每日一次。</span><span class="english">Initially 6mg once daily.</span></p>
 
 <p><span class="chinese">会元这是我的初吻，你呢？</span><span class="english">This is I initially kisses, you?</span></p>

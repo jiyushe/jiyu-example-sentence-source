@@ -1,5 +1,7 @@
 # bangkok
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bangkok.md)
+
 <p><span class="chinese">安捷企业有限公司。</span><span class="english">Bangkok Bank Public Company Limited.</span></p>
 
 <p><span class="chinese">曼谷等于是没有都市计划。</span><span class="english">Well, Bangkok virtually has no plan.</span></p>

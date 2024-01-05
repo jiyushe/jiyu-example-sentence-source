@@ -1,5 +1,7 @@
 # canvass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canvass.md)
+
 <p><span class="chinese">理发师在胡同中敲着唤头招揽生意。</span><span class="english">The barber was tinkling the metal to canvass for business.</span></p>
 
 <p><span class="chinese">也就是说，它现在提供了在canvass表面上绘制文本的能力。</span><span class="english">Namely, it now provides facilities for drawing text on a canvass surface.</span></p>

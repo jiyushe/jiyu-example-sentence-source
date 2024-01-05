@@ -1,5 +1,7 @@
 # lyric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lyric.md)
+
 <p><span class="chinese">这首抒情诗唱起好听。</span><span class="english">This lyric sings well.</span></p>
 
 <p><span class="chinese">入声吕雷克医用助听器</span><span class="english">InSound Medical Lyric Hearing Aid</span></p>

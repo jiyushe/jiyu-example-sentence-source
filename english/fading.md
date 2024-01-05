@@ -1,5 +1,7 @@
 # fading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fading.md)
+
 <p><span class="chinese">初次见面脸红的感觉消褪了么？</span><span class="english">Love’s first blush fading?</span></p>
 
 <p><span class="chinese">这些恶梦正在消退。</span><span class="english">Those nightmares are fading.</span></p>

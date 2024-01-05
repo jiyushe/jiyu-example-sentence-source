@@ -1,5 +1,7 @@
 # 兵舰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingjian.md)
+
 <p><span class="chinese">兵舰是非常大的战船。</span><span class="english">An "Ammiral" is a big warship.</span></p>
 
 <p><span class="chinese">我们的兵舰在太平洋上游弋。</span><span class="english">Our warship was cruising on the Pacific.</span></p>

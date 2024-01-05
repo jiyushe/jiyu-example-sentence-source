@@ -1,5 +1,7 @@
 # bock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bock.md)
+
 <p><span class="chinese">请慎重考虑投陈清木医生一票。</span><span class="english">Please give it some thought and vote Dr Tan Cheng Bock.</span></p>
 
 <p><span class="chinese">如果她没回答，可能销售部的包克先生能帮你忙。</span><span class="english">And if she's not answering, maybe Mr. Bock down in sales can help you out.</span></p>

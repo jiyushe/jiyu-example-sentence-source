@@ -1,5 +1,7 @@
 # wiener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wiener.md)
+
 <p><span class="chinese">我不让他骑我们的腊肠狗。</span><span class="english">I wouldn't let him ride the wiener dog.</span></p>
 
 <p><span class="chinese">将小波变换与维纳滤波结合起来对语音进行去噪。</span><span class="english">Wavelet transform and Wiener filtering are combined to denoise speech.</span></p>

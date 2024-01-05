@@ -1,5 +1,7 @@
 # clerestory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clerestory.md)
+
 <p><span class="chinese">又为殿作了严紧的窗棂。</span><span class="english">He made narrow clerestory windows in the temple.</span></p>
 
 <p><span class="chinese">屋顶是简单的球场，有很多玻璃天窗。</span><span class="english">Roofs are simple pitches, many with clerestory glazing.</span></p>

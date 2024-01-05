@@ -1,5 +1,7 @@
 # 跳高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaogao.md)
+
 <p><span class="chinese">他是一位跳高的运动员。</span><span class="english">He's a high-jumper.</span></p>
 
 <p><span class="chinese">我们来一个跳高比赛。</span><span class="english">Let’s have a jumping contest.</span></p>

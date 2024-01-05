@@ -1,5 +1,7 @@
 # aquarius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aquarius.md)
+
 <p><span class="chinese">水瓶座是风相星座。</span><span class="english">Aquarius is an airy sign.</span></p>
 
 <p><span class="chinese">命理学中，水瓶座的幸运日</span><span class="english">Aquarius Lucky Days from Numerology</span></p>

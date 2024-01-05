@@ -1,5 +1,7 @@
 # hieroglyphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hieroglyphic.md)
+
 <p><span class="chinese">或者我猜它是一种统一的象形文字。</span><span class="english">Or I guess it is a uniform hieroglyphic.</span></p>
 
 <p><span class="chinese">东巴文是中国一种古老的象形文字。</span><span class="english">Dongba is an ancient hieroglyphic language.</span></p>

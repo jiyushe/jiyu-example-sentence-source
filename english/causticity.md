@@ -1,5 +1,7 @@
 # causticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/causticity.md)
+
 <p><span class="chinese">使用在无尘埃、腐蚀性气体、可燃性气体、油雾、水蒸气的环境中。</span><span class="english">Using in without dusts, causticity gas, flammability gas, oil fog, vapor.</span></p>
 
 <p><span class="chinese">危险废物具有毒性、易燃性、反应性、腐蚀性和感染性。</span><span class="english">The hazardous waste has toxicity, flammability, reactivity, causticity and infection.</span></p>

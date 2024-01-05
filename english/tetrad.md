@@ -1,5 +1,7 @@
 # tetrad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetrad.md)
+
 <p><span class="chinese">四分体阶段有微核。</span><span class="english">Micronuclei were observed in the tetrad stage.</span></p>
 
 <p><span class="chinese">这个现象在早期四分体阶段出现。</span><span class="english">This phenomenon occurs in the early tetrad stage.</span></p>

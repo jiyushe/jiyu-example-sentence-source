@@ -1,5 +1,7 @@
 # 笑剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoju_1.md)
+
 <p><span class="chinese">我喜欢笑剧而不喜欢惨剧。</span><span class="english">I prefer farce to tragedy.</span></p>
 
 <p><span class="chinese">笑剧是惨剧加之时间。</span><span class="english">Domedy is tragedy plus time.</span></p>

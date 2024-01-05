@@ -1,5 +1,7 @@
 # 精心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxin_1.md)
+
 <p><span class="chinese">比尔精心修剪了他的胡须。</span><span class="english">Bill preened his beard.</span></p>
 
 <p><span class="chinese">他的小说是一部精心的杰作。</span><span class="english">His novel is a fine effort.</span></p>

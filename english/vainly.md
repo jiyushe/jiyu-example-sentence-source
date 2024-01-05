@@ -1,5 +1,7 @@
 # vainly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vainly.md)
+
 <p><span class="chinese">沃尔特斜睨着眼找椅子，但是没找到。</span><span class="english">Walter squints vainly for a chair.</span></p>
 
 <p><span class="chinese">他试图除去有损外观的污迹，但没有成功。</span><span class="english">He vainly tried to mark the defacing stain out.</span></p>

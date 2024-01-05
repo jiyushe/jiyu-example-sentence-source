@@ -1,5 +1,7 @@
 # omental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omental.md)
+
 <p><span class="chinese">病理报告结果是大网膜出血。</span><span class="english">The pathological report demonstrated an omental hemorrhage.</span></p>
 
 <p><span class="chinese">目的分离和培养人腹膜微血管内皮细胞。</span><span class="english">Objective To isolate and culture microvascular endothelial cells from human omental tissue.</span></p>

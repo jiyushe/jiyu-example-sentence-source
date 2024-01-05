@@ -1,5 +1,7 @@
 # ordinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ordinate.md)
+
 <p><span class="chinese">纵坐标比例尺以分贝为单位是线性的。</span><span class="english">The ordinate scale is linear in decibels.</span></p>
 
 <p><span class="chinese">请把数字填入纵坐标中。</span><span class="english">Please put the number on the end ordinate.</span></p>

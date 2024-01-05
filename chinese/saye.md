@@ -1,5 +1,7 @@
 # 撒野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saye.md)
+
 <p><span class="chinese">他干嘛来咱们这儿撒野？</span><span class="english">What does he come here cheeking us for, then?</span></p>
 
 <p><span class="chinese">比赛时别对他们撒野，他们还是些孩子。</span><span class="english">Don't rough them up in the game.They are still boys.</span></p>

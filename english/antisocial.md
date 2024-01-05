@@ -1,5 +1,7 @@
 # antisocial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antisocial.md)
+
 <p><span class="chinese">反社会人格障碍?</span><span class="english">Antisocial personality disorder?</span></p>
 
 <p><span class="chinese">体贴的人不应当对干旱斟酌不周。</span><span class="english">Thoughtful men care not to be antisocial about the aridity.</span></p>

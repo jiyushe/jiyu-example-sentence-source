@@ -1,5 +1,7 @@
 # comport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comport.md)
+
 <p><span class="chinese">我不知道我应该怎样行动。</span><span class="english">I do not know how I would comport myself.</span></p>
 
 <p><span class="chinese">他的行为与他的职务很不相当。</span><span class="english">His behavior did not comport with his office.</span></p>

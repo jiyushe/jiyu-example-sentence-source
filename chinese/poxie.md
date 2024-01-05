@@ -1,5 +1,7 @@
 # 破鞋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poxie.md)
+
 <p><span class="chinese">而我只是个补鞋匠，总不能叫你「我的破鞋啊！」</span><span class="english">I can't call you 'my broken shoe'.</span></p>
 
 <p><span class="chinese">因此她对破鞋还有一点钦佩。</span><span class="english">So she even admired whores a little bit.</span></p>

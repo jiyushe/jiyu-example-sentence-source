@@ -1,5 +1,7 @@
 # 乐呵呵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lehehe.md)
+
 <p><span class="chinese">他们乐呵呵地跟你打招呼。</span><span class="english">They'd greet you with a grin.</span></p>
 
 <p><span class="chinese">“你好，托比，”她乐呵呵地说。</span><span class="english">“Hello, Toby, ” she said brightly.</span></p>

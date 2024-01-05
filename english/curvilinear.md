@@ -1,5 +1,7 @@
 # curvilinear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curvilinear.md)
+
 <p><span class="chinese">设计并绘制自选其他产品的零件图。</span><span class="english">Finish the detail drawing of any other curvilinear product.</span></p>
 
 <p><span class="chinese">正交曲线座标。讨论作业2。</span><span class="english">Orthogonal Curvilinear Coordinates. Questions on Homework 2.</span></p>

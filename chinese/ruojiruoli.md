@@ -1,5 +1,7 @@
 # 若即若离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruojiruoli.md)
+
 <p><span class="chinese">若即若离，非此非彼！</span><span class="english">If namely if leave, not this not that!</span></p>
 
 <p><span class="chinese">她不再那么紧贴着我，显得若即若离。</span><span class="english">She stopped fitting me so closely and seemed offish.</span></p>

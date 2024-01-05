@@ -1,5 +1,7 @@
 # subharmonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subharmonic.md)
+
 <p><span class="chinese">并推导出了最优副谐波负载的表达式。</span><span class="english">The expression of the optimal subharmonic load is also given with the analysis.</span></p>
 
 <p><span class="chinese">因而，系统不但出现高次谐波，而且还将出现亚谐波及。</span><span class="english">So not only super-harmonic, also subharmonic and stochastical oscillation will appear.</span></p>

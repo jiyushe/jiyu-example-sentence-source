@@ -1,5 +1,7 @@
 # ephesians
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ephesians.md)
+
 <p><span class="chinese">以弗所人相信他们的城市是由亚玛逊人所建立。</span><span class="english">The Ephesians believed that Amazons founded their city.</span></p>
 
 <p><span class="chinese">在厄弗所书4章，保禄呼吁信徒要有类似的决心和行动。</span><span class="english">In Ephesians 4, Paul called believers to that sort of decisive action.</span></p>

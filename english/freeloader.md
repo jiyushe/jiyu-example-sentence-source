@@ -1,5 +1,7 @@
 # freeloader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freeloader.md)
+
 <p><span class="chinese">我可不愿意白吃白喝。</span><span class="english">I am not a freeloader.</span></p>
 
 <p><span class="chinese">我可不愿白吃白喝别人。我那种爱占便宜的人。</span><span class="english">I wouldn't freeload . I'm not a freeloader.</span></p>

@@ -1,5 +1,7 @@
 # acuteness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acuteness.md)
+
 <p><span class="chinese">这个问题的严重性。</span><span class="english">Acuteness of this problem.</span></p>
 
 <p><span class="chinese">姨父看了她一眼，目光显得和蔼而犀利。</span><span class="english">Her uncle looked at her awhile with genial acuteness.</span></p>

@@ -1,5 +1,7 @@
 # ambidextrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambidextrous.md)
+
 <p><span class="chinese">其前缀，和“怀有二心”一样是“二者”的意思。</span><span class="english">The prefix, as in "ambidextrous" means "both".</span></p>
 
 <p><span class="chinese">一个开关在棒球击球手应自然怀有二心的。</span><span class="english">A switch-hitter in baseball should be naturally ambidextrous.</span></p>

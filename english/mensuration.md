@@ -1,5 +1,7 @@
 # mensuration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mensuration.md)
+
 <p><span class="chinese">提出了指数效用论观点和测度方法。</span><span class="english">The concept of index utility and its mensuration is built up.</span></p>
 
 <p><span class="chinese">为今后类似测试提供了宝贵的经验。</span><span class="english">Precious experiences are provided for future similar mensuration.</span></p>

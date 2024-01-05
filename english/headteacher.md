@@ -1,5 +1,7 @@
 # headteacher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headteacher.md)
+
 <p><span class="chinese">这就要看谁来当我们的班主任了。</span><span class="english">It will depend on who will be our headteacher.</span></p>
 
 <p><span class="chinese">我们班主任把我们班划分成八个小组。</span><span class="english">Our headteacher divided our class into eight groups.</span></p>

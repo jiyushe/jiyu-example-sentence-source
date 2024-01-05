@@ -1,5 +1,7 @@
 # 志士仁人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishirenren.md)
+
 <p><span class="chinese">我们的革命事业还需要一批党外的志士仁人。</span><span class="english">Our revolutionary cause needs a good number of non-party people with high ideals.</span></p>
 
 <p><span class="chinese">绍兴以其秀丽山川哺育了众多的志士仁人。</span><span class="english">The magnificent mountains and rivers of the city have brought up a big number of people with lofty ideals.</span></p>

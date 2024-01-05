@@ -1,5 +1,7 @@
 # 降半旗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangbanqi.md)
+
 <p><span class="chinese">全国降半旗。</span><span class="english">Countrywide flags all half-mast.</span></p>
 
 <p><span class="chinese">数千人在天安门广场观看了升旗和降半旗仪式。</span><span class="english">A flag at half-mast was also seen at Xinhuamen.</span></p>

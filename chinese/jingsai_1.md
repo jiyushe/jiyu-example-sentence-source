@@ -1,5 +1,7 @@
 # 竞赛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingsai_1.md)
+
 <p><span class="chinese">竞赛都没有防卫。</span><span class="english">No Defense was played.</span></p>
 
 <p><span class="chinese">我们主张公平竞赛。</span><span class="english">We stand for fair play.</span></p>

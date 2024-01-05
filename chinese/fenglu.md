@@ -1,5 +1,7 @@
 # 俸禄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenglu.md)
+
 <p><span class="chinese">我所以要提到那个地方，就因为我当初应该得到的一份牧师俸禄就在那儿。</span><span class="english">I mention it, because it is the living which I ought to have had.</span></p>
 
 <p><span class="chinese">他吃了三十年俸禄，早已作好了打这场遭遇战的准备。</span><span class="english">He had been paid through thirty years to prepare for such an encounter.</span></p>

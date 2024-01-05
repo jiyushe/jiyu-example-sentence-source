@@ -1,5 +1,7 @@
 # 腊肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/larou.md)
+
 <p><span class="chinese">我宁愿吃鲜猪肉，不愿吃腊肉。</span><span class="english">I prefer fresh pork to bacon.</span></p>
 
 <p><span class="chinese">腊肉挂在露台风干。</span><span class="english">Waxed meat hanging at the balcony.</span></p>

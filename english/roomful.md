@@ -1,5 +1,7 @@
 # roomful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roomful.md)
+
 <p><span class="chinese">我想，我能从一屋子女人放的屁里把她的屁挑选出来。</span><span class="english">I think I could pick hers out in a roomful of farting women.</span></p>
 
 <p><span class="chinese">与满房间档案盒存储的数据相比，现代计算机存储器存储的数据要多得多。</span><span class="english">Modern computer memories can store more data than a roomful of filing boxes.</span></p>

@@ -1,5 +1,7 @@
 # masseter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masseter.md)
+
 <p><span class="chinese">正是因为有咬肌的存在我们的下巴才能够进行咬合和咀嚼。</span><span class="english">The jaw is able to clench and chew because of the masseter muscle.</span></p>
 
 <p><span class="chinese">通过进一步研究，本方法有望应用到咬肌肥大或腓肠肌肥大的治疗上。</span><span class="english">This method maybe can used to treat masseter hypertrophy or calf hypertrophy in the future.</span></p>

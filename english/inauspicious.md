@@ -1,5 +1,7 @@
 # inauspicious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inauspicious.md)
+
 <p><span class="chinese">在印度，日食被认为是凶兆。</span><span class="english">In India, an eclipse is considered inauspicious.</span></p>
 
 <p><span class="chinese">这种做法是大不吉利的，通常我们管它叫“三长两短”。</span><span class="english">This is an inauspicious big, usually we call it three are long and two are short.</span></p>

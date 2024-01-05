@@ -1,5 +1,7 @@
 # kip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kip.md)
+
 <p><span class="chinese">他别无选择，只有在那个小旅店中住一宿了。</span><span class="english">He had no choice but to kip in that small inn.</span></p>
 
 <p><span class="chinese">孩子们离开帐篷到露天睡觉。</span><span class="english">The children left the tent to kip out in the open.</span></p>

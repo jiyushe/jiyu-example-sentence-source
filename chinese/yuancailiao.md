@@ -1,5 +1,7 @@
 # 原材料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuancailiao.md)
+
 <p><span class="chinese">原材料单价管理。</span><span class="english">Material unti price supervising.</span></p>
 
 <p><span class="chinese">金属原材料全从美国、日本进口。</span><span class="english">All the metal material import from U.</span></p>

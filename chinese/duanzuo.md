@@ -1,5 +1,7 @@
 # 端坐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanzuo.md)
+
 <p><span class="chinese">你我浸泡在月亮里，端坐三生石。</span><span class="english">You I soak in a moon in, sit up great stone.</span></p>
 
 <p><span class="chinese">“哎呀，”端坐着的阿尔瓦高兴说，“还有什么？”</span><span class="english">"Oh, " says Alvah sitting up glad, "and what else?</span></p>

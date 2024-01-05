@@ -1,5 +1,7 @@
 # 坚毅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianyi.md)
+
 <p><span class="chinese">对一个有坚毅心的比丘。</span><span class="english">A bhikkhu with a resolute mind.</span></p>
 
 <p><span class="chinese">坚毅望着前路，跌倒也不应放弃。</span><span class="english">Never give up even after falling.</span></p>

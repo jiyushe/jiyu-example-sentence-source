@@ -1,5 +1,7 @@
 # 岁首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suishou.md)
+
 <p><span class="chinese">从此，人们就把这一天当作岁首。</span><span class="english">Since then, people took this day as.</span></p>
 
 <p><span class="chinese">这整个讨论不妨追溯到008岁首?年月。</span><span class="english">This whole discussion started back in early 008.</span></p>

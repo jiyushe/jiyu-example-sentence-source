@@ -1,5 +1,7 @@
 # fealty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fealty.md)
+
 <p><span class="chinese">请在巫师王座面前，宣誓你的忠诚。</span><span class="english">Swear your fealty to the Wizard's Throne.</span></p>
 
 <p><span class="chinese">已经发誓忠诚我必须在奴役过程中浪费我的生活吗?。</span><span class="english">Having sworn fealty , must I speed my life in servitude?</span></p>

@@ -1,5 +1,7 @@
 # biosphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biosphere.md)
+
 <p><span class="chinese">让生物圈消亡去吧。</span><span class="english">Let the Biosphere die.</span></p>
 
 <p><span class="chinese">人工圈支持着生物圈。</span><span class="english">The technosphere supports the biosphere.</span></p>

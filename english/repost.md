@@ -1,5 +1,7 @@
 # repost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repost.md)
+
 <p><span class="chinese">这是我扫描的，请不要转帖。</span><span class="english">It's my scan, please don't repost.</span></p>
 
 <p><span class="chinese">如果您找到感兴趣的内容，您可以在Meme进行转发。</span><span class="english">If you find content that you like, you may repost it.</span></p>

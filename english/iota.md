@@ -1,5 +1,7 @@
 # iota
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iota.md)
+
 <p><span class="chinese">他的故事没有一点是真的。</span><span class="english">There is not an iota of truth in his story.</span></p>
 
 <p><span class="chinese">那是没有任何怀疑，一丁点的怀疑都没有。</span><span class="english">There's no doubt, not one iota of doubt there.</span></p>

@@ -1,5 +1,7 @@
 # billow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billow.md)
+
 <p><span class="chinese">和狂涛巨浪。</span><span class="english">And what a Billow be.</span></p>
 
 <p><span class="chinese">海轮在大洋巨浪上颠簸。</span><span class="english">The ship was tossed by the ocean billow.</span></p>

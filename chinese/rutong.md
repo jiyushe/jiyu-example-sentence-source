@@ -1,5 +1,7 @@
 # 如同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rutong.md)
+
 <p><span class="chinese">如同被雷击一样。</span><span class="english">I was thunderstruck.</span></p>
 
 <p><span class="chinese">婚姻如同一把锁。</span><span class="english">Wedlock is a padlock.</span></p>

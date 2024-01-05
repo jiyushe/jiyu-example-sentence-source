@@ -1,5 +1,7 @@
 # thoughtless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thoughtless.md)
+
 <p><span class="chinese">你怎么这样不懂事?</span><span class="english">How can you be so thoughtless?</span></p>
 
 <p><span class="chinese">我很奇怪，你为何如此不替别人着想。</span><span class="english">I wonder why you are so thoughtless of others.</span></p>

@@ -1,5 +1,7 @@
 # perambulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perambulation.md)
+
 <p><span class="chinese">对泵房、配电柜等要害部位要经常巡查，认真记录。</span><span class="english">To do the regular perambulation for the main areas such as the pumping room and distributor cabinet.</span></p>
 
 <p><span class="chinese">坚守岗位对机器设备进行定期巡视检查，发现故障隐患，及时排除。</span><span class="english">Stick on the post, and do the regular perambulation and inspection. To eliminate the hidden trouble in time.</span></p>

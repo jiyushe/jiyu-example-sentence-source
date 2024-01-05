@@ -1,5 +1,7 @@
 # unionize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unionize.md)
+
 <p><span class="chinese">他们被禁止成立工会。</span><span class="english">They were forbidden to unionize.</span></p>
 
 <p><span class="chinese">使商店售货员组织工会是很困难的。</span><span class="english">It is hard to unionize shop assistants.</span></p>

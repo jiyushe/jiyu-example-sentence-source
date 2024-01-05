@@ -1,5 +1,7 @@
 # illegitimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illegitimate.md)
+
 <p><span class="chinese">也许她是个私生女。</span><span class="english">Perhaps she was an illegitimate daughter.</span></p>
 
 <p><span class="chinese">这一解释是非法的、无效的。</span><span class="english">This interpretation is illegitimate and invalid.</span></p>

@@ -1,5 +1,7 @@
 # 一文不值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwenbuzhi.md)
+
 <p><span class="chinese">那篇文章一文不值。</span><span class="english">That article is not worth a damn.</span></p>
 
 <p><span class="chinese">戳破这窗户纸就一文不值。</span><span class="english">Let out the secret and it is worthless.</span></p>

@@ -1,5 +1,7 @@
 # 凭栏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinglan.md)
+
 <p><span class="chinese">坠落的天使，在红尘里快乐凭栏。</span><span class="english">Fallen angels, in the world of mortals fence sad.</span></p>
 
 <p><span class="chinese">凭栏而立，即可沐浴大自然的温馨。</span><span class="english">Stand by the fence to enjoy the fragrance of the nature.</span></p>

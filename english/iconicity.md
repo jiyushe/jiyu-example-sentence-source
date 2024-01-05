@@ -1,5 +1,7 @@
 # iconicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iconicity.md)
+
 <p><span class="chinese">象似性与任意性是辩证统一的。</span><span class="english">Therefore arbitrariness and iconicity are dialectically unified.</span></p>
 
 <p><span class="chinese">从事句法象似性研究最为著名的是海曼。</span><span class="english">The most distinguished scholar studying syntactic iconicity is John Haiman.</span></p>

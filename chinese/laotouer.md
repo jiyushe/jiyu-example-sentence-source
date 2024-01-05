@@ -1,5 +1,7 @@
 # 老头儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laotouer.md)
+
 <p><span class="chinese">他问老头儿。</span><span class="english">he asked the old man.</span></p>
 
 <p><span class="chinese">把这个老头儿带来！</span><span class="english">Bring in this old man!</span></p>

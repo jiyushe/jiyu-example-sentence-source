@@ -1,5 +1,7 @@
 # litz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/litz.md)
+
 <p><span class="chinese">电路由一个大型的李兹线蛛网线圈开始。</span><span class="english">The circuit starts with a large litz spider coil.</span></p>
 
 <p><span class="chinese">用电烙铁和焊锡可以很容易的给李兹线上锡。</span><span class="english">The litz that I have can be easily tinned by using a hot soldering iron and solder.</span></p>

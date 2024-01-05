@@ -1,5 +1,7 @@
 # does
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/does.md)
+
 <p><span class="chinese">他咬人吗？</span><span class="english">Does he bite?</span></p>
 
 <p><span class="chinese">他会闷闷不乐吗？</span><span class="english">Does he mope?</span></p>

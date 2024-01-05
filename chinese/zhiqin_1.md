@@ -1,5 +1,7 @@
 # 执勤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqin_1.md)
+
 <p><span class="chinese">有半数卫戍部队在执勤。</span><span class="english">Half the garrison are on duty.</span></p>
 
 <p><span class="chinese">文明执勤，礼貌待人，不讲脏话。</span><span class="english">Civilization on duty, being polite, do not say dirty words.</span></p>

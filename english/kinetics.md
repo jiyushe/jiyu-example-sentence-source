@@ -1,5 +1,7 @@
 # kinetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinetics.md)
+
 <p><span class="chinese">现在动理学就完全不一样了。</span><span class="english">So now the kinetics are quite different.</span></p>
 
 <p><span class="chinese">和动力学联系起来和速率性质联系起来。</span><span class="english">And related to kinetics. To a rate property.</span></p>

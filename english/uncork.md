@@ -1,5 +1,7 @@
 # uncork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncork.md)
+
 <p><span class="chinese">建议醒酒一小时后饮用。</span><span class="english">Uncork the bottle one hour before.</span></p>
 
 <p><span class="chinese">饮用前最适宜醒酒一个小时，并置于正常室温。</span><span class="english">Best uncork it an hour before pouring, and serve it at room temperature.</span></p>

@@ -1,5 +1,7 @@
 # 筹募
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choumu.md)
+
 <p><span class="chinese">此后他重新开始筹募资金。</span><span class="english">Then he began again his work of collecting.</span></p>
 
 <p><span class="chinese">他们为这一运动筹募基金。</span><span class="english">They collect funds to finance the movement.</span></p>

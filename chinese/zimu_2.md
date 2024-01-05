@@ -1,5 +1,7 @@
 # 字母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zimu_2.md)
+
 <p><span class="chinese">现在，每读一个字母就拍一下手！</span><span class="english">Now, clap it!</span></p>
 
 <p><span class="chinese">它有27个字母，意思类似于“充满了荣耀”。</span><span class="english">That's 27 letters.</span></p>

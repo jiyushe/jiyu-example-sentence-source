@@ -1,5 +1,7 @@
 # honorary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honorary.md)
+
 <p><span class="chinese">不要滥用牺牲荣誉称号。</span><span class="english">Don't abuse honorary titles.</span></p>
 
 <p><span class="chinese">我名义上的阿斯伯格综合症。</span><span class="english">I am also an honorary Asperger.</span></p>

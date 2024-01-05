@@ -1,5 +1,7 @@
 # truckload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truckload.md)
+
 <p><span class="chinese">避免拥有第二套房子，你会避免大量的头痛，节约不少的开销。</span><span class="english">Avoid the second home, and you’ll avoid a truckload of headaches and expenses.</span></p>
 
 <p><span class="chinese">会有人给你送一卡车的鲜花，人们对着你说“你看起来很好，你都做了什么？”</span><span class="english">Flowers will arrive by the truckload. People will say to you, ”You look great.</span></p>

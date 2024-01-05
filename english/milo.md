@@ -1,5 +1,7 @@
 # milo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milo.md)
+
 <p><span class="chinese">米洛问。</span><span class="english">Milo asked.</span></p>
 
 <p><span class="chinese">的右手臂上有个星形的文身。</span><span class="english">Milo has a star tattoo on his right bicep.</span></p>

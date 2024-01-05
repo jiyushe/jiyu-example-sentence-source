@@ -1,5 +1,7 @@
 # 扇面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanmian.md)
+
 <p><span class="chinese">最后，在扇面加上一些番茄酱和磨碎的奶酪。</span><span class="english">Finally, add some tomato sauce and grated cheese on top.</span></p>
 
 <p><span class="chinese">扇面将因为无人机的活动或是敌人的运动开放或是关闭。</span><span class="english">Sectors would open and close because of Predator activity or hostile movements.</span></p>

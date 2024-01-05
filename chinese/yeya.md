@@ -1,5 +1,7 @@
 # 腋芽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeya.md)
+
 <p><span class="chinese">腋芽或侧芽是生在枝的侧面叶腋内的芽。</span><span class="english">Axillary or lateral buds develop in the leaf axils.</span></p>
 
 <p><span class="chinese">腋芽隐藏下方肉质叶，叶柄。</span><span class="english">Axillary buds are hidden beneath fleshy leaf petioles.</span></p>

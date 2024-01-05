@@ -1,5 +1,7 @@
 # presumptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presumptive.md)
+
 <p><span class="chinese">换生灵失败的故事也有不少，他们的身份被所谓的家人揭露。</span><span class="english">Many tales exist of failed changelings who are uncovered by their presumptive families.</span></p>
 
 <p><span class="chinese">推定的被害人承诺是特殊情况下的正当化事由。</span><span class="english">Presumptive victim's commitment is a cause of justification under special circumstance.</span></p>

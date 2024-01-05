@@ -1,5 +1,7 @@
 # libelous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libelous.md)
+
 <p><span class="chinese">它说，阿布利亚佐夫的说法是毫无根据、造谣中伤。</span><span class="english">CNPC said Mr. Ablyazov's claims were 'groundless and libelous.</span></p>
 
 <p><span class="chinese">那本自传的部分内容可能带有诽谤意味。</span><span class="english">Some of the content of the autobiography was potentially libelous.</span></p>

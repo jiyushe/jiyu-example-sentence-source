@@ -1,5 +1,7 @@
 # bully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bully.md)
+
 <p><span class="chinese">他是个小霸王。</span><span class="english">He is a bully.</span></p>
 
 <p><span class="chinese">英雄抑或恶霸？</span><span class="english">Hero or bully?</span></p>

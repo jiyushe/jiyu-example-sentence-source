@@ -1,5 +1,7 @@
 # kerogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kerogen.md)
+
 <p><span class="chinese">最后是一种叫做油母质的大分子化合物。</span><span class="english">and macromolecular clumps of organic material called kerogen.</span></p>
 
 <p><span class="chinese">干酪根的典型有机组分为藻类和木质植物。</span><span class="english">Typical organic constituents of kerogen are algae and woody plant material.</span></p>

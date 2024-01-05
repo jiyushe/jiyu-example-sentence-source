@@ -1,5 +1,7 @@
 # inerrancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inerrancy.md)
+
 <p><span class="chinese">圣经无误的教义，是教会从古至今的基要信仰。</span><span class="english">WE AFFIRM that the doctrine of inerrancy has been integral to the Church's faith throughout its history.</span></p>
 
 <p><span class="chinese">现代派拒绝圣经无误，而后现代派使圣经无误的观念变成荒谬。</span><span class="english">The modernists rejected the inerrancy of Scripture, and the postmodernists make the idea of an inerrant Bible absurd.</span></p>

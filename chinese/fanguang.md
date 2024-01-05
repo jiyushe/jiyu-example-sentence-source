@@ -1,5 +1,7 @@
 # 反光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanguang.md)
+
 <p><span class="chinese">反光立体镜?。</span><span class="english">Mirror stereoscope?</span></p>
 
 <p><span class="chinese">镜子能反光。</span><span class="english">A mirror reflects light.</span></p>

@@ -1,5 +1,7 @@
 # crustacean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crustacean.md)
+
 <p><span class="chinese">十足虫甲壳类动物哟十只足肢。</span><span class="english">A decapod crustacean has ten limbs.</span></p>
 
 <p><span class="chinese">名贵海珍品龙虾属甲壳科。</span><span class="english">Seafood is a valuable lobster crustacean section.</span></p>

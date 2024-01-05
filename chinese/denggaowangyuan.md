@@ -1,5 +1,7 @@
 # 登高望远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/denggaowangyuan.md)
+
 <p><span class="chinese">登高望远能淘冶情操。</span><span class="english">Ascending a height can cultivate your sentiment.</span></p>
 
 <p><span class="chinese">我们还可以爬上塔去登高望远呢。</span><span class="english">People can still climb up the pagoda for a panoramic view.</span></p>

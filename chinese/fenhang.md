@@ -1,5 +1,7 @@
 # 分行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenhang.md)
+
 <p><span class="chinese">角和元分行记下。</span><span class="english">Ninety yuan, six jiao and five fen.</span></p>
 
 <p><span class="chinese">然而，凯伦从未去过那个分行。</span><span class="english">But Karen had never been to that branch.</span></p>

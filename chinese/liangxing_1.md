@@ -1,5 +1,7 @@
 # 量刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangxing_1.md)
+
 <p><span class="chinese">最高量刑可判他入狱150年。</span><span class="english">His sentence could top 150 years in prison.</span></p>
 
 <p><span class="chinese">与此类似的是，韩国似乎对使用量刑过重的法规条例特别敏感。</span><span class="english">All the same, the state seems too keen to use heavy-handed regulation.</span></p>

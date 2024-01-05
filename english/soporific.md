@@ -1,5 +1,7 @@
 # soporific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soporific.md)
+
 <p><span class="chinese">他的声音具有催眠作用。</span><span class="english">His voice hadan soporific effect.</span></p>
 
 <p><span class="chinese">我听到这催人入睡的音乐，便不知不觉打起盹儿来了。</span><span class="english">I dozed off during the soporific music.</span></p>

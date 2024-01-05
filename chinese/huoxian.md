@@ -1,5 +1,7 @@
 # 火线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoxian.md)
+
 <p><span class="chinese">带电的电线叫火线。</span><span class="english">A wire charged with electricity is called a live wire.</span></p>
 
 <p><span class="chinese">美式电插头有两个火线插脚，一个地线插脚。</span><span class="english">US electrical plugs have two live pins and one ground.</span></p>

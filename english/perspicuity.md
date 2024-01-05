@@ -1,5 +1,7 @@
 # perspicuity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perspicuity.md)
+
 <p><span class="chinese">第二，明晰战略，调整结构。</span><span class="english">Second, perspicuity strategies and restructuring.</span></p>
 
 <p><span class="chinese">建立现代企业制度的核心是产权明晰。</span><span class="english">The key of modern enterprise system is property right perspicuity.</span></p>

@@ -1,5 +1,7 @@
 # generalissimo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generalissimo.md)
+
 <p><span class="chinese">然而，他也没有从委员长那里得到任何满意的回答。</span><span class="english">But Kao got no satisfaction from the generalissimo either.</span></p>
 
 <p><span class="chinese">差不多也就在这个时候，宋美龄嫁给了蒋介石。</span><span class="english">Almost at the same time, Madame Chiang threw in her lot with the generalissimo.</span></p>

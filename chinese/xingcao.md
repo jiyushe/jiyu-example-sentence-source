@@ -1,5 +1,7 @@
 # 行草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingcao.md)
+
 <p><span class="chinese">写得放纵一点的，称为行草。</span><span class="english">Writes indulges a spot, is called the good grass.</span></p>
 
 <p><span class="chinese">其书法四体皆能，以隶书、行草为最著。</span><span class="english">His calligraphy tetrasomic able to Lishu, most famous for Cursive.</span></p>

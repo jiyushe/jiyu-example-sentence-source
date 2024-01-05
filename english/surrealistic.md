@@ -1,5 +1,7 @@
 # surrealistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surrealistic.md)
+
 <p><span class="chinese">我喜欢看超现实主义的小说。</span><span class="english">I have a preference for surrealistic novels.</span></p>
 
 <p><span class="chinese">这是一段白日梦似的超现实主义段落。</span><span class="english">This is day dream-like surrealistic section.</span></p>

@@ -1,5 +1,7 @@
 # closestool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/closestool.md)
+
 <p><span class="chinese">马桶冲洗过了吗?</span><span class="english">Has the closestool been swilled?</span></p>
 
 <p><span class="chinese">什么样的马桶才是节水型的呢？</span><span class="english">What kind of closestool is just section water model?</span></p>

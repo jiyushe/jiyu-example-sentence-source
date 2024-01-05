@@ -1,5 +1,7 @@
 # 知青
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqing_1.md)
+
 <p><span class="chinese">是全公社知青中的第一对。</span><span class="english">It is one of complete commune educated youth.</span></p>
 
 <p><span class="chinese">朝鲜族知青W来我们户玩的时候讲了一个故事。</span><span class="english">Educated Korea nationality youth W told us a story.</span></p>

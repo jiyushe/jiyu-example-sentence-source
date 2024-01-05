@@ -1,5 +1,7 @@
 # judy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judy.md)
+
 <p><span class="chinese">让我来介绍朱迪。</span><span class="english">Let me introduce Judy.</span></p>
 
 <p><span class="chinese">朱迪?加兰我唱不好。</span><span class="english">I did a mean Judy Garland.</span></p>

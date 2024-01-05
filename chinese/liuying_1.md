@@ -1,5 +1,7 @@
 # 留影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuying_1.md)
+
 <p><span class="chinese">在街道上留影一张。</span><span class="english">Take one in the street.</span></p>
 
 <p><span class="chinese">1907年的哈雷.戴维森公司员工留影。</span><span class="english">The Harley-Davidson staff in 1907.</span></p>

@@ -1,5 +1,7 @@
 # 婴孩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinghai.md)
+
 <p><span class="chinese">你说的是哪个婴孩？</span><span class="english">What Baby do you mean?</span></p>
 
 <p><span class="chinese">她正在给她婴孩洗澡。</span><span class="english">She's bathing her baby.</span></p>

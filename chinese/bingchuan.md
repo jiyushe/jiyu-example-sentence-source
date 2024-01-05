@@ -1,5 +1,7 @@
 # 兵船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingchuan.md)
+
 <p><span class="chinese">两艘军舰为运兵船护航。</span><span class="english">Two warships escorted the troopship.</span></p>
 
 <p><span class="chinese">像是葡萄牙兵船的入侵</span><span class="english">An invasion of the Portuguese Man-of-War</span></p>

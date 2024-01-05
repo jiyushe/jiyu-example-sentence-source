@@ -1,5 +1,7 @@
 # honolulu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honolulu.md)
+
 <p><span class="chinese">还有多久到达檀喷鼻山?。</span><span class="english">How much longer does it take to get to Honolulu?</span></p>
 
 <p><span class="chinese">哦，我在12月14号要去火奴鲁鲁参加马拉松。</span><span class="english">Oh, and I’m doing a marathon in Honolulu on Dec. 14!</span></p>

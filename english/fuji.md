@@ -1,5 +1,7 @@
 # fuji
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fuji.md)
+
 <p><span class="chinese">红富士是我的最爱。</span><span class="english">Fuji apples are my favorite.</span></p>
 
 <p><span class="chinese">富士山形态优美。</span><span class="english">Mt. Fuji has a graceful shape.</span></p>

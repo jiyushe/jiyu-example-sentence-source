@@ -1,5 +1,7 @@
 # blare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blare.md)
+
 <p><span class="chinese">在汽车喇叭的轰鸣声中我问他。</span><span class="english">I asked over the blare of horns.</span></p>
 
 <p><span class="chinese">天空又一声巨响，心锁又闪亮退场！</span><span class="english">I entered gloriously with blare in the sky.</span></p>

@@ -1,5 +1,7 @@
 # prolific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prolific.md)
+
 <p><span class="chinese">并问了她很多问题。</span><span class="english">She was a prolific correspondent.</span></p>
 
 <p><span class="chinese">斯蒂芬金是一位多产作家。</span><span class="english">Stephen King is a prolific writer.</span></p>

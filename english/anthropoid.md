@@ -1,5 +1,7 @@
 # anthropoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthropoid.md)
+
 <p><span class="chinese">类人猿有灭绝的危险。</span><span class="english">An anthropoid ape such as a gorilla or chimpanzee.</span></p>
 
 <p><span class="chinese">该动物园发言人左坦汉伽人笑称2005年里酒量最大的要属那11只类人猿。</span><span class="english">Budapest Zoo spokesman Zoltan Hanga said it was the 11 anthropoid apes who drank most of the wine in 2005.</span></p>

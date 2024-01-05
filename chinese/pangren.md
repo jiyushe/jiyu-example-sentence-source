@@ -1,5 +1,7 @@
 # 旁人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangren.md)
+
 <p><span class="chinese">托马斯已习惯于旁人的言语中伤。</span><span class="english">Mr Thomas is used to brickbats.</span></p>
 
 <p><span class="chinese">他们是否看到旁人在他们玩耍时关切的眼神所传达的力量</span><span class="english">Do they see strength in caring eyes</span></p>

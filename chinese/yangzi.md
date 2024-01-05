@@ -1,5 +1,7 @@
 # 养子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangzi.md)
+
 <p><span class="chinese">他的养子上周出国了。</span><span class="english">His adopted son went abroad last week.</span></p>
 
 <p><span class="chinese">他指着他的养子作为证据。</span><span class="english">And he points to his adopted son as evidence for that.</span></p>

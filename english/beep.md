@@ -1,5 +1,7 @@
 # beep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beep.md)
+
 <p><span class="chinese">你会听到一小声哔响。</span><span class="english">You'll hear a little beep.</span></p>
 
 <p><span class="chinese">电脑开机时发出“哔”的响声吗？</span><span class="english">Does the computer beep on power-up?</span></p>

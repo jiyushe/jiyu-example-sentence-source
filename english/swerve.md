@@ -1,5 +1,7 @@
 # swerve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swerve.md)
+
 <p><span class="chinese">接手示意他投弧线球。</span><span class="english">The catcher signaled him to swerve.</span></p>
 
 <p><span class="chinese">不然，他们是悖谬的民众。</span><span class="english">Nay, they are a people who swerve from justice.</span></p>

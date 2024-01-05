@@ -1,5 +1,7 @@
 # pompeii
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pompeii.md)
+
 <p><span class="chinese">这就是庞贝城。</span><span class="english">This is the city of Pompeii.</span></p>
 
 <p><span class="chinese">庞培不再是地下城了。</span><span class="english">Pompeii is no longer a buried city.</span></p>

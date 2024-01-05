@@ -1,5 +1,7 @@
 # buddhist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buddhist.md)
+
 <p><span class="chinese">佛教徒是个家庭型的男人。</span><span class="english">The Buddhist is a family man.</span></p>
 
 <p><span class="chinese">他们家附近有座佛寺。</span><span class="english">Buddhist temple near their home.</span></p>

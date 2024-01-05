@@ -1,5 +1,7 @@
 # skyrocket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skyrocket.md)
+
 <p><span class="chinese">你的血压是否急速上升？你会否尝试去踫击他们？</span><span class="english">Does your blood pressure skyrocket? Do you try and bump them?</span></p>
 
 <p><span class="chinese">以色列袭击伊朗核设施后，石油价格飞涨。</span><span class="english">Oil prices skyrocket following Israeli raid on Iranian nukes.</span></p>

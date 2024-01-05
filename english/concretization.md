@@ -1,5 +1,7 @@
 # concretization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concretization.md)
+
 <p><span class="chinese">虚实转换是常见的翻译技巧。</span><span class="english">Generalization and concretization are common translating techniques.</span></p>
 
 <p><span class="chinese">萨特的戏剧是他哲学思想的图解和具体化。</span><span class="english">Jean-Paul Sartre's dramas are the illustration and concretization of his philosophical thoughts.</span></p>

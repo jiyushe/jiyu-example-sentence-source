@@ -1,5 +1,7 @@
 # staggeringly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staggeringly.md)
+
 <p><span class="chinese">它是那样难以消灭，真是令人震惊。</span><span class="english">And it is staggeringly hard to kill.</span></p>
 
 <p><span class="chinese">财富的创造已经快的惊人了。</span><span class="english">The creation of wealth has been staggeringly quick.</span></p>

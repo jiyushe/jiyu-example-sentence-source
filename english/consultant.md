@@ -1,5 +1,7 @@
 # consultant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consultant.md)
+
 <p><span class="chinese">他们雇用他为垂问。</span><span class="english">They employed him as a consultant.</span></p>
 
 <p><span class="chinese">佐伊现在是一名瘦身顾问。</span><span class="english">Today she is a slimming consultant.</span></p>

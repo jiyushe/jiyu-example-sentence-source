@@ -1,5 +1,7 @@
 # nonwhite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonwhite.md)
+
 <p><span class="chinese">BNP旨在发送非白人英国人“家”。</span><span class="english">The BNP aims to send nonwhite Britons "home."</span></p>
 
 <p><span class="chinese">库切对黑人和有色人种的复杂情感。</span><span class="english">The second chapter discussed Coetzee's complicated feelings towards the nonwhite.</span></p>

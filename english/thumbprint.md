@@ -1,5 +1,7 @@
 # thumbprint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thumbprint.md)
+
 <p><span class="chinese">我不过是摩天大楼上的一个指纹。</span><span class="english">I'm a thumbprint on the window of a skyscraper.</span></p>
 
 <p><span class="chinese">没有人会有相同的指纹或者相同的序号。</span><span class="english">No person will have the same thumbprint or number.</span></p>

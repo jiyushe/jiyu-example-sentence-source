@@ -1,5 +1,7 @@
 # outbid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outbid.md)
+
 <p><span class="chinese">利物浦在对贝赫拉米的出价上击败了西汉姆联。</span><span class="english">Liverpool are set to outbid West Ham United for Lazio midfielder Valon Behrami.</span></p>
 
 <p><span class="chinese">“我有些不好的消息要告诉你，”他说，“那个为这书，竞价高过你的？</span><span class="english">“I have some more bad news for you, ” he said. “The person who outbid you for the book?</span></p>

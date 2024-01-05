@@ -1,5 +1,7 @@
 # calved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calved.md)
+
 <p><span class="chinese">前面还有一座冰山。</span><span class="english">The glacier calved a large iceberg.</span></p>
 
 <p><span class="chinese">冰川崩解而产生一个大冰山。</span><span class="english">The glacier calved a large iceberg.</span></p>

@@ -1,5 +1,7 @@
 # 转嫁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanjia_1.md)
+
 <p><span class="chinese">不要企图把损失转嫁到顾客头上。</span><span class="english">Don't try to shift the losses on to the customers.</span></p>
 
 <p><span class="chinese">关于李湘转嫁旅游卫视事件，大家觉得是蓄意炒作还是真有其事？</span><span class="english">Is Li Xiang's job-hopping to the Travel Channel true or speculation?</span></p>

@@ -1,5 +1,7 @@
 # 朗朗上口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langlangshangkou.md)
+
 <p><span class="chinese">给你的节目取个朗朗上口的名字。</span><span class="english">Give your show a catchy title.</span></p>
 
 <p><span class="chinese">有些人会跟著唱。旋律还挺朗朗上口的。</span><span class="english">Some sing to it. The tunes are quite catchy.</span></p>

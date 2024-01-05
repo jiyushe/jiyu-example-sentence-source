@@ -1,5 +1,7 @@
 # metrical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metrical.md)
+
 <p><span class="chinese">一般来说,韵律的冲动出现在节拍上</span><span class="english">Usually, the metrical impulse is on the beat.</span></p>
 
 <p><span class="chinese">小节是一个长音节，即两个小节线之间的部分。</span><span class="english">A measure or bar is a metrical unit, the space between two bar-lines.</span></p>

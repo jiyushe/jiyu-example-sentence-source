@@ -1,5 +1,7 @@
 # 推广
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiguang.md)
+
 <p><span class="chinese">你在市场推广部工作吗?。</span><span class="english">Do you work in marketing?</span></p>
 
 <p><span class="chinese">我们就是这么推广推特的。</span><span class="english">We did this with Twitter.</span></p>

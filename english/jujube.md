@@ -1,5 +1,7 @@
 # jujube
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jujube.md)
+
 <p><span class="chinese">里面有红枣和枸杞子。</span><span class="english">It has jujube and medlar.</span></p>
 
 <p><span class="chinese">枣糕，橙子，苹果。</span><span class="english">Jujube cake, orange, apple.</span></p>

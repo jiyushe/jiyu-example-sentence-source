@@ -1,5 +1,7 @@
 # 自白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zibai.md)
+
 <p><span class="chinese">一个购物狂的自白。</span><span class="english">Confessions of a Shopaholic.</span></p>
 
 <p><span class="chinese">阿加西的自白对网球运动是个伤害吗？</span><span class="english">Have Agassi's confessions damaged tennis?</span></p>

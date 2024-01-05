@@ -1,5 +1,7 @@
 # 远因
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyin_2.md)
+
 <p><span class="chinese">法律只究近因，不问远因。</span><span class="english">In law, the proximate, not the remote cause is regarded.</span></p>
 
 <p><span class="chinese">这是第五个原因，近因和远因，是大地震的出现。</span><span class="english">This is the fifth cause, proximate and remote, of the appearance of a mighty earthquake.</span></p>

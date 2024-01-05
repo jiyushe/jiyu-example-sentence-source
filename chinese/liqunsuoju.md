@@ -1,5 +1,7 @@
 # 离群索居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liqunsuoju.md)
+
 <p><span class="chinese">他过着离群索居的生活。</span><span class="english">He leads a solitary life.</span></p>
 
 <p><span class="chinese">他信心崩溃，离群索居。</span><span class="english">He had a crisis of confidence and cut himself off.</span></p>

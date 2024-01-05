@@ -1,5 +1,7 @@
 # remould
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remould.md)
+
 <p><span class="chinese">我要通过操练英语来重塑我自己！</span><span class="english">I want to pass to drill English to remould myself!</span></p>
 
 <p><span class="chinese">要改造一个不正经的女人，并非易事。</span><span class="english">It is anything but easy to remould a lady of easy virtue.</span></p>

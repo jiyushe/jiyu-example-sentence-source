@@ -1,5 +1,7 @@
 # 络腮胡子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luosaihuzi.md)
+
 <p><span class="chinese">我这浪漫派的络腮胡子！</span><span class="english">my romantic beard!</span></p>
 
 <p><span class="chinese">他们都长了络腮胡子。</span><span class="english">But they all have full beards.</span></p>

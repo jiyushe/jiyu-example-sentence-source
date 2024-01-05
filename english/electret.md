@@ -1,5 +1,7 @@
 # electret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electret.md)
+
 <p><span class="chinese">负极性驻极体能减少凋亡细胞的表面电荷量。</span><span class="english">Surface charge density of apoptotic cell was reduced by electret.</span></p>
 
 <p><span class="chinese">最后简要介绍了该驻极体传声器测试仪所达到的性能指标。</span><span class="english">Finally the performance of the electret microphone tester is described.</span></p>

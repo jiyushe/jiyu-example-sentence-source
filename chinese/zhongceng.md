@@ -1,5 +1,7 @@
 # 中层
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongceng.md)
+
 <p><span class="chinese">中层阶级很少，</span><span class="english">and there's a huge lack of middle class,</span></p>
 
 <p><span class="chinese">她开除了那名身为中层设计师的雇员。</span><span class="english">She fired the employee, a midlevel designer.</span></p>

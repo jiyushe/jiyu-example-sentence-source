@@ -1,5 +1,7 @@
 # retune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retune.md)
+
 <p><span class="chinese">我想退货。</span><span class="english">I want retune.</span></p>
 
 <p><span class="chinese">爱情也是一样，迷失了方向要及时调整航向。</span><span class="english">Also, for love , missing way should retune as soon as possible.</span></p>

@@ -1,5 +1,7 @@
 # thunderclap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thunderclap.md)
+
 <p><span class="chinese">并立即有一个响亮的霹雳。</span><span class="english">And immediately there was a loud thunderclap.</span></p>
 
 <p><span class="chinese">怎么样，我的大名如雷贯耳吧！</span><span class="english">How, my name like a thunderclap piercing the ear!</span></p>

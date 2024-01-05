@@ -1,5 +1,7 @@
 # philip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philip.md)
+
 <p><span class="chinese">还有腓利和拿但业。</span><span class="english">Also Philip and Nathanael.</span></p>
 
 <p><span class="chinese">腓利下到撒马利亚。</span><span class="english">Philip went down to Samaria.</span></p>

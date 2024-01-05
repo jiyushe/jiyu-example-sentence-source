@@ -1,5 +1,7 @@
 # gay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gay.md)
+
 <p><span class="chinese">螺栓同志电影47。</span><span class="english">Stud gay Movies 47.</span></p>
 
 <p><span class="chinese">但是王先生也是同性恋者。</span><span class="english">But Wang, too, is gay.</span></p>

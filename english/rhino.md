@@ -1,5 +1,7 @@
 # rhino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhino.md)
+
 <p><span class="chinese">谁阻止了犀牛？</span><span class="english">Who stopped the rhino?</span></p>
 
 <p><span class="chinese">犀牛被激怒时是很危险的。</span><span class="english">If provoked, a rhino can be dangerous.</span></p>

@@ -1,5 +1,7 @@
 # daimyo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daimyo.md)
+
 <p><span class="chinese">但是大名没有任何犹豫。</span><span class="english">Still, the Daimyo didn't hesitate.</span></p>
 
 <p><span class="chinese">现在，在大名岛津贵久的带领下，岛津氏迎来一个真正迈向强大的机会。</span><span class="english">Now, under the daimyo Shimazu Takahisa, the clan has a chance for true greatness.</span></p>

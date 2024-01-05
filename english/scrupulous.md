@@ -1,5 +1,7 @@
 # scrupulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrupulous.md)
+
 <p><span class="chinese">他对选词用字非常谨慎。</span><span class="english">He is very scrupulous about the choice of his word.</span></p>
 
 <p><span class="chinese">两位读者都称赞克努森对细节一丝不苟。</span><span class="english">Both readers commend Knutson for his scrupulous attention to detail.</span></p>

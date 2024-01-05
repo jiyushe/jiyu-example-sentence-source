@@ -1,5 +1,7 @@
 # 垦区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kenqu.md)
+
 <p><span class="chinese">粮食问题一直是黑龙江垦区经济工作的重点。</span><span class="english">Grain issue is the key that economy of Heilongjiang reclamation area works all the time.</span></p>
 
 <p><span class="chinese">黄龙山垦区的经济建设取得了良好的社会效应。</span><span class="english">Huanglong Mountain Reclamation's economic construction has achieved good social effects.</span></p>

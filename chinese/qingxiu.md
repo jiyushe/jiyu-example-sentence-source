@@ -1,5 +1,7 @@
 # 清秀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxiu.md)
+
 <p><span class="chinese">她的清秀美丽使他倾倒。</span><span class="english">Her comeliness overwhelmed him.</span></p>
 
 <p><span class="chinese">她的哥哥是一位眉目清秀的年轻男士。</span><span class="english">Her brother is a tall good-looking young man.</span></p>

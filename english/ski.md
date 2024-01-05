@@ -1,5 +1,7 @@
 # ski
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ski.md)
+
 <p><span class="chinese">我想去买套滑雪服。</span><span class="english">I want to get a ski suit.</span></p>
 
 <p><span class="chinese">沙斯塔滑雪场滑雪区。</span><span class="english">Shasta Ski Resort ski area.</span></p>

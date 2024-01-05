@@ -1,5 +1,7 @@
 # 鞋刷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieshua.md)
+
 <p><span class="chinese">我得把我的网球鞋刷白。</span><span class="english">I must whiten my tennis shoes.</span></p>
 
 <p><span class="chinese">我必须把我的网球鞋刷白。</span><span class="english">I must whiten my tennis shoes.</span></p>

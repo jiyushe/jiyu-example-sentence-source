@@ -1,5 +1,7 @@
 # immunization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunization.md)
+
 <p><span class="chinese">儿童期免疫接种的非特异性反应</span><span class="english">Nonspecific effects of childhood immunization</span></p>
 
 <p><span class="chinese">小童报读加拿大学校时需要一份防疫注射记录。</span><span class="english">All school-aged children require an Immunization Form.</span></p>

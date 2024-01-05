@@ -1,5 +1,7 @@
 # oom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oom.md)
+
 <p><span class="chinese">注意到我没提蓝的问题了吗？</span><span class="english">Notice how I didn't mention OoM issues just now?</span></p>
 
 <p><span class="chinese">像所有的回蓝天赋一样，如果你发现你会空蓝的话就去点它。</span><span class="english">As with all mana regen talents, take it if you find you're running OOM.</span></p>

@@ -1,5 +1,7 @@
 # monatomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monatomic.md)
+
 <p><span class="chinese">氩是单原子气体。</span><span class="english">Argon is a monatomic gas.</span></p>
 
 <p><span class="chinese">氦气是钝气。</span><span class="english">Helium is a monatomic gas.</span></p>

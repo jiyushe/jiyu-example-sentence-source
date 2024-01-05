@@ -1,5 +1,7 @@
 # hhs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hhs.md)
+
 <p><span class="chinese">我同HHS签合同提供建模技术援助。</span><span class="english">I was contracted with HHS for technical modeling assistance.</span></p>
 
 <p><span class="chinese">这是卫生和福利部部长和高层的承诺。</span><span class="english">It is the commitment of the Secretary and top leadership of HHS.</span></p>

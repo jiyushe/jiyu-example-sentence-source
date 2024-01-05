@@ -1,5 +1,7 @@
 # hypoglycemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypoglycemia.md)
+
 <p><span class="chinese">有什么方法能治疗低血糖？</span><span class="english">What method can treat hypoglycemia?</span></p>
 
 <p><span class="chinese">血糖浓度过低则被称为低糖血症。</span><span class="english">A low blood sugar level is called hypoglycemia.</span></p>

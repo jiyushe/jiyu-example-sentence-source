@@ -1,5 +1,7 @@
 # 马裤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maku.md)
+
 <p><span class="chinese">还有马裤，所有的衣装</span><span class="english">And the breeches, and all that</span></p>
 
 <p><span class="chinese">他的马裤是用用牧羊人派做的。</span><span class="english">His breeches were made of haggis bags.</span></p>

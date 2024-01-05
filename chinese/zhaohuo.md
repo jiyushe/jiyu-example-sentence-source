@@ -1,5 +1,7 @@
 # 着火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaohuo.md)
+
 <p><span class="chinese">我们看见一座房子着火了。</span><span class="english">We saw a house afire.</span></p>
 
 <p><span class="chinese">潮湿的木头不会着火。</span><span class="english">Damp Wood will not fire.</span></p>

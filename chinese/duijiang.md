@@ -1,5 +1,7 @@
 # 兑奖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duijiang.md)
+
 <p><span class="chinese">他在兑奖售物活动中赢得了一辆汽车。</span><span class="english">He won a car in the raffle.</span></p>
 
 <p><span class="chinese">让我们去彩票中心兑奖吧。</span><span class="english">Let's go to the lottery center to cash it.</span></p>

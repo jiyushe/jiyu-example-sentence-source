@@ -1,5 +1,7 @@
 # 藿香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoxiang_1.md)
+
 <p><span class="chinese">广藿香，香，香根草的腐朽的基调。</span><span class="english">Decadent base notes of Patchouli, Incense and Vetiver.</span></p>
 
 <p><span class="chinese">唐正在材料中加入了藿香，评委感到很好奇。</span><span class="english">Don is material added ageratum, the judges felt very curious.</span></p>

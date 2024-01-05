@@ -1,5 +1,7 @@
 # merit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merit.md)
+
 <p><span class="chinese">初冬就一无是处了吗？</span><span class="english">Early winter on the merit it?</span></p>
 
 <p><span class="chinese">嘉信理财称这一起诉没有道理.</span><span class="english">Schwab said the lawsuit lacks merit.</span></p>

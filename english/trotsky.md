@@ -1,5 +1,7 @@
 # trotsky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trotsky.md)
+
 <p><span class="chinese">托洛斯基在墨西哥城附近遇刺。</span><span class="english">Leon Trotsky was assassinated near Mexico City.</span></p>
 
 <p><span class="chinese">20世纪最了不起的辩论家非列昂·托洛茨基莫属。</span><span class="english">The greatest polemicist of the 20th century must be Leon Trotsky.</span></p>

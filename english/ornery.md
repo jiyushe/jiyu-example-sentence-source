@@ -1,5 +1,7 @@
 # ornery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ornery.md)
+
 <p><span class="chinese">也不怕卑鄙的偷牛贼。</span><span class="english">He was not afraid of ornery rustlers.</span></p>
 
 <p><span class="chinese">贱不贱我不管，你失踪了有一个多月了。</span><span class="english">Ornery or not, You've been M. I. A for over a month.</span></p>

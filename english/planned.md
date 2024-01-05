@@ -1,5 +1,7 @@
 # planned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planned.md)
+
 <p><span class="chinese">2008年还在计划更多。</span><span class="english">More are planned for 2008.</span></p>
 
 <p><span class="chinese">我们事事都要周密计划。</span><span class="english">Have you planned your trip?</span></p>

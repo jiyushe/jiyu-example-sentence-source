@@ -1,5 +1,7 @@
 # 大雅之堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayazhitang.md)
+
 <p><span class="chinese">在这种情况下，它是不登大雅之堂的碳水化合物。</span><span class="english">In this case, it is the unrefined carbohydrates.</span></p>
 
 <p><span class="chinese">制成面包或全谷类全谷类不登大雅之堂。</span><span class="english">Consume whole cereals or bread made from whole unrefined cereals.</span></p>

@@ -1,5 +1,7 @@
 # adsorption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adsorption.md)
+
 <p><span class="chinese">亚甲蓝的载药方法是吸附法。</span><span class="english">MB was loaded by adsorption method.</span></p>
 
 <p><span class="chinese">吸附性好，妥帖覆盖。</span><span class="english">Adsorption of good, proper fulfillment coverage.</span></p>

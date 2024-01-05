@@ -1,5 +1,7 @@
 # 旧约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuyue.md)
+
 <p><span class="chinese">在旧约圣歌唱完之后让你的思想成形。</span><span class="english">Model your thoughts after the Psalmists of old.</span></p>
 
 <p><span class="chinese">旧约怎样行与新约怎样行！</span><span class="english">What done in O. T. and what do in New Testament?</span></p>

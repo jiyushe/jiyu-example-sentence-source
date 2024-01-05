@@ -1,5 +1,7 @@
 # 半衰期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banshuaiqi.md)
+
 <p><span class="chinese">半衰期是很有用的。</span><span class="english">And again, the half-life is always useful.</span></p>
 
 <p><span class="chinese">相比之下，铯-137的半衰期为30年。</span><span class="english">The half life of cesium-137, in contrast, is 30 years.</span></p>

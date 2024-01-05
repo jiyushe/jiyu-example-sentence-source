@@ -1,5 +1,7 @@
 # 风起云涌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengqiyunyong.md)
+
 <p><span class="chinese">在近期的反弹行情中，垃圾股走势可谓风起云涌。</span><span class="english">In the recent rebound in prices, junk stocks is surging.</span></p>
 
 <p><span class="chinese">看秦风的作品，也有风起云涌的感觉。</span><span class="english">Every time I see his work, I also feel the waves of movement.</span></p>

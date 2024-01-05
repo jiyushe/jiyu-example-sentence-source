@@ -1,5 +1,7 @@
 # butadiene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butadiene.md)
+
 <p><span class="chinese">丁烷则转换成丁二烯，用来制造人造橡胶。</span><span class="english">Butane is converted to butadiene for synthetic rubber.</span></p>
 
 <p><span class="chinese">腈是一种丁二烯与丙烯腈的共聚物。</span><span class="english">Nitrile is a copolymer of butadiene and acrylonitrile.</span></p>

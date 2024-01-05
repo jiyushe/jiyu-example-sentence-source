@@ -1,5 +1,7 @@
 # squirrel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squirrel.md)
+
 <p><span class="chinese">鼠笼式马达“，”</span><span class="english">Squirrel Cage Motor.</span></p>
 
 <p><span class="chinese">小松鼠给它加上了橡果。</span><span class="english">Squirrel added the acorns.</span></p>

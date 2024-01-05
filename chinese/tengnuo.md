@@ -1,5 +1,7 @@
 # 腾挪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tengnuo.md)
+
 <p><span class="chinese">我们在命运里闪转腾挪。</span><span class="english">No gene called destiny, WE ARE INFINITE.</span></p>
 
 <p><span class="chinese">把仓库里的东西腾挪一下，好装水泥。</span><span class="english">Move the things in the storehouse to make room for the cement.</span></p>

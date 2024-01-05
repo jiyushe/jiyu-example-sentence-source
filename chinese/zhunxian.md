@@ -1,5 +1,7 @@
 # 准线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunxian.md)
+
 <p><span class="chinese">二次曲线的准线。</span><span class="english">The directrix line of a conic.</span></p>
 
 <p><span class="chinese">你们的内页应该有准线,应该更好画</span><span class="english">You probably have lined paper, that makes this easier.</span></p>

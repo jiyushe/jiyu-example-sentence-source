@@ -1,5 +1,7 @@
 # impoverished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impoverished.md)
+
 <p><span class="chinese">她的家庭被一场梆弄得一贫如洗。</span><span class="english">Her family was impoverished by a fire.</span></p>
 
 <p><span class="chinese">与世隔绝、贫穷的小山村。</span><span class="english">in its isolated, impoverished mountain villages.</span></p>

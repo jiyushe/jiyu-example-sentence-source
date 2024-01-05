@@ -1,5 +1,7 @@
 # 伤风败俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangfengbaisu.md)
+
 <p><span class="chinese">他从未做过任何伤风败俗的事。</span><span class="english">He's never done anything injurious to morals.</span></p>
 
 <p><span class="chinese">他的另一半生活好像与伤风败俗相距甚远。</span><span class="english">The other half of his life seemed infinitely remote from obscenity.</span></p>

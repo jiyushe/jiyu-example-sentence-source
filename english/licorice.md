@@ -1,5 +1,7 @@
 # licorice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/licorice.md)
+
 <p><span class="chinese">埃及人还发明了甘草精。</span><span class="english">The Egyptians also invented licorice.</span></p>
 
 <p><span class="chinese">我们大多数人知道甘草作为一种好吃。</span><span class="english">Most of us know licorice as a tasty treat.</span></p>

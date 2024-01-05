@@ -1,5 +1,7 @@
 # 子夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziye_1.md)
+
 <p><span class="chinese">黎明追着子夜来临了，似乎匆忙得乱了阵脚。</span><span class="english">Dawn seemed to follow midnight with indecent haste.</span></p>
 
 <p><span class="chinese">2010年，元旦，子夜刚过了几秒钟。</span><span class="english">A few seconds after midnight on New Year’s Eve, 2010.</span></p>

@@ -1,5 +1,7 @@
 # lycopene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lycopene.md)
+
 <p><span class="chinese">善存甚至在配方中添加了蕃茄红素。</span><span class="english">Centrum even added lycopene to the formula.</span></p>
 
 <p><span class="chinese">它比任何一种蔬菜或者水果含更多的番茄红素。</span><span class="english">It has more lycopene than any other fruits and veggies.</span></p>

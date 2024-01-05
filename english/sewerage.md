@@ -1,5 +1,7 @@
 # sewerage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sewerage.md)
+
 <p><span class="chinese">排水系统有“分流制”和“合流制”。</span><span class="english">Sewerage systems are either "separate" or "combined".</span></p>
 
 <p><span class="chinese">车库没有排污设备，小店主的吃喝又都在这儿。</span><span class="english">No Sewerage garage, the small shopkeepers have gone further here.</span></p>

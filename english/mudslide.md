@@ -1,5 +1,7 @@
 # mudslide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mudslide.md)
+
 <p><span class="chinese">上周的泥石流夺走了他的房子。</span><span class="english">He lost his house in the mudslide last week.</span></p>
 
 <p><span class="chinese">此次泥石流灾害已造成至少1117人死亡。</span><span class="english">The massive mudslide has caused at least 1,117 deaths.</span></p>

@@ -1,5 +1,7 @@
 # inkstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inkstone.md)
+
 <p><span class="chinese">砚发端于新石器时代。</span><span class="english">Inkstone originated in Neolithic age.</span></p>
 
 <p><span class="chinese">伟刚爱石，而后制砚。</span><span class="english">Wei gang like stone, makes inkstone later.</span></p>

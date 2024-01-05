@@ -1,5 +1,7 @@
 # 天井
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianjing.md)
+
 <p><span class="chinese">天井做了一个阳光房！</span><span class="english">Patio made a sun room!</span></p>
 
 <p><span class="chinese">民族歌手在卡玛聚外的天井倾情献唱。</span><span class="english">Ethnic singer singing in the yard outside Karma cafe.</span></p>

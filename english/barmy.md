@@ -1,5 +1,7 @@
 # barmy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barmy.md)
+
 <p><span class="chinese">这音乐快要让我疯了。</span><span class="english">The music is driving me barmy.</span></p>
 
 <p><span class="chinese">美国的风尚传到了我们这儿，那头的整条街道在圣诞节都被打扮的古怪起来。</span><span class="english">The American trend is coming over here. Over there the whole street goes barmy at Christmas.</span></p>

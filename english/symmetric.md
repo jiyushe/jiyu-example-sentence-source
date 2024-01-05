@@ -1,5 +1,7 @@
 # symmetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symmetric.md)
+
 <p><span class="chinese">是的，对称。</span><span class="english">Right, it's symmetric.</span></p>
 
 <p><span class="chinese">它是完全对称的。</span><span class="english">It's perfectly symmetric.</span></p>

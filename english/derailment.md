@@ -1,5 +1,7 @@
 # derailment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derailment.md)
+
 <p><span class="chinese">那么，谁想在出轨的高速火车里？</span><span class="english">Sooo, who wants to die in a high-speed train derailment?</span></p>
 
 <p><span class="chinese">今天的火车混乱不堪，因为前面有一列火车出轨了。</span><span class="english">The trains are all to pot today because of a derailment farther down the line.</span></p>

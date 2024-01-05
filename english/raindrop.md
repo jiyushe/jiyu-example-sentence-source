@@ -1,5 +1,7 @@
 # raindrop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raindrop.md)
+
 <p><span class="chinese">孤独的一个人，不孤独的雨滴。</span><span class="english">A lonely person, not lonely raindrop.</span></p>
 
 <p><span class="chinese">雨点拍打着窗玻璃。</span><span class="english">The raindrop was beating against the windowpanes.</span></p>

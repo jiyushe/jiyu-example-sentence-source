@@ -1,5 +1,7 @@
 # farrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farrow.md)
+
 <p><span class="chinese">我们的母猪一胎下了15个小猪。</span><span class="english">Our sow had 15 at one farrow.</span></p>
 
 <p><span class="chinese">爱尔兰是一只吃自己猪崽的老母猪。</span><span class="english">Ireland is the old sow that eats her farrow.</span></p>

@@ -1,5 +1,7 @@
 # 病症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingzheng_1.md)
+
 <p><span class="chinese">这种病症难以确诊。</span><span class="english">The case defies diagnosis.</span></p>
 
 <p><span class="chinese">过多的摄入糖分会导致神经病症。</span><span class="english">Excess intake of sugar results in neurotic symptoms.</span></p>

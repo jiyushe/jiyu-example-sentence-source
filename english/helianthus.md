@@ -1,5 +1,7 @@
 # helianthus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helianthus.md)
+
 <p><span class="chinese">向日葵是药材吗？</span><span class="english">Is helianthus a medicinal material?</span></p>
 
 <p><span class="chinese">说明向日葵在中国广为种植。</span><span class="english">Demonstrative helianthus is in China wide to cultivate.</span></p>

@@ -1,5 +1,7 @@
 # chloasma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chloasma.md)
+
 <p><span class="chinese">手上和腿上长了黄褐斑，该怎样治?。</span><span class="english">Chloasma hands and legs long, how governance?</span></p>
 
 <p><span class="chinese">黄褐斑是常见的面部色素沉着性疾病。</span><span class="english">Chloasma is a common hyperpigmentation disease on the face.</span></p>

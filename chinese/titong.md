@@ -1,5 +1,7 @@
 # 体统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/titong.md)
+
 <p><span class="chinese">他的行径很失体统。</span><span class="english">He bore himself most unbecomingly.</span></p>
 
 <p><span class="chinese">这里面暴露了他的赤裸裸的动机，竟达到有失体统的地步。</span><span class="english">It carried naked truth about his motives into indecency.</span></p>

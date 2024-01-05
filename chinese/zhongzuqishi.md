@@ -1,5 +1,7 @@
 # 种族歧视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzuqishi.md)
+
 <p><span class="chinese">甚至连种族歧视现在也是自反性的。</span><span class="english">Even racism is now reflexive.</span></p>
 
 <p><span class="chinese">“这是种族歧视，”我冷冷地说。</span><span class="english">"That's racist, " I said, halfheartedly.</span></p>

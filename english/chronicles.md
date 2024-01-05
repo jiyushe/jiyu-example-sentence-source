@@ -1,5 +1,7 @@
 # chronicles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chronicles.md)
+
 <p><span class="chinese">天龙八部非常值得一读。</span><span class="english">The Dragon Chronicles is well worth reading.</span></p>
 
 <p><span class="chinese">防御者编年史，它比止痛药还好。</span><span class="english">Defender Chronicles – It's better than Percocet.</span></p>

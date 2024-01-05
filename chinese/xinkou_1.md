@@ -1,5 +1,7 @@
 # 心口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinkou_1.md)
+
 <p><span class="chinese">把手放在心口前。</span><span class="english">In Herz und in Hand.</span></p>
 
 <p><span class="chinese">你心口会痛？</span><span class="english">It's a blow to the solar plexus. Right?</span></p>

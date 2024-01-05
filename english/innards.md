@@ -1,5 +1,7 @@
 # innards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innards.md)
+
 <p><span class="chinese">鸡去掉内脏，洗净，飞水，沥乾水份。</span><span class="english">Discard the innards of the chicken. Rinse well. Scald and drain.</span></p>
 
 <p><span class="chinese">所以它们的内脏确实是滑到了嗓子眼，但是这种滑动是可控制的。</span><span class="english">So, their innards do slide into their throat, but it’s a controlled glide.</span></p>

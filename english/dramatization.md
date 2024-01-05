@@ -1,5 +1,7 @@
 # dramatization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dramatization.md)
+
 <p><span class="chinese">那个剧本是对一个简短事故的戏剧化。</span><span class="english">The play was a dramatization of a short story.</span></p>
 
 <p><span class="chinese">直到他们认识到，这并非是夸大。</span><span class="english">Until they realize that it wasn't a dramatization.</span></p>

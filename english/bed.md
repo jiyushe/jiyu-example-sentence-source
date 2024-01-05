@@ -1,5 +1,7 @@
 # bed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bed.md)
+
 <p><span class="chinese">午睡时间到了。</span><span class="english">Itrs bed time.</span></p>
 
 <p><span class="chinese">戴丝在床上。</span><span class="english">Daisy is in bed.</span></p>

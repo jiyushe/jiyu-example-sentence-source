@@ -1,5 +1,7 @@
 # langue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/langue.md)
+
 <p><span class="chinese">语言和谚语有何区别？</span><span class="english">What is the difference between langue and parole?</span></p>
 
 <p><span class="chinese">现在英语已经是官方认可的国际语言了。</span><span class="english">It is now officially considered as an international langue.</span></p>

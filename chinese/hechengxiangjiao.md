@@ -1,5 +1,7 @@
 # 合成橡胶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hechengxiangjiao.md)
+
 <p><span class="chinese">舒适性为特点的合成橡胶鞋面。</span><span class="english">Features synthetic rubber uppers for comfort.</span></p>
 
 <p><span class="chinese">化学家发现了制造合成橡胶的方法。</span><span class="english">Chemists discovered how to make synthetic rubber.</span></p>

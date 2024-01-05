@@ -1,5 +1,7 @@
 # sadistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sadistic.md)
+
 <p><span class="chinese">围观者的赞美是施虐狂。</span><span class="english">The crowd's admiration is sadistic.</span></p>
 
 <p><span class="chinese">围观者的赞美是施虐狂。</span><span class="english">The crowd’s admiration is sadistic.</span></p>

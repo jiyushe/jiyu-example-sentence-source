@@ -1,5 +1,7 @@
 # fallibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fallibility.md)
+
 <p><span class="chinese">这是原则的缺陷。</span><span class="english">This is the principle of fallibility.</span></p>
 
 <p><span class="chinese">它是否暗示克里安堤斯的声明有错？</span><span class="english">Does it suggest a fallibility in Cleanthes's position?</span></p>

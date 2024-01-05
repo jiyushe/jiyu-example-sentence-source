@@ -1,5 +1,7 @@
 # discretionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discretionary.md)
+
 <p><span class="chinese">当然，我有可自由支配的收入。</span><span class="english">Of course, I have discretionary income.</span></p>
 
 <p><span class="chinese">试将一酌破愁城。</span><span class="english">Test will be a discretionary break grudge.</span></p>

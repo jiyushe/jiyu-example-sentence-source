@@ -1,5 +1,7 @@
 # bruges
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bruges.md)
+
 <p><span class="chinese">我想要往前看，但是今晚的确使我想起了对阵布鲁日的比赛。</span><span class="english">I prefer to look forward, but it did remind me of Bruges.</span></p>
 
 <p><span class="chinese">在布鲁日或阿姆斯特丹、威尼斯或维也纳这样的城市中流连忘返是一件乐事。</span><span class="english">It's wonderful to be lost in Bruges or Amsterdam, Venice or Vienna.</span></p>

@@ -1,5 +1,7 @@
 # 器械
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixie.md)
+
 <p><span class="chinese">乔依的头上到底是什么器械?。</span><span class="english">And what the hell is on Joey's head?</span></p>
 
 <p><span class="chinese">这个器械看起来真好吃，我能咬一口吗？</span><span class="english">It looks so nice. Can I take a bite?</span></p>

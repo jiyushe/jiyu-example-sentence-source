@@ -1,5 +1,7 @@
 # alcoholic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alcoholic.md)
+
 <p><span class="chinese">他是一个酒鬼。</span><span class="english">Crane was an alcoholic.</span></p>
 
 <p><span class="chinese">避免酒精饮料。</span><span class="english">Avoid alcoholic beverages.</span></p>

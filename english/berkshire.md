@@ -1,5 +1,7 @@
 # berkshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berkshire.md)
+
 <p><span class="chinese">凯特·米德尔顿来自波克夏的中产阶级。</span><span class="english">Kate Middleton is a middle-class woman from Berkshire.</span></p>
 
 <p><span class="chinese">如果波克夏惹上麻烦，就是我的错。</span><span class="english">If Berkshire ever gets in trouble, it will be my fault.</span></p>

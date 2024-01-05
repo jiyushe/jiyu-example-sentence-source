@@ -1,5 +1,7 @@
 # 生机盎然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengjiangran.md)
+
 <p><span class="chinese">他的脚下是蓝绿掩映的星球，生机盎然。</span><span class="english">Below his feet was the blue and green globe, lush with life.</span></p>
 
 <p><span class="chinese">伦敦生机盎然。这里有很多东西，</span><span class="english">But London's so vibrant. There's so much stuff going on that, you know,</span></p>

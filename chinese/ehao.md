@@ -1,5 +1,7 @@
 # 噩耗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ehao.md)
+
 <p><span class="chinese">哎，噩耗传来，好白菜都让猪拱了。</span><span class="english">All cabbage had been twiddled by pig.</span></p>
 
 <p><span class="chinese">他听到噩耗时吓得脸色发白。</span><span class="english">His face blanched with fear at the bad news.</span></p>

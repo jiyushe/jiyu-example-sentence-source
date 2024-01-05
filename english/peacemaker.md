@@ -1,5 +1,7 @@
 # peacemaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peacemaker.md)
+
 <p><span class="chinese">就我来说，我是个超级和事佬。</span><span class="english">I, for one, am a big peacemaker.</span></p>
 
 <p><span class="chinese">希尔想要充当和事佬。</span><span class="english">Hill tried to play the peacemaker.</span></p>

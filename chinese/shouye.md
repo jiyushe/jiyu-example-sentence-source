@@ -1,5 +1,7 @@
 # 受业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouye.md)
+
 <p><span class="chinese">本杰明是丝绸染匠，在伦敦拜师受业。</span><span class="english">Benjamin was bred a silk dyer, serving an apprenticeship at London.</span></p>
 
 <p><span class="chinese">光纤水听器和矢量水听器作为当前水声研究领域最具有代表性的两大技术倍受业界关注。</span><span class="english">Fiber optic and vector hydrophones are two major types of hydrophones that are of great importance to underwater acoustics.</span></p>

@@ -1,5 +1,7 @@
 # 变本加厉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianbenjiali.md)
+
 <p><span class="chinese">打一个正在哭的孩子，只能使他变本加厉，哭得更凶。</span><span class="english">To spank a crying child just adds fuel to the fire.</span></p>
 
 <p><span class="chinese">在最近的几年中，穆加贝的残暴愈加变本加厉。</span><span class="english">In recent years, Mugabe has grown even more ruthless.</span></p>

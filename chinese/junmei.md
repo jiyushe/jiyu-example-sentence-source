@@ -1,5 +1,7 @@
 # 俊美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junmei.md)
+
 <p><span class="chinese">他那俊美的双眼里有一种摄人心魄的表情。</span><span class="english">His handsome eyes had a charming expression.</span></p>
 
 <p><span class="chinese">他不俊美吗，而且还那样殷勤地讨妻子喜欢。</span><span class="english">Hadn't he been handsome, and eager to please his wife?</span></p>

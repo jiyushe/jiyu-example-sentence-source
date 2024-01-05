@@ -1,5 +1,7 @@
 # private
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/private.md)
+
 <p><span class="chinese">它是私密的。</span><span class="english">It was private.</span></p>
 
 <p><span class="chinese">他是一名列兵。</span><span class="english">He is a buck private.</span></p>

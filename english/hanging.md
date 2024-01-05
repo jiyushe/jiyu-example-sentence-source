@@ -1,5 +1,7 @@
 # hanging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hanging.md)
+
 <p><span class="chinese">悬挂手提袋。</span><span class="english">Hanging tote bags.</span></p>
 
 <p><span class="chinese">但她还在顽强地坚持。</span><span class="english">But she was hanging on.</span></p>

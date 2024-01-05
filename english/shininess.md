@@ -1,5 +1,7 @@
 # shininess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shininess.md)
+
 <p><span class="chinese">使失去光泽或没有光泽。</span><span class="english">A surface shininess or luster.</span></p>
 
 <p><span class="chinese">获得当前材质的辉度。</span><span class="english">Gets the current shininess of this Material.</span></p>

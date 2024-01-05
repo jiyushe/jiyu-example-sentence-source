@@ -1,5 +1,7 @@
 # unsymmetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsymmetric.md)
+
 <p><span class="chinese">以及对称和非对称量子阱中面声子的色散曲线。</span><span class="english">The polarization eigcnfrequencies of symmetric and unsymmetric quantum well are given.</span></p>
 
 <p><span class="chinese">讨论用极小残量法来解决不对称问题。</span><span class="english">It mainly discusses the minimal residual polynomial method for solving the unsymmetric system.</span></p>

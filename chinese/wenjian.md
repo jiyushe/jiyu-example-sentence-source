@@ -1,5 +1,7 @@
 # 文件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenjian.md)
+
 <p><span class="chinese">文件尺寸。</span><span class="english">File size.</span></p>
 
 <p><span class="chinese">引导文件。</span><span class="english">Boot files.</span></p>

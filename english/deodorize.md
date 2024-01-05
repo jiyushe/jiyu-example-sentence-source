@@ -1,5 +1,7 @@
 # deodorize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deodorize.md)
+
 <p><span class="chinese">此法也适用去除鸡笼中的臭味。</span><span class="english">And it is also used to deodorize the coop.</span></p>
 
 <p><span class="chinese">用于冰箱的除臭与食品保鲜。</span><span class="english">Deodorize the air inside refrigerator and freshen the foods stored.</span></p>

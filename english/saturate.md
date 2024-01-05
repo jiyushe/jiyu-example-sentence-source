@@ -1,5 +1,7 @@
 # saturate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saturate.md)
+
 <p><span class="chinese">藉此你灵浸透全人。</span><span class="english">Thy Spirit will me saturate.</span></p>
 
 <p><span class="chinese">请把肉浸泡在油和作料的卤汁里。</span><span class="english">Please saturate the meat in the mixture of oil and herbs.</span></p>

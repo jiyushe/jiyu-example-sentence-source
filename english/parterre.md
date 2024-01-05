@@ -1,5 +1,7 @@
 # parterre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parterre.md)
+
 <p><span class="chinese">在花坛中他们舞的多欢，挥洒着夏日甜味的香汗。</span><span class="english">How they dance in the parterre sweet summer sweat.</span></p>
 
 <p><span class="chinese">这样一来，绿色花坛就被提升至上层楼面。</span><span class="english">In this way, green parterre is elevated on the upper floors.</span></p>

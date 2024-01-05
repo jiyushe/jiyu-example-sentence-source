@@ -1,5 +1,7 @@
 # request 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/request.md)
+
 <p><span class="chinese">请求一个实例。</span><span class="english">Request an instance.</span></p>
 
 <p><span class="chinese">怎么有这样的要求？</span><span class="english">How has this request?</span></p>

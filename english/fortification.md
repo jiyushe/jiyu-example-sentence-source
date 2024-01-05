@@ -1,5 +1,7 @@
 # fortification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortification.md)
+
 <p><span class="chinese">华城是韩国首都首尔南部水源市的要塞。</span><span class="english">Hwaseong is the fortification of the city Suwon south of Seoul in South Korea.</span></p>
 
 <p><span class="chinese">远处，可以看到阿富汗政府军的防御工事和警察的据点。</span><span class="english">In the distance the fortification of an Afghan army and police post was visible.</span></p>

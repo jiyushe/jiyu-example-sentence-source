@@ -1,5 +1,7 @@
 # spend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spend.md)
+
 <p><span class="chinese">和她共度时光。</span><span class="english">Spend time with her.</span></p>
 
 <p><span class="chinese">花点时间回归自然。</span><span class="english">Spend time in nature.</span></p>

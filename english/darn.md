@@ -1,5 +1,7 @@
 # darn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darn.md)
+
 <p><span class="chinese">这鬼天气实在是太热了。</span><span class="english">It’s too darn hot.</span></p>
 
 <p><span class="chinese">请用红色的线织补。</span><span class="english">Please darn with red thread.</span></p>

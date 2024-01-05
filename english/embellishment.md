@@ -1,5 +1,7 @@
 # embellishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embellishment.md)
+
 <p><span class="chinese">蝴蝶结在鞋面点缀。</span><span class="english">Dashing embellishment at vamp.</span></p>
 
 <p><span class="chinese">华丽的润色是完全没有必要的。</span><span class="english">Embellishment and fluff are not necessary.</span></p>

@@ -1,5 +1,7 @@
 # 轻柔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingrou.md)
+
 <p><span class="chinese">一只鸽子轻柔地咕咕叫。</span><span class="english">A dove cooed softly.</span></p>
 
 <p><span class="chinese">轻柔的声音寂灭后。</span><span class="english">Music, when soft Voice die.</span></p>

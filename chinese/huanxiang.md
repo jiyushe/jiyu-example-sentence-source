@@ -1,5 +1,7 @@
 # 幻想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanxiang.md)
+
 <p><span class="chinese">呵，幻想！</span><span class="english">Oh dreams!</span></p>
 
 <p><span class="chinese">远景还是幻想?</span><span class="english">Future or Fantasy?</span></p>

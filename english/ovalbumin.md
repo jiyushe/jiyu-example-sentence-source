@@ -1,5 +1,7 @@
 # ovalbumin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovalbumin.md)
+
 <p><span class="chinese">方法以卵白蛋白致敏豚鼠制备哮喘模型。</span><span class="english">Methods Experimental asthma model of guinea pigs was induced by ovalbumin.</span></p>
 
 <p><span class="chinese">方法以卵白蛋白致敏豚鼠制备哮喘模型。</span><span class="english">Methods Experimental asthma model of guinea pigs was induced by ovalbumin in vivo.</span></p>

@@ -1,5 +1,7 @@
 # dewater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dewater.md)
+
 <p><span class="chinese">合成了高分子量的聚合物，这些聚合物是很好的清水剂。</span><span class="english">These polymers can be used as the better dewater agents.</span></p>
 
 <p><span class="chinese">一个水池泵是用来脱水地下室爬位。</span><span class="english">A sump pump is used to dewater basements and crawl spaces.</span></p>

@@ -1,5 +1,7 @@
 # 功臣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchen.md)
+
 <p><span class="chinese">而我被认为大功臣。</span><span class="english">And I am deemed responsible for it.</span></p>
 
 <p><span class="chinese">可恨的是罪恶而非功臣。</span><span class="english">Hate the sin but not the blackmailer.</span></p>

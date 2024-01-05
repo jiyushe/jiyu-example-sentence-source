@@ -1,5 +1,7 @@
 # buccal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buccal.md)
+
 <p><span class="chinese">口干可以吃什么？？？</span><span class="english">What can buccal doing eat? ? ?</span></p>
 
 <p><span class="chinese">颊部有紫蓝色斑点。</span><span class="english">Buccal have purplish blue stain.</span></p>

@@ -1,5 +1,7 @@
 # 丰功伟绩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenggongweiji.md)
+
 <p><span class="chinese">我渴望着漫游丰功伟绩的圣地。</span><span class="english">I longed to wander over the scenes of renowned achievement.</span></p>
 
 <p><span class="chinese">自然对共和国的60年的历程及其丰功伟绩少不了要称颂一番。</span><span class="english">Naturally, the 60 years of the Republic and what it has done are extolled.</span></p>

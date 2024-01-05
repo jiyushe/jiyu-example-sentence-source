@@ -1,5 +1,7 @@
 # 突击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuji.md)
+
 <p><span class="chinese">他在突击学习英语。</span><span class="english">He's boning up on English.</span></p>
 
 <p><span class="chinese">潜伏，侦察，突击！</span><span class="english">Conceal, reconnoiter, assault!</span></p>

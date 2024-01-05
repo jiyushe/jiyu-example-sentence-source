@@ -1,5 +1,7 @@
 # impermeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impermeable.md)
+
 <p><span class="chinese">因此粘土和页岩就往往不透水。</span><span class="english">Thus clays and shales tend to be impermeable.</span></p>
 
 <p><span class="chinese">因此粘土和页岩就往往不透水。</span><span class="english">Thus clays and shales tend to be impermeable.</span></p>

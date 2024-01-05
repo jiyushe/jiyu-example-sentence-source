@@ -1,5 +1,7 @@
 # 绞索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaosuo_1.md)
+
 <p><span class="chinese">我的脖子上套着二道绞索。</span><span class="english">Three nooses round me here.</span></p>
 
 <p><span class="chinese">我们的祖母也被绞索绞死。</span><span class="english">Our grandmamas swung on them nooses.</span></p>

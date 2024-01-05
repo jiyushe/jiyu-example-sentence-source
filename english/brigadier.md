@@ -1,5 +1,7 @@
 # brigadier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brigadier.md)
+
 <p><span class="chinese">“邓粹是新官上任三把火，”旅长解释道。</span><span class="english">Daintry'the brigadier explained'is our new broom . '</span></p>
 
 <p><span class="chinese">我们向贝尔这样的勇敢士兵致敬！</span><span class="english">We salute our brave soldiers such as Brigadier Behl!</span></p>

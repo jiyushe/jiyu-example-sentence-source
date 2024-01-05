@@ -1,5 +1,7 @@
 # hapless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hapless.md)
+
 <p><span class="chinese">日本政府也够倒霉的。</span><span class="english">The Japanese government has been hapless.</span></p>
 
 <p><span class="chinese">法官吐露出的答复令人感到丧气和没有希望的。</span><span class="english">The judge`s answer came across as hapless and pathetic.</span></p>

@@ -1,5 +1,7 @@
 # 细心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixin_1.md)
+
 <p><span class="chinese">我是一个很细心的人。</span><span class="english">I'm a careful man.</span></p>
 
 <p><span class="chinese">汤母是个细心谨慎的人。</span><span class="english">Tom is a prudent man.</span></p>

@@ -1,5 +1,7 @@
 # arrogantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrogantly.md)
+
 <p><span class="chinese">甲虫傲慢地说。</span><span class="english">Beetle said arrogantly.</span></p>
 
 <p><span class="chinese">他傲慢地坚持己见。</span><span class="english">He insisted arrogantly.</span></p>

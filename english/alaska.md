@@ -1,5 +1,7 @@
 # alaska
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alaska.md)
+
 <p><span class="chinese">我们赴年搭游轮到阿拉斯加。</span><span class="english">We cruised to Alaska last year.</span></p>
 
 <p><span class="chinese">阿拉斯加蟹爪，冻虾，翡翠螺。</span><span class="english">Alaska Crab Claw, Shrimp, Whelk.</span></p>

@@ -1,5 +1,7 @@
 # 栅极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanji_2.md)
+
 <p><span class="chinese">栅极电路发生故障。</span><span class="english">The grid circuit is out of order.</span></p>
 
 <p><span class="chinese">那么屏栅极电阻呢？</span><span class="english">What about screen grid resistors?</span></p>

@@ -1,5 +1,7 @@
 # worse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worse.md)
+
 <p><span class="chinese">不行，那更糟糕。</span><span class="english">No, that's worse.</span></p>
 
 <p><span class="chinese">但事情却变得更糟。</span><span class="english">But it gets worse.</span></p>

@@ -1,5 +1,7 @@
 # mayday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mayday.md)
+
 <p><span class="chinese">显然，没有发出求救呼吁。</span><span class="english">Apparently, no mayday call was issued.</span></p>
 
 <p><span class="chinese">我希望你在救难信号上有壮观的时间。</span><span class="english">I hope you have a grand time on MayDay.</span></p>

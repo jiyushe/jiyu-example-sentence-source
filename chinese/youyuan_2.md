@@ -1,5 +1,7 @@
 # 悠远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyuan_2.md)
+
 <p><span class="chinese">她想起了悠远的往事。</span><span class="english">She recalled the events of the distant past.</span></p>
 
 <p><span class="chinese">陈蔚的心性和作品安静而悠远。</span><span class="english">Chen Wei's mind and works are quiet and remote.</span></p>

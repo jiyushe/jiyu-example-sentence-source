@@ -1,5 +1,7 @@
 # 事必躬亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibigongqin.md)
+
 <p><span class="chinese">我的老板是一个事必躬亲的人。</span><span class="english">My boss has a finger in every pie.</span></p>
 
 <p><span class="chinese">运营商公开表示欣赏周的事必躬亲的态度。</span><span class="english">Operators profess admiration for Chou's hands-on approach.</span></p>

@@ -1,5 +1,7 @@
 # compartmentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compartmentation.md)
+
 <p><span class="chinese">充分的机械，储物仓，水密仓的船体空间布局。</span><span class="english">Hull space for machinery, storage, compartmentation is adequate.</span></p>
 
 <p><span class="chinese">对水解酶间隔作用作完全分析是很难达到的。</span><span class="english">A complete analysis of the compartmentation of hydrolases is difficult to achieve.</span></p>

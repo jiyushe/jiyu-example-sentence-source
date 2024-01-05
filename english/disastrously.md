@@ -1,5 +1,7 @@
 # disastrously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disastrously.md)
+
 <p><span class="chinese">这一天，詹妮弗·帕克一清早就闯下了大祸。</span><span class="english">Jennifer Parker's day had started disastrously.</span></p>
 
 <p><span class="chinese">史丹利骑单车横越加拿大的计画出了大问题。</span><span class="english">Stanley's plan to cycle across Canada went disastrously wrong.</span></p>

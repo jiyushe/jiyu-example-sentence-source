@@ -1,5 +1,7 @@
 # resoundingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resoundingly.md)
+
 <p><span class="chinese">这星期，他的意见轰动性的被第九巡回法院赞成了。</span><span class="english">This week, he was resoundingly upheld by the Ninth Circuit.</span></p>
 
 <p><span class="chinese">团结到一起来，你们克服逆境取得了胜利。</span><span class="english">Together, you triumphed resoundingly over this rare adversity.</span></p>

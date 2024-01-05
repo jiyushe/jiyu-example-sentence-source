@@ -1,5 +1,7 @@
 # zona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zona.md)
+
 <p><span class="chinese">两个红色冠细胞粘贴在透明带状物上。</span><span class="english">Two coronal cells are attached to the zona pellicuda.</span></p>
 
 <p><span class="chinese">肾上腺皮质束状带的内分泌细胞。</span><span class="english">The secretory cells of the zona fasciculata in the adrenal gland.</span></p>

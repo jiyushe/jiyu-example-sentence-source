@@ -1,5 +1,7 @@
 # sieve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sieve.md)
+
 <p><span class="chinese">竹蓝打水一场空。</span><span class="english">Draw water with a sieve.</span></p>
 
 <p><span class="chinese">竹篮子打水一场空。</span><span class="english">Draw water with a sieve.</span></p>

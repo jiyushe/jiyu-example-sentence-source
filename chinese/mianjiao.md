@@ -1,5 +1,7 @@
 # 面交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianjiao.md)
+
 <p><span class="chinese">槟城的买家，可以选择面交。</span><span class="english">For PENANG customer, we can MEET UP.</span></p>
 
 <p><span class="chinese">通常你用面交的送货天数?。</span><span class="english">Usually you use Face to face delivery days?</span></p>

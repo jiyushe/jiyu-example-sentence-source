@@ -1,5 +1,7 @@
 # quai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quai.md)
+
 <p><span class="chinese">弗雷德里克·米斯特尔码头处，建筑物的百叶窗和阳台。</span><span class="english">Shutters and balconies on building on Quai Frederic Mistral.</span></p>
 
 <p><span class="chinese">如果你想坐游艇巴士去那里旅游的话，到密特朗码头上岸。</span><span class="english">If you're traveling by Batobus, get off at the Louvre stop, quai Francois Mitterrand.</span></p>

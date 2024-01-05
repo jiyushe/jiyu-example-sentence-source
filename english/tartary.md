@@ -1,5 +1,7 @@
 # tartary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tartary.md)
+
 <p><span class="chinese">目的测定苦荞菜中总黄酮的含量。</span><span class="english">Objective To determine the content of total flavonoids from tartary buckwheat.</span></p>
 
 <p><span class="chinese">荞麦有苦荞和甜荞两个栽培种。</span><span class="english">The buckwheat has two cultivated species, tartary buckwheat and common buckwheat.</span></p>

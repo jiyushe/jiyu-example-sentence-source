@@ -1,5 +1,7 @@
 # specialize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specialize.md)
+
 <p><span class="chinese">你专攻什么方向？</span><span class="english">What do you specialize in?</span></p>
 
 <p><span class="chinese">我们专营羊绒衫。</span><span class="english">We specialize in cashmere sweaters.</span></p>

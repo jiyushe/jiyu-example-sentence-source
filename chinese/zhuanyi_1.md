@@ -1,5 +1,7 @@
 # 转义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyi_1.md)
+
 <p><span class="chinese">在基本语法中它必须转义。</span><span class="english">It must be escaped in basic syntax.</span></p>
 
 <p><span class="chinese">所有的变量缺省地都是HTML转义的。</span><span class="english">All variables are HTML escaped by default.</span></p>

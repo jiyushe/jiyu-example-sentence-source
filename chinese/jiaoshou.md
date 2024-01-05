@@ -1,5 +1,7 @@
 # 交手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoshou.md)
+
 <p><span class="chinese">唐壁与程咬金交手没几个回合。</span><span class="english">Tang wall and cheng bite play gold few rounds.</span></p>
 
 <p><span class="chinese">卢克在泰雷丰与卢米娅交手，斩下了她的首级。</span><span class="english">On Terephon, Luke beheaded her after a struggle.</span></p>

@@ -1,5 +1,7 @@
 # 爱侣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ailv.md)
+
 <p><span class="chinese">不仅在爱侣之间，在朋友或家人之间也存在这一现象。</span><span class="english">It happens with friends and family, too.</span></p>
 
 <p><span class="chinese">可是，我敢指天发誓，我的爱侣。</span><span class="english">And yet, by heaven, I think my love as rare.</span></p>

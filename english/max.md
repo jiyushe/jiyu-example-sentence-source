@@ -1,5 +1,7 @@
 # max
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/max.md)
+
 <p><span class="chinese">所以这是max，val函数。</span><span class="english">So here's max val.</span></p>
 
 <p><span class="chinese">随着偏光镜和最大。</span><span class="english">With a polarizer and max.</span></p>

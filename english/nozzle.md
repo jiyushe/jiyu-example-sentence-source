@@ -1,5 +1,7 @@
 # nozzle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nozzle.md)
+
 <p><span class="chinese">然后把油枪嘴放进油箱里。</span><span class="english">Then put the nozzle into your gas tank.</span></p>
 
 <p><span class="chinese">能不能装一个气门芯儿？</span><span class="english">Can you install an inner tube air nozzle?</span></p>

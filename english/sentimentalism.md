@@ -1,5 +1,7 @@
 # sentimentalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sentimentalism.md)
+
 <p><span class="chinese">杜甫亦具有闲逸情调。</span><span class="english">Du also possesses leisure sentimentalism.</span></p>
 
 <p><span class="chinese">那是一本充满著感伤主义的小说。</span><span class="english">That is a novel reeking with sentimentalism.</span></p>

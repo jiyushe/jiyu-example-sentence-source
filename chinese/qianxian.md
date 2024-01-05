@@ -1,5 +1,7 @@
 # 前嫌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianxian.md)
+
 <p><span class="chinese">让我们尽释前嫌吧。</span><span class="english">Let's put all these behind us.</span></p>
 
 <p><span class="chinese">快乐的途径是不计前嫌，主动和好。</span><span class="english">The way to be happy is to let go, and reach out.</span></p>

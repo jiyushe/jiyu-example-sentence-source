@@ -1,5 +1,7 @@
 # 表里如一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoliruyi.md)
+
 <p><span class="chinese">要说真有表里如一的人的话，那就是此公了。</span><span class="english">Here if ever was a man all of a piece.</span></p>
 
 <p><span class="chinese">要想做到表里如一，还需另加花费。</span><span class="english">To do think that would otherwise cost.</span></p>

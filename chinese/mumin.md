@@ -1,5 +1,7 @@
 # 牧民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mumin.md)
+
 <p><span class="chinese">牧民可能想要电篱笆以围住放牧区。</span><span class="english">I can take up to four people in my car.</span></p>
 
 <p><span class="chinese">牧民在草原上策马前进。</span><span class="english">The herdsmen pranced on the grasslands.</span></p>

@@ -1,5 +1,7 @@
 # unbound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbound.md)
+
 <p><span class="chinese">我们的面颊苍白，我们的长发披散</span><span class="english">Our cheeks are pale, our hair is unbound</span></p>
 
 <p><span class="chinese">对未连接套接字和非绑定套接字的支持</span><span class="english">Support for unconnected and unbound sockets</span></p>

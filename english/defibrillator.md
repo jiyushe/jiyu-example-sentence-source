@@ -1,5 +1,7 @@
 # defibrillator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defibrillator.md)
+
 <p><span class="chinese">他的话就像一台心情减颤器。</span><span class="english">His words were like a mood defibrillator.</span></p>
 
 <p><span class="chinese">去纤颤器是用来使心脏回到正常的跳动节奏的器具。</span><span class="english">A defibrillator is the device used to shock the heart back to normal rhythm.</span></p>

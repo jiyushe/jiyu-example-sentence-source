@@ -1,5 +1,7 @@
 # 无缝钢管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wufenggangguan.md)
+
 <p><span class="chinese">优质的圆管坯是生产高质量无缝钢管的前提。</span><span class="english">No quality round bloom, no quality seamless steel tube.</span></p>
 
 <p><span class="chinese">可以定做各种管坯及无缝钢管。</span><span class="english">Can be customized and seamless steel tubes of various tube.</span></p>

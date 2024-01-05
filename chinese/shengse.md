@@ -1,5 +1,7 @@
 # 生涩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengse.md)
+
 <p><span class="chinese">接缝或生涩不会受损。</span><span class="english">Will not damage seams or welts.</span></p>
 
 <p><span class="chinese">我弹吉它时指法都很生涩。</span><span class="english">I am all thumbs when I play the guitar.</span></p>

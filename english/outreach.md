@@ -1,5 +1,7 @@
 # outreach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outreach.md)
+
 <p><span class="chinese">富士公司也为教育宣传活动提供支持。</span><span class="english">They also support educational outreach.</span></p>
 
 <p><span class="chinese">它甚至延伸到新传媒。</span><span class="english">The outreach extends to new media as well.</span></p>

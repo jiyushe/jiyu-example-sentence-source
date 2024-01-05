@@ -1,5 +1,7 @@
 # bioelectricity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioelectricity.md)
+
 <p><span class="chinese">在碳上，生物电也是赢家。</span><span class="english">On carbon, too, bioelectricity was a winner.</span></p>
 
 <p><span class="chinese">可以说是一种特殊的生物电诊断仪器。</span><span class="english">It was a kind of special bioelectricity examination instrument.</span></p>

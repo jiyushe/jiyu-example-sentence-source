@@ -1,5 +1,7 @@
 # avidly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avidly.md)
+
 <p><span class="chinese">许多马耳他人热衷于英式足球比赛。</span><span class="english">Many Maltese avidly follow English football matches.</span></p>
 
 <p><span class="chinese">如果你是英国人，你会迫切地要捍卫你的文字。</span><span class="english">And if you are English, you'd avidly defend your words.</span></p>

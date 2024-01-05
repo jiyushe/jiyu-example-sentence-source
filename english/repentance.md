@@ -1,5 +1,7 @@
 # repentance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repentance.md)
+
 <p><span class="chinese">这就是忏的意思。</span><span class="english">This is the meaning of repentance.</span></p>
 
 <p><span class="chinese">从长短期高兴悔改。</span><span class="english">From short pleasure long repentance.</span></p>

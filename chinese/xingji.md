@@ -1,5 +1,7 @@
 # 形迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingji.md)
+
 <p><span class="chinese">那名在学校附近形迹可疑的男子是谁？</span><span class="english">Who is that suspicious-looking man near the school?</span></p>
 
 <p><span class="chinese">她在路上东张西望的，形迹十分可疑。</span><span class="english">She looked around this way and that in a dubious manner.</span></p>

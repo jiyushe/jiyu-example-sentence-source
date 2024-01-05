@@ -1,5 +1,7 @@
 # 含情脉脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanqingmomo.md)
+
 <p><span class="chinese">他含情脉脉的看着我。</span><span class="english">He looks me with felling.</span></p>
 
 <p><span class="chinese">她含情脉脉地看了他一眼，朝他微笑。</span><span class="english">She gave him a tender look and smiled.</span></p>

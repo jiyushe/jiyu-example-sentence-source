@@ -1,5 +1,7 @@
 # 推己及人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuijijiren.md)
+
 <p><span class="chinese">站在“我者”的立场上以推己及人的思想方法关照对象世界。</span><span class="english">It is a way to look at the object world from the standpoint of 'Self'.</span></p>
 
 <p><span class="chinese">推己及人，我希望每辆班车都可以展现出本学校的风采。</span><span class="english">Appreciate others, I hope that each bus can be demonstrated in this school in Seattle.</span></p>

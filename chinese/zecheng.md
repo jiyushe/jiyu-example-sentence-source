@@ -1,5 +1,7 @@
 # 责成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zecheng.md)
+
 <p><span class="chinese">将军责成我制订战略行动计划。</span><span class="english">The general ordered me to strategize.</span></p>
 
 <p><span class="chinese">她被责成更俭省地生活。</span><span class="english">She was enjoined to live more frugally.</span></p>

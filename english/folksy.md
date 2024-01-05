@@ -1,5 +1,7 @@
 # folksy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/folksy.md)
+
 <p><span class="chinese">一些人还种上了向日葵，平淡的但给人以戏剧般的梦幻效果。</span><span class="english">Some people have planted sunflowers, for a folksy but dramatic effect.</span></p>
 
 <p><span class="chinese">这些讨论的无拘束的形式可能会使一些读者反感。</span><span class="english">Some readers might be put off by the folksy style of these discussions.</span></p>

@@ -1,5 +1,7 @@
 # ilium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ilium.md)
+
 <p><span class="chinese">记住，坐式本身就会打开骶骨和髂骨之间的“锁”。</span><span class="english">Remember that sitting in and of itself "unlocks" the sacrum and the ilium.</span></p>
 
 <p><span class="chinese">整个髂骨和髋关节都可以通过本切口的髂骨部分到达。</span><span class="english">The entire ilium and hip joint can be reached through the iliac part of the incision.</span></p>

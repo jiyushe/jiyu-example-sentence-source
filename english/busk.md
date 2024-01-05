@@ -1,5 +1,7 @@
 # busk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busk.md)
+
 <p><span class="chinese">不过，我还是在一些城市的街头进行了表演。</span><span class="english">But I did busk in a few cities.</span></p>
 
 <p><span class="chinese">在欧洲，什么样的人会在街上表演呢？</span><span class="english">In Europe, what kinds of people busk?</span></p>

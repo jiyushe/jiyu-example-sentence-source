@@ -1,5 +1,7 @@
 # butler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butler.md)
+
 <p><span class="chinese">白瑞德可不这样想。</span><span class="english">Rhett Butler not think so.</span></p>
 
 <p><span class="chinese">每次都是男管家把餐具摆好。</span><span class="english">The butler always laid the table.</span></p>

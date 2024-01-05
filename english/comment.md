@@ -1,5 +1,7 @@
 # comment 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comment.md)
+
 <p><span class="chinese">我无可奉告。</span><span class="english">No comment.</span></p>
 
 <p><span class="chinese">踊跃发言吧。</span><span class="english">Comment it up.</span></p>

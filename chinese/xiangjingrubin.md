@@ -1,5 +1,7 @@
 # 相敬如宾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjingrubin.md)
+
 <p><span class="chinese">爱情如不能相敬如宾，则无结果。</span><span class="english">Without respect, love cannot go far.</span></p>
 
 <p><span class="chinese">你说我们相敬如宾，倒不如是相敬如冰。</span><span class="english">You say we courteous, it would be owe ice.</span></p>

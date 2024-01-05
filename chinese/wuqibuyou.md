@@ -1,5 +1,7 @@
 # 无奇不有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuqibuyou.md)
+
 <p><span class="chinese">世界之大，无奇不有！</span><span class="english">There's a whole, wide world out there!</span></p>
 
 <p><span class="chinese">天下之大，无奇不有。</span><span class="english">In the great world wonders never cease.</span></p>

@@ -1,5 +1,7 @@
 # debate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debate_1.md)
+
 <p><span class="chinese">为什么要争论这些？</span><span class="english">Why all the debate?</span></p>
 
 <p><span class="chinese">这是个见仁见智的问题。</span><span class="english">This is a matter of debate.</span></p>

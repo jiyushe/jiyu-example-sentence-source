@@ -1,5 +1,7 @@
 # 领班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingban.md)
+
 <p><span class="chinese">喂，领班为什么把你炒了？</span><span class="english">Say, why did the foreman fire you?</span></p>
 
 <p><span class="chinese">果菜市场的领班告诉我。</span><span class="english">The manager of produce market told me.</span></p>

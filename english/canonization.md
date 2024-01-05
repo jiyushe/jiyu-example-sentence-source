@@ -1,5 +1,7 @@
 # canonization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canonization.md)
+
 <p><span class="chinese">死亡是一种自然而然的超凡人圣。</span><span class="english">It is a sort of natural canonization.</span></p>
 
 <p><span class="chinese">百凡新体，只是向来卑不足道之体忽然列品入流。</span><span class="english">New forms are simply canonization of inferior genres.</span></p>

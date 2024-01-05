@@ -1,5 +1,7 @@
 # rind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rind.md)
+
 <p><span class="chinese">他为我剥去了橘子皮。</span><span class="english">He stripped an orange of its rind for me.</span></p>
 
 <p><span class="chinese">你浓稠如脂的肌理和炽热的肤皮使我沉醉不已。</span><span class="english">Thy creamy flesh and hot rind intoxicate me.</span></p>

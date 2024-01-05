@@ -1,5 +1,7 @@
 # conclude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conclude.md)
+
 <p><span class="chinese">现在我们结束典礼的部分。</span><span class="english">We now conclude the ceremony.</span></p>
 
 <p><span class="chinese">作者最后对Volta做了简要总结</span><span class="english">The authors conclude that Volta</span></p>

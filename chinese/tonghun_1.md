@@ -1,5 +1,7 @@
 # 通婚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghun_1.md)
+
 <p><span class="chinese">他来自一个古老的近亲通婚的家族。</span><span class="english">He came from an old inbred family.</span></p>
 
 <p><span class="chinese">但是，它严格族通婚。</span><span class="english">It is, however, strictly endogamous.</span></p>

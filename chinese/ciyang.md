@@ -1,5 +1,7 @@
 # 刺痒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciyang.md)
+
 <p><span class="chinese">我浑身刺痒。</span><span class="english">I itch all over.</span></p>
 
 <p><span class="chinese">由于花粉的过敏，我的眼睛刺痒难受。</span><span class="english">I have hay fever. My e itch.</span></p>

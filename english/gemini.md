@@ -1,5 +1,7 @@
 # gemini
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gemini.md)
+
 <p><span class="chinese">双子座，是你的生辰。</span><span class="english">Go Gemini its your birthday.</span></p>
 
 <p><span class="chinese">处女座和双子座的爱情匹配度</span><span class="english">Virgo and Gemini love compatibility</span></p>

@@ -1,5 +1,7 @@
 # womanly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/womanly.md)
+
 <p><span class="chinese">一副宽阔，标准，坚毅的女人面孔。</span><span class="english">A broad-planed strong, womanly face.</span></p>
 
 <p><span class="chinese">他说，那样会使我更象女人些。</span><span class="english">He said it would make me more womanly.</span></p>

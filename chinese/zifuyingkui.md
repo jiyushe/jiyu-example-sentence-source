@@ -1,5 +1,7 @@
 # 自负盈亏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zifuyingkui.md)
+
 <p><span class="chinese">人生是自负盈亏的。</span><span class="english">Life is their own profits and losses.</span></p>
 
 <p><span class="chinese">与其他自负盈亏的学校比较，这里的学费是低的。</span><span class="english">The fee is low, compared with that at many other in dependent schools.</span></p>

@@ -1,5 +1,7 @@
 # lanolin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lanolin.md)
+
 <p><span class="chinese">羊毛脂，即动物皮毛所分泌的油脂</span><span class="english">Lanolin aka Grease from Animal Fur</span></p>
 
 <p><span class="chinese">如何能确保你们的羊毛脂是最纯净的呢？</span><span class="english">How can you guarantee Lansinoh HPA Lanolin is the purest?</span></p>

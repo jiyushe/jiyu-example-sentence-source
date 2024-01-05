@@ -1,5 +1,7 @@
 # restorable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restorable.md)
+
 <p><span class="chinese">梳理通顺，自然晾干，晾干后即可恢复原状。</span><span class="english">Comb clear and coherent, natural air, after air can restorable.</span></p>
 
 <p><span class="chinese">当压力失去时，细胞内的空气压力会将细胞恢复原状。</span><span class="english">When pressure is lost, the air pressure inside the cell meeting general cell is restorable.</span></p>

@@ -1,5 +1,7 @@
 # snobby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snobby.md)
+
 <p><span class="chinese">我们都在等，她可能也觉得我臭跩。</span><span class="english">We're all waiting. ' Maybe she also thinks that I am snobby.</span></p>
 
 <p><span class="chinese">自命不凡的李医师，觉得一些病人无知和愚蠢。</span><span class="english">A snobby person, Dr. Lee thinks some patients ignorant and stupid.</span></p>

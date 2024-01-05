@@ -1,5 +1,7 @@
 # uncharitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncharitable.md)
+
 <p><span class="chinese">1983年，爱德华利默对自己所在行业进行严厉批评时如是说道。</span><span class="english">That was Edward Leamer's uncharitable description of his profession in 1983.</span></p>
 
 <p><span class="chinese">但是，我们对待自己都不仁慈的时候，又怎么可能善待他人。</span><span class="english">But how shall we expect charity towards others, when we are uncharitaBle to ourselves.</span></p>

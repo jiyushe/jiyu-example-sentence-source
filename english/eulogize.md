@@ -1,5 +1,7 @@
 # eulogize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eulogize.md)
+
 <p><span class="chinese">我赞美白杨树那挺拔的树干。</span><span class="english">I eulogize the tall and straight trunk of the white poplar.</span></p>
 
 <p><span class="chinese">能让一方百姓永久传颂和怀念的！</span><span class="english">Can let what eulogize and yearn for one party common people is permanent!</span></p>

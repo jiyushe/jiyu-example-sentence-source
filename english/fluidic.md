@@ -1,5 +1,7 @@
 # fluidic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluidic.md)
+
 <p><span class="chinese">介绍了一种新型插入式射流流速计。</span><span class="english">The paper introduces a new insertion fluidic flowrate meter.</span></p>
 
 <p><span class="chinese">同时对射流推力矢量技术作了更详尽的描述。</span><span class="english">In more special, fluidic thrust-vectoring concept is described in more detail.</span></p>

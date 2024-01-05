@@ -1,5 +1,7 @@
 # 毁誉参半
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiyucanban.md)
+
 <p><span class="chinese">对他的新书的评论毁誉参半。</span><span class="english">His new book got mixed reviews.</span></p>
 
 <p><span class="chinese">胡佛留下的遗风毁誉参半。</span><span class="english">Hoover leaves a bipolar legacy.</span></p>

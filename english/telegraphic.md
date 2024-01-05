@@ -1,5 +1,7 @@
 # telegraphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telegraphic.md)
+
 <p><span class="chinese">当然信汇比电汇要便宜多了。</span><span class="english">Of course, it is cheaper than telegraphic transfer.</span></p>
 
 <p><span class="chinese">您要付手续费和电报费。</span><span class="english">You will be charged commissions and telegraphic fees.</span></p>

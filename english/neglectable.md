@@ -1,5 +1,7 @@
 # neglectable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neglectable.md)
+
 <p><span class="chinese">因此，洋流的年代际变化对海温的影响也是不可忽视的。</span><span class="english">So the affection of ocean current to ocean temperature is not neglectable.</span></p>
 
 <p><span class="chinese">取每个波形的存储样值点数为128，使得产生的波形失真度较小。</span><span class="english">It has a neglectable distortion for generated waveform, by saving 128 samples.</span></p>

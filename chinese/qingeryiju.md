@@ -1,5 +1,7 @@
 # 轻而易举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingeryiju.md)
+
 <p><span class="chinese">吉姆轻而易举地击败了迪克。</span><span class="english">Jim worsted Dick easily.</span></p>
 
 <p><span class="chinese">别这么轻而易举放弃。</span><span class="english">Let's not give up too soon.</span></p>

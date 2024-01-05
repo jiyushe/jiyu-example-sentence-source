@@ -1,5 +1,7 @@
 # 原子能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzineng.md)
+
 <p><span class="chinese">这被称为原子能的连锁反应。</span><span class="english">That is called the nuclear chain reaction.</span></p>
 
 <p><span class="chinese">原子能是现存的最大能源。</span><span class="english">Nuclear energy is the bigest energy in the extant.</span></p>

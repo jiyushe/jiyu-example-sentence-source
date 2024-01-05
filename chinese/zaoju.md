@@ -1,5 +1,7 @@
 # 造句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoju.md)
+
 <p><span class="chinese">学生表演课本剧并造句。</span><span class="english">Act out and make sentences.</span></p>
 
 <p><span class="chinese">我可以用它来给你造句。</span><span class="english">I'll use it in a sentence for you.</span></p>

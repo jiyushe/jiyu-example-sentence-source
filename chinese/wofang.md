@@ -1,5 +1,7 @@
 # 卧房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wofang.md)
+
 <p><span class="chinese">这间精舍是主人的卧房。</span><span class="english">This nice room is the owner's bedroom.</span></p>
 
 <p><span class="chinese">我想租一个双卧房的公寓。</span><span class="english">I'm interested in a 2-bedroom apartment.</span></p>

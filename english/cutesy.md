@@ -1,5 +1,7 @@
 # cutesy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutesy.md)
+
 <p><span class="chinese">他尖着嗓子娇滴滴的扮狗狗说话真是让我无语了。</span><span class="english">He speaks in a cutesy voice on behalf of the dog.</span></p>
 
 <p><span class="chinese">在美国缅因州的一个城镇，贝索，老天矫揉造作地下了厚厚的一地雪。</span><span class="english">It really snowed a shovel up in the cutesy town of Bethel in Maine, USA.</span></p>

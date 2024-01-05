@@ -1,5 +1,7 @@
 # 空洞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongdong.md)
+
 <p><span class="chinese">谨防空洞的承诺。</span><span class="english">Beware of hollow promises.</span></p>
 
 <p><span class="chinese">他的说教听起来很空洞。</span><span class="english">His preachings rang hollow.</span></p>

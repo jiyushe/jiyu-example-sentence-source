@@ -1,5 +1,7 @@
 # roam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roam.md)
+
 <p><span class="chinese">天空、依旧闲云游荡。</span><span class="english">The sky, still roam idle.</span></p>
 
 <p><span class="chinese">他们热爱奔跑，也喜欢四处漫步。</span><span class="english">They love to gallop and roam.</span></p>

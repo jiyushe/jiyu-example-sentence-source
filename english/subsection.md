@@ -1,5 +1,7 @@
 # subsection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsection.md)
+
 <p><span class="chinese">请参见下一小节中的“说明”。</span><span class="english">See the notes in the following subsection.</span></p>
 
 <p><span class="chinese">中国杜鹃花属高山杜鹃亚组新分类群。</span><span class="english">New taxa of Rhododendron subsection Lapponica from China.</span></p>

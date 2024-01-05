@@ -1,5 +1,7 @@
 # 英姿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingzi_1.md)
+
 <p><span class="chinese">君坐妾之侧，英姿勃发。</span><span class="english">You sat by my side, cool and killing.</span></p>
 
 <p><span class="chinese">君坐妾之侧，长发束于脑后，英姿勃发。</span><span class="english">You sat by my side, long hair tied behind, cool and killing.</span></p>

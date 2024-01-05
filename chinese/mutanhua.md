@@ -1,5 +1,7 @@
 # 木炭画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mutanhua.md)
+
 <p><span class="chinese">木炭画很容易弄脏。</span><span class="english">Charcoal drawings smudge easily.</span></p>
 
 <p><span class="chinese">我们在美术课上学习了木炭画。</span><span class="english">We learned charcoal drawing in the art class.</span></p>

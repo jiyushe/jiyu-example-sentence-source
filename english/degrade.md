@@ -1,5 +1,7 @@
 # degrade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degrade.md)
+
 <p><span class="chinese">这样将降低性能。</span><span class="english">This will degrade performance.</span></p>
 
 <p><span class="chinese">工作记忆的消退有多快？</span><span class="english">How quickly does working memory degrade?</span></p>

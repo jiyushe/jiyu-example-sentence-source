@@ -1,5 +1,7 @@
 # 大白菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabaicai.md)
+
 <p><span class="chinese">嘿，大白菜！我喜欢大白菜。</span><span class="english">Hey, cabbages! I like cabbages.</span></p>
 
 <p><span class="chinese">我记得只有冬储大白菜，对吧？</span><span class="english">I remember it only had winter cabbages, right?</span></p>

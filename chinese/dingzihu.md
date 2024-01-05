@@ -1,5 +1,7 @@
 # 钉子户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzihu.md)
+
 <p><span class="chinese">中国钉子户力争公平。</span><span class="english">Chinese 'nail households' strive for fairness.</span></p>
 
 <p><span class="chinese">大部分上访钉子户都是精神病。</span><span class="english">The most dogged petitioners are often classified as crazy.</span></p>

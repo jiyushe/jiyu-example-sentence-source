@@ -1,5 +1,7 @@
 # rescission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rescission.md)
+
 <p><span class="chinese">第三，解除权的行使与消灭。</span><span class="english">Exertion of the right of rescission is necessary to rescind a contract.</span></p>
 
 <p><span class="chinese">合同解除制度是合同制度的重要内容。</span><span class="english">The regime of contract rescission is an important content in contract system.</span></p>

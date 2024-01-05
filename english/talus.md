@@ -1,5 +1,7 @@
 # talus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talus.md)
+
 <p><span class="chinese">该鞋垫是好的填充，让您在破损距骨舒适。</span><span class="english">The insole is well-padded to keep you comfortable on broken Talus.</span></p>
 
 <p><span class="chinese">然后将距骨及内膘踝向外侧半脱位，显露关节面。</span><span class="english">Then subluxate the talus and malleolus laterally to reach the joint surfaces.</span></p>

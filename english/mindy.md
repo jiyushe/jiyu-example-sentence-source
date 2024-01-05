@@ -1,5 +1,7 @@
 # mindy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mindy.md)
+
 <p><span class="chinese">我真为明迪感到高兴。</span><span class="english">I am so happy for Mindy.</span></p>
 
 <p><span class="chinese">祝福你，明迪公主。</span><span class="english">Bless you, Princess Mindy.</span></p>

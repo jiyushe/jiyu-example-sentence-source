@@ -1,5 +1,7 @@
 # 平添
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingtian.md)
+
 <p><span class="chinese">走起路来，不觉平添了几分尊严。</span><span class="english">A new dignity crept into his walk.</span></p>
 
 <p><span class="chinese">于是，是是非非，纷纷扰扰，生活平添几多愁。</span><span class="english">So, right and wrong, confused, life add much sorrow.</span></p>

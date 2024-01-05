@@ -1,5 +1,7 @@
 # 风行一时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengxingyishi.md)
+
 <p><span class="chinese">那首情歌真是风行一时。</span><span class="english">That love song has really taken on.</span></p>
 
 <p><span class="chinese">他为许多风行一时的音乐片谱曲。</span><span class="english">He wrote scores for many hit musicals.</span></p>

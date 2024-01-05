@@ -1,5 +1,7 @@
 # 翡翠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feicui.md)
+
 <p><span class="chinese">翡翠温柔地冲着他笑了。</span><span class="english">Hisui smiles gently at him.</span></p>
 
 <p><span class="chinese">献给永远的翡翠骑士团。</span><span class="english">The Jade Knightage Never Die.</span></p>

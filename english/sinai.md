@@ -1,5 +1,7 @@
 # sinai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinai.md)
+
 <p><span class="chinese">不要再回到西乃山。</span><span class="english">Do not return to Mt. Sinai.</span></p>
 
 <p><span class="chinese">从利非订起行，安营在西奈的旷野。</span><span class="english">They left Rephidim and camped in the Desert of Sinai.</span></p>

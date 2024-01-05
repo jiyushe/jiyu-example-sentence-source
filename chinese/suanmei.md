@@ -1,5 +1,7 @@
 # 酸梅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanmei.md)
+
 <p><span class="chinese">将酸梅及片糖酿入乳鸽内。</span><span class="english">Fill baby pigeon with pickled plums and brown sugar.</span></p>
 
 <p><span class="chinese">压烂梅子，拌入其馀酸梅汁材料及姜茸。</span><span class="english">Mash pickled plums, mix well with remaining seasoning and chopped ginger.</span></p>

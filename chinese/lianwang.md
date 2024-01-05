@@ -1,5 +1,7 @@
 # 连网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianwang.md)
+
 <p><span class="chinese">而连网也有麻烦。</span><span class="english">And networking can be tricky.</span></p>
 
 <p><span class="chinese">连网选项提供更多安全措施。</span><span class="english">Networking options provide additional security.</span></p>

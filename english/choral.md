@@ -1,5 +1,7 @@
 # choral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choral.md)
+
 <p><span class="chinese">他曾帮助创作合唱交响曲。</span><span class="english">He helped to accouche choral symphony.</span></p>
 
 <p><span class="chinese">这是最好的合唱曲。</span><span class="english">This is choral music of the first water.</span></p>

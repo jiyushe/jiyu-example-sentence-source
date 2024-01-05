@@ -1,5 +1,7 @@
 # warmly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warmly.md)
+
 <p><span class="chinese">蒂姆热情地招呼她。</span><span class="english">Tim greets her warmly.</span></p>
 
 <p><span class="chinese">她热情地握我的手。</span><span class="english">She pressed my hand warmly.</span></p>

@@ -1,5 +1,7 @@
 # 矢量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiliang.md)
+
 <p><span class="chinese">就是这个矢量。</span><span class="english">This is that vector.</span></p>
 
 <p><span class="chinese">其它还有哪些矢量</span><span class="english">How about more vectors?</span></p>

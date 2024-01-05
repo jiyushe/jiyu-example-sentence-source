@@ -1,5 +1,7 @@
 # regrettably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regrettably.md)
+
 <p><span class="chinese">但是他遗憾地说，去上学的学生不会很多。</span><span class="english">But, he says regrettably it will not be very many.</span></p>
 
 <p><span class="chinese">我的初吻是在一次学校的舞会上，很遗憾地被引导员夺走了。</span><span class="english">My first kiss was at a school dance, regrettably to Usher's “Burn.</span></p>

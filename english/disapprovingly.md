@@ -1,5 +1,7 @@
 # disapprovingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disapprovingly.md)
+
 <p><span class="chinese">只有王妃的姑母坐在屋子的角落里，不以为然地喝着茶。</span><span class="english">The Rani's aunt sat in a corner of the room, drinking tea disapprovingly.</span></p>
 
 <p><span class="chinese">可我也注意到盥洗槽旁边有个女人，她一直看着我，还不以为然地摇着头。</span><span class="english">I also noticed a woman at a sink nearby watching me and shaking her head disapprovingly.</span></p>

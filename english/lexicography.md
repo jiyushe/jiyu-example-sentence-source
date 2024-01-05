@@ -1,5 +1,7 @@
 # lexicography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lexicography.md)
+
 <p><span class="chinese">属于或关于词典编纂法的。</span><span class="english">Of or relating to lexicography or a lexicon.</span></p>
 
 <p><span class="chinese">这本书填补了词典学方面的重大缺门。</span><span class="english">This book fills a major gap in lexicography.</span></p>

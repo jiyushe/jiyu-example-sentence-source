@@ -1,5 +1,7 @@
 # phonology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phonology.md)
+
 <p><span class="chinese">先说语音</span><span class="english">So, phonology.</span></p>
 
 <p><span class="chinese">语音是声音,语态则是词</span><span class="english">Phonology is sounds. Morphology is words.</span></p>

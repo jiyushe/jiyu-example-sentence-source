@@ -1,5 +1,7 @@
 # calabria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calabria.md)
+
 <p><span class="chinese">作为一个意大利人的姓氏，据说Paparazzo在卡拉布里亚地区很常见。</span><span class="english">As an Italian family name Paparazzo is said to be common in Calabria.</span></p>
 
 <p><span class="chinese">在南部的卡拉布利亚进行的一系列黎明袭击中，警方大约进行了40次抓捕行动。</span><span class="english">Forty arrests were made in a series of dawn raids in Calabria in the south.</span></p>

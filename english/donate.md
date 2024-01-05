@@ -1,5 +1,7 @@
 # donate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/donate.md)
+
 <p><span class="chinese">献血是我们的义务。</span><span class="english">To donate is our duty.</span></p>
 
 <p><span class="chinese">给学校捐书。</span><span class="english">Donate books to schools.</span></p>

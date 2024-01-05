@@ -1,5 +1,7 @@
 # beget
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beget.md)
+
 <p><span class="chinese">大的爱就产生大的信心。</span><span class="english">Great love will beget great faith.</span></p>
 
 <p><span class="chinese">积极向上的思维可以产生积极的结果。</span><span class="english">Positive thoughts beget positive results.</span></p>

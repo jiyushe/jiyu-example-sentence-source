@@ -1,5 +1,7 @@
 # 邻村
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lincun.md)
+
 <p><span class="chinese">明天是邻村市集的日子。</span><span class="english">To-morrow is market day in the next village.</span></p>
 
 <p><span class="chinese">我们必须过那座桥才能到邻村。</span><span class="english">We must cross the bridge to go into the neighboring village.</span></p>

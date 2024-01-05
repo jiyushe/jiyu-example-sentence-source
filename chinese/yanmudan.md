@@ -1,5 +1,7 @@
 # 烟幕弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmudan.md)
+
 <p><span class="chinese">然而，这也可能仅仅只是个烟幕弹。</span><span class="english">It may also be a smokescreen.</span></p>
 
 <p><span class="chinese">我想知道他们在放什么烟幕弹。</span><span class="english">I wonder what they're smoking.</span></p>

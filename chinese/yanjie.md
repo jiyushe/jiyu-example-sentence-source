@@ -1,5 +1,7 @@
 # 沿街
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjie.md)
+
 <p><span class="chinese">他沿街飞驰而去。</span><span class="english">He flew down the street.</span></p>
 
 <p><span class="chinese">他沿街急行。</span><span class="english">He speeded down the street.</span></p>

@@ -1,5 +1,7 @@
 # 旗帜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizhi_3.md)
+
 <p><span class="chinese">旗帜在风中飘舞着。</span><span class="english">Flags danced in the wind.</span></p>
 
 <p><span class="chinese">三色旗帜到处都是。</span><span class="english">The tricolor is everywhere.</span></p>

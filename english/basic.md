@@ -1,5 +1,7 @@
 # basic 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basic.md)
+
 <p><span class="chinese">这是基本概念。</span><span class="english">This is the basic idea.</span></p>
 
 <p><span class="chinese">这是概率论中最基本的概念</span><span class="english">So that's the basic idea.</span></p>

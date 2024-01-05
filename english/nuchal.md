@@ -1,5 +1,7 @@
 # nuchal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nuchal.md)
+
 <p><span class="chinese">突出的后脑，拱形的头顶。</span><span class="english">Prominent nuchal crest. Domed skull.</span></p>
 
 <p><span class="chinese">此外，其他非三体异常可能也表明扩大颈部透明度。</span><span class="english">Further, other, non-trisomic abnormalities may also demonstrate an enlarged nuchal transparency.</span></p>

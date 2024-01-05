@@ -1,5 +1,7 @@
 # exaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exaction.md)
+
 <p><span class="chinese">这种苛捐杂税被查理一世加以恢复。</span><span class="english">The exaction was revived by Richard I.</span></p>
 
 <p><span class="chinese">作为年迈的领导人，冷酷无情制度的苛求使他心力交瘁。</span><span class="english">The aged leader was exhausted by the exaction of a pitiless system.</span></p>

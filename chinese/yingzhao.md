@@ -1,5 +1,7 @@
 # 映照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingzhao.md)
+
 <p><span class="chinese">光线映照在他脸上。</span><span class="english">Light struck on his face.</span></p>
 
 <p><span class="chinese">这个词的意思是月光映照在水面上。</span><span class="english">It means moonlight shining on water.</span></p>

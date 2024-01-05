@@ -1,5 +1,7 @@
 # meltwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meltwater.md)
+
 <p><span class="chinese">融化的冰水在平坦冰冻的海面上形成水坑。</span><span class="english">The meltwater puddled the flat sea ice.</span></p>
 
 <p><span class="chinese">在春天因为融化的雪水很多小溪都涨满了。</span><span class="english">In spring the brooks would run high with meltwater.</span></p>

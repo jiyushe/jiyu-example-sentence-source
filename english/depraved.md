@@ -1,5 +1,7 @@
 # depraved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depraved.md)
+
 <p><span class="chinese">这是思想堕落者所为。</span><span class="english">This is the work of a depraved mind.</span></p>
 
 <p><span class="chinese">换句话说，世界上野生动物的行为是堕落不堪的。</span><span class="english">The world’s wildlife, in other words, is depraved.</span></p>

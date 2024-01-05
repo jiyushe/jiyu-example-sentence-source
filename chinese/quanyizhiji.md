@@ -1,5 +1,7 @@
 # 权宜之计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanyizhiji.md)
+
 <p><span class="chinese">但那将是一个愚蠢的权宜之计。</span><span class="english">But that would be crassly expedient.</span></p>
 
 <p><span class="chinese">这些可能在最终都只是一些权宜之计。</span><span class="english">These may end up being stop-gap measure.</span></p>

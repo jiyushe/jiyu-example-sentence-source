@@ -1,5 +1,7 @@
 # copiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copiously.md)
+
 <p><span class="chinese">如果有人为我泪如雨下。</span><span class="english">If has artificial me to weep copiously.</span></p>
 
 <p><span class="chinese">大量使用颜色，图形、符号。</span><span class="english">Use colors, drawings and symbols copiously.</span></p>

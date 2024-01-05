@@ -1,5 +1,7 @@
 # 辩解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianjie_1.md)
+
 <p><span class="chinese">他以微弱的声音作无力的辩解。</span><span class="english">He bleated out a feeble excuse.</span></p>
 
 <p><span class="chinese">不要为这样的需求辩解。</span><span class="english">Do not apologise for these needs.</span></p>

@@ -1,5 +1,7 @@
 # onion 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onion_1.md)
+
 <p><span class="chinese">没有洋葱圈？</span><span class="english">No onion rings?</span></p>
 
 <p><span class="chinese">把洋葱切细。</span><span class="english">Chop an onion finely.</span></p>

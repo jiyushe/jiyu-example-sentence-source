@@ -1,5 +1,7 @@
 # 和睦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hemu.md)
+
 <p><span class="chinese">保持和睦胜过讲和。</span><span class="english">Better keep peace than make peace.</span></p>
 
 <p><span class="chinese">他们夫妇一向和和睦睦，相亲相爱。</span><span class="english">They were a quiet and fond couple.</span></p>

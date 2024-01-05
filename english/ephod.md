@@ -1,5 +1,7 @@
 # ephod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ephod.md)
+
 <p><span class="chinese">大卫另外穿着细麻布的以弗得。</span><span class="english">David also wore a linen ephod.</span></p>
 
 <p><span class="chinese">你要做以弗得的外袍，颜色全是蓝的。</span><span class="english">Make the robe of the ephod entirely of blue cloth</span></p>

@@ -1,5 +1,7 @@
 # berth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berth.md)
+
 <p><span class="chinese">请问要卧铺还是硬座?。</span><span class="english">Berth or hard seat?</span></p>
 
 <p><span class="chinese">哪个睡铺是我的?。</span><span class="english">Which berth is mine?</span></p>

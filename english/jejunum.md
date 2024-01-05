@@ -1,5 +1,7 @@
 # jejunum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jejunum.md)
+
 <p><span class="chinese">空肠器官表面动脉吻合网面密度大于回肠。</span><span class="english">The atonomosis meshs density of the jejunum was larger than the ileums.</span></p>
 
 <p><span class="chinese">回肠从空肠延至盲肠之间的小肠的最后。</span><span class="english">The terminal portion of the small intestine extending from the jejunum to the cecum.</span></p>

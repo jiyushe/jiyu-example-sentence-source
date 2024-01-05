@@ -1,5 +1,7 @@
 # substituent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substituent.md)
+
 <p><span class="chinese">并对取代基效应作了解释。</span><span class="english">The substituent effect was discussed.</span></p>
 
 <p><span class="chinese">本发明涉及取代基戊二酸酐的制备方法。</span><span class="english">This invention relates to a preparation method of substituent glutaric acid anhydride.</span></p>

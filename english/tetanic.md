@@ -1,5 +1,7 @@
 # tetanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetanic.md)
+
 <p><span class="chinese">中毒动物因持续强直性惊厥导致呼吸衰竭死亡。</span><span class="english">The animals with poisoning died due to respiratory failure caused by persistent tetanic convulsion.</span></p>
 
 <p><span class="chinese">在运动中手指触到地板上或举起一个物体的时候，绝不可使双膝僵直。</span><span class="english">It is not allowed that both knees are tetanic when fingers touch floor or lift an object during exercising.</span></p>

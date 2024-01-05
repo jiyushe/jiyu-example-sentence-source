@@ -1,5 +1,7 @@
 # mate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mate.md)
+
 <p><span class="chinese">我们“偷猎”！</span><span class="english">We "mate poach".</span></p>
 
 <p><span class="chinese">她是一个好伴侣。</span><span class="english">She was a good mate.</span></p>

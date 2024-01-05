@@ -1,5 +1,7 @@
 # marketplace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marketplace.md)
+
 <p><span class="chinese">这个市场既吵杂又脏乱。</span><span class="english">The marketplace is noisy and dirty.</span></p>
 
 <p><span class="chinese">物品在市场上的售价是多少？</span><span class="english">How much of it is out in the marketplace?</span></p>

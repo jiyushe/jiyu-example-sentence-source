@@ -1,5 +1,7 @@
 # thermophysical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermophysical.md)
+
 <p><span class="chinese">其中热力学相关的函数同时支持国际标准单位和英制单位。</span><span class="english">Thermophysical property functions operate in either SI and English units.</span></p>
 
 <p><span class="chinese">导热系数是材料热物理性质的重要参数之一。</span><span class="english">Thermal conductivity is one of the most important parameters of thermophysical properties of materials.</span></p>

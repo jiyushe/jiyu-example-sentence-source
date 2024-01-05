@@ -1,5 +1,7 @@
 # potherb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potherb.md)
+
 <p><span class="chinese">芬芳的熟食叶用菜，由于其味道可口，可用于烹调。</span><span class="english">Aromatic potherb used in cookery for its savory qualities.</span></p>
 
 <p><span class="chinese">绿色蔬菜，无污染，北方特有的山野菜。</span><span class="english">Green vegetables, pollution-free, the Northern unique Potherb.</span></p>

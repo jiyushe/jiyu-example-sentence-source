@@ -1,5 +1,7 @@
 # 奇险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixian_1.md)
+
 <p><span class="chinese">虎跳峡是世界上著名的大峡谷，以奇险雄壮著称于世。</span><span class="english">Tiger leaping gorge is the world famous grand canyon, and grotesque known to the world.</span></p>
 
 <p><span class="chinese">奇险洞穴中再现了一场终极的探险，主角是一群日渐成长，初生牛犊般的年轻探险家。</span><span class="english">For a growing band of intrepid young Chinese explorers caves represent the ultimate adventure.</span></p>

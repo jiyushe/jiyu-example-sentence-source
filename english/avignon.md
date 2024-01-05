@@ -1,5 +1,7 @@
 # avignon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avignon.md)
+
 <p><span class="chinese">到了法国南部的阿维尼翁。</span><span class="english">To Avignon in the south of France.</span></p>
 
 <p><span class="chinese">一位住在罗马，另一位住在阿维尼翁。</span><span class="english">One lived in Rome, the other in Avignon.</span></p>

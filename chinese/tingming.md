@@ -1,5 +1,7 @@
 # 听命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingming.md)
+
 <p><span class="chinese">倘君指挥有方，人人欣然听命。</span><span class="english">If you command wisely, youll be obeyed cheerfully.</span></p>
 
 <p><span class="chinese">只有学会听命于人才，方能学会施命于人。</span><span class="english">Only learn to obey command can you command others.</span></p>

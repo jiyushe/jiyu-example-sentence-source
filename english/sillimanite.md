@@ -1,5 +1,7 @@
 # sillimanite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sillimanite.md)
+
 <p><span class="chinese">利用XRD和SEM研究了热处理过程中硅线石的分解情况。</span><span class="english">The decomposition of sillimanite was studied by XRD and SEM.</span></p>
 
 <p><span class="chinese">红柱石属多晶型物，含蓝晶石和硅线石两种不同矿物。</span><span class="english">Andalusite is a polymorph with two other minerals, Kyanite and Sillimanite.</span></p>

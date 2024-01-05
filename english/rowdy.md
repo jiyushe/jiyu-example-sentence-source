@@ -1,5 +1,7 @@
 # rowdy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rowdy.md)
+
 <p><span class="chinese">可我还是没法管教好淘气大王。</span><span class="english">And I still can't deal with rowdy children.</span></p>
 
 <p><span class="chinese">老师使这吵闹的班级安静了下来。</span><span class="english">The teacher made the rowdy class quiet down.</span></p>

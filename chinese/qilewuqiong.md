@@ -1,5 +1,7 @@
 # 其乐无穷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qilewuqiong.md)
+
 <p><span class="chinese">让寒假的无聊生活其乐无穷！</span><span class="english">Let the boring life of winter fun!</span></p>
 
 <p><span class="chinese">跟它们在一起玩其乐无穷。</span><span class="english">And they are lots of fun to play with.</span></p>

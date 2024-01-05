@@ -1,5 +1,7 @@
 # dexamethasone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dexamethasone.md)
+
 <p><span class="chinese">地塞米松应当被用于短期缓解使用。</span><span class="english">Dexamethasone should be considered for short-term palliation.</span></p>
 
 <p><span class="chinese">目的分析醋酸地塞米松片伪品的质量状况。</span><span class="english">Aim To discern the false from the genuine of Dexamethasone Acetate Tablets.</span></p>

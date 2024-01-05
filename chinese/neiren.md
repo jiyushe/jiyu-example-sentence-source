@@ -1,5 +1,7 @@
 # 内人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiren.md)
+
 <p><span class="chinese">内人病了，一个苏也没有！</span><span class="english">My wife ill, and not a sou!</span></p>
 
 <p><span class="chinese">内人昨天烤了一块蛋糕。</span><span class="english">My wife baked a cake yesterday.</span></p>

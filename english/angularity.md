@@ -1,5 +1,7 @@
 # angularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angularity.md)
+
 <p><span class="chinese">文中的评定原理可扩展到其他倾斜度误差的评定。</span><span class="english">This principle can be extended to other angularity error evaluation.</span></p>
 
 <p><span class="chinese">面轮廓度不仅能控制斜面的位置，而且能控制面的倾斜度。</span><span class="english">Profile of a surface locates the surfaces in addition to controlling the angularity.</span></p>

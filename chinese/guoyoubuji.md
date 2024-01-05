@@ -1,5 +1,7 @@
 # 过犹不及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoyoubuji.md)
+
 <p><span class="chinese">好色是艺术，过犹不及。</span><span class="english">Erotic art is, overboard.</span></p>
 
 <p><span class="chinese">我们的专注——有时候过犹不及。</span><span class="english">We're dedicated--sometimes to a fault.</span></p>

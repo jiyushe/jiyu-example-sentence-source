@@ -1,5 +1,7 @@
 # 联署
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianshu_1.md)
+
 <p><span class="chinese">而参议院财经委员会主席，蒙大拿州民主党参议员马克斯·包克斯已经誓言将在十月限期远未到来之前出台两党联署法案。</span><span class="english">has vowed to produce a bipartisan bill well before the October deadline.</span></p>
 
 <p><span class="chinese">我们两家公司联署了一份今年的合作意向书。</span><span class="english">Our two companies jointly signed a letter of intent to cooperate for this year.</span></p>

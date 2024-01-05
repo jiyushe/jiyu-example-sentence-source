@@ -1,5 +1,7 @@
 # 老花镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laohuajing.md)
+
 <p><span class="chinese">此时可经由老花镜处置。</span><span class="english">This can be disposed through old reading glasses.</span></p>
 
 <p><span class="chinese">假近视戴老花镜恢复得视力不？</span><span class="english">Does false myopia wear presbyopic glasses to restore to get vision not?</span></p>

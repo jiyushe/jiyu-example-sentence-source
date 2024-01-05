@@ -1,5 +1,7 @@
 # chronological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chronological.md)
+
 <p><span class="chinese">一个伟大的时间顺序过意见！</span><span class="english">A great chronological over-view!</span></p>
 
 <p><span class="chinese">这个分为生物学年龄和实足年龄。</span><span class="english">There's biological age and chronological age.</span></p>

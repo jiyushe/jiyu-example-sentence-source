@@ -1,5 +1,7 @@
 # adapt 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adapt.md)
+
 <p><span class="chinese">我们必须适应它。</span><span class="english">We should adapt to it.</span></p>
 
 <p><span class="chinese">适应的才能活得好。</span><span class="english">Adapt and live comfortably.</span></p>

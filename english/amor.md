@@ -1,5 +1,7 @@
 # amor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amor.md)
+
 <p><span class="chinese">我的爱人，你有问题吗？</span><span class="english">Mi amor , do you have a question ?</span></p>
 
 <p><span class="chinese">9000型系列是有史以来最可靠的电脑。</span><span class="english">Amor. The 9000 series is the most reliable computer ever made.</span></p>

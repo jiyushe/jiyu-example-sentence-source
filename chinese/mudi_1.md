@@ -1,5 +1,7 @@
 # 牧地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mudi_1.md)
+
 <p><span class="chinese">马赛人是赶着牧群四处寻找牧地的游牧民族。</span><span class="english">Masais are nomads who travel all over with their animals, looking for pasture.</span></p>
 
 <p><span class="chinese">作为这块国有土地的所有者，政府可在该土地上出租牧地。</span><span class="english">On this public domain the government , as proprietor , can lease grazing , lands.</span></p>

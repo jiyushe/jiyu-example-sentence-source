@@ -1,5 +1,7 @@
 # vaccinia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaccinia.md)
+
 <p><span class="chinese">然而，一种名为牛痘的病毒传播的速度比我们所能想像的快四倍。</span><span class="english">However, a virus called vaccinia spreads four times faster than what was thought possible.</span></p>
 
 <p><span class="chinese">牛痘病毒B1R基因产物是一个蛋白激酶，在病毒的DNA复制中起着重要作用。</span><span class="english">Vaccinia virus B1R gene product acts as protein kinase with an essential role in viral DNA replication.</span></p>

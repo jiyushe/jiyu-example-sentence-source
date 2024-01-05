@@ -1,5 +1,7 @@
 # pentagram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentagram.md)
+
 <p><span class="chinese">下面是一个描述五角星形的多边形</span><span class="english">And this is a polygon describing a pentagram</span></p>
 
 <p><span class="chinese">还有男孩的收藏品就是红五星。</span><span class="english">Another collection is red pentagram for boys.</span></p>

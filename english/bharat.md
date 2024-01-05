@@ -1,5 +1,7 @@
 # bharat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bharat.md)
+
 <p><span class="chinese">中国军队的退休金计划是怎样的？和印度以及巴基斯坦比起来又如何？</span><span class="english">What is chin army pension plan? How does it compare to Bharat and Pak?</span></p>
 
 <p><span class="chinese">巴拉特使得他的创业进度甚至阿马尔深深陷入贫困。</span><span class="english">Bharat makes progress in his business ventures even as Amar plunges deep into poverty.</span></p>

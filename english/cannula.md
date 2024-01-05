@@ -1,5 +1,7 @@
 # cannula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cannula.md)
+
 <p><span class="chinese">在一侧股静脉内置慢性静脉插管供注射外源性胃动素。</span><span class="english">Cannula was intubated in the femoral vein for motilin injection.</span></p>
 
 <p><span class="chinese">玻璃套管法包扎的效果较创可贴法为好且更为简便。</span><span class="english">And the glass cannula was more suitable than adhesive bandages for enswathement.</span></p>

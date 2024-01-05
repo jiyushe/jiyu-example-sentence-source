@@ -1,5 +1,7 @@
 # dereference
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dereference.md)
+
 <p><span class="chinese">那么，解除对应x的指针数据的,索引箭头。</span><span class="english">So, doing a dereference on x follows the arrow to access its pointee.</span></p>
 
 <p><span class="chinese">如果没有使用解引用操作，则修改的是指针本身的值。</span><span class="english">If there is no dereference , then the pointer itself is being changed.</span></p>

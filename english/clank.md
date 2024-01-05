@@ -1,5 +1,7 @@
 # clank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clank.md)
+
 <p><span class="chinese">有一个金属铮铮。</span><span class="english">There was a metallic clank.</span></p>
 
 <p><span class="chinese">铮铮铁骨的黄鸣锋竟也流下了眼泪。</span><span class="english">Clank frame of huang feng unexpectedly also shed tears.</span></p>

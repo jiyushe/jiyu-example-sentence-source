@@ -1,5 +1,7 @@
 # 攀附
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panfu.md)
+
 <p><span class="chinese">藤蔓攀附大树。</span><span class="english">The vines cling to the trees.</span></p>
 
 <p><span class="chinese">一株野生的甜豌豆攀附而上，倚靠着它。</span><span class="english">A feral sweet pea clings to it for support.</span></p>

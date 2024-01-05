@@ -1,5 +1,7 @@
 # injectable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/injectable.md)
+
 <p><span class="chinese">临床应用主要是含舒巴坦的药物。</span><span class="english">Amount of money was mainly spent on injectable powder.</span></p>
 
 <p><span class="chinese">如果你选择使用可注射药物，不要共用针头。</span><span class="english">If you choose to use injectable drugs, don't share needles.</span></p>

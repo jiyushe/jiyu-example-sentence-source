@@ -1,5 +1,7 @@
 # solder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solder.md)
+
 <p><span class="chinese">焊锡时间可以根据不同要求设定。</span><span class="english">Time of solder can be set.</span></p>
 
 <p><span class="chinese">地面焊料的越南难民。</span><span class="english">The ground solder for the Vrs.</span></p>

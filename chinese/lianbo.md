@@ -1,5 +1,7 @@
 # 联播
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianbo.md)
+
 <p><span class="chinese">总统演说由全国电视网联播。</span><span class="english">The President's speech was broadcast on a.</span></p>
 
 <p><span class="chinese">是中央一台每晚7点的新闻联播吗？</span><span class="english">Is it the news report at 7 p. m. on CCTV-1?</span></p>

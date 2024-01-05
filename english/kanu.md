@@ -1,5 +1,7 @@
 # kanu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kanu.md)
+
 <p><span class="chinese">2005年，第9号台风“麦莎”和第15号台风“卡努”先后影响上海。</span><span class="english">In 2005, No. 9 Typhoon "Maisha" and No. 15 Typhoon "Kanu" affected Shanghai one by one.</span></p>
 
 <p><span class="chinese">在英超射手榜上，德罗巴以8个进球与Doyle和卡努并列榜首。</span><span class="english">He also heads the Premiership scoring chart together with Doyle and Kanu with eight goals.</span></p>

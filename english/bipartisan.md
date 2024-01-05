@@ -1,5 +1,7 @@
 # bipartisan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bipartisan.md)
+
 <p><span class="chinese">当然也有一些来自两党的共同支持。</span><span class="english">There was some bipartisan support, to be sure.</span></p>
 
 <p><span class="chinese">这场旷日持久的两党之争使全世界都为之担忧。</span><span class="english">The epic bipartisan struggle unnerved the whole world.</span></p>

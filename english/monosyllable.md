@@ -1,5 +1,7 @@
 # monosyllable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monosyllable.md)
+
 <p><span class="chinese">同时得到衡阳方言声调格局图和单音声调区别特征图表。</span><span class="english">After that, the tone pattern chart and the monosyllable tone properties table are produced.</span></p>
 
 <p><span class="chinese">单音词系统的变化和调整主要包括同义词系统和反义词系统的变化。</span><span class="english">The change of the system of monosyllable includes the change of the system of synonym and antonym.</span></p>

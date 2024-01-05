@@ -1,5 +1,7 @@
 # 乳儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruer.md)
+
 <p><span class="chinese">名不乳儿乳佣。</span><span class="english">Name not breast young commission.</span></p>
 
 <p><span class="chinese">她死时，轻轻地呼着她的乳儿的名字。</span><span class="english">When she died, she murmured her suckling's name.</span></p>

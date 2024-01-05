@@ -1,5 +1,7 @@
 # hygienically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hygienically.md)
+
 <p><span class="chinese">即使是有病菌残留在这些密封的一次性筷子里，这超辣的辣椒酱也会杀死它们的。</span><span class="english">If any germs make it through the hygienically sealed chopsticks the fiery chili paste should kill them.</span></p>
 
 <p><span class="chinese">塑料垃圾袋将垃圾卫生地装起来，使得我们能够安全、快速地收集它们。</span><span class="english">Plastic trash bags keep waste hygienically contained and allow trash to be collected quickly and safely.</span></p>

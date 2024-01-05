@@ -1,5 +1,7 @@
 # unaccounted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unaccounted.md)
+
 <p><span class="chinese">目前仍有一些人失踪。</span><span class="english">Some are still unaccounted for.</span></p>
 
 <p><span class="chinese">但是有些还是下落不明。</span><span class="english">But some remained unaccounted for.</span></p>

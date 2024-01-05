@@ -1,5 +1,7 @@
 # restricted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restricted.md)
+
 <p><span class="chinese">它们有很小的体腔。</span><span class="english">They possess a restricted coelom.</span></p>
 
 <p><span class="chinese">这种药的使用受到限制。</span><span class="english">The use of the drug is restricted.</span></p>

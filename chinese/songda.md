@@ -1,5 +1,7 @@
 # 送达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songda.md)
+
 <p><span class="chinese">您要用隔夜送达的限时专递寄吗？</span><span class="english">Does it need to be overnighted?</span></p>
 
 <p><span class="chinese">异议书已送达英特尔。</span><span class="english">Demur book already service Intel.</span></p>

@@ -1,5 +1,7 @@
 # bowknot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bowknot.md)
+
 <p><span class="chinese">胸前蝴蝶结褶皱设计，增添几许女人味。</span><span class="english">Chest bowknot drape design, add how much woman flavour.</span></p>
 
 <p><span class="chinese">她想一定是蝴蝶结的功劳，可往镜前一照，头上根本就没有蝴蝶结，一定是出饰物店时与人一碰弄丢了。</span><span class="english">She thought it must been the reason of the bowknot. In front of a mirror, there is no bowknot on her head.</span></p>

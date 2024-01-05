@@ -1,5 +1,7 @@
 # damaged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damaged.md)
+
 <p><span class="chinese">约翰的名誉受到了损害。</span><span class="english">John has a damaged reputation.</span></p>
 
 <p><span class="chinese">遭到损坏的船只朝左侧倾斜。</span><span class="english">The damaged ship listed to port.</span></p>

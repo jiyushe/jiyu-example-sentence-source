@@ -1,5 +1,7 @@
 # 靠山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaoshan.md)
+
 <p><span class="chinese">我希望你将成为我们的靠山。</span><span class="english">I hope that you will become our patron.</span></p>
 
 <p><span class="chinese">有没有靠山，难道我会在乎么？</span><span class="english">Patron or no patron, what care I? You DO care.</span></p>

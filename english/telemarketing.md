@@ -1,5 +1,7 @@
 # telemarketing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telemarketing.md)
+
 <p><span class="chinese">我们正在用电话推销化妆品。</span><span class="english">We are telemarketing cosmetics.</span></p>
 
 <p><span class="chinese">那我要被调到电话行销部了。</span><span class="english">So I'm being transferred to telemarketing.</span></p>

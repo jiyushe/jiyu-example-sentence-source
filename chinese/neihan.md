@@ -1,5 +1,7 @@
 # 内涵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neihan.md)
+
 <p><span class="chinese">探讨“藏象”的内涵。</span><span class="english">The meaning of the Zangxiang.</span></p>
 
 <p><span class="chinese">企业社会责任的内涵是什么?。</span><span class="english">What is the intension of CSR?</span></p>

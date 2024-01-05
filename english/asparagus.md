@@ -1,5 +1,7 @@
 # asparagus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asparagus.md)
+
 <p><span class="chinese">我不乐爱吃芦笋。</span><span class="english">I don't like asparagus.</span></p>
 
 <p><span class="chinese">它们是莴笋。</span><span class="english">They are Asparagus lettuce.</span></p>

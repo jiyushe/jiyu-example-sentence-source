@@ -1,5 +1,7 @@
 # clef
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clef.md)
+
 <p><span class="chinese">一个音符是高音谱号。</span><span class="english">One NOTE is a treble clef.</span></p>
 
 <p><span class="chinese">没有那个孩子需要承受唇裂或腭裂的煎熬。</span><span class="english">No child needs to suffer with a clef.</span></p>

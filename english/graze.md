@@ -1,5 +1,7 @@
 # graze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graze.md)
+
 <p><span class="chinese">美洲野牛在一个温泉附近吃草。</span><span class="english">Bison graze near a hot spring.</span></p>
 
 <p><span class="chinese">我将利用低洼地放牧。</span><span class="english">I shall graze the bottom field.</span></p>

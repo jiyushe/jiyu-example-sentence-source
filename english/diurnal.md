@@ -1,5 +1,7 @@
 # diurnal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diurnal.md)
+
 <p><span class="chinese">潮差昼夜变化在0.67米左右。</span><span class="english">Diurnal tidal range of 0.67 meters.</span></p>
 
 <p><span class="chinese">跟从着地球的日行路线转滚。</span><span class="english">Rolled round in earth's diurnal course.</span></p>

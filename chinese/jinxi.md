@@ -1,5 +1,7 @@
 # 今昔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinxi.md)
+
 <p><span class="chinese">苍茫红尘，今昔你在哪里？</span><span class="english">The vast world of mortals, and where are you?</span></p>
 
 <p><span class="chinese">美国今昔最大的变化是什么？</span><span class="english">What's The Biggest Difference Between America Then and Now?</span></p>

@@ -1,5 +1,7 @@
 # prat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prat.md)
+
 <p><span class="chinese">另一方面，他们也可能认为你很傻。</span><span class="english">On the other hand they might think you a prat.</span></p>
 
 <p><span class="chinese">真心祝愿贵公司有长足的发展！</span><span class="english">I prat that your company is a lot of developments.</span></p>

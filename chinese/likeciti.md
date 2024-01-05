@@ -1,5 +1,7 @@
 # 立克次体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/likeciti.md)
+
 <p><span class="chinese">明显不同于其它种班点热群立克次体。</span><span class="english">However it was antigenically distinct from other species of SFG rickettsiae.</span></p>
 
 <p><span class="chinese">近年来，新发立克次体病已成为世界性关注的疾病。</span><span class="english">Recently, the emerging rickettsioses have become the health concern worldwide.</span></p>

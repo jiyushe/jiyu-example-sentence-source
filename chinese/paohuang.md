@@ -1,5 +1,7 @@
 # 抛荒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paohuang.md)
+
 <p><span class="chinese">生活质量相对下降，土地往往被抛荒。</span><span class="english">Comparative quality of life dwindles and land is often abandoned.</span></p>
 
 <p><span class="chinese">这就是农民会从“抛荒政策”中得益的原因。</span><span class="english">That is why farmers can benefit from policies that induce them to leave land fallow.</span></p>

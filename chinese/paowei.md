@@ -1,5 +1,7 @@
 # 炮位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paowei.md)
+
 <p><span class="chinese">落地点在我们炮位下400英尺处。</span><span class="english">It was about 400 yards down to my gun position.</span></p>
 
 <p><span class="chinese">夜里你除了重新布置阵地还要挖炮位。</span><span class="english">During the night you re-deploy and dig the gun in.</span></p>

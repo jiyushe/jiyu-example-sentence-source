@@ -1,5 +1,7 @@
 # unware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unware.md)
+
 <p><span class="chinese">我没有意识到已经伤害了他。</span><span class="english">I was unware that i had hurt him.</span></p>
 
 <p><span class="chinese">我没有意识到我已经伤害他了。</span><span class="english">I was unware that i had hurt him.</span></p>

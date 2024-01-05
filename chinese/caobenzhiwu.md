@@ -1,5 +1,7 @@
 # 草本植物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caobenzhiwu.md)
+
 <p><span class="chinese">千屈莱科的一种草本植物。</span><span class="english">A variety of the loosestrife herb.</span></p>
 
 <p><span class="chinese">与葫芦巴相关的旧大陆草本植物。</span><span class="english">Old World herb related to fenugreek.</span></p>

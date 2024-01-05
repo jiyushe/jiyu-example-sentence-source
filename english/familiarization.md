@@ -1,5 +1,7 @@
 # familiarization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/familiarization.md)
+
 <p><span class="chinese">谢尔德说这次首航对他和队友们来说是轻车熟路。</span><span class="english">Scherdel said the first flight was a familiarization flight for he and the team.</span></p>
 
 <p><span class="chinese">由于熟悉好几种操作系统，他成了这个职位的最佳候选人。</span><span class="english">His familiarization with several operating system make him the best candidate for this position.</span></p>

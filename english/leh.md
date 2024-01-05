@@ -1,5 +1,7 @@
 # leh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leh.md)
+
 <p><span class="chinese">阿什利一直问我要不要过去和燕姿合张影，不过我有点小害羞啦。</span><span class="english">Ashley kept asking if I wanted to go take a photo with her but I shy leh.</span></p>
 
 <p><span class="chinese">虽然小皮皮岛是泰国最小的岛屿，但它却绝对是最著名的一个。</span><span class="english">Although Phi Phi Leh is the smallest island here, she's arguably the most famous.</span></p>

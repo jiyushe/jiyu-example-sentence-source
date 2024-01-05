@@ -1,5 +1,7 @@
 # mexico
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mexico.md)
+
 <p><span class="chinese">给墨西哥送钱？</span><span class="english">Give Mexico money?</span></p>
 
 <p><span class="chinese">你从黑西哥城来？</span><span class="english">You're from Mexico City?</span></p>

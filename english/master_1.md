@@ -1,5 +1,7 @@
 # master 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/master_1.md)
+
 <p><span class="chinese">大师级的艺术。</span><span class="english">Master of Arts.</span></p>
 
 <p><span class="chinese">我是英语的主人。</span><span class="english">I am its master.</span></p>

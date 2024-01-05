@@ -1,5 +1,7 @@
 # ably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ably.md)
+
 <p><span class="chinese">他们胜任愉快地做完了工作。</span><span class="english">They have done their work very ably.</span></p>
 
 <p><span class="chinese">除了羊之外，还有珍珠鸡的大力协助。</span><span class="english">The sheep are ably assisted by guinea fowl.</span></p>

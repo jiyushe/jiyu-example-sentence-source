@@ -1,5 +1,7 @@
 # programmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/programmer.md)
+
 <p><span class="chinese">葛温是个程序员。</span><span class="english">Gwynn is a computer programmer.</span></p>
 
 <p><span class="chinese">因此，程序员必须很聪明。</span><span class="english">Therefore, programmer must be smart.</span></p>

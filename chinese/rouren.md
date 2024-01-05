@@ -1,5 +1,7 @@
 # 柔韧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rouren.md)
+
 <p><span class="chinese">用蓝色柔韧的枝条？</span><span class="english">By withes of supple blue?</span></p>
 
 <p><span class="chinese">他有柔韧的肌肉来卖力工作。</span><span class="english">Third, he had flexible flesh to work well.</span></p>

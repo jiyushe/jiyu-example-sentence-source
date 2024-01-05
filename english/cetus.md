@@ -1,5 +1,7 @@
 # cetus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cetus.md)
+
 <p><span class="chinese">而现在的鲸鱼座的规格。</span><span class="english">And now for the specs of the Cetus.</span></p>
 
 <p><span class="chinese">Menkar星是鲸鱼座中最亮的恒星。</span><span class="english">Menkar is the brightest star in Cetus.</span></p>

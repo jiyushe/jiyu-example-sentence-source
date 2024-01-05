@@ -1,5 +1,7 @@
 # carved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carved.md)
+
 <p><span class="chinese">我刻了两个海虾。</span><span class="english">I carved two shrimps.</span></p>
 
 <p><span class="chinese">它是用象牙雕成的。</span><span class="english">It is carved from ivory.</span></p>

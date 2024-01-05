@@ -1,5 +1,7 @@
 # ventral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ventral.md)
+
 <p><span class="chinese">什麽是腹疝？</span><span class="english">WHAT IS A VENTRAL HERNIA?</span></p>
 
 <p><span class="chinese">尾骨血液供应较差，营养动脉主要由腹侧面进入。</span><span class="english">It enters the coccyx mainly through the ventral surface.</span></p>

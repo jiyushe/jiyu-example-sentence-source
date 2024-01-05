@@ -1,5 +1,7 @@
 # hypoxia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypoxia.md)
+
 <p><span class="chinese">作好缺氧和高高度紧急情的准备。</span><span class="english">Preparing for hypoxia and high altitude emergencies.</span></p>
 
 <p><span class="chinese">这些供氧不足的特征对于一个健康的身体来说并不危险。</span><span class="english">These signs of hypoxia are not dangerous in a healthy person.</span></p>

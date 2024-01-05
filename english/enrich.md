@@ -1,5 +1,7 @@
 # enrich
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enrich.md)
+
 <p><span class="chinese">三军指挥机构已加以充实。</span><span class="english">Navy command to enrich already.</span></p>
 
 <p><span class="chinese">点染出她眼里的笑意。</span><span class="english">Enrich that smile her eyes began.</span></p>

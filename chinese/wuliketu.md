@@ -1,5 +1,7 @@
 # 无利可图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuliketu.md)
+
 <p><span class="chinese">经手此事的人无利可图。</span><span class="english">It does not pay its handlers.</span></p>
 
 <p><span class="chinese">给这样一个折扣，我们就无利可图了。</span><span class="english">Such a discount won’t leave us anything.</span></p>

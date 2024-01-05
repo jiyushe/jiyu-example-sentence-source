@@ -1,5 +1,7 @@
 # 妇孺皆知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/furujiezhi.md)
+
 <p><span class="chinese">看来这已经是一个妇孺皆知的故事了。</span><span class="english">It seems that this is a knows the story.</span></p>
 
 <p><span class="chinese">首先，他们互相躲——用后来妇孺皆知的那两条无花果叶做的裙子。</span><span class="english">First, they hid from one another—the notorious fig leaf cover-up.</span></p>

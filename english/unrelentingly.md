@@ -1,5 +1,7 @@
 # unrelentingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrelentingly.md)
+
 <p><span class="chinese">他们无情地逐字逐句地遵从命令。</span><span class="english">They follow orders literally and unrelentingly.</span></p>
 
 <p><span class="chinese">在他最终通过之前我都是很无情地培训他。</span><span class="english">I tutored him unrelentingly until he finally passed.</span></p>

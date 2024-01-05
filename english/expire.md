@@ -1,5 +1,7 @@
 # expire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expire.md)
+
 <p><span class="chinese">你们的护照满期了。</span><span class="english">Your passports expire.</span></p>
 
 <p><span class="chinese">就让我在你怀里气绝吧！</span><span class="english">Let me expire in your arms!</span></p>

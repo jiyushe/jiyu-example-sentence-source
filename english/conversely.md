@@ -1,5 +1,7 @@
 # conversely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conversely.md)
+
 <p><span class="chinese">反之，你也可以点论坛读者主要页你的站点。</span><span class="english">Conversely , you can also point forum readers to the main pages of your site.</span></p>
 
 <p><span class="chinese">相反，眨一次时慢下来因为这模仿了一次眼色，所以具有性感魅力。</span><span class="english">Conversely slowing down a blink can be sexually attractive as it mimics a wink.</span></p>

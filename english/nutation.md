@@ -1,5 +1,7 @@
 # nutation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutation.md)
+
 <p><span class="chinese">该方法明显优于章动NMR技术。</span><span class="english">This method is superior obviously to nutation NMR technique.</span></p>
 
 <p><span class="chinese">提出了一种新的测量弹丸攻角的方法。</span><span class="english">A new measurement method for nutation angle has been put forward.</span></p>

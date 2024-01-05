@@ -1,5 +1,7 @@
 # 竖立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuli_2.md)
+
 <p><span class="chinese">茎竖立，分枝。</span><span class="english">The bine is erect, ramose.</span></p>
 
 <p><span class="chinese">恐惧使他的毛发竖立起来。</span><span class="english">Fear caused his hair to rise.</span></p>

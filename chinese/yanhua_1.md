@@ -1,5 +1,7 @@
 # 烟花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhua_1.md)
+
 <p><span class="chinese">我们还要向套燃放烟花。</span><span class="english">We also get to set off fireworks.</span></p>
 
 <p><span class="chinese">烟花巷陌中，隐约可见丹青作画的屏风。</span><span class="english">The fireworks lanes, to Dan barrier.</span></p>

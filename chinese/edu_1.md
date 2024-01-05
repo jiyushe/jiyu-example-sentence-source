@@ -1,5 +1,7 @@
 # 额度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/edu_1.md)
+
 <p><span class="chinese">控制凹凸的额度。</span><span class="english">Control the amount of bumpiness.</span></p>
 
 <p><span class="chinese">银行的信誉额度会变得吝啬。</span><span class="english">Banks will be stingier with credit.</span></p>

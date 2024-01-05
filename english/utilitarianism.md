@@ -1,5 +1,7 @@
 # utilitarianism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utilitarianism.md)
+
 <p><span class="chinese">这就是功利主义的真谛。</span><span class="english">This is the essence of utilitarianism.</span></p>
 
 <p><span class="chinese">即功利主义哲学。</span><span class="english">And that's the philosophy of utilitarianism.</span></p>

@@ -1,5 +1,7 @@
 # 影子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingzi.md)
+
 <p><span class="chinese">就像影子落在墙上的柔姿。</span><span class="english">Like the shadows on the wall.</span></p>
 
 <p><span class="chinese">声誉是良习的影子。</span><span class="english">Glory is the shadow of virtue.</span></p>

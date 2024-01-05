@@ -1,5 +1,7 @@
 # merman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merman.md)
+
 <p><span class="chinese">“说得好，海精灵，”人鱼副官说道，“依卓洛在上！”</span><span class="english">Well said, sea elf, " the merman second said."</span></p>
 
 <p><span class="chinese">“这出什么事了？”长着灰胡须的男人鱼问道。</span><span class="english">"What happened here?" the gray-bearded merman asked.</span></p>

@@ -1,5 +1,7 @@
 # 席次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xici.md)
+
 <p><span class="chinese">而最终宪法保证了军方能在议会中占据四分之一的席次。</span><span class="english">And finally, the Constitution guarantees the military will occupy 25 percent of the seats in parliament.</span></p>
 
 <p><span class="chinese">国民党也在很多县市里的政务选举里，猛烈地赢得多数席次。</span><span class="english">The KMT also posted strong showing in the local council elections, winning pluralities of seats in many of them.</span></p>

@@ -1,5 +1,7 @@
 # trounce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trounce.md)
+
 <p><span class="chinese">来，我来教你怎么打败你丈夫。</span><span class="english">Now, I'll show you how to trounce your husband.</span></p>
 
 <p><span class="chinese">可以艾伯森痛打沃尔玛先进的信息技术沃尔玛？</span><span class="english">Can Albertsons Trounce Wal-Mart with Advanced Information Technology?</span></p>

@@ -1,5 +1,7 @@
 # circumflex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumflex.md)
+
 <p><span class="chinese">我们用抑扬符表示一算符。</span><span class="english">We use a circumflex to indicate an operator.</span></p>
 
 <p><span class="chinese">皮瓣成活的机理可能与两侧肩胛区水平支间的吻合支有关。</span><span class="english">The flap axis is the horizontal branch of the circumflex scapular vessel.</span></p>

@@ -1,5 +1,7 @@
 # orchard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orchard.md)
+
 <p><span class="chinese">我叔叔拥有一个苹果园。</span><span class="english">My uncle has an apple orchard.</span></p>
 
 <p><span class="chinese">农民用栏杆把自己的果园围了起来。</span><span class="english">The farmer railed in his orchard.</span></p>

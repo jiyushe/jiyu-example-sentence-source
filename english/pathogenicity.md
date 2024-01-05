@@ -1,5 +1,7 @@
 # pathogenicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathogenicity.md)
+
 <p><span class="chinese">所以，这是一种新的致病性粘菌。</span><span class="english">So, it's a new pathogenicity slime mold.</span></p>
 
 <p><span class="chinese">菌丝和分生孢子致病性减弱。</span><span class="english">The pathogenicity of hypha and spore was weakened.</span></p>

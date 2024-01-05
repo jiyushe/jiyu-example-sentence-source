@@ -1,5 +1,7 @@
 # balsamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balsamic.md)
+
 <p><span class="chinese">橄榄油，黑醋，黄瓜酸奶。</span><span class="english">Olive Oil , Balsamic Vinegar and Cucumber Raita.</span></p>
 
 <p><span class="chinese">上迈扑山谷地区固有的和谐醇香。</span><span class="english">Harmonious balsamic notes proper of Upper Maipo Valley.</span></p>

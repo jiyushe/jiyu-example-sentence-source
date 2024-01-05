@@ -1,5 +1,7 @@
 # pds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pds.md)
+
 <p><span class="chinese">转化期的沉降失重和SG失重最多使水泥浆柱孔隙压力降到等高静水柱压力。</span><span class="english">PDS and PDSG in TP at most decrease slurry's pore pressure to hydrostatic column pressure.</span></p>
 
 <p><span class="chinese">主要研究方向为PDS数字化技术和男装语言的TPO规则及应用的理论与实践。</span><span class="english">Mostly direction is PDS numeral and man dress lingual of TPO applied exoterica and practice.</span></p>

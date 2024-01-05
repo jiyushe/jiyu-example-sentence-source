@@ -1,5 +1,7 @@
 # 同化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghua.md)
+
 <p><span class="chinese">你要慢慢适应这种逐步同化</span><span class="english">You've got to do this gradual assimilation.</span></p>
 
 <p><span class="chinese">欧洲人和犹太人不易同化。</span><span class="english">Europeans and Jews do not readily assimilate.</span></p>

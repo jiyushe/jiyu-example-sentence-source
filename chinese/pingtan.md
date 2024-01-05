@@ -1,5 +1,7 @@
 # 乒坛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingtan.md)
+
 <p><span class="chinese">继王楠退役，现在她将成为新的乒坛王后。</span><span class="english">Now she will be the new table tennis queen after Wang Nan's retirement.</span></p>
 
 <p><span class="chinese">不论你是热血男儿，还是巾帼不让须眉的乒坛少女。</span><span class="english">Whether you are a warm-blooded son, or a teenage girl who love table tennis.</span></p>

@@ -1,5 +1,7 @@
 # 焦炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaolu_1.md)
+
 <p><span class="chinese">锅炉启动点火煤气为焦炉煤气。</span><span class="english">COG will be used to ignite and start boiler.</span></p>
 
 <p><span class="chinese">提出了利用焦炉煤气生产天然气的必要性和紧迫性。</span><span class="english">It is necessary for coke oven gas making natural gas.</span></p>

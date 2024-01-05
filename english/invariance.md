@@ -1,5 +1,7 @@
 # invariance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invariance.md)
+
 <p><span class="chinese">形式不变性是一种新的对称性。</span><span class="english">The form invariance is a new symmetry.</span></p>
 
 <p><span class="chinese">不变性指的是一致的部分。</span><span class="english">Invariance refers to areas of agreement.</span></p>

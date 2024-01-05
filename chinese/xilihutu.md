@@ -1,5 +1,7 @@
 # 稀里糊涂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xilihutu.md)
+
 <p><span class="chinese">他仍在稀里糊涂地干。</span><span class="english">He's still muddling on.</span></p>
 
 <p><span class="chinese">当然，稀里糊涂就上去了。</span><span class="english">Of course, muddleheaded go up.</span></p>

@@ -1,5 +1,7 @@
 # fertilisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fertilisation.md)
+
 <p><span class="chinese">证据证明，还在早期时，就存在精密复杂的施肥系统。</span><span class="english">there is evidence of sophisticated fertilisation from early on.</span></p>
 
 <p><span class="chinese">当他们准备受精时，精子和卵子必须各放出一个副本。</span><span class="english">Sperm and eggs must lose one copy each as they prepare for fertilisation.</span></p>

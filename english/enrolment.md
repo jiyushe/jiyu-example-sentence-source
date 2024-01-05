@@ -1,5 +1,7 @@
 # enrolment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enrolment.md)
+
 <p><span class="chinese">今年小学入学人数将达到最高峰。</span><span class="english">Primary school enrolment will peak this year.</span></p>
 
 <p><span class="chinese">报名以先到先得为准。</span><span class="english">Enrolment is on a first-come-first-serve basis.</span></p>

@@ -1,5 +1,7 @@
 # phew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phew.md)
+
 <p><span class="chinese">我原打算可以把他们在这里藏几天，谁想这么臭。</span><span class="english">Thought I could stash them in here a few days, but phew.</span></p>
 
 <p><span class="chinese">唷，是的，今天我们要庆祝脱离英国而独立。</span><span class="english">Phew. Yes, today we celebrate our independence from Britain.</span></p>

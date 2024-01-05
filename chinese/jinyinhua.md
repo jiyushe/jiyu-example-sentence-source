@@ -1,5 +1,7 @@
 # 金银花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyinhua.md)
+
 <p><span class="chinese">哦，我的金银花，欢迎回家！</span><span class="english">Oh, my honeysuckle , welcome home!</span></p>
 
 <p><span class="chinese">妈妈躲在金银花丛中叫。</span><span class="english">Mama, hiding in the honeysuckle, calls.</span></p>

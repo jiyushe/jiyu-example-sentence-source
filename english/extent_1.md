@@ -1,5 +1,7 @@
 # extent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extent_1.md)
+
 <p><span class="chinese">你喜欢“阿波罗”达甚麽的程度满？</span><span class="english">To what extent do you love Appolo?</span></p>
 
 <p><span class="chinese">你的人生又有多少是由命运决定的呢</span><span class="english">To what extent is your fate sealed?</span></p>

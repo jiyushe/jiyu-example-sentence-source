@@ -1,5 +1,7 @@
 # oscar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oscar.md)
+
 <p><span class="chinese">奥斯卡是怎么做到的呢？</span><span class="english">How does Oscar do it?</span></p>
 
 <p><span class="chinese">奥斯卡名曲！经典之作！</span><span class="english">Oscar night! A classic!</span></p>

@@ -1,5 +1,7 @@
 # 老乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoxiang.md)
+
 <p><span class="chinese">老乡是朋友，同事一样是朋友。</span><span class="english">Fellow- townsman are friends and colleagues are friends.</span></p>
 
 <p><span class="chinese">那样不好，他们一定以为我和那老乡是一伙的。</span><span class="english">It wasn't good. They must have thought I have joined them.</span></p>

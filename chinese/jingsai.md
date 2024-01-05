@@ -1,5 +1,7 @@
 # 径赛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingsai.md)
+
 <p><span class="chinese">那位径赛明星比他所有的竞争对手跑得都快。</span><span class="english">The track star outran all of his competitors.</span></p>
 
 <p><span class="chinese">就这样，她一口气报了四个径赛项目。</span><span class="english">So she signed up for four different track events.</span></p>

@@ -1,5 +1,7 @@
 # gift 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gift.md)
+
 <p><span class="chinese">生命是一个礼物。</span><span class="english">Life is a gift.</span></p>
 
 <p><span class="chinese">花是大自然最美妙的礼物。</span><span class="english">gift of nature.</span></p>

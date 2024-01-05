@@ -1,5 +1,7 @@
 # pandit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pandit.md)
+
 <p><span class="chinese">潘迪特先生自称“维克拉姆”，并且认为这只是一个小小的提问而已。</span><span class="english">Mr. Pandit identified himself as "Vikram."</span></p>
 
 <p><span class="chinese">晚上11点左右，潘伟迪在协议上签了字。</span><span class="english">Around 11 p.m., Mr. Pandit signed the agreement.</span></p>

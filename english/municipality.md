@@ -1,5 +1,7 @@
 # municipality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/municipality.md)
+
 <p><span class="chinese">上海市伫中国的地理位置。</span><span class="english">An SVG map of China with Shanghai municipality highlighted.</span></p>
 
 <p><span class="chinese">宝沙是魁北克种族最多样化的直辖市。</span><span class="english">Brossard is the most ethnically diverse municipality in Quebec.</span></p>

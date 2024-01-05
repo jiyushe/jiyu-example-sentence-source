@@ -1,5 +1,7 @@
 # incompatible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incompatible.md)
+
 <p><span class="chinese">它们是不相容的</span><span class="english">They're incompatible.</span></p>
 
 <p><span class="chinese">独臫行走，与这格格不如的人群。</span><span class="english">Walk with this incompatible man's tide alone.</span></p>

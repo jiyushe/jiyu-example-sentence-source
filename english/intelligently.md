@@ -1,5 +1,7 @@
 # intelligently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intelligently.md)
+
 <p><span class="chinese">将数据智能地映射到变量。</span><span class="english">Map the data into variables intelligently.</span></p>
 
 <p><span class="chinese">但是我们的技术主管非常明智地没有那样做。</span><span class="english">But the tech lead intelligently did not do that.</span></p>

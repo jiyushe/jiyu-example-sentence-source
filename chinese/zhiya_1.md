@@ -1,5 +1,7 @@
 # 质押
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiya_1.md)
+
 <p><span class="chinese">他决定赎回质押物.</span><span class="english">He decided to redeem the pledge.</span></p>
 
 <p><span class="chinese">保单质押贷款的借款人应为投保人。</span><span class="english">The borrower should be the policy-holder.</span></p>

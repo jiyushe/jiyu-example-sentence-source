@@ -1,5 +1,7 @@
 # 友爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youai.md)
+
 <p><span class="chinese">我生活在一个团结友爱的班级。</span><span class="english">I'm in a united and fraternal class.</span></p>
 
 <p><span class="chinese">我们团结友爱坚强如钢。</span><span class="english">We have strong solidarity, such as steel.</span></p>

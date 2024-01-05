@@ -1,5 +1,7 @@
 # 鱼藤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuteng.md)
+
 <p><span class="chinese">广泛应用的有除虫菊、鱼藤和烟草等。</span><span class="english">Wider application of a pyrethrum , rotenone and tobacco, and so on.</span></p>
 
 <p><span class="chinese">以NGF诱导后的PC12细胞作为细胞模型，采用鱼藤酮诱导细胞凋亡。</span><span class="english">Rotenone was used on NGF-differentiated PC12 cells to induce apoptosis.</span></p>

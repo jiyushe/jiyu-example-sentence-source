@@ -1,5 +1,7 @@
 # 斑点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bandian_1.md)
+
 <p><span class="chinese">痤疮、青春痘、粉刺、结痂斑点。</span><span class="english">Acne. Zits.</span></p>
 
 <p><span class="chinese">带著斑点的丝巾！</span><span class="english">The speckled band!</span></p>

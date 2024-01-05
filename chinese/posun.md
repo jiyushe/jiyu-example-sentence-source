@@ -1,5 +1,7 @@
 # 破损
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/posun.md)
+
 <p><span class="chinese">骨瓷容易破损。</span><span class="english">Bone china damages easily.</span></p>
 
 <p><span class="chinese">锭子和锭胆弯曲或破损。</span><span class="english">Bent or worn spindles and bolsters.</span></p>

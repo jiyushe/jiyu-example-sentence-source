@@ -1,5 +1,7 @@
 # burleigh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burleigh.md)
+
 <p><span class="chinese">伯利不知道这样的许多妇女，但他知道她是如此。</span><span class="english">Burleigh didn't know many women like that, but he knew she was like that.</span></p>
 
 <p><span class="chinese">伯利医生随即在他的办公桌圆椅和老农民皱起了眉头。</span><span class="english">Doctor Burleigh swung round in his desk-chair and frowned at the old farmer.</span></p>

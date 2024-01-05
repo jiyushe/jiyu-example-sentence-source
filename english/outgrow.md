@@ -1,5 +1,7 @@
 # outgrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outgrow.md)
+
 <p><span class="chinese">很多人摆脱了羞怯。</span><span class="english">Many outgrow their shyness.</span></p>
 
 <p><span class="chinese">你永远无法逾越这个伟大的艺术创作。</span><span class="english">You never outgrow a great work of art.</span></p>

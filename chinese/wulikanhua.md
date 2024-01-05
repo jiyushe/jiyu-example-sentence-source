@@ -1,5 +1,7 @@
 # 雾里看花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wulikanhua.md)
+
 <p><span class="chinese">这世界到处充斥着欺骗，犹如雾里看花。</span><span class="english">The world is full of smoke and mirrors.</span></p>
 
 <p><span class="chinese">在这里，我们再次雾里看花的去批评。</span><span class="english">Here we go again with the smoke and mirrors president.</span></p>

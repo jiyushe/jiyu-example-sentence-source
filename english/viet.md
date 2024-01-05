@@ -1,5 +1,7 @@
 # viet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viet.md)
+
 <p><span class="chinese">越南与中国毗邻。</span><span class="english">Viet Nam is contiguous to China.</span></p>
 
 <p><span class="chinese">这些卡宾枪再被提供给南边的越共游击队。</span><span class="english">These carbines were in turn given to the Viet Cong.</span></p>

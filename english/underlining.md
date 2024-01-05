@@ -1,5 +1,7 @@
 # underlining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underlining.md)
+
 <p><span class="chinese">注意打了下划线的有效性错误。</span><span class="english">Note the underlining of the validity error.</span></p>
 
 <p><span class="chinese">保持红色不变，但去除下划线和悬浮状态。</span><span class="english">Keep the red color, but get rid of the underlining and hover state.</span></p>

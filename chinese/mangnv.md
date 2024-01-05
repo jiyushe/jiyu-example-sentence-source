@@ -1,5 +1,7 @@
 # 盲女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangnv.md)
+
 <p><span class="chinese">盲女突然看到了蔚蓝的天空。</span><span class="english">The blind girl saw the blue sky suddenly.</span></p>
 
 <p><span class="chinese">我猛然意识到她是一个盲女。</span><span class="english">I suddenly realized that she was a Blind Girl.</span></p>

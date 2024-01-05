@@ -1,5 +1,7 @@
 # merrily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merrily.md)
+
 <p><span class="chinese">我就要放声歌唱，欢天喜地。</span><span class="english">I sing out loud and merrily.</span></p>
 
 <p><span class="chinese">鸟儿在快活地歌唱。</span><span class="english">Birds were a singing merrily.</span></p>

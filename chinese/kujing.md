@@ -1,5 +1,7 @@
 # 枯井
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kujing.md)
+
 <p><span class="chinese">告知她在遥远的枯井中把薄衫洗浣。</span><span class="english">Tell her to wash it in yonder dry well.</span></p>
 
 <p><span class="chinese">梦想能从枯井中抽出水。</span><span class="english">A dream will draw water out of a dry well.</span></p>

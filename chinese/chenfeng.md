@@ -1,5 +1,7 @@
 # 尘封
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenfeng.md)
+
 <p><span class="chinese">一串串绿萝，挂在我当年尘封的窗。</span><span class="english">Green vines, out of my dusty window.</span></p>
 
 <p><span class="chinese">尘封以后只是我的回忆罢了！</span><span class="english">Just my memory after closed-door just!</span></p>

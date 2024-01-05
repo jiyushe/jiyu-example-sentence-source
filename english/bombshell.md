@@ -1,5 +1,7 @@
 # bombshell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bombshell.md)
+
 <p><span class="chinese">我们如接受其建议，无疑是自寻死路。</span><span class="english">Our receipt of the proposal was a bombshell.</span></p>
 
 <p><span class="chinese">吃罢早饭，多萝西投下了她的重磅炸弹。</span><span class="english">As they finished breakfast, Dorothy dropped her bombshell.</span></p>

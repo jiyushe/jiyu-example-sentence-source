@@ -1,5 +1,7 @@
 # nsc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nsc.md)
+
 <p><span class="chinese">这条信息深植于NSC团队研究中。</span><span class="english">That message was rooted in the NSC team's research.</span></p>
 
 <p><span class="chinese">将申请国科会出国补助，若未获补助则改以自费出国。</span><span class="english">Applying for grant from NSC. At self expense if not being granted.</span></p>

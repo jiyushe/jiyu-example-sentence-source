@@ -1,5 +1,7 @@
 # navigable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/navigable.md)
+
 <p><span class="chinese">由汤比格比河通航墨西哥湾。</span><span class="english">By tombigbee Gulf River navigable.</span></p>
 
 <p><span class="chinese">所有可以通航的水道都已在海图上标出来。</span><span class="english">The navigable channels have all been charted.</span></p>

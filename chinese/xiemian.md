@@ -1,5 +1,7 @@
 # 斜面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiemian.md)
+
 <p><span class="chinese">通过斜面连接在一起。</span><span class="english">To meet in a miter joint.</span></p>
 
 <p><span class="chinese">你可以看到下面的斜面参数。</span><span class="english">You can see the Bevel settings below.</span></p>

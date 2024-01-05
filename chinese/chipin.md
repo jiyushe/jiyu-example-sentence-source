@@ -1,5 +1,7 @@
 # 赤贫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chipin.md)
+
 <p><span class="chinese">甚至更多的是在赤贫线上挣扎。</span><span class="english">Even more be struggle on beggarly line.</span></p>
 
 <p><span class="chinese">他的投机使他陷于赤贫。</span><span class="english">His speculation reduced him to beggary.</span></p>

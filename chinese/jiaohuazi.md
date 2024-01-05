@@ -1,5 +1,7 @@
 # 叫化子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohuazi.md)
+
 <p><span class="chinese">四个叫化子，一只小黄莺。</span><span class="english">Four Larks and a Wren.</span></p>
 
 <p><span class="chinese">操那些要钱的叫化子。</span><span class="english">Fuck the panhandlers grubbing for money.</span></p>

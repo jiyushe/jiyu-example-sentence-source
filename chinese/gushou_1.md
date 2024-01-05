@@ -1,5 +1,7 @@
 # 鼓手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gushou_1.md)
+
 <p><span class="chinese">这项新规定同样适用于军队的鼓手。</span><span class="english">The rules also apply to drummers.</span></p>
 
 <p><span class="chinese">鼓手们击备战鼓。</span><span class="english">The drummer beat the soldiers to arms.</span></p>

@@ -1,5 +1,7 @@
 # dogmatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dogmatic.md)
+
 <p><span class="chinese">常规的思考者常常拘泥于教条之中。</span><span class="english">Routine thinkers are often dogmatic.</span></p>
 
 <p><span class="chinese">这个医生是个真正的道学先生。</span><span class="english">The doctor is a very dogmatic puppet.</span></p>

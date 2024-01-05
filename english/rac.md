@@ -1,5 +1,7 @@
 # rac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rac.md)
+
 <p><span class="chinese">所有的RAC都分配掉后，剩下的乘客就在等待名单里排队。</span><span class="english">After all RAC places have been allocated, further prospective passengers are waitlisted.</span></p>
 
 <p><span class="chinese">本文报导用离子束刻蚀反射栅色散延迟线栅条以及深度加权技术。</span><span class="english">The ion beam etching process of RAC gratings is reported and the depth weighting technique is also described.</span></p>

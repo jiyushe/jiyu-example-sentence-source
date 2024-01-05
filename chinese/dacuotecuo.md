@@ -1,5 +1,7 @@
 # 大错特错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dacuotecuo.md)
+
 <p><span class="chinese">我是大错特错。</span><span class="english">How wrong I was.</span></p>
 
 <p><span class="chinese">但那将是一个大错特错的决定。</span><span class="english">But what a mistake it would be.</span></p>

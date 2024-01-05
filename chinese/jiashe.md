@@ -1,5 +1,7 @@
 # 假设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashe.md)
+
 <p><span class="chinese">这是个很大的假设。</span><span class="english">It is a big if.</span></p>
 
 <p><span class="chinese">不要妄自假设。</span><span class="english">Make no assumptions.</span></p>

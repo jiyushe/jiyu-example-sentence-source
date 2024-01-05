@@ -1,5 +1,7 @@
 # dispensary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispensary.md)
+
 <p><span class="chinese">你把它拿到药房去取药。</span><span class="english">Please take it to the dispensary.</span></p>
 
 <p><span class="chinese">他从学校的医务室买了一些药片。</span><span class="english">He bought some pills from the dispensary.</span></p>

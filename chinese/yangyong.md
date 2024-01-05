@@ -1,5 +1,7 @@
 # 仰泳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangyong.md)
+
 <p><span class="chinese">他仰泳游过游泳池。</span><span class="english">He backstroked across the pool.</span></p>
 
 <p><span class="chinese">你知道如何游仰泳吗？</span><span class="english">Do you know how to do the backstroke.</span></p>

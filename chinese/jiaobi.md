@@ -1,5 +1,7 @@
 # 焦比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaobi.md)
+
 <p><span class="chinese">提高冶炼强度，应与降低焦比并举。</span><span class="english">Both enhancing the smelting intensity and lowing the coke rate are necessary.</span></p>
 
 <p><span class="chinese">快焦比的主要优点在于可以提供一个更宽的视角。</span><span class="english">The main advantage of fast focal ratios with a telescope used visually is a wider field of view.</span></p>

@@ -1,5 +1,7 @@
 # 新词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinci.md)
+
 <p><span class="chinese">她安排新词。</span><span class="english">She arranges the new word.</span></p>
 
 <p><span class="chinese">“习习”可是个新词。</span><span class="english">"Xixi" is surely a new word.</span></p>

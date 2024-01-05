@@ -1,5 +1,7 @@
 # polling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polling.md)
+
 <p><span class="chinese">这个定时器是一种轮询机制。</span><span class="english">This timer is a polling mechanism.</span></p>
 
 <p><span class="chinese">另一个常见的技巧是长轮询。</span><span class="english">Another common technique is long polling.</span></p>

@@ -1,5 +1,7 @@
 # experimentalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/experimentalism.md)
+
 <p><span class="chinese">弗拉基米尔·纳博科夫是20世纪实验主义小说家。</span><span class="english">Nabokov is a novelist of experimentalism in the 20th century.</span></p>
 
 <p><span class="chinese">怀疑重在破坏，实验则重在建设。</span><span class="english">Scepticism emphasize on destruction while experimentalism emphasize on construction.</span></p>

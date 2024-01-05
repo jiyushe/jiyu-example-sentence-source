@@ -1,5 +1,7 @@
 # chondrosarcoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chondrosarcoma.md)
+
 <p><span class="chinese">软骨肉瘤的低倍镜外观。</span><span class="english">This is the low power microscopic appearance of a chondrosarcoma.</span></p>
 
 <p><span class="chinese">在这个区域，脊索瘤比软骨肉瘤更常见。</span><span class="english">Chordoma is a more common tumor in this location than chondrosarcoma.</span></p>

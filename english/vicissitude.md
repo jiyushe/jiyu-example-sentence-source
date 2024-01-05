@@ -1,5 +1,7 @@
 # vicissitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vicissitude.md)
+
 <p><span class="chinese">它反映了社会的变迁兴衰。</span><span class="english">It reflects the vicissitude of society.</span></p>
 
 <p><span class="chinese">这确实是我们科学的一个奇怪变迁。</span><span class="english">It is indeed a strange vicissitude of our science.</span></p>

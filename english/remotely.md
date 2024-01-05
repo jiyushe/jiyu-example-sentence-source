@@ -1,5 +1,7 @@
 # remotely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remotely.md)
+
 <p><span class="chinese">如何远程管理基本节点？</span><span class="english">How do you manage base nodes remotely?</span></p>
 
 <p><span class="chinese">我厌恶所有与德国相关的，即使隔得很远。</span><span class="english">I detest all things even remotely German.</span></p>

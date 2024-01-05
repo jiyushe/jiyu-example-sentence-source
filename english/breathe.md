@@ -1,5 +1,7 @@
 # breathe 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breathe.md)
+
 <p><span class="chinese">所以，呼吸。</span><span class="english">So, breathe.</span></p>
 
 <p><span class="chinese">让我喘囗气吧。</span><span class="english">Let me breathe.</span></p>

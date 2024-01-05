@@ -1,5 +1,7 @@
 # woodwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodwork.md)
+
 <p><span class="chinese">这件木器已涂完最后一道漆。</span><span class="english">This woodwork has had its final coat of paint.</span></p>
 
 <p><span class="chinese">窗户的木框在烂下去。</span><span class="english">The woodwork of the window frames is perishing.</span></p>

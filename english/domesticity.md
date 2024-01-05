@@ -1,5 +1,7 @@
 # domesticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domesticity.md)
+
 <p><span class="chinese">使丈夫享受家庭生活的快乐。</span><span class="english">Make the husband enjoys the pleasure of domesticity.</span></p>
 
 <p><span class="chinese">但这幅画营造出一种安静祥和且各司其职的家庭生活。</span><span class="english">Rather, it conjures up a quiet and dutiful domesticity.</span></p>

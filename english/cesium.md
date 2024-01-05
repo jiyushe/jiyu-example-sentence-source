@@ -1,5 +1,7 @@
 # cesium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cesium.md)
+
 <p><span class="chinese">氯化铯是它的主要化合物。</span><span class="english">It is the main cesium chloride compound.</span></p>
 
 <p><span class="chinese">最低的是。</span><span class="english">Cs But the lowest one is way down here, cesium.</span></p>

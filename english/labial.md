@@ -1,5 +1,7 @@
 # labial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/labial.md)
+
 <p><span class="chinese">厚厚实实的嘴唇本身就有说不尽的魅力。</span><span class="english">Thick labial itself has say never-failing glamour.</span></p>
 
 <p><span class="chinese">激光脱唇毛什么最好?多少钱?。</span><span class="english">Does laser take off labial wool what is best? How many money?</span></p>

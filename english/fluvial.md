@@ -1,5 +1,7 @@
 # fluvial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluvial.md)
+
 <p><span class="chinese">他们测量了河水的富里酸。</span><span class="english">They measured the fluvial fulvic acid.</span></p>
 
 <p><span class="chinese">主要研究目的层馆一段属河流相沉积。</span><span class="english">The first member of Guantao group belong to fluvial facies.</span></p>

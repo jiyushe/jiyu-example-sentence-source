@@ -1,5 +1,7 @@
 # warden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warden.md)
+
 <p><span class="chinese">典狱长马上开了一张支票。</span><span class="english">The Warden wrote a check.</span></p>
 
 <p><span class="chinese">我是诺顿，这里的典狱长。</span><span class="english">I'm Mr. noton, the warden.</span></p>

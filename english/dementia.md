@@ -1,5 +1,7 @@
 # dementia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dementia.md)
+
 <p><span class="chinese">预防朽迈，减少老年痴呆。</span><span class="english">Reduces senility and age-related dementia.</span></p>
 
 <p><span class="chinese">起初，这些人都是没有老年痴呆症的。</span><span class="english">At the beginning, all were free of dementia.</span></p>

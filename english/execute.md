@@ -1,5 +1,7 @@
 # execute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/execute.md)
+
 <p><span class="chinese">第三步，作计划付诸实施。</span><span class="english">Third, plan and execute.</span></p>
 
 <p><span class="chinese">我们将会怎样执行我们的测试？</span><span class="english">How will we execute our tests?</span></p>

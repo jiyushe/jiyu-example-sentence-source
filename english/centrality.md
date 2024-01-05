@@ -1,5 +1,7 @@
 # centrality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centrality.md)
+
 <p><span class="chinese">遗漏个人自由在自由国际主义中的中心地位会带来一些不利后果。</span><span class="english">The neglect of freedom’s centrality to liberal internationalism has consequences.</span></p>
 
 <p><span class="chinese">学校多元文化教育具有系统性和集中性。</span><span class="english">Multi-cultural school education has characteristics of systemicity and centrality.</span></p>

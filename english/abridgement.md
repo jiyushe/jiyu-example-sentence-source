@@ -1,5 +1,7 @@
 # abridgement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abridgement.md)
+
 <p><span class="chinese">以下是他的论文摘要。</span><span class="english">The following is an abridgement of his article.</span></p>
 
 <p><span class="chinese">市议会投票赞成限制市长的权力。</span><span class="english">The town council vote for an abridgement of the mayor's power.</span></p>

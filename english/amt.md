@@ -1,5 +1,7 @@
 # amt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amt.md)
+
 <p><span class="chinese">分析了换挡过程的控制策略对换挡品质的影响。</span><span class="english">The key to the gearshift of AMT is shift quality.</span></p>
 
 <p><span class="chinese">本文作者是AMT咨询服装业务线高级顾问。</span><span class="english">Ge Xing is senior consultant of AMT Consulting , Fashion Line.</span></p>

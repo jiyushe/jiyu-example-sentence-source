@@ -1,5 +1,7 @@
 # 笨重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benzhong.md)
+
 <p><span class="chinese">那是一个很笨重的行李箱。</span><span class="english">It was a heavy suitcase too.</span></p>
 
 <p><span class="chinese">坦克群笨重地爬上了山坡。</span><span class="english">The tanks hulked up the hill.</span></p>

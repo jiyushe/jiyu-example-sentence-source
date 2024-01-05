@@ -1,5 +1,7 @@
 # presentiment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presentiment.md)
+
 <p><span class="chinese">被激起的猜想或预感。</span><span class="english">An inspired guess or presentiment.</span></p>
 
 <p><span class="chinese">她时时有一种不祥的预感。</span><span class="english">She often has an ominous presentiment.</span></p>

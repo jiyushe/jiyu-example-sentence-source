@@ -1,5 +1,7 @@
 # icy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icy.md)
+
 <p><span class="chinese">他两手冷得象冰.</span><span class="english">Her hands as icy cold.</span></p>
 
 <p><span class="chinese">有一只落进了冰的海水里！</span><span class="english">One fell into the icy sea!</span></p>

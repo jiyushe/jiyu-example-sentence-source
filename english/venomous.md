@@ -1,5 +1,7 @@
 # venomous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venomous.md)
+
 <p><span class="chinese">雄性鸭嘴兽还有毒。</span><span class="english">Males are also venomous.</span></p>
 
 <p><span class="chinese">她把房子漆成令人心的黄色。</span><span class="english">She painted the house a venomous yellow.</span></p>

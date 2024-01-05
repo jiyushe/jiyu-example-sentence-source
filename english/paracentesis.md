@@ -1,5 +1,7 @@
 # paracentesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paracentesis.md)
+
 <p><span class="chinese">这一过程被称为穿刺。</span><span class="english">This process is called paracentesis.</span></p>
 
 <p><span class="chinese">腹穿应该在严格的消毒情况下进行。</span><span class="english">Paracentesis should be carried out under strict sterile conditions.</span></p>

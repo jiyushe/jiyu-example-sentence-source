@@ -1,5 +1,7 @@
 # 望眼欲穿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangyanyuchuan.md)
+
 <p><span class="chinese">难道他不知道她一直是望眼欲穿地盼他的信吗？</span><span class="english">Did he not know that she hung on his letters?</span></p>
 
 <p><span class="chinese">那有的是电影公司在望眼欲穿等着好本子。</span><span class="english">Crammed full of film companies desperate for good idea.</span></p>

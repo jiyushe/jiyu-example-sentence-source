@@ -1,5 +1,7 @@
 # 盛气凌人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengqilingren.md)
+
 <p><span class="chinese">你太盛气凌人了。</span><span class="english">You're too intimidating.</span></p>
 
 <p><span class="chinese">格林先生总是盛气凌人的样子。</span><span class="english">Mr Green is always on his high horse.</span></p>

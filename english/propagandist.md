@@ -1,5 +1,7 @@
 # propagandist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propagandist.md)
+
 <p><span class="chinese">总之，他是一个拿工资的宣传干事。</span><span class="english">In short, he was being paid to serve as a propagandist.</span></p>
 
 <p><span class="chinese">宣传员用扩音器对群众讲话。</span><span class="english">The propagandist used an amplifier to address the crowd.</span></p>

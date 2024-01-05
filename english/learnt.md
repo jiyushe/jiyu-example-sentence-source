@@ -1,5 +1,7 @@
 # learnt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/learnt.md)
+
 <p><span class="chinese">我学了一首新歌。</span><span class="english">I learnt a new song.</span></p>
 
 <p><span class="chinese">她已经学习一支歌。</span><span class="english">She's learnt a song.</span></p>

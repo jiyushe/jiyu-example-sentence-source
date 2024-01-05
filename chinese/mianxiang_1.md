@@ -1,5 +1,7 @@
 # 面相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianxiang_1.md)
+
 <p><span class="chinese">她面相平常。</span><span class="english">She has a plain face.</span></p>
 
 <p><span class="chinese">吴哥窟里很多面相中的一个。</span><span class="english">One of the many faces at Angkor Thom.</span></p>

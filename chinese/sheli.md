@@ -1,5 +1,7 @@
 # 舍利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheli.md)
+
 <p><span class="chinese">接着说佛牙舍利。</span><span class="english">Cue the Buddha tooth.</span></p>
 
 <p><span class="chinese">是什么？佛陀舍利。</span><span class="english">What is it? Buddha Sarira.</span></p>

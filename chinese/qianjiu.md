@@ -1,5 +1,7 @@
 # 歉疚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianjiu.md)
+
 <p><span class="chinese">那些学生显得歉疚而羞愧。</span><span class="english">The students looked guilty and abashed.</span></p>
 
 <p><span class="chinese">他歉疚地解释自己迟到的原因。</span><span class="english">In apology he explained why he was late.</span></p>

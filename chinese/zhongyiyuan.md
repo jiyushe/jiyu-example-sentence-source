@@ -1,5 +1,7 @@
 # 众议院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyiyuan.md)
+
 <p><span class="chinese">众议院已经开放的停车场。</span><span class="english">The house has an open carport.</span></p>
 
 <p><span class="chinese">众议院的莱曼纪念博物馆，希洛。</span><span class="english">The Lyman House Memorial Museum, Hilo.</span></p>

@@ -1,5 +1,7 @@
 # energetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/energetic.md)
+
 <p><span class="chinese">他的精力不减当年。</span><span class="english">He is as energetic as ever.</span></p>
 
 <p><span class="chinese">他是个精力充沛的网球手。</span><span class="english">He is an energetic tennis player.</span></p>

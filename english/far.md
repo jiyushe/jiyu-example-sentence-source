@@ -1,5 +1,7 @@
 # far
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/far.md)
+
 <p><span class="chinese">目前尚好。</span><span class="english">So far so good.</span></p>
 
 <p><span class="chinese">他不会走远的。</span><span class="english">He can’t go far.</span></p>

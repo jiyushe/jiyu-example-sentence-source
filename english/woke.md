@@ -1,5 +1,7 @@
 # woke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woke.md)
+
 <p><span class="chinese">他醒过来，冻僵了。</span><span class="english">He woke.</span></p>
 
 <p><span class="chinese">我在黎明时醒了。</span><span class="english">I woke up at dawn.</span></p>

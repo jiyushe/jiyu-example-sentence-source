@@ -1,5 +1,7 @@
 # copier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copier.md)
+
 <p><span class="chinese">我是来修复印机的。</span><span class="english">I'm here to fix the copier.</span></p>
 
 <p><span class="chinese">我需要的MT4交易复印机系统。</span><span class="english">I need a trade copier system for MT4.</span></p>

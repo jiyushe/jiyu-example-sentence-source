@@ -1,5 +1,7 @@
 # 扑面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pumian.md)
+
 <p><span class="chinese">雪花点点扑面。</span><span class="english">The snowflakes pelted his face.</span></p>
 
 <p><span class="chinese">雨朝他扑面打来。</span><span class="english">The rain was driving in his face.</span></p>

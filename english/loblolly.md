@@ -1,5 +1,7 @@
 # loblolly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loblolly.md)
+
 <p><span class="chinese">别的是厚皮刺果松。</span><span class="english">Another is the loblolly pie.</span></p>
 
 <p><span class="chinese">另一种是拉不拉多松。</span><span class="english">Another is the loblolly pine.</span></p>

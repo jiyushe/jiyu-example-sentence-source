@@ -1,5 +1,7 @@
 # cyan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyan.md)
+
 <p><span class="chinese">木—→主东方，春天，青色、绿色。</span><span class="english">Wood-For east, spring, cyan and green.</span></p>
 
 <p><span class="chinese">该色度计读数针对颜色为青色的一片。</span><span class="english">This colorimeter reading is for a patch called cyan.</span></p>

@@ -1,5 +1,7 @@
 # aggravating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggravating.md)
+
 <p><span class="chinese">干旱、缺水以及人口增加是加重这一情形的原因。</span><span class="english">Drought, population and water scarcity are aggravating factors.</span></p>
 
 <p><span class="chinese">这些举动，看在孙道存的债务人眼里，真是情何以堪！</span><span class="english">These actions are really aggravating to the eyes of Sun's debtors!</span></p>

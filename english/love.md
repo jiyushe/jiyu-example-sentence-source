@@ -1,5 +1,7 @@
 # love 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/love.md)
+
 <p><span class="chinese">我爱你们！</span><span class="english">Love ya.</span></p>
 
 <p><span class="chinese">我们的爱。</span><span class="english">Our love.</span></p>

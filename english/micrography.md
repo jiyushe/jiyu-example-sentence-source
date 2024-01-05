@@ -1,5 +1,7 @@
 # micrography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micrography.md)
+
 <p><span class="chinese">方法采用石蜡永久制片和光学显微摄像的方法。</span><span class="english">Methods Permanent paraffin sections and light micrography were used.</span></p>
 
 <p><span class="chinese">采用宏观分析、显微检验和硬度测定对压铸模进行了失效分析。</span><span class="english">This failure analysis was performed by using macro check, micrography and hardness measurement.</span></p>

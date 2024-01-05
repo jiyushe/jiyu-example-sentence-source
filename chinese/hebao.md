@@ -1,5 +1,7 @@
 # 合抱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hebao.md)
+
 <p><span class="chinese">合抱之树，生于毫末。</span><span class="english">Great oaks from little acorns grow.</span></p>
 
 <p><span class="chinese">庭罗合抱树，门泊钓鱼船。</span><span class="english">Latina encircle the tree, the door parked fishing boat.</span></p>

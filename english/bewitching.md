@@ -1,5 +1,7 @@
 # bewitching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bewitching.md)
+
 <p><span class="chinese">她给他迷人的一笑。</span><span class="english">She gave him a bewitching smile.</span></p>
 
 <p><span class="chinese">我给妳一个迷人的微笑。</span><span class="english">I will give you a bewitching smile.</span></p>

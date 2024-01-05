@@ -1,5 +1,7 @@
 # reasonableness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reasonableness.md)
+
 <p><span class="chinese">产品质量保证，价格合理。</span><span class="english">Product quality guarantee, price reasonableness.</span></p>
 
 <p><span class="chinese">小高层设计时如何把握好合理性，性至关重要。</span><span class="english">Design of small high-level grasp the reasonableness of how the economy is essential.</span></p>

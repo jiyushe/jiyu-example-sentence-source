@@ -1,5 +1,7 @@
 # drury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drury.md)
+
 <p><span class="chinese">威廉·崔佛和汤姆·杜瑞。</span><span class="english">William Trevor and Tom Drury.</span></p>
 
 <p><span class="chinese">你有见过那个住在英国德鲁里巷的邮递员吗？</span><span class="english">Have you seen the postman, who lives in Drury Lane?</span></p>

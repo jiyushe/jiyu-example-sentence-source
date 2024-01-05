@@ -1,5 +1,7 @@
 # manage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manage.md)
+
 <p><span class="chinese">我是如何进行管理的?</span><span class="english">How do I manage?</span></p>
 
 <p><span class="chinese">如何管理社会媒体？</span><span class="english">How do we manage it?</span></p>

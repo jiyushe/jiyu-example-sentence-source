@@ -1,5 +1,7 @@
 # evidence 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evidence.md)
+
 <p><span class="chinese">你有什么证据吗？</span><span class="english">Have you any evidence?</span></p>
 
 <p><span class="chinese">您看到什么迹象呢？</span><span class="english">What evidence do you see?</span></p>

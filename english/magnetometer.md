@@ -1,5 +1,7 @@
 # magnetometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetometer.md)
+
 <p><span class="chinese">磁性检测机检测金属物品的设备。</span><span class="english">Magnetometer Device used to detect metal objects.</span></p>
 
 <p><span class="chinese">用振动样品磁强计进行磁性测量。</span><span class="english">The magnetic properties were determined by vibrating sample magnetometer.</span></p>

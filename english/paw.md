@@ -1,5 +1,7 @@
 # paw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paw.md)
+
 <p><span class="chinese">但是狮子张开了他的爪子。</span><span class="english">But Lion opens his paw.</span></p>
 
 <p><span class="chinese">不要乱翻我的书。</span><span class="english">Don't paw my books about.</span></p>

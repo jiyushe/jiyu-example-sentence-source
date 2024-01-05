@@ -1,5 +1,7 @@
 # 民风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minfeng.md)
+
 <p><span class="chinese">这里铺衬的都是古朴的民风。</span><span class="english">Here are quaint shops lining folk customs.</span></p>
 
 <p><span class="chinese">妈妈说，这是这里的民风。</span><span class="english">Mum said it is the local folkway and habitude.</span></p>

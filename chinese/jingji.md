@@ -1,5 +1,7 @@
 # 竞技
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingji.md)
+
 <p><span class="chinese">还有竞技比赛。</span><span class="english">You also had games.</span></p>
 
 <p><span class="chinese">甚至是和未来的美国总统同场竞技。</span><span class="english">or even a future U.S. President.</span></p>

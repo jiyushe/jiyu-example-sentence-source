@@ -1,5 +1,7 @@
 # accomodate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accomodate.md)
+
 <p><span class="chinese">精疲力竭的魏特琳设法安置她们。</span><span class="english">An exhausted Vautrin tried to accomodate them all.</span></p>
 
 <p><span class="chinese">这辆小客车能轻松地坐下12个人。</span><span class="english">This minibus can accomodate 12 persons without any difficulty.</span></p>

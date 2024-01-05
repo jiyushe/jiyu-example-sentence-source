@@ -1,5 +1,7 @@
 # 出生率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushenglv.md)
+
 <p><span class="chinese">新出生率与去年相比有所下降。</span><span class="english">The new birthrate has decreased from last year's.</span></p>
 
 <p><span class="chinese">战争导致出生率下降。</span><span class="english">The war brought about a reduction in the birth-rate.</span></p>

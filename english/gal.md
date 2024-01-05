@@ -1,5 +1,7 @@
 # gal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gal.md)
+
 <p><span class="chinese">一个姑娘，我觉得她很善良。</span><span class="english">A gal I thought was kind.</span></p>
 
 <p><span class="chinese">你们可不要成为这样一群人。</span><span class="english">Don't be that guy or gal.</span></p>

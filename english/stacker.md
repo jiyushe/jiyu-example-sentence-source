@@ -1,5 +1,7 @@
 # stacker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stacker.md)
+
 <p><span class="chinese">工具设备，堆垛机的小麦。</span><span class="english">Tool Maker, Stacker of Wheat.</span></p>
 
 <p><span class="chinese">工具制造者，小麦收割者。</span><span class="english">Tool maker, stacker of wheat.</span></p>

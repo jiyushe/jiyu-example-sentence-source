@@ -1,5 +1,7 @@
 # tadpole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tadpole.md)
+
 <p><span class="chinese">他就是我儿时的蝌蚪。</span><span class="english">He is my tadpole.</span></p>
 
 <p><span class="chinese">这个蝌蚪已长成青蛙。</span><span class="english">The tadpole has become a frog.</span></p>

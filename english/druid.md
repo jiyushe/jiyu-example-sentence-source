@@ -1,5 +1,7 @@
 # druid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/druid.md)
+
 <p><span class="chinese">这个特点对于德鲁伊来说是优秀的。</span><span class="english">The traits of the druid class are above.</span></p>
 
 <p><span class="chinese">那个新手兽人甚至不能打到德鲁依。</span><span class="english">That newbie Orc can't even hit the Druid.</span></p>

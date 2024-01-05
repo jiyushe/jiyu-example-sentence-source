@@ -1,5 +1,7 @@
 # 在下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaixia.md)
+
 <p><span class="chinese">在下雪天滑雪。</span><span class="english">Go skiing on a snowy day.</span></p>
 
 <p><span class="chinese">他正在饮马。像好像在下雪。</span><span class="english">He is watering the horses.</span></p>

@@ -1,5 +1,7 @@
 # 机耕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jigeng.md)
+
 <p><span class="chinese">他们进一步扩大了机耕土地的面积。</span><span class="english">They further increased the area of machine-cultivated land.</span></p>
 
 <p><span class="chinese">本文用有限元法研究机耕船船体的动态强度问题。</span><span class="english">The dynamic strength of BTTM hull is studied with finite element method.</span></p>

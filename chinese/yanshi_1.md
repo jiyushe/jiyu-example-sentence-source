@@ -1,5 +1,7 @@
 # 厌世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshi_1.md)
+
 <p><span class="chinese">我也有一个厌世的阴谋。</span><span class="english">I also have a world-weary plot.</span></p>
 
 <p><span class="chinese">我也不相信厌世者。</span><span class="english">Ihave no faith in misanthropes.</span></p>

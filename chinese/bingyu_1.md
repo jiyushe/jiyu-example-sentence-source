@@ -1,5 +1,7 @@
 # 病愈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyu_1.md)
+
 <p><span class="chinese">病愈后他感到虚弱。</span><span class="english">He felt weak after illness.</span></p>
 
 <p><span class="chinese">她病愈后脸色苍白。</span><span class="english">She looked pale after the illness.</span></p>

@@ -1,5 +1,7 @@
 # incinerator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incinerator.md)
+
 <p><span class="chinese">把垃圾放入垃圾焚烧炉。</span><span class="english">Put the garbage down the incinerator.</span></p>
 
 <p><span class="chinese">太空中的那个巨大的焚化炉就会把它们都烧掉。</span><span class="english">Then a giant incinerator in space would burn the garbage.</span></p>

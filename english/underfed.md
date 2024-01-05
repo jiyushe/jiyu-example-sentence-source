@@ -1,5 +1,7 @@
 # underfed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underfed.md)
+
 <p><span class="chinese">她对他前妻的孩子不管饱。</span><span class="english">She underfed his former wife's children.</span></p>
 
 <p><span class="chinese">在地震受灾区，人们过着半饥半饱的生活。</span><span class="english">At the earthquake-striken area, people are underfed.</span></p>

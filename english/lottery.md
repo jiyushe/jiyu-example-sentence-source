@@ -1,5 +1,7 @@
 # lottery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lottery.md)
+
 <p><span class="chinese">人生犹如摸彩。</span><span class="english">Life is a lottery.</span></p>
 
 <p><span class="chinese">这就像彩券抽奖一样。</span><span class="english">This is a lottery.</span></p>

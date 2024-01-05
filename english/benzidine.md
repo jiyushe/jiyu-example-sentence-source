@@ -1,5 +1,7 @@
 # benzidine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benzidine.md)
+
 <p><span class="chinese">研究了联苯胺对大型溞的急性毒性和慢性毒性。</span><span class="english">The acute and chronic toxicities of benzidine to Daphnia magna were studied.</span></p>
 
 <p><span class="chinese">花粉的生活力染色测定以联苯胺染色较适宜。</span><span class="english">Benzidine staining can be used to get an approximate estimate of "viable" pollen.</span></p>

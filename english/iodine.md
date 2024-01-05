@@ -1,5 +1,7 @@
 # iodine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iodine.md)
+
 <p><span class="chinese">那什么是碘酒呢？</span><span class="english">And what is Iodine?</span></p>
 
 <p><span class="chinese">碘酒灼得她的伤口热辣辣的疼痛。</span><span class="english">The iodine burned her cut.</span></p>

@@ -1,5 +1,7 @@
 # 农行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nonghang.md)
+
 <p><span class="chinese">但农行的盈利状况落后于竞争对手。</span><span class="english">However, its earnings have trailed those of its rivals.</span></p>
 
 <p><span class="chinese">农行与农业的历史关系一向很复杂。</span><span class="english">AgBank's historical relationship with agriculture has been complicated.</span></p>

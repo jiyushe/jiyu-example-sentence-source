@@ -1,5 +1,7 @@
 # 远征
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzheng.md)
+
 <p><span class="chinese">远征队员于七月二十二日离开。</span><span class="english">The expeditioner left on July 22.</span></p>
 
 <p><span class="chinese">又见刘易斯和克拉克远征。</span><span class="english">See also Lewis and Clark Expedition.</span></p>

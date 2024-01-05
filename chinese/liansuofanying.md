@@ -1,5 +1,7 @@
 # 连锁反应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liansuofanying.md)
+
 <p><span class="chinese">所有我们所做的都会产生连锁反应。</span><span class="english">All these things have ripple effects.</span></p>
 
 <p><span class="chinese">这被称为原子能的连锁反应。</span><span class="english">That is called the nuclear chain reaction.</span></p>

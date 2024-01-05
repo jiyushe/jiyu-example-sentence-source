@@ -1,5 +1,7 @@
 # 水貂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuidiao.md)
+
 <p><span class="chinese">水貂的毛皮，价格昂贵。</span><span class="english">The expensive fur of a mink.</span></p>
 
 <p><span class="chinese">那位穿水貂短大衣的妇女是谁?。</span><span class="english">Who's the lady in the mink coat?</span></p>

@@ -1,5 +1,7 @@
 # surfing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surfing.md)
+
 <p><span class="chinese">我在这上网冲浪。</span><span class="english">I'm surfing the net.</span></p>
 
 <p><span class="chinese">你想去冲浪吗?</span><span class="english">Do you like to go surfing?</span></p>

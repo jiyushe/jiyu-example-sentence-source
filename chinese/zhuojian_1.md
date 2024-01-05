@@ -1,5 +1,7 @@
 # 拙见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuojian_1.md)
+
 <p><span class="chinese">依我拙见，这看起来有一些酷。</span><span class="english">Which looks kinda cool in my humble opinion.</span></p>
 
 <p><span class="chinese">针对这种情况笔者发表了拙见。</span><span class="english">Due to the circumstance, writer announce opinion by myself.</span></p>

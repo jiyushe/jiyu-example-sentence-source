@@ -1,5 +1,7 @@
 # 破天荒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/potianhuang.md)
+
 <p><span class="chinese">老师破天荒布置了一篇自由作文。</span><span class="english">The teacher delivered a free writing amazingly.</span></p>
 
 <p><span class="chinese">她有天晚上破天荒地去了一次当地的迪斯科舞厅。</span><span class="english">One evening, she made a rare outing to the local discotheque.</span></p>

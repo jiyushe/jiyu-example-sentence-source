@@ -1,5 +1,7 @@
 # 开除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaichu_1.md)
+
 <p><span class="chinese">迪克被开除了。</span><span class="english">Dick was dismissed.</span></p>
 
 <p><span class="chinese">塔克特说他确实被开除。</span><span class="english">Tackett said he was fired.</span></p>

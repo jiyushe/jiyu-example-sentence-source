@@ -1,5 +1,7 @@
 # cycloidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cycloidal.md)
+
 <p><span class="chinese">对一种新型圆弧摆线内啮合转子泵进行了研究。</span><span class="english">A new type of arc cycloidal internal meshing rotary pump was studied.</span></p>
 
 <p><span class="chinese">主传动部份采用摆线针轮减速器，寿命长、运转平稳。</span><span class="english">Some of the main drive with cycloidal reducer, long life, smooth operation.</span></p>

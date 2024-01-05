@@ -1,5 +1,7 @@
 # fingerling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fingerling.md)
+
 <p><span class="chinese">芬格灵把它称为命运你知道命运是什么吗？</span><span class="english">Fingerling called it fate. Do you know what fate is?</span></p>
 
 <p><span class="chinese">有一天，一条小鱼游到我的船边对我说，暴风雨马上就要来了。</span><span class="english">One day, a fingerling swims the side of my ship, I say, storm will come right away.</span></p>

@@ -1,5 +1,7 @@
 # sinkhole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinkhole.md)
+
 <p><span class="chinese">一个巨大的天坑导致24号州际公路长达17英里的地段被关闭。</span><span class="english">A giant sinkhole has closed a 17-mile stretch of Interstate 24.</span></p>
 
 <p><span class="chinese">这个塌方的污水池是由于雨水和地下污水流动造成的。</span><span class="english">The sinkhole was caused by rains and an underground sewageflow.</span></p>

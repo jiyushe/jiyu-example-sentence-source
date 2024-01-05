@@ -1,5 +1,7 @@
 # naval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naval.md)
+
 <p><span class="chinese">舰炮的弹药箱。</span><span class="english">Ammunition for a naval gun.</span></p>
 
 <p><span class="chinese">她爸爸是一位海军军官。</span><span class="english">Herf ather is a naval officer.</span></p>

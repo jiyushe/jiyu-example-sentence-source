@@ -1,5 +1,7 @@
 # 返朴归真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanpuguizhen.md)
+
 <p><span class="chinese">我个人意见是返朴归真。</span><span class="english">My individual opinion is art.</span></p>
 
 <p><span class="chinese">我觉得我们都返朴归真。</span><span class="english">I think we are getting back to basics.</span></p>

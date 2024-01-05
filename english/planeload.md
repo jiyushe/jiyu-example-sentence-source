@@ -1,5 +1,7 @@
 # planeload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planeload.md)
+
 <p><span class="chinese">4月21日晚，一飞机的人来到了这里。</span><span class="english">A planeload of guests arrived on the night of April 21st.</span></p>
 
 <p><span class="chinese">然后我们回到了一个精疲力竭的迈阿密消防救援队调度不及。</span><span class="english">We then returned with a planeload of a team of exhausted Miami Fire rescue.</span></p>

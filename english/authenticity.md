@@ -1,5 +1,7 @@
 # authenticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authenticity.md)
+
 <p><span class="chinese">“真实是关键，”普拉格说。</span><span class="english">"Authenticity is key," Praeger says.</span></p>
 
 <p><span class="chinese">我们保证宝石的纯正！</span><span class="english">We guarantee authenticity of gemstones!</span></p>

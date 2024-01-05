@@ -1,5 +1,7 @@
 # precession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precession.md)
+
 <p><span class="chinese">旋进的频率上升了。</span><span class="english">The precession frequency goes up.</span></p>
 
 <p><span class="chinese">此陀螺运动叫做进动。</span><span class="english">This gyroscopic motion is called precession.</span></p>

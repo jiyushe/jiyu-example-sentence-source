@@ -1,5 +1,7 @@
 # biff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biff.md)
+
 <p><span class="chinese">毕夫你到哪里去?。</span><span class="english">Biff ! Where are you going now ?</span></p>
 
 <p><span class="chinese">汤姆肚子上挨了一下，因为他惹了祸。</span><span class="english">Tom got a biff in the gut for his trouble.</span></p>

@@ -1,5 +1,7 @@
 # 在教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaijiao.md)
+
 <p><span class="chinese">但这是我们在教化他们，他还狂妄的向我解释说。</span><span class="english">But we're civilizing them! he assured me.</span></p>
 
 <p><span class="chinese">自从来到这里他就在教英语。</span><span class="english">He has taught English since he came here.</span></p>

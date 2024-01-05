@@ -1,5 +1,7 @@
 # 涓涓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanjuan.md)
+
 <p><span class="chinese">涓涓小溪也会成为滚滚洪流。</span><span class="english">A trickle becomes a torrent.</span></p>
 
 <p><span class="chinese">先是涓涓细流，接下来是滔滔洪水。</span><span class="english">First a trickle, then a flood.</span></p>

@@ -1,5 +1,7 @@
 # 西边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xibian_1.md)
+
 <p><span class="chinese">西边天空上有暴风雨在聚集。</span><span class="english">A storm is brewing in the west.</span></p>
 
 <p><span class="chinese">太阳绝不会从西边升上来。</span><span class="english">The sun never rises in the west.</span></p>

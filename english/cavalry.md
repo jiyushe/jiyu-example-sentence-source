@@ -1,5 +1,7 @@
 # cavalry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cavalry.md)
+
 <p><span class="chinese">你们没有重骑兵。</span><span class="english">You have no heavy cavalry.</span></p>
 
 <p><span class="chinese">骑兵骑的都是好马。</span><span class="english">The cavalry were well mounted.</span></p>

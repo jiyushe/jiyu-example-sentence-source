@@ -1,5 +1,7 @@
 # icicle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icicle.md)
+
 <p><span class="chinese">他因为自己所受的痛苦为自己建了一座冰宫。</span><span class="english">He built a prison of icicle for his sorrow.</span></p>
 
 <p><span class="chinese">我看到了一窗清雅细致的冰凌花！</span><span class="english">I saw a window of elegant and meticulous icicle flowers!</span></p>

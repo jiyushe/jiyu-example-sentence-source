@@ -1,5 +1,7 @@
 # 和顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshun.md)
+
 <p><span class="chinese">爱您是否最和顺的赏格。</span><span class="english">Loving you is the softest suspense.</span></p>
 
 <p><span class="chinese">你那和顺的情絮将会对谁绽放呢？</span><span class="english">For whom will your sweet body bloom?</span></p>

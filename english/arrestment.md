@@ -1,5 +1,7 @@
 # arrestment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrestment.md)
+
 <p><span class="chinese">难道没有办法阻止吗？</span><span class="english">Have no way arrestment?</span></p>
 
 <p><span class="chinese">但都会遭受到阻止。</span><span class="english">But will suffer the arrestment.</span></p>

@@ -1,5 +1,7 @@
 # 课目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kemu.md)
+
 <p><span class="chinese">数学是她最擅长的课目。</span><span class="english">Maths is her best subject.</span></p>
 
 <p><span class="chinese">数学是他最喜欢的课目。</span><span class="english">Math is his favorite subject.</span></p>

@@ -1,5 +1,7 @@
 # 静电计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdianji.md)
+
 <p><span class="chinese">大多数静电计都有修正零点漂移的方法。</span><span class="english">Most electrometers include a means to correct for zero drift.</span></p>
 
 <p><span class="chinese">主控制器单元，带有两通道静电计和伺服控制器。</span><span class="english">Main Control Unit, two-channel electrometer and servo controller.</span></p>

@@ -1,5 +1,7 @@
 # 分忧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenyou.md)
+
 <p><span class="chinese">我会为你分忧解劳。</span><span class="english">I'll take Ur part.</span></p>
 
 <p><span class="chinese">她总是为我分忧。</span><span class="english">She always shares my worries.</span></p>

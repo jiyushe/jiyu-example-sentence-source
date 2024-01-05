@@ -1,5 +1,7 @@
 # 皇后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanghou.md)
+
 <p><span class="chinese">皇后万岁!</span><span class="english">Long live queen!</span></p>
 
 <p><span class="chinese">我命名了她的皇后.</span><span class="english">I named her Queen.</span></p>

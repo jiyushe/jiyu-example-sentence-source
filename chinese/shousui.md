@@ -1,5 +1,7 @@
 # 守岁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shousui.md)
+
 <p><span class="chinese">在除夕夜里，你会守岁吗？</span><span class="english">Do you stay up until midnight on New Years Eve?</span></p>
 
 <p><span class="chinese">在除夕之夜，很多人都是整晚不睡来守岁的。</span><span class="english">On New Year's Eve, many people stay up the whole night.</span></p>

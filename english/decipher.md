@@ -1,5 +1,7 @@
 # decipher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decipher.md)
+
 <p><span class="chinese">没有人看得清他的笔迹。</span><span class="english">No one can decipher his sloppy handwriting.</span></p>
 
 <p><span class="chinese">最后，加利尔能够解密了这个文本。</span><span class="english">Finally, Galil was able to decipher the text.</span></p>

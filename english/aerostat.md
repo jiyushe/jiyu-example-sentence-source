@@ -1,5 +1,7 @@
 # aerostat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerostat.md)
+
 <p><span class="chinese">浮空器是雷达的升空平台之一。</span><span class="english">Aerostat is one of lifted-up platforms of radar.</span></p>
 
 <p><span class="chinese">系留气球是一种应用广泛的空中平台。</span><span class="english">Tethered aerostat is widely used as an aerial platform.</span></p>

@@ -1,5 +1,7 @@
 # 肖像画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxianghua.md)
+
 <p><span class="chinese">他以肖像画家著名。</span><span class="english">He was renowned as a portrait painter.</span></p>
 
 <p><span class="chinese">这里还陈列着两幅拉斐尔的肖像画作品.</span><span class="english">Raphael also painted two of the portraits here.</span></p>

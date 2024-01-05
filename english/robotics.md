@@ -1,5 +1,7 @@
 # robotics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/robotics.md)
+
 <p><span class="chinese">它应用于生产控制和机械人方面。</span><span class="english">It is used in process control and robotics.</span></p>
 
 <p><span class="chinese">他希望通过获得机器人学位，能到计划在田纳西州东南部城市查塔努加设厂的大众汽车公司工作。</span><span class="english">He hopes getting his robotics degree will persuade</span></p>

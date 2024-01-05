@@ -1,5 +1,7 @@
 # 负气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuqi_3.md)
+
 <p><span class="chinese">她们都知道怎么惹我负气。</span><span class="english">They really know how to push my buttons.</span></p>
 
 <p><span class="chinese">负气的擅自挂断了电话，没有回音。</span><span class="english">The angry to hang up the phone, no reply.</span></p>

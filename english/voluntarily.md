@@ -1,5 +1,7 @@
 # voluntarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voluntarily.md)
+
 <p><span class="chinese">衪自愿为罪人付代价。</span><span class="english">He paid the price of sin voluntarily.</span></p>
 
 <p><span class="chinese">维特自觉选择了死亡。</span><span class="english">Werther voluntarily chooses the death.</span></p>

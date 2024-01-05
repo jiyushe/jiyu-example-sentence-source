@@ -1,5 +1,7 @@
 # flickering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flickering.md)
+
 <p><span class="chinese">灯光忽明忽暗。</span><span class="english">The lights keep flickering.</span></p>
 
 <p><span class="chinese">我把摇曳的火把交给你</span><span class="english">I yield my flickering torch to Thee</span></p>

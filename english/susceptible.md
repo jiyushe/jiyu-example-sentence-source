@@ -1,5 +1,7 @@
 # susceptible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/susceptible.md)
+
 <p><span class="chinese">我们都易受广告的影响。</span><span class="english">We are all susceptible to advertising.</span></p>
 
 <p><span class="chinese">他仍然抵挡不了右手下划拳。</span><span class="english">He's still susceptible to an overhand right.</span></p>

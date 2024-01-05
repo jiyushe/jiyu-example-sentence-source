@@ -1,5 +1,7 @@
 # 纸花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhihua.md)
+
 <p><span class="chinese">他们生产纸花。</span><span class="english">They made paper flowers.</span></p>
 
 <p><span class="chinese">杨玲会做纸花，可是我不会。</span><span class="english">Yang Ling can make , but I.</span></p>

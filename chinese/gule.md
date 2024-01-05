@@ -1,5 +1,7 @@
 # 古乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gule.md)
+
 <p><span class="chinese">“纳西古乐”是什么东西?。</span><span class="english">What is Naxi Archaic Music?</span></p>
 
 <p><span class="chinese">可是这古乐需要指挥吗？</span><span class="english">But does this really need a conductor?</span></p>

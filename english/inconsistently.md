@@ -1,5 +1,7 @@
 # inconsistently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconsistently.md)
+
 <p><span class="chinese">我们得到建议，不要不一致地参与市场交易。</span><span class="english">We were not supposed to trade markets inconsistently.</span></p>
 
 <p><span class="chinese">客户端代码对基本例处理不一致。</span><span class="english">The base cases are then handled inconsistently by client code.</span></p>

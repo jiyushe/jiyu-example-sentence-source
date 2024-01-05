@@ -1,5 +1,7 @@
 # backlighting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backlighting.md)
+
 <p><span class="chinese">此外，没有遥控器上的背光照明。</span><span class="english">Moreover, there is no backlighting on the remote.</span></p>
 
 <p><span class="chinese">没有变形拉伸模式，遥控器没有背光按键。</span><span class="english">There is no anamorphic stretch mode, and the remote has no backlighting.</span></p>

@@ -1,5 +1,7 @@
 # akin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/akin.md)
+
 <p><span class="chinese">马里特说这和谋杀没什么两样。</span><span class="english">Mallett says this is akin to murder.</span></p>
 
 <p><span class="chinese">这类似于更新信息。</span><span class="english">This is akin to a changelog message.</span></p>

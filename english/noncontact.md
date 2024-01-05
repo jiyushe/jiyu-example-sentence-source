@@ -1,5 +1,7 @@
 # noncontact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noncontact.md)
+
 <p><span class="chinese">人随著年龄增长，就会变得比较喜欢不须相互碰触的运动。</span><span class="english">As people age, they become increasingly interested in noncontact sports.</span></p>
 
 <p><span class="chinese">激光光束偏转法是一种非接触的探测技术。</span><span class="english">The laser optical beam deflection method is one of the noncontact sensing technique.</span></p>

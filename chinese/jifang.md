@@ -1,5 +1,7 @@
 # 己方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jifang.md)
+
 <p><span class="chinese">从己方套牌里搜索一张基本神奇宝贝卡并将它置于己方后备区。</span><span class="english">Search your deck for a Basic Pokémon and put it onto your Bench.</span></p>
 
 <p><span class="chinese">足球队支持者在己方球队失败后闹起事来。</span><span class="english">The football supporters ran riot after the defeat of their team.</span></p>

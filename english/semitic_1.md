@@ -1,5 +1,7 @@
 # Semitic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semitic_1.md)
+
 <p><span class="chinese">闪族语系的词根结构。</span><span class="english">The root structure of the semitic languages.</span></p>
 
 <p><span class="chinese">他们建立了闪族统治者掌管的王朝。</span><span class="english">They established a dynasty of Semitic rulers.</span></p>

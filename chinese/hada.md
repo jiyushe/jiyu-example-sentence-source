@@ -1,5 +1,7 @@
 # 哈达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hada.md)
+
 <p><span class="chinese">哈达火烧的形状像上下合在一起的小圆盒子。</span><span class="english">The Hada Cake looks like a round casket.</span></p>
 
 <p><span class="chinese">原来的哈达夫妇住一个，新的哈达夫妇住一个。</span><span class="english">Hak-Tak and one for the new Mr. and Mrs. Hak-Tak.</span></p>

@@ -1,5 +1,7 @@
 # obsolescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obsolescent.md)
+
 <p><span class="chinese">这个字现在已废弃不用了。</span><span class="english">This word is now obsolescent.</span></p>
 
 <p><span class="chinese">马车已经过时。</span><span class="english">Horse carriages are obsolescent.</span></p>

@@ -1,5 +1,7 @@
 # 头昏脑胀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touhunnaozhang.md)
+
 <p><span class="chinese">啊，我觉得头昏脑胀的。</span><span class="english">Ah, I feel dizzy.</span></p>
 
 <p><span class="chinese">在地方之间周循使我头昏脑胀。</span><span class="english">I'm going from place to place.</span></p>

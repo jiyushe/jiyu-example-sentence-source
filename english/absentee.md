@@ -1,5 +1,7 @@
 # absentee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absentee.md)
+
 <p><span class="chinese">丹尼阿格尔将是另一个重要的缺席。</span><span class="english">Daniel Agger is the other noticeable absentee.</span></p>
 
 <p><span class="chinese">那位缺席者编造了一个有病的借口。</span><span class="english">The absentee is a person who is absent from work.</span></p>

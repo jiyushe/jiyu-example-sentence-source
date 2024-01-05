@@ -1,5 +1,7 @@
 # 香茅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangmao.md)
+
 <p><span class="chinese">香茅草，红咖喱，香菜。</span><span class="english">Lemon grass, red curry, cilantro.</span></p>
 
 <p><span class="chinese">也是采用香茅油的精华制成，安全有效。</span><span class="english">Consists of citronella its . it s safe effective.</span></p>

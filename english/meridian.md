@@ -1,5 +1,7 @@
 # meridian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meridian.md)
+
 <p><span class="chinese">这一位置是最高点。</span><span class="english">That location is a meridian point.</span></p>
 
 <p><span class="chinese">欢迎到访铭鼎集团网站！</span><span class="english">Welcome to Meridian Industries Group!</span></p>

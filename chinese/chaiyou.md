@@ -1,5 +1,7 @@
 # 柴油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaiyou.md)
+
 <p><span class="chinese">柴油可用作柴油机燃料。</span><span class="english">Gas-oil is used as diesel fuel.</span></p>
 
 <p><span class="chinese">一名柴油列车列车长又该如何是好？</span><span class="english">Or a conductor on a diesel train?</span></p>

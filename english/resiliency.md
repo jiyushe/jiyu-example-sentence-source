@@ -1,5 +1,7 @@
 # resiliency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resiliency.md)
+
 <p><span class="chinese">道指所表现出来的这种弹性是个好兆头。</span><span class="english">That kind of resiliency is a good sign.</span></p>
 
 <p><span class="chinese">高可用性是实现业务弹性的关键因素之一。</span><span class="english">High Availability is a key component of business resiliency.</span></p>

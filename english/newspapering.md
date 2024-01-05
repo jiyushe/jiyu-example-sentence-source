@@ -1,5 +1,7 @@
 # newspapering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newspapering.md)
+
 <p><span class="chinese">人才是报业的核心竞争力。</span><span class="english">The person with ability is the core competition of newspapering.</span></p>
 
 <p><span class="chinese">美国报业市场的孕育成熟是在镀金时代形成的。</span><span class="english">The maturity of newspapering market was formed in the Gilded age.</span></p>

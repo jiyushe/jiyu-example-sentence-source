@@ -1,5 +1,7 @@
 # 向导
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangdao.md)
+
 <p><span class="chinese">一个向导救了井淳子。</span><span class="english">One guide saved Junko.</span></p>
 
 <p><span class="chinese">你们有向导解说的参观团吗？</span><span class="english">Do you have a guided tour?</span></p>

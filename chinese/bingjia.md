@@ -1,5 +1,7 @@
 # 兵家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingjia.md)
+
 <p><span class="chinese">桥梁往往是兵家争夺之地。</span><span class="english">Bridges were often points of battle.</span></p>
 
 <p><span class="chinese">有茔兵家属不能忍者，径入京而告之。</span><span class="english">There Ying families cannot ninja, army and the Beijing.</span></p>

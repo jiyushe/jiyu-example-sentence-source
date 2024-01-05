@@ -1,5 +1,7 @@
 # 豁然开朗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huorankailang.md)
+
 <p><span class="chinese">吉盖斯发现了社会主义，心情豁然开朗。</span><span class="english">Jurgis discovers socialism and gets all happy.</span></p>
 
 <p><span class="chinese">仰望碧天，他的心情豁然开朗。</span><span class="english">Looking up at the open sky, he suddenly cheered up.</span></p>

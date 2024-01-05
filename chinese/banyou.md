@@ -1,5 +1,7 @@
 # 板油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banyou.md)
+
 <p><span class="chinese">板油大王不像一般主人那么糟。</span><span class="english">The lord of suet was not so bad as masters went.</span></p>
 
 <p><span class="chinese">连接仪表板油封的转向柱连结齿轮受损或位置错误。</span><span class="english">Other gears connect the steering wheel to the front wheels.</span></p>

@@ -1,5 +1,7 @@
 # arabesque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arabesque.md)
+
 <p><span class="chinese">我喜欢带有阿拉伯式花饰的地毯。</span><span class="english">I like carpets with arabesque patterns.</span></p>
 
 <p><span class="chinese">中印保持一种阿拉伯藤蔓式的关系。</span><span class="english">China and India have an arabesque relationship.</span></p>

@@ -1,5 +1,7 @@
 # 提问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiwen.md)
+
 <p><span class="chinese">练习提问。</span><span class="english">Practice asking.</span></p>
 
 <p><span class="chinese">那么，引导性提问。</span><span class="english">So, leading question.</span></p>

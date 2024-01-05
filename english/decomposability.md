@@ -1,5 +1,7 @@
 # decomposability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decomposability.md)
+
 <p><span class="chinese">这与分解性标准不相容。</span><span class="english">This is incompatible with the decomposability criterion.</span></p>
 
 <p><span class="chinese">涂层具有高绝缘性能和抗阴极分解能力。</span><span class="english">The coating has high insulation and anti-cathode decomposability.</span></p>

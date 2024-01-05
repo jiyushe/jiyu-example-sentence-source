@@ -1,5 +1,7 @@
 # 生殖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzhi_1.md)
+
 <p><span class="chinese">它只是为了生殖？</span><span class="english">Is it just for procreation?</span></p>
 
 <p><span class="chinese">就如我们常用的说法，火星和金星，粉女和蓝男，除了生殖能力，男人和女人甚少有共同点。</span><span class="english">Mars and Venus. Pink and blue.</span></p>

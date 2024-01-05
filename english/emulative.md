@@ -1,5 +1,7 @@
 # emulative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emulative.md)
+
 <p><span class="chinese">这样跟好强的同事相处？</span><span class="english">How to get along with emulative colleague?</span></p>
 
 <p><span class="chinese">但一股不服输的意念让刘经理决定坚持下来。</span><span class="english">But an emulative idea lets Liu manager decide to insist to come down.</span></p>

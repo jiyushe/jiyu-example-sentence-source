@@ -1,5 +1,7 @@
 # wetter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wetter.md)
+
 <p><span class="chinese">那里有更湿的水，更粘的泥！</span><span class="english">Is wetter water, slimier slime!</span></p>
 
 <p><span class="chinese">纯黑金属气候哈？</span><span class="english">Also pures Black Metal Wetter was?</span></p>

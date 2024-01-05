@@ -1,5 +1,7 @@
 # milanese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milanese.md)
+
 <p><span class="chinese">可以米兰的达芬奇呢?</span><span class="english">What happened to the Milanese Leonardo?</span></p>
 
 <p><span class="chinese">那么我想您可以要米兰瘦肉。</span><span class="english">Then I think you can have Noisettes Milanese.</span></p>

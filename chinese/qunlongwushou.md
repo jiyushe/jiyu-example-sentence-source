@@ -1,5 +1,7 @@
 # 群龙无首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qunlongwushou.md)
+
 <p><span class="chinese">这是一个群龙无首的世界。</span><span class="english">It is a leaderless world.</span></p>
 
 <p><span class="chinese">群龙无首，宋军很快就被打垮了。</span><span class="english">Leaderless, the Song troops were soon utterly routed.</span></p>

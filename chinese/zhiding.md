@@ -1,5 +1,7 @@
 # 制定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiding.md)
+
 <p><span class="chinese">制定一份计划表。</span><span class="english">Set a schedule.</span></p>
 
 <p><span class="chinese">制定行动计划。</span><span class="english">Plan for action.</span></p>

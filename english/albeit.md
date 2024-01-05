@@ -1,5 +1,7 @@
 # albeit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albeit.md)
+
 <p><span class="chinese">你把迟来的第一步。</span><span class="english">The first step taken, albeit late-coming.</span></p>
 
 <p><span class="chinese">因此，我告诉了她们实情，尽管有所删节。</span><span class="english">So I told them the truth, albeit somewhat abridged.</span></p>

@@ -1,5 +1,7 @@
 # faceted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faceted.md)
+
 <p><span class="chinese">并有多个规则面。</span><span class="english">And it is faceted.</span></p>
 
 <p><span class="chinese">一般来说，你不会找到多方面虎眼。</span><span class="english">Generally, you will not find faceted tiger eye.</span></p>

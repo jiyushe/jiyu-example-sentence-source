@@ -1,5 +1,7 @@
 # croton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croton.md)
+
 <p><span class="chinese">我住的地方离这里三个街区，在克罗顿街。</span><span class="english">I live three blocks away, on Croton Street.</span></p>
 
 <p><span class="chinese">埃文·马海尼。我住的地方离这里三个街区，在克罗顿街。</span><span class="english">Evan Mahoney. I live three blocks away, on Croton Street.</span></p>

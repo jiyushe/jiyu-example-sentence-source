@@ -1,5 +1,7 @@
 # mortally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortally.md)
+
 <p><span class="chinese">普特洛克勒斯身受重伤倒下，不久后便死去了。</span><span class="english">Patroclus fell mortally wounded and died soon.</span></p>
 
 <p><span class="chinese">你的朋友死了，而你又身受重伤。</span><span class="english">Your friend is dead, and you are mortally wounded.</span></p>

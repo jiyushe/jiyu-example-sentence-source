@@ -1,5 +1,7 @@
 # vocality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vocality.md)
+
 <p><span class="chinese">来自吐哈油田，爱好长笛演奏和声乐。</span><span class="english">From tuha oil field , like flute and vocality.</span></p>
 
 <p><span class="chinese">合唱是集体的声乐表演艺术。</span><span class="english">Chorus is a collective vocality performing art.</span></p>

@@ -1,5 +1,7 @@
 # anthropometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthropometry.md)
+
 <p><span class="chinese">足部的测量是人体测量的重要组成部分。</span><span class="english">The foot measurement is an important part of anthropometry.</span></p>
 
 <p><span class="chinese">人体测量数据是汽车驾驶员操纵空间设计的基础资料。</span><span class="english">The anthropometry data are the basic data in the design of drivers' controlling space.</span></p>

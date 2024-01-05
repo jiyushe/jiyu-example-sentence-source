@@ -1,5 +1,7 @@
 # wrathful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrathful.md)
+
 <p><span class="chinese">我的母亲因我撒谎而愤怒。</span><span class="english">My mother was wrathful with my lying.</span></p>
 
 <p><span class="chinese">我握紧双手，眼里冒著愤怒的火花。</span><span class="english">I clenched my hand with a wrathful spark in my eyes.</span></p>

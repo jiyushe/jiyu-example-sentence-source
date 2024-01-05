@@ -1,5 +1,7 @@
 # 紫砂壶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishahu.md)
+
 <p><span class="chinese">如何才能买到好的紫砂壶呢？</span><span class="english">How to buy a good ceramic tea-pot?</span></p>
 
 <p><span class="chinese">来自中国的紫砂壶，古典而优美。</span><span class="english">Tea pot from China. classicality and beauty.</span></p>

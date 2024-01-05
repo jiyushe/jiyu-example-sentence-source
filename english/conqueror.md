@@ -1,5 +1,7 @@
 # conqueror
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conqueror.md)
+
 <p><span class="chinese">征服者和被征服者。</span><span class="english">The conqueror and the conquered.</span></p>
 
 <p><span class="chinese">我们绝不会向征服者屈服。</span><span class="english">We shall never yield to a conqueror.</span></p>

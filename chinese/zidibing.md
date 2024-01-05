@@ -1,5 +1,7 @@
 # 子弟兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zidibing.md)
+
 <p><span class="chinese">比钢还要硬的人民子弟兵，向你们致敬！</span><span class="english">Than steel of the people's army to salute you!</span></p>
 
 <p><span class="chinese">面对危险，我们的子弟兵总是冲在最前面。</span><span class="english">Faced with danger, our army always rushes to the forefront.</span></p>

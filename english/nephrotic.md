@@ -1,5 +1,7 @@
 # nephrotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nephrotic.md)
+
 <p><span class="chinese">肾病综合症的症状和体征包括</span><span class="english">Signs and symptoms of nephrotic syndrome include</span></p>
 
 <p><span class="chinese">下面这些因素可能增加患肾病综合症的风险</span><span class="english">Factors that can increase your risk of nephrotic syndrome include</span></p>

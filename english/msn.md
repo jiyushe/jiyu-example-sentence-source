@@ -1,5 +1,7 @@
 # msn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/msn.md)
+
 <p><span class="chinese">若干年前，微软开始提供在线服务，即MSN。</span><span class="english">Years ago, it started its own online service, MSN.</span></p>
 
 <p><span class="chinese">中国游戏中心棋牌游戏，网络游戏，连连看…</span><span class="english">Play trivia, board, and card games online with MSN.</span></p>

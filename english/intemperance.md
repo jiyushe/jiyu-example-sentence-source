@@ -1,5 +1,7 @@
 # intemperance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intemperance.md)
+
 <p><span class="chinese">他是文艺复兴时期的产物。</span><span class="english">Disease is the child of intemperance.</span></p>
 
 <p><span class="chinese">健康和酗酒不能相容。</span><span class="english">Health does not consist with intemperance.</span></p>

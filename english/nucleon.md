@@ -1,5 +1,7 @@
 # nucleon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucleon.md)
+
 <p><span class="chinese">反常核子磁矩是由强子效应引起的。</span><span class="english">The anomalous nucleon moments are due to hadronic effects.</span></p>
 
 <p><span class="chinese">核子密度仪可快速获得其压实度。</span><span class="english">Nucleon density Instrument can test its compactness rapidly.</span></p>

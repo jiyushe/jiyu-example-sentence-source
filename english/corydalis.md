@@ -1,5 +1,7 @@
 # corydalis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corydalis.md)
+
 <p><span class="chinese">标题中国紫堇属鳞茎紫堇组的研究。</span><span class="english">New taxa of the genus Corydalis sect. Elatae.</span></p>
 
 <p><span class="chinese">中国紫堇属曲花紫堇组的研究。</span><span class="english">Study of genus Corydalis sect. Rapiferae Fedde.</span></p>

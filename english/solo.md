@@ -1,5 +1,7 @@
 # solo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solo.md)
+
 <p><span class="chinese">不要丢下我一个人。</span><span class="english">No me dejes solo.</span></p>
 
 <p><span class="chinese">现在伦巴舞踩点。</span><span class="english">Now solo for Rumba.</span></p>

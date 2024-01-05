@@ -1,5 +1,7 @@
 # 衍变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanbian_2.md)
+
 <p><span class="chinese">保险是从证券衍变而来的</span><span class="english">Insurance evolves separately from securities.</span></p>
 
 <p><span class="chinese">现在的秦腔也是吹腔衍变来的。</span><span class="english">The Shaanxi Opera is also a blow to the Evolution cavity.</span></p>

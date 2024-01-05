@@ -1,5 +1,7 @@
 # greyhound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greyhound.md)
+
 <p><span class="chinese">你有没有听过美国灰狗巴士？</span><span class="english">Have you ever heard of American Greyhound buses?</span></p>
 
 <p><span class="chinese">作为一个陛下，他肯定有改变赛狗。</span><span class="english">As a sire, he certainly changed greyhound racing.</span></p>

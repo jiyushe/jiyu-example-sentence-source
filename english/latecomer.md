@@ -1,5 +1,7 @@
 # latecomer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latecomer.md)
+
 <p><span class="chinese">我们很快原谅了迟到者。</span><span class="english">We quickly excused the latecomer.</span></p>
 
 <p><span class="chinese">相对来说，轮子是迟到者</span><span class="english">The wheel was a relative latecomer.</span></p>

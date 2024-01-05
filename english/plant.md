@@ -1,5 +1,7 @@
 # plant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plant.md)
+
 <p><span class="chinese">还要买一盆紫苏。</span><span class="english">And a basil plant.</span></p>
 
 <p><span class="chinese">在铸造厂。</span><span class="english">At a casting plant.</span></p>

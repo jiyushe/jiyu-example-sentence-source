@@ -1,5 +1,7 @@
 # 求解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiujie.md)
+
 <p><span class="chinese">这个怎么求解呢</span><span class="english">How do we find that?</span></p>
 
 <p><span class="chinese">实际上我们需要求解这个问题。</span><span class="english">Rather, we just solve them.</span></p>

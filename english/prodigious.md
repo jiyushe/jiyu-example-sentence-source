@@ -1,5 +1,7 @@
 # prodigious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prodigious.md)
+
 <p><span class="chinese">诺兰德是个特别美丽的地方吗？</span><span class="english">Norland is a prodigious beautiful place, isn't it?</span></p>
 
 <p><span class="chinese">诺兰庄园是个极其美丽的地方，是吧？</span><span class="english">Norland is a prodigious beautiful place, is not it?</span></p>

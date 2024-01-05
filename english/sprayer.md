@@ -1,5 +1,7 @@
 # sprayer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprayer.md)
+
 <p><span class="chinese">与此相同，雾化液滴的滴径也随着喷头直径成线性变化。</span><span class="english">The droplet size increases with the diameter of the sprayer too.</span></p>
 
 <p><span class="chinese">对于这样的包，喷雾器附件的存储是一个挑战。</span><span class="english">For such packs, storage of the sprayer attachment is a challenge.</span></p>

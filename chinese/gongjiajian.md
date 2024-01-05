@@ -1,5 +1,7 @@
 # 共价键
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongjiajian.md)
+
 <p><span class="chinese">所以这是氟化氢中的氢氟共价键。</span><span class="english">And so this is the H-F bond in HF.</span></p>
 
 <p><span class="chinese">他创造了共价键这一概念。</span><span class="english">And he coined the term covalent bonding.</span></p>

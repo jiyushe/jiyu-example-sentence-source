@@ -1,5 +1,7 @@
 # 源流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanliu.md)
+
 <p><span class="chinese">放松，玩，它会开启创意源流。</span><span class="english">Relax, play, it will start to flow.</span></p>
 
 <p><span class="chinese">韩国与中国的文化源流有颇多相似之处。</span><span class="english">The Korean and Chinese cultures are similar.</span></p>

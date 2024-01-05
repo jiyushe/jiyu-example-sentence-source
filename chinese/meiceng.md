@@ -1,5 +1,7 @@
 # 煤层
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiceng.md)
+
 <p><span class="chinese">页岩层在煤层下面。</span><span class="english">Shale underlies the coal.</span></p>
 
 <p><span class="chinese">煤层和铁矿混杂在一起。</span><span class="english">Coal seams intermixed with iron ore.</span></p>

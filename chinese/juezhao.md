@@ -1,5 +1,7 @@
 # 绝招
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juezhao.md)
+
 <p><span class="chinese">我早就知道你有一套绝招。</span><span class="english">I knew you could do the magic.</span></p>
 
 <p><span class="chinese">迄今为止，雅虎的绝招一直是其电邮服务。</span><span class="english">To date, the hook has been email.</span></p>

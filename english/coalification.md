@@ -1,5 +1,7 @@
 # coalification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coalification.md)
+
 <p><span class="chinese">煤化程度越高，煤的各向电异性越明显。</span><span class="english">Greater degree of coalification makes more obvious anisotropy.</span></p>
 
 <p><span class="chinese">揭示出煤中49种元素与煤岩组分和煤化程度的成生联系规律。</span><span class="english">The rules for forming 49 elements in coal, macerals, and coalification degree were studied.</span></p>

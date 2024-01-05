@@ -1,5 +1,7 @@
 # 连片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianpian.md)
+
 <p><span class="chinese">可以与香连片交替使用，以减少细菌耐药的发生。</span><span class="english">If used alternately with Xianglian tablet, it can help reduce the drug resistance.</span></p>
 
 <p><span class="chinese">草地上坑坑洼洼，沼泽连片，没有道路，没有人烟，一不小心，就有可能葬身泥潭。</span><span class="english">The potholes on the grass, bog shall, no roads, no one lives, accidentally, you may die.</span></p>

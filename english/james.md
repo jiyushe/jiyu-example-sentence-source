@@ -1,5 +1,7 @@
 # james
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/james.md)
+
 <p><span class="chinese">詹姆斯钢特”。</span><span class="english">James Gunter'.</span></p>
 
 <p><span class="chinese">詹姆斯应道。</span><span class="english">James replied.</span></p>

@@ -1,5 +1,7 @@
 # chemotaxis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemotaxis.md)
+
 <p><span class="chinese">趋化手段运动的化学反应。</span><span class="english">Chemotaxis means movement in response to a chemical.</span></p>
 
 <p><span class="chinese">通过趋化是共同的答案，所有这些问题。</span><span class="english">By chemotaxis is the common answer to all these questions.</span></p>

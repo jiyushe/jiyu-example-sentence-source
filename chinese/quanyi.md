@@ -1,5 +1,7 @@
 # 圈椅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanyi.md)
+
 <p><span class="chinese">圈椅是我国传统家具中的瑰宝。</span><span class="english">The round-backed armchair is a rarity in the antique traditional furniture of our country.</span></p>
 
 <p><span class="chinese">他们看见莫雷尔以超人的力量抱住那只坐着诺瓦梯埃的圈椅，把老人抬上楼来。</span><span class="english">Morrel was seen carrying, with superhuman strength, the arm-chair containing Noirtier up-stairs.</span></p>

@@ -1,5 +1,7 @@
 # maui
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maui.md)
+
 <p><span class="chinese">他的目标是到2020年在毛伊岛停止使用石油。</span><span class="english">His goal is to end oil use on Maui by 2020.</span></p>
 
 <p><span class="chinese">毛伊岛为全家提供阳光下的乐趣。</span><span class="english">Maui offers fun in the sun for the whole family.</span></p>

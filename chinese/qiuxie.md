@@ -1,5 +1,7 @@
 # 球鞋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuxie.md)
+
 <p><span class="chinese">买一双质量较好的球鞋。</span><span class="english">Buy a good pair of sneakers.</span></p>
 
 <p><span class="chinese">向市场过度提供网球鞋。</span><span class="english">Flood the market with tennis shoes.</span></p>

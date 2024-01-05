@@ -1,5 +1,7 @@
 # 障碍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangai.md)
+
 <p><span class="chinese">他有诵读障碍。</span><span class="english">He`s dyslexic.</span></p>
 
 <p><span class="chinese">对于再生障碍性贫血。</span><span class="english">Aplastic anemia.</span></p>

@@ -1,5 +1,7 @@
 # 修整
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuzheng_1.md)
+
 <p><span class="chinese">他正在修整一幅画。</span><span class="english">He is teasing up a picture.</span></p>
 
 <p><span class="chinese">园丁正在修整草坪。</span><span class="english">The gardener is barbering the lawn.</span></p>

@@ -1,5 +1,7 @@
 # multinomial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multinomial.md)
+
 <p><span class="chinese">多项式模型可提高拟合效果。</span><span class="english">Multinomial model can raise to the imitative effect.</span></p>
 
 <p><span class="chinese">目的研究第一类、第二类契贝谢夫多项式的一些恒等式。</span><span class="english">Aim To study the identities of the first and second Chebyshev multinomial.</span></p>

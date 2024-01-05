@@ -1,5 +1,7 @@
 # 短小精悍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanxiaojinghan.md)
+
 <p><span class="chinese">这篇文章短小精悍。</span><span class="english">This article is short and pithy.</span></p>
 
 <p><span class="chinese">这是一篇短小精悍的文章，希望您能喜欢！</span><span class="english">This is a nice reading, but short. Enjoy!</span></p>

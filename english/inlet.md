@@ -1,5 +1,7 @@
 # inlet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inlet.md)
+
 <p><span class="chinese">路缘进水口?。</span><span class="english">Curb inlet?</span></p>
 
 <p><span class="chinese">是一个典型的潮汐汊道系统。</span><span class="english">And is a typical tidal inlet system.</span></p>

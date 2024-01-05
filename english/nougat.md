@@ -1,5 +1,7 @@
 # nougat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nougat.md)
+
 <p><span class="chinese">来自瑞士，夹有杏仁牛轧和蜂蜜的瑞士牛奶巧克力。</span><span class="english">TOBLERONE, of Switzerland. Swiss milk chocolate with honey and almond nougat.</span></p>
 
 <p><span class="chinese">我们唱圣诞颂歌，吃里面有雪白牛轧糖的甜品。</span><span class="english">We sang Christmas carols and ate sweets with nougat centres as white as snow.</span></p>

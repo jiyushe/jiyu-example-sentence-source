@@ -1,5 +1,7 @@
 # 照度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaodu.md)
+
 <p><span class="chinese">照度高低取决于店面形象要求。</span><span class="english">Light levels vary depending on the store image.</span></p>
 
 <p><span class="chinese">全自动，高照度的紫外线曝光系统。</span><span class="english">Fully automated, high-intensity UV exposure systems.</span></p>

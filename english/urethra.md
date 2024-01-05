@@ -1,5 +1,7 @@
 # urethra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urethra.md)
+
 <p><span class="chinese">那么尿道口刺痛的原因是什么呢？</span><span class="english">So the reason urethra tingling what is it?</span></p>
 
 <p><span class="chinese">通过尿道或泄殖腔排泄出的液体。</span><span class="english">The liquid excreted through the urethra or cloaca.</span></p>

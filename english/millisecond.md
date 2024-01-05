@@ -1,5 +1,7 @@
 # millisecond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millisecond.md)
+
 <p><span class="chinese">它以毫秒级的精度封装时间上的某个瞬间时刻。</span><span class="english">It encapsulates an instant in time with millisecond precision.</span></p>
 
 <p><span class="chinese">按照相同的想法，使用毫秒精度计算时间。</span><span class="english">Calculating time with millisecond precision follows the same idea.</span></p>

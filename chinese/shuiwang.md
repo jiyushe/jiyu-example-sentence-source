@@ -1,5 +1,7 @@
 # 水网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiwang.md)
+
 <p><span class="chinese">喝水，就要支持水网！</span><span class="english">Drink water and support it!</span></p>
 
 <p><span class="chinese">境内水网交织，物产丰饶。</span><span class="english">Intertwined within the water network, and products of richness.</span></p>

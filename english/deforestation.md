@@ -1,5 +1,7 @@
 # deforestation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deforestation.md)
+
 <p><span class="chinese">滥伐造成冲蚀。</span><span class="english">Deforestation causes erosion.</span></p>
 
 <p><span class="chinese">新婚夫妇回头时钟毁林</span><span class="english">Newlyweds turn back clock on deforestation</span></p>

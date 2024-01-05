@@ -1,5 +1,7 @@
 # 信物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinwu.md)
+
 <p><span class="chinese">作为代表你爱的信物？</span><span class="english">As a token of your love?</span></p>
 
 <p><span class="chinese">请收下这个戒指作为信物。</span><span class="english">Please have this ring for a keepsake.</span></p>

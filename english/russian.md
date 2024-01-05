@@ -1,5 +1,7 @@
 # russian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/russian.md)
+
 <p><span class="chinese">我选择了俄语。</span><span class="english">I chose Russian.</span></p>
 
 <p><span class="chinese">这就是俄罗斯的流行歌手了？</span><span class="english">THAT is a Russian popstar?</span></p>

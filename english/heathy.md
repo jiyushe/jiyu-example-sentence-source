@@ -1,5 +1,7 @@
 # heathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heathy.md)
+
 <p><span class="chinese">我喜欢吃健康食品。</span><span class="english">I like to have heathy food.</span></p>
 
 <p><span class="chinese">如果停止吸烟他会健康。</span><span class="english">He will be heathy if he stops smoking.</span></p>

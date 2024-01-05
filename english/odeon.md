@@ -1,5 +1,7 @@
 # odeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odeon.md)
+
 <p><span class="chinese">四点，音乐厅的咖啡馆好吧？</span><span class="english">Now what about the Odeon cafe. Four o'clock?</span></p>
 
 <p><span class="chinese">阿迪库斯音乐厅，雅典卫城，雅典，希腊。</span><span class="english">Odeon of Herodes Atticus, The Acropolis, Athens, Greece.</span></p>

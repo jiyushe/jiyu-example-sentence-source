@@ -1,5 +1,7 @@
 # caprice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caprice.md)
+
 <p><span class="chinese">随着夏季随想曲。</span><span class="english">With Summer Caprice.</span></p>
 
 <p><span class="chinese">就让我们的友谊算作一时遣兴吧。</span><span class="english">Let our friendship be a caprice.</span></p>

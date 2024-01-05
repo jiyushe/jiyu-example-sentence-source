@@ -1,5 +1,7 @@
 # 病程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingcheng_1.md)
+
 <p><span class="chinese">病程为持续性加重。</span><span class="english">Course of diseases is durative accentuation.</span></p>
 
 <p><span class="chinese">所有组别的感冒病程均为大约6-7天。</span><span class="english">Colds lasted about six to seven days in all groups.</span></p>

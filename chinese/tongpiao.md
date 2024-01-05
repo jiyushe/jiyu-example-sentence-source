@@ -1,5 +1,7 @@
 # 通票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongpiao.md)
+
 <p><span class="chinese">要门票还是通票?。</span><span class="english">Admission-only or all-inclusive?</span></p>
 
 <p><span class="chinese">请问买一张去烟台的通票票价是多少?。</span><span class="english">How much is a through ticket to Portsmouth?</span></p>

@@ -1,5 +1,7 @@
 # 盘旋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panxuan.md)
+
 <p><span class="chinese">烟盘旋上升。</span><span class="english">The smoke spiralled up.</span></p>
 
 <p><span class="chinese">鸟在天空中盘旋。</span><span class="english">Birds wheeled in the sky.</span></p>

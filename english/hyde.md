@@ -1,5 +1,7 @@
 # hyde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyde.md)
+
 <p><span class="chinese">第4章海德先生是谁?。</span><span class="english">Chapter 4 Who is Mr Hyde?</span></p>
 
 <p><span class="chinese">在海德公园门口见你方便吗?</span><span class="english">Dose it suit you at the gate of Hyde Park?</span></p>

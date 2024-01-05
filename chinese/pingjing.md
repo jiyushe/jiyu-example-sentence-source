@@ -1,5 +1,7 @@
 # 平静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingjing.md)
+
 <p><span class="chinese">即使是你在平静的睡眠</span><span class="english">For even as you slumber</span></p>
 
 <p><span class="chinese">我们怎样让他平静下来？</span><span class="english">How do we calm it down?</span></p>

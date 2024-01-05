@@ -1,5 +1,7 @@
 # 着凉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoliang_1.md)
+
 <p><span class="chinese">也许只是着凉了。</span><span class="english">Maybe it’s just a cold.</span></p>
 
 <p><span class="chinese">他着凉了，很难受。</span><span class="english">He suffers from a bad cold.</span></p>

@@ -1,5 +1,7 @@
 # negotiation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negotiation.md)
+
 <p><span class="chinese">自动给谈判。</span><span class="english">Auto-Rate Negotiation.</span></p>
 
 <p><span class="chinese">谈判和协议。</span><span class="english">Negotiation and Agreement.</span></p>

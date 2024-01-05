@@ -1,5 +1,7 @@
 # 绷带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bengdai.md)
+
 <p><span class="chinese">我们需要绷带呀。</span><span class="english">We want some lint.</span></p>
 
 <p><span class="chinese">你有绷带吗？</span><span class="english">Do you have a bandage?</span></p>

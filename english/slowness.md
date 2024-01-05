@@ -1,5 +1,7 @@
 # slowness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slowness.md)
+
 <p><span class="chinese">但是更多的例子思维迟钝。</span><span class="english">But far more common is mental slowness.</span></p>
 
 <p><span class="chinese">勤奋往往能弥补智力的迟钝。</span><span class="english">Hard working often counterbalances slowness at learning.</span></p>

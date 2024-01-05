@@ -1,5 +1,7 @@
 # 雪耻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuechi.md)
+
 <p><span class="chinese">他已经复仇雪耻。</span><span class="english">He had taken his revenge.</span></p>
 
 <p><span class="chinese">主人……会为我复仇雪耻的！</span><span class="english">The master will avenge me!</span></p>

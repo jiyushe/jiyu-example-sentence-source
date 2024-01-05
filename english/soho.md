@@ -1,5 +1,7 @@
 # soho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soho.md)
+
 <p><span class="chinese">这是他们在索后买的旧货。</span><span class="english">He bought it second-hand in Soho.</span></p>
 
 <p><span class="chinese">这是他在索后买的旧货。</span><span class="english">He bought them second-hand in Soho.</span></p>

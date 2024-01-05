@@ -1,5 +1,7 @@
 # 臣民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenmin.md)
+
 <p><span class="chinese">臣民在等候您，陛下。</span><span class="english">The people await you,sire.</span></p>
 
 <p><span class="chinese">他们是封建统治者的臣民。</span><span class="english">They were subjects of a feudal ruler.</span></p>

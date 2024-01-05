@@ -1,5 +1,7 @@
 # effectively 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effectively.md)
+
 <p><span class="chinese">怎样有效去红血丝？</span><span class="english">How effectively to red blood?</span></p>
 
 <p><span class="chinese">可能，但这并不十分有效。</span><span class="english">Yes, but not very effectively.</span></p>

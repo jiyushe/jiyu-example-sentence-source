@@ -1,5 +1,7 @@
 # po
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/po.md)
+
 <p><span class="chinese">这是个好兆头，阿宝。</span><span class="english">This is a sign, Po.</span></p>
 
 <p><span class="chinese">宝是现在的巢。</span><span class="english">Po is now in the nests.</span></p>

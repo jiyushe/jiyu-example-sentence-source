@@ -1,5 +1,7 @@
 # ictus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ictus.md)
+
 <p><span class="chinese">通常有停顿之后的第三次发病英尺。</span><span class="english">There is usually a caesura after the ictus of the third foot.</span></p>
 
 <p><span class="chinese">眼下，“中原崛起”正成为河南的最强音。</span><span class="english">At present "central plains rises abruptly" becoming henan most ictus.</span></p>

@@ -1,5 +1,7 @@
 # anhydrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anhydrite.md)
+
 <p><span class="chinese">无水石膏和石膏用于制造硫酸。</span><span class="english">Anhydrite and gypsum are used in the manufacture of sulfuric acid.</span></p>
 
 <p><span class="chinese">硬石膏的加入使得球晶尺寸减小，数量增加。</span><span class="english">The anhydrite caused spherulite size of PP diminishing, the quantity increasing.</span></p>

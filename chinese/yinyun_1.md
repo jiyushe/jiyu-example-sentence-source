@@ -1,5 +1,7 @@
 # 阴云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyun_1.md)
+
 <p><span class="chinese">阴云预示有雨。</span><span class="english">The clouds promise rain.</span></p>
 
 <p><span class="chinese">晴朗的天空突然阴云密布。</span><span class="english">The sunny sky suddenly clouded.</span></p>

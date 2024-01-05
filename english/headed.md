@@ -1,5 +1,7 @@
 # headed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headed.md)
+
 <p><span class="chinese">我们的船朝南启。</span><span class="english">Our ship headed south.</span></p>
 
 <p><span class="chinese">这辆公共汽车开往哪里?</span><span class="english">Where is this bus headed?</span></p>

@@ -1,5 +1,7 @@
 # 兔崽子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuzaizi.md)
+
 <p><span class="chinese">你走错房间了，小兔崽子！</span><span class="english">You picked the wrong house, fool!</span></p>
 
 <p><span class="chinese">我要宰了你个兔崽子！</span><span class="english">I'm gonna kill that son of a bitch!</span></p>

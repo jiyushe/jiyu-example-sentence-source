@@ -1,5 +1,7 @@
 # whitehall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whitehall.md)
+
 <p><span class="chinese">怀特霍尔街上流传著谣言。</span><span class="english">Rumours are circulating in Whitehall.</span></p>
 
 <p><span class="chinese">辛迪·怀特尔．你和她上床了?。</span><span class="english">Cindi Whitehall. Have you had sex with her?</span></p>

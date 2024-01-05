@@ -1,5 +1,7 @@
 # ural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ural.md)
+
 <p><span class="chinese">依法管理草地和大力开展人工种植甘草的建议。</span><span class="english">According to the law of gover nm nt and plant the Ural licorice.</span></p>
 
 <p><span class="chinese">伏尔加河以及乌拉尔河都有流入里海。</span><span class="english">The Volga River and the Ural River discharge into the Caspian Sea.</span></p>

@@ -1,5 +1,7 @@
 # leave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leave.md)
+
 <p><span class="chinese">你留下欠条。</span><span class="english">You leave IOUs.</span></p>
 
 <p><span class="chinese">这件事归我处理。</span><span class="english">Leave this to me.</span></p>

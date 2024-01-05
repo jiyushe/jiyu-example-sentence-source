@@ -1,5 +1,7 @@
 # 吐沫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tumo.md)
+
 <p><span class="chinese">老李随即啐了一口吐沫在酒吧的一扇窗户上。</span><span class="english">Mr. Munson spat on one of the windows.</span></p>
 
 <p><span class="chinese">往手掌上吐口吐沫，双手搓了几下。</span><span class="english">He spit on his hands and rubbed them together.</span></p>

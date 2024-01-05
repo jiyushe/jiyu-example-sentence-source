@@ -1,5 +1,7 @@
 # muscle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muscle.md)
+
 <p><span class="chinese">他是个肌肉男。</span><span class="english">He's a muscle man.</span></p>
 
 <p><span class="chinese">这一切都是肌肉记忆</span><span class="english">It's muscle memory.</span></p>

@@ -1,5 +1,7 @@
 # buss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buss.md)
+
 <p><span class="chinese">在马路对面，我也坐那路车。</span><span class="english">Across street and I will take that buss too.</span></p>
 
 <p><span class="chinese">整个夏季，他都在城里一个烧烤店帮忙清理餐桌。</span><span class="english">He spent the summer buss table in a downtown grill.</span></p>

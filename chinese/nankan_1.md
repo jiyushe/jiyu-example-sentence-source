@@ -1,5 +1,7 @@
 # 难看
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nankan_1.md)
+
 <p><span class="chinese">他长得真难看。</span><span class="english">He's really ugly.</span></p>
 
 <p><span class="chinese">多难看的一张脸！</span><span class="english">What an ugly mug!</span></p>

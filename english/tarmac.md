@@ -1,5 +1,7 @@
 # tarmac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tarmac.md)
+
 <p><span class="chinese">没有停机坪延误，没有哭喊的婴孩儿。</span><span class="english">No tarmac delays, no screaming babies.</span></p>
 
 <p><span class="chinese">然后，这架飞机的停坐沥青碎石路面上一个小时了。</span><span class="english">Then, the plane sat on the tarmac for an hour.</span></p>

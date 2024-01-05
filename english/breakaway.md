@@ -1,5 +1,7 @@
 # breakaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breakaway.md)
+
 <p><span class="chinese">模拟分离演习也同时进行。</span><span class="english">Simulated breakaway maneuvers were also conducted.</span></p>
 
 <p><span class="chinese">自2001年以来，巴卡尔已导致昂儒昂岛的分裂领土。</span><span class="english">Since 2001, Bacar has led Anjouan as a breakaway territory.</span></p>

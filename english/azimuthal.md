@@ -1,5 +1,7 @@
 # azimuthal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azimuthal.md)
+
 <p><span class="chinese">这种投影称作方位投影。</span><span class="english">This is called an azimuthal projection.</span></p>
 
 <p><span class="chinese">方位界面是各向异性介质中的一种特殊现象。</span><span class="english">The azimuthal interface is a special phenomenon in anisotropic medium.</span></p>

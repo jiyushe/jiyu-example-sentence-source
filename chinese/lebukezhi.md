@@ -1,5 +1,7 @@
 # 乐不可支
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lebukezhi.md)
+
 <p><span class="chinese">“小背篓”比赛让我们乐不可支！</span><span class="english">This game makes us so happy!</span></p>
 
 <p><span class="chinese">"快乐"一词还不足以表达我的心情，我是乐不可支，飘飘欲仙。</span><span class="english">"Enjoyed" is too mild a word.</span></p>

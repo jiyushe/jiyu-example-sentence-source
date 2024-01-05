@@ -1,5 +1,7 @@
 # 嘻嘻哈哈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixihaha.md)
+
 <p><span class="chinese">他现在又开始嘻嘻哈哈了。</span><span class="english">He'll start to flourish now.</span></p>
 
 <p><span class="chinese">嘻嘻哈哈笑着，雪团飞来飞去。</span><span class="english">Laughing and joking with a smile, snow flying.</span></p>

@@ -1,5 +1,7 @@
 # 避而不谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bierbutan.md)
+
 <p><span class="chinese">而污染问题是更难避而不谈了。</span><span class="english">It is much harder to avoid its pollution.</span></p>
 
 <p><span class="chinese">美食界向来对这个秘密避而不谈。</span><span class="english">In food circles they talk of nothing else.</span></p>

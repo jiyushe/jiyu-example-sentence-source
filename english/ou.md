@@ -1,5 +1,7 @@
 # ou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ou.md)
+
 <p><span class="chinese">等等，打算去哪?。</span><span class="english">Etc, plan où aller?</span></p>
 
 <p><span class="chinese">我怎么一直都没见。到你？。</span><span class="english">H. ow come I never see y. ou?.</span></p>

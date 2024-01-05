@@ -1,5 +1,7 @@
 # faceless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faceless.md)
+
 <p><span class="chinese">你仅是百万个不知名的数字中的一个。</span><span class="english">You're just one of a million faceless numbers.</span></p>
 
 <p><span class="chinese">在传统战争影片中，敌人都是无名无姓的。</span><span class="english">IN TRADITIONAL war films, the enemy is faceless.</span></p>

@@ -1,5 +1,7 @@
 # 在心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaixin.md)
+
 <p><span class="chinese">把这紧记在心及时行乐吧。</span><span class="english">Keep that in mind and rejoice.</span></p>
 
 <p><span class="chinese">留一个影子在心湖里。</span><span class="english">Embedding a shadow in my heart.</span></p>

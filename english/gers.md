@@ -1,5 +1,7 @@
 # gers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gers.md)
+
 <p><span class="chinese">告诉妮娜怎样去学校。</span><span class="english">Tell how Nina gers to school.</span></p>
 
 <p><span class="chinese">她笑着，很高兴离开那间房子</span><span class="english">gers. She was laughing, happy to be out of the house, in</span></p>

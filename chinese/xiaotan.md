@@ -1,5 +1,7 @@
 # 笑谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaotan.md)
+
 <p><span class="chinese">笑谈渴饮匈奴血。</span><span class="english">Laughingly drink the Tartars' blood.</span></p>
 
 <p><span class="chinese">情深恭维少，知己笑谈多。——谚语。</span><span class="english">Less deep compliment, bosom friend a proverb.</span></p>

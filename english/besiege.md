@@ -1,5 +1,7 @@
 # besiege
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/besiege.md)
+
 <p><span class="chinese">他们会尝试再次围困南京。</span><span class="english">Theywould try to besiege Nanjing again.</span></p>
 
 <p><span class="chinese">当四十个严冬围攻你的眉梢</span><span class="english">When forty winters shall besiege thy brow</span></p>

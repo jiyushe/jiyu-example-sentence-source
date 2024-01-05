@@ -1,5 +1,7 @@
 # uranus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uranus.md)
+
 <p><span class="chinese">火星结合海王星。</span><span class="english">Mars conjoins Uranus.</span></p>
 
 <p><span class="chinese">木星，土星，天王星和海王星。</span><span class="english">Jupiter, Saturn, Uranus and Neptune.</span></p>

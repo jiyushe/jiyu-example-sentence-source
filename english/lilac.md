@@ -1,5 +1,7 @@
 # lilac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lilac.md)
+
 <p><span class="chinese">丁香一样的忧愁。</span><span class="english">And the glooms of lilac.</span></p>
 
 <p><span class="chinese">她的头发散发出丁香花的香味。</span><span class="english">Her hair smelt of lilac.</span></p>

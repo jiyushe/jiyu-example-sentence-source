@@ -1,5 +1,7 @@
 # 地势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dishi_1.md)
+
 <p><span class="chinese">地势突然隆起。</span><span class="english">The ground rises abruptly.</span></p>
 
 <p><span class="chinese">地势平缓。</span><span class="english">The terrain slopes gently.</span></p>

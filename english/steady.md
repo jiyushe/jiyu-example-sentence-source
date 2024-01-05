@@ -1,5 +1,7 @@
 # steady
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steady.md)
+
 <p><span class="chinese">缓慢而持续。</span><span class="english">Slow but Steady.</span></p>
 
 <p><span class="chinese">什么是稳定状态？</span><span class="english">What is steady state?</span></p>

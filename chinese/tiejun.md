@@ -1,5 +1,7 @@
 # 铁军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiejun.md)
+
 <p><span class="chinese">虎一帆也给孙铁军打德律风问了问任务的事。</span><span class="english">Tiger to play SunTieJun capable DE law wind asked task.</span></p>
 
 <p><span class="chinese">由于其杰出的工作，他们被誉为“东乡铁军”。</span><span class="english">Doing excellent work, they were praised as "Dongxiang invincible army".</span></p>

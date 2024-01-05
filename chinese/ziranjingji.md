@@ -1,5 +1,7 @@
 # 自然经济
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranjingji.md)
+
 <p><span class="chinese">但问题也出来了，象峭壁模式这样完全通过"自然经济"进行发展这几乎是不可能的。</span><span class="english">The problem is, it's almost impossible to bootstrap a cliff business.</span></p>
 
 <p><span class="chinese">“官本位”是自然经济关系条件下，权威的人格化。</span><span class="english">"Officer standard" is personification of authority in natural economic.</span></p>

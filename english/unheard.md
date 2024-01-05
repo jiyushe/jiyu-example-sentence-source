@@ -1,5 +1,7 @@
 # unheard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unheard.md)
+
 <p><span class="chinese">这不会是闻所未闻的。</span><span class="english">That would hardly be unheard of.</span></p>
 
 <p><span class="chinese">这种事在几内亚并非罕见。</span><span class="english">This is not unheard of in Guinea.</span></p>

@@ -1,5 +1,7 @@
 # methamphetamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methamphetamine.md)
+
 <p><span class="chinese">他们几乎不会提及大麻和甲基安非他命的区别.</span><span class="english">They drew little or no distinction between marijuana and methamphetamine.</span></p>
 
 <p><span class="chinese">冰毒在10到12小时内很活跃，而可卡因的活跃时间是45分钟。</span><span class="english">Methamphetamine remains active for 10 to 12 hours, compared with 45 minutes for cocaine.</span></p>

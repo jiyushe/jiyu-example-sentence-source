@@ -1,5 +1,7 @@
 # 马棚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mapeng.md)
+
 <p><span class="chinese">在马棚的里面是黑暗的。</span><span class="english">It was black inside the barn.</span></p>
 
 <p><span class="chinese">我们这是在一间马棚里过夜。</span><span class="english">We are in a barn for the night.</span></p>

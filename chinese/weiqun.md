@@ -1,5 +1,7 @@
 # 围裙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiqun.md)
+
 <p><span class="chinese">围裙趾牛津风格。</span><span class="english">Apron-toe oxford style.</span></p>
 
 <p><span class="chinese">厨师戴帽子和穿围裙。</span><span class="english">Cooks wear hats and aprons.</span></p>

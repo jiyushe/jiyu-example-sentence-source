@@ -1,5 +1,7 @@
 # 总和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonghe_1.md)
+
 <p><span class="chinese">五加三的总和是八。</span><span class="english">The sum of 5 and 3 is 8.</span></p>
 
 <p><span class="chinese">而三个数的总和都是十八。</span><span class="english">And the sums are all eighteen.</span></p>

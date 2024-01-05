@@ -1,5 +1,7 @@
 # 刻画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kehua_1.md)
+
 <p><span class="chinese">如何进行引导式景象刻画?。</span><span class="english">How do you do guided imagery?</span></p>
 
 <p><span class="chinese">刻画出你对一个朋友的记忆。</span><span class="english">Carve out a memory for a friend.</span></p>

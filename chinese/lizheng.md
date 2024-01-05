@@ -1,5 +1,7 @@
 # 例证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizheng.md)
+
 <p><span class="chinese">例证一。</span><span class="english">Quote one.</span></p>
 
 <p><span class="chinese">她给我们例证。</span><span class="english">She gave us an illustration.</span></p>

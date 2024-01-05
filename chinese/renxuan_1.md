@@ -1,5 +1,7 @@
 # 任选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renxuan_1.md)
+
 <p><span class="chinese">这是可以任选的功能部件。</span><span class="english">This is an optional feature.</span></p>
 
 <p><span class="chinese">你可以在这图书目录中任选两本。</span><span class="english">You may pick out any two books listed here.</span></p>

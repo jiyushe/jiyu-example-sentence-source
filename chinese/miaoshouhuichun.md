@@ -1,5 +1,7 @@
 # 妙手回春
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaoshouhuichun.md)
+
 <p><span class="chinese">经老五叔妙手回春，小豆子终于能说话了。</span><span class="english">The older uncle buttoned, small beans finally able to speak.</span></p>
 
 <p><span class="chinese">假如这种疾病已扩散得厉害，医生也无法妙手回春。</span><span class="english">Doctors cannot effect a cure if the disease has spread too far.</span></p>

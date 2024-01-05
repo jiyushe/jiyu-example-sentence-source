@@ -1,5 +1,7 @@
 # 袋子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daizi.md)
+
 <p><span class="chinese">但是，他还是解开了袋子。</span><span class="english">But untie it he did.</span></p>
 
 <p><span class="chinese">他有太多的袋子了。</span><span class="english">He has too many hags.</span></p>

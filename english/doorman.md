@@ -1,5 +1,7 @@
 # doorman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doorman.md)
+
 <p><span class="chinese">门卫把那个孩子轰出去了。</span><span class="english">The doorman booted the kid out.</span></p>
 
 <p><span class="chinese">在每家俱乐部的门口都有一名迎宾员。</span><span class="english">At every club one of the servants was a doorman . Mr.</span></p>

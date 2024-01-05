@@ -1,5 +1,7 @@
 # dyscalculia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyscalculia.md)
+
 <p><span class="chinese">另一些人，他们在处理数学问题上存在障碍，则可能患有计算困难。</span><span class="english">Someone who has trouble with mathematics may have  dyscalculia.</span></p>
 
 <p><span class="chinese">患有计算障碍症的孩子在读数和记住数字方面有困难。</span><span class="english">Children with dyscalculia have trouble reading numbers and picturing them in their mind.</span></p>

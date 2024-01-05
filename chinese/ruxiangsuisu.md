@@ -1,5 +1,7 @@
 # 入乡随俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruxiangsuisu.md)
+
 <p><span class="chinese">入乡随俗。</span><span class="english">Do in Rome as Romans do.</span></p>
 
 <p><span class="chinese">入乡随俗。</span><span class="english">When in Rome do as the Romans do.</span></p>

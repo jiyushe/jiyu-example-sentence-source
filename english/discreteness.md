@@ -1,5 +1,7 @@
 # discreteness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discreteness.md)
+
 <p><span class="chinese">数据组件的设计。</span><span class="english">The design of the data discreteness.</span></p>
 
 <p><span class="chinese">大脑中的空间组件是模块的一个必要特点吗？</span><span class="english">Is spatial discreteness in the brain a necessary feature of modules ?</span></p>

@@ -1,5 +1,7 @@
 # transaminase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transaminase.md)
+
 <p><span class="chinese">转氨酶高怎么办啊？</span><span class="english">How does transaminase do high?</span></p>
 
 <p><span class="chinese">转氨酶高了有什么危害？</span><span class="english">What harm does transaminase have high?</span></p>

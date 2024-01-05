@@ -1,5 +1,7 @@
 # 炼狱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianyu.md)
+
 <p><span class="chinese">仿佛前世注定的一场炼狱。</span><span class="english">Something pre-ordained. A Calvary.</span></p>
 
 <p><span class="chinese">祷告词是为炼狱中的灵魂念的。</span><span class="english">Prayers were said for souls in Purgatory.</span></p>

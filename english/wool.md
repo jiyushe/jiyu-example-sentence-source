@@ -1,5 +1,7 @@
 # wool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wool.md)
+
 <p><span class="chinese">是全毛的吗？</span><span class="english">Is it pure wool?</span></p>
 
 <p><span class="chinese">这是纯羊毛的吗？</span><span class="english">Is this pure wool?</span></p>

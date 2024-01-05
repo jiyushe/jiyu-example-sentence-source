@@ -1,5 +1,7 @@
 # 暴风骤雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baofengzhouyu.md)
+
 <p><span class="chinese">暴风骤雨让树木深深扎根！</span><span class="english">Storms make trees take deeper roots!</span></p>
 
 <p><span class="chinese">与巴基斯坦暴风骤雨般的关系？</span><span class="english">A tempestuous relationship with Pakistan?</span></p>

@@ -1,5 +1,7 @@
 # lubricity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lubricity.md)
+
 <p><span class="chinese">黏度指数高，润滑性佳。</span><span class="english">High viscosity index and good lubricity.</span></p>
 
 <p><span class="chinese">还可以使用NPC来改善燃料的润滑性。</span><span class="english">Also the NPC can be used to improve fuel lubricity.</span></p>

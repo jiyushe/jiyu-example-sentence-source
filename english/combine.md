@@ -1,5 +1,7 @@
 # combine 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combine.md)
+
 <p><span class="chinese">你不能将二者结合</span><span class="english">You can't combine them.</span></p>
 
 <p><span class="chinese">我们把检索与机译结合。</span><span class="english">We combine retrieval with MT.</span></p>

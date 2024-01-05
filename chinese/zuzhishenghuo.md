@@ -1,5 +1,7 @@
 # 组织生活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuzhishenghuo.md)
+
 <p><span class="chinese">组织生活中存在惯性。</span><span class="english">Inertia pervades organizational life.</span></p>
 
 <p><span class="chinese">事实上只要有群体和组织生活的地方就必定产生权力现象。</span><span class="english">In fact, power is produced where there is group and organ life.</span></p>

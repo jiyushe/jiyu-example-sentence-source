@@ -1,5 +1,7 @@
 # grandmother
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandmother.md)
+
 <p><span class="chinese">故事里的罗姿是我的祖母。</span><span class="english">Roz was my grandmother.</span></p>
 
 <p><span class="chinese">我的祖母很爱我。</span><span class="english">My grandmother loved me.</span></p>

@@ -1,5 +1,7 @@
 # 荣辱与共
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongruyugong.md)
+
 <p><span class="chinese">在这个国家，我们荣辱与共。</span><span class="english">In this country, we share weal and woe.</span></p>
 
 <p><span class="chinese">她与我荣辱与共。</span><span class="english">She shares my troubles as well as my joys.</span></p>

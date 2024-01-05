@@ -1,5 +1,7 @@
 # 攻城略地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchenglvedi.md)
+
 <p><span class="chinese">中国的一位经理形容，这就像“攻城略地”。</span><span class="english">It's a “land-grab situation”, says a Chinese executive.</span></p>
 
 <p><span class="chinese">他们会继续攻城略地，在某些情况下，取代我们。</span><span class="english">They will continue to gain ground and, in some cases, overtake us.</span></p>

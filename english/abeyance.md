@@ -1,5 +1,7 @@
 # abeyance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abeyance.md)
+
 <p><span class="chinese">这一习俗已经中止了。</span><span class="english">The tradition has fallen into abeyance.</span></p>
 
 <p><span class="chinese">这一规定自1980年起失效。</span><span class="english">The rule has been in abeyance since 1980.</span></p>

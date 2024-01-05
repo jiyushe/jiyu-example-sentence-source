@@ -1,5 +1,7 @@
 # digitize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digitize.md)
+
 <p><span class="chinese">如果你能把这些书籍数字化，那么可以。</span><span class="english">If you can digitize books, go for it.</span></p>
 
 <p><span class="chinese">它可以把所有东西数字化。</span><span class="english">The Doxie can digitize all the things.</span></p>

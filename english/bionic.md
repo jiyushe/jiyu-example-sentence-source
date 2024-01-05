@@ -1,5 +1,7 @@
 # bionic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bionic.md)
+
 <p><span class="chinese">让仿生冠与您的口腔完美融合。</span><span class="english">Bionic crown to blend with your mouth.</span></p>
 
 <p><span class="chinese">仿生手臂紧紧是ECoG软件的一项潜在应用。</span><span class="english">Bionic arms are just one potential use for ECoG.</span></p>

@@ -1,5 +1,7 @@
 # merino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merino.md)
+
 <p><span class="chinese">套衫毛衣体育12号美利奴羊毛针织。</span><span class="english">Pullover sweater sports a 12-gauge merino wool knit.</span></p>
 
 <p><span class="chinese">当时她戴的是一顶棉绒帽，穿的是一件粗毛呢裙袍。</span><span class="english">She was then wearing a plush hat and her merino gown.</span></p>

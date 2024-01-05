@@ -1,5 +1,7 @@
 # 招待所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaodaisuo.md)
+
 <p><span class="chinese">青年招待所协会。</span><span class="english">The Youth Hostels Association.</span></p>
 
 <p><span class="chinese">青年招待所协会。</span><span class="english">Mum. The Youth Hostels Association.</span></p>

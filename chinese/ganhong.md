@@ -1,5 +1,7 @@
 # 干红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganhong.md)
+
 <p><span class="chinese">这种干红怎么样？</span><span class="english">What about this dry red?</span></p>
 
 <p><span class="chinese">我只喜欢干红和于白葡萄酒。</span><span class="english">I only like red wine and dry white wine.</span></p>

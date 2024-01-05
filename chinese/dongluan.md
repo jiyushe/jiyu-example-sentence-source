@@ -1,5 +1,7 @@
 # 动乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongluan.md)
+
 <p><span class="chinese">动乱，然后是饥荒。</span><span class="english">Then if convulsion, then famine.</span></p>
 
 <p><span class="chinese">所以这里有很多动乱。</span><span class="english">So there's quite a lot of unrests here.</span></p>

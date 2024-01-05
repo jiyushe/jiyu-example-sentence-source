@@ -1,5 +1,7 @@
 # hickey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hickey.md)
+
 <p><span class="chinese">你脖子上那个是吻痕吗？</span><span class="english">Is that a hickey on your neck?</span></p>
 
 <p><span class="chinese">哇，你脖子上的那个是唇印吧？</span><span class="english">Wow! Is that a hickey on your neck?</span></p>

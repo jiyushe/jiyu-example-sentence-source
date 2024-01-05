@@ -1,5 +1,7 @@
 # parr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parr.md)
+
 <p><span class="chinese">我提议帕尔先生担任主席。</span><span class="english">I propose that Mr. Parr be the chairman.</span></p>
 
 <p><span class="chinese">我们甚至还没有试图劝阻他们，帕尔说。</span><span class="english">We are not even trying to dissuade them, Parr said.</span></p>

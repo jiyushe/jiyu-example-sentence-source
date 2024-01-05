@@ -1,5 +1,7 @@
 # willpower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willpower.md)
+
 <p><span class="chinese">意志力能测吗？</span><span class="english">Can we measure willpower?</span></p>
 
 <p><span class="chinese">你的意志力存量是有限的。</span><span class="english">You have limited reserves of willpower.</span></p>

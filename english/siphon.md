@@ -1,5 +1,7 @@
 # siphon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siphon.md)
+
 <p><span class="chinese">什么是虹吸式咖啡壶？</span><span class="english">What is a Siphon Coffee Maker?</span></p>
 
 <p><span class="chinese">将发酵液虹吸入大玻璃瓶。</span><span class="english">Siphon the must into the carboy.</span></p>

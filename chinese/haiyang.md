@@ -1,5 +1,7 @@
 # 海洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiyang.md)
+
 <p><span class="chinese">致命的海洋。</span><span class="english">The deadly ocean.</span></p>
 
 <p><span class="chinese">但这里只是海洋的起点。</span><span class="english">But not out of sea.</span></p>

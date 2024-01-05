@@ -1,5 +1,7 @@
 # bushido
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bushido.md)
+
 <p><span class="chinese">仅仅是武士道精神?。</span><span class="english">Only the spirit of Bushido ?</span></p>
 
 <p><span class="chinese">他们一起传递出了武士道精神。</span><span class="english">They together present the spirit of Bushido.</span></p>

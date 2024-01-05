@@ -1,5 +1,7 @@
 # 引信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxin.md)
+
 <p><span class="chinese">手榴弹的五秒引信总会在三秒内烧完。</span><span class="english">Five second fuses forever blaze three seconds.</span></p>
 
 <p><span class="chinese">顶盖是在引信旋转和封闭。</span><span class="english">The top cover is rotated and closed over the fuze.</span></p>

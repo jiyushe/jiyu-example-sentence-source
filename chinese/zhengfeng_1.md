@@ -1,5 +1,7 @@
 # 整风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengfeng_1.md)
+
 <p><span class="chinese">这次整风，就是放一把明矾。</span><span class="english">The current rectification is like a dose of alum.</span></p>
 
 <p><span class="chinese">不搞整风，恐怕解决不了问题。</span><span class="english">Without it some problems may be difficult to solve.</span></p>

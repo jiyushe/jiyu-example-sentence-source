@@ -1,5 +1,7 @@
 # butter 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butter.md)
+
 <p><span class="chinese">五星级黄油？</span><span class="english">Five star butter?</span></p>
 
 <p><span class="chinese">牛油花生味的？</span><span class="english">Peanut Butter flavor?</span></p>

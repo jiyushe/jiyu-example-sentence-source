@@ -1,5 +1,7 @@
 # 顶视图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingshitu.md)
+
 <p><span class="chinese">一顶视图的拖拉机。</span><span class="english">A top view of the tractor.</span></p>
 
 <p><span class="chinese">一顶视图的直升机。</span><span class="english">A top view of the helicopter.</span></p>

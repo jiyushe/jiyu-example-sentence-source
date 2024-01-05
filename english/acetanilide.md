@@ -1,5 +1,7 @@
 # acetanilide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetanilide.md)
+
 <p><span class="chinese">什么止痛药止痛比较好？</span><span class="english">What anodyne is acetanilide better?</span></p>
 
 <p><span class="chinese">心痛的时候吃止痛片有效吗？</span><span class="english">Aching when eat acetanilide piece effective?</span></p>

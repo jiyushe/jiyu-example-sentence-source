@@ -1,5 +1,7 @@
 # radix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radix.md)
+
 <p><span class="chinese">可以使用的基数排序在卡片分类。</span><span class="english">The radix sort can be used on card sorting.</span></p>
 
 <p><span class="chinese">基数排序由于其效率高而被广泛应用。</span><span class="english">Radix sorting is widely used for its high efficiency.</span></p>

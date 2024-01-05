@@ -1,5 +1,7 @@
 # skim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skim.md)
+
 <p><span class="chinese">所以别再让前戏草草了事了。</span><span class="english">So don't skim on foreplay.</span></p>
 
 <p><span class="chinese">或者，你可以把这些甘油弄出来。</span><span class="english">Or, you can skim the glycerin off.</span></p>

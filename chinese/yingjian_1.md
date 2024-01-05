@@ -1,5 +1,7 @@
 # 硬件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingjian_1.md)
+
 <p><span class="chinese">为何做开放硬件？</span><span class="english">Why do open hardware?</span></p>
 
 <p><span class="chinese">硬件加速。</span><span class="english">Hardware acceleration.</span></p>

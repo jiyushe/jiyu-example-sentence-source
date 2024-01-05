@@ -1,5 +1,7 @@
 # cephalosporin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cephalosporin.md)
+
 <p><span class="chinese">赖氨酸对头孢菌素C发酵可能无任何积极作用。</span><span class="english">Lys has no any promoting effect on cephalosporin C fermentation.</span></p>
 
 <p><span class="chinese">头孢类药物抗菌谱广，抗菌作用强。</span><span class="english">The effect of broad-spectrum cephalosporin in antibacterial and antimicrobial is strong.</span></p>

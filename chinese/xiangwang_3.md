@@ -1,5 +1,7 @@
 # 相望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangwang_3.md)
+
 <p><span class="chinese">爱是波澜起伏的海洋，我们的灵魂隔海相望！</span><span class="english">Love is a moving sea, between our soul!</span></p>
 
 <p><span class="chinese">该公园与银行隔街相望/该公园在银行的对面。</span><span class="english">The park is across the street from the bank.</span></p>

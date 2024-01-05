@@ -1,5 +1,7 @@
 # blubber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blubber.md)
+
 <p><span class="chinese">孩子要哭，你就让她大声哭吧。</span><span class="english">Children cry, you let her blubber it.</span></p>
 
 <p><span class="chinese">没有瘦素小鼠简直就是又懒又肥的绒毛球。</span><span class="english">And mice without leptin are sluggish balls of blubber.</span></p>

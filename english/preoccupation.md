@@ -1,5 +1,7 @@
 # preoccupation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preoccupation.md)
+
 <p><span class="chinese">这一势不可挡的长久相思和强烈想念是我们生理的一部分。</span><span class="english">This overwhelming preoccupation and drive is part of our biology.</span></p>
 
 <p><span class="chinese">但是过度耽于逻辑思想也自有其不利之处。</span><span class="english">But sheer preoccupation with logical thinking has also its drawbacks.</span></p>

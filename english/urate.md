@@ -1,5 +1,7 @@
 # urate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urate.md)
+
 <p><span class="chinese">你怎么评价你的英语能力？</span><span class="english">How would urate ur English ability?</span></p>
 
 <p><span class="chinese">别嘌呤醇是一种合适的长期降尿酸药物。</span><span class="english">Allopurinol is an appropriate long term urate lowering therapy.</span></p>

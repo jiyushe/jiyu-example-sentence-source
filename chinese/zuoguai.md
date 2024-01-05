@@ -1,5 +1,7 @@
 # 作怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoguai.md)
+
 <p><span class="chinese">盛田昭夫认为这是种族主义偏见在作怪。</span><span class="english">He was suggesting the reason was racism.</span></p>
 
 <p><span class="chinese">另外还有一些无形的因素在作怪。</span><span class="english">And there are other, less tangible factors.</span></p>

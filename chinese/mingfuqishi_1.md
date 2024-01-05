@@ -1,5 +1,7 @@
 # 名符其实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingfuqishi_1.md)
+
 <p><span class="chinese">李明是一个名符其实的劳动榜样。</span><span class="english">Li Ming is a model stayer worthy of the title.</span></p>
 
 <p><span class="chinese">当今体育用品行业中，耐克和阿迪达斯是名符其实的巨人。</span><span class="english">Nike and Adidas are two leading heads among sports goods.</span></p>

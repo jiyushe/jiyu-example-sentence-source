@@ -1,5 +1,7 @@
 # materialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/materialism.md)
+
 <p><span class="chinese">唯物主义的危险。</span><span class="english">The dangers of materialism.</span></p>
 
 <p><span class="chinese">唯心论和唯物论是对立的。</span><span class="english">Idealism is opposite to materialism.</span></p>

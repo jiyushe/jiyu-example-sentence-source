@@ -1,5 +1,7 @@
 # rationale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rationale.md)
+
 <p><span class="chinese">这居然成了他们的理由。</span><span class="english">That's the rationale.</span></p>
 
 <p><span class="chinese">这章是本研究的理论基础。</span><span class="english">It is the rationale of this study.</span></p>

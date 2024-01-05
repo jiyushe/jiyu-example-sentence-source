@@ -1,5 +1,7 @@
 # 本县
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benxian.md)
+
 <p><span class="chinese">本县境内主要有五条河流。</span><span class="english">The County has five major rivers.</span></p>
 
 <p><span class="chinese">“给县吏”应指在本县服役。</span><span class="english">"Give Xian Li" shall mean service in this county.</span></p>

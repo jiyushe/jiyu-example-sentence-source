@@ -1,5 +1,7 @@
 # 马马虎虎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mamahuhu.md)
+
 <p><span class="chinese">他马马虎虎地修理我的旧钟。</span><span class="english">He tinkered with my old clock.</span></p>
 
 <p><span class="chinese">不，不怎么好。马马虎虎，谢谢。</span><span class="english">No, nothing much. So-so, thanks.</span></p>

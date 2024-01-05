@@ -1,5 +1,7 @@
 # humanities
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanities.md)
+
 <p><span class="chinese">人文学的教授。</span><span class="english">A professor of humanities.</span></p>
 
 <p><span class="chinese">学人文科学的报偿在何处呢?</span><span class="english">Where’s the payoff on the humanities?</span></p>

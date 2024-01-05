@@ -1,5 +1,7 @@
 # lollipop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lollipop.md)
+
 <p><span class="chinese">爸爸会去给你买一个棒棒糖。</span><span class="english">Papa's gonna buy you a lollipop.</span></p>
 
 <p><span class="chinese">我吃了爆米花，玉米片，香蕉和棒棒糖。</span><span class="english">I ate popcorn, cornflakes, banana and lollipop.</span></p>

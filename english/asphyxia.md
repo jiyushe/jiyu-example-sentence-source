@@ -1,5 +1,7 @@
 # asphyxia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asphyxia.md)
+
 <p><span class="chinese">其中围生期窒息是发病的主要危险因素。</span><span class="english">Among them perineonate asphyxia is the main dangerous factor.</span></p>
 
 <p><span class="chinese">结论窒息新生儿ARF发生率高且预后不良。</span><span class="english">Conclusion The incident rate of ARF was high in asphyxia neonatorum.</span></p>

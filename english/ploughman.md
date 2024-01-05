@@ -1,5 +1,7 @@
 # ploughman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ploughman.md)
+
 <p><span class="chinese">农夫荷锄犁，倦倦回家门。</span><span class="english">The ploughman homeward plods his weary way.</span></p>
 
 <p><span class="chinese">然后，一个农夫说，跟我们说一说工作吧。</span><span class="english">Then a ploughman said, Speak to us of Work.</span></p>

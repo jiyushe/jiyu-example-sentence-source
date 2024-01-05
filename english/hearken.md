@@ -1,5 +1,7 @@
 # hearken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hearken.md)
+
 <p><span class="chinese">母狮，战争之后，聆听并记住！</span><span class="english">Lioness, Queen of the Battle, Hearken and Remember!</span></p>
 
 <p><span class="chinese">你要说“爱我”吗？若不然，你就听我说。</span><span class="english">Are you going to say"Love me"? If, not, hearken unto me.</span></p>

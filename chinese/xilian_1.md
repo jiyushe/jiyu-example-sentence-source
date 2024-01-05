@@ -1,5 +1,7 @@
 # 洗炼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xilian_1.md)
+
 <p><span class="chinese">英语中由色彩词汇构成的成语使用广泛，形象生动，语言洗炼，富于哲理。</span><span class="english">Idioms formed by colour words in English are vivid, concise, moral and widely used.</span></p>
 
 <p><span class="chinese">不仅仅提示了婴孩期的纯洁，还提示了由经验洗炼过的智慧。</span><span class="english">They suggest not merely the purity of infancy, but a wisdom clarified by experience.</span></p>

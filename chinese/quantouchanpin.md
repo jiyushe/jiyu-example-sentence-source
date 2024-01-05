@@ -1,5 +1,7 @@
 # 拳头产品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quantouchanpin.md)
+
 <p><span class="chinese">此产品也是我单位的拳头产品。</span><span class="english">This product is also my fist Products unit.</span></p>
 
 <p><span class="chinese">这是我们厂的拳头产品。</span><span class="english">This is the knock-out product of our factory.</span></p>

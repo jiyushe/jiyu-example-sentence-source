@@ -1,5 +1,7 @@
 # stable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stable.md)
+
 <p><span class="chinese">所以Li2是稳定的。</span><span class="english">Dilithium is stable.</span></p>
 
 <p><span class="chinese">现在He2，稳定吗？</span><span class="english">Now, He2, stable or not?</span></p>

@@ -1,5 +1,7 @@
 # 千变万化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianbianwanhua.md)
+
 <p><span class="chinese">朋友之义，难在义字千变万化。</span><span class="english">Friend, is the righteous word.</span></p>
 
 <p><span class="chinese">我的意思是，她是千变万化的。</span><span class="english">I mean, I mean she is ever-changing.</span></p>

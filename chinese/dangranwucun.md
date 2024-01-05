@@ -1,5 +1,7 @@
 # 荡然无存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangranwucun.md)
+
 <p><span class="chinese">顷刻之间，她的美貌荡然无存。</span><span class="english">In a few moments her beauty had vanished forever.</span></p>
 
 <p><span class="chinese">他怜悯她命运的情愫早已经荡然无存了。</span><span class="english">His tearfulness about her fate had already diminished.</span></p>

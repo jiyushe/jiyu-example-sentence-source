@@ -1,5 +1,7 @@
 # promisee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promisee.md)
+
 <p><span class="chinese">许愿就是债，欠了不容赖。</span><span class="english">Promisee is debt.</span></p>
 
 <p><span class="chinese">承诺再多，做不到，那也只不过还是谎言言。</span><span class="english">Promisee more, not to be, that is just a lie.</span></p>

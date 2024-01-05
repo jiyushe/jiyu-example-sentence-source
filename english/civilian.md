@@ -1,5 +1,7 @@
 # civilian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/civilian.md)
+
 <p><span class="chinese">民船在讨生活。</span><span class="english">Civilian boats in order to live.</span></p>
 
 <p><span class="chinese">军工品质，民品价格！！！</span><span class="english">Military quality, civilian price!</span></p>

@@ -1,5 +1,7 @@
 # 取决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qujue.md)
+
 <p><span class="chinese">不过这的确取决于你。</span><span class="english">But it's really upto you.</span></p>
 
 <p><span class="chinese">你的成败取决于此。</span><span class="english">Your dreams depend on it.</span></p>

@@ -1,5 +1,7 @@
 # 听凭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingping.md)
+
 <p><span class="chinese">这家公司听凭环境标准的不断下降。</span><span class="english">The company had let environmental standards slide.</span></p>
 
 <p><span class="chinese">是退还贵公司或是听凭贵公司来处理？</span><span class="english">Shall we return them to you or hold them at your disposal?</span></p>

@@ -1,5 +1,7 @@
 # outwards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outwards.md)
+
 <p><span class="chinese">那门是朝里开还是朝外开？</span><span class="english">Does the door open inwards or outwards?</span></p>
 
 <p><span class="chinese">这门朝里开还是朝外开?</span><span class="english">Does this door open inwards or outwards?</span></p>

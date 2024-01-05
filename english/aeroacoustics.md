@@ -1,5 +1,7 @@
 # aeroacoustics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeroacoustics.md)
+
 <p><span class="chinese">阐述了中国民机产业发展中存在的主要声学问题，提出了中国民机声学与噪声专业研究发展规划。</span><span class="english">The ma in problem of aeroacoustics to be solved for civil airplane is introduced in this paper.</span></p>
 
 <p><span class="chinese">最终证明了谱元方法求解计算气动声学问题的可行性。</span><span class="english">Finally the feasibility of spectral element methods for Computational Aeroacoustics is verified.</span></p>

@@ -1,5 +1,7 @@
 # opengl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opengl.md)
+
 <p><span class="chinese">修复了时不时会导致模拟器中的OpenGL应用崩溃的一个问题。</span><span class="english">Fixed a problem that would randomly crash OpenGL applications on the simulator.</span></p>
 
 <p><span class="chinese">确保高级OpenGL菜单中的球形旋转选项是被激活的。</span><span class="english">Make sure that Trackball Rotation is active in your camera Advanced OpenGL menu.</span></p>

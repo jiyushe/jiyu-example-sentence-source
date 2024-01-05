@@ -1,5 +1,7 @@
 # lactose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lactose.md)
+
 <p><span class="chinese">含有乳糖和无麸质食品。</span><span class="english">A lactose and gluten-free product.</span></p>
 
 <p><span class="chinese">乳糖产生葡萄糖和半乳糖。</span><span class="english">Lactose gives glucose and galactose.</span></p>

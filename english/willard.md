@@ -1,5 +1,7 @@
 # willard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willard.md)
+
 <p><span class="chinese">早上好，我可以和威拉得先生讲话吗？</span><span class="english">Good morning. Could I speak with Mr. Willard please?</span></p>
 
 <p><span class="chinese">但威拉德全凭双手完成雕像，过程令人惊叹。</span><span class="english">But Willard creates it all by hand in an astonishing process.</span></p>

@@ -1,5 +1,7 @@
 # xanadu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xanadu.md)
+
 <p><span class="chinese">还要拥有一个世外桃源。</span><span class="english">Still have a xanadu.</span></p>
 
 <p><span class="chinese">这里民风淳朴，有“世外桃源”之称。</span><span class="english">Here folkway is simple, and has the name of xanadu.</span></p>

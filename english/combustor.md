@@ -1,5 +1,7 @@
 # combustor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combustor.md)
+
 <p><span class="chinese">尾喷管直接安装在模型发动机的燃烧室出口。</span><span class="english">Scramjet nozzle was installed at the exit of the combustor.</span></p>
 
 <p><span class="chinese">超燃冲压发动机由进气道、隔离段、燃烧室和尾喷管组成。</span><span class="english">The scramjet is composed of inlet, isolator, combustor and nozzle.</span></p>

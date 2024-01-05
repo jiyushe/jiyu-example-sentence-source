@@ -1,5 +1,7 @@
 # pluralism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pluralism.md)
+
 <p><span class="chinese">坚持多元论的人。</span><span class="english">One who adheres to pluralism.</span></p>
 
 <p><span class="chinese">这就是多元化的宗旨。</span><span class="english">That is the aim of pluralism.</span></p>

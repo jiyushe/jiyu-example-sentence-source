@@ -1,5 +1,7 @@
 # 现实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshi_7.md)
+
 <p><span class="chinese">现实中能找到这种人。</span><span class="english">Well you could.</span></p>
 
 <p><span class="chinese">回到现实中来。</span><span class="english">Back to reality.</span></p>

@@ -1,5 +1,7 @@
 # explication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explication.md)
+
 <p><span class="chinese">在期中之前至少交一篇说明，在第24课前交另一篇。</span><span class="english">Do at least one explication by midterm, another before Lecture 24.</span></p>
 
 <p><span class="chinese">麦肯批评说对“区域”一词的含义缺少解释。</span><span class="english">McKen criticises the lack of explication of what the term "areas" means.</span></p>

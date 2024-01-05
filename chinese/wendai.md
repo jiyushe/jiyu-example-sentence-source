@@ -1,5 +1,7 @@
 # 温带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wendai.md)
+
 <p><span class="chinese">皇蛾生活于温带森林。</span><span class="english">Emperor moths live in temperate forests.</span></p>
 
 <p><span class="chinese">欧洲和亚洲温带一年生草。</span><span class="english">annual grass of Europe and temperate Asia.</span></p>

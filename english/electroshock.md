@@ -1,5 +1,7 @@
 # electroshock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electroshock.md)
+
 <p><span class="chinese">她曾通过电击疗法和各种药物进行治疗。</span><span class="english">She was treated with electroshock therapy and medication.</span></p>
 
 <p><span class="chinese">阐述了间接触电形成的过程及其原理。</span><span class="english">The forming process and principle of indirect electroshock are expounded.</span></p>

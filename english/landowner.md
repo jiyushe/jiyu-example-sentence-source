@@ -1,5 +1,7 @@
 # landowner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landowner.md)
+
 <p><span class="chinese">在美国，采矿权属地主所有。</span><span class="english">In America, mineral rights belong to the landowner.</span></p>
 
 <p><span class="chinese">那人可能是当地的农民、地主或者商人。</span><span class="english">He might be a local farmer landowner or businessman.</span></p>

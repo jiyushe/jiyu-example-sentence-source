@@ -1,5 +1,7 @@
 # 有意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyi_3.md)
+
 <p><span class="chinese">好吧，这确实是有意的。</span><span class="english">So this is intentional.</span></p>
 
 <p><span class="chinese">业余时间赚点零花。有意请联系！</span><span class="english">Please feel free to contact me!</span></p>

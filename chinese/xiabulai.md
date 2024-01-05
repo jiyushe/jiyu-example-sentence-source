@@ -1,5 +1,7 @@
 # 下不来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiabulai.md)
+
 <p><span class="chinese">上去的就永远下不来。</span><span class="english">What goes up never comes down.</span></p>
 
 <p><span class="chinese">她的体温降下不来。</span><span class="english">Her temperature won't come down.</span></p>

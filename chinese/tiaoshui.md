@@ -1,5 +1,7 @@
 # 跳水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoshui.md)
+
 <p><span class="chinese">鲁尼的跳水将我们置于死地。</span><span class="english">We lost to a Rooney dive.</span></p>
 
 <p><span class="chinese">她从高台跳板上跳水。</span><span class="english">She dived in off the high board.</span></p>

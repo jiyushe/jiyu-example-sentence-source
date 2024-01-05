@@ -1,5 +1,7 @@
 # 解散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiesan.md)
+
 <p><span class="chinese">他吹哨子解散全体海员。</span><span class="english">He piped away all the sailors.</span></p>
 
 <p><span class="chinese">国王解散了议会。</span><span class="english">The king dissolved parliament.</span></p>

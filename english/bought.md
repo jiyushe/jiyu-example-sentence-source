@@ -1,5 +1,7 @@
 # bought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bought.md)
+
 <p><span class="chinese">午餐是我付的账。</span><span class="english">I bought the lunch.</span></p>
 
 <p><span class="chinese">我们把它带回家。</span><span class="english">We bought him home.</span></p>

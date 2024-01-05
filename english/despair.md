@@ -1,5 +1,7 @@
 # despair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despair.md)
+
 <p><span class="chinese">不要悲观失望。</span><span class="english">Don't despair.</span></p>
 
 <p><span class="chinese">因战败而绝望。</span><span class="english">Despair in Defeat.</span></p>

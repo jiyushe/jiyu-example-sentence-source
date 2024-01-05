@@ -1,5 +1,7 @@
 # loveless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loveless.md)
+
 <p><span class="chinese">无性无爱的婚姻里，男人更喜欢工作？</span><span class="english">Sexless and loveless marriages where men prefer to be at work?</span></p>
 
 <p><span class="chinese">另一位朋友说，他们的婚姻已堕落为一只“没有爱的绣花枕头”。</span><span class="english">Another said the marriage had been reduced to a " loveless sham".</span></p>

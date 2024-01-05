@@ -1,5 +1,7 @@
 # coalescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coalescent.md)
+
 <p><span class="chinese">本文中自行设计了聚结实验装置，制作了新型的聚结填料。</span><span class="english">This paper designed a pilot plant for coalescence, and manufactured new coalescent pack.</span></p>
 
 <p><span class="chinese">建设宪政国家与建设法治政府，需同步进行。</span><span class="english">We should built the consummate coalescent china and nomocracy government in the same time.</span></p>

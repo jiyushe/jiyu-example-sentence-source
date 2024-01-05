@@ -1,5 +1,7 @@
 # faceplate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faceplate.md)
+
 <p><span class="chinese">安装控制面板贴面。</span><span class="english">Install the control panel faceplate.</span></p>
 
 <p><span class="chinese">面板通过钣金加工成型。</span><span class="english">The faceplate is shaped through sheeting.</span></p>

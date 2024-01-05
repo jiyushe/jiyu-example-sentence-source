@@ -1,5 +1,7 @@
 # lino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lino.md)
+
 <p><span class="chinese">哇！它在那里，蹄子踏在食品储藏室门前的漆布上。</span><span class="english">Wow! There it was, hoofing the lino by the larder door.</span></p>
 
 <p><span class="chinese">在去活动室之前，我们和宝宝一起拍了些像片。</span><span class="english">Before we sent her to the Baby Lino , we took some pictures with her.</span></p>

@@ -1,5 +1,7 @@
 # 倒影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoying.md)
+
 <p><span class="chinese">把浮世映成倒影。</span><span class="english">Into a reflection of the Ukiyo Ying.</span></p>
 
 <p><span class="chinese">打倒影狼佐！死神，全力战斗。</span><span class="english">Defeat Kageroza! Shinigami, All-Out War!</span></p>

@@ -1,5 +1,7 @@
 # salary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salary.md)
+
 <p><span class="chinese">这是你的工资。</span><span class="english">This is your salary.</span></p>
 
 <p><span class="chinese">薪水排在第六位。</span><span class="english">Salary came in sixth.</span></p>

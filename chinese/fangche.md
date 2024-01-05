@@ -1,5 +1,7 @@
 # 纺车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangche.md)
+
 <p><span class="chinese">她用纺车纺纱。</span><span class="english">She span on a spinning wheel.</span></p>
 
 <p><span class="chinese">在真正的木纺车上。</span><span class="english">On real wooden spinning wheels.</span></p>

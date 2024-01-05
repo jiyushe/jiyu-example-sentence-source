@@ -1,5 +1,7 @@
 # 西人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiren_1.md)
+
 <p><span class="chinese">阿雷瓦西人是好战的族群。</span><span class="english">The Arevaci are a warlike people.</span></p>
 
 <p><span class="chinese">东人党与西人党决定和解。</span><span class="english">The party decided to reconcile with the buzite party.</span></p>

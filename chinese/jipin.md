@@ -1,5 +1,7 @@
 # 极品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jipin.md)
+
 <p><span class="chinese">最旁边的在玩极品飞车？</span><span class="english">Do your best, you are the best.</span></p>
 
 <p><span class="chinese">不用麻烦，咱蜗牛速度赛过极品飞车。</span><span class="english">Don't worry. It's a racing snail.</span></p>

@@ -1,5 +1,7 @@
 # thriftily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thriftily.md)
+
 <p><span class="chinese">这些房子建造得俭朴。</span><span class="english">The houses are thriftily built.</span></p>
 
 <p><span class="chinese">我们要勤俭办一切事业。</span><span class="english">We should run all undertakings industrially and thriftily.</span></p>

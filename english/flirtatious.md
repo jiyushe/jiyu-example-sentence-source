@@ -1,5 +1,7 @@
 # flirtatious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flirtatious.md)
+
 <p><span class="chinese">她举止极为轻浮。</span><span class="english">She was incredibly flirtatious.</span></p>
 
 <p><span class="chinese">那一地的赤红，如血，美丽，妖艳。</span><span class="english">That a red, like blood, beautiful, flirtatious.</span></p>

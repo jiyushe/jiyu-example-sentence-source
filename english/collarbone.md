@@ -1,5 +1,7 @@
 # collarbone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collarbone.md)
+
 <p><span class="chinese">现在我有个破碎的锁骨。</span><span class="english">I now have a broken collarbone.  FML</span></p>
 
 <p><span class="chinese">沿着他的锁骨瘀伤有指纹。</span><span class="english">Fingerprint bruising along his collarbone.</span></p>

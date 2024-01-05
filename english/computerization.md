@@ -1,5 +1,7 @@
 # computerization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/computerization.md)
+
 <p><span class="chinese">以医疗档案的电脑化管理为例。</span><span class="english">Take the computerization of medical records.</span></p>
 
 <p><span class="chinese">会计电算化是会计工作的发展趋势。</span><span class="english">Computerization is the trend of accounting work.</span></p>

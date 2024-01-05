@@ -1,5 +1,7 @@
 # belay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belay.md)
+
 <p><span class="chinese">把缆绳系在这系缆墩上。</span><span class="english">Belay on this cleat.</span></p>
 
 <p><span class="chinese">你要信任你的保护站。</span><span class="english">You need to trust your belay stations.</span></p>

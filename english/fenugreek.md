@@ -1,5 +1,7 @@
 # fenugreek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fenugreek.md)
+
 <p><span class="chinese">与葫芦巴相关的旧大陆草本植物。</span><span class="english">Old World herb related to fenugreek.</span></p>
 
 <p><span class="chinese">葫芦巴籽由种皮，胚乳和胚组成。</span><span class="english">Fenugreek seed comprises seed coat, endosperm and embryo.</span></p>

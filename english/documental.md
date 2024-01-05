@@ -1,5 +1,7 @@
 # documental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/documental.md)
+
 <p><span class="chinese">朝鲜李朝在中国保存下来的档案文书弥足珍贵。</span><span class="english">The documental files of Korea's Li Dynasty retained in China are of great treasure.</span></p>
 
 <p><span class="chinese">为此本文提出了一种基于文档聚类的网络辅助浏览技术。</span><span class="english">So the paper puts forward an Internet browsing assisted technology based on documental clustering.</span></p>

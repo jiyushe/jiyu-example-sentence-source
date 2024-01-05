@@ -1,5 +1,7 @@
 # 百日咳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bairike.md)
+
 <p><span class="chinese">小孩子咋么会的百日咳？</span><span class="english">Dot how the whooping cough of the meeting?</span></p>
 
 <p><span class="chinese">对于百日咳没有专门的治疗方法。</span><span class="english">There is no specific treatment for pertussis.</span></p>

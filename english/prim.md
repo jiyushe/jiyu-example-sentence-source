@@ -1,5 +1,7 @@
 # prim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prim.md)
+
 <p><span class="chinese">她们矫揉造作，一本正经还撅着嘴。</span><span class="english">They mince and prim and pout.</span></p>
 
 <p><span class="chinese">两个一本正经的老处女安静地坐在一起。</span><span class="english">Two prim spinsters are sitting together quietly.</span></p>

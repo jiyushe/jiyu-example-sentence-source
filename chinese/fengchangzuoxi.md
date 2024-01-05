@@ -1,5 +1,7 @@
 # 逢场作戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengchangzuoxi.md)
+
 <p><span class="chinese">我有两个选择，逢场作戏或直言相告。</span><span class="english">I had two choices.</span></p>
 
 <p><span class="chinese">有的人把交朋友当作是逢场作戏。</span><span class="english">Some people regard friendship as a game.</span></p>

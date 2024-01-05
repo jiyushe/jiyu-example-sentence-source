@@ -1,5 +1,7 @@
 # telophase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telophase.md)
+
 <p><span class="chinese">末期大致是早期的逆向。</span><span class="english">Telophase is roughly the reverse of prophase.</span></p>
 
 <p><span class="chinese">据统计，在美国，糖尿病肾病是终末期肾功能衰竭的首位病因。</span><span class="english">In America, DN is the first cause in telophase renal failure.</span></p>

@@ -1,5 +1,7 @@
 # anoxia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anoxia.md)
+
 <p><span class="chinese">缺氧与产伤为其主要病因。</span><span class="english">The main causes were anoxia and birth injury.</span></p>
 
 <p><span class="chinese">脑缺氧后小鼠存活时间。</span><span class="english">Survival duration of mice after cerebral anoxia.</span></p>

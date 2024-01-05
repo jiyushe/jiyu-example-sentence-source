@@ -1,5 +1,7 @@
 # 分门别类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenmenbielei.md)
+
 <p><span class="chinese">我们很难把乳酪分门别类。</span><span class="english">Cheese is hard to classify.</span></p>
 
 <p><span class="chinese">每周，我把它们分门别类整理到这个分类盒子里。</span><span class="english">Every week, I sort them into this sorter.</span></p>

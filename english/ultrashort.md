@@ -1,5 +1,7 @@
 # ultrashort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrashort.md)
+
 <p><span class="chinese">应用超短波也有较好疗效。</span><span class="english">Application is ultrashort also have better curative effect.</span></p>
 
 <p><span class="chinese">利用理论解析推导的方法给出了超短洛仑兹脉冲光束的解析解。</span><span class="english">The analytical expression of the ultrashort Lorena pulsed beams is deduced.</span></p>

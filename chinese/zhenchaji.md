@@ -1,5 +1,7 @@
 # 侦察机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenchaji.md)
+
 <p><span class="chinese">丘吉尔接到的报告称，一架侦察机在执行完任务穿越英国海岸返航途中，遭到一架不明飞行物的尾随。</span><span class="english">by a UFO as it crossed the British coast.</span></p>
 
 <p><span class="chinese">首批侦察机开始空降行动。</span><span class="english">So the first scouts start the landing operation.</span></p>

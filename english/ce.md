@@ -1,5 +1,7 @@
 # ce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ce.md)
+
 <p><span class="chinese">典藏版所提供的染料是无限的。</span><span class="english">The CE dyes are infinite in their use.</span></p>
 
 <p><span class="chinese">它是毛细管电泳中流动相的“推动力”。</span><span class="english">This is the mobile phase "pump" in CE.</span></p>

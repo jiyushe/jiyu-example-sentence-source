@@ -1,5 +1,7 @@
 # intergrowth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intergrowth.md)
+
 <p><span class="chinese">人类与地理环境的共生。</span><span class="english">Intergrowth of mankind and geographical conditions.</span></p>
 
 <p><span class="chinese">第三章，“理论”与“实践”的共生。</span><span class="english">Chapter three entitled "theory" and intergrowth "practiced".</span></p>

@@ -1,5 +1,7 @@
 # pretoria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretoria.md)
+
 <p><span class="chinese">他的农庄主人是来自首都比勒陀利亚的白人。</span><span class="english">The owner of his farm is a white man from Pretoria.</span></p>
 
 <p><span class="chinese">在他刚当选国防部长的时候，佩雷斯就秘密访问了比勒陀利亚。</span><span class="english">Early on his new role, Peres secretly visited Pretoria.</span></p>

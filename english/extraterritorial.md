@@ -1,5 +1,7 @@
 # extraterritorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extraterritorial.md)
+
 <p><span class="chinese">二是域外风险的侵入和波及。</span><span class="english">Second, extraterritorial incursions and spread risk.</span></p>
 
 <p><span class="chinese">首先，跨境暗杀会越来越频繁。</span><span class="english">First, extraterritorial assassinations are going to happen more and more.</span></p>

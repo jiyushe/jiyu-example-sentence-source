@@ -1,5 +1,7 @@
 # confederacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confederacy.md)
+
 <p><span class="chinese">实际上，南方军从来没有年龄要求。</span><span class="english">The Confederacy never actually established an age requirement.</span></p>
 
 <p><span class="chinese">联盟没有一长制首长，即没有主掌执行权的首脑。</span><span class="english">The confederacy had no official head or chief executive officer.</span></p>

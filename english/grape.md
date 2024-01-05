@@ -1,5 +1,7 @@
 # grape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grape.md)
+
 <p><span class="chinese">这几天蒲萄很便宜。</span><span class="english">Grape is cheap these days.</span></p>
 
 <p><span class="chinese">这葡萄有酸味。</span><span class="english">The grape has a sour taste.</span></p>

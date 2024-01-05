@@ -1,5 +1,7 @@
 # commit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commit.md)
+
 <p><span class="chinese">提交任何已应用的文件组。</span><span class="english">Commit any applied filesets.</span></p>
 
 <p><span class="chinese">不可奸淫。</span><span class="english">You shall not commit adultery.</span></p>

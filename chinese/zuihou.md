@@ -1,5 +1,7 @@
 # 最后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuihou.md)
+
 <p><span class="chinese">最后一个成分是语法</span><span class="english">Finally, syntax.</span></p>
 
 <p><span class="chinese">最后她被录取了。</span><span class="english">She was admitted.</span></p>

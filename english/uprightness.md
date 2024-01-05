@@ -1,5 +1,7 @@
 # uprightness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uprightness.md)
+
 <p><span class="chinese">他被视为清正廉洁的典范。</span><span class="english">He is seen as the mirror of honesty and uprightness.</span></p>
 
 <p><span class="chinese">饥渴慕义的人是有福的。</span><span class="english">Blessed are those who hunger and thirst for uprightness.</span></p>

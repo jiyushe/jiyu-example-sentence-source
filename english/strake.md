@@ -1,5 +1,7 @@
 # strake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strake.md)
+
 <p><span class="chinese">采用边条控制技术，可获得所需要的控制力与控制力矩。</span><span class="english">The required control forces and moments can be obtained using strake control techniques.</span></p>
 
 <p><span class="chinese">F-15的受油接口位于左侧翼根蒙皮的上方、发动机进气口的外侧。</span><span class="english">The F-15's connection is outboard of the left engine inlet in the upper body of the wing root strake.</span></p>

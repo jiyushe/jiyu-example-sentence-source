@@ -1,5 +1,7 @@
 # timecard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timecard.md)
+
 <p><span class="chinese">你打左卡未呀?。</span><span class="english">Did you punch the timecard?</span></p>
 
 <p><span class="chinese">工作时间被记录在工时记录卡吗?。</span><span class="english">Is work time documented by a timecard?</span></p>

@@ -1,5 +1,7 @@
 # 热能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reneng.md)
+
 <p><span class="chinese">热能与动力工程。</span><span class="english">Thermal Energy and Power Engineering.</span></p>
 
 <p><span class="chinese">太阳的热能将陆龟的卵孵出小龟。</span><span class="english">The heat of the sun hatches turtles' eggs.</span></p>

@@ -1,5 +1,7 @@
 # snowy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowy.md)
+
 <p><span class="chinese">你是喜欢下雪天还是喜欢晴天呢？</span><span class="english">Snowy or sunny?</span></p>
 
 <p><span class="chinese">是一个下雪天。</span><span class="english">It's a snowy day.</span></p>

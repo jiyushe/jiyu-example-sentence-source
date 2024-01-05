@@ -1,5 +1,7 @@
 # conform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conform.md)
+
 <p><span class="chinese">我这么做只是随大流。</span><span class="english">I just do it to conform.</span></p>
 
 <p><span class="chinese">我们需要遵循现实。</span><span class="english">And we need to conform to it.</span></p>

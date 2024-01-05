@@ -1,5 +1,7 @@
 # interrupter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interrupter.md)
+
 <p><span class="chinese">得到的结果可以为真空灭弧室的研究和设计提供参考。</span><span class="english">The results can provide information for study and design of vacuum interrupter.</span></p>
 
 <p><span class="chinese">假如你对这个问题回答“当然”的时候，就不要因为被打断而生气。</span><span class="english">Don't get angry with the interrupter if you answered, "Sure! " to their question.</span></p>

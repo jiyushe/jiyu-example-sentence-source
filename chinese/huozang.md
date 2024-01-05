@@ -1,5 +1,7 @@
 # 火葬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huozang.md)
+
 <p><span class="chinese">请求你把我火葬，行吗？</span><span class="english">Please cremate me, OK?</span></p>
 
 <p><span class="chinese">我还需要油，以便火葬。</span><span class="english">I need oil as well, for the pyre.</span></p>

@@ -1,5 +1,7 @@
 # telluric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telluric.md)
+
 <p><span class="chinese">岩石变形、破裂和磨擦、介质极化生电可能是大地电场前兆机理之一。</span><span class="english">The deformation, rupture and friction and media polarization are one of the reasons of the telluric precursor.</span></p>
 
 <p><span class="chinese">文中阐述了该区的地电特征，对低阻层的成因进行了探讨。</span><span class="english">This paper discusses the characteristics of the telluric currents of the area and the origin of the low-resistivity layers.</span></p>

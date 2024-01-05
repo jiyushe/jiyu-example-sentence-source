@@ -1,5 +1,7 @@
 # 政策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengce.md)
+
 <p><span class="chinese">这是一个三赢的政策。</span><span class="english">It's a win-win-win.</span></p>
 
 <p><span class="chinese">这就是我的政策。</span><span class="english">That is our policy.</span></p>

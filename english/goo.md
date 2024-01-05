@@ -1,5 +1,7 @@
 # goo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goo.md)
+
 <p><span class="chinese">汤团充满了甜的粘稠物。</span><span class="english">The dumplings are filled with sweet goo.</span></p>
 
 <p><span class="chinese">Google的网址缩短服务地址是，goo.gl，5个字母。</span><span class="english">Google’s shortener, goo.gl, is 5 characters.</span></p>

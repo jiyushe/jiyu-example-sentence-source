@@ -1,5 +1,7 @@
 # medlar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medlar.md)
+
 <p><span class="chinese">里面有红枣和枸杞子。</span><span class="english">It has jujube and medlar.</span></p>
 
 <p><span class="chinese">月经来的时候能不能吃枸杞？</span><span class="english">Can medlar eat when menstruation comes?</span></p>

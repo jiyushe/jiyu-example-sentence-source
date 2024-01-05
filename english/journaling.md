@@ -1,5 +1,7 @@
 # journaling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/journaling.md)
+
 <p><span class="chinese">写日志意味着你绝不可能理屈词穷</span><span class="english">Journaling Means You Never Run Out of Ideas</span></p>
 
 <p><span class="chinese">这种新方式只对元数据进行日志记录。</span><span class="english">This new mode works by journaling metadata only.</span></p>

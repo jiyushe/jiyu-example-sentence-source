@@ -1,5 +1,7 @@
 # 军纪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junji_1.md)
+
 <p><span class="chinese">士兵受军纪约束。</span><span class="english">Soldiers are governed by military discipline.</span></p>
 
 <p><span class="chinese">肯定严明军纪是首要问题啊。</span><span class="english">Must strict military discipline is the primary problem.</span></p>

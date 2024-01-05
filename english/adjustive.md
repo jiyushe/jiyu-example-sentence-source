@@ -1,5 +1,7 @@
 # adjustive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjustive.md)
+
 <p><span class="chinese">分析了参数模糊自整定PID的原理。</span><span class="english">The strategy of parameter fuzzy automatic adjustive PID is analysed.</span></p>
 
 <p><span class="chinese">甘草酸对小鼠高血脂具有调节作用。</span><span class="english">Glycyrrhizic acid had adjustive effect against hyperlipoidemia in mice.</span></p>

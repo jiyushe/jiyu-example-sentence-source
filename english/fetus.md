@@ -1,5 +1,7 @@
 # fetus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fetus.md)
+
 <p><span class="chinese">一个完整的胎儿期约266天。</span><span class="english">A full-term fetus is about 266 days old.</span></p>
 
 <p><span class="chinese">当男性胎儿逐渐发育，睪丸便会下降。</span><span class="english">As a male fetus develops, the gonads descend.</span></p>

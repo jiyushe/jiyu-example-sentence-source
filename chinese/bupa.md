@@ -1,5 +1,7 @@
 # 不怕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bupa.md)
+
 <p><span class="chinese">他天不怕地不怕。</span><span class="english">He is scared of nothing.</span></p>
 
 <p><span class="chinese">我一点都不怕死！</span><span class="english">I'm not afraid of death!</span></p>

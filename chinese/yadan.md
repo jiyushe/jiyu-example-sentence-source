@@ -1,5 +1,7 @@
 # 鸭蛋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yadan.md)
+
 <p><span class="chinese">现在，我能有鸭蛋了。</span><span class="english">Now, I can have duck's eggs.</span></p>
 
 <p><span class="chinese">最后，这个大鸭蛋打开了。</span><span class="english">At last,the big egg came open.</span></p>

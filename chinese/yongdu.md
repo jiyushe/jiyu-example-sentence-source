@@ -1,5 +1,7 @@
 # 用度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongdu.md)
+
 <p><span class="chinese">他谁负担用度调用词调。</span><span class="english">he who pays the piper calls the tune.</span></p>
 
 <p><span class="chinese">他家人口多，用度大。</span><span class="english">He has a big family and many expenses.</span></p>

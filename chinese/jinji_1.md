@@ -1,5 +1,7 @@
 # 禁忌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinji_1.md)
+
 <p><span class="chinese">印花衣服也是禁忌。</span><span class="english">Prints are also off-limits.</span></p>
 
 <p><span class="chinese">有点打破禁忌的意味。</span><span class="english">It’s sort of taboo-breaking.</span></p>

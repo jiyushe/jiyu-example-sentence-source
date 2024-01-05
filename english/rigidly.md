@@ -1,5 +1,7 @@
 # rigidly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rigidly.md)
+
 <p><span class="chinese">数据没有被严格输入吧？</span><span class="english">Data is not rigidly typed?</span></p>
 
 <p><span class="chinese">封建社会等级森严。</span><span class="english">Feudal society was rigidly stratified.</span></p>

@@ -1,5 +1,7 @@
 # 文学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxue.md)
+
 <p><span class="chinese">他爱好文学。</span><span class="english">He loves literature.</span></p>
 
 <p><span class="chinese">那是1958年十月，我在高尔基世界文学研究所求学，正发着高烧。</span><span class="english">It was October 1958.</span></p>

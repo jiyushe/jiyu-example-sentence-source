@@ -1,5 +1,7 @@
 # 初冬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chudong_1.md)
+
 <p><span class="chinese">初冬就一无是处了吗？</span><span class="english">Early winter on the merit it?</span></p>
 
 <p><span class="chinese">那时1997年初冬的一个星期六。</span><span class="english">This was in the early winter of 1997, a Saturday.</span></p>

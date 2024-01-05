@@ -1,5 +1,7 @@
 # 鹦鹉螺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingwuluo.md)
+
 <p><span class="chinese">在鹦鹉螺号上的食物全部是海货。</span><span class="english">The food aboard the Nautilus is all sea food.</span></p>
 
 <p><span class="chinese">他的潜水艇――鹦鹉螺号，是一艘很特别的船。</span><span class="english">His submarine, the Nautilus, is an extraordinary ship.</span></p>

@@ -1,5 +1,7 @@
 # 依顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishun_1.md)
+
 <p><span class="chinese">当爱的翅膀拥抱你时，依顺他。</span><span class="english">And when his wings enfold you yield to him.</span></p>
 
 <p><span class="chinese">不过，Y一代人和雇主相互依顺程度到底如何还将拭目以待。</span><span class="english">Just how much Gen Y-ers and their employers will accommodate one another has yet to be seen.</span></p>

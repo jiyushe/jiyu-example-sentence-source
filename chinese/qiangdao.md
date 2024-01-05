@@ -1,5 +1,7 @@
 # 强盗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangdao.md)
+
 <p><span class="chinese">他们是强盗。</span><span class="english">They are dacoits.</span></p>
 
 <p><span class="chinese">我是一个强盗。</span><span class="english">I was a highwayman.</span></p>

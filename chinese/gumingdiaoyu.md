@@ -1,5 +1,7 @@
 # 沽名钓誉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gumingdiaoyu.md)
+
 <p><span class="chinese">很多人沽名钓誉。</span><span class="english">Many people value fame and seek fame.</span></p>
 
 <p><span class="chinese">她总是沽名钓誉。</span><span class="english">She is always fishing for compliments.</span></p>

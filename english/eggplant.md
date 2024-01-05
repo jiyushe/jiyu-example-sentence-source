@@ -1,5 +1,7 @@
 # eggplant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eggplant.md)
+
 <p><span class="chinese">把茄子切成丁儿。</span><span class="english">Dice the eggplant.</span></p>
 
 <p><span class="chinese">菠菜和茄子。</span><span class="english">Spinach and eggplant.</span></p>

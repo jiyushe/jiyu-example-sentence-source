@@ -1,5 +1,7 @@
 # salinity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salinity.md)
+
 <p><span class="chinese">大西洋盐度增加。</span><span class="english">Increasing salinity in the Atlantic Ocean.</span></p>
 
 <p><span class="chinese">在这个迁徙的过程中，它们的肾脏会适应水中盐度的不同变化。</span><span class="english">On the way, their kidneys adapt to the change in salinity.</span></p>

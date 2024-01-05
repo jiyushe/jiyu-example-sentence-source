@@ -1,5 +1,7 @@
 # worshiper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worshiper.md)
+
 <p><span class="chinese">我并不崇拜那个影星。</span><span class="english">I am not a worshiper of that film star.</span></p>
 
 <p><span class="chinese">他常去那个教堂做礼拜。</span><span class="english">He is a regular worshiper at that church.</span></p>

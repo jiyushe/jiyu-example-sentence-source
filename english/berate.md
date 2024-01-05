@@ -1,5 +1,7 @@
 # berate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berate.md)
+
 <p><span class="chinese">痛苦的呼号的回声在我心里回荡。</span><span class="english">Echoes of cries of pain rever berate in my heart.</span></p>
 
 <p><span class="chinese">事实上，逻辑思维通常做出错误判断，就像你因为太糊涂而严厉斥责自己。</span><span class="english">In fact, logic usually makes things worse, as you berate yourself for being silly.</span></p>

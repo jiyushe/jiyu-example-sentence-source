@@ -1,5 +1,7 @@
 # 质朴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhipiao_1.md)
+
 <p><span class="chinese">对我而言，质朴中难掩美味。</span><span class="english">For me, it’s just plain good.</span></p>
 
 <p><span class="chinese">质朴的真理被讥为愚陋。</span><span class="english">And simple truth miscall'd simplicity.</span></p>

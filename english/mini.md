@@ -1,5 +1,7 @@
 # mini
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mini.md)
+
 <p><span class="chinese">玩许多迷你游戏。</span><span class="english">Play many mini games.</span></p>
 
 <p><span class="chinese">是个小型的自行车打气筒。</span><span class="english">It's mini bicycle pump.</span></p>

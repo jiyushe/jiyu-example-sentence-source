@@ -1,5 +1,7 @@
 # detonator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detonator.md)
+
 <p><span class="chinese">警方后来找到了这根遥控雷管。</span><span class="english">The police later found the detonator.</span></p>
 
 <p><span class="chinese">安全型长延期导爆管雷管。</span><span class="english">Safety Long-time Delay Shock-tube Detonator.</span></p>

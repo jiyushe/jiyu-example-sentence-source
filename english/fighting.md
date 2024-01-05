@@ -1,5 +1,7 @@
 # fighting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fighting.md)
+
 <p><span class="chinese">但它值得我们为之奋斗。</span><span class="english">But it is worth fighting.</span></p>
 
 <p><span class="chinese">这是很忌讳的用语,非常地不礼貌</span><span class="english">Those are fighting words.</span></p>

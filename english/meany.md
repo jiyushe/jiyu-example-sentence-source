@@ -1,5 +1,7 @@
 # meany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meany.md)
+
 <p><span class="chinese">你清爽我的旨趣吗？</span><span class="english">You know what I meany good?</span></p>
 
 <p><span class="chinese">我的男朋友以前是个小气鬼！</span><span class="english">My boyfriend is used to a meany.</span></p>

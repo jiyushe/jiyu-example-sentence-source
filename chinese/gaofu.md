@@ -1,5 +1,7 @@
 # 告负
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaofu.md)
+
 <p><span class="chinese">学生人数上哈佛大学再次告负。</span><span class="english">The number of students at Harvard University once again lost.</span></p>
 
 <p><span class="chinese">当他以97比83告负时，他们用一阵阵嘘声来迎接他。</span><span class="english">They greeted him with a cascade of boos when he came into the 97-83 loss.</span></p>

@@ -1,5 +1,7 @@
 # 享福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangfu.md)
+
 <p><span class="chinese">吃饱睡足，谁最享福？。-…</span><span class="english">Sleeping and Eating―Who Does It Best?</span></p>
 
 <p><span class="chinese">傻瓜永远不知道他何时会享福。</span><span class="english">Fool never knows when they are well off.</span></p>

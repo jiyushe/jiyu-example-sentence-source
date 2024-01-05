@@ -1,5 +1,7 @@
 # swastika
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swastika.md)
+
 <p><span class="chinese">纳粹卍可能是在世界上最受痛恨的象征。</span><span class="english">The Nazi Swastika is probably the most hated symbol in the world.</span></p>
 
 <p><span class="chinese">如果这儿有一个纳粹的标志，人们会怎么想，怎么回应？！</span><span class="english">If there's an emblem in there with swastika , how people gonna react?</span></p>

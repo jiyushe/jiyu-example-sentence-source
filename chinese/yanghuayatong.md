@@ -1,5 +1,7 @@
 # 氧化亚铜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanghuayatong.md)
+
 <p><span class="chinese">对于氧化亚铜微纳米粉体而言，这种同质核壳结构很少有人报道。</span><span class="english">As to Cu_2O, the core-shell structure is seldom reported.</span></p>
 
 <p><span class="chinese">氧化亚铜是一种所谓的半导体材料。</span><span class="english">Cuprous oxide is a type of material called a semiconductor.</span></p>

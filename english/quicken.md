@@ -1,5 +1,7 @@
 # quicken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quicken.md)
+
 <p><span class="chinese">我们加快了脚步。</span><span class="english">We quicken our steps.</span></p>
 
 <p><span class="chinese">叫我在祢的道中生活。</span><span class="english">Quicken thou me in thy way.</span></p>

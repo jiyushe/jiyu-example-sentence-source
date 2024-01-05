@@ -1,5 +1,7 @@
 # 铜像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxiang_2.md)
+
 <p><span class="chinese">万寿台上，向金日成铜像鞠躬的人们。</span><span class="english">People bowing to Mansudae Grand Monument, Mansu Hill.</span></p>
 
 <p><span class="chinese">铁人王进喜的铜像就伫立在我们的校园里。</span><span class="english">Bronze statue of Iron Man Wang Jinxi to stand on our campus.</span></p>

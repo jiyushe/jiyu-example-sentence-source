@@ -1,5 +1,7 @@
 # 席子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizi.md)
+
 <p><span class="chinese">一张五颜六色的席子做！</span><span class="english">A colourful mat is done!</span></p>
 
 <p><span class="chinese">她帮忙母亲摆酒席子。</span><span class="english">She helped her mother lay the table.</span></p>

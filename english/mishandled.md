@@ -1,5 +1,7 @@
 # mishandled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mishandled.md)
+
 <p><span class="chinese">储气罐自身也可能泄漏或者在运输和放置的时候操作失误。</span><span class="english">The gas tanks themselves might leak or be mishandled during transport and disposal.</span></p>
 
 <p><span class="chinese">我们失去了一大笔订单，因为公司董事们把谈判搞糟了。</span><span class="english">We lost an important order because the company directors mishandled the negotiations.</span></p>

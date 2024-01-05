@@ -1,5 +1,7 @@
 # wretched
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wretched.md)
+
 <p><span class="chinese">落魄者高擎我的旗帜。</span><span class="english">The wretched hold my banner high.</span></p>
 
 <p><span class="chinese">他们是世上的废物。</span><span class="english">These are the wretched of the earth.</span></p>

@@ -1,5 +1,7 @@
 # crankpin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crankpin.md)
+
 <p><span class="chinese">轴瓦盖和连杆中有轴瓦，它允许连杆内的曲柄锁自由地转动。</span><span class="english">The cap and rod have bearings which permit the crankpin to rotate freely within the rod.</span></p>
 
 <p><span class="chinese">曲轴主轴颈和连杆颈外圆的粗加工及半精加工是曲轴切削加工中费时较多的工序。</span><span class="english">The roughing and semi-finishing machining of the crankshaft spindle neck and crankpin is more time-consuming process.</span></p>

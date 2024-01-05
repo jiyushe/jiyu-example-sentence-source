@@ -1,5 +1,7 @@
 # hammerhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hammerhead.md)
+
 <p><span class="chinese">双髻鲨家族是一个好的例子。</span><span class="english">The hammerhead shark family is a good example.</span></p>
 
 <p><span class="chinese">尤其值得称道的是，在使用时锤头不会轻易脱柄。</span><span class="english">Furthermore the hammerhead won't fall off when you were using.</span></p>

@@ -1,5 +1,7 @@
 # thrashing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrashing.md)
+
 <p><span class="chinese">他们正在脱麦粒。</span><span class="english">They are thrashing their wheat.</span></p>
 
 <p><span class="chinese">小鸟在拍翅。</span><span class="english">The bird is thrashing its wings.</span></p>

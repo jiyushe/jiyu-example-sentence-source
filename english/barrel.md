@@ -1,5 +1,7 @@
 # barrel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barrel.md)
+
 <p><span class="chinese">一个酒的廉宜桶！</span><span class="english">A cheap barrel of wine!</span></p>
 
 <p><span class="chinese">他们旋开桶塞放出苹果酒。</span><span class="english">They tapped a barrel of cider.</span></p>

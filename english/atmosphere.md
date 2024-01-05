@@ -1,5 +1,7 @@
 # atmosphere 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atmosphere.md)
+
 <p><span class="chinese">它穿入大气层。</span><span class="english">It fell through the atmosphere.</span></p>
 
 <p><span class="chinese">突然，气氛一下子僵住了。</span><span class="english">Suddenly, the atmosphere froze.</span></p>

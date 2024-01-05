@@ -1,5 +1,7 @@
 # sprocket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprocket.md)
+
 <p><span class="chinese">将链条驱动链轮安装到曲轴上。</span><span class="english">Fit chain drive sprocket on the crankshaft.</span></p>
 
 <p><span class="chinese">采用齿轮传动，连转稳定。</span><span class="english">The positive sprocket drive ensures stable running.</span></p>

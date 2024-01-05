@@ -1,5 +1,7 @@
 # eliot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eliot.md)
+
 <p><span class="chinese">或者读惠特曼与埃罗特？</span><span class="english">Or read Whitman or Eliot?</span></p>
 
 <p><span class="chinese">它的编辑是托马斯艾略特。</span><span class="english">The editor is T.S. Eliot.</span></p>

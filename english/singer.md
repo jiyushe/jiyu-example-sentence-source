@@ -1,5 +1,7 @@
 # singer 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/singer.md)
+
 <p><span class="chinese">伍佰是一位歌手。</span><span class="english">Wu-bai is a singer.</span></p>
 
 <p><span class="chinese">克拉瑞丝是个歌手。</span><span class="english">Clarice is a singer.</span></p>

@@ -1,5 +1,7 @@
 # provisionality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provisionality.md)
+
 <p><span class="chinese">四肢肌肉临时性“瘫痪”。</span><span class="english">Limb muscle provisionality " break down ".</span></p>
 
 <p><span class="chinese">多数病人有暂时性的行动不便。</span><span class="english">Most patient has the action inconvenience of provisionality.</span></p>

@@ -1,5 +1,7 @@
 # insertion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insertion.md)
+
 <p><span class="chinese">插入排序还是冒泡排序？</span><span class="english">Insertion sort or bubble sort?</span></p>
 
 <p><span class="chinese">动态插入已经勾上的。</span><span class="english">Dynamic insertion must be set to 'on'.</span></p>

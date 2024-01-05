@@ -1,5 +1,7 @@
 # powdered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/powdered.md)
+
 <p><span class="chinese">她的脸被粉扑的很白。</span><span class="english">Her face was powdered white.</span></p>
 
 <p><span class="chinese">树叶上积满灰尘。</span><span class="english">The leaves are powdered with dust.</span></p>

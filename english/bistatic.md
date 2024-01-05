@@ -1,5 +1,7 @@
 # bistatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bistatic.md)
+
 <p><span class="chinese">双站多普勒雷达网观测的风场的准确性。</span><span class="english">Accuracy of Wind Fields Observed by a Bistatic Doppler Radar Network.</span></p>
 
 <p><span class="chinese">最后分析了收发分置海洋混响平均强度的衰减规律。</span><span class="english">At last, the average intensity of reverberation for bistatic case had been deduced.</span></p>

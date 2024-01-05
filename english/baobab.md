@@ -1,5 +1,7 @@
 # baobab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baobab.md)
+
 <p><span class="chinese">贝欧巴试图和孔达成协议。</span><span class="english">Baobab tried to hatch a deal with Koong.</span></p>
 
 <p><span class="chinese">今天我们的节目是关于猴面包树。</span><span class="english">Today our programme is about the baobab tree.</span></p>

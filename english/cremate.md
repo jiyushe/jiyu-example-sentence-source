@@ -1,5 +1,7 @@
 # cremate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cremate.md)
+
 <p><span class="chinese">请将我火化。</span><span class="english">Please cremate me.</span></p>
 
 <p><span class="chinese">请求你把我火葬，行吗？</span><span class="english">Please cremate me, OK?</span></p>

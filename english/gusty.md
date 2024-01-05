@@ -1,5 +1,7 @@
 # gusty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gusty.md)
+
 <p><span class="chinese">在那个强风般中的梦想，有感到那鼓勇气，去捉紧握她的手。</span><span class="english">Hold that hand when you feel gutsy in that gusty dream.</span></p>
 
 <p><span class="chinese">阵风把犹他州野火吹至盐湖城郊区。</span><span class="english">Gusty winds whip Utah wildfire into Salt Lake City suburb.</span></p>

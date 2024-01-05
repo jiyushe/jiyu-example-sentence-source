@@ -1,5 +1,7 @@
 # 作答
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoda.md)
+
 <p><span class="chinese">她没有立即作答。</span><span class="english">She didn't awer immediately.</span></p>
 
 <p><span class="chinese">不要烦恼你的作答。</span><span class="english">Do not worry about your answers.</span></p>

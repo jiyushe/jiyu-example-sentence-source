@@ -1,5 +1,7 @@
 # 主次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuci.md)
+
 <p><span class="chinese">可以修改部分主次干路吗？</span><span class="english">Can part of the sub trunk roads be modified?</span></p>
 
 <p><span class="chinese">排名不分主次，只是按照时间顺序列出。</span><span class="english">These are in chronological order instead of rank.</span></p>

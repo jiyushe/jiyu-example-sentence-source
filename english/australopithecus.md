@@ -1,5 +1,7 @@
 # australopithecus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/australopithecus.md)
+
 <p><span class="chinese">而我们的祖先——阿法尔南猿——显然也是这样认为的。</span><span class="english">And our Australopithecus afarensis ancestors apparently felt the same way.</span></p>
 
 <p><span class="chinese">达特给化石命名为非洲南猿，意即“南非类人猿”。</span><span class="english">Dart christened the fossil Australopithecus Africanus, meaning the "Southern African ape".</span></p>

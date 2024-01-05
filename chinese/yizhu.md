@@ -1,5 +1,7 @@
 # 医嘱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhu.md)
+
 <p><span class="chinese">按照医嘱服用抗生素。</span><span class="english">Take antibiotics exactly as prescribed.</span></p>
 
 <p><span class="chinese">为确保病人明白她的医嘱，玛雅医生做了什么？</span><span class="english">Mayer do to insure her patients understand her instructions?</span></p>

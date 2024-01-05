@@ -1,5 +1,7 @@
 # 孤芳自赏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gufangzishang.md)
+
 <p><span class="chinese">我认为我并非孤芳自赏。</span><span class="english">I don’t think I’m alone in this.</span></p>
 
 <p><span class="chinese">全世界都没人欣赏，自己依然可以孤芳自赏。</span><span class="english">If nobody appreciate you, you still can be narcissistic.</span></p>

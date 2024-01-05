@@ -1,5 +1,7 @@
 # 飞瀑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feipu.md)
+
 <p><span class="chinese">鸟儿伴着飞瀑唱起婉转的情歌。</span><span class="english">Melodious birds sing madrigals.</span></p>
 
 <p><span class="chinese">飞瀑如珠玑万斛直落九天，蔚为壮观。</span><span class="english">Fei Bao such as Abas million Hu Teluk nine days, become a spectacular.</span></p>

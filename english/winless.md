@@ -1,5 +1,7 @@
 # winless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winless.md)
+
 <p><span class="chinese">这支球队经历了一个失败的令人失望的赛季。</span><span class="english">The team had a very disappointing winless season.</span></p>
 
 <p><span class="chinese">阿森纳在过去七个联赛客场中没有胜绩。</span><span class="english">The Gunners are winless in their last seven away league matches.</span></p>

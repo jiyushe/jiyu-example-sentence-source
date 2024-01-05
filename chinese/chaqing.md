@@ -1,5 +1,7 @@
 # 查清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaqing.md)
+
 <p><span class="chinese">我希望我们能查清此事。</span><span class="english">I hope we can find out about it.</span></p>
 
 <p><span class="chinese">他们已查清了这个人是谁。</span><span class="english">They hawe find out who the man was.</span></p>

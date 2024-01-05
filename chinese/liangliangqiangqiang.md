@@ -1,5 +1,7 @@
 # 踉踉跄跄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangliangqiangqiang.md)
+
 <p><span class="chinese">他踉踉跄跄地走上楼倒在床上。</span><span class="english">He stumbled upstairs and into bed.</span></p>
 
 <p><span class="chinese">醉汉踉踉跄跄地走到门口。</span><span class="english">The drunkard tottered to the door.</span></p>

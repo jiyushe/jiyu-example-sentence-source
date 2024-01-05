@@ -1,5 +1,7 @@
 # sparseness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sparseness.md)
+
 <p><span class="chinese">在许多聚类应用中，数据对象是具有高维、稀疏、二元的特征。</span><span class="english">The data sets have features such as high-dimensional, sparseness and binary value in many clustering applications.</span></p>
 
 <p><span class="chinese">该方法保留了二元词串的较强类型分辨能力的特点，同时降低了特征的数据稀疏程度。</span><span class="english">This method preserves the strong power of bigram to distinguish class, while reduces the extent of data sparseness.</span></p>

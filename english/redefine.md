@@ -1,5 +1,7 @@
 # redefine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redefine.md)
+
 <p><span class="chinese">重新定义局部铣削的顶角。</span><span class="english">Redefine corners for local milling.</span></p>
 
 <p><span class="chinese">它帮助我们重新定义什么是可能的。</span><span class="english">It helps us redefine what is possible.</span></p>

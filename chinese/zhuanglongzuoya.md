@@ -1,5 +1,7 @@
 # 装聋作哑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanglongzuoya.md)
+
 <p><span class="chinese">他会对我暗示自己的不满，对此我装聋作哑。</span><span class="english">He’d hint at his dissatisfaction, and I’d play dumb.</span></p>
 
 <p><span class="chinese">这已经是事件发生后的第四天了，军方依然在装聋作哑，保持沉默。</span><span class="english">Its day four and the silence from the army is deafening.</span></p>

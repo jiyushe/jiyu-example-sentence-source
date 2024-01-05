@@ -1,5 +1,7 @@
 # reminisce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reminisce.md)
+
 <p><span class="chinese">喜欢到久未再去的老地方看看。</span><span class="english">I love to reminisce my old friends.</span></p>
 
 <p><span class="chinese">她喜欢回忆她的童年时代。</span><span class="english">She likes to reminisce about her childhood.</span></p>

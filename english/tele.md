@@ -1,5 +1,7 @@
 # tele
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tele.md)
+
 <p><span class="chinese">过来，向我的看远镜里瞧瞧，您就会知道我是对的。</span><span class="english">Come and look through my tele scope, and you will see that I am right.</span></p>
 
 <p><span class="chinese">你可以将这种全新的媒体想象成自己所看的书，也可以将它们想象成电视。</span><span class="english">You might think of this new medium as books we watch, or tele vision we read.</span></p>

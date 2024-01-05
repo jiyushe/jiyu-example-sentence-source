@@ -1,5 +1,7 @@
 # recalculation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recalculation.md)
+
 <p><span class="chinese">通胀调整的折旧重算错误。</span><span class="english">Error in depreciation recalculation for inflation adjustment.</span></p>
 
 <p><span class="chinese">网络的变化将引发生成树的重新计算。</span><span class="english">Physical changes of the network force spanning-tree recalculation.</span></p>

@@ -1,5 +1,7 @@
 # wholesome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wholesome.md)
+
 <p><span class="chinese">有益健康而且温暖。</span><span class="english">It is wholesome and warm.</span></p>
 
 <p><span class="chinese">水是有益健康的饮料。</span><span class="english">Water is a wholesome drink.</span></p>

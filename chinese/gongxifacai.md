@@ -1,5 +1,7 @@
 # 恭喜发财
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongxifacai.md)
+
 <p><span class="chinese">恭喜发财，新年快乐。</span><span class="english">Have a thriving and happy new year.</span></p>
 
 <p><span class="chinese">火红年，恭喜发财贺新年。</span><span class="english">Red, congratulation happy new year.</span></p>

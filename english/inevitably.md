@@ -1,5 +1,7 @@
 # inevitably 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inevitably.md)
+
 <p><span class="chinese">但是最后你还是难逃现实的羁绊，因为现实总是让你失望。</span><span class="english">And reality inevitably disappoints you.</span></p>
 
 <p><span class="chinese">可是谁能想到这样一笔暴富之源让以色列无可避免的深感头疼。</span><span class="english">But such bonanzas inevitably bring headaches.</span></p>

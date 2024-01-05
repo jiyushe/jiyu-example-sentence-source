@@ -1,5 +1,7 @@
 # brassiere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brassiere.md)
+
 <p><span class="chinese">胸罩上的字读'选票'。</span><span class="english">The character on the brassiere reads'box '.</span></p>
 
 <p><span class="chinese">胸罩上的字读'选票'。</span><span class="english">The character on the brassiere reads 'ballot box'.</span></p>

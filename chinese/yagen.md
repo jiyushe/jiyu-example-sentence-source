@@ -1,5 +1,7 @@
 # 牙根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yagen.md)
+
 <p><span class="chinese">它就像牙根管一样普及。</span><span class="english">It was about as popular as a root canal.</span></p>
 
 <p><span class="chinese">爸爸需要做牙根管治疗。</span><span class="english">Dad needs to have a root canal operation.</span></p>

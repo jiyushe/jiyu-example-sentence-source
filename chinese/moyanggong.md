@@ -1,5 +1,7 @@
 # 磨洋工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moyanggong.md)
+
 <p><span class="chinese">这个徒弟磨洋工。</span><span class="english">The apprentice lingered his work.</span></p>
 
 <p><span class="chinese">别再磨洋工了。</span><span class="english">Stop dillydallying over your work.</span></p>

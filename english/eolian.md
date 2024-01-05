@@ -1,5 +1,7 @@
 # eolian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eolian.md)
+
 <p><span class="chinese">大多数黄土被认为是一种风成沉积。</span><span class="english">Most loess is considered to be an eolian deposit.</span></p>
 
 <p><span class="chinese">蒸发岩、风成沉积物以及潮泛沉积物都是常见于潮上盐难的。</span><span class="english">Evaporites, eolian deposits and tidal-flood deposits are common in sabkhas.</span></p>

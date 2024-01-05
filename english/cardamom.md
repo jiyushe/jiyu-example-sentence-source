@@ -1,5 +1,7 @@
 # cardamom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardamom.md)
+
 <p><span class="chinese">有肉桂，豆蔻和咖啡的余味。</span><span class="english">End with the flavour of cassia, cardamom and coffee.</span></p>
 
 <p><span class="chinese">小豆蔻经常也在印度菜或印度香辣奶茶中找到。</span><span class="english">Cardamom is often a spice also found in Indian cooking or Chai Tea.</span></p>

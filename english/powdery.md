@@ -1,5 +1,7 @@
 # powdery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/powdery.md)
+
 <p><span class="chinese">是一款清新、花果味香水。</span><span class="english">I love this scent. It has a powdery undertone.</span></p>
 
 <p><span class="chinese">“处女”味很清爽，有点细细粉粉的感觉，同时又甜蜜而诱人。</span><span class="english">It was powdery and clean, yet seductive and sweet.</span></p>

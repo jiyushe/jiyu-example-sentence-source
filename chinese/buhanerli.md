@@ -1,5 +1,7 @@
 # 不寒而栗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buhanerli.md)
+
 <p><span class="chinese">她感到不寒而栗。</span><span class="english">She shivers.</span></p>
 
 <p><span class="chinese">这个想法听起来可能让你不寒而栗。</span><span class="english">The idea may horrify you.</span></p>

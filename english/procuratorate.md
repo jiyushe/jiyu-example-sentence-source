@@ -1,5 +1,7 @@
 # procuratorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procuratorate.md)
+
 <p><span class="chinese">人民检察院决定是否批准逮捕。</span><span class="english">A People's Procuratorate decides whether or not to approve arrest.</span></p>
 
 <p><span class="chinese">乌检察院指控季莫申科在俄乌2009年签署供气合同时越权。</span><span class="english">Wu's Procuratorate accused Tymoshenko signed in Ewu 2009 gas contract ultra vires.</span></p>

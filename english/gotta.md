@@ -1,5 +1,7 @@
 # gotta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gotta.md)
+
 <p><span class="chinese">我得走了。</span><span class="english">I gotta go.</span></p>
 
 <p><span class="chinese">鱼要游泳。</span><span class="english">Fish gotta swim.</span></p>

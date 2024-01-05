@@ -1,5 +1,7 @@
 # waken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waken.md)
+
 <p><span class="chinese">我梦醒来…</span><span class="english">I waken up.</span></p>
 
 <p><span class="chinese">快去把他父亲叫醒。</span><span class="english">Go waken his father.</span></p>

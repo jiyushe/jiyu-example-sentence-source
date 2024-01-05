@@ -1,5 +1,7 @@
 # 首演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyan_2.md)
+
 <p><span class="chinese">你觉得一次合练就能让你的首演如此精彩呢?。</span><span class="english">Didn't you feel comfortable the second day?</span></p>
 
 <p><span class="chinese">这部剧在1962年首演，一共演出了964场。</span><span class="english">It opened in 1962 and ran 964 performances.</span></p>

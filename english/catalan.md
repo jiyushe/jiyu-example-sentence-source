@@ -1,5 +1,7 @@
 # catalan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalan.md)
+
 <p><span class="chinese">加泰罗尼亚语媒体惊叫着“丑闻！”</span><span class="english">The Catalan media screamed "scandal!".</span></p>
 
 <p><span class="chinese">它的升级版本是卡塔兰绞喉.</span><span class="english">This spiked version is known as the Catalan garrote.</span></p>

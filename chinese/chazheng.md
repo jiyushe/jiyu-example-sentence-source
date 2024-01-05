@@ -1,5 +1,7 @@
 # 查证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chazheng.md)
+
 <p><span class="chinese">读程式码，理解它并查证它。</span><span class="english">Read my code. Understand it.</span></p>
 
 <p><span class="chinese">警察在查证他不在案发现场的证据。</span><span class="english">The police are checking out his alibi.</span></p>

@@ -1,5 +1,7 @@
 # spoilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spoilt.md)
+
 <p><span class="chinese">他把他的小儿子宠坏了。</span><span class="english">He spoilt his little son.</span></p>
 
 <p><span class="chinese">他把整个事情都搞糟了。</span><span class="english">He spoilt the whole thing.</span></p>

@@ -1,5 +1,7 @@
 # inimical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inimical.md)
+
 <p><span class="chinese">这是一种对健康有害的习惯。</span><span class="english">It is a habit inimical to health.</span></p>
 
 <p><span class="chinese">肾结石、乙肝的饮食有抵触没？</span><span class="english">Does the food of liver of kidney stone, second have inimical not?</span></p>

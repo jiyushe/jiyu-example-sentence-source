@@ -1,5 +1,7 @@
 # cheapness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheapness.md)
+
 <p><span class="chinese">“得了便宜还卖乖”用英语怎么讲?。</span><span class="english">Get the cheapness still sell lovely.</span></p>
 
 <p><span class="chinese">最后我们点了两个菜，对价钱的便宜甚感惊讶。</span><span class="english">We eventually pick two meals, marvelling at the cheapness.</span></p>

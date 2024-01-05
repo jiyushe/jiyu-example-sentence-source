@@ -1,5 +1,7 @@
 # passerby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passerby.md)
+
 <p><span class="chinese">一个过路人告诉了我时间。</span><span class="english">A passerby told me the time.</span></p>
 
 <p><span class="chinese">路人指了方向给我。</span><span class="english">The passerby gave me aid directions.</span></p>

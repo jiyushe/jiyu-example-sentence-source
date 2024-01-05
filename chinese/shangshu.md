@@ -1,5 +1,7 @@
 # 上书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshu.md)
+
 <p><span class="chinese">请合上书。</span><span class="english">Please close your books.</span></p>
 
 <p><span class="chinese">您们已合上书了吗?。</span><span class="english">Have you closed your book?</span></p>

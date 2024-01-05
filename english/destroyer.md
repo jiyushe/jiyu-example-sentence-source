@@ -1,5 +1,7 @@
 # destroyer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destroyer.md)
+
 <p><span class="chinese">驱逐舰划开了水面。</span><span class="english">The destroyer sliced through the water.</span></p>
 
 <p><span class="chinese">时间既是破坏者又是启示者。</span><span class="english">Time is both a destroyer and a revealer.</span></p>

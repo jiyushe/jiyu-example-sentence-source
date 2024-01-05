@@ -1,5 +1,7 @@
 # cramp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cramp.md)
+
 <p><span class="chinese">怎样治疗脚抽筋？</span><span class="english">How to treat crural cramp?</span></p>
 
 <p><span class="chinese">小腿抽筋引起小腿肌肉疼痛?。</span><span class="english">Does crus cramp cause crus muscle ache?</span></p>

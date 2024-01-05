@@ -1,5 +1,7 @@
 # 通力合作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonglihezuo.md)
+
 <p><span class="chinese">和你的投资者通力合作。</span><span class="english">Collaborate with your investors.</span></p>
 
 <p><span class="chinese">我保证通力合作。</span><span class="english">I can assure you of our close cooperation.</span></p>

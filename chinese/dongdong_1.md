@@ -1,5 +1,7 @@
 # 咚咚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongdong_1.md)
+
 <p><span class="chinese">鼓在咚咚地响。</span><span class="english">The drums are beating.</span></p>
 
 <p><span class="chinese">邮差敲门咚咚咚。</span><span class="english">You can hear the postman knock.</span></p>

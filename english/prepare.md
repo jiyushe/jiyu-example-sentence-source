@@ -1,5 +1,7 @@
 # prepare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prepare.md)
+
 <p><span class="chinese">早作准备。</span><span class="english">Prepare early.</span></p>
 
 <p><span class="chinese">准备一个标题栏。</span><span class="english">Prepare a caption.</span></p>

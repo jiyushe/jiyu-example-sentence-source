@@ -1,5 +1,7 @@
 # 死气沉沉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siqichenchen.md)
+
 <p><span class="chinese">那里的造纸业现在是一片死气沉沉。</span><span class="english">Paper-milling is now a dead industry there.</span></p>
 
 <p><span class="chinese">整个市场变得停滞不前，死气沉沉。</span><span class="english">It became largely a static, undynamic market.</span></p>

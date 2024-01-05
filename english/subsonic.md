@@ -1,5 +1,7 @@
 # subsonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsonic.md)
+
 <p><span class="chinese">还有，这是一个音速感应器。</span><span class="english">This is a subsonic impact sensor.</span></p>
 
 <p><span class="chinese">我实在不明白什么是亚声速。</span><span class="english">I have no idea what subsonic speed is.</span></p>

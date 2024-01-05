@@ -1,5 +1,7 @@
 # invincibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invincibility.md)
+
 <p><span class="chinese">关于他们，几乎将有一个不能克服的感觉。</span><span class="english">There will almost be a sense of invincibility about them.</span></p>
 
 <p><span class="chinese">直到去年春天，我仍然认为自己是无敌的。</span><span class="english">Until last spring, I still had this feeling of invincibility.</span></p>

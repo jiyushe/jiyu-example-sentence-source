@@ -1,5 +1,7 @@
 # 顶礼膜拜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinglimobai.md)
+
 <p><span class="chinese">那老太太在佛像面前顶礼膜拜。</span><span class="english">The old lady fell down in adoration before Buddhist images.</span></p>
 
 <p><span class="chinese">王尔德甚至成了同性恋者顶礼膜拜的“祖师爷”。</span><span class="english">Wilde went on to become homosexual worship the "ancestral."</span></p>

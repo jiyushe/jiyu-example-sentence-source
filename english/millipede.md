@@ -1,5 +1,7 @@
 # millipede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millipede.md)
+
 <p><span class="chinese">它是千足虫，但是个头很大。</span><span class="english">This is a Millipede , but it's a giant !</span></p>
 
 <p><span class="chinese">我找到了一只千足虫，就在身体上磨擦。</span><span class="english">I find a millipede insect and rub it over my body.</span></p>

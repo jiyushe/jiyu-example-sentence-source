@@ -1,5 +1,7 @@
 # gelsenkirchen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gelsenkirchen.md)
+
 <p><span class="chinese">我很喜爱盖尔森基兴的球场。</span><span class="english">I am in love with the Gelsenkirchen stadium.</span></p>
 
 <p><span class="chinese">我在盖尔森基兴时就知道迈克尔了。</span><span class="english">I know Michael from my time in Gelsenkirchen.</span></p>

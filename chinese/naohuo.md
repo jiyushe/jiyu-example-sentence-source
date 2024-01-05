@@ -1,5 +1,7 @@
 # 恼火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naohuo.md)
+
 <p><span class="chinese">他的话令我十分恼火。</span><span class="english">His remarks narked me.</span></p>
 
 <p><span class="chinese">当有人排队加塞时我恼火。</span><span class="english">I get annoyed when people.</span></p>

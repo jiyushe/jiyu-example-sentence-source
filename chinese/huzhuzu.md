@@ -1,5 +1,7 @@
 # 互助组
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huzhuzu.md)
+
 <p><span class="chinese">互助组每天还用三、五分钟作公开的自我批评。</span><span class="english">Three to five minutes each day were also used by such groups for public self-criticism.</span></p>
 
 <p><span class="chinese">玛丽安。赖特。埃德尔曼1973年在华盛顿创建了“儿童保护基金”这个倡议互助组织。</span><span class="english">It was there, in 1973, that she founded the advocacy group called the Children's Defense Fund.</span></p>

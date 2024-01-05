@@ -1,5 +1,7 @@
 # dey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dey.md)
+
 <p><span class="chinese">“是为了钱男人家才娶她们的，”嬷嬷断然说。</span><span class="english">"Men mahys dem fer dey money, " said Mammy firmly.</span></p>
 
 <p><span class="chinese">不过他们全没有很多钱，我是唯一有钱的一个。</span><span class="english">Well, all de niggers went in, but dey didn't have much.</span></p>

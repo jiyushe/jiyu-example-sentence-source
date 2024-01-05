@@ -1,5 +1,7 @@
 # retreat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retreat.md)
+
 <p><span class="chinese">在别墅待了一周。</span><span class="english">One week. Retreat.</span></p>
 
 <p><span class="chinese">他吹响了撤退的号声。</span><span class="english">He sounded the retreat.</span></p>

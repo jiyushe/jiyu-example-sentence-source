@@ -1,5 +1,7 @@
 # intentionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intentionally.md)
+
 <p><span class="chinese">尽量诚实但不要蓄意伤害。</span><span class="english">Be honest but not intentionally hurtful.</span></p>
 
 <p><span class="chinese">后来，我就有意识的让它来做这种事情。</span><span class="english">And afterwards, I intentionally used it as such.</span></p>

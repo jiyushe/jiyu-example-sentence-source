@@ -1,5 +1,7 @@
 # phaeton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phaeton.md)
+
 <p><span class="chinese">辉腾是大众的超级豪华四门轿车。</span><span class="english">The Phaeton was VW's uberluxe sedan.</span></p>
 
 <p><span class="chinese">我们怎么能信任一个骄傲自大的人去做这种事？</span><span class="english">How can we trust a Phaeton to do this?</span></p>

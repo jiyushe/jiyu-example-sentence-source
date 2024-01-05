@@ -1,5 +1,7 @@
 # immunoassay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunoassay.md)
+
 <p><span class="chinese">血清瘦素、胰岛素放射免疫测定。</span><span class="english">Serum leptin, insulin were assessed by immunoassay.</span></p>
 
 <p><span class="chinese">具有3年免疫分析技术的工作经验。</span><span class="english">About 3 years working experience in immunoassay technologies.</span></p>

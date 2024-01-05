@@ -1,5 +1,7 @@
 # 鹈鹕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tihu.md)
+
 <p><span class="chinese">鹈鹕星云。</span><span class="english">The Pelican Nebula.</span></p>
 
 <p><span class="chinese">鹈鹕是只神奇的鸟</span><span class="english">A wonderful bird is the pelican</span></p>

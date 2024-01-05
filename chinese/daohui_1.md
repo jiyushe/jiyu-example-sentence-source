@@ -1,5 +1,7 @@
 # 捣毁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daohui_1.md)
+
 <p><span class="chinese">我要捣毁内普丘恩煤矿。</span><span class="english">Some coal mines had to shut down.</span></p>
 
 <p><span class="chinese">如有必要捣毁敌指挥中心。</span><span class="english">And destroy enemy command center if nece ary.</span></p>

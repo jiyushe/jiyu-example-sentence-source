@@ -1,5 +1,7 @@
 # coz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coz.md)
+
 <p><span class="chinese">因为没人告诉过我要问。</span><span class="english">coz no one ever told me to ask.</span></p>
 
 <p><span class="chinese">由于你已远远的飞走。</span><span class="english">Coz Uve flown away, so far away.</span></p>

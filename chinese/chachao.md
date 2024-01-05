@@ -1,5 +1,7 @@
 # 查抄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chachao.md)
+
 <p><span class="chinese">警察查抄了他们的赌窟。</span><span class="english">The police raided their gambling house.</span></p>
 
 <p><span class="chinese">一周后再来查抄。张仲景大厨房。</span><span class="english">Come prograres a week for any cheque up.</span></p>

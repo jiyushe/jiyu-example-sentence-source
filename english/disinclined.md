@@ -1,5 +1,7 @@
 # disinclined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disinclined.md)
+
 <p><span class="chinese">他无意交谈。</span><span class="english">He was disinclined for conversation.</span></p>
 
 <p><span class="chinese">美国人向来拒绝消极悲观。</span><span class="english">America is disinclined to wallow in pessimism.</span></p>

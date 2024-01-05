@@ -1,5 +1,7 @@
 # winslow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winslow.md)
+
 <p><span class="chinese">温斯赖·霍姆，哈泼斯周报，1862年6月7日。</span><span class="english">By Winslow Homer, Harper's Weekly, June 7, 1862.</span></p>
 
 <p><span class="chinese">小小的温斯洛就凭着这些练就了他早期的绘画技能。</span><span class="english">Young Winslow used these to develop his early skill.</span></p>

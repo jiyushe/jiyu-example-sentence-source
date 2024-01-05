@@ -1,5 +1,7 @@
 # crabbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crabbed.md)
+
 <p><span class="chinese">而老版本浏览器则运行缓慢</span><span class="english">Crabbed old and modern browsers</span></p>
 
 <p><span class="chinese">我简直无法辨认他那些潦草的字迹。</span><span class="english">I simply cannot decipher his crabbed handwriting.</span></p>

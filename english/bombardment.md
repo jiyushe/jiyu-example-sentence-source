@@ -1,5 +1,7 @@
 # bombardment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bombardment.md)
+
 <p><span class="chinese">这是世上首次出现空中轰炸。</span><span class="english">It was the world’s first aerial bombardment.</span></p>
 
 <p><span class="chinese">原子武器的测试。</span><span class="english">To subject to bombardment with atomic weapons.</span></p>

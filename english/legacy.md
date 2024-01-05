@@ -1,5 +1,7 @@
 # legacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legacy.md)
+
 <p><span class="chinese">爱丽丝是我遗赠的礼物。</span><span class="english">Alice can be a legacy.</span></p>
 
 <p><span class="chinese">承袭的传统可以改变。</span><span class="english">The legacy can change.</span></p>

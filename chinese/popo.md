@@ -1,5 +1,7 @@
 # 婆婆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/popo.md)
+
 <p><span class="chinese">快走啦！小妖婆婆。</span><span class="english">Let's go hurry, Little Witch!</span></p>
 
 <p><span class="chinese">路得对婆婆的忠诚并不耀目。</span><span class="english">Ruth's loyalty is not glamorous.</span></p>

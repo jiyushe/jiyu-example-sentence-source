@@ -1,5 +1,7 @@
 # nitrification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitrification.md)
+
 <p><span class="chinese">硝化-反硝化作用是氨氮去除的主要途径。</span><span class="english">Nitrification is the predominant removal process of ammonia.</span></p>
 
 <p><span class="chinese">氨氮负荷是影响反应器硝化性能的直接因素。</span><span class="english">The direct affected factor of nitrification was ammonia nitrogen loading.</span></p>

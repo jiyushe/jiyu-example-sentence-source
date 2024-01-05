@@ -1,5 +1,7 @@
 # 扭曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuqu.md)
+
 <p><span class="chinese">刹车盘的扭曲。</span><span class="english">Warping of brake discs.</span></p>
 
 <p><span class="chinese">现实扭曲引力场。</span><span class="english">A reality distortion field.</span></p>

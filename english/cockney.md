@@ -1,5 +1,7 @@
 # cockney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cockney.md)
+
 <p><span class="chinese">他说话带有伦敦腔。</span><span class="english">He speaks with a cockney accent.</span></p>
 
 <p><span class="chinese">那人说话带伦敦东区口音。</span><span class="english">The man spoke with a Cockney accent.</span></p>

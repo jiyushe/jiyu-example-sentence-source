@@ -1,5 +1,7 @@
 # 条款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaokuan.md)
+
 <p><span class="chinese">条款并未透露。</span><span class="english">Terms were not disclosed.</span></p>
 
 <p><span class="chinese">这些条款应归入到什么项目上?</span><span class="english">How can subsume these items?</span></p>

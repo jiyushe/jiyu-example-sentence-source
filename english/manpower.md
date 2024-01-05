@@ -1,5 +1,7 @@
 # manpower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manpower.md)
+
 <p><span class="chinese">他们人力不够。</span><span class="english">They haven't enough manpower.</span></p>
 
 <p><span class="chinese">他的工厂人员已经超员了。</span><span class="english">He is in excess of manpower in his factory.</span></p>

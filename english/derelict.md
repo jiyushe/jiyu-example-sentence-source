@@ -1,5 +1,7 @@
 # derelict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derelict.md)
+
 <p><span class="chinese">一艘破船上一群懦弱的船员？</span><span class="english">Frightened bilgerats aboard a derelict ship?</span></p>
 
 <p><span class="chinese">被废弃的弹痕累累的房屋更多了。</span><span class="english">There were many more bullet-scarred and derelict houses.</span></p>

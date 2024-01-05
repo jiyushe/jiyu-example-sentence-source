@@ -1,5 +1,7 @@
 # 劳而无功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoerwugong.md)
+
 <p><span class="chinese">我努力改变这种状况，但劳而无功。</span><span class="english">I tried to change it but failed.</span></p>
 
 <p><span class="chinese">他们企图恢复英镑币值，但劳而无功。</span><span class="english">They tried to rally the pound sterling but in vain.</span></p>

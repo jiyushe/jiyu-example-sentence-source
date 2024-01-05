@@ -1,5 +1,7 @@
 # 方寸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangcun.md)
+
 <p><span class="chinese">就是面临危险，他也方寸不乱。</span><span class="english">He remained calm even in the face of danger.</span></p>
 
 <p><span class="chinese">方寸的山很美，菩提老祖却很寂寞。</span><span class="english">Beautiful mountains in confusion, Bodhi very lonely.</span></p>

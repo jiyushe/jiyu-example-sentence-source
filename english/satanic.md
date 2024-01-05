@@ -1,5 +1,7 @@
 # satanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satanic.md)
+
 <p><span class="chinese">莫里斯脸上露出了邪恶的奸笑。</span><span class="english">Maurice gave a satanic smile.</span></p>
 
 <p><span class="chinese">他是一个恶魔，也是一股邪恶势力。</span><span class="english">He's a demonic spirit. He's a satanic force.</span></p>

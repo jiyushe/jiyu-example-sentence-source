@@ -1,5 +1,7 @@
 # holler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holler.md)
+
 <p><span class="chinese">你听到有人在喊叫吗?</span><span class="english">Do you hear someone holler?</span></p>
 
 <p><span class="chinese">高唱啊高唱，上帝解救国王！</span><span class="english">Holler boys, holler boys, God Save the King!</span></p>

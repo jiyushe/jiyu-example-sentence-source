@@ -1,5 +1,7 @@
 # 含沙射影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanshasheying.md)
+
 <p><span class="chinese">他们作出虚假含沙射影对使徒。</span><span class="english">They make false insinuations against the Apostle.</span></p>
 
 <p><span class="chinese">你那句含沙射影的说“忠诚的战士”是什么意思？</span><span class="english">What's this innuendo comment about "- loyal soldiers -"?</span></p>

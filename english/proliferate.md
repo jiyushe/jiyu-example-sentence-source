@@ -1,5 +1,7 @@
 # proliferate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proliferate.md)
+
 <p><span class="chinese">杂志、书籍和光盘只读存储器的数量也激增。</span><span class="english">Magazines, books and CD-ROMs proliferate.</span></p>
 
 <p><span class="chinese">有关期刊的选稿标准神话会继续持续。</span><span class="english">Myths about journals will continue to proliferate.</span></p>

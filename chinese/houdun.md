@@ -1,5 +1,7 @@
 # 后盾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houdun.md)
+
 <p><span class="chinese">警方有军队作后盾。</span><span class="english">The police had military back-up.</span></p>
 
 <p><span class="chinese">他是拿破仑的支柱，丹东的后盾。</span><span class="english">He is Napoleon's stay and Danton 's resource.</span></p>

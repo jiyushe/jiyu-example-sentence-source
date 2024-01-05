@@ -1,5 +1,7 @@
 # 清人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingren_1.md)
+
 <p><span class="chinese">在这里，清人杀害了他的母亲。</span><span class="english">There Qing had killed his mother.</span></p>
 
 <p><span class="chinese">笔者从清人诗文集中辑得佚文五篇。</span><span class="english">The author yields five lost works from poems collection in Qing Dynasty.</span></p>

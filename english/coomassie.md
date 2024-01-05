@@ -1,5 +1,7 @@
 # coomassie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coomassie.md)
+
 <p><span class="chinese">考马斯亮蓝微板法测定细胞内蛋白总量。</span><span class="english">Coomassie Brilliant Blue method was used to quantify the proteins in cells.</span></p>
 
 <p><span class="chinese">考马斯亮蓝染色观察细胞骨架变化。</span><span class="english">The cytoskeleton of LoVo was observed by coomassie brilliant blue staining.</span></p>

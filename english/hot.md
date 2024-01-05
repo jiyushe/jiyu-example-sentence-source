@@ -1,5 +1,7 @@
 # hot 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hot.md)
+
 <p><span class="chinese">热浪滚滚！</span><span class="english">Hot wave!</span></p>
 
 <p><span class="chinese">真是一个烫手山芋。</span><span class="english">Hot potato.</span></p>

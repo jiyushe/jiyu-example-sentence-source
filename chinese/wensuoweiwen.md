@@ -1,5 +1,7 @@
 # 闻所未闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wensuoweiwen.md)
+
 <p><span class="chinese">这不会是闻所未闻的。</span><span class="english">That would hardly be unheard of.</span></p>
 
 <p><span class="chinese">这是闻所未闻的，这是令人费解的。</span><span class="english">It was just unheard of, it was inexplicable.</span></p>

@@ -1,5 +1,7 @@
 # 重围
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongwei.md)
+
 <p><span class="chinese">海王星之突出重围玩家有1-8网的选择！</span><span class="english">Neptune's network Win 1-8 players have the choice!</span></p>
 
 <p><span class="chinese">该城址拥有城墙和护城河，另有内外双重围壕。</span><span class="english">The city site has city wall and moat surround with two ditches.</span></p>

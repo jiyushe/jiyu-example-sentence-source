@@ -1,5 +1,7 @@
 # decolor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decolor.md)
+
 <p><span class="chinese">以溶剂A和N-甲基吡咯烷酮的混合物为萃取剂，对催化裂化柴油进行了脱色精制研究。</span><span class="english">Refining method with solvent mixed A with N-methyl pyrrolidone was used to decolor the FCC diesel oil.</span></p>
 
 <p><span class="chinese">GTC际特拥有多种专有化学药剂，包括专有的抽提溶剂、脱色剂等。</span><span class="english">GTC has lots of proprietary chemical medicament, including proprietary distilled solvent and decolor solvent, etc.</span></p>

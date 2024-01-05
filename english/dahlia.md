@@ -1,5 +1,7 @@
 # dahlia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dahlia.md)
+
 <p><span class="chinese">性感的莓果色达拉斯大理花。</span><span class="english">A "berry" sexy bloom of Dallas dahlia.</span></p>
 
 <p><span class="chinese">他们带来一朵黄色针瓣大丽花。</span><span class="english">They brought a quilled, yellow dahlia.</span></p>

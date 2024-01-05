@@ -1,5 +1,7 @@
 # filing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filing.md)
+
 <p><span class="chinese">他有一个档案柜吗?。</span><span class="english">Does he have a filing cabinet?</span></p>
 
 <p><span class="chinese">记住，永远不要让你的文件堆积起来。</span><span class="english">Don’t let your filing pile up.</span></p>

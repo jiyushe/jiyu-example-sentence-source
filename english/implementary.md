@@ -1,5 +1,7 @@
 # implementary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implementary.md)
+
 <p><span class="chinese">经过近十年的研究，电子产品的无铅化已经进入实施阶段。</span><span class="english">In recent decade year, Pb-free electronic manufacture has turned into an implementary stage.</span></p>
 
 <p><span class="chinese">按照经侦基础工作的对象、实施的方式、实施的主体可以做出不同的分类。</span><span class="english">The classification may be made in accordance with the subject of the work, its implementary means, and the organ that implements the work.</span></p>

@@ -1,5 +1,7 @@
 # 看看
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kankan.md)
+
 <p><span class="chinese">来看看-有问题么？</span><span class="english">Say -- sorry?</span></p>
 
 <p><span class="chinese">咱们看看熊猫吧。</span><span class="english">Let's see pandas.</span></p>

@@ -1,5 +1,7 @@
 # burst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burst.md)
+
 <p><span class="chinese">杯子炸了。</span><span class="english">The glass has burst.</span></p>
 
 <p><span class="chinese">气泡破了。</span><span class="english">The bubble has burst.</span></p>

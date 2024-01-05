@@ -1,5 +1,7 @@
 # unruly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unruly.md)
+
 <p><span class="chinese">啊？她太刁蛮了。</span><span class="english">Oh?She's too unruly.</span></p>
 
 <p><span class="chinese">牛仔制服了这匹烈马。</span><span class="english">The cowboy broke the unruly horse.</span></p>

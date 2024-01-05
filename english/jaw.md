@@ -1,5 +1,7 @@
 # jaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jaw.md)
+
 <p><span class="chinese">但是她的下颌线呢？</span><span class="english">But her jaw line?</span></p>
 
 <p><span class="chinese">我的牙和下巴疼。</span><span class="english">My teeth and jaw hurt.</span></p>

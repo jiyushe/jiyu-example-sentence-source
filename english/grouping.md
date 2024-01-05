@@ -1,5 +1,7 @@
 # grouping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grouping.md)
+
 <p><span class="chinese">给你的Flickr照片加标签和分类</span><span class="english">Tagging and grouping your Flickr photos</span></p>
 
 <p><span class="chinese">你也可以使用附加组。</span><span class="english">You can also use parenthetical grouping.</span></p>

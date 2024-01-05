@@ -1,5 +1,7 @@
 # 燕儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaner.md)
+
 <p><span class="chinese">此时的王燕儿眼睛里也泛起泪光。</span><span class="english">At this time, Wang Yaner eyes tears.</span></p>
 
 <p><span class="chinese">陈燕儿拿起长剑仔细打量。</span><span class="english">ChenYan son took the sword eyeballs.</span></p>

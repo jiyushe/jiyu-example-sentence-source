@@ -1,5 +1,7 @@
 # nucleocapsid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucleocapsid.md)
+
 <p><span class="chinese">在本文中，提出了一种衣壳超微结构模式图。</span><span class="english">An ultrastructure model of nucleocapsid has been proposed.</span></p>
 
 <p><span class="chinese">沙士病毒的核壳呈管形，属螺旋对称型。</span><span class="english">The SARS viral nucleocapsid is tubular with a helical symmetry.</span></p>

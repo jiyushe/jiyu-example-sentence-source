@@ -1,5 +1,7 @@
 # kitchen 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kitchen.md)
+
 <p><span class="chinese">把它拿到厨房去。</span><span class="english">Take it to the kitchen.</span></p>
 
 <p><span class="chinese">厨房的洗碗盆渗漏。</span><span class="english">The kitchen sink leaks.</span></p>

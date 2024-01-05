@@ -1,5 +1,7 @@
 # 震颤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenchan.md)
+
 <p><span class="chinese">在狂暴的风雪中震颤。</span><span class="english">In tempests turbulent.</span></p>
 
 <p><span class="chinese">来显示自己震颤的羽绒？</span><span class="english">To show its tremulous plumes?</span></p>

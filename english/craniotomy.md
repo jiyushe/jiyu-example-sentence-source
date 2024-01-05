@@ -1,5 +1,7 @@
 # craniotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craniotomy.md)
+
 <p><span class="chinese">赠送纯铜子弹头一枚，免费开颅。</span><span class="english">Presented a copper bullet, free craniotomy.</span></p>
 
 <p><span class="chinese">这通常是用开颅手术为已知。</span><span class="english">This is usually done using a surgical procedure known as a craniotomy.</span></p>

@@ -1,5 +1,7 @@
 # looseness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/looseness.md)
+
 <p><span class="chinese">检查松动在前面的耳机轴承。</span><span class="english">Check for looseness in front and headset bearings.</span></p>
 
 <p><span class="chinese">研究了松动槽楔在电机定子中的分布。</span><span class="english">In addition, this paper studies the distribution of wedge looseness.</span></p>

@@ -1,5 +1,7 @@
 # gastrocnemius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastrocnemius.md)
+
 <p><span class="chinese">三名患者接受了局部转腓肠肌皮瓣。</span><span class="english">Three patients required a local gastrocnemius flap.</span></p>
 
 <p><span class="chinese">他的腓肠肌结实而又健美。</span><span class="english">He has got strong and healthy gastrocnemius muscles.</span></p>

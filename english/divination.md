@@ -1,5 +1,7 @@
 # divination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divination.md)
+
 <p><span class="chinese">请问您对塔罗牌占卜有什么看法？</span><span class="english">What are your views on Tarot divination?</span></p>
 
 <p><span class="chinese">他常用卜卦的方法帮人占卜未来。</span><span class="english">He often practices divination to tell other's fortune.</span></p>

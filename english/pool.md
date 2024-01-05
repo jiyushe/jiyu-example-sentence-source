@@ -1,5 +1,7 @@
 # pool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pool.md)
+
 <p><span class="chinese">我们可以共乘一辆车啊。</span><span class="english">We can car pool.</span></p>
 
 <p><span class="chinese">这就是存储池。</span><span class="english">That is the pool.</span></p>

@@ -1,5 +1,7 @@
 # backout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backout.md)
+
 <p><span class="chinese">应用程序甚至可以将定义的搁置队列用于此目的。</span><span class="english">The application could even use a defined backout queue for this.</span></p>
 
 <p><span class="chinese">拆除城墙是首都发展史上的重大事件。</span><span class="english">It's important to backout Beijing's wall in the capital's history.</span></p>

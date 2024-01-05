@@ -1,5 +1,7 @@
 # cytogenetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cytogenetic.md)
+
 <p><span class="chinese">很多患者继续有完全的细胞生成反应。</span><span class="english">Many of these patients go on to have a complete cytogenetic response.</span></p>
 
 <p><span class="chinese">此外，细胞样品也可用于细胞遗传学分析和免疫表型分析。</span><span class="english">The sample can also be used for cytogenetic analysis and immunophenotyping.</span></p>

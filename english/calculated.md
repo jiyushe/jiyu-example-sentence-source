@@ -1,5 +1,7 @@
 # calculated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calculated.md)
+
 <p><span class="chinese">我算了算我母亲的年龄。</span><span class="english">I calculated my mother's age.</span></p>
 
 <p><span class="chinese">他一定是算错了。</span><span class="english">He must have calculated wrongly.</span></p>

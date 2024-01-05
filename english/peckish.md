@@ -1,5 +1,7 @@
 # peckish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peckish.md)
+
 <p><span class="chinese">事实上，想到他们，我又饿了。</span><span class="english">In fact, thinking of them makes me a little peckish.</span></p>
 
 <p><span class="chinese">如果你晚上十点钟时觉得有点饿的话，就吃一点点心吧。</span><span class="english">If you're feeling peckish at 10pm, have a small snack.</span></p>

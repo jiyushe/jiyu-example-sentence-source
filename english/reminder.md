@@ -1,5 +1,7 @@
 # reminder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reminder.md)
+
 <p><span class="chinese">这是种很好的提醒。</span><span class="english">It is a good reminder.</span></p>
 
 <p><span class="chinese">我在告示牌上贴了一个提示语。</span><span class="english">I stuck a reminder on the bulletin board.</span></p>

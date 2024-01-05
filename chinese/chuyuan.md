@@ -1,5 +1,7 @@
 # 出院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuyuan.md)
+
 <p><span class="chinese">那么那个黑帮已经好了可以出院了？</span><span class="english">So, the mobster's good to go?</span></p>
 
 <p><span class="chinese">手术之后，佳佳康复出院。</span><span class="english">After the operation, Jia Jia discharged.</span></p>

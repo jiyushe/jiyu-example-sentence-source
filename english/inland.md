@@ -1,5 +1,7 @@
 # inland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inland.md)
+
 <p><span class="chinese">这是内河港。</span><span class="english">This is an inland port.</span></p>
 
 <p><span class="chinese">第二天，我们乘车开往内陆。</span><span class="english">The next day, we drove inland.</span></p>

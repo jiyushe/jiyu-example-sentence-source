@@ -1,5 +1,7 @@
 # 泼妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pofu.md)
+
 <p><span class="chinese">她是一个泼妇。</span><span class="english">She is a shrew.</span></p>
 
 <p><span class="chinese">你是一个泼妇。</span><span class="english">You are a shrew.</span></p>

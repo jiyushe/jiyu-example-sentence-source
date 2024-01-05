@@ -1,5 +1,7 @@
 # forearm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forearm.md)
+
 <p><span class="chinese">他前臂上刺有花纹。</span><span class="english">He had a tattoo on his forearm.</span></p>
 
 <p><span class="chinese">她张开巨大的前臂拥抱过你。</span><span class="english">She did give you one huge forearm.</span></p>

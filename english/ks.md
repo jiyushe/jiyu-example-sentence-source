@@ -1,5 +1,7 @@
 # ks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ks.md)
+
 <p><span class="chinese">1999年三月，我初认识广顺。</span><span class="english">March 1999, I first know KS.</span></p>
 
 <p><span class="chinese">堪萨斯州的邮政缩写是KS。</span><span class="english">The postal abbreviation for Kansas is KS.</span></p>

@@ -1,5 +1,7 @@
 # remission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remission.md)
+
 <p><span class="chinese">每过七年，应施行豁免。</span><span class="english">In the seventh year thou shalt make a remission.</span></p>
 
 <p><span class="chinese">因为确诊后的第一个五年时间是病情的缓解期。</span><span class="english">Remission is the first five years immediately after diagnosis.</span></p>

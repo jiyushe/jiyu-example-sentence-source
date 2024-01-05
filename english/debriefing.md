@@ -1,5 +1,7 @@
 # debriefing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debriefing.md)
+
 <p><span class="chinese">这就是杰克·鲍尔对做任务简报的自我安慰。</span><span class="english">That's the way Jack Bauer rationalized the debriefing.</span></p>
 
 <p><span class="chinese">那是一份间接报告，是根据别人告诉他的情况写成的。</span><span class="english">The act or process of debriefing or of being debriefed.</span></p>

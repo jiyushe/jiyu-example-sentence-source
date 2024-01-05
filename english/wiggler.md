@@ -1,5 +1,7 @@
 # wiggler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wiggler.md)
+
 <p><span class="chinese">初步论证了利用该摆动器产生高次谐波相干辐射的可能性。</span><span class="english">It is shown that a FEL operation is possible in this wiggler by using higher harmonics.</span></p>
 
 <p><span class="chinese">本文研究的自由电子激光器具有线性摆动器及轴向引导磁场。</span><span class="english">The free electron laser with a linearly polarized wiggler and axial guide field hag been studied.</span></p>

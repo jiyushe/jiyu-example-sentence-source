@@ -1,5 +1,7 @@
 # classwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classwork.md)
+
 <p><span class="chinese">除了做课堂功课之外，我还打了两份工。</span><span class="english">In addition to my classwork I had two jobs.</span></p>
 
 <p><span class="chinese">我做学校功课是因为它有趣。</span><span class="english">I work on my classwork because it's interesting.</span></p>

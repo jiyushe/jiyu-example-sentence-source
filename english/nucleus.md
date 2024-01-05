@@ -1,5 +1,7 @@
 # nucleus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucleus.md)
+
 <p><span class="chinese">原子核的电荷量是多少？</span><span class="english">What is the charge of the nucleus?</span></p>
 
 <p><span class="chinese">在原子的中心有原于核。</span><span class="english">The atom has a nucleus at its core.</span></p>

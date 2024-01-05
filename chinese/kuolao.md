@@ -1,5 +1,7 @@
 # 阔佬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuolao.md)
+
 <p><span class="chinese">所有这些阔佬！</span><span class="english">all those rich folks!</span></p>
 
 <p><span class="chinese">莎士比亚是个阔佬。</span><span class="english">Shakespeare was a fat cat.</span></p>

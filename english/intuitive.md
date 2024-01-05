@@ -1,5 +1,7 @@
 # intuitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intuitive.md)
+
 <p><span class="chinese">一款非常直观的广告拦截器。</span><span class="english">A very intuitive ad blocker.</span></p>
 
 <p><span class="chinese">你对那婴儿的直觉真不简单。</span><span class="english">Pretty intuitive call on the baby.</span></p>

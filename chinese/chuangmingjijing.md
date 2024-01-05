@@ -1,5 +1,7 @@
 # 窗明几净
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuangmingjijing.md)
+
 <p><span class="chinese">窥视一下那些窗明几净的办公室，可能也泄露出一些相当让人可怕的事情。</span><span class="english">Peering into all those offices might reveal some pretty scary stuff too.</span></p>
 
 <p><span class="chinese">终于窗明几净，外面的世界仿佛都清晰了。</span><span class="english">At last my dorm got bright and clean as if the world outside also turned to vivid.</span></p>

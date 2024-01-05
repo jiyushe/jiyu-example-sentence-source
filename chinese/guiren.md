@@ -1,5 +1,7 @@
 # 贵人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guiren.md)
+
 <p><span class="chinese">“多么可爱的大贵人，”他常说。</span><span class="english">"What a charming grand seigneur, " he said.</span></p>
 
 <p><span class="chinese">每个人的生命中都有一些贵人相助。</span><span class="english">Some people come into your life for a reason.</span></p>

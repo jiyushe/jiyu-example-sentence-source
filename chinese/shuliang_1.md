@@ -1,5 +1,7 @@
 # 薯莨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuliang_1.md)
+
 <p><span class="chinese">为什么用“薯莨”？</span><span class="english">Why do they use "dioscorea rhipogomoides"?</span></p>
 
 <p><span class="chinese">本发明涉及薯莨保健酒的生产技术。</span><span class="english">The invention relates to a dioscorea cirrhosa health care wine production technology.</span></p>

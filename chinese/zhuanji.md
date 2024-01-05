@@ -1,5 +1,7 @@
 # 专机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanji.md)
+
 <p><span class="chinese">朝圣者们乘专机去麦加。</span><span class="english">He went to Mecca as a pilgrim.</span></p>
 
 <p><span class="chinese">在公司专机问题上挑刺很容易。</span><span class="english">Corporate jets are easy to pick on.</span></p>

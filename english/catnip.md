@@ -1,5 +1,7 @@
 # catnip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catnip.md)
+
 <p><span class="chinese">试著混一点点猫薄荷在食物中。</span><span class="english">Try mixing a tiny bit of catnip with the food.</span></p>
 
 <p><span class="chinese">象非洲蜜蜂的蜂蜜和鲜樟脑草酱这样给人带来新奇味觉的事物。</span><span class="english">Such gustatory exotica as killer bee honey and fresh catnip sauce.</span></p>

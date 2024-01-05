@@ -1,5 +1,7 @@
 # kgb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kgb.md)
+
 <p><span class="chinese">克格勃可从来没有这种东西。</span><span class="english">The KGB never had anything like it.</span></p>
 
 <p><span class="chinese">我在克格勃的老朋友们都很鄙视格勒乌。</span><span class="english">My old friends at KGB despise the GRU.</span></p>

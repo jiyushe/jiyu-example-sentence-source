@@ -1,5 +1,7 @@
 # representation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/representation_1.md)
+
 <p><span class="chinese">它会返回给我一种表示。</span><span class="english">It gives me back a representation.</span></p>
 
 <p><span class="chinese">部件的视图表达方法。</span><span class="english">Representation methods of views of parts.</span></p>

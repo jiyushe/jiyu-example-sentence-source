@@ -1,5 +1,7 @@
 # interpolation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpolation.md)
+
 <p><span class="chinese">然后要做个插值方案。</span><span class="english">And then an interpolation scheme.</span></p>
 
 <p><span class="chinese">然后我们就可以利用。</span><span class="english">And then we need an interpolation scale.</span></p>

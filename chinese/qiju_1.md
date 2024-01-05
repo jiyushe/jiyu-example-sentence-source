@@ -1,5 +1,7 @@
 # 栖居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiju_1.md)
+
 <p><span class="chinese">它们都栖居在非洲或者阿拉伯。</span><span class="english">All live in Africa or Arabia.</span></p>
 
 <p><span class="chinese">浣熊可栖居在森林。</span><span class="english">Racoons can live in the forest.</span></p>

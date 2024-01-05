@@ -1,5 +1,7 @@
 # flowing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flowing.md)
+
 <p><span class="chinese">热是朝这个方向流动的。</span><span class="english">Heat is flowing this way.</span></p>
 
 <p><span class="chinese">保持射弹流畅。</span><span class="english">Keep the bullets flowing.</span></p>

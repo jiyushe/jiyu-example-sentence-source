@@ -1,5 +1,7 @@
 # brucine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brucine.md)
+
 <p><span class="chinese">高效液相色谱法测定马钱子碱的含量。</span><span class="english">The content of brucine was measured by HPLC.</span></p>
 
 <p><span class="chinese">目的考察马钱子碱在大鼠体内的药动学性质。</span><span class="english">OBJECTIVE To investigate pharmacokinetic properties of brucine in rats.</span></p>

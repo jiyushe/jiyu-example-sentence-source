@@ -1,5 +1,7 @@
 # isotonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isotonic.md)
+
 <p><span class="chinese">健营素1卡设有等渗透压纤维强化管饲配方。</span><span class="english">Jevity 1 Cal is an isotonic fiber-fortified tube-feeding formula.</span></p>
 
 <p><span class="chinese">方法应用血管平滑肌等张收缩的方法。</span><span class="english">Methods Isotonic contraction of vessel smooth muscle was recorded.</span></p>

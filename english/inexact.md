@@ -1,5 +1,7 @@
 # inexact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inexact.md)
+
 <p><span class="chinese">这篇译文不确切。</span><span class="english">The translation is inexact to the letter.</span></p>
 
 <p><span class="chinese">这是一种缺少人情味、随意马虎的处事方式。</span><span class="english">It’s an impersonal, imprecise, inexact approach.</span></p>

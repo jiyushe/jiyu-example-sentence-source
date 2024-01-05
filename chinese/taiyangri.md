@@ -1,5 +1,7 @@
 # 太阳日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyangri.md)
+
 <p><span class="chinese">特罗姆瑟人把这一天叫做“太阳日”。</span><span class="english">People can't see the sun all day and all night.</span></p>
 
 <p><span class="chinese">世界新闻报是太阳日报的姊妹版。</span><span class="english">News of the World was the Sunday sister paper of The Sun.</span></p>

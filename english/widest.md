@@ -1,5 +1,7 @@
 # widest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/widest.md)
+
 <p><span class="chinese">伊瓜苏瀑布是美洲大陆上最宽的瀑布。</span><span class="english">Iguazu is the widest waterfall on the American continent.</span></p>
 
 <p><span class="chinese">这条河在离村子二公里处最宽。</span><span class="english">The river is widest two kilometers away from the village.</span></p>

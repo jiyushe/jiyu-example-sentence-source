@@ -1,5 +1,7 @@
 # 阿胶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ejiao.md)
+
 <p><span class="chinese">因为阿胶的价格大幅上涨，所以今年我们只好少吃点。</span><span class="english">The price of it has increased significantly, so this year we have to eat less.</span></p>
 
 <p><span class="chinese">我听说孕妇怀孕期是不能喝阿胶的！</span><span class="english">I have heard that pregnant women should not drink during pregnancy is the Ejiao!</span></p>

@@ -1,5 +1,7 @@
 # cashew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cashew.md)
+
 <p><span class="chinese">等等你喜欢我的腰果鸡丁？</span><span class="english">Wait, you liked my cashew chicken?</span></p>
 
 <p><span class="chinese">腰果黄油抹面包——事实上，不能比这个再多的了。</span><span class="english">Cashew butter on toast —Actually, not any more.</span></p>

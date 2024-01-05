@@ -1,5 +1,7 @@
 # 百倍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baibei.md)
+
 <p><span class="chinese">但在当地头领看来，比饥饿可怕百倍的是干渴。</span><span class="english">Worse than the hunger, say local leaders, is the thirst.</span></p>
 
 <p><span class="chinese">他的长途跋涉得到了百倍的补偿。</span><span class="english">His long trek up the hillside had been repaid a hundredfold.</span></p>

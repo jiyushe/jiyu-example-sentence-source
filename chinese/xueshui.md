@@ -1,5 +1,7 @@
 # 血水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueshui.md)
+
 <p><span class="chinese">有血水渗入雪地。</span><span class="english">There is blood filtering through the snow.</span></p>
 
 <p><span class="chinese">伤口渗出来的血水需要棉花来抹掉。</span><span class="english">She used cotton wool to swab her wounds when they bled.</span></p>

@@ -1,5 +1,7 @@
 # anime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anime.md)
+
 <p><span class="chinese">不喜欢复杂的动画。</span><span class="english">Doesn't like complex anime.</span></p>
 
 <p><span class="chinese">一个人只喜欢谁“动画片。”</span><span class="english">A person who simply enjoys "anime."</span></p>

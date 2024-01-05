@@ -1,5 +1,7 @@
 # 请问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingwen.md)
+
 <p><span class="chinese">请问你叫什么名字</span><span class="english">And your name is?</span></p>
 
 <p><span class="chinese">请问你有笔吗？</span><span class="english">Do you have a pen?</span></p>

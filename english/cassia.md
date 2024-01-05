@@ -1,5 +1,7 @@
 # cassia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cassia.md)
+
 <p><span class="chinese">铁刀木中一个新的色酮苷。</span><span class="english">A new chromone glycoside from Cassia siamea lam.</span></p>
 
 <p><span class="chinese">桂枝茯苓丸是治疗什么病的?。</span><span class="english">What disease does bolus of cassia twig tuckahoe treat?</span></p>

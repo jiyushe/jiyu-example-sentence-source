@@ -1,5 +1,7 @@
 # 绰绰有余
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuochuoyouyu.md)
+
 <p><span class="chinese">个有效数应该绰绰有余了。</span><span class="english">Two significant digits is good enough.</span></p>
 
 <p><span class="chinese">因此，300-600美元是绰绰有余了这一点。</span><span class="english">So, 300-600 dollars is more than enough for this.</span></p>

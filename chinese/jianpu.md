@@ -1,5 +1,7 @@
 # 简谱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianpu.md)
+
 <p><span class="chinese">他一定非常地爱她。对比一下浪漫惊喜简谱。</span><span class="english">He must have loved her very much.</span></p>
 
 <p><span class="chinese">有时也煞有介事，拿着简谱在钢琴上摩拳擦掌。</span><span class="english">Sometimes story, take on the piano chords try.</span></p>

@@ -1,5 +1,7 @@
 # catharsis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catharsis.md)
+
 <p><span class="chinese">对我们来说这是一种净化。</span><span class="english">This was a catharsis for us.</span></p>
 
 <p><span class="chinese">现在精神可以放松了，尽情宣泄了。</span><span class="english">Now there is relief and catharsis.</span></p>

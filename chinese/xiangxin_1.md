@@ -1,5 +1,7 @@
 # 相信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxin_1.md)
+
 <p><span class="chinese">我相信不会吧。</span><span class="english">I believe not.</span></p>
 
 <p><span class="chinese">我相信这一点。</span><span class="english">This I believe.</span></p>

@@ -1,5 +1,7 @@
 # stalemate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stalemate.md)
+
 <p><span class="chinese">战争处于相持阶段。</span><span class="english">The war was at a stalemate.</span></p>
 
 <p><span class="chinese">比赛最终以和棋结束。</span><span class="english">The match ended in a stalemate.</span></p>

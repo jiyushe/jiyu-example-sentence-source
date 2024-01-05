@@ -1,5 +1,7 @@
 # externalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/externalism.md)
+
 <p><span class="chinese">在某种意义上，先验外在论是一个更强形式的学说。</span><span class="english">In one way, transcendental externalism is a stronger form of doctrine.</span></p>
 
 <p><span class="chinese">第二章“内在主义与外在主义的划界与概念界定”。</span><span class="english">Chapter two is about the demarcation and definition of internalism and externalism.</span></p>

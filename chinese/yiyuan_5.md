@@ -1,5 +1,7 @@
 # 遗愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyuan_5.md)
+
 <p><span class="chinese">临终的人气喘吁吁地说出他的最终遗愿。</span><span class="english">The dying man panted out his last wishes.</span></p>
 
 <p><span class="chinese">那个垂死的老妇人喘着气说出了她的遗愿。</span><span class="english">The dying woman panted out her last wishes.</span></p>

@@ -1,5 +1,7 @@
 # 份儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fener.md)
+
 <p><span class="chinese">凡是这类讨论乔是没有份儿的。</span><span class="english">In these discussions, Joe bore no part.</span></p>
 
 <p><span class="chinese">看在上帝的份儿上，也不要告诉别人你爱的是谁。</span><span class="english">And for God’s sake don’t reveal whom you love.</span></p>

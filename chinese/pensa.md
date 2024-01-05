@@ -1,5 +1,7 @@
 # 喷洒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pensa.md)
+
 <p><span class="chinese">她在喷洒灭蚊剂。</span><span class="english">He is spraying mosquitoes.</span></p>
 
 <p><span class="chinese">在沙拉上喷洒韭葱。</span><span class="english">Sprinkle scallions oer your salad.</span></p>

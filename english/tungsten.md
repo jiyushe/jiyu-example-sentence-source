@@ -1,5 +1,7 @@
 # tungsten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tungsten.md)
+
 <p><span class="chinese">氧吸附于钨。</span><span class="english">Oxygen adsorbs on tungsten.</span></p>
 
 <p><span class="chinese">钨归入金属类。</span><span class="english">Tungsten is classified among the metals.</span></p>

@@ -1,5 +1,7 @@
 # 霜降
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangjiang.md)
+
 <p><span class="chinese">寒风起霜降山顶。</span><span class="english">Peak wind from the frost.</span></p>
 
 <p><span class="chinese">霜降时花即枯萎。</span><span class="english">Flowers perish when frost comes.</span></p>

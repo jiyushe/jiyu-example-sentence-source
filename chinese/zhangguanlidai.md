@@ -1,5 +1,7 @@
 # 张冠李戴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangguanlidai.md)
+
 <p><span class="chinese">我们中有谁能不清楚当我们被张冠李戴的情景？</span><span class="english">For who among us does not know what it is like to be Tuttle-d?</span></p>
 
 <p><span class="chinese">所以把流动性不足作为全部问题来对待就是张冠李戴了。</span><span class="english">So to assume that the whole problem is inadequate liquidity bypasses the real issue.</span></p>

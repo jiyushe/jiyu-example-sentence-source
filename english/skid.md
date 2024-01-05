@@ -1,5 +1,7 @@
 # skid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skid.md)
+
 <p><span class="chinese">他最后沦落到了流浪人的贫民区。</span><span class="english">He ended up on skid row.</span></p>
 
 <p><span class="chinese">液体燃料增压泵撬装体。</span><span class="english">Duplex liquid fuel boost pump skid.</span></p>

@@ -1,5 +1,7 @@
 # canst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canst.md)
+
 <p><span class="chinese">而你永恒生命可以给予。</span><span class="english">Since thou eternal life canst give.</span></p>
 
 <p><span class="chinese">鲁莽的恋人，永远，永远永远也吻不到。</span><span class="english">Bold Lover, never, never canst thou kiss.</span></p>

@@ -1,5 +1,7 @@
 # 低热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dire.md)
+
 <p><span class="chinese">多吃低热，低脂食物。</span><span class="english">Enjoy a low-calorie, low-fat diet.</span></p>
 
 <p><span class="chinese">有些饮料含糖,有些则使用低热量的甜味剂。</span><span class="english">Some have sugar, but others use low-calorie sweet</span></p>

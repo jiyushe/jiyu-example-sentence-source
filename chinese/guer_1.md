@@ -1,5 +1,7 @@
 # 故而
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guer_1.md)
+
 <p><span class="chinese">故而，每个樱桃果上都挂着晶莹的雨滴。</span><span class="english">Thus, on each cherry was glistening a rain drop.</span></p>
 
 <p><span class="chinese">我半个晚上都一直在担心，故而时醒时睡。</span><span class="english">I worried half the night and have a fitful sleep.</span></p>

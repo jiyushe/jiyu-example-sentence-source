@@ -1,5 +1,7 @@
 # congenital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congenital.md)
+
 <p><span class="chinese">先天性心脏病。</span><span class="english">Congenital heart disease.</span></p>
 
 <p><span class="chinese">先天性多毛症很罕见。</span><span class="english">Congenital Hypertrichosis is very rare.</span></p>

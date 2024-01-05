@@ -1,5 +1,7 @@
 # 公共
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonggong_1.md)
+
 <p><span class="chinese">关注公共数据。</span><span class="english">Mine public data.</span></p>
 
 <p><span class="chinese">遵守公共秩序。</span><span class="english">Observe public order.</span></p>

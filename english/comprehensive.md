@@ -1,5 +1,7 @@
 # comprehensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comprehensive.md)
+
 <p><span class="chinese">其一，这一体系是多领域、全方位的。</span><span class="english">First, it is comprehensive.</span></p>
 
 <p><span class="chinese">这张大地图怎么综合的呢？</span><span class="english">How comprehensive is this Big Map?</span></p>

@@ -1,5 +1,7 @@
 # 出版社
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chubanshe.md)
+
 <p><span class="chinese">你好，高教出版社。</span><span class="english">Hello. Higher Education Press.</span></p>
 
 <p><span class="chinese">把它寄给第一流的出版社。</span><span class="english">Offer it to the first-class houses.</span></p>

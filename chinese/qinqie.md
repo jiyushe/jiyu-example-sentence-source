@@ -1,5 +1,7 @@
 # 亲切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinqie.md)
+
 <p><span class="chinese">她是一只亲切的动物.</span><span class="english">She is a kind animal.</span></p>
 
 <p><span class="chinese">以亲切的问候，9。</span><span class="english">With kind regards, no9.</span></p>

@@ -1,5 +1,7 @@
 # 到处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daochu.md)
+
 <p><span class="chinese">我到处坐坐。</span><span class="english">I sat around.</span></p>
 
 <p><span class="chinese">到处都是鱼。</span><span class="english">Fish everywhere.</span></p>

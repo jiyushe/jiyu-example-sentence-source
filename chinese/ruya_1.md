@@ -1,5 +1,7 @@
 # 儒雅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruya_1.md)
+
 <p><span class="chinese">他的行为举止非常温文儒雅。</span><span class="english">His behavior was very gentle.</span></p>
 
 <p><span class="chinese">那位温文儒雅的胃病专家起立时室内一片寂静。</span><span class="english">There was silence as the elegant stomach specialist stood up.</span></p>

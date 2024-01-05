@@ -1,5 +1,7 @@
 # beatle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beatle.md)
+
 <p><span class="chinese">我就是“犹太披头士”。</span><span class="english">I was like the Jewish Beatle.</span></p>
 
 <p><span class="chinese">让我们来谈谈狂热，先从甲壳虫热说起。</span><span class="english">Let's talk about manias. Let's start with Beatle mania.</span></p>

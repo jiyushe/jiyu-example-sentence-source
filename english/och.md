@@ -1,5 +1,7 @@
 # och
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/och.md)
+
 <p><span class="chinese">我有一个猕猴桃和一个甜瓜。</span><span class="english">Jag har en kiwi och en melon.</span></p>
 
 <p><span class="chinese">安娜和马丁喜欢中国菜。</span><span class="english">Anna och Martin tycker om kinamat.</span></p>

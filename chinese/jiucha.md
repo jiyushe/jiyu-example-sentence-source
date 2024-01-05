@@ -1,5 +1,7 @@
 # 纠察
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiucha.md)
+
 <p><span class="chinese">他们在饭馆外设置纠察。</span><span class="english">They picketed the restaurant.</span></p>
 
 <p><span class="chinese">工人在工厂大门口设了纠察线。</span><span class="english">The workers picketed the factory gates.</span></p>

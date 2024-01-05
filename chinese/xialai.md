@@ -1,5 +1,7 @@
 # 下来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xialai.md)
+
 <p><span class="chinese">他坐下来。</span><span class="english">He sat down.</span></p>
 
 <p><span class="chinese">我慢了下来。</span><span class="english">I slow down.</span></p>

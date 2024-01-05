@@ -1,5 +1,7 @@
 # gelatin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gelatin.md)
+
 <p><span class="chinese">这个是鱼胶。</span><span class="english">This is fish gelatin.</span></p>
 
 <p><span class="chinese">加入鱼胶溶液。</span><span class="english">Add the gelatin water.</span></p>

@@ -1,5 +1,7 @@
 # proliferous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proliferous.md)
+
 <p><span class="chinese">结论IP是有一定增殖活性的良性肿瘤。</span><span class="english">Conclusion IP is a proliferous benign tumor.</span></p>
 
 <p><span class="chinese">它有大量的小血管，增殖迅速。</span><span class="english">It has many little blood vessel, proliferous and rapid.</span></p>

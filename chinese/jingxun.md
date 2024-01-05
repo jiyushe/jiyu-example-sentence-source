@@ -1,5 +1,7 @@
 # 警讯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxun.md)
+
 <p><span class="chinese">这个小插曲对欧洲人应是个警讯。</span><span class="english">The episode should serve as a warning to Europeans.</span></p>
 
 <p><span class="chinese">对中国来说，赞比亚发生的事情应该是一个警讯。</span><span class="english">For China, events in Zambia should be a warning sign.</span></p>

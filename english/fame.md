@@ -1,5 +1,7 @@
 # fame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fame.md)
+
 <p><span class="chinese">名气是一个大笑话。</span><span class="english">Fame is a big joke.</span></p>
 
 <p><span class="chinese">因为江心屿的名气很大。</span><span class="english">Because of its fame.</span></p>

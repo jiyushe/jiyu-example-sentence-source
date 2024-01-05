@@ -1,5 +1,7 @@
 # sneer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sneer.md)
+
 <p><span class="chinese">我真忍不住想笑话他。</span><span class="english">I can't help but sneer at him.</span></p>
 
 <p><span class="chinese">他冷笑着答复我。</span><span class="english">He gave me a reply with a sneer.</span></p>

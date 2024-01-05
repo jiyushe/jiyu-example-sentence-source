@@ -1,5 +1,7 @@
 # jabez
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jabez.md)
+
 <p><span class="chinese">杰贝兹·威尔逊先生大笑起来。</span><span class="english">Mr. Jabez Wilson laughed heavily.</span></p>
 
 <p><span class="chinese">当神祝福雅比斯的时候，他的性格特征发生了改变。</span><span class="english">Jabez had his character changed when God blessed him.</span></p>

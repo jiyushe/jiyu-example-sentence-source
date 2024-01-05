@@ -1,5 +1,7 @@
 # bto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bto.md)
+
 <p><span class="chinese">我会从头到尾教的。</span><span class="english">I'll teach you from Bto Z.</span></p>
 
 <p><span class="chinese">当设置闪烁时，可以用D和B来改变它。</span><span class="english">While a setting is flashing, use D and Bto change it.</span></p>

@@ -1,5 +1,7 @@
 # 制图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhitu.md)
+
 <p><span class="chinese">找一个好制图师。</span><span class="english">Find a good cartographer.</span></p>
 
 <p><span class="chinese">手工制图是园林设计的基础。</span><span class="english">Hand-drawing is the basis of garden design.</span></p>

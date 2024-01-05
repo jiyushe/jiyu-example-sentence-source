@@ -1,5 +1,7 @@
 # 自由民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyoumin.md)
+
 <p><span class="chinese">职责总是会召唤自由民。</span><span class="english">Duty always called free men.</span></p>
 
 <p><span class="chinese">过去女人被认为是从属于自由民的。</span><span class="english">Women were regarded as subordinate to free men.</span></p>

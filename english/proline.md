@@ -1,5 +1,7 @@
 # proline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proline.md)
+
 <p><span class="chinese">叶片脯氨酸的含量与叶龄和植物种类有关。</span><span class="english">Proline contents were related to leaf age and species.</span></p>
 
 <p><span class="chinese">组氨酸和脯氨酸是人体和动物必需的氨基酸。</span><span class="english">Histidine and proline are necessary amino acids for man and animal.</span></p>

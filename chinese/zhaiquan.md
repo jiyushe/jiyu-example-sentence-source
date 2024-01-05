@@ -1,5 +1,7 @@
 # 债券
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaiquan.md)
+
 <p><span class="chinese">债券是正式的契据。</span><span class="english">A bond is a formal deed.</span></p>
 
 <p><span class="chinese">市政债券是否安全？</span><span class="english">How safe are your munis?</span></p>

@@ -1,5 +1,7 @@
 # caragana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caragana.md)
+
 <p><span class="chinese">甘肃锦鸡儿属植物的分类及分布。</span><span class="english">Studies on the plant genus Caragana of Gansu.</span></p>
 
 <p><span class="chinese">分析讨论了柠条人工林的造林技术及林木生长特点。</span><span class="english">Forestation techniques and growth features of Caragana microphylla were analyzed.</span></p>

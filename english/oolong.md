@@ -1,5 +1,7 @@
 # oolong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oolong.md)
+
 <p><span class="chinese">乌龙茶还是茉莉花茶？</span><span class="english">Oolong tea or jasmine tea?</span></p>
 
 <p><span class="chinese">是的，它属于乌龙茶类。</span><span class="english">Yes, it belongs to oolong genera.</span></p>

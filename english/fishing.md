@@ -1,5 +1,7 @@
 # fishing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fishing.md)
+
 <p><span class="chinese">钓鱼去吧。</span><span class="english">Go fishing.</span></p>
 
 <p><span class="chinese">他钓鱼去了。</span><span class="english">He went fishing.</span></p>

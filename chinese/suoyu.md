@@ -1,5 +1,7 @@
 # 梭鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoyu.md)
+
 <p><span class="chinese">啊，瓦尔登的梭鱼！</span><span class="english">Ah, the pickerel of Walden!</span></p>
 
 <p><span class="chinese">马来西亚诗巴丹岛梭鱼点。</span><span class="english">Barracuda Point, Sipadan, Malaysia.</span></p>

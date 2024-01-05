@@ -1,5 +1,7 @@
 # 枕上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenshang.md)
+
 <p><span class="chinese">数字电视将会出现在高端汽车后头枕上。</span><span class="english">Digital TV would be displayed in rear seat monitors.</span></p>
 
 <p><span class="chinese">老粗睡在丝枕上还是老粗。</span><span class="english">A boor remains a boor even if sleeping on silken pillows.</span></p>

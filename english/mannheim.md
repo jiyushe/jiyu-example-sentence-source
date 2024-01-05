@@ -1,5 +1,7 @@
 # mannheim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mannheim.md)
+
 <p><span class="chinese">漂亮的曼海姆教堂穹顶。</span><span class="english">The beautiful dome of Mannheim church.</span></p>
 
 <p><span class="chinese">这是曼海姆市的卫星照片。</span><span class="english">Satellite picture of the city of Mannheim.</span></p>

@@ -1,5 +1,7 @@
 # 地壳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diqiao.md)
+
 <p><span class="chinese">远在地壳之下。</span><span class="english">Far ' neath the earth crust.</span></p>
 
 <p><span class="chinese">采购产品皮革废料，鹿，鹿地壳，纳帕，废料。</span><span class="english">Leather Scrap, Deer, Deer Crust, Nappa , Scrap.</span></p>

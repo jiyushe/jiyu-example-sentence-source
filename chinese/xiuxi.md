@@ -1,5 +1,7 @@
 # 休息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuxi.md)
+
 <p><span class="chinese">好好休息，早日康复。</span><span class="english">Rest well.</span></p>
 
 <p><span class="chinese">惠群休息好。</span><span class="english">rest well.</span></p>

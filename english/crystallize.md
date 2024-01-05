@@ -1,5 +1,7 @@
 # crystallize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crystallize.md)
+
 <p><span class="chinese">在低温时易结晶、硬化。</span><span class="english">At low temperature, it is easy to crystallize and harden.</span></p>
 
 <p><span class="chinese">它帮助我明确头脑中的特定想法。</span><span class="english">It helps you crystallize certain activities in your mind.</span></p>

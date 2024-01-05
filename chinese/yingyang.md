@@ -1,5 +1,7 @@
 # 营养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyang.md)
+
 <p><span class="chinese">冷冻酸奶酪的营养很丰富。</span><span class="english">Yogurt is nutrient-rich.</span></p>
 
 <p><span class="chinese">孩子做营养快餐"</span><span class="english">Kids make nutritious snacks."</span></p>

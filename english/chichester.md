@@ -1,5 +1,7 @@
 # chichester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chichester.md)
+
 <p><span class="chinese">奇切斯特产生过恐惧而又战胜了恐惧。</span><span class="english">Chichester had experienced fear and conquered it.</span></p>
 
 <p><span class="chinese">奇切斯特上岸后，得由人搀扶才能行走。</span><span class="english">On shore, Chichester could not walk without help.</span></p>

@@ -1,5 +1,7 @@
 # evaporative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evaporative.md)
+
 <p><span class="chinese">在川东北地区演化为碳酸盐蒸发台地。</span><span class="english">The northeastern Sichuan area is evaporative carbonate platform.</span></p>
 
 <p><span class="chinese">另一种保持食物新鲜的方法是使用蒸发冷却器。</span><span class="english">But another way to keep food fresh is to use an evaporative cooler.</span></p>

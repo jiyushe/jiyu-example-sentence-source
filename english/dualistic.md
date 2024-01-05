@@ -1,5 +1,7 @@
 # dualistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dualistic.md)
+
 <p><span class="chinese">所有众生，若心存二分法，则必然会持续的造业。</span><span class="english">All beings with dualistic mind are continually creating karma.</span></p>
 
 <p><span class="chinese">由于具双重性格，有时候他们可能会悲观厌世。</span><span class="english">Sometime they can be pessimistic which is caused by their dualistic nature.</span></p>

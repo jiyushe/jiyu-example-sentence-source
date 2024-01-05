@@ -1,5 +1,7 @@
 # arabic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arabic.md)
+
 <p><span class="chinese">我们知道你懂阿拉伯语。</span><span class="english">We know you know Arabic.</span></p>
 
 <p><span class="chinese">我们还定购了阿拉伯语的版本。</span><span class="english">We have it on order in Arabic.</span></p>

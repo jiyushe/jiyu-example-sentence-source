@@ -1,5 +1,7 @@
 # scintillation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scintillation.md)
+
 <p><span class="chinese">叫做闪烁计数器。</span><span class="english">It's called the scintillation screen.</span></p>
 
 <p><span class="chinese">你可以看到他眼睛里闪烁着愤怒的光芒。</span><span class="english">You can see scintillation of anger in his eyes.</span></p>

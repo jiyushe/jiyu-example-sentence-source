@@ -1,5 +1,7 @@
 # ferreous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferreous.md)
+
 <p><span class="chinese">钢的边角废料，含铁的不含铁的。</span><span class="english">The scrap metal are steel, ferreous and non ferreous.</span></p>
 
 <p><span class="chinese">春天像健壮的青年，有铁一般的胳膊和腰脚，领着我们上前去。</span><span class="english">Spring is like a vigorous youth with ferreous arm and waist, leading us progressing.</span></p>

@@ -1,5 +1,7 @@
 # 奔逃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bentao.md)
+
 <p><span class="chinese">一声枪响把一群斑马惊得四散奔逃。</span><span class="english">A group of zebras started up by a shot.</span></p>
 
 <p><span class="chinese">狗儿们正在奔逃。它们很害怕。</span><span class="english">The dogs are running away. They're afraid.</span></p>

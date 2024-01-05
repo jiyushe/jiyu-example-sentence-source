@@ -1,5 +1,7 @@
 # 坐待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuodai.md)
+
 <p><span class="chinese">坐待时机，就会失去时机。</span><span class="english">Who waits for time, loses time.</span></p>
 
 <p><span class="chinese">作为校长，我坐待，并观察。</span><span class="english">As a head, I'm sitting back and waiting and watching.</span></p>

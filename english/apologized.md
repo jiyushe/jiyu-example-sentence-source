@@ -1,5 +1,7 @@
 # apologized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apologized.md)
+
 <p><span class="chinese">你从来没有道过谦。</span><span class="english">You never even apologized.</span></p>
 
 <p><span class="chinese">石原知事很快便就此道歉。</span><span class="english">The governor soon apologized.</span></p>

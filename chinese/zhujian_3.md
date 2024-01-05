@@ -1,5 +1,7 @@
 # 铸件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujian_3.md)
+
 <p><span class="chinese">你必须把铸件的表面弄光滑。</span><span class="english">You must face off the casting.</span></p>
 
 <p><span class="chinese">压铸件广泛用于汽车工业。</span><span class="english">Die-casts are used in auto industry widely.</span></p>

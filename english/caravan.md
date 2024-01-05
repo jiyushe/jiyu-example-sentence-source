@@ -1,5 +1,7 @@
 # caravan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caravan.md)
+
 <p><span class="chinese">古早他留在一个大旅舍里留宿。</span><span class="english">He stayed in a caravan for the night.</span></p>
 
 <p><span class="chinese">当我们的车队离开了星海广场。</span><span class="english">After our caravan left Xinghai Square.</span></p>

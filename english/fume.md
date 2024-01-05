@@ -1,5 +1,7 @@
 # fume
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fume.md)
+
 <p><span class="chinese">你可以滔滔不绝、勃然大怒，或者哀嚎抱怨，怎么样都行。</span><span class="english">You can gush, fume or whine – anything goes.</span></p>
 
 <p><span class="chinese">烹调油烟气含有200多种有害气体。</span><span class="english">Cooking oil fume contains more than 200 harmful gases.</span></p>

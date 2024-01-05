@@ -1,5 +1,7 @@
 # cling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cling.md)
+
 <p><span class="chinese">一切只是我贪恋你。</span><span class="english">All are only I cling to you.</span></p>
 
 <p><span class="chinese">藤蔓攀附大树。</span><span class="english">The vines cling to the trees.</span></p>

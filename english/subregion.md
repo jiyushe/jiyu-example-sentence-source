@@ -1,5 +1,7 @@
 # subregion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subregion.md)
+
 <p><span class="chinese">为期两天的大湄公河次区域首脑会议将于星期天开幕。</span><span class="english">The two-day Greater Mekong Subregion summit begins Sunday.</span></p>
 
 <p><span class="chinese">本文提出了一个分区函数法的概念。</span><span class="english">In this paper, a new concept of subregion function method is suggested.</span></p>

@@ -1,5 +1,7 @@
 # 流逝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liushi_1.md)
+
 <p><span class="chinese">时间在流逝。</span><span class="english">Time pass by.</span></p>
 
 <p><span class="chinese">时间在流逝。</span><span class="english">Time is passing.</span></p>

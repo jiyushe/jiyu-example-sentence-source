@@ -1,5 +1,7 @@
 # 看家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanjia.md)
+
 <p><span class="chinese">她依旧给我们家看家。</span><span class="english">She is still guarding my family.</span></p>
 
 <p><span class="chinese">沉重的脚步声惊醒了看家豿。</span><span class="english">The sound of heavy footsteps awoke the watchdog.</span></p>

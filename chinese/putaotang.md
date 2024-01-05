@@ -1,5 +1,7 @@
 # 葡萄糖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putaotang.md)
+
 <p><span class="chinese">葡萄糖氯化钠注射液…</span><span class="english">Dextrose and Sodium Chloride Inj.</span></p>
 
 <p><span class="chinese">D-葡萄糖是最常见的单位。</span><span class="english">D-glucose is the most common unit.</span></p>

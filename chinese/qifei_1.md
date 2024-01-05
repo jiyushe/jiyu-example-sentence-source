@@ -1,5 +1,7 @@
 # 起飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qifei_1.md)
+
 <p><span class="chinese">让火球起飞吧！</span><span class="english">Let the fireballs fly!</span></p>
 
 <p><span class="chinese">起飞，降落。</span><span class="english">Takeoffs and landings.</span></p>

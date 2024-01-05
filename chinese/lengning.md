@@ -1,5 +1,7 @@
 # 冷凝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengning.md)
+
 <p><span class="chinese">产自英格兰，也叫黑布丁，是用加调料的猪血或牛血煮熟后冷凝而成的。</span><span class="english">Blood Sausage, England. Also called Black Pudding.</span></p>
 
 <p><span class="chinese">我的毕业论文是关于蒸汽设备中的冷凝液。</span><span class="english">My thesis was on condensation in steam-supply systems.</span></p>

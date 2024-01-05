@@ -1,5 +1,7 @@
 # unrelieved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrelieved.md)
+
 <p><span class="chinese">哎，怎么引枯燥的生活！</span><span class="english">Ah, how unrelieved boring life would be!</span></p>
 
 <p><span class="chinese">啊，老是这样人的生活将变患上何等寡味无聊！</span><span class="english">ah, how unrelieved boring life would be!</span></p>

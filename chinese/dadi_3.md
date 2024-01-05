@@ -1,5 +1,7 @@
 # 大抵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadi_3.md)
+
 <p><span class="chinese">本年五大最受欢迎的男孩名与客岁大抵雷同。</span><span class="english">The boys' top five looks almost the same as last year.</span></p>
 
 <p><span class="chinese">但所采集信息的语义大抵相似。</span><span class="english">But the rough semantics of what's gathered are similar.</span></p>

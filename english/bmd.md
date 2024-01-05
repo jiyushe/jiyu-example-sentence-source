@@ -1,5 +1,7 @@
 # bmd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bmd.md)
+
 <p><span class="chinese">骨峰值出现晚，数值高将延迟骨密度的降低速度。</span><span class="english">BMD aPpeared late and high will benefit for Wholelifetime.</span></p>
 
 <p><span class="chinese">男性吸烟、女性初潮年龄对骨密度有一定的影响。</span><span class="english">Smoking in male and age of menarche in female influenced BMD.</span></p>

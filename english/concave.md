@@ -1,5 +1,7 @@
 # concave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concave.md)
+
 <p><span class="chinese">他的前胸凹了进去。</span><span class="english">He had a concave chest.</span></p>
 
 <p><span class="chinese">我的就是凹进去的，并且很深我天生就这样。</span><span class="english">If for all in, then is concave up on.</span></p>

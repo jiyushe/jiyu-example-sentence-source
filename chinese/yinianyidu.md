@@ -1,5 +1,7 @@
 # 一年一度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinianyidu.md)
+
 <p><span class="chinese">又是一年一度的六一儿童节了。</span><span class="english">It's now Children's Day once again.</span></p>
 
 <p><span class="chinese">农历八月十八是一年一度的观潮日。</span><span class="english">The annual lunar August 18, tidal bore is.</span></p>

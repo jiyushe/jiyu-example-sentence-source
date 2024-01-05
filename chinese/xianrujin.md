@@ -1,5 +1,7 @@
 # 现如今
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianrujin.md)
+
 <p><span class="chinese">现如今还不如没有呢。</span><span class="english">Now there might as well not be.</span></p>
 
 <p><span class="chinese">现如今这还存在么？</span><span class="english">They get dividends--does it work now?</span></p>

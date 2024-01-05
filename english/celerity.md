@@ -1,5 +1,7 @@
 # celerity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celerity.md)
+
 <p><span class="chinese">敏捷性体现了思维的速度。</span><span class="english">Celerity reflects velocity of thought.</span></p>
 
 <p><span class="chinese">提高速度跟踪的快速性和精确性。</span><span class="english">It improves the celerity and accuracy of speed tracking.</span></p>

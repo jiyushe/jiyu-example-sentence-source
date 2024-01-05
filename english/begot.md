@@ -1,5 +1,7 @@
 # begot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/begot.md)
+
 <p><span class="chinese">他生了三个子女。</span><span class="english">He begot three children.</span></p>
 
 <p><span class="chinese">我的父母想要个孩子，他们有了我。</span><span class="english">My father and mother desired a child and they begot me.</span></p>

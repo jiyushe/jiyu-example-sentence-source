@@ -1,5 +1,7 @@
 # fucker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fucker.md)
+
 <p><span class="chinese">我要宰掉那个王八蛋。</span><span class="english">I'll kill the fucker.</span></p>
 
 <p><span class="chinese">你是一个聪明的家伙。</span><span class="english">You are a smart fucker.</span></p>

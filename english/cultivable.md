@@ -1,5 +1,7 @@
 # cultivable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cultivable.md)
+
 <p><span class="chinese">我们有大片的耕地。</span><span class="english">We have a vast expanse of cultivable land.</span></p>
 
 <p><span class="chinese">因此觉察是某种不可培养的东西。</span><span class="english">So awareness is something that is not cultivable.</span></p>

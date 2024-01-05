@@ -1,5 +1,7 @@
 # gcl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gcl.md)
+
 <p><span class="chinese">膨润土及其产品GCL正广泛应用于城市垃圾填埋场的防渗系统中。</span><span class="english">Bentonite and GCL are widely used in barrier systems of MSW landfill.</span></p>
 
 <p><span class="chinese">结果表明，当渗滤液水头较高时，GCL复合衬垫体现出其优势。</span><span class="english">When the leachate head is high, GCL composite liner takes on its advantage.</span></p>

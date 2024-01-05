@@ -1,5 +1,7 @@
 # barkhausen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barkhausen.md)
+
 <p><span class="chinese">基于巴克豪森效应，本文提出了一种钢板空气隙缺陷无损检测的方法。</span><span class="english">A nondestructive detection method for steel plate defects is presented based on Barkhausen effect.</span></p>
 
 <p><span class="chinese">本文提出采用巴豪森噪声法测量铁磁材料的硬度。</span><span class="english">It is proved that the hardness of ferro magnetic materials can be measured by the Barkhausen Noise Method.</span></p>

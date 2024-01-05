@@ -1,5 +1,7 @@
 # evidently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evidently.md)
+
 <p><span class="chinese">很显然，它源于希腊语。</span><span class="english">Evidently it comes from Greek.</span></p>
 
 <p><span class="chinese">他显然有不同的想法。中华考试网</span><span class="english">He evidently thinks otherwise.</span></p>

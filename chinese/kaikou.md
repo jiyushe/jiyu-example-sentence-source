@@ -1,5 +1,7 @@
 # 开口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaikou.md)
+
 <p><span class="chinese">蒂芙尼开口心戒指。</span><span class="english">Elsa Peretti Open Heart ring.</span></p>
 
 <p><span class="chinese">李冰开口道“接受！”</span><span class="english">Li Bing openings path"accept!"</span></p>

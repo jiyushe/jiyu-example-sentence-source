@@ -1,5 +1,7 @@
 # aerocraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerocraft.md)
+
 <p><span class="chinese">弹翼廓形的测量一直是飞行器生产厂家质量控制的重要难题。</span><span class="english">The measurement of wings' shape is an important difficulty in quality control of aerocraft factory.</span></p>
 
 <p><span class="chinese">本文介绍了IC卡加油机的结构、组成及其工作原理。</span><span class="english">This text introduces the structure, composition, and operation principle of the IC card tanker aerocraft.</span></p>

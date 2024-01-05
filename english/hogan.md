@@ -1,5 +1,7 @@
 # hogan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hogan.md)
+
 <p><span class="chinese">你好，请问是霍根夫人吗？</span><span class="english">Excuse me. Are you Mrs Hogan?</span></p>
 
 <p><span class="chinese">你住在土屋还是宾馆？</span><span class="english">Do you stay in a hogan or in a hotel?</span></p>

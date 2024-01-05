@@ -1,5 +1,7 @@
 # youngstown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/youngstown.md)
+
 <p><span class="chinese">美国俄亥俄州东北部一社区，扬斯敦的一个郊区。人口32，37。</span><span class="english">A community of northeast Ohio, a suburb of Youngstown. Population, 32,37.</span></p>
 
 <p><span class="chinese">俄亥俄州东北部一社区，扬斯敦的一个郊区。人口32，371。</span><span class="english">A community of northeast Ohio, a suburb of Youngstown. Population, 32,371.</span></p>

@@ -1,5 +1,7 @@
 # unscathed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unscathed.md)
+
 <p><span class="chinese">为什么爱在我这里变成一场灾难的劫数。</span><span class="english">Why do I love this into a disaster unscathed.</span></p>
 
 <p><span class="chinese">富人近乎毫发无伤地摆脱了衰退。</span><span class="english">The rich have escaped the recession almost unscathed.</span></p>

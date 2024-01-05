@@ -1,5 +1,7 @@
 # plenitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plenitude.md)
+
 <p><span class="chinese">这音乐带给他一种完满和自由的感觉。</span><span class="english">The music brought him a feeling of plenitude and freedom.</span></p>
 
 <p><span class="chinese">生活同时孕育充足与空虚，繁荣与萧条。</span><span class="english">Life breeds both plenitude and void, exuberance and depression.</span></p>

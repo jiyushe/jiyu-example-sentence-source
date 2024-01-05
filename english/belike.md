@@ -1,5 +1,7 @@
 # belike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belike.md)
+
 <p><span class="chinese">他长大后会变成什么样的人？</span><span class="english">What Will He BeLike As a Grown Man?</span></p>
 
 <p><span class="chinese">你想让我变的和其他人一样？</span><span class="english">You want me to belike everybody else?</span></p>

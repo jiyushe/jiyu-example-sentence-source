@@ -1,5 +1,7 @@
 # flower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flower.md)
+
 <p><span class="chinese">一朵谢了的花。</span><span class="english">A faded flower.</span></p>
 
 <p><span class="chinese">那是一朵花。</span><span class="english">That is a flower.</span></p>

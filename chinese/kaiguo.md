@@ -1,5 +1,7 @@
 # 开国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiguo.md)
+
 <p><span class="chinese">他就是以色列的开国元君。</span><span class="english">He is the first king of Israel.</span></p>
 
 <p><span class="chinese">美国的开国元勋们相信共同价值。</span><span class="english">Our founders believed in universal values.</span></p>

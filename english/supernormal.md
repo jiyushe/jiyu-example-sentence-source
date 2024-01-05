@@ -1,5 +1,7 @@
 # supernormal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supernormal.md)
+
 <p><span class="chinese">这是非凡的经验。</span><span class="english">It's a supernormal experience.</span></p>
 
 <p><span class="chinese">移就属于一种超常规搭配的修辞方法。</span><span class="english">Transferred epithet belongs to a rhetorical device of supernormal collocation.</span></p>

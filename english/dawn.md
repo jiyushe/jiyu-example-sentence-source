@@ -1,5 +1,7 @@
 # dawn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dawn.md)
+
 <p><span class="chinese">你天刚亮就起床吗？</span><span class="english">Get up at dawn?</span></p>
 
 <p><span class="chinese">我在黎明时醒了。</span><span class="english">I woke up at dawn.</span></p>

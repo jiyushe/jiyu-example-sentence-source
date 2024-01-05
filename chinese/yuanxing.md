@@ -1,5 +1,7 @@
 # 原型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanxing.md)
+
 <p><span class="chinese">它是原型问题。</span><span class="english">It's the prototypical problem.</span></p>
 
 <p><span class="chinese">当然，有一些原型是真实的。</span><span class="english">Of course, some patterns are real.</span></p>

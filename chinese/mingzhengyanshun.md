@@ -1,5 +1,7 @@
 # 名正言顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzhengyanshun.md)
+
 <p><span class="chinese">即使不能跟他名正言顺的牵着手逛街。</span><span class="english">Even with his hand to be right and proper.</span></p>
 
 <p><span class="chinese">保护本国工业是种名正言顺的歧视。</span><span class="english">Protection for domestic industry is admittedly discriminatory.</span></p>

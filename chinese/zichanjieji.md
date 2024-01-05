@@ -1,5 +1,7 @@
 # 资产阶级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zichanjieji.md)
+
 <p><span class="chinese">而是来自小资产阶级的思想意识。</span><span class="english">But from the petty-bourgeois ideology.</span></p>
 
 <p><span class="chinese">修正主义是一种资产阶级思想。</span><span class="english">Revisionism is one form of bourgeois ideology.</span></p>

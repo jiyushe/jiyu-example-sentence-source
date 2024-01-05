@@ -1,5 +1,7 @@
 # looming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/looming.md)
+
 <p><span class="chinese">不过一场争论还是悄然临近了。</span><span class="english">But a face-off may be looming.</span></p>
 
 <p><span class="chinese">另一项潜在威胁是监管机构可能实施新的监管措施。</span><span class="english">Another looming threat is re-regulation.</span></p>

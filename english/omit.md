@@ -1,5 +1,7 @@
 # omit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omit.md)
+
 <p><span class="chinese">为什么省略它们？</span><span class="english">Why omit them?</span></p>
 
 <p><span class="chinese">不要忘带相机。</span><span class="english">And don’t omit a camera.</span></p>

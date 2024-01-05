@@ -1,5 +1,7 @@
 # 文职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenzhi.md)
+
 <p><span class="chinese">文职人员三五成群在阳光下聊天。</span><span class="english">Civilians in little knots chatted in the sunshine.</span></p>
 
 <p><span class="chinese">人民解放军的干部包括军官和文职干部。</span><span class="english">Cadres of the PLA include officers and non- ranking cadres.</span></p>

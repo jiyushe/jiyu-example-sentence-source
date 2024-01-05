@@ -1,5 +1,7 @@
 # jittery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jittery.md)
+
 <p><span class="chinese">现在，尽管，投资者们战战兢兢。</span><span class="english">Now, though, investors are getting jittery.</span></p>
 
 <p><span class="chinese">股市是一个以混乱和疯狂波动而著称的系统。</span><span class="english">The stock market is a famously complex and jittery system.</span></p>

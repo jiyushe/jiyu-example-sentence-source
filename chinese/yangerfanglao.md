@@ -1,5 +1,7 @@
 # 养儿防老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangerfanglao.md)
+
 <p><span class="chinese">曾经，中国的小孩是他们父母的安全保障——养儿防老。</span><span class="english">Once, Chinese children were their parents' safety net, home-grown pension plans.</span></p>
 
 <p><span class="chinese">对他们来说，买一个孩子是一项投资——养儿防老。</span><span class="english">For them, buying a child is an investment to ensure they are taken care of in old age.</span></p>

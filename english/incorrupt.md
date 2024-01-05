@@ -1,5 +1,7 @@
 # incorrupt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incorrupt.md)
+
 <p><span class="chinese">廉政客体就是指廉政的对象。</span><span class="english">The object of incorrupt politics refers to the target of incorrupt politics.</span></p>
 
 <p><span class="chinese">对大学生进行廉洁教育是高校思想政治工作的重要组成部分。</span><span class="english">It is very important to carry out incorrupt education among college students.</span></p>

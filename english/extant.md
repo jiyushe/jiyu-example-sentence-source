@@ -1,5 +1,7 @@
 # extant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extant.md)
+
 <p><span class="chinese">好让你自己生动地现身说法。</span><span class="english">That you your self being extant well might show.</span></p>
 
 <p><span class="chinese">但是今日这些传播途径已不复见孔子的身影。</span><span class="english">Today these spreading routs are no longer extant.</span></p>

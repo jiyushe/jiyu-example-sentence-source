@@ -1,5 +1,7 @@
 # defectiveness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defectiveness.md)
+
 <p><span class="chinese">他们的语言所具有的缺陷。</span><span class="english">The defectiveness of their language.</span></p>
 
 <p><span class="chinese">莪用个个词组来修饰那些隐藏悳残缺。</span><span class="english">I use a word to come to polish defectiveness concealing.</span></p>

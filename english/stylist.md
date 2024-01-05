@@ -1,5 +1,7 @@
 # stylist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stylist.md)
+
 <p><span class="chinese">让理发师把你的头发完全吹干。</span><span class="english">Have the stylist dry your hair completely.</span></p>
 
 <p><span class="chinese">瑞秋·佐伊因其作为造型师的出色才能而出名。</span><span class="english">Zoe is famous for her facility as a stylist.</span></p>

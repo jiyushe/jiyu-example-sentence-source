@@ -1,5 +1,7 @@
 # 铃铛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingdang.md)
+
 <p><span class="chinese">为什么牛要带铃铛？</span><span class="english">Why do cows have bells?</span></p>
 
 <p><span class="chinese">银色的铃铛和扭曲的贝壳。</span><span class="english">Silver bells and cockle-shells.</span></p>

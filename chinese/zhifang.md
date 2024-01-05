@@ -1,5 +1,7 @@
 # 脂肪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhifang.md)
+
 <p><span class="chinese">一坨脂肪么？</span><span class="english">lumps of fat?</span></p>
 
 <p><span class="chinese">库库是非常脂肪。</span><span class="english">Koukou is very fat.</span></p>

@@ -1,5 +1,7 @@
 # 测度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ceduo.md)
+
 <p><span class="chinese">一个半相加测度的例子就是余额。</span><span class="english">An example of a semiadditive measure is a balance.</span></p>
 
 <p><span class="chinese">交易量是惟一需要的测度。</span><span class="english">The transaction amount is the only measure needed.</span></p>

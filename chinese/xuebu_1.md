@@ -1,5 +1,7 @@
 # 学部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuebu_1.md)
+
 <p><span class="chinese">你好。教学部。我是简。</span><span class="english">Hello. Education Department. This is ***speaking.</span></p>
 
 <p><span class="chinese">您好。这里是教学部。我是简。</span><span class="english">Hello. Education Department. This is Jane speaking.</span></p>

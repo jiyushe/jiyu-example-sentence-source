@@ -1,5 +1,7 @@
 # shelf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shelf.md)
+
 <p><span class="chinese">咖啡馆式的图书架。</span><span class="english">The Cafe Shelf.</span></p>
 
 <p><span class="chinese">他跳离架子。</span><span class="english">He bounces off the shelf.</span></p>

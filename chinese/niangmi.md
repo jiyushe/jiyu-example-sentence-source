@@ -1,5 +1,7 @@
 # 酿蜜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niangmi.md)
+
 <p><span class="chinese">蜜蜂酿蜜。</span><span class="english">Bees make honey.</span></p>
 
 <p><span class="chinese">蜂酿蜜。</span><span class="english">Bees honey produce.</span></p>

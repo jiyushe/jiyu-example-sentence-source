@@ -1,5 +1,7 @@
 # 万金油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanjinyou.md)
+
 <p><span class="chinese">一个被成为“万金油”的人是一个掌握了许多技能的人。</span><span class="english">A person who is a Jack of all trades has many skills.</span></p>
 
 <p><span class="chinese">在地球是万金油的性质和盐的圣贤。</span><span class="english">For in earth is the balm of Nature, and the salt of the Sages.</span></p>

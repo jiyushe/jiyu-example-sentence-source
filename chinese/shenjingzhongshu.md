@@ -1,5 +1,7 @@
 # 神经中枢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjingzhongshu.md)
+
 <p><span class="chinese">他们既没有神经细胞也没有神经中枢。</span><span class="english">They have neither nerve cells nor a nerve centre.</span></p>
 
 <p><span class="chinese">这药要过很长时间才对神经中枢发生作用吗？</span><span class="english">Does the drug take long to act on the nerve centers?</span></p>

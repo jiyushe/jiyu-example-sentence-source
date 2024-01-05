@@ -1,5 +1,7 @@
 # dove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dove.md)
+
 <p><span class="chinese">一只鸽子轻柔地咕咕叫。</span><span class="english">A dove cooed softly.</span></p>
 
 <p><span class="chinese">是你亲爱的鸽子？</span><span class="english">Is it lovey dove stuff?</span></p>

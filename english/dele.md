@@ -1,5 +1,7 @@
 # dele
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dele.md)
+
 <p><span class="chinese">戴勒是个大块头，所以这很不幸。</span><span class="english">Dele is a big unit, so it's unfortunate.</span></p>
 
 <p><span class="chinese">我不知道我的父母如何受得了我。</span><span class="english">I do not know how my parents Shou Dele me.</span></p>

@@ -1,5 +1,7 @@
 # 直抒己见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishujijian.md)
+
 <p><span class="chinese">若能直抒己见,那定当是狂怒野蛮之词。</span><span class="english">If I spoke my thoughts aloud they might be as angry and as wild.</span></p>
 
 <p><span class="chinese">她说的话总经理愿意倾听，于是她就直抒己见了。</span><span class="english">She gained the ear of the managing director and voiced her opinion.</span></p>

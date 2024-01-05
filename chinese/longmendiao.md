@@ -1,5 +1,7 @@
 # 龙门吊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longmendiao.md)
+
 <p><span class="chinese">用舱口龙门吊来吊放它们。</span><span class="english">To be positioned and handled by hatch cover gantry crane.</span></p>
 
 <p><span class="chinese">这是龙门吊作业全过程控制不可少的一环。</span><span class="english">This is an essential link in the global controlling process.</span></p>

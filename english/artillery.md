@@ -1,5 +1,7 @@
 # artillery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artillery.md)
+
 <p><span class="chinese">这是一门重炮。</span><span class="english">This is a heavy artillery piece.</span></p>
 
 <p><span class="chinese">炮火掩护着我们。</span><span class="english">The artillery gave us covering fire.</span></p>

@@ -1,5 +1,7 @@
 # amatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amatory.md)
+
 <p><span class="chinese">爱情，是免费的。</span><span class="english">So is amatory love.</span></p>
 
 <p><span class="chinese">那是我们爱情的结晶，生命的延续。</span><span class="english">That is our amatory crystal , the life lasting.</span></p>

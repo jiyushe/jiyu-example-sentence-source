@@ -1,5 +1,7 @@
 # 详尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjin_1.md)
+
 <p><span class="chinese">此列表并不十分详尽。</span><span class="english">This list is not exhaustive.</span></p>
 
 <p><span class="chinese">我力争做出详尽的说明。</span><span class="english">I am striving to explain explicitly.</span></p>

@@ -1,5 +1,7 @@
 # 左右手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoyoushou.md)
+
 <p><span class="chinese">他左右手都能写字。</span><span class="english">He could write with either hand.</span></p>
 
 <p><span class="chinese">她的手突然走到了一起，她左右手分别有条不紊的弹奏着，就是这么简单。</span><span class="english">Her hands suddenly came together?</span></p>

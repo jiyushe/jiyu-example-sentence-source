@@ -1,5 +1,7 @@
 # 支出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhichu_1.md)
+
 <p><span class="chinese">接下来，处理那些支出。</span><span class="english">Next, deal with the expenses.</span></p>
 
 <p><span class="chinese">资本性支出的详细情况。</span><span class="english">Detail of capital expenditures.</span></p>

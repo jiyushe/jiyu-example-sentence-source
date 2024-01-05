@@ -1,5 +1,7 @@
 # 竹枝词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhici.md)
+
 <p><span class="chinese">他在竹枝词等民歌体小诗方面的影响表现得更为集中、典型。</span><span class="english">He is especially influential in folk song such as Zhuzhi-Ci.</span></p>
 
 <p><span class="chinese">第五部分则是总结西湖竹枝词的特点及研究价值。</span><span class="english">The textual conclusion is stated in the last part, its characteristic and value is included.</span></p>

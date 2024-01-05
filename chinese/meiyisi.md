@@ -1,5 +1,7 @@
 # 没意思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiyisi.md)
+
 <p><span class="chinese">我觉得重复这个有点儿没意思。</span><span class="english">I feel stupid of just repeating it.</span></p>
 
 <p><span class="chinese">骑自行车或滑旱冰也变得没意思了。</span><span class="english">Riding my bike or skating alone was no fun.</span></p>

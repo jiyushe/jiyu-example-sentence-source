@@ -1,5 +1,7 @@
 # meningitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meningitis.md)
+
 <p><span class="chinese">婴儿，有沙雷菌脑膜炎病史。</span><span class="english">A neonate presents with a history of serratia meningitis.</span></p>
 
 <p><span class="chinese">硬膜穿刺后的细菌性脑膜炎。</span><span class="english">Review Articles Post-Dural Puncture Bacterial Meningitis.</span></p>

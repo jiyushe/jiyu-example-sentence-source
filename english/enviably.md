@@ -1,5 +1,7 @@
 # enviably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enviably.md)
+
 <p><span class="chinese">一些让人嫉妒的幸运儿在上海的这里或那里遇见了你。</span><span class="english">A few enviably lucky people met you here and there in Shanghai.</span></p>
 
 <p><span class="chinese">从10岁开始模特生涯起，阿曼达·塞弗里德就一直拥有一头令人羡慕嫉妒恨的金发。</span><span class="english">Since she started modeling at age 10, Amanda Seyfried has maintained an enviably long blond mane.</span></p>

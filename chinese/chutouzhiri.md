@@ -1,5 +1,7 @@
 # 出头之日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chutouzhiri.md)
+
 <p><span class="chinese">克里斯蒂厌烦了她的没有出头之日的工作。</span><span class="english">Christie is tired of working at her dead-end job.</span></p>
 
 <p><span class="chinese">这些壁画还有出头之日吗？</span><span class="english">Will these murals have their day to hold up their heads?</span></p>

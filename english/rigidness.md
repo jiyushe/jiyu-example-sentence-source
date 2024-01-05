@@ -1,5 +1,7 @@
 # rigidness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rigidness.md)
+
 <p><span class="chinese">但过于依赖传统会导致教会僵化，失去热忱。</span><span class="english">However, overdependence on tradition will result in rigidness and loss of enthusiasm.</span></p>
 
 <p><span class="chinese">上述螺旋式上升的教学模式，可以避免教学形成模式后的僵化现象。</span><span class="english">The above mentioned teaching model of spiral rising can be used to avoid rigidness in teaching.</span></p>

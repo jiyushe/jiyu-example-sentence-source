@@ -1,5 +1,7 @@
 # 冲杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongsha.md)
+
 <p><span class="chinese">在一块大陆上，上万的人排成方阵，彼此冲杀。</span><span class="english">On one land, tens of thousands men ranked and rushed and killed.</span></p>
 
 <p><span class="chinese">对于你的师团来说，有一名牧师与你的部队一同冲杀敌阵，着实是一种恩惠。</span><span class="english">A priest accompanying your regiment into the fray is indeed a boon.</span></p>

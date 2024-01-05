@@ -1,5 +1,7 @@
 # salver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salver.md)
+
 <p><span class="chinese">炤过X光的祈祷者捕获了一个灰色盘子。</span><span class="english">The X-rayed chant preyed a gray salver.</span></p>
 
 <p><span class="chinese">标志就象一把托盘天平，象征公平，公证，严明。</span><span class="english">Like a salver steelyard, stand of fair, notarization and bright.</span></p>

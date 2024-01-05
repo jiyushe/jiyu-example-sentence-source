@@ -1,5 +1,7 @@
 # 数目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shumu.md)
+
 <p><span class="chinese">它的数目是六百六十六。</span><span class="english">His number is 666.</span></p>
 
 <p><span class="chinese">有限数目的状态。</span><span class="english">Finite number of states.</span></p>

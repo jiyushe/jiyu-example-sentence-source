@@ -1,5 +1,7 @@
 # appearance 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appearance.md)
+
 <p><span class="chinese">有的，勾出了表象。</span><span class="english">Some draw appearance.</span></p>
 
 <p><span class="chinese">他外表瘦长。</span><span class="english">He has a reedy appearance.</span></p>

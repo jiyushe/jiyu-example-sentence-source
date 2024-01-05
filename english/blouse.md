@@ -1,5 +1,7 @@
 # blouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blouse.md)
+
 <p><span class="chinese">那是她的短衫。</span><span class="english">That's her blouse.</span></p>
 
 <p><span class="chinese">她穿着一件短衫。</span><span class="english">She is in a blouse.</span></p>

@@ -1,5 +1,7 @@
 # 言语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyu_2.md)
+
 <p><span class="chinese">我不善言语，而他却是位雄辩家。</span><span class="english">I'm no orator , as he is.</span></p>
 
 <p><span class="chinese">她言语尖刻，有一张刀子般的嘴。</span><span class="english">She had an acerbic tongue.</span></p>

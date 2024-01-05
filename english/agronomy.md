@@ -1,5 +1,7 @@
 # agronomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agronomy.md)
+
 <p><span class="chinese">现在他担任农艺系系主任。</span><span class="english">Now he heads the agronomy department.</span></p>
 
 <p><span class="chinese">农艺学是一门与农作物生产相关的科学。</span><span class="english">Agronomy is the science of crop production.</span></p>

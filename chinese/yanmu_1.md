@@ -1,5 +1,7 @@
 # 眼目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmu_1.md)
+
 <p><span class="chinese">以利沙祷告说，耶和华阿，求你开这少年人的眼目，使他能看见。</span><span class="english">And Elisha prayed, 'O Lord , open his eyes so he may see.'</span></p>
 
 <p><span class="chinese">主啊祢真是喜乐之源，我眼目中的瞳人。</span><span class="english">You alone are the real joy giver, And the apple of my eye.</span></p>

@@ -1,5 +1,7 @@
 # sifter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sifter.md)
+
 <p><span class="chinese">请把那个瓶子递给我。</span><span class="english">Please pass me that sifter.</span></p>
 
 <p><span class="chinese">我们需要个筛粉机。</span><span class="english">We're gonna need a flour sifter.</span></p>

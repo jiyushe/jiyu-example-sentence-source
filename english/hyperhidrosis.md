@@ -1,5 +1,7 @@
 # hyperhidrosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperhidrosis.md)
+
 <p><span class="chinese">在这种情况下，被称为帕默多汗症。</span><span class="english">In this case it is known as Palmer hyperhidrosis.</span></p>
 
 <p><span class="chinese">只有适合的腋下多汗症。</span><span class="english">It is only suitable for Hyperhidrosis of the axillae.</span></p>

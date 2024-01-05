@@ -1,5 +1,7 @@
 # corticosteroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corticosteroid.md)
+
 <p><span class="chinese">骨坏死是皮质激素治疗的一种并发症。</span><span class="english">Osteonecrosis is a known complication of corticosteroid therapy.</span></p>
 
 <p><span class="chinese">您可能需要使用皮质类固醇的话题治疗发炎的地区。</span><span class="english">You may need to use a topical corticosteroid to treat inflamed areas.</span></p>

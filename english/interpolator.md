@@ -1,5 +1,7 @@
 # interpolator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpolator.md)
+
 <p><span class="chinese">分析了应用于时钟恢复电路中的相位插值器。</span><span class="english">In this paper, a detailed analysis of a phase interpolator for clock recovery is presented.</span></p>
 
 <p><span class="chinese">并将该插补器集成在多轴联动数控系统中。</span><span class="english">The interpolator is integrated into a CNC system with multiple axis control simultaneously.</span></p>

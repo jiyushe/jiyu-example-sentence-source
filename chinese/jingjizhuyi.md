@@ -1,5 +1,7 @@
 # 经济主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjizhuyi.md)
+
 <p><span class="chinese">辩论主义、诉讼经济主义和诚实信用原则是自认规则的理论基础。</span><span class="english">Free argument, economic proceeding, and bona fide doctrine lay the theoretical basis for self-admission rule.</span></p>
 
 <p><span class="chinese">这两种创新观的局限性源于经济主义发展观与技术主义发展观。</span><span class="english">The limitation of the both two innovation views is originated from the development view of economism and technicism.</span></p>

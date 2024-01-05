@@ -1,5 +1,7 @@
 # 神态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shentai.md)
+
 <p><span class="chinese">她有着媚人的神态。</span><span class="english">She has charming manner.</span></p>
 
 <p><span class="chinese">雷母则是神态平和。</span><span class="english">Ray mother is gentle manner.</span></p>

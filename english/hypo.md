@@ -1,5 +1,7 @@
 # hypo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypo.md)
+
 <p><span class="chinese">人们可以把这个词拆分成为两个希腊词根，一个是hypo，另一个是chondria。</span><span class="english">The Greek roots of the word can be broken in two hypo and chondria.</span></p>
 
 <p><span class="chinese">所以，严密的监控会尽早发现高血糖或者低血糖的任何征兆。</span><span class="english">Frequent monitoring will provide early warning signs of hypo or hyperglycaemia.</span></p>

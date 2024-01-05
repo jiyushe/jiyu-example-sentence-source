@@ -1,5 +1,7 @@
 # gironde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gironde.md)
+
 <p><span class="chinese">梅铎克坐落于波尔多北部，纪隆德和左岸。</span><span class="english">The Médoc is situated north of the town of Bordeaux, on the left bank of the Gironde.</span></p>
 
 <p><span class="chinese">可以说，吉伦特派就是在不断的人民运动中走过了自己短暂的历程。</span><span class="english">It can be said that Gironde goes through the course of its short-lived in constant movement.</span></p>

@@ -1,5 +1,7 @@
 # 古板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guban.md)
+
 <p><span class="chinese">我父亲是个老古板。</span><span class="english">My father is a square.</span></p>
 
 <p><span class="chinese">天哪，我看起来象个老古板。请欣赏。</span><span class="english">God i look like a dork. Enjoy!</span></p>

@@ -1,5 +1,7 @@
 # 晓得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaode.md)
+
 <p><span class="chinese">我不晓得。</span><span class="english">I dunno.</span></p>
 
 <p><span class="chinese">只是要让你晓得。</span><span class="english">Just S0 you know.</span></p>

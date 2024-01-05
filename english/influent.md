@@ -1,5 +1,7 @@
 # influent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/influent.md)
+
 <p><span class="chinese">以此下去，交通肯定会更加的流畅。</span><span class="english">In this way, the traffic will be much more influent.</span></p>
 
 <p><span class="chinese">我们必须想想在这些因素中有哪些我们是可以影响到的。</span><span class="english">We have to consider which of these factors we can influent.</span></p>

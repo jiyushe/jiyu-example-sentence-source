@@ -1,5 +1,7 @@
 # gassing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gassing.md)
+
 <p><span class="chinese">我离开时，她仍在闲聊。</span><span class="english">She was still gassing when I left.</span></p>
 
 <p><span class="chinese">好了，我不能整天坐在这里闲聊。</span><span class="english">Well, I can't sit here gassing all day.</span></p>

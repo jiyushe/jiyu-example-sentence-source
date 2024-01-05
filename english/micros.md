@@ -1,5 +1,7 @@
 # micros
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micros.md)
+
 <p><span class="chinese">此文件可以进行修改，添加或删除百万分之一。</span><span class="english">This file can be modified to add or remove micros.</span></p>
 
 <p><span class="chinese">对MICROS电脑系统的各方面都要全面了解。</span><span class="english">Has a thorough knowledge to all sides of MICROS System.</span></p>

@@ -1,5 +1,7 @@
 # 闹笑话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoxiaohua.md)
+
 <p><span class="chinese">不要怕闹笑话。</span><span class="english">Do not afraid make joke.</span></p>
 
 <p><span class="chinese">你不要故意闹笑话了。</span><span class="english">Don't make a fool of yourself anymore.</span></p>

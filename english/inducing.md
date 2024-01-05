@@ -1,5 +1,7 @@
 # inducing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inducing.md)
+
 <p><span class="chinese">诱导底物的影响。</span><span class="english">Effect of inducing substrate.</span></p>
 
 <p><span class="chinese">下午在沉重的睡眠中昏昏沉沉地度过。</span><span class="english">The afternoon drifted by heavily, inducing sleep.</span></p>

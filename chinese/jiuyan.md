@@ -1,5 +1,7 @@
 # 酒宴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuyan.md)
+
 <p><span class="chinese">君王同意并安排酒宴。</span><span class="english">The king agreed and the banquets were arranged.</span></p>
 
 <p><span class="chinese">一场酒宴下来，菜是搭配而酒成为了主角。</span><span class="english">A dining down, food is tie-in and wine became protagonist.</span></p>

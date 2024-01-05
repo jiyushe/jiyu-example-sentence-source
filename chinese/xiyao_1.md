@@ -1,5 +1,7 @@
 # 西药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyao_1.md)
+
 <p><span class="chinese">中药比西药更天然、更好。</span><span class="english">It’s more natural and better than western medicines.</span></p>
 
 <p><span class="chinese">东方医学的工作是否也随着西药？</span><span class="english">Does Oriental medicine work well along with Western medicine?</span></p>

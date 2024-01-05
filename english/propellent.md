@@ -1,5 +1,7 @@
 # propellent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propellent.md)
+
 <p><span class="chinese">至于炮弹的装药则是与弹头分开装填的。</span><span class="english">The bagged propellent charges are loaded separately.</span></p>
 
 <p><span class="chinese">雄厚的技术支持将成为本公司的巨大发展动力。</span><span class="english">The solid technical support is the propellent of our huge development.</span></p>

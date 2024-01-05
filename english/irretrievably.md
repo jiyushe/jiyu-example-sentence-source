@@ -1,5 +1,7 @@
 # irretrievably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irretrievably.md)
+
 <p><span class="chinese">到那个时候，人类再想挽回则为时太晚。</span><span class="english">By then it will be irretrievably too late.</span></p>
 
 <p><span class="chinese">她已经无可挽救地跟他妥协，那是不能否认的了。</span><span class="english">There was no denying that she had compromised herself irretrievably.</span></p>

@@ -1,5 +1,7 @@
 # fulling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fulling.md)
+
 <p><span class="chinese">全身还是半身？</span><span class="english">Fulling or halfing?</span></p>
 
 <p><span class="chinese">让英语飞翔，让生活充满阳光！</span><span class="english">Let English flying and life fulling of glory.</span></p>

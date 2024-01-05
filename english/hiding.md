@@ -1,5 +1,7 @@
 # hiding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hiding.md)
+
 <p><span class="chinese">她一直躲藏在班的庇护下。</span><span class="english">She has been in hiding.</span></p>
 
 <p><span class="chinese">藏身在风雪雨幕之后。</span><span class="english">Hiding from the rain &snow.</span></p>

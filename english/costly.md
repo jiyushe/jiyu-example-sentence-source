@@ -1,5 +1,7 @@
 # costly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/costly.md)
+
 <p><span class="chinese">神开办了一个严紧的学校。</span><span class="english">God keeps a costly school.</span></p>
 
 <p><span class="chinese">一些革新付出了高昂代价。</span><span class="english">Some shake-ups were costly.</span></p>

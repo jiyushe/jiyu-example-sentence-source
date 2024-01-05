@@ -1,5 +1,7 @@
 # ruble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruble.md)
+
 <p><span class="chinese">卢布已大大贬值了。</span><span class="english">The ruble has devalued greatly.</span></p>
 
 <p><span class="chinese">周二时，卢布距这一水平只有几戈比之遥。</span><span class="english">By Tuesday, the ruble was kopecks away from that level.</span></p>

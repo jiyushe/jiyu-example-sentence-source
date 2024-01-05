@@ -1,5 +1,7 @@
 # 同龄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongling.md)
+
 <p><span class="chinese">谁是你的同龄群体？</span><span class="english">Who is your peer group?</span></p>
 
 <p><span class="chinese">你和你的同龄相比根本不在同一个层次</span><span class="english">You’re not on “the same level” as your peers.</span></p>

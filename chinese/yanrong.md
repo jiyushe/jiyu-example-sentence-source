@@ -1,5 +1,7 @@
 # 岩溶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanrong.md)
+
 <p><span class="chinese">石灰华是岩溶地貌的重要组成部分。</span><span class="english">Travertine is an important part in Karst.</span></p>
 
 <p><span class="chinese">风化，岩溶景观和群众运动。</span><span class="english">Weathering, Karst Landscapes, and Mass Movement.</span></p>

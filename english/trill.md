@@ -1,5 +1,7 @@
 # trill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trill.md)
+
 <p><span class="chinese">这是个发颤音的字母。</span><span class="english">This is a letter with a trill.</span></p>
 
 <p><span class="chinese">能见到她的确是令人兴奋的事。</span><span class="english">It was a real trill to meet her.</span></p>

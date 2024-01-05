@@ -1,5 +1,7 @@
 # 说情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuoqing.md)
+
 <p><span class="chinese">那位夫人说情让黑人们免于受罚。</span><span class="english">The lady said something to get the niggers off.</span></p>
 
 <p><span class="chinese">当他试着说情时很快被制止了。</span><span class="english">He was quickly snubbed when he tried to intercede.</span></p>

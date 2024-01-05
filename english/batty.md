@@ -1,5 +1,7 @@
 # batty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/batty.md)
+
 <p><span class="chinese">疯狂的贝蒂是一个女巫。</span><span class="english">Batty Betty is a witch.</span></p>
 
 <p><span class="chinese">仔细探讨IEM交易者的特质，可能会让统计学家抓狂。</span><span class="english">On close inspection, the characteristics of IEM traders would drive a statistician batty.</span></p>

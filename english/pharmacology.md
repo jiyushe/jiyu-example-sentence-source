@@ -1,5 +1,7 @@
 # pharmacology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharmacology.md)
+
 <p><span class="chinese">全国胸外科临床药理基地。</span><span class="english">National thoracic surgery clinical pharmacology base.</span></p>
 
 <p><span class="chinese">这位药理学教授的儿子在他这一代人中并不特别。</span><span class="english">The son of a pharmacology professor was not unique in his generation.</span></p>

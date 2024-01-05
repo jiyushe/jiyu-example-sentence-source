@@ -1,5 +1,7 @@
 # berried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berried.md)
+
 <p><span class="chinese">灌木已结浆果。</span><span class="english">The shrub has berried.</span></p>
 
 <p><span class="chinese">槲鸫是特例，它们更乐意独占一棵结满果实的树，而驱赶所有的靠近者。</span><span class="english">Mistle thrushes are an exception. They prefer to defend a berried tree against all-comers.</span></p>

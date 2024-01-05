@@ -1,5 +1,7 @@
 # 怨恨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanhen.md)
+
 <p><span class="chinese">治愈了怨恨。</span><span class="english">Grudges healed.</span></p>
 
 <p><span class="chinese">我对他没有任何怨恨情绪。</span><span class="english">I bear him no grudge.</span></p>

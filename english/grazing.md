@@ -1,5 +1,7 @@
 # grazing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grazing.md)
+
 <p><span class="chinese">如一朵小花放牧艳红！</span><span class="english">Grazing red such as a flower!</span></p>
 
 <p><span class="chinese">多棒的一次贴地射门啊！</span><span class="english">What an amazing grazing shot!</span></p>

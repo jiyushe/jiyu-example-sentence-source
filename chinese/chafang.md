@@ -1,5 +1,7 @@
 # 查房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chafang.md)
+
 <p><span class="chinese">她笑了，祈福保佑我，然后去继续查房了。</span><span class="english">She smiled, blessed me and carried on with her round.</span></p>
 
 <p><span class="chinese">医院里，值夜班的护士正在例行查房。</span><span class="english">In hospitals, night nurse are making their usual rounds.</span></p>

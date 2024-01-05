@@ -1,5 +1,7 @@
 # 引以为戒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyiweijie.md)
+
 <p><span class="chinese">1937年的这段历史为我们提供了一个可引以为戒的例子。</span><span class="english">The 1937 episode provides a cautionary tale.</span></p>
 
 <p><span class="chinese">我只希望我的愚行能使雷金纳德引以为戒。</span><span class="english">I only hope reginald will take example by my folly.</span></p>

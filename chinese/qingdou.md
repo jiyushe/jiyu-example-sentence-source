@@ -1,5 +1,7 @@
 # 青豆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdou.md)
+
 <p><span class="chinese">鸡粒青豆汤或奶油蘑菇汤。</span><span class="english">Consomme a la Reint or cream of mushrooms.</span></p>
 
 <p><span class="chinese">今天的特色汤是青豆蘑菇汤。</span><span class="english">The soup of the day is green bean or mushroom.</span></p>

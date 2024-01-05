@@ -1,5 +1,7 @@
 # 滥觞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanshang.md)
+
 <p><span class="chinese">本次全球金融风暴，滥觞于美国华尔街。</span><span class="english">THE crisis began on Wall Street.</span></p>
 
 <p><span class="chinese">我们一到那儿电影就滥觞了。</span><span class="english">The movie commenced when we got there.</span></p>

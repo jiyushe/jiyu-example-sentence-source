@@ -1,5 +1,7 @@
 # 减半
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianban.md)
+
 <p><span class="chinese">这个数字在生命后期会减半。</span><span class="english">This number can halve later in life.</span></p>
 
 <p><span class="chinese">希腊可能要减半其债务负担。</span><span class="english">Greece may have to halve its debt burden.</span></p>

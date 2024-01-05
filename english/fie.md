@@ -1,5 +1,7 @@
 # fie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fie.md)
+
 <p><span class="chinese">爱米利娅跟我一样清白！呸！不要脸！</span><span class="english">Emilia. As I! foh! fie upon thee!</span></p>
 
 <p><span class="chinese">那店员用领带换皮带。</span><span class="english">The clerk exchanged the fie for a belt.</span></p>

@@ -1,5 +1,7 @@
 # 入药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruyao.md)
+
 <p><span class="chinese">以它入药，可治疗多种疾病。</span><span class="english">In its medicine, can cure many diseases.</span></p>
 
 <p><span class="chinese">茱萸入药，可制酒养身祛病。</span><span class="english">Cornel medicine, liquor health illnesses.</span></p>

@@ -1,5 +1,7 @@
 # shrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrine.md)
+
 <p><span class="chinese">这就是那座神龛的结局，他自身都难保，如何守护人？</span><span class="english">So that was the end of the shrine.</span></p>
 
 <p><span class="chinese">纳加尔霍雷，店铺，还是圣地？</span><span class="english">Nagarahole, The Shop or The Shrine?</span></p>

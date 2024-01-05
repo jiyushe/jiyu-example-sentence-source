@@ -1,5 +1,7 @@
 # british
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/british.md)
+
 <p><span class="chinese">这本书是英国的。</span><span class="english">The book is British.</span></p>
 
 <p><span class="chinese">但我们是英国牌子，</span><span class="english">But we're all British.</span></p>

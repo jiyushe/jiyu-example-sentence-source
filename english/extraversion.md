@@ -1,5 +1,7 @@
 # extraversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extraversion.md)
+
 <p><span class="chinese">中国外向性量表信度、效度指标可靠。</span><span class="english">CEQ was reliable and valid for measuring the Chinese extraversion characters.</span></p>
 
 <p><span class="chinese">对于社交能力和外向性，被试与他们的朋友们大体上保持一致的看法。</span><span class="english">For agreeableness and extraversion people were generally in agreement with their friends.</span></p>

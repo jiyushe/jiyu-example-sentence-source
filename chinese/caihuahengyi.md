@@ -1,5 +1,7 @@
 # 才华横溢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caihuahengyi.md)
+
 <p><span class="chinese">富有创造力、才华横溢、聪明绝顶。</span><span class="english">Creative, talented, brilliant.</span></p>
 
 <p><span class="chinese">她是才华横溢的钢琴家。</span><span class="english">She is a prodigiously talented pianist.</span></p>

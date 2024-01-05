@@ -1,5 +1,7 @@
 # yucca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yucca.md)
+
 <p><span class="chinese">丝兰香味和均匀。</span><span class="english">Yucca flavor and uniform.</span></p>
 
 <p><span class="chinese">阿瓜鲁纳主要生产大蕉、玉米和丝兰。</span><span class="english">The Aguaruna mainly grow plantain, maize, and yucca.</span></p>

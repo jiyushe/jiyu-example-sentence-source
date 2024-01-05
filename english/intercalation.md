@@ -1,5 +1,7 @@
 # intercalation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercalation.md)
+
 <p><span class="chinese">博来霉素通过插入DNA和RNA起作用。</span><span class="english">Bleomycins act by intercalation of DNA and RNA.</span></p>
 
 <p><span class="chinese">软弱夹层是控制岩体稳定性的主要弱面。</span><span class="english">Weak intercalation is the main weak surface which controls the rock stability.</span></p>

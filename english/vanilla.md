@@ -1,5 +1,7 @@
 # vanilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vanilla.md)
+
 <p><span class="chinese">加入香草香精和食盐。</span><span class="english">Add the vanilla and salt.</span></p>
 
 <p><span class="chinese">加香草香精，拌匀。</span><span class="english">Add vanilla essential, mix.</span></p>

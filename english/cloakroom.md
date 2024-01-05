@@ -1,5 +1,7 @@
 # cloakroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloakroom.md)
+
 <p><span class="chinese">存衣室什么时候关?</span><span class="english">When does the cloakroom close?</span></p>
 
 <p><span class="chinese">打搅了,请问衣物存放处在哪?</span><span class="english">Excuse me,where's the cloakroom?</span></p>

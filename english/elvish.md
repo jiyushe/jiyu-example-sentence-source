@@ -1,5 +1,7 @@
 # elvish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elvish.md)
+
 <p><span class="chinese">接着那小精灵似的孩子笑出了声。</span><span class="english">The elvish child then laughed aloud.</span></p>
 
 <p><span class="chinese">所有能够阻挡妖精吟游诗人的生物皆须阻挡之。</span><span class="english">All creatures able to block Elvish Bard do so.</span></p>

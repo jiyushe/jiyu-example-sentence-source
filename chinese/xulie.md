@@ -1,5 +1,7 @@
 # 序列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xulie.md)
+
 <p><span class="chinese">这个序列也是有序的。</span><span class="english">This list is sorted.</span></p>
 
 <p><span class="chinese">执行一个直线序列的程序。</span><span class="english">Simply walk down that list.</span></p>

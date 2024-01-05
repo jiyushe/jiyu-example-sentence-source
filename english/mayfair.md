@@ -1,5 +1,7 @@
 # mayfair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mayfair.md)
+
 <p><span class="chinese">梅菲尔是伦敦最高级的地区。</span><span class="english">Mayfair is the poshest district of London.</span></p>
 
 <p><span class="chinese">我们知道你们对梅瑞克·梅菲尔做了什么。</span><span class="english">We know what you have done to Merrick Mayfair.</span></p>

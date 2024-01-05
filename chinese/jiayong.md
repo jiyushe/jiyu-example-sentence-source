@@ -1,5 +1,7 @@
 # 家用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiayong.md)
+
 <p><span class="chinese">一具家用小燃气炉。</span><span class="english">A little calor gas stove.</span></p>
 
 <p><span class="chinese">家用镭射投影机-Link</span><span class="english">Home Built Laser Projector -Link</span></p>

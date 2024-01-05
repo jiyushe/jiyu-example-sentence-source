@@ -1,5 +1,7 @@
 # 私欲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siyu_1.md)
+
 <p><span class="chinese">他被贪婪的私欲所左右。</span><span class="english">He was dominated by greedy egotism.</span></p>
 
 <p><span class="chinese">发自私欲的祷告不会是合乎圣经的祷告。</span><span class="english">No man can pray scripturally who prays selfishly.</span></p>

@@ -1,5 +1,7 @@
 # 诗句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiju_3.md)
+
 <p><span class="chinese">如绳缕般的诗句。</span><span class="english">Strands of poetry.</span></p>
 
 <p><span class="chinese">别用悲切的诗句对我唱。</span><span class="english">Tell me not in mournful numbers.</span></p>

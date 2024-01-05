@@ -1,5 +1,7 @@
 # 唾沫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuomo.md)
+
 <p><span class="chinese">赫敏咽了口唾沫。</span><span class="english">Hermione swallowed.</span></p>
 
 <p><span class="chinese">托德向休啐了一口唾沫。</span><span class="english">Todd spat in Hugh's face.</span></p>

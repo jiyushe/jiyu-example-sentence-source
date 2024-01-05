@@ -1,5 +1,7 @@
 # awash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awash.md)
+
 <p><span class="chinese">世界还是在松动资金的浪头之中。</span><span class="english">The world is still awash in cheap money.</span></p>
 
 <p><span class="chinese">而且轻武器到处都是。</span><span class="english">The country is also awash with small arms.</span></p>

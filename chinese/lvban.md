@@ -1,5 +1,7 @@
 # 旅伴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvban.md)
+
 <p><span class="chinese">我拥有这么多同船出国的旅伴。</span><span class="english">I had such company outward bound.</span></p>
 
 <p><span class="chinese">夜晚我是否会遇到其他旅伴？</span><span class="english">Shall I meet other wayfarers at night?</span></p>

@@ -1,5 +1,7 @@
 # 披头散发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pitousanfa.md)
+
 <p><span class="chinese">她披头散发。</span><span class="english">She wore her hair loose.</span></p>
 
 <p><span class="chinese">不要让披头散发的少女。</span><span class="english">No maiden, with dishevelled hair.</span></p>

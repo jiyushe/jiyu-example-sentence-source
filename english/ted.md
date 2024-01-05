@@ -1,5 +1,7 @@
 # ted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ted.md)
+
 <p><span class="chinese">我朋友特德喜欢。</span><span class="english">My friend Ted does.</span></p>
 
 <p><span class="chinese">特德听了很高兴。</span><span class="english">"Ted was very glad.</span></p>

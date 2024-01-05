@@ -1,5 +1,7 @@
 # dermis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dermis.md)
+
 <p><span class="chinese">这里指的是，真皮。</span><span class="english">In this case, dermis.</span></p>
 
 <p><span class="chinese">在这些部位，表皮胚芽向下生出息入真皮。</span><span class="english">Epidermal buds grow down into the dermis at these sites.</span></p>

@@ -1,5 +1,7 @@
 # countersunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countersunk.md)
+
 <p><span class="chinese">圆头一字槽螺钉的俯视图。</span><span class="english">Top view of countersunk slotted screw.</span></p>
 
 <p><span class="chinese">沉头内六角攻丝螺钉。</span><span class="english">Hexalobular socket countersunk head tapping screws.</span></p>

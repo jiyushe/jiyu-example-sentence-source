@@ -1,5 +1,7 @@
 # 总之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongzhi_1.md)
+
 <p><span class="chinese">总之不要折磨我！</span><span class="english">Don't torture me!</span></p>
 
 <p><span class="chinese">总之，这就是日本。</span><span class="english">So, this is Japan.</span></p>

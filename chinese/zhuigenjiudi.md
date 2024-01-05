@@ -1,5 +1,7 @@
 # 追根究底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuigenjiudi.md)
+
 <p><span class="chinese">求学问一定要有追根究底的精神。</span><span class="english">One must be thorough in acquiring knowledge.</span></p>
 
 <p><span class="chinese">追根究底，就是对现在的一种终结吧。</span><span class="english">Argumentative , that is, right now the end of a bar.</span></p>

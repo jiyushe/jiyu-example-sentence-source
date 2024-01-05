@@ -1,5 +1,7 @@
 # 凭空捏造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingkongniezao.md)
+
 <p><span class="chinese">这完全是凭空捏造。</span><span class="english">This is a sheer fabrication.</span></p>
 
 <p><span class="chinese">关于伊莎贝尔的写作，她完全是凭空捏造的。</span><span class="english">Her impression with regard to Isabel's writing was quite illusory.</span></p>

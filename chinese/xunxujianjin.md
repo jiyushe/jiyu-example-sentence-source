@@ -1,5 +1,7 @@
 # 循序渐进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunxujianjin.md)
+
 <p><span class="chinese">我在做什么在循序渐进的家庭？</span><span class="english">What Am I Doing in a Step-Family?</span></p>
 
 <p><span class="chinese">记住，这是一个循序渐进的过程。</span><span class="english">Remember this is a step by step process.</span></p>

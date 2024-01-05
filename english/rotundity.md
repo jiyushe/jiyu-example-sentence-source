@@ -1,5 +1,7 @@
 # rotundity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotundity.md)
+
 <p><span class="chinese">垂体细胞有梭形和圆形两种。</span><span class="english">Pituitary cells include two types-rhomboid and rotundity.</span></p>
 
 <p><span class="chinese">线粒体逐渐增多，叶绿体的形状由规则的纺锤形逐渐变为不规则的圆形或椭圆形。</span><span class="english">The shape of chloroplasts changed from regular spindle-shaped to irregular rotundity and oval.</span></p>

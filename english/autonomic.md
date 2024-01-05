@@ -1,5 +1,7 @@
 # autonomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autonomic.md)
+
 <p><span class="chinese">可服务性，包括自主数据收集。</span><span class="english">Serviceability, including autonomic data collection</span></p>
 
 <p><span class="chinese">它们逐一改变你的自主神经系统平衡。</span><span class="english">They change the balance in your autonomic nervous system.</span></p>

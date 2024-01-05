@@ -1,5 +1,7 @@
 # bronzer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronzer.md)
+
 <p><span class="chinese">你同样可以把它用作侧影刷。</span><span class="english">You can also use this brush for bronzer.</span></p>
 
 <p><span class="chinese">这是一款浅色的阴影粉，适合苍白至浅肤色。</span><span class="english">This is the light bronzer , for pale to light skin.</span></p>

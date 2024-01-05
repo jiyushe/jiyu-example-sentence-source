@@ -1,5 +1,7 @@
 # unconformable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconformable.md)
+
 <p><span class="chinese">你发现上西式厕所不舒服。</span><span class="english">You found out it's unconformable of using western toilet.</span></p>
 
 <p><span class="chinese">而不整合面为低滑面。</span><span class="english">And the unconformable contaet face is lower sliding surface.</span></p>

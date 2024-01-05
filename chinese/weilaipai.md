@@ -1,5 +1,7 @@
 # 未来派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilaipai.md)
+
 <p><span class="chinese">我们逼着他吐露很多关于他的下一个未来派游戏。</span><span class="english">So we cornered him to get more on his next futuristic wargame.</span></p>
 
 <p><span class="chinese">当然，未来派的火焰效果或其他的看上去有一种邪恶的美感。</span><span class="english">So sure, that futuristic flame effect or whatever looks wicked cool.</span></p>

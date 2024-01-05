@@ -1,5 +1,7 @@
 # rapacious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapacious.md)
+
 <p><span class="chinese">一头猪已经成了狼心狗肺！</span><span class="english">A pig has already become rapacious and savage!</span></p>
 
 <p><span class="chinese">大肆囤地使一些开发商赢得了“地王”的称号。</span><span class="english">Rapacious hoarding earned some the title of land kings.</span></p>

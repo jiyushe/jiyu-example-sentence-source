@@ -1,5 +1,7 @@
 # rubbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rubbing.md)
+
 <p><span class="chinese">车轮蹭著了挡泥板。</span><span class="english">The wheel's rubbing on the mudguard.</span></p>
 
 <p><span class="chinese">在水下搓揉双手时数数，一直数到20，还要用上肥皂——仅靠冲洗无法做到真正除菌。</span><span class="english">Count to 20 while rubbing hands under</span></p>

@@ -1,5 +1,7 @@
 # disturbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disturbing.md)
+
 <p><span class="chinese">真的令人非常不安。</span><span class="english">It’s very disturbing.</span></p>
 
 <p><span class="chinese">录像的内容非常令人不安。</span><span class="english">The video is disturbing.</span></p>

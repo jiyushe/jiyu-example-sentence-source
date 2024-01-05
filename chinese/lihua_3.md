@@ -1,5 +1,7 @@
 # 理化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lihua_3.md)
+
 <p><span class="chinese">阐述了围封对草地土壤理化性质的作用机制。</span><span class="english">The effects of exclosure on soil properties were analyzed.</span></p>
 
 <p><span class="chinese">土壤理化性质土壤类型属于暗栗钙土。</span><span class="english">Soil characteristics The soil belongs to dark chestnut soil.</span></p>

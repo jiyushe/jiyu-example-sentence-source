@@ -1,5 +1,7 @@
 # 尼姑庵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niguan.md)
+
 <p><span class="chinese">去尼姑庵，出发！</span><span class="english">To a nunnery, go!</span></p>
 
 <p><span class="chinese">她离家去了尼姑庵。</span><span class="english">She left home and went to a nunnery.</span></p>

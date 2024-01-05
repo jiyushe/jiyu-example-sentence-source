@@ -1,5 +1,7 @@
 # temptress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temptress.md)
+
 <p><span class="chinese">她站在那个男人面前，像个妖妇。</span><span class="english">She stood before the man as a temptress.</span></p>
 
 <p><span class="chinese">诱惑男人的女性保持了在地板上的她眼睛。</span><span class="english">The Temptress kept her eyes on the floor.</span></p>

@@ -1,5 +1,7 @@
 # 中装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhuang.md)
+
 <p><span class="chinese">他的包中装了满满一包的卫生纸。</span><span class="english">His bag was heaped with tissues.</span></p>
 
 <p><span class="chinese">你不会在你的车子中装气囊。</span><span class="english">You don't install airbags in your cars.</span></p>

@@ -1,5 +1,7 @@
 # popular 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/popular.md)
+
 <p><span class="chinese">ush相当受欢迎，</span><span class="english">Rush's quite popular</span></p>
 
 <p><span class="chinese">瑜伽在洛杉矶流行吗？</span><span class="english">Is yoga popular in LA?</span></p>

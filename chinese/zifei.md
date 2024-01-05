@@ -1,5 +1,7 @@
 # 资费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zifei.md)
+
 <p><span class="chinese">这项服务的资费是25乌克兰赫夫米。</span><span class="english">The rate of the service totals UAH 25.</span></p>
 
 <p><span class="chinese">下面我们就来看看中国电信宽带资费情况。</span><span class="english">Below we have a look at China Telecom broadband charges.</span></p>

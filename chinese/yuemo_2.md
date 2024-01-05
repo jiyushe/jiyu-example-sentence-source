@@ -1,5 +1,7 @@
 # 约莫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuemo_2.md)
+
 <p><span class="chinese">约莫搬场一周往后。</span><span class="english">It was around a week after moving day.</span></p>
 
 <p><span class="chinese">她约莫20岁，只有一边手臂。</span><span class="english">She was around 20 and only had one arm.</span></p>

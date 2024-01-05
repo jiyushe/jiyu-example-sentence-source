@@ -1,5 +1,7 @@
 # occurrence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occurrence.md)
+
 <p><span class="chinese">脚出现脱皮咋个办?。</span><span class="english">Crural occurrence desquamate how do?</span></p>
 
 <p><span class="chinese">她被一件发生的事弄得心烦意乱。</span><span class="english">She was distracted at some occurrence.</span></p>

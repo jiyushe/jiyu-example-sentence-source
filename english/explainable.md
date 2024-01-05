@@ -1,5 +1,7 @@
 # explainable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explainable.md)
+
 <p><span class="chinese">这些都可以解释为一种精神的返祖现象。</span><span class="english">They are explainable as a species of mental atavism.</span></p>
 
 <p><span class="chinese">事实上，最近发生的一件事表明，原因其实很简单。</span><span class="english">Well, the reason in a recent case is actually quite explainable.</span></p>

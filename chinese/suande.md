@@ -1,5 +1,7 @@
 # 算得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suande.md)
+
 <p><span class="chinese">又算得了什么的过失！</span><span class="english">And what faults!</span></p>
 
 <p><span class="chinese">我算得对吗</span><span class="english">Did I divide right?</span></p>

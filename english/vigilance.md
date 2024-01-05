@@ -1,5 +1,7 @@
 # vigilance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vigilance.md)
+
 <p><span class="chinese">应该警惕什么？</span><span class="english">Vigilance against what?</span></p>
 
 <p><span class="chinese">不要麻痹大意。</span><span class="english">Don't slacken your vigilance.</span></p>

@@ -1,5 +1,7 @@
 # certitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/certitude.md)
+
 <p><span class="chinese">怀疑与确信都是对于证据的主观反映。</span><span class="english">Doubt and certitude are subjective reactions to the evidence.</span></p>
 
 <p><span class="chinese">这就是为什么他能够带着怀疑主义的态度作画，却又具有如此的确信。</span><span class="english">This is why he could paint so sceptically with such certitude.</span></p>

@@ -1,5 +1,7 @@
 # 潜在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzai_1.md)
+
 <p><span class="chinese">这是一个潜在的弱点。</span><span class="english">That is a potential weakness.</span></p>
 
 <p><span class="chinese">ESP的潜在应用领域包括</span><span class="english">Potential uses for ESP include</span></p>

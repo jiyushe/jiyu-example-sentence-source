@@ -1,5 +1,7 @@
 # 孔径
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongjing.md)
+
 <p><span class="chinese">光圈孔径数字标识小时。</span><span class="english">Hours marked by aperture values!</span></p>
 
 <p><span class="chinese">文中对合成孔径雷达的反对抗措施也进行了讨论。</span><span class="english">The ECCM of SAR is partially discussed as well.</span></p>

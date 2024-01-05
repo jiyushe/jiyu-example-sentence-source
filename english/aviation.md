@@ -1,5 +1,7 @@
 # aviation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aviation.md)
+
 <p><span class="chinese">喷气式飞机是航空事业上的一个新成就。</span><span class="english">Jets are a new development in aviation.</span></p>
 
 <p><span class="chinese">佛施特的兴趣焦点放在航海。</span><span class="english">Fossett focused on sailing and aviation.</span></p>

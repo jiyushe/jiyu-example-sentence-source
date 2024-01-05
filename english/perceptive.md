@@ -1,5 +1,7 @@
 # perceptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perceptive.md)
+
 <p><span class="chinese">你的感觉真敏锐！</span><span class="english">How perceptive of you!</span></p>
 
 <p><span class="chinese">恭喜你，你很敏感。</span><span class="english">You are very perceptive.</span></p>

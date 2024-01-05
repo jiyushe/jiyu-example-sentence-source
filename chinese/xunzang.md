@@ -1,5 +1,7 @@
 # 殉葬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunzang.md)
+
 <p><span class="chinese">殉葬的人越多，越显示出他的社会地位。</span><span class="english">More people buried alive meant higher social status of the dead.</span></p>
 
 <p><span class="chinese">殉葬是印度一种葬礼习俗。</span><span class="english">Sacrificial burial has been a custom in India, not often practised today.</span></p>

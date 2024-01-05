@@ -1,5 +1,7 @@
 # translatology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/translatology.md)
+
 <p><span class="chinese">因此，我非常同情那些对于翻译学的书籍感到用处不大，或者毫无用处的人们。</span><span class="english">Accordingly, I am sympathetic with those who find little or no help in books on translatology.</span></p>
 
 <p><span class="chinese">译学词典的编纂原则应当符合翻译学和词典学的双重要求。</span><span class="english">Translatological dictionaries should be compiled in line with the double requirements of translatology and lexicography.</span></p>

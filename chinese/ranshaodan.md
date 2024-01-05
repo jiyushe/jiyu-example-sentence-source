@@ -1,5 +1,7 @@
 # 燃烧弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ranshaodan.md)
+
 <p><span class="chinese">在一次燃烧弹袭击中有五家店铺被烧毁。</span><span class="english">Five shops were damaged in a firebomb blitz.</span></p>
 
 <p><span class="chinese">燃烧弹和手榴弹效果也很好，但要注意。</span><span class="english">Napalm or grenades can also be effective, but be careful!</span></p>

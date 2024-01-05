@@ -1,5 +1,7 @@
 # patagonia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patagonia.md)
+
 <p><span class="chinese">巴塔哥尼亚的冰川。</span><span class="english">Glaciers of Patagonia.</span></p>
 
 <p><span class="chinese">孤独的灯塔在巴塔哥尼亚沿岸站岗。</span><span class="english">Alone lighthouse stands guard on the Patagonia coast.</span></p>

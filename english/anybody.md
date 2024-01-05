@@ -1,5 +1,7 @@
 # anybody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anybody.md)
+
 <p><span class="chinese">有谁知道是谁写的么？</span><span class="english">Does anybody know?</span></p>
 
 <p><span class="chinese">任何人都可以参褂。</span><span class="english">Anybody can join us.</span></p>

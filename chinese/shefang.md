@@ -1,5 +1,7 @@
 # 设防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shefang.md)
+
 <p><span class="chinese">这种情况下,我们又该如何设防呢</span><span class="english">And given that, what should we defend?</span></p>
 
 <p><span class="chinese">在他面前，自己是从不设防的。</span><span class="english">In front of him, own are from undefended.</span></p>

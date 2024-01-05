@@ -1,5 +1,7 @@
 # 摔交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaijiao.md)
+
 <p><span class="chinese">你会摔交吗?。</span><span class="english">Can you wrestle ?</span></p>
 
 <p><span class="chinese">骄傲就会摔交。</span><span class="english">Pride goes before a fall.</span></p>

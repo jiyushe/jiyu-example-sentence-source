@@ -1,5 +1,7 @@
 # 烹饪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengren.md)
+
 <p><span class="chinese">让家庭成员参预烹饪。</span><span class="english">Get the family cooking.</span></p>
 
 <p><span class="chinese">简的烹饪技巧堪称一绝。</span><span class="english">Jane is a fabulous cook.</span></p>

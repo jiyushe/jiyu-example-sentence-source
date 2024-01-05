@@ -1,5 +1,7 @@
 # vibrational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vibrational.md)
+
 <p><span class="chinese">任意的振动模式。</span><span class="english">Of any vibrational mode.</span></p>
 
 <p><span class="chinese">有多少振动模式。</span><span class="english">How many vibrational modes.</span></p>

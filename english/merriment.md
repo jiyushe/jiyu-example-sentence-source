@@ -1,5 +1,7 @@
 # merriment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merriment.md)
+
 <p><span class="chinese">在女生联谊会中，她的恶作剧总是欢乐的根源。</span><span class="english">Her escapades were a subject of merriment in the sorority house.</span></p>
 
 <p><span class="chinese">有时候，一点儿天真的嬉戏会使阴郁单调的生活增添一点生气。</span><span class="english">The cheerless monotony was sometimes enlivened with a little innocent merriment.</span></p>

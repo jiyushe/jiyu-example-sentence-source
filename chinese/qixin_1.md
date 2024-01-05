@@ -1,5 +1,7 @@
 # 齐心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixin_1.md)
+
 <p><span class="chinese">人们齐心与法西斯主义作斗争。</span><span class="english">The people struggled together against fascism.</span></p>
 
 <p><span class="chinese">或者看看齐心村的孩子们。</span><span class="english">Or you can look at the children in Qixin village.</span></p>

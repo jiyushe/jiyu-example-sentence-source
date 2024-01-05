@@ -1,5 +1,7 @@
 # 黑市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heishi.md)
+
 <p><span class="chinese">黑市指的是商品或货币的非法贸易。</span><span class="english">Black market is illegal trade in goods or money.</span></p>
 
 <p><span class="chinese">你可以在黑市上讨价还价。</span><span class="english">You can huckster over prices on the black market.</span></p>

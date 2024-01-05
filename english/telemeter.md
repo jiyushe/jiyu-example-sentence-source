@@ -1,5 +1,7 @@
 # telemeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telemeter.md)
+
 <p><span class="chinese">数据传输是遥测地震台网的运行基础之一。</span><span class="english">Data transmission is the base of Telemeter Seismographic Network.</span></p>
 
 <p><span class="chinese">对月球探测器进行实时测控，获得探测器的各项参数是必不可少的工作。</span><span class="english">In order to track and telemeter the lunar probe, the correlative parameters must be obtained.</span></p>

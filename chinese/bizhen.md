@@ -1,5 +1,7 @@
 # 逼真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizhen.md)
+
 <p><span class="chinese">那幅画逼真。</span><span class="english">That painting approximates reality.</span></p>
 
 <p><span class="chinese">很逼真的。那蛇纹很像真的。、。</span><span class="english">It's so lifelike. That's real snake.</span></p>

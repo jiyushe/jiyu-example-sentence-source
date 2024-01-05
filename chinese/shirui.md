@@ -1,5 +1,7 @@
 # 石蕊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shirui.md)
+
 <p><span class="chinese">现在，我不会提供石蕊测试。</span><span class="english">Now, I would not provide a litmus test.</span></p>
 
 <p><span class="chinese">它还需要一个“石蕊试验”，以决定是否是“良好的服务”。</span><span class="english">It requires a "Litmus Test", which determines a "good service".</span></p>

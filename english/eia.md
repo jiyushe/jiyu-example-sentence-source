@@ -1,5 +1,7 @@
 # eia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eia.md)
+
 <p><span class="chinese">EIA是国际发展议程上的一项重点。</span><span class="english">EIA is high on the international development agenda.</span></p>
 
 <p><span class="chinese">是否可以考虑将环评作为可研一部分或可研的子合同?。</span><span class="english">Need to Have EIA as Part or Sub-Contract of FS Team?</span></p>

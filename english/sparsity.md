@@ -1,5 +1,7 @@
 # sparsity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sparsity.md)
+
 <p><span class="chinese">一个由矩量法生成的稠密矩阵经过压缩后，可以稀疏存储。</span><span class="english">A dense matrix arising from MoM can be stored in sparsity after compressed.</span></p>
 
 <p><span class="chinese">对高阶线性规划问题实际应用的稀疏技术的开发作了探讨。</span><span class="english">It discusses the exploitation of sparsity in large LP problems as used in practice.</span></p>

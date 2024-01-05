@@ -1,5 +1,7 @@
 # copperplate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copperplate.md)
+
 <p><span class="chinese">铜版上蚀刻了一个图案。</span><span class="english">A design is etched on a copperplate.</span></p>
 
 <p><span class="chinese">铜版纸是一种更先进的书法风格。</span><span class="english">Copperplate is a more advanced style of calligraphy.</span></p>

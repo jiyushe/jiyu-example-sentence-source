@@ -1,5 +1,7 @@
 # presumable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presumable.md)
+
 <p><span class="chinese">大块多彩碎片—拆物品等级100或是更好的蓝色装备。</span><span class="english">Large Prismatic Shard ?From rare items, presumable ilvl 100 or higher.</span></p>
 
 <p><span class="chinese">这道理一样吗?收成少，卖个好价呀！</span><span class="english">This rule is not the same? Harvest less presumable to sell a good price for it!</span></p>

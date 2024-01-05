@@ -1,5 +1,7 @@
 # 公开信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongkaixin.md)
+
 <p><span class="chinese">这封公开信是反驳抽象派论点的。</span><span class="english">This open letter is to rebut the argument of abstractionism.</span></p>
 
 <p><span class="chinese">一封给利物浦的所有者的公开信。如果你同意，请你签上大名。</span><span class="english">An Open Letter to the Owners of Liverpool FC. Please sign if you agree.</span></p>

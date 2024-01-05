@@ -1,5 +1,7 @@
 # hallucinatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hallucinatory.md)
+
 <p><span class="chinese">同时也评估他们产生幻觉的倾向和压力水平。</span><span class="english">Their proneness to hallucinatory experiences, and their stress levels, were also assessed.</span></p>
 
 <p><span class="chinese">每个展厅都有醉人的画，几乎都是埃尔“葛瑞克梦幻般的作品。</span><span class="english">Each gallery has examples of the ethereal, almost hallucinatory nature of El Greco's works.</span></p>

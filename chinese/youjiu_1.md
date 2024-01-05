@@ -1,5 +1,7 @@
 # 有旧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjiu_1.md)
+
 <p><span class="chinese">哪里会有旧苹果产品。</span><span class="english">There's no such thing as an old Apple product.</span></p>
 
 <p><span class="chinese">将套用到所有旧迷你游戏。</span><span class="english">That will apply to all the old mini-games as well.</span></p>

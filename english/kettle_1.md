@@ -1,5 +1,7 @@
 # kettle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kettle_1.md)
+
 <p><span class="chinese">壶中水煮沸了。</span><span class="english">The kettle is boiling.</span></p>
 
 <p><span class="chinese">波丽把壶放上去。</span><span class="english">Polly put the kettle on.</span></p>

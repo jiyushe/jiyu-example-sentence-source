@@ -1,5 +1,7 @@
 # metropolis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metropolis.md)
+
 <p><span class="chinese">鞍山是我国的钢都。</span><span class="english">Anshan is our country's steel metropolis.</span></p>
 
 <p><span class="chinese">大都市是新与旧的大杂烩。</span><span class="english">The metropolis is a confusion of old and new.</span></p>

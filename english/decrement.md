@@ -1,5 +1,7 @@
 # decrement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decrement.md)
+
 <p><span class="chinese">第一种形式是前缀减量操作。</span><span class="english">The first form is a prefix decrement operation.</span></p>
 
 <p><span class="chinese">请考虑下面的原子递减操作</span><span class="english">Consider the following atomic decrement operation</span></p>

@@ -1,5 +1,7 @@
 # histogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histogram.md)
+
 <p><span class="chinese">在这个例子中我会画一个柱状图。</span><span class="english">In this case, I'm going to plot a histogram.</span></p>
 
 <p><span class="chinese">首先，对图像进行直方图均衡化处理。</span><span class="english">First, the image histogram equalization of treatment.</span></p>

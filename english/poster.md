@@ -1,5 +1,7 @@
 # poster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poster.md)
+
 <p><span class="chinese">他选择了海报。</span><span class="english">He chooses the poster.</span></p>
 
 <p><span class="chinese">那幅照片是一张电影海报。</span><span class="english">The photo is a movie poster.</span></p>

@@ -1,5 +1,7 @@
 # 同窗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongchuang_1.md)
+
 <p><span class="chinese">咱们曾经是同窗。</span><span class="english">We were schoolfellows.</span></p>
 
 <p><span class="chinese">我所有的同窗都在那儿。</span><span class="english">Bll my classmates are over there.</span></p>

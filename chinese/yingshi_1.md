@@ -1,5 +1,7 @@
 # 硬实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingshi_1.md)
+
 <p><span class="chinese">将第八天尚未吸胀的作为硬实种子。</span><span class="english">The non-imbibing seed of the eighth day was called hard seed.</span></p>
 
 <p><span class="chinese">这允许瘦内核提供硬实时支持。</span><span class="english">This allows the thin kernel to provide hard real-time support.</span></p>

@@ -1,5 +1,7 @@
 # belladonna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belladonna.md)
+
 <p><span class="chinese">一个很好的例子就是颠茄。</span><span class="english">A good example is belladonna.</span></p>
 
 <p><span class="chinese">听说过的颠茄植物？</span><span class="english">Ever heard of the Belladonna plant?</span></p>

@@ -1,5 +1,7 @@
 # static
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/static.md)
+
 <p><span class="chinese">它们所有都是静态的吗？</span><span class="english">Are any of them static?</span></p>
 
 <p><span class="chinese">这是一个静态脚本。</span><span class="english">This is a static script.</span></p>

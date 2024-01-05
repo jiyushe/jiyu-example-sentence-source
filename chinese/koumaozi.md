@@ -1,5 +1,7 @@
 # 扣帽子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koumaozi.md)
+
 <p><span class="chinese">先不要扣帽子。</span><span class="english">Don't start trying labels on me yet.</span></p>
 
 <p><span class="chinese">这类人对我挑剔、扣帽子吗？</span><span class="english">Is this person critical or judgmental of me?</span></p>

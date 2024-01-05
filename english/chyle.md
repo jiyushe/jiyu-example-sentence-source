@@ -1,5 +1,7 @@
 # chyle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chyle.md)
+
 <p><span class="chinese">乳糜已经消失了46天，术后。</span><span class="english">The chyle had disappeared 46 days postoperatively.</span></p>
 
 <p><span class="chinese">并就乳糜漏的发生原因、早期征象、治疗方法等进行讨论。</span><span class="english">In this artical the cause, diagnosis and treatment of chyle fistula were discussed.</span></p>

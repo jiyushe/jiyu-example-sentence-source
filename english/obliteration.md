@@ -1,5 +1,7 @@
 # obliteration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obliteration.md)
+
 <p><span class="chinese">似乎和这方面有关的情况已经全部消失了。</span><span class="english">Obliteration appeared to be complete in that quarter.</span></p>
 
 <p><span class="chinese">贫困的消灭将由水平的一次简单提高而得以完成。</span><span class="english">The obliteration of misery will be accomplished by a simple elevation of level.</span></p>

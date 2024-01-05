@@ -1,5 +1,7 @@
 # backache
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backache.md)
+
 <p><span class="chinese">我今天后背疼。</span><span class="english">I’ve got backache today.</span></p>
 
 <p><span class="chinese">他腰有点发酸。</span><span class="english">He has a slight backache.</span></p>

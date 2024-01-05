@@ -1,5 +1,7 @@
 # 要是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoshi_2.md)
+
 <p><span class="chinese">要是您知道就好了！</span><span class="english">If you only knew!</span></p>
 
 <p><span class="chinese">要是下雨了怎么办？</span><span class="english">What if it rains?</span></p>

@@ -1,5 +1,7 @@
 # terrific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrific.md)
+
 <p><span class="chinese">我们都挺了不起的。</span><span class="english">We all did terrific.</span></p>
 
 <p><span class="chinese">她真是一个美丽的尤物。</span><span class="english">She is a terrific fuck.</span></p>

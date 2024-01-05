@@ -1,5 +1,7 @@
 # 私房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sifang_1.md)
+
 <p><span class="chinese">这是男爵夫人的私房。</span><span class="english">This is Madame de Rothschild's private room.</span></p>
 
 <p><span class="chinese">我们更希望听到的是，两位候选人会替私房房主着想。</span><span class="english">We would like to hear the candidates tell Americans how they will stand up for homeowners.</span></p>

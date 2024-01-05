@@ -1,5 +1,7 @@
 # micromation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micromation.md)
+
 <p><span class="chinese">本文针对传感器的微型化进行大量的实验研究。</span><span class="english">So a plentiful of experiments had be done to the micromation sensor.</span></p>
 
 <p><span class="chinese">离体生物传感器的微型和集成化为细胞电生理研究提供了有力手段。</span><span class="english">Microelectrode arrays in-vitro provide methods down to cellular level by micromation and integration.</span></p>

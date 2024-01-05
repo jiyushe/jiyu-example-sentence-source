@@ -1,5 +1,7 @@
 # acquiescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquiescence.md)
+
 <p><span class="chinese">正是由于对父亲愿望的默许。她辱没了自己。</span><span class="english">Acquiescence in her father's wishes had been degradation to herself.</span></p>
 
 <p><span class="chinese">所谓的“通融”就是用金钱换取房产商的默许。</span><span class="english">The so-called "accommodation" is the money for the director acquiescence.</span></p>

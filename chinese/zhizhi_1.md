@@ -1,5 +1,7 @@
 # 直指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhi_1.md)
+
 <p><span class="chinese">枪口直指T-Bag的脑袋。</span><span class="english">they ask. A gun is quickly pointed at T-Bag’s head.</span></p>
 
 <p><span class="chinese">血刀指着他的眉心，我愤怒的眸直指他的眼。</span><span class="english">Marshal pointing to his brow, I am angry eyes at his eyes.</span></p>

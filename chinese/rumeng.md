@@ -1,5 +1,7 @@
 # 入梦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rumeng.md)
+
 <p><span class="chinese">不觉入梦梦亦空。</span><span class="english">Unconsciously dream dreams also empty.</span></p>
 
 <p><span class="chinese">拍打在礁石上浪涛声催人入梦。</span><span class="english">The breaking surf on the reef is mesmerizing.</span></p>

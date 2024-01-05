@@ -1,5 +1,7 @@
 # sideslip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sideslip.md)
+
 <p><span class="chinese">本侧滑检测系统是一个复杂的自动检测系统。</span><span class="english">This sideslip detecting system is a complicated and automatic detection system.</span></p>
 
 <p><span class="chinese">大多数飞行状态都要求保持侧滑角等于零。</span><span class="english">In most flight conditions it is desired to maintain the sideslip angle equal to zero.</span></p>

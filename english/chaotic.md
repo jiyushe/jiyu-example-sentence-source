@@ -1,5 +1,7 @@
 # chaotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chaotic.md)
+
 <p><span class="chinese">它是很混沌的。</span><span class="english">It could be quite chaotic.</span></p>
 
 <p><span class="chinese">今晚，我的心有点乱。</span><span class="english">Tonight, i feel a little chaotic.</span></p>

@@ -1,5 +1,7 @@
 # 死尸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sishi_1.md)
+
 <p><span class="chinese">而这个死尸就是我。</span><span class="english">And that corpse I was.</span></p>
 
 <p><span class="chinese">未埋葬的死尸到处都是。</span><span class="english">Unburied dead lay everywhere.</span></p>

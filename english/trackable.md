@@ -1,5 +1,7 @@
 # trackable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trackable.md)
+
 <p><span class="chinese">这是双方关系的一个可以追踪的指标。</span><span class="english">It's a conspicuous, trackable indicator of the bilateral relationship.</span></p>
 
 <p><span class="chinese">我们也许会有“人类搜索引擎”，它将会使每个人都无处可藏。</span><span class="english">We may have 'Human search engines', which make everyone easily trackable.</span></p>

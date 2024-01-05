@@ -1,5 +1,7 @@
 # rfc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rfc.md)
+
 <p><span class="chinese">关于HTTP报头及其取值的更多信息参见RFC2068。</span><span class="english">For more information about HTTP headers and their values refer to RFC 2068.</span></p>
 
 <p><span class="chinese">杂志部分是复式的会计制度，把RFC的核心。</span><span class="english">Journal section is a double entry accounting system which is the heart of RFC.</span></p>

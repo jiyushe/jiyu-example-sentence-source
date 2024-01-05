@@ -1,5 +1,7 @@
 # 思路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/silu_1.md)
+
 <p><span class="chinese">她的思路很清楚。</span><span class="english">She thinks very clearly.</span></p>
 
 <p><span class="chinese">让我再说明一下，那是一个一般性的思路。</span><span class="english">That's the general idea.</span></p>

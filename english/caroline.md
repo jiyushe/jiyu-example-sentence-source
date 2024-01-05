@@ -1,5 +1,7 @@
 # caroline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caroline.md)
+
 <p><span class="chinese">卡罗琳和道格拉斯也将出席。</span><span class="english">Caroline and Douglas will be there too.</span></p>
 
 <p><span class="chinese">现在请允许我向各位介绍卡罗琳。</span><span class="english">And now, I’ll hand you over to Caroline.</span></p>

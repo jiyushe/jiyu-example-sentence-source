@@ -1,5 +1,7 @@
 # 幽默
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmo.md)
+
 <p><span class="chinese">鼓励幽默。</span><span class="english">Encourage humour.</span></p>
 
 <p><span class="chinese">使用你的幽默。</span><span class="english">Engage your humor.</span></p>

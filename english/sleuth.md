@@ -1,5 +1,7 @@
 # sleuth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleuth.md)
+
 <p><span class="chinese">侦查一番才找到你的住址。</span><span class="english">I have to go out sleuth to find your address.</span></p>
 
 <p><span class="chinese">所以我希望大家。</span><span class="english">So if any of you want to be an archive sleuth and find them, great.</span></p>

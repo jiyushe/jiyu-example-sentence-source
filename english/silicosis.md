@@ -1,5 +1,7 @@
 # silicosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silicosis.md)
+
 <p><span class="chinese">何全贵在2004年得知自己患上了矽肺病。</span><span class="english">He. Mr. He learned he had silicosis in 2004.</span></p>
 
 <p><span class="chinese">目的探讨矽肺的X线表现。</span><span class="english">Objective To approach the X-ray manifestations of silicosis.</span></p>

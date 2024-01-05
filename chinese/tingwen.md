@@ -1,5 +1,7 @@
 # 停稳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingwen.md)
+
 <p><span class="chinese">在车没有停稳之前请不要站起来。</span><span class="english">Don't stand up before the vehicle has parked.</span></p>
 
 <p><span class="chinese">火车还没停稳，他就跳上了月台。</span><span class="english">Ting Wen before the train, he jumped onto the platform.</span></p>

@@ -1,5 +1,7 @@
 # snubber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snubber.md)
+
 <p><span class="chinese">开关电源的缓冲电路。</span><span class="english">Snubber circuit of switching power supply.</span></p>
 
 <p><span class="chinese">模块吸收高频尖峰电压、电流。</span><span class="english">Use in IGBT Snubber to absorb high voltage and curren.</span></p>

@@ -1,5 +1,7 @@
 # 表演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoyan.md)
+
 <p><span class="chinese">我看过她的现场表演。</span><span class="english">I saw her live.</span></p>
 
 <p><span class="chinese">她选择表演。</span><span class="english">She chose acting.</span></p>

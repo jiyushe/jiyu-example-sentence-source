@@ -1,5 +1,7 @@
 # 完结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanjie.md)
+
 <p><span class="chinese">创痛远未完结。</span><span class="english">The pain did not end.</span></p>
 
 <p><span class="chinese">我是未完结的所有。</span><span class="english">I am not the end of all.</span></p>

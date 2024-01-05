@@ -1,5 +1,7 @@
 # calamus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calamus.md)
+
 <p><span class="chinese">国产省藤属植物的叶表皮形态学。</span><span class="english">Leaf Epidermis Morphology of the Genus Calamus L.</span></p>
 
 <p><span class="chinese">从示巴出的乳香，从远方出的菖蒲奉来给我有何益呢？</span><span class="english">What do I care about incense from Sheba or sweet calamus from a distant land?</span></p>

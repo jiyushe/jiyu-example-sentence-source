@@ -1,5 +1,7 @@
 # tatar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tatar.md)
+
 <p><span class="chinese">系塔塔尔族人士于1897年。</span><span class="english">Department of Tatar people in 1897.</span></p>
 
 <p><span class="chinese">给鞑靼人造成伤亡的是之一是著名的鞑靼指挥官图哈依·拜阵亡。</span><span class="english">One of the casualties was the famous Tatar commander Tuhaj-bej.</span></p>

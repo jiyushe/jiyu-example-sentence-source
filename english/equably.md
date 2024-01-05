@@ -1,5 +1,7 @@
 # equably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equably.md)
+
 <p><span class="chinese">超声波清洗机上、下抛动机构，确保快速均匀清洗。</span><span class="english">The framework of popping up down to ensure of cleaning rapidly equably.</span></p>
 
 <p><span class="chinese">首先，推导出光波在均匀空间传播所满足的波动方程。</span><span class="english">First the equation of the plane wave should be obtained in equably medium.</span></p>

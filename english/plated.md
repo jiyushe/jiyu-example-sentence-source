@@ -1,5 +1,7 @@
 # plated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plated.md)
+
 <p><span class="chinese">这块表只是镀金的。</span><span class="english">The watch was only plated with gold.</span></p>
 
 <p><span class="chinese">铜合金，镀金，镀银，镀锡。</span><span class="english">Brass alloy, gold, silver & tin plated.</span></p>

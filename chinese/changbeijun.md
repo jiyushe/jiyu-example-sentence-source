@@ -1,5 +1,7 @@
 # 常备军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changbeijun.md)
+
 <p><span class="chinese">那时，还没有常备军。</span><span class="english">Standing armies did not then exist.</span></p>
 
 <p><span class="chinese">它没有常备军，没有军事资产。</span><span class="english">It has no standing army , no military assets.</span></p>

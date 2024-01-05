@@ -1,5 +1,7 @@
 # absently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absently.md)
+
 <p><span class="chinese">“是啊，”她心不在焉地赞同说。</span><span class="english">"Yes, " she assented absently.</span></p>
 
 <p><span class="chinese">她仍心不在焉地望着大海。</span><span class="english">She continued to look absently at the sea.</span></p>

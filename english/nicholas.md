@@ -1,5 +1,7 @@
 # nicholas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nicholas.md)
+
 <p><span class="chinese">尼古拉斯是海军学校的一名新学员。</span><span class="english">Nicholas is a new cadet.</span></p>
 
 <p><span class="chinese">你现在看见圣尼古拉了吗?。</span><span class="english">Can you see St Nicholas now?</span></p>

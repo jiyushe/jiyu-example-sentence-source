@@ -1,5 +1,7 @@
 # 洞窟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongku.md)
+
 <p><span class="chinese">那阳光灿烂的宫和冰的洞窟！</span><span class="english">That sunny dome! those caves of ice!</span></p>
 
 <p><span class="chinese">于是到达了不可测的洞窟。</span><span class="english">Then reached the caverns measureless to man.</span></p>

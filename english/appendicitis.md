@@ -1,5 +1,7 @@
 # appendicitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appendicitis.md)
+
 <p><span class="chinese">我得盲肠炎。</span><span class="english">I had appendicitis.</span></p>
 
 <p><span class="chinese">我得的是阑尾炎吗？</span><span class="english">Do I have appendicitis?</span></p>

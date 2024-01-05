@@ -1,5 +1,7 @@
 # ase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ase.md)
+
 <p><span class="chinese">我可能大白您的名字吗？</span><span class="english">May I know your nwso ase?</span></p>
 
 <p><span class="chinese">该法适用于固体和半固体样品的前处理。</span><span class="english">ASE is applicable fo solid or semisolid samples.</span></p>

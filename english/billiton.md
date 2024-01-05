@@ -1,5 +1,7 @@
 # billiton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billiton.md)
+
 <p><span class="chinese">不过对必和必拓而言,拉长战线将是把双刃剑.</span><span class="english">But an extended timeline would be a double-edged sword for BHP Billiton.</span></p>
 
 <p><span class="chinese">力拓最大的竞争对手必和必拓结束了连续六年盈利的纪录。</span><span class="english">BHP Billiton , Rio Tinto’s larger rival, ended a six-year run of record profits.</span></p>

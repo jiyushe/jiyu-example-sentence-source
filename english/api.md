@@ -1,5 +1,7 @@
 # api
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/api.md)
+
 <p><span class="chinese">你应该在一个厂商的API中寻找什么？</span><span class="english">What should you look for in a vendor API?</span></p>
 
 <p><span class="chinese">如何使用赫克托耳API创建超级列?。</span><span class="english">How to create super column using Hector API?</span></p>

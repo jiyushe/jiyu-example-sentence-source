@@ -1,5 +1,7 @@
 # kohl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kohl.md)
+
 <p><span class="chinese">眼线笔有不同的类型。</span><span class="english">There are different types of kohl.</span></p>
 
 <p><span class="chinese">2月9日，赫尔穆特.科尔来会见我。</span><span class="english">On February 9, Helmut Kohl came to see me.</span></p>

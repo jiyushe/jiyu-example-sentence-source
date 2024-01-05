@@ -1,5 +1,7 @@
 # 泪珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leizhu.md)
+
 <p><span class="chinese">泪珠从她的脸上滑落。</span><span class="english">Tears droped from her face.</span></p>
 
 <p><span class="chinese">她脸上沾满泪珠。</span><span class="english">Her face was bedewed with tears.</span></p>

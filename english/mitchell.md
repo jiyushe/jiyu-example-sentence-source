@@ -1,5 +1,7 @@
 # mitchell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitchell.md)
+
 <p><span class="chinese">我是加雷斯·米切尔。</span><span class="english">I am Gareth Mitchell.</span></p>
 
 <p><span class="chinese">他给了米契尔一本书。</span><span class="english">He gave Mitchell a book.</span></p>

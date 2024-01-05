@@ -1,5 +1,7 @@
 # 往往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangwang.md)
+
 <p><span class="chinese">最强烈的感情往往是最深藏不露的。</span><span class="english">remain most unspoken.</span></p>
 
 <p><span class="chinese">而且往往都是一池子的人。</span><span class="english">And there's a lot of people.</span></p>

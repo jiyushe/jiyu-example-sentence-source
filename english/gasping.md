@@ -1,5 +1,7 @@
 # gasping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gasping.md)
+
 <p><span class="chinese">我真想抽一口烟。</span><span class="english">I'm gasping for a smoke.</span></p>
 
 <p><span class="chinese">那人跑得疲惫已极，上气不接下气。</span><span class="english">The exhausted runner was gasping for air.</span></p>

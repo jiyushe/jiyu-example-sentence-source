@@ -1,5 +1,7 @@
 # 全行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanxing.md)
+
 <p><span class="chinese">成果在全行首屈一指。</span><span class="english">In the forefront of all results.</span></p>
 
 <p><span class="chinese">在全行建立专职产品经理团队，促进业务专业化发展。</span><span class="english">Established professional product manager team, prompt business towards professionalism.</span></p>

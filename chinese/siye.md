@@ -1,5 +1,7 @@
 # 四野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siye.md)
+
 <p><span class="chinese">四野无人既城堡！</span><span class="english">The Castle with no body!</span></p>
 
 <p><span class="chinese">游吟歌手漫步四野。</span><span class="english">The minstrel wandered far and wide.</span></p>

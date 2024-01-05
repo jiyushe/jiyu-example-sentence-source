@@ -1,5 +1,7 @@
 # enfield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enfield.md)
+
 <p><span class="chinese">士兵们全都装备上了英国Enfield步枪。</span><span class="english">Soldiers were then equipped with the British Enfield rifle.</span></p>
 
 <p><span class="chinese">兵变的直接原因，是新的埃菲尔德步枪。</span><span class="english">The immediate cause of the mutiny was the new Enfield rifle.</span></p>

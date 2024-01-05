@@ -1,5 +1,7 @@
 # 声呐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengna.md)
+
 <p><span class="chinese">它们用的是声呐。</span><span class="english">It is sonar.</span></p>
 
 <p><span class="chinese">受到蝙蝠的启发，人们发明了声呐。</span><span class="english">Having been suggested by a bat, people invented sonar.</span></p>

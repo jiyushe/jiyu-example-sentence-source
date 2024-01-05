@@ -1,5 +1,7 @@
 # 熔解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongjie_1.md)
+
 <p><span class="chinese">蜡烛在太阳光下变软而熔解。</span><span class="english">The candle softened and melted in the sun.</span></p>
 
 <p><span class="chinese">中国从未遭受过重大核熔解事故。</span><span class="english">China has never experienced a major nuclear meltdown.</span></p>

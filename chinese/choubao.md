@@ -1,5 +1,7 @@
 # 酬报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choubao.md)
+
 <p><span class="chinese">西圆的斑斓是酬报的。</span><span class="english">Beauty in the West is unninuring.</span></p>
 
 <p><span class="chinese">善行会有幸福酬报。</span><span class="english">Good deeds are rewarded by happiness.</span></p>

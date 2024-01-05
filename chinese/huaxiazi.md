@@ -1,5 +1,7 @@
 # 话匣子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaxiazi.md)
+
 <p><span class="chinese">弗兰克像个话匣子说个没完。</span><span class="english">Frank talked away like a chatter box.</span></p>
 
 <p><span class="chinese">他一直在说,的确是个话匣子,话太多了.</span><span class="english">He talks all the time ,he is a gasbag.</span></p>

@@ -1,5 +1,7 @@
 # 纸浆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijiang_1.md)
+
 <p><span class="chinese">完全纯纸浆原料制造，纸基白度高。</span><span class="english">Made of pure paper pulp with high whiteness.</span></p>
 
 <p><span class="chinese">是的，先生。我们击败了A族近一个纸浆。</span><span class="english">Yes, sir. We beat the Amarr nearly to a pulp.</span></p>

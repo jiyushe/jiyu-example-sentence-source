@@ -1,5 +1,7 @@
 # commodity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commodity.md)
+
 <p><span class="chinese">大宗商品价格涨跌互现。</span><span class="english">Commodity prices were mixed.</span></p>
 
 <p><span class="chinese">好域名是一种罕见的商品。</span><span class="english">Good domains are a rare commodity.</span></p>

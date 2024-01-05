@@ -1,5 +1,7 @@
 # vespers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vespers.md)
+
 <p><span class="chinese">晚祷时，我还能缺席吗？</span><span class="english">Even at vespers she always made passes.</span></p>
 
 <p><span class="chinese">做一个发信号或召唤的姿势。</span><span class="english">A bell that summons worshipers to vespers.</span></p>

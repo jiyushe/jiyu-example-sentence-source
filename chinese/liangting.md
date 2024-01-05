@@ -1,5 +1,7 @@
 # 凉亭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangting.md)
+
 <p><span class="chinese">在城镇的凉亭里呆呆的看着它。</span><span class="english">Gawk at it in the town gazebo.</span></p>
 
 <p><span class="chinese">穿过樱草草皮，在那甜美凉亭里头。</span><span class="english">Through primrose tufts, in that sweet bower.</span></p>

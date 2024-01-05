@@ -1,5 +1,7 @@
 # fining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fining.md)
+
 <p><span class="chinese">工人们如今打算首先末了的抹光作业。</span><span class="english">The workers tend to start the fining finishing now.</span></p>
 
 <p><span class="chinese">本文提出一种细化柘榴石磁光膜晶粒的有效方法。</span><span class="english">A new method for fining grain size has been developed in this peper.</span></p>

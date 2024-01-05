@@ -1,5 +1,7 @@
 # 杀鸡取卵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shajiquluan.md)
+
 <p><span class="chinese">杀鸡取卵的领子和前。</span><span class="english">Banded collar and front.</span></p>
 
 <p><span class="chinese">杀鸡取卵领隐藏罩。</span><span class="english">Banded collar with hidden hood.</span></p>

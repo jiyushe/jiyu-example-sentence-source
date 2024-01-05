@@ -1,5 +1,7 @@
 # cosmetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmetic.md)
+
 <p><span class="chinese">LASIK手术是一种具有美容性质的手术。</span><span class="english">LASIK is a cosmetic procedure.</span></p>
 
 <p><span class="chinese">蜂蜡能用于化妆品吗？</span><span class="english">Can beeswax be used in cosmetic?</span></p>

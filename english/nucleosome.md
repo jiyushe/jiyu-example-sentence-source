@@ -1,5 +1,7 @@
 # nucleosome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucleosome.md)
+
 <p><span class="chinese">核小体是染色质的基本单位。</span><span class="english">Nucleosome is the basic unit of chromatin.</span></p>
 
 <p><span class="chinese">一种组蛋白的八聚物把DNA打包成一种叫做核小体的结构。</span><span class="english">An octa-mer of histones package DNA into a structure called a nucleosome.</span></p>

@@ -1,5 +1,7 @@
 # 动轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donglun.md)
+
 <p><span class="chinese">装有随动轮的传送带输送机。</span><span class="english">Belt conveyors with carrying idlers . Design recommendations.</span></p>
 
 <p><span class="chinese">该流量计在结构上分为主动轮和质量感应轮。</span><span class="english">The mass flowmeter consists of a driver and inductive wheels of mass.</span></p>

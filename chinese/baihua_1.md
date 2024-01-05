@@ -1,5 +1,7 @@
 # 白话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baihua_1.md)
+
 <p><span class="chinese">某些人主张两性平等都只是空口说白话而已。</span><span class="english">Some people only pay lip service to gender equality.</span></p>
 
 <p><span class="chinese">这些东西都不真实——它们只是空口白话而已。</span><span class="english">None of these things are real—they are only promises.</span></p>

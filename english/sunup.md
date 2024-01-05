@@ -1,5 +1,7 @@
 # sunup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunup.md)
+
 <p><span class="chinese">黎明时我来见你。</span><span class="english">I'll meet you at sunup.</span></p>
 
 <p><span class="chinese">星图上给大家展示的时间约为日出前一个小时的东方天际。</span><span class="english">Our sky chart shows the eastern sky for about one hour before sunup.</span></p>

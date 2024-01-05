@@ -1,5 +1,7 @@
 # 电荷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianhe.md)
+
 <p><span class="chinese">它具有较高的电荷密度。</span><span class="english">It is a high charged density.</span></p>
 
 <p><span class="chinese">然后我们得到了净电荷。</span><span class="english">And so now we have net charge.</span></p>

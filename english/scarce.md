@@ -1,5 +1,7 @@
 # scarce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scarce.md)
+
 <p><span class="chinese">生命是一种稀有资源。</span><span class="english">Life is a scarce resource.</span></p>
 
 <p><span class="chinese">在沙漠里水是很难得到的。</span><span class="english">Water is scarce in the desert.</span></p>

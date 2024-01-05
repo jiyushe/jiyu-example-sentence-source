@@ -1,5 +1,7 @@
 # mainline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mainline.md)
+
 <p><span class="chinese">主干是我们的主线。</span><span class="english">The trunk is our mainline.</span></p>
 
 <p><span class="chinese">发布版本2.3比主线更坚固。</span><span class="english">Release 2.3 is firmer than mainline.</span></p>

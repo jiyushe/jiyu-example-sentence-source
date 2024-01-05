@@ -1,5 +1,7 @@
 # continuously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continuously.md)
+
 <p><span class="chinese">他们可以逐渐被改变吗？</span><span class="english">Are they continuously variable?</span></p>
 
 <p><span class="chinese">唯有人能够走在持续创新的路上。</span><span class="english">Only man innovates continuously.</span></p>

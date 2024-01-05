@@ -1,5 +1,7 @@
 # eugenics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eugenics.md)
+
 <p><span class="chinese">有一阵子，他还提倡优生学。</span><span class="english">For a while he also promoted eugenics.</span></p>
 
 <p><span class="chinese">优生学具有生物学上的意义。</span><span class="english">Eugenics has a biological significance.</span></p>

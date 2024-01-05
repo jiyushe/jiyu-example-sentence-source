@@ -1,5 +1,7 @@
 # enunciation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enunciation.md)
+
 <p><span class="chinese">任何激发生命力的东西，任何表达所提到的东西，都属于欲望。</span><span class="english">Whatever animates, that which any enunciation speaks of, belongs to desire.</span></p>
 
 <p><span class="chinese">他通过重写形式重新写入并重新发明了含义或阐述。</span><span class="english">His work re-writes, re-invents meaning or enunciation through rewriting forms.</span></p>

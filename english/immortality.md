@@ -1,5 +1,7 @@
 # immortality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immortality.md)
+
 <p><span class="chinese">因为它使我们丧失了永生。</span><span class="english">It robs us of immortality.</span></p>
 
 <p><span class="chinese">永生无疑很棒。</span><span class="english">Immortality would be wonderful.</span></p>

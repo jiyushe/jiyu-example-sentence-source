@@ -1,5 +1,7 @@
 # 哀思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aisi.md)
+
 <p><span class="chinese">还是等到家的时候表达你的哀思吧。</span><span class="english">Wait until you re home to offer condolences.</span></p>
 
 <p><span class="chinese">上尉，一定让乐队为他们演奏一首表达我们哀思的挽歌。</span><span class="english">Captain, make sure that the band plays a good dirge.</span></p>

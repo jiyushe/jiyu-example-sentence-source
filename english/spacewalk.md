@@ -1,5 +1,7 @@
 # spacewalk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spacewalk.md)
+
 <p><span class="chinese">太空行走的宇航员不能吹口哨。</span><span class="english">Astronauts on a spacewalk cannot whistle.</span></p>
 
 <p><span class="chinese">这一幅是中国第一次太空漫步图片。</span><span class="english">Here is animage of China'sfirst spacewalk.</span></p>

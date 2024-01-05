@@ -1,5 +1,7 @@
 # 降格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangge.md)
+
 <p><span class="chinese">她觉得要听她以前部下的指挥很降格。</span><span class="english">She find it a comedown to listen to her former subordinate.</span></p>
 
 <p><span class="chinese">失业的威胁驱使工人们只好对工资降格以求。</span><span class="english">The threat of employment persuades workers to moderate their pay demands.</span></p>

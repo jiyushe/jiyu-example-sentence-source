@@ -1,5 +1,7 @@
 # 营帐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingzhang_1.md)
+
 <p><span class="chinese">代表团支援队成员正在架设营帐。</span><span class="english">Contingent Support Team was setting up the tents.</span></p>
 
 <p><span class="chinese">一位毛派女兵在营帐中。</span><span class="english">A female Maoist soldier sits in one of the group's camps.</span></p>

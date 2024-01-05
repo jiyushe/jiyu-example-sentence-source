@@ -1,5 +1,7 @@
 # semifinalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semifinalist.md)
+
 <p><span class="chinese">她也是一个在全国西门子在数学，科学和技术的竞争在2010年打进四强。</span><span class="english">She also was a semifinalist in the national Siemens Competition in Math, Science & Technology in 2010.</span></p>
 
 <p><span class="chinese">包括温布尔登和美国公开赛在内，他共获得了11次冠军，同时也成为澳大利亚和法国公开赛上，初赛就获准晋级半决赛的选手。</span><span class="english">He won 11 titles, including Wimbledon and the U. S. Open, and was a semifinalist at the Australian and French Opens.</span></p>

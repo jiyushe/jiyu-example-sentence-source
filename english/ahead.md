@@ -1,5 +1,7 @@
 # ahead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ahead.md)
+
 <p><span class="chinese">当然，请便。</span><span class="english">Sure, Go ahead.</span></p>
 
 <p><span class="chinese">请往前面走。</span><span class="english">Please go ahead.</span></p>

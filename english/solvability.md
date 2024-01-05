@@ -1,5 +1,7 @@
 # solvability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solvability.md)
+
 <p><span class="chinese">研究一个包含数论函数的方程的可解性。</span><span class="english">The solvability of an equation involving the arithmetical function is studied.</span></p>
 
 <p><span class="chinese">菱镁矿和白云石同属于碳酸盐类矿物，二者具有较大的溶解度和较快的溶解速度。</span><span class="english">Magnesite and dolomite are two salt type minerals. They have high solubility and fast solvability.</span></p>

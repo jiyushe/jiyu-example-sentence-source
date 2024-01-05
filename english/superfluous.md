@@ -1,5 +1,7 @@
 # superfluous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superfluous.md)
+
 <p><span class="chinese">把多余的杯子都重新装入箱中。</span><span class="english">Repack all the superfluous cups in the box.</span></p>
 
 <p><span class="chinese">于是她从来都不对他说多余的话。</span><span class="english">So she never said superfluous words to him.</span></p>

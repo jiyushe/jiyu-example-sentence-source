@@ -1,5 +1,7 @@
 # 夜总会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yezonghui.md)
+
 <p><span class="chinese">我退出了所有的夜总会。</span><span class="english">I pulled an all nighter.</span></p>
 
 <p><span class="chinese">咱们离开这个夜总会吧。</span><span class="english">Let's split the night club.</span></p>

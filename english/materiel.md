@@ -1,5 +1,7 @@
 # materiel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/materiel.md)
+
 <p><span class="chinese">他恳求更多的军队和物资。</span><span class="english">He's pleaded for more troops and matériel.</span></p>
 
 <p><span class="chinese">产品的其他名称有物资和物品。</span><span class="english">Additional words for products are materiel and goods.</span></p>

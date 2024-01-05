@@ -1,5 +1,7 @@
 # haiti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haiti.md)
+
 <p><span class="chinese">——评论海地大地震。</span><span class="english">On the Haiti earthquake.</span></p>
 
 <p><span class="chinese">海地死于霍乱的人数上升至917。</span><span class="english">Cholera death toll in Haiti hits 917.</span></p>

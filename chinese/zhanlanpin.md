@@ -1,5 +1,7 @@
 # 展览品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanlanpin.md)
+
 <p><span class="chinese">展览品陈列于五个大厅。</span><span class="english">They're displayed in five halls.</span></p>
 
 <p><span class="chinese">展览品分别陈列于不同的大厅。</span><span class="english">Exhibits are placed in different halls.</span></p>

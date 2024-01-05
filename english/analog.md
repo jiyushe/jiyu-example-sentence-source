@@ -1,5 +1,7 @@
 # analog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analog.md)
+
 <p><span class="chinese">模拟石英机芯。</span><span class="english">Quartz analog movement.</span></p>
 
 <p><span class="chinese">语音数据模拟适配器?。</span><span class="english">VDA? Voice and Data Analog Adapter?</span></p>

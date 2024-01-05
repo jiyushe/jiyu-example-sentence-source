@@ -1,5 +1,7 @@
 # 转圈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanquan_1.md)
+
 <p><span class="chinese">双桅横帆船围着锚转圈。</span><span class="english">The brig is heaving around on the anchor.</span></p>
 
 <p><span class="chinese">滑冰者在冰上快速转圈。</span><span class="english">The skater spun round and round on the ice.</span></p>

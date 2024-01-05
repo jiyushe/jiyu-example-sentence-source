@@ -1,5 +1,7 @@
 # sacrificially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sacrificially.md)
+
 <p><span class="chinese">我知道鲍伯做出了牺牲。</span><span class="english">I knew Bob had given sacrificially.</span></p>
 
 <p><span class="chinese">牺牲的爱在人们中间已经消失了。</span><span class="english">People no longer love each other sacrificially.</span></p>

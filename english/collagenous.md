@@ -1,5 +1,7 @@
 # collagenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collagenous.md)
+
 <p><span class="chinese">这些骨板由胶原纤维和无机盐组成。</span><span class="english">These lamellae are made up of collagenous fibers and inorganic salt matrix.</span></p>
 
 <p><span class="chinese">脱钙后的骨基质中，胶原纤维嗜酸性仍然很强。</span><span class="english">The collagenous fibers of the decalcified matrix are quite acidophilic, as always.</span></p>

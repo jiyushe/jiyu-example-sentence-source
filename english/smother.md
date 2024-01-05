@@ -1,5 +1,7 @@
 # smother
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smother.md)
+
 <p><span class="chinese">覆盖物太多使植物窒息。</span><span class="english">Smother plants with mulch.</span></p>
 
 <p><span class="chinese">我刚设法忍住了一个呵欠。</span><span class="english">I just managed to smother a yawn.</span></p>

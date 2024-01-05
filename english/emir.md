@@ -1,5 +1,7 @@
 # emir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emir.md)
+
 <p><span class="chinese">自从1995年以来，埃米尔・哈马德・本・哈利法・阿勒萨尼统治卡塔尔。</span><span class="english">Since 1995, Emir Hamad bin Khalifa Al-Thani has ruled Qatar.</span></p>
 
 <p><span class="chinese">1975年8月，巴林君主以皇家敕令解散了国会。</span><span class="english">In August 1975, the emir dissolved the parliament by royal decree.</span></p>

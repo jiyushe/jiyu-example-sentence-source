@@ -1,5 +1,7 @@
 # regretless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regretless.md)
+
 <p><span class="chinese">拼一个阳春生夏，换一个青春无悔！</span><span class="english">Spell a summer home life, change a regretless youth.</span></p>
 
 <p><span class="chinese">你说着无悔的话，为你吃尽所有的苦累。</span><span class="english">You said so, you eat regretless all of the bitter tired.</span></p>

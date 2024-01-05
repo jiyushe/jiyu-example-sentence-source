@@ -1,5 +1,7 @@
 # 戏谑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixue.md)
+
 <p><span class="chinese">他给我一个有几分戏谑的咧嘴一笑。</span><span class="english">He gives me a slightly wicked grin.</span></p>
 
 <p><span class="chinese">戏谑不能化敌为友，只能失去朋友！</span><span class="english">A joke never gain an enemy but loses a friend.</span></p>

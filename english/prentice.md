@@ -1,5 +1,7 @@
 # prentice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prentice.md)
+
 <p><span class="chinese">人力资源管理，余凯成，大连理工大学出版社，2001。</span><span class="english">Human Resource Management, Gary Dessler, Prentice Hall Press, 2001</span></p>
 
 <p><span class="chinese">大卫.普伦蒂斯是设在华盛顿的家庭研究委员会的资深研究员。</span><span class="english">David Prentice is with the Washington-based Family Research Council.</span></p>

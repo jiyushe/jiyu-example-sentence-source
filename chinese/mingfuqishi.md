@@ -1,5 +1,7 @@
 # 名副其实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingfuqishi.md)
+
 <p><span class="chinese">它真是名副其实的士气提升器。</span><span class="english">It was a real morale-booster.</span></p>
 
 <p><span class="chinese">而这次却是名副其实的秋雨了。</span><span class="english">But this is truly an autumn rain.</span></p>

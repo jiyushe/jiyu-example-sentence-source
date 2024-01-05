@@ -1,5 +1,7 @@
 # 奄奄一息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyanyixi.md)
+
 <p><span class="chinese">一个灰衣女孩，骑着奄奄一息的马。</span><span class="english">A grey girl on a dying horse.</span></p>
 
 <p><span class="chinese">当他奄奄一息时，他将那给了我。</span><span class="english">He gave it to me while he lay dying.</span></p>

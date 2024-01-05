@@ -1,5 +1,7 @@
 # towage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/towage.md)
+
 <p><span class="chinese">海上拖航合同应当书面订立。</span><span class="english">Article 156 A contract of sea towage shall be made in writing.</span></p>
 
 <p><span class="chinese">实船计算结果表明拖航时的装载方案是影响应力大小的重要因素。</span><span class="english">The factual result indicates the influence of loading project is prodigious in the course of towage.</span></p>

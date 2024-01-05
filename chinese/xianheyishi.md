@@ -1,5 +1,7 @@
 # 显赫一时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianheyishi.md)
+
 <p><span class="chinese">美使拥有它的人显赫一时。</span><span class="english">Beauty makes princes of those who have it.</span></p>
 
 <p><span class="chinese">底特律曾经是一座显赫一时、繁荣兴旺的城市。</span><span class="english">Detroit was once a grand and prosperous city.</span></p>

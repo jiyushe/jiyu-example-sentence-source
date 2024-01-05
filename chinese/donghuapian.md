@@ -1,5 +1,7 @@
 # 动画片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donghuapian.md)
+
 <p><span class="chinese">泰国动画片网。</span><span class="english">Thai cartoon web.</span></p>
 
 <p><span class="chinese">我可以天天看动画片。</span><span class="english">I can oon every day.</span></p>

@@ -1,5 +1,7 @@
 # sago
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sago.md)
+
 <p><span class="chinese">铁树很少开花。</span><span class="english">Sago cycas seldom blossoms.</span></p>
 
 <p><span class="chinese">绿豆，薏苡仁，甘草，西谷米。</span><span class="english">Green Bean, Coix Seed, sweet root, sago.</span></p>

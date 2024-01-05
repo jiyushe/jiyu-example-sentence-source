@@ -1,5 +1,7 @@
 # 开刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaidao.md)
+
 <p><span class="chinese">她是胆囊炎开刀。</span><span class="english">She had been operated on cholecystitis.</span></p>
 
 <p><span class="chinese">这是单手开刀的终极解决方案。</span><span class="english">This is the ultimate in one-hand openers.</span></p>

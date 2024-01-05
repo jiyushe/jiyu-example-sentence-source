@@ -1,5 +1,7 @@
 # defuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defuse.md)
+
 <p><span class="chinese">抱歉，我必须拆掉这颗炸弹的雷管。</span><span class="english">Excuse me, I have to defuse this bomb.</span></p>
 
 <p><span class="chinese">尝试一种简单的减压技巧来缓解你愤怒的情绪。</span><span class="english">To defuse your anger, try a simple stress-management technique.</span></p>

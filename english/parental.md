@@ -1,5 +1,7 @@
 # parental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parental.md)
+
 <p><span class="chinese">父母之爱深而真挚。</span><span class="english">Parental love is deep and true.</span></p>
 
 <p><span class="chinese">该系列带有电视荷父母的准则。</span><span class="english">The series carries a TV-G parental guideline.</span></p>

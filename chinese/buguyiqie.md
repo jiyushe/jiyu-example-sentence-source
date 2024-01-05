@@ -1,5 +1,7 @@
 # 不顾一切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buguyiqie.md)
+
 <p><span class="chinese">你会不顾一切地花费更多。</span><span class="english">You’ll spend more recklessly.</span></p>
 
 <p><span class="chinese">她不顾一切的爱害死了鸟儿。</span><span class="english">Her desperate love had killed him.</span></p>

@@ -1,5 +1,7 @@
 # 奸计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianji_2.md)
+
 <p><span class="chinese">毋中奸计。</span><span class="english">Don't fall into the treacherous plot.</span></p>
 
 <p><span class="chinese">那说不定是渔夫的奸计耶。」吉尔说。</span><span class="english">It might be a fisherman's trick, " said Gil."</span></p>

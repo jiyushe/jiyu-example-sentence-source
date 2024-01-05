@@ -1,5 +1,7 @@
 # roxy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roxy.md)
+
 <p><span class="chinese">山姆小萝，妳在锦标赛中的表现很不错。</span><span class="english">Sam Nice work at the tourney , Roxy.</span></p>
 
 <p><span class="chinese">经过对产品和价格比较饰审查。</span><span class="english">Compare prices on roxy products and read reviews.</span></p>

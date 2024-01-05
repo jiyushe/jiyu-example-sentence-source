@@ -1,5 +1,7 @@
 # elation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elation.md)
+
 <p><span class="chinese">举手击掌代表高兴、喜悦和力量。</span><span class="english">A high-five symbolizes joy, elation and power.</span></p>
 
 <p><span class="chinese">人们一定会联想到他的洋洋自得。</span><span class="english">One can certainly relate to his seeming elation.</span></p>

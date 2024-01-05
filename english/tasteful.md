@@ -1,5 +1,7 @@
 # tasteful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tasteful.md)
+
 <p><span class="chinese">他是一位风雅的艺术家。</span><span class="english">He is a tasteful artist.</span></p>
 
 <p><span class="chinese">该图表的格式很雅致。</span><span class="english">The format of the figure is very tasteful.</span></p>

@@ -1,5 +1,7 @@
 # inappropriate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inappropriate.md)
+
 <p><span class="chinese">那似乎很不合适。</span><span class="english">That seems inappropriate.</span></p>
 
 <p><span class="chinese">我认为这是不合宜的行为。</span><span class="english">I think it's very inappropriate.</span></p>

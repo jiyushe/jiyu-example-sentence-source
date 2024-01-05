@@ -1,5 +1,7 @@
 # 松开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songkai.md)
+
 <p><span class="chinese">他松开紧握的手。</span><span class="english">He unloosed his grip.</span></p>
 
 <p><span class="chinese">他松开了手。</span><span class="english">He unclenched his hands.</span></p>

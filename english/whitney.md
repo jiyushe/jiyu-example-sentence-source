@@ -1,5 +1,7 @@
 # whitney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whitney.md)
+
 <p><span class="chinese">你听说过惠特尼·休斯顿的名字吗？</span><span class="english">Have you heard of the name of Whitney Houston?</span></p>
 
 <p><span class="chinese">同时，惠特妮还从事模特工作。</span><span class="english">At the same time, Whitney pursued a career in modeling.</span></p>

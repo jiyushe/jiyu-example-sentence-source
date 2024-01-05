@@ -1,5 +1,7 @@
 # 血管瘤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueguanliu.md)
+
 <p><span class="chinese">血管瘤如何治疗？</span><span class="english">How are hemangiomas treated?</span></p>
 
 <p><span class="chinese">血管瘤如何诊断？</span><span class="english">How are hemangiomas diagnosed?</span></p>

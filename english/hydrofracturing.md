@@ -1,5 +1,7 @@
 # hydrofracturing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrofracturing.md)
+
 <p><span class="chinese">双王金矿含金角砾岩水力压裂成因角砾岩。</span><span class="english">Gold-hosted breccia in Shuangwang ore deposit is hydrofracturing breccia.</span></p>
 
 <p><span class="chinese">回顾了应用水力压裂法测量地应力的基本原理。</span><span class="english">The fundamental principle of hydrofracturing method for measuring geostress is reviewed.</span></p>

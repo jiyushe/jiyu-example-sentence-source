@@ -1,5 +1,7 @@
 # heartily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartily.md)
+
 <p><span class="chinese">他们开怀大笑。</span><span class="english">They laughed heartily.</span></p>
 
 <p><span class="chinese">德芙妮为谁尽情丝滑?。</span><span class="english">DE daphne's silky heartily for who?</span></p>

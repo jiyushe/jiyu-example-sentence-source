@@ -1,5 +1,7 @@
 # impressionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impressionism.md)
+
 <p><span class="chinese">“印象派”是什么意思？</span><span class="english">What is the meaning of the "impressionism"?</span></p>
 
 <p><span class="chinese">法国音乐家德彪西，被称为印象派音乐大师。</span><span class="english">France Musician Debussy is the music master of impressionism.</span></p>

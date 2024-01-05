@@ -1,5 +1,7 @@
 # harmonious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmonious.md)
+
 <p><span class="chinese">我们的新校园斑斓、和谐。</span><span class="english">Our new campus beautiful and harmonious.</span></p>
 
 <p><span class="chinese">大学校园建设贵在和谐。</span><span class="english">It is harmonious to build college campus.</span></p>

@@ -1,5 +1,7 @@
 # 劈里啪啦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pilipala.md)
+
 <p><span class="chinese">雨劈里啪啦地打在屋顶上。</span><span class="english">Rain was splattering on the roof.</span></p>
 
 <p><span class="chinese">屋顶上响起了劈里啪啦的雨点声。</span><span class="english">Rain started to patter on the roof.</span></p>

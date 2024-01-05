@@ -1,5 +1,7 @@
 # electrodialysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrodialysis.md)
+
 <p><span class="chinese">描述了电渗析技术的应用研究。</span><span class="english">Research with the electrodialysis technique is described.</span></p>
 
 <p><span class="chinese">本文介绍了近十年来世界电渗析技术的发展情况。</span><span class="english">Recent developmental situation of electrodialysis technique in the world is described.</span></p>

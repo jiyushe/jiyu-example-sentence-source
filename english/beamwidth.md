@@ -1,5 +1,7 @@
 # beamwidth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beamwidth.md)
+
 <p><span class="chinese">文章给出了N个嵌套线列阵的宽频带恒定束宽的方向性图。</span><span class="english">The paper shows directivity pattern of N-octaves constant beamwidth.</span></p>
 
 <p><span class="chinese">除此之外，本文还对切比雪夫恒定束宽波束形成进行了仿真。</span><span class="english">After this, constant beamwidth beamforming by chebyshev-weighted method is also simulated.</span></p>

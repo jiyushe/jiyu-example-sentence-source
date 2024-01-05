@@ -1,5 +1,7 @@
 # 扣杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kousha.md)
+
 <p><span class="chinese">他能极准确地扣杀球。</span><span class="english">He can hurl tennis rackets with deadly accuracy.</span></p>
 
 <p><span class="chinese">过顶扣杀之类的球确实总是很有趣。</span><span class="english">But overhead smashes and stuff is always good fun, yeah.</span></p>

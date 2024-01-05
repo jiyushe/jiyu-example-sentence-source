@@ -1,5 +1,7 @@
 # eavesdropping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eavesdropping.md)
+
 <p><span class="chinese">另一些舱里则是窃听设备。</span><span class="english">Others have eavesdropping equipment inside them.</span></p>
 
 <p><span class="chinese">这一种事实对偷听使802.11个网络易受伤害。</span><span class="english">This fact makes 802.11 networks vulnerable to eavesdropping.</span></p>

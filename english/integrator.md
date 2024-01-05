@@ -1,5 +1,7 @@
 # integrator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/integrator.md)
+
 <p><span class="chinese">你需要有至少3年的网站整合制作的工作经验。</span><span class="english">You cumulate at least 3 years of experience as an integrator.</span></p>
 
 <p><span class="chinese">你需要有至少5年的网站整合制作的工作经验。</span><span class="english">You cumulate at least 5 years of experience as an integrator.</span></p>

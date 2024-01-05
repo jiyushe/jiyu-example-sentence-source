@@ -1,5 +1,7 @@
 # 罪人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuiren.md)
+
 <p><span class="chinese">你是个罪人。</span><span class="english">You’re a sinner.</span></p>
 
 <p><span class="chinese">阿圣，还是罪人？</span><span class="english">A saint, or a sinner?</span></p>

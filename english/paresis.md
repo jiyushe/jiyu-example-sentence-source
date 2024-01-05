@@ -1,5 +1,7 @@
 # paresis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paresis.md)
+
 <p><span class="chinese">随后是死一样的沉寂。</span><span class="english">This is usually followed by a posterior paresis.</span></p>
 
 <p><span class="chinese">良性地方性轻瘫大部分侵害未断乳小猪。</span><span class="english">Benign enzootic paresis affects young, unweaned piglets for the most part.</span></p>

@@ -1,5 +1,7 @@
 # hippogriff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hippogriff.md)
+
 <p><span class="chinese">你能像只鹰马般跳舞吗？</span><span class="english">Can you dance like a Hippogriff?</span></p>
 
 <p><span class="chinese">很容易动怒，因此你们不要想侮辱一只鹰马。</span><span class="english">Very easily offended, you do not want to insult a hippogriff.</span></p>

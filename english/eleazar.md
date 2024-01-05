@@ -1,5 +1,7 @@
 # eleazar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eleazar.md)
+
 <p><span class="chinese">你带亚伦和他的儿子以利亚撒上何珥山</span><span class="english">Get Aaron and his son Eleazar and take them up Mount Hor.</span></p>
 
 <p><span class="chinese">你带亚郎和他的儿子厄肋阿匝尔，一同上曷尔山上去。</span><span class="english">Take Aaron and his son Eleazar and bring them up on Mount Hor.</span></p>

@@ -1,5 +1,7 @@
 # airframe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airframe.md)
+
 <p><span class="chinese">只有一个机身建成。</span><span class="english">Only one airframe was built.</span></p>
 
 <p><span class="chinese">所有飞机在机炮开火时，机身会抖动。</span><span class="english">Airframe shake for all aircraft when cannon is fired.</span></p>

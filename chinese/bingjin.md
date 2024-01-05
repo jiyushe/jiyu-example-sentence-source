@@ -1,5 +1,7 @@
 # 并进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingjin.md)
+
 <p><span class="chinese">新语丝与您携手并进，共创未来！</span><span class="english">SYNCHROS create a better future hand with hand!</span></p>
 
 <p><span class="chinese">礼拜日来以及咱们并进晚餐好吗?。</span><span class="english">Will you come and join us for dinner on Sunday?</span></p>

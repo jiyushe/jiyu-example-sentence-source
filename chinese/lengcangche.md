@@ -1,5 +1,7 @@
 # 冷藏车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengcangche.md)
+
 <p><span class="chinese">一辆白色冷藏车从车旁开过。</span><span class="english">A white refrigerated truck went past.</span></p>
 
 <p><span class="chinese">沈阳牌冷藏车制冷机组系列。</span><span class="english">Shenyang Refrigerator Cars licensing unit series.</span></p>

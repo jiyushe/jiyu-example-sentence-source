@@ -1,5 +1,7 @@
 # 动力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongli_1.md)
+
 <p><span class="chinese">它的动力是怎样的?</span><span class="english">How is it powered?</span></p>
 
 <p><span class="chinese">但是有动力更妙。</span><span class="english">But drive is better.</span></p>

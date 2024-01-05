@@ -1,5 +1,7 @@
 # shaky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaky.md)
+
 <p><span class="chinese">这项采矿工艺不可靠。</span><span class="english">The mining technique is shaky.</span></p>
 
 <p><span class="chinese">感谢阿霞现场录制的影片！抱歉若太摇晃！</span><span class="english">Sorry if it was too shaky . Enjoy!</span></p>

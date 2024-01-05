@@ -1,5 +1,7 @@
 # 念叨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niandao.md)
+
 <p><span class="chinese">韩佳，你在念叨什么呢？</span><span class="english">Han Jia, what are you muttering?</span></p>
 
 <p><span class="chinese">吉姆这么念叨着她，闭着眼睛。</span><span class="english">Jim plays with her. His eyes close.</span></p>

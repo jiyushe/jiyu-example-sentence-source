@@ -1,5 +1,7 @@
 # arrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrow.md)
+
 <p><span class="chinese">把一支箭射入了我的身体！</span><span class="english">Shot an arrow in me!</span></p>
 
 <p><span class="chinese">箭头指向北边。</span><span class="english">The arrow points north.</span></p>

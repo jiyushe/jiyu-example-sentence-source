@@ -1,5 +1,7 @@
 # shiva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shiva.md)
+
 <p><span class="chinese">她是湿婆的配偶。</span><span class="english">She is the consort of Shiva.</span></p>
 
 <p><span class="chinese">湿婆神和沙克蒂深深相爱。</span><span class="english">Shiva and Shakthi are deeply in love.</span></p>

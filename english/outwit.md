@@ -1,5 +1,7 @@
 # outwit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outwit.md)
+
 <p><span class="chinese">有没有人能够战胜自然呢？</span><span class="english">Can any man outwit nature?</span></p>
 
 <p><span class="chinese">我已经知道如何以机智胜过他。</span><span class="english">I already knew how to outwit him.</span></p>

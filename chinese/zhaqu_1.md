@@ -1,5 +1,7 @@
 # 诈取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaqu_1.md)
+
 <p><span class="chinese">蒙骗，欺骗，诈取。</span><span class="english">To defraud, cheat, or swindle.</span></p>
 
 <p><span class="chinese">他怀着诈取钱财的目的而来。</span><span class="english">He came with intent to defraud.</span></p>

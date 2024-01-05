@@ -1,5 +1,7 @@
 # 党政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangzheng.md)
+
 <p><span class="chinese">培养高素质的青年党政干部，是一个重大的战略性课题。</span><span class="english">It is a great strategic project to foster the high quality young carders.</span></p>
 
 <p><span class="chinese">本文就煤矿基层党政建设工作做了一个简单谈讨。</span><span class="english">This paper made a simple discussion on the grass-roots party building work.</span></p>

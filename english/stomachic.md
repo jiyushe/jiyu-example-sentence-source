@@ -1,5 +1,7 @@
 # stomachic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stomachic.md)
+
 <p><span class="chinese">健胃药应该在什么时候服？</span><span class="english">When should be stomachic tonic being taken?</span></p>
 
 <p><span class="chinese">生姜还有健胃增进食欲的作用。</span><span class="english">Ginger still has the effect with be good at stomachic stomach.</span></p>

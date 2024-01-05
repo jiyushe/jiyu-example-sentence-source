@@ -1,5 +1,7 @@
 # 字义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyi.md)
+
 <p><span class="chinese">请试著从上下文猜测字义。</span><span class="english">Try to guess from the context.</span></p>
 
 <p><span class="chinese">是英文字义“除去补色”的简称。</span><span class="english">Short for Complementary Colour Removal.</span></p>

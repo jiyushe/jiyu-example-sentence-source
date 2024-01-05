@@ -1,5 +1,7 @@
 # mcp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mcp.md)
+
 <p><span class="chinese">单核细胞趋化蛋白1可能通过与细胞趋化因子受体2结合后发挥作用。</span><span class="english">After combined with CKR 2 of MSCs, MCP 1 may play its role.</span></p>
 
 <p><span class="chinese">地面对DFCS做系统测试正常，清洁MCP板后插头，测试B通道正常。</span><span class="english">GND test for DFCS OK, clean MCP aft plug, test for channel B OK.</span></p>

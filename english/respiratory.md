@@ -1,5 +1,7 @@
 # respiratory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respiratory.md)
+
 <p><span class="chinese">肺是呼吸器官。</span><span class="english">The lungs are respiratory organs.</span></p>
 
 <p><span class="chinese">保持五个呼息。</span><span class="english">Maintain the five respiratory rate.</span></p>

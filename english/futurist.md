@@ -1,5 +1,7 @@
 # futurist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/futurist.md)
+
 <p><span class="chinese">我在烹饪方面的未来主义实验凑效了。</span><span class="english">My Futurist experiment in cooking has worked.</span></p>
 
 <p><span class="chinese">未来学家乔治格力德描述世界经济是依靠沙子，玻璃和空气。</span><span class="english">Futurist George Gilder describes world where the economy is based on sand, glass and air.</span></p>

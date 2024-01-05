@@ -1,5 +1,7 @@
 # 西北
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xibei.md)
+
 <p><span class="chinese">你是指往西北边走吗？</span><span class="english">Do you mean to the northwest?</span></p>
 
 <p><span class="chinese">你得说在西北方向偏北太极端了！</span><span class="english">For you to say NNW is extreme!</span></p>

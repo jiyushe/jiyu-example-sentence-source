@@ -1,5 +1,7 @@
 # reinstate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinstate.md)
+
 <p><span class="chinese">然而，薛潘却不能将杰克复职。</span><span class="english">Chappelle, however, cannot reinstate Jack.</span></p>
 
 <p><span class="chinese">回来是完全必要的，是非常正确的。</span><span class="english">To reinstate our veteran comrades is necessary and correct.</span></p>

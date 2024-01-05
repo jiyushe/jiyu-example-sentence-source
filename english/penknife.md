@@ -1,5 +1,7 @@
 # penknife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penknife.md)
+
 <p><span class="chinese">他用一把铅笔刀撬开锁。</span><span class="english">He forced the lock with a penknife.</span></p>
 
 <p><span class="chinese">他们拿走了我的皮带，铅笔刀和手表。</span><span class="english">They took my belt , my penknife and my watch.</span></p>

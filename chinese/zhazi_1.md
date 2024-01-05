@@ -1,5 +1,7 @@
 # 渣子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhazi_1.md)
+
 <p><span class="chinese">他期待着捡点剩余的渣子。</span><span class="english">Stalin expected to pick up the pieces.</span></p>
 
 <p><span class="chinese">她把咖啡渣子倒进水池子里。</span><span class="english">She threw the coffee dregs into the sink.</span></p>

@@ -1,5 +1,7 @@
 # 抖动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/doudong.md)
+
 <p><span class="chinese">树叶在风中不停地抖动着。</span><span class="english">Leaves nod in the winds.</span></p>
 
 <p><span class="chinese">那鸟抖动着翅膀。</span><span class="english">The bird quivered its wings.</span></p>

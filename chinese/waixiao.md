@@ -1,5 +1,7 @@
 # 外销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waixiao.md)
+
 <p><span class="chinese">韩国音乐家，音乐外销成唯一出路。</span><span class="english">Korean musicians must export or starve.</span></p>
 
 <p><span class="chinese">主要产品是内销还是外销呢？</span><span class="english">The major products are sold at home or abroad?</span></p>

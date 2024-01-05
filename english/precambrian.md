@@ -1,5 +1,7 @@
 # precambrian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precambrian.md)
+
 <p><span class="chinese">盆地的基底是前寒武系变质岩。</span><span class="english">Precambrian metamorphic rocks constituted the basin basement.</span></p>
 
 <p><span class="chinese">水成岩指出了前寒武层的花粉传授。</span><span class="english">Sedimentary rocks show pollen in very deep, "Precambrian" strata.</span></p>

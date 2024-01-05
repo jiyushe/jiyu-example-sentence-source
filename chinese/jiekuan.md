@@ -1,5 +1,7 @@
 # 借款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiekuan.md)
+
 <p><span class="chinese">谁拥有希腊的借款？</span><span class="english">Who owns that Greek debt?</span></p>
 
 <p><span class="chinese">长期借款依然萎靡不振。</span><span class="english">Longer-term borrowing also is anemic.</span></p>

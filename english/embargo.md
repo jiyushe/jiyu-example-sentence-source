@@ -1,5 +1,7 @@
 # embargo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embargo.md)
+
 <p><span class="chinese">古巴方面坚持要求美国撤消封港令。</span><span class="english">Cuba insisted on removal of the embargo.</span></p>
 
 <p><span class="chinese">与古巴的禁止贸易令由此终止。</span><span class="english">It was the embargo ending trade with Cuba.</span></p>

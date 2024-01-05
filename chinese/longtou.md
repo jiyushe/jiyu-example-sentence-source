@@ -1,5 +1,7 @@
 # 笼头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longtou.md)
+
 <p><span class="chinese">丰富的马笼头皮革饰边。</span><span class="english">Rich bridle leather trim.</span></p>
 
 <p><span class="chinese">你的马已带上笼头了。</span><span class="english">Your horse has been haltered up.</span></p>

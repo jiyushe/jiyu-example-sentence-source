@@ -1,5 +1,7 @@
 # 凑热闹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/courenao.md)
+
 <p><span class="chinese">我们也去凑凑热闹。</span><span class="english">Let's go join the fun, too.</span></p>
 
 <p><span class="chinese">那我们赶紧去凑凑热闹吧。</span><span class="english">Let's hurry and join the fun now.</span></p>

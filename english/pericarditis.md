@@ -1,5 +1,7 @@
 # pericarditis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pericarditis.md)
+
 <p><span class="chinese">这是典型的纤维素性心包炎的病例。</span><span class="english">This is typical for a fibrinous pericarditis.</span></p>
 
 <p><span class="chinese">转移性肿瘤可导致出血性心包炎。</span><span class="english">Metastases may lead to a hemorrhagic pericarditis.</span></p>

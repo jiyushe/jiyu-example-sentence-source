@@ -1,5 +1,7 @@
 # 扫把
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saoba.md)
+
 <p><span class="chinese">梅金挖苦道，“那我们还是骑着扫把回家吧。”</span><span class="english">We get on these broomsticks and ride home.</span></p>
 
 <p><span class="chinese">爸爸的头发像扫把，根根直立往上插。</span><span class="english">My Papas hair is like a broom, all up in the air.</span></p>

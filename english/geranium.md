@@ -1,5 +1,7 @@
 # geranium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geranium.md)
+
 <p><span class="chinese">草原老鹳草‘水花四溅’</span><span class="english">Geranium pratense L. 'Splish Splash'</span></p>
 
 <p><span class="chinese">血红老鹳草‘梦幻粉’</span><span class="english">Geranium sanguineum L. 'Visions Pink'</span></p>

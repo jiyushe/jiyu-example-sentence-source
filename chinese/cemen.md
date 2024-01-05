@@ -1,5 +1,7 @@
 # 侧门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cemen.md)
+
 <p><span class="chinese">他从侧门溜了进去。</span><span class="english">He goes around the side and slips in.</span></p>
 
 <p><span class="chinese">他们俩都听见有人敲侧门。</span><span class="english">They both heard a knock at the side door.</span></p>

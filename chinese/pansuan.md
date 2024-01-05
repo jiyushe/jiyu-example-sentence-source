@@ -1,5 +1,7 @@
 # 盘算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pansuan.md)
+
 <p><span class="chinese">我用盘算器算出开支的总金额。</span><span class="english">I totaled my expenses with a calculator.</span></p>
 
 <p><span class="chinese">我盘算购件特大号的绿裙子。</span><span class="english">I like to have an extra large green skirt.</span></p>

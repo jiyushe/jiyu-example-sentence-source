@@ -1,5 +1,7 @@
 # shang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shang.md)
+
 <p><span class="chinese">善是善良之义。</span><span class="english">Shang is Kindness.</span></p>
 
 <p><span class="chinese">“喜上眉梢”是个成语。</span><span class="english">"Xi shang meishao" is an idiom.</span></p>

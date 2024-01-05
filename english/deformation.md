@@ -1,5 +1,7 @@
 # deformation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deformation.md)
+
 <p><span class="chinese">滞弹性变形。</span><span class="english">Anelastic deformation.</span></p>
 
 <p><span class="chinese">我让它永久变形。</span><span class="english">Uh, I can do permanent deformation.</span></p>

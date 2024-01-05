@@ -1,5 +1,7 @@
 # 击穿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jichuan.md)
+
 <p><span class="chinese">火箭击穿了敌人的坦克。</span><span class="english">The rocket penetrated the enemy's tank.</span></p>
 
 <p><span class="chinese">这只船的吃水线处被敌人的炮火击穿了。</span><span class="english">The ship was holed along the WL under enemy fire.</span></p>

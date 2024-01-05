@@ -1,5 +1,7 @@
 # hitchhiking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hitchhiking.md)
+
 <p><span class="chinese">我喜欢搭便车旅行。</span><span class="english">I like hitchhiking.</span></p>
 
 <p><span class="chinese">搭上语义高速公路的便车</span><span class="english">Hitchhiking the semantic highway</span></p>

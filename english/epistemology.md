@@ -1,5 +1,7 @@
 # epistemology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epistemology.md)
+
 <p><span class="chinese">十月份我将教一个班级的认识论课程。</span><span class="english">In October, I will teach a class on Epistemology.</span></p>
 
 <p><span class="chinese">总之，自然化认识论仍然是规范的。</span><span class="english">In a word, naturalized epistemology remains normative.</span></p>

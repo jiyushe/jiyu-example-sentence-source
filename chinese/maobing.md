@@ -1,5 +1,7 @@
 # 毛病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maobing.md)
+
 <p><span class="chinese">你年年犯这个毛病。</span><span class="english">You get them every year.</span></p>
 
 <p><span class="chinese">这台电机出了毛病。</span><span class="english">The motor is out of order.</span></p>

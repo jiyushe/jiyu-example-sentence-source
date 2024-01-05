@@ -1,5 +1,7 @@
 # 自理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zili_3.md)
+
 <p><span class="chinese">他患中风之后成了不能自理的废人。</span><span class="english">The stroke left him a helpless wreck.</span></p>
 
 <p><span class="chinese">琼斯警官来自理查盟德区。</span><span class="english">Officer Jones is from the Richmond precinct.</span></p>

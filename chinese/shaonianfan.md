@@ -1,5 +1,7 @@
 # 少年犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaonianfan.md)
+
 <p><span class="chinese">行，等着我当少年犯吧。</span><span class="english">Okay, wait until I go to juvenile.</span></p>
 
 <p><span class="chinese">格斯，我可不想成为一名少年犯。</span><span class="english">Gus I don't wanna be a juvenile delinquent.</span></p>

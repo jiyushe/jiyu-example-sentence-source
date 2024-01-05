@@ -1,5 +1,7 @@
 # 警钟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzhong_1.md)
+
 <p><span class="chinese">他常常敲起警钟。</span><span class="english">He often rings an alarm.</span></p>
 
 <p><span class="chinese">他当当敲击火警钟。</span><span class="english">He clanged the fire bell.</span></p>

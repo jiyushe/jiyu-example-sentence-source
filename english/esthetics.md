@@ -1,5 +1,7 @@
 # esthetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esthetics.md)
+
 <p><span class="chinese">她自认愉悦的美学观只会使情况变得更加恶心。</span><span class="english">Her pleasing esthetics only makes this situation more vile.</span></p>
 
 <p><span class="chinese">第二部分、主要介绍六祖惠能的美学思想。</span><span class="english">The second part mainly introduces esthetics thought of Hui Neng.</span></p>

@@ -1,5 +1,7 @@
 # shelly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shelly.md)
+
 <p><span class="chinese">我的名字是薛立·卡刚。</span><span class="english">My name is Shelly Kagan.</span></p>
 
 <p><span class="chinese">说我是谢利·凯根。</span><span class="english">Says "I'm Shelly Kagan".</span></p>

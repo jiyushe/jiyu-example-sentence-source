@@ -1,5 +1,7 @@
 # illegible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illegible.md)
+
 <p><span class="chinese">难以辨认的潦草的笔迹。</span><span class="english">Illegible handwriting or aimless scribbling.</span></p>
 
 <p><span class="chinese">墨水有已褪色的以至于许多字是难辨认的。</span><span class="english">The ink had faded so that many words were illegible.</span></p>

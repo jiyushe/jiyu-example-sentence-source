@@ -1,5 +1,7 @@
 # 农牧业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongmuye.md)
+
 <p><span class="chinese">这个农场农牧业都搞。</span><span class="english">The farm engages in animal-breeding and agriculture.</span></p>
 
 <p><span class="chinese">这个农场农牧业都搞。</span><span class="english">This farm engages in animal-breeding and agriculture.</span></p>

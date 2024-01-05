@@ -1,5 +1,7 @@
 # lakeshore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lakeshore.md)
+
 <p><span class="chinese">湖岸的景色十分壮观。</span><span class="english">The lakeshore view was stupendous.</span></p>
 
 <p><span class="chinese">的蛇纹石湖岸是128公里长。</span><span class="english">The serpentine lakeshore is 128km long.</span></p>

@@ -1,5 +1,7 @@
 # quaff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quaff.md)
+
 <p><span class="chinese">喝红酒时不能干杯。</span><span class="english">Don't quaff the red wine.</span></p>
 
 <p><span class="chinese">说完又将杯中的酒一饮而尽。</span><span class="english">Finish saying and quaff in one gulp the brandy in the glass.</span></p>

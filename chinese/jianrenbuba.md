@@ -1,5 +1,7 @@
 # 坚忍不拔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianrenbuba.md)
+
 <p><span class="chinese">一类壁立千仞、有欲则刚的坚忍不拔。</span><span class="english">A steeply Chihiro, desire is just the perseverance.</span></p>
 
 <p><span class="chinese">坚忍不拔是科学家应当具备的品质。</span><span class="english">Perseverance is a quality that behoves in a scientist.</span></p>

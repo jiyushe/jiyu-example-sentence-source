@@ -1,5 +1,7 @@
 # 勤政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinzheng.md)
+
 <p><span class="chinese">我勤政爱民，整天为国事，为百姓的生活担心忧虑。</span><span class="english">I am worried about people's life and the state affairs all day.</span></p>
 
 <p><span class="chinese">我们要建立一个廉政、勤政、务实、高效的政府。</span><span class="english">We must build on honest, diligent, pragmatic and efficient government.</span></p>

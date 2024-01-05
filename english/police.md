@@ -1,5 +1,7 @@
 # police
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/police.md)
+
 <p><span class="chinese">网络警察。</span><span class="english">Network Police.</span></p>
 
 <p><span class="chinese">艾警官！</span><span class="english">Moxa police officer!</span></p>

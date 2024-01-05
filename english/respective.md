@@ -1,5 +1,7 @@
 # respective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respective.md)
+
 <p><span class="chinese">不管她的年龄，琳达是应受尊敬的。</span><span class="english">Linda is respective in spite of her AGE.</span></p>
 
 <p><span class="chinese">两个小房间做成了他们各自的书房。</span><span class="english">Two cubbies make it their respective study.</span></p>

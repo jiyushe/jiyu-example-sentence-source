@@ -1,5 +1,7 @@
 # sociability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sociability.md)
+
 <p><span class="chinese">曲虫主要种群都具有较强的趋光性和群集性。</span><span class="english">The major species of pests had stronger photokinesis and sociability.</span></p>
 
 <p><span class="chinese">绅士阶层的秩序感、社会感和幸福感也是通过对自然景观的描述来表现。</span><span class="english">A sense of order, sociability and well-being was expressed through landscape.</span></p>

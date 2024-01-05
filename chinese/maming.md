@@ -1,5 +1,7 @@
 # 骂名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maming.md)
+
 <p><span class="chinese">日本将要背负骂名。</span><span class="english">Japan would get the blame.</span></p>
 
 <p><span class="chinese">两个战斗，但他们的魔法相撞，给他们留下千古骂名。</span><span class="english">The two battled, but their magic collided left them cursed.</span></p>

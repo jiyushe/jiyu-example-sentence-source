@@ -1,5 +1,7 @@
 # 顺口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunkou.md)
+
 <p><span class="chinese">这篇作文读起来很顺口。</span><span class="english">This composition reads well.</span></p>
 
 <p><span class="chinese">把蛋液过滤，蒸出来的茶碗蒸会更平滑顺口。</span><span class="english">Filter egg mixture so that it turns out to be smooth.</span></p>

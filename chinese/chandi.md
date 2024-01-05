@@ -1,5 +1,7 @@
 # 产地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chandi.md)
+
 <p><span class="chinese">大丈夫的出产地、领袖的制造中心。</span><span class="english">Makers of men, creators of leaders.</span></p>
 
 <p><span class="chinese">产地证是要自己做的吗？</span><span class="english">Certificate of origin to their to do?</span></p>

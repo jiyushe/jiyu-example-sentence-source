@@ -1,5 +1,7 @@
 # edwardian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edwardian.md)
+
 <p><span class="chinese">但是，之后，奥运会的整个过程一如爱德华的操场一般平静。</span><span class="english">But then the Games went off as peacefully as an Edwardian field day.</span></p>
 
 <p><span class="chinese">到多伦多访问卡萨罗马城堡就似回到了爱德华七世时代。</span><span class="english">A visit to Toronto's Grand Castle Estate is like setting back into the Edwardian Era.</span></p>

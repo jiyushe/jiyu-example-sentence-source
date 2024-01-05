@@ -1,5 +1,7 @@
 # 死信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sixin.md)
+
 <p><span class="chinese">不应创建日记或死信队列。</span><span class="english">You do not create a journal or dead-letter queue.</span></p>
 
 <p><span class="chinese">该消息会放入发送队列管理器的死信队列中。</span><span class="english">The message is placed in the sending queue manager's Dead Letter Queue.</span></p>

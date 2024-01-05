@@ -1,5 +1,7 @@
 # assembler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assembler.md)
+
 <p><span class="chinese">他们是装配工。</span><span class="english">They is assembler.</span></p>
 
 <p><span class="chinese">编译器或汇编器的输出。</span><span class="english">The output of a compiler or assembler.</span></p>

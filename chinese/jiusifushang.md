@@ -1,5 +1,7 @@
 # 救死扶伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiusifushang.md)
+
 <p><span class="chinese">救死扶伤是医生份内的工作。</span><span class="english">Saving lives is what doctors should do.</span></p>
 
 <p><span class="chinese">医生的神圣职责是救死扶伤。</span><span class="english">A physician's sacred duty is to heal the sick.</span></p>

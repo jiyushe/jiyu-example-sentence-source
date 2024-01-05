@@ -1,5 +1,7 @@
 # 忠良
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongliang.md)
+
 <p><span class="chinese">王华良，男，湖北省襄阳忠良工程机械公司董事长。</span><span class="english">Wang Hualiang, male, Xiangyang, Hubei Province churyo engineering machinery company Chairman.</span></p>
 
 <p><span class="chinese">为保护忠良的血脉，少林众僧宁死不屈，奋力抵抗。</span><span class="english">For the protection of ZhongLiang blood, shaolin the monk would die rather than surrender, strive to resist.</span></p>

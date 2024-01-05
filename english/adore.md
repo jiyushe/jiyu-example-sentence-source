@@ -1,5 +1,7 @@
 # adore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adore.md)
+
 <p><span class="chinese">我崇拜她！</span><span class="english">I adore her!</span></p>
 
 <p><span class="chinese">我崇拜你！</span><span class="english">I adore you!</span></p>

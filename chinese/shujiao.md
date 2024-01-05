@@ -1,5 +1,7 @@
 # 树胶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujiao.md)
+
 <p><span class="chinese">产树胶的树生长在热带地区。</span><span class="english">Gum trees grow in tropical areas.</span></p>
 
 <p><span class="chinese">阿拉伯树胶是纯天然的水合胶体。</span><span class="english">Gum Arabic is a natural hydrocolloid.</span></p>

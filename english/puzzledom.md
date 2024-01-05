@@ -1,5 +1,7 @@
 # puzzledom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puzzledom.md)
+
 <p><span class="chinese">现代道德哲学的困境突出地表现为“道”与“言”的冲突。</span><span class="english">The pungent conflict of "Dao" and language exhibits the puzzledom of the modern educational philosophy.</span></p>
 
 <p><span class="chinese">赵汀阳所谓的“自由的困境”，是建立在抽象理解的需要的无限性与资源的有限性基础上的。</span><span class="english">"The puzzledom of freedom" hold by Zhao Tingyang is based on the abstract understanding that infinite demands and finite resources.</span></p>

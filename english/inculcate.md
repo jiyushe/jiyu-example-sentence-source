@@ -1,5 +1,7 @@
 # inculcate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inculcate.md)
+
 <p><span class="chinese">他们未能谆谆教诲使学生们爱好知识。</span><span class="english">They fail to inculcate student with love of knowledge.</span></p>
 
 <p><span class="chinese">我们未能通过谆谆教诲使学生们热爱知识。</span><span class="english">We failed to inculcate students with love of knowledge.</span></p>

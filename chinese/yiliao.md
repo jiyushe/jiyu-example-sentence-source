@@ -1,5 +1,7 @@
 # 医疗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiliao.md)
+
 <p><span class="chinese">什么是整体医疗？</span><span class="english">What Is Holistic Medicine?</span></p>
 
 <p><span class="chinese">这就是医疗改革的内容。</span><span class="english">This is what reform is about.</span></p>

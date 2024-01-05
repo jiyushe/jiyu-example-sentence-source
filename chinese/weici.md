@@ -1,5 +1,7 @@
 # 为此
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weici.md)
+
 <p><span class="chinese">我告诉他们不用为此烦恼。</span><span class="english">I tell them not to bother.</span></p>
 
 <p><span class="chinese">小风为此伤透了心。</span><span class="english">Small wind therefore torn.</span></p>

@@ -1,5 +1,7 @@
 # 年资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianzi.md)
+
 <p><span class="chinese">并不会因为你年资高就会有工作了。</span><span class="english">Being a senior does not get you a job.</span></p>
 
 <p><span class="chinese">我们的分红结构以前是按年资算，现在是按表现算。</span><span class="english">Our bonus structure was based on seniority, but now it's performance-based.</span></p>

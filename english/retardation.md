@@ -1,5 +1,7 @@
 # retardation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retardation.md)
+
 <p><span class="chinese">组织膜是体内粉尘迁移的隔离阻滞带。</span><span class="english">Tissue membrane is the retardation cingulum of dust transference in vivo.</span></p>
 
 <p><span class="chinese">大多数唐氏综合症儿童有轻度到中度的弱智。</span><span class="english">Most children with Down syndrome have mild-to-moderate mental retardation.</span></p>

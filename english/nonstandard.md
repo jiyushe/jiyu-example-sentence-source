@@ -1,5 +1,7 @@
 # nonstandard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonstandard.md)
+
 <p><span class="chinese">其中一个不太标准的选项是“致命错误处理器”。</span><span class="english">One such nonstandard option is a fatal error handler.</span></p>
 
 <p><span class="chinese">我厂可承接非标及特型LED照明产品的加工订做。</span><span class="english">We may produce nonstandard and special size LED products.</span></p>

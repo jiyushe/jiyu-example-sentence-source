@@ -1,5 +1,7 @@
 # 五中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzhong.md)
+
 <p><span class="chinese">上周五中青旅收于22.59元。</span><span class="english">CYTS closed at 22.59 yuan Friday in Shanghai.</span></p>
 
 <p><span class="chinese">假设五中涉及到的,是些波尔的早期成就。</span><span class="english">And postulate number five is some of Bohr's early genius.</span></p>

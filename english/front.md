@@ -1,5 +1,7 @@
 # front 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/front.md)
+
 <p><span class="chinese">跳，蹦，向前。</span><span class="english">Skip, hop, front.</span></p>
 
 <p><span class="chinese">前两个按钮。</span><span class="english">Two-button front.</span></p>

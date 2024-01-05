@@ -1,5 +1,7 @@
 # unspoiled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unspoiled.md)
+
 <p><span class="chinese">带来全新而自然的一天。</span><span class="english">Bringing a new and unspoiled day.</span></p>
 
 <p><span class="chinese">它是欧洲最大的完全未遭破坏的陆地。</span><span class="english">It 's the largest, totally unspoiled area in Europe.</span></p>

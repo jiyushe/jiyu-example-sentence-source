@@ -1,5 +1,7 @@
 # playa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playa.md)
+
 <p><span class="chinese">因此我们选择了北卡门沙滩。</span><span class="english">That is why we have chosen North Playa del Carmen.</span></p>
 
 <p><span class="chinese">在普拉亚戴尔卡门的酒店好好放松吧。</span><span class="english">Relax at one of these great Playa del Carmen hotels.</span></p>

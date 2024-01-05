@@ -1,5 +1,7 @@
 # 遭殃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoyang.md)
+
 <p><span class="chinese">中国最近一直在遭殃。</span><span class="english">China has been suffering of late.</span></p>
 
 <p><span class="chinese">许多宠物因喂食过量而遭殃。</span><span class="english">Many pets are victims of overfeeding.</span></p>

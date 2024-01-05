@@ -1,5 +1,7 @@
 # unsubstantial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsubstantial.md)
+
 <p><span class="chinese">他双臂抱住的却是一个虚无漂渺的形象。</span><span class="english">His arms enclosed only on unsubstantial image.</span></p>
 
 <p><span class="chinese">最大的喜悦藏在非实质的事物里。</span><span class="english">Life's greatest joys are hidden in unsubstantial things.</span></p>

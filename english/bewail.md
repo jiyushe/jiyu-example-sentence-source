@@ -1,5 +1,7 @@
 # bewail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bewail.md)
+
 <p><span class="chinese">狂风为无叶的秃树哀悼几几。</span><span class="english">The winds bewail the leafless tree.</span></p>
 
 <p><span class="chinese">乌鸦吃死羊，先要哭一场。</span><span class="english">Carrion crows bewail the dead sheep and then eat them.</span></p>

@@ -1,5 +1,7 @@
 # 分内
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fennei_1.md)
+
 <p><span class="chinese">照顾她姨妈是她分内的事。</span><span class="english">It's her duty to look after her aunt.</span></p>
 
 <p><span class="chinese">校对20页是你分内之事。</span><span class="english">It is part of your duty to proof twenty pages.</span></p>

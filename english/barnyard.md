@@ -1,5 +1,7 @@
 # barnyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barnyard.md)
+
 <p><span class="chinese">我们也穿过了谷仓的大门。</span><span class="english">And through the barnyard gate.</span></p>
 
 <p><span class="chinese">在庭院里的火鸡，它说了什么呢？</span><span class="english">Turkey in the barnyard , what does he say?</span></p>

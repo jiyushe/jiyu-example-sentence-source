@@ -1,5 +1,7 @@
 # 粗细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuxi_1.md)
+
 <p><span class="chinese">改变线条的粗细和长度。</span><span class="english">Vary the thickness and length of the lines.</span></p>
 
 <p><span class="chinese">改进灯芯粗细后的测试纪录。</span><span class="english">Improvement wick thick thin after test record.</span></p>

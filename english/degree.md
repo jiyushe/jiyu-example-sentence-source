@@ -1,5 +1,7 @@
 # degree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degree.md)
+
 <p><span class="chinese">我获得理学士学位。</span><span class="english">I have a B.S.degree.</span></p>
 
 <p><span class="chinese">帖服度很好。</span><span class="english">Tiefu degree of good.</span></p>

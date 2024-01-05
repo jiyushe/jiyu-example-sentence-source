@@ -1,5 +1,7 @@
 # focal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/focal.md)
+
 <p><span class="chinese">什么原因导致局灶性癫痫发作？</span><span class="english">What Causes Seizure in Focal Epilepsy?</span></p>
 
 <p><span class="chinese">雅典卫城的缩写，是一种民主的象征。</span><span class="english">The Acropolis is the focal point of Athens.</span></p>

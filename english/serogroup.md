@@ -1,5 +1,7 @@
 # serogroup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serogroup.md)
+
 <p><span class="chinese">在绿豆上能结瘤，不属135血清型。</span><span class="english">The new group did not belong to 135 serogroup.</span></p>
 
 <p><span class="chinese">目的筛选和优化C群脑膜炎多糖的衍化工艺。</span><span class="english">Objective To compare and optimize the derivation technique of Serogroup C meningococcal polysaccharide.</span></p>

@@ -1,5 +1,7 @@
 # demagnetization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demagnetization.md)
+
 <p><span class="chinese">退磁曲线具有理想的方形度。</span><span class="english">The Demagnetization curve has a perfect squareness.</span></p>
 
 <p><span class="chinese">能承受超过2倍额定电流不退磁。</span><span class="english">Can withstand over 2 times rated current without demagnetization.</span></p>

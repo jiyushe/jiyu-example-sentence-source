@@ -1,5 +1,7 @@
 # magnesite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnesite.md)
+
 <p><span class="chinese">本文通过煅烧菱镁矿制备轻烧氧化镁。</span><span class="english">Light-burned magnesia is prepared by calcining magnesite.</span></p>
 
 <p><span class="chinese">菱镁矿是由橄榄岩风化形成的。</span><span class="english">The magnesite originated from the peridotite by weathering.</span></p>

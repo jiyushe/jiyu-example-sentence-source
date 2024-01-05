@@ -1,5 +1,7 @@
 # bandit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bandit.md)
+
 <p><span class="chinese">班迪特似乎改变了这种状况。</span><span class="english">Bandit seemed to change that.</span></p>
 
 <p><span class="chinese">你是说小红毛是真正的大盗？</span><span class="english">Are you saying Red is the Bandit?</span></p>

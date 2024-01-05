@@ -1,5 +1,7 @@
 # headland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headland.md)
+
 <p><span class="chinese">该舰队停在岬角外。</span><span class="english">The fleet lay off the headland.</span></p>
 
 <p><span class="chinese">嶙峋的岬角突入海中…</span><span class="english">A rocky headland jutted into the sea.</span></p>

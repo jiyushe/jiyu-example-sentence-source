@@ -1,5 +1,7 @@
 # subside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subside.md)
+
 <p><span class="chinese">但这些时刻平息下来。</span><span class="english">But those moments subside.</span></p>
 
 <p><span class="chinese">酒渣慢慢地沉淀下来。</span><span class="english">The lees of wine gradually subside.</span></p>

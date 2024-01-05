@@ -1,5 +1,7 @@
 # inconclusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconclusive.md)
+
 <p><span class="chinese">这是常用的磁共振成像结果时，已经有定论。</span><span class="english">It is often used when MRI results have been inconclusive.</span></p>
 
 <p><span class="chinese">因而，我们必须依靠间接和非决定性的证据。</span><span class="english">For that we have to rely on indirect and inconclusive evidence.</span></p>

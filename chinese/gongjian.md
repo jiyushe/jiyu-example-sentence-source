@@ -1,5 +1,7 @@
 # 工件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongjian.md)
+
 <p><span class="chinese">存在已基线化的工件。</span><span class="english">Baselined work products exist.</span></p>
 
 <p><span class="chinese">管理您的资产和工件。</span><span class="english">Manage your assets and artifacts.</span></p>

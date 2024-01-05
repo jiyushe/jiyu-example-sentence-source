@@ -1,5 +1,7 @@
 # 男工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nangong.md)
+
 <p><span class="chinese">男工们感谢亨利的帮助。</span><span class="english">The men thanked John Henry for his help.</span></p>
 
 <p><span class="chinese">该公司下周要再雇些男工。</span><span class="english">The company 's hiring more men next week.</span></p>

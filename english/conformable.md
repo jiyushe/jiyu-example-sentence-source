@@ -1,5 +1,7 @@
 # conformable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conformable.md)
+
 <p><span class="chinese">适合于空间机器人的应用要求。</span><span class="english">And is conformable for space robot application.</span></p>
 
 <p><span class="chinese">这男孩顺从他父亲的意志。</span><span class="english">The boy was conformable to his father's wishes.</span></p>

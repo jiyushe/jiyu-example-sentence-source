@@ -1,5 +1,7 @@
 # 称号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenghao.md)
+
 <p><span class="chinese">他荣获1973年冠军称号。</span><span class="english">He won the crown in1973.</span></p>
 
 <p><span class="chinese">她于一九九○年获得“冠军”称号。</span><span class="english">She won the crown in 1990.</span></p>

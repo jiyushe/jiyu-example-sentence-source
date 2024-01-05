@@ -1,5 +1,7 @@
 # 景仰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyang_1.md)
+
 <p><span class="chinese">谁是你最景仰的人？</span><span class="english">Who is the person you most looke up to?</span></p>
 
 <p><span class="chinese">我正切磋去巴黎渴念景仰。</span><span class="english">I'm thinking in terms of a visit to Paris.</span></p>

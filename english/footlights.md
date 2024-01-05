@@ -1,5 +1,7 @@
 # footlights
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footlights.md)
+
 <p><span class="chinese">现在他朝脚灯直冲过来。</span><span class="english">He now shot down to the footlights.</span></p>
 
 <p><span class="chinese">她的举止带有职业演员的味道。</span><span class="english">Her manners smell of the footlights.</span></p>

@@ -1,5 +1,7 @@
 # stadia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stadia.md)
+
 <p><span class="chinese">斯塔德是一种希腊的长度单位，大约有一百九十二米。</span><span class="english">Stadia is a Greek measurment and is about 192 meters long.</span></p>
 
 <p><span class="chinese">我们有世界顶级的足球体育场的设计实践。</span><span class="english">We represent the world's best practice in football stadia design.</span></p>

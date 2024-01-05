@@ -1,5 +1,7 @@
 # digression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digression.md)
+
 <p><span class="chinese">这都是题外话。</span><span class="english">All this is a digression.</span></p>
 
 <p><span class="chinese">呵呵，我们扯得有点远了。</span><span class="english">Okay, too long of a digression.</span></p>

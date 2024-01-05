@@ -1,5 +1,7 @@
 # 比较文学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bijiaowenxue.md)
+
 <p><span class="chinese">他的专业是比较文学。</span><span class="english">He majored in comparative literature.</span></p>
 
 <p><span class="chinese">对于中西比较文学来说，危机既是挑战也是机遇。</span><span class="english">The crisis is not only a challenge, but also a chance.</span></p>

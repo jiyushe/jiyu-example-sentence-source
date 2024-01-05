@@ -1,5 +1,7 @@
 # Creole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creole.md)
+
 <p><span class="chinese">什么是本地话、洋泾浜、混合语？</span><span class="english">What is vernacular? Pidgin? Creole?</span></p>
 
 <p><span class="chinese">椰丝粉团是一道克里奥尔菜。</span><span class="english">Coconut Rice Balls is a Creole dish.</span></p>

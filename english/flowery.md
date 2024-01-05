@@ -1,5 +1,7 @@
 # flowery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flowery.md)
+
 <p><span class="chinese">我特别喜欢这件花裙。</span><span class="english">I especially like this flowery skirt.</span></p>
 
 <p><span class="chinese">我特别喜欢这件花纹短裙。</span><span class="english">I especially like this flowery skirts.</span></p>

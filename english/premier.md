@@ -1,5 +1,7 @@
 # premier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premier.md)
+
 <p><span class="chinese">周总理曾经常在这里办公。</span><span class="english">Premier Zhou used to work here.</span></p>
 
 <p><span class="chinese">周总理曾经常在那里办公。</span><span class="english">Premier Zhou employ to stay ITe.</span></p>

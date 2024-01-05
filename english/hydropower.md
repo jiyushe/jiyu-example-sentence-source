@@ -1,5 +1,7 @@
 # hydropower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydropower.md)
+
 <p><span class="chinese">二滩水电工程项目是成功的。</span><span class="english">The Ertan Hydropower Project is successful.</span></p>
 
 <p><span class="chinese">他说，水电受到正在干涸的河流的限制。</span><span class="english">Hydropower is limited by rivers running dry, he says.</span></p>

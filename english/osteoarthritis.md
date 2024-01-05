@@ -1,5 +1,7 @@
 # osteoarthritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteoarthritis.md)
+
 <p><span class="chinese">有证据表明，遗传因素在骨性关节炎。</span><span class="english">There is evidence of a genetic factor in osteoarthritis.</span></p>
 
 <p><span class="chinese">骨性关节炎几乎是必然的命运，最发人。</span><span class="english">Osteoarthritis is almost the inevitable fate of most fat people.</span></p>

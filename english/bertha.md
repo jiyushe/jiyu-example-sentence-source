@@ -1,5 +1,7 @@
 # bertha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bertha.md)
+
 <p><span class="chinese">伯莎·乔金斯大约生于1958年。</span><span class="english">Bertha Jorkins was born c. 1958.</span></p>
 
 <p><span class="chinese">伯莎喜爱冬天的安宁。</span><span class="english">Bertha loved the calm of winter.</span></p>

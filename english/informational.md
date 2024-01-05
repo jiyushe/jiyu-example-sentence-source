@@ -1,5 +1,7 @@
 # informational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/informational.md)
+
 <p><span class="chinese">信息性和交互性站点如何区分</span><span class="english">How informational and interactional sites differ</span></p>
 
 <p><span class="chinese">镜子是一个有关信息回路的妙喻。</span><span class="english">The mirror is a clever metaphor for informational circuits.</span></p>

@@ -1,5 +1,7 @@
 # understaffed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/understaffed.md)
+
 <p><span class="chinese">他说，在动物卫生服务方面人员不足，资金缺乏。</span><span class="english">Animal health services are understaffed and underbudgeted, he said.</span></p>
 
 <p><span class="chinese">由于一直都短缺人手并且资金不足，你的团队拼命努力才能勉强支撑。</span><span class="english">Chronically understaffed and under-funded, your team struggles to stay afloat.</span></p>

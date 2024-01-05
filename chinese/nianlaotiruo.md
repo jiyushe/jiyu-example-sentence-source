@@ -1,5 +1,7 @@
 # 年老体弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianlaotiruo.md)
+
 <p><span class="chinese">一个年老体弱的人，除了屈服，还能怎样？</span><span class="english">What could a weak old man dobut yield?</span></p>
 
 <p><span class="chinese">年老体弱的人容易患流感。</span><span class="english">The old and weak people easily catch the flu.</span></p>

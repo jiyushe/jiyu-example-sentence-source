@@ -1,5 +1,7 @@
 # johanna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/johanna.md)
+
 <p><span class="chinese">约翰娜来自德国。</span><span class="english">Johanna is from Germany.</span></p>
 
 <p><span class="chinese">约翰娜被列入参赛的名单。</span><span class="english">Johanna was down for the competition.</span></p>

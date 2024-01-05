@@ -1,5 +1,7 @@
 # nucleic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucleic.md)
+
 <p><span class="chinese">核酶是一类具有催化功能的核酸分子。</span><span class="english">Ribozyme is a kind of catalytic nucleic acid molecules.</span></p>
 
 <p><span class="chinese">核酸部分水解形成的苷。</span><span class="english">A glycoside formed by partial hydrolysis of a nucleic acid.</span></p>

@@ -1,5 +1,7 @@
 # boondocks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boondocks.md)
+
 <p><span class="chinese">“森林地带”经常处理一些种族和社会公平的案例。</span><span class="english">"The Boondocks" often deals with issues of race and social justice.</span></p>
 
 <p><span class="chinese">有一个叫森林地带的节目是根据报纸上的连环画而拍的。</span><span class="english">One of the shows, "The Boondocks , " is based on a newspaper comic strip.</span></p>

@@ -1,5 +1,7 @@
 # spree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spree.md)
+
 <p><span class="chinese">施普雷河和哈韦尔河流经该市。</span><span class="english">Vaclav Havel and Spree River and the river through the city.</span></p>
 
 <p><span class="chinese">推动票房收入大增是大规模的电影院建设潮。</span><span class="english">Driving this growth is a massive movie-theater-building spree.</span></p>

@@ -1,5 +1,7 @@
 # 迅猛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunmeng.md)
+
 <p><span class="chinese">该产业正在迅猛增长。</span><span class="english">This industry is growing phenomenally.</span></p>
 
 <p><span class="chinese">关键是要“多次出招，招招迅猛”。</span><span class="english">The key is to "hit hard and hit often."</span></p>

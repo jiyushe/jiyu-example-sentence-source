@@ -1,5 +1,7 @@
 # 全额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quane.md)
+
 <p><span class="chinese">我要全额退费。</span><span class="english">I want a full refund.</span></p>
 
 <p><span class="chinese">我想要全额奖学金。</span><span class="english">I'd like to get the full scholarship.</span></p>

@@ -1,5 +1,7 @@
 # jesus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jesus.md)
+
 <p><span class="chinese">耶酥是谁？</span><span class="english">Who Was Jesus?</span></p>
 
 <p><span class="chinese">请回到耶稣里面来。</span><span class="english">Come back to Jesus.</span></p>

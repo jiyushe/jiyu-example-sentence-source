@@ -1,5 +1,7 @@
 # 荒无人烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangwurenyan.md)
+
 <p><span class="chinese">因此那是荒无人烟的地区。</span><span class="english">So it is a very desolate area.</span></p>
 
 <p><span class="chinese">基本上是在一个荒无人烟的地方了。</span><span class="english">It's in the middle of nowhere, basically.</span></p>

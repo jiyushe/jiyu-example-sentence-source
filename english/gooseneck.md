@@ -1,5 +1,7 @@
 # gooseneck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gooseneck.md)
+
 <p><span class="chinese">图1带有鹅颈汲取管的钢瓶。</span><span class="english">Fig. 1 Cylinder with gooseneck dip tube.</span></p>
 
 <p><span class="chinese">这样鹅颈管就伸到了液体里面。</span><span class="english">This puts the gooseneck into the liquid.</span></p>

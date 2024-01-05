@@ -1,5 +1,7 @@
 # ceremonious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceremonious.md)
+
 <p><span class="chinese">我为什么要恭顺守礼呢？</span><span class="english">Why should I venerate and be ceremonious?</span></p>
 
 <p><span class="chinese">她对客人的款待过于拘礼了。</span><span class="english">Her attentions to the guests were too ceremonious.</span></p>

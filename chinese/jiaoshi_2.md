@@ -1,5 +1,7 @@
 # 教室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoshi_2.md)
+
 <p><span class="chinese">它是音乐教室。</span><span class="english">It's the music room.</span></p>
 
 <p><span class="chinese">艾米在音乐教室。</span><span class="english">Amy's in the music room.</span></p>

@@ -1,5 +1,7 @@
 # slob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slob.md)
+
 <p><span class="chinese">他偶尔不修边幅。</span><span class="english">He is a slob occasionally.</span></p>
 
 <p><span class="chinese">像我们之中的流浪汉。</span><span class="english">Just a slob like one of us.</span></p>

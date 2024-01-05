@@ -1,5 +1,7 @@
 # 预制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhi_5.md)
+
 <p><span class="chinese">使用预制模板。</span><span class="english">Use premade templates.</span></p>
 
 <p><span class="chinese">预制的孔使得标记简单方便。</span><span class="english">Preformed hole allows for convenient tagging.</span></p>

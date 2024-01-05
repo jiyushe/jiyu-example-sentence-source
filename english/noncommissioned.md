@@ -1,5 +1,7 @@
 # noncommissioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noncommissioned.md)
+
 <p><span class="chinese">不对。我是士官。</span><span class="english">I am a noncommissioned officer.</span></p>
 
 <p><span class="chinese">你是军官，对吗？</span><span class="english">No. I am a noncommissioned officer.</span></p>

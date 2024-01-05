@@ -1,5 +1,7 @@
 # compliance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compliance.md)
+
 <p><span class="chinese">换言之，为什么不需要评判合规性？</span><span class="english">IOW, why _not_ assess compliance?</span></p>
 
 <p><span class="chinese">检验命名标准的依从性</span><span class="english">Validate naming standard compliance</span></p>

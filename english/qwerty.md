@@ -1,5 +1,7 @@
 # qwerty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qwerty.md)
+
 <p><span class="chinese">这是一个标准的QWERTY虚拟键盘。</span><span class="english">It’s a standard virtual QWERTY keyboard.</span></p>
 
 <p><span class="chinese">这台计算机有标准的英文键盘。</span><span class="english">The computer has a normal qwerty keyboard.</span></p>

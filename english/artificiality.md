@@ -1,5 +1,7 @@
 # artificiality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artificiality.md)
+
 <p><span class="chinese">你看到的所有景象都是由人造物制作的。</span><span class="english">All of sights of you see are made by artificiality.</span></p>
 
 <p><span class="chinese">自然，道，人为，礼仪等道德标准。</span><span class="english">Moral criteria are nature, the Tao, artificiality and manner.</span></p>

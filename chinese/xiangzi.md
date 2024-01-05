@@ -1,5 +1,7 @@
 # 巷子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzi.md)
+
 <p><span class="chinese">好酒不怕巷子深。</span><span class="english">Good wine needs no bush.</span></p>
 
 <p><span class="chinese">在那腌臜巷子的腌臜一端</span><span class="english">At the dirty end of Dirty Lane</span></p>

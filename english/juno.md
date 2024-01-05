@@ -1,5 +1,7 @@
 # juno
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juno.md)
+
 <p><span class="chinese">“朱诺”可以回答这个问题。</span><span class="english">Juno could answer that question.</span></p>
 
 <p><span class="chinese">但是朱诺报复之心不死。</span><span class="english">But the vengeance of Juno was not yet satiated.</span></p>

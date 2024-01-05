@@ -1,5 +1,7 @@
 # strove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strove.md)
+
 <p><span class="chinese">我没有和任何人争过。</span><span class="english">I strove with none.</span></p>
 
 <p><span class="chinese">的他依然，依然奋斗。</span><span class="english">He still, still strove.</span></p>

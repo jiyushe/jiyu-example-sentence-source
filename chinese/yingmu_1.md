@@ -1,5 +1,7 @@
 # 硬木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingmu_1.md)
+
 <p><span class="chinese">取自洋槐等树木的硬木。</span><span class="english">Fir or pine wood.</span></p>
 
 <p><span class="chinese">同时，硬木吸收冲击震动的能力也更强。</span><span class="english">Hard wood is more shock absorbent.</span></p>

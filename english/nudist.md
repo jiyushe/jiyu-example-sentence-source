@@ -1,5 +1,7 @@
 # nudist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nudist.md)
+
 <p><span class="chinese">你认为自己是一个裸体主义者吗？</span><span class="english">So would you call yourself a nudist?</span></p>
 
 <p><span class="chinese">在战壕中，SUNDEK的女战士们在奋力对抗赤裸裸的烈焰！</span><span class="english">In the trenches, SUNDEK soldiers resist under nudist fire.</span></p>

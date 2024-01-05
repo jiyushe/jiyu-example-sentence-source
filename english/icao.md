@@ -1,5 +1,7 @@
 # icao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icao.md)
+
 <p><span class="chinese">个字母的ICAO航空公司代码。</span><span class="english">A letter of ICAO airline designator code.</span></p>
 
 <p><span class="chinese">欲了解有关此卡使用的信息，请咨询ICAO网站。</span><span class="english">For further information on the use of this card, please consult the ICAO website.</span></p>

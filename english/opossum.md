@@ -1,5 +1,7 @@
 # opossum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opossum.md)
+
 <p><span class="chinese">我享受这样难道只是装装。</span><span class="english">Do I enjoy it just opossum.</span></p>
 
 <p><span class="chinese">这是负鼠的骨头。</span><span class="english">Here is the one of the opossum.</span></p>

@@ -1,5 +1,7 @@
 # aspen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspen.md)
+
 <p><span class="chinese">白杨树的树叶转变为秋天的颜色。</span><span class="english">An aspen leaf turning fall colors.</span></p>
 
 <p><span class="chinese">买苏木江·阿斯木说。</span><span class="english">Sum to buy the Aspen wood Jiang said.</span></p>

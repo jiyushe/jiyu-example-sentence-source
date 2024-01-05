@@ -1,5 +1,7 @@
 # loi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loi.md)
+
 <p><span class="chinese">隔火层包带所用材料应具有较高的氧指数。</span><span class="english">The LOI of tapes shall be relatively high.</span></p>
 
 <p><span class="chinese">买方向卖方出具意向书和保密协议。</span><span class="english">Buyer issues LOI along with NCND to the Seller.</span></p>

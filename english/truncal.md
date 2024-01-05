@@ -1,5 +1,7 @@
 # truncal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truncal.md)
+
 <p><span class="chinese">树干端直，树皮光滑，初灰色，后转深。</span><span class="english">Truncal end is straight, bark is smooth, first gray, turn after deep.</span></p>
 
 <p><span class="chinese">迷走神经干切断术后的腹泻发生率高。</span><span class="english">The high incidence of diarrhea was encountered following truncal vagotomy.</span></p>

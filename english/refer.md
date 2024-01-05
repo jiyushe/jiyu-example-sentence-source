@@ -1,5 +1,7 @@
 # refer 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refer.md)
+
 <p><span class="chinese">你。指的，我爱罗。</span><span class="english">You. Refer to, I love.</span></p>
 
 <p><span class="chinese">首先看看学生手册。</span><span class="english">First refer to this handbook.</span></p>

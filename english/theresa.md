@@ -1,5 +1,7 @@
 # theresa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theresa.md)
+
 <p><span class="chinese">谢谢特里萨。</span><span class="english">Thanks Theresa.</span></p>
 
 <p><span class="chinese">特丽萨?伯恩斯坦是一位艺术家。</span><span class="english">Theresa Bernstein was an artist.</span></p>

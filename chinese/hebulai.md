@@ -1,5 +1,7 @@
 # 合不来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hebulai.md)
+
 <p><span class="chinese">他们的性格就是合不来。</span><span class="english">Their characters just don't mesh.</span></p>
 
 <p><span class="chinese">不知怎的，我和他就是合不来。</span><span class="english">He and I are somehow out of synch.</span></p>

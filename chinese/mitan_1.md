@@ -1,5 +1,7 @@
 # 密谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mitan_1.md)
+
 <p><span class="chinese">昨晚你们有一次密谈吗？</span><span class="english">Did you have a secret talk last night?</span></p>
 
 <p><span class="chinese">他与顾问们在私室里密谈。</span><span class="english">He closeted himself with his councilors.</span></p>

@@ -1,5 +1,7 @@
 # 花圈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaquan.md)
+
 <p><span class="chinese">怎么了?没戴橡树叶的花圈?。</span><span class="english">What?No wreath of oak leaves?</span></p>
 
 <p><span class="chinese">大概是在装花圈哪。</span><span class="english">Stowing in the wreaths probably.</span></p>

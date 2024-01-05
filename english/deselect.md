@@ -1,5 +1,7 @@
 # deselect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deselect.md)
+
 <p><span class="chinese">在退出该视图以前，请取消选定行。</span><span class="english">Before leaving the view, deselect the selected row.</span></p>
 
 <p><span class="chinese">取消生成选项，因为没有必要。</span><span class="english">Deselect generation options, as they are not necessary.</span></p>

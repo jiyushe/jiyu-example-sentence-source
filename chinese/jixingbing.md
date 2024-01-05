@@ -1,5 +1,7 @@
 # 急性病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixingbing.md)
+
 <p><span class="chinese">肺炎是一种急性病。</span><span class="english">Pneumonia is an acute disease.</span></p>
 
 <p><span class="chinese">这种进行性脑部疾病可以导致急性病导致记忆力丧失。</span><span class="english">This progressive brain disease can lead to acute and selected memory loss.</span></p>

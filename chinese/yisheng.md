@@ -1,5 +1,7 @@
 # 一生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yisheng.md)
+
 <p><span class="chinese">彼得虚度了一生。</span><span class="english">Peter is a teacher.</span></p>
 
 <p><span class="chinese">他有着坎坷的一生。</span><span class="english">He has a bumpy life.</span></p>

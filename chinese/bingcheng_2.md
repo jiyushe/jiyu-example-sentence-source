@@ -1,5 +1,7 @@
 # 秉承
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingcheng_2.md)
+
 <p><span class="chinese">这部小说秉承了他一贯的沉抑风格。</span><span class="english">Door-to-door service is the consistent style of our shop.</span></p>
 
 <p><span class="chinese">我住的旅馆也秉承了某些古老的惰性。</span><span class="english">My hotel, too, had absorbed some of this ancient inertia.</span></p>

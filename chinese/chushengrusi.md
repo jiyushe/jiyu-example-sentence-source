@@ -1,5 +1,7 @@
 # 出生入死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushengrusi.md)
+
 <p><span class="chinese">我们的记者经常出生入死。</span><span class="english">Our journalists are constantly at risk of death.</span></p>
 
 <p><span class="chinese">为了他的祖国他愿意出生入死。</span><span class="english">He is willing to die for the sake of his country.</span></p>

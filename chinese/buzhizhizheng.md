@@ -1,5 +1,7 @@
 # 不治之症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhizhizheng.md)
+
 <p><span class="chinese">这是一种不治之症。</span><span class="english">There is no cure.</span></p>
 
 <p><span class="chinese">他得了不治之症。</span><span class="english">He got an incurable disease.</span></p>

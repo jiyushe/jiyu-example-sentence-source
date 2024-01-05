@@ -1,5 +1,7 @@
 # loft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loft.md)
+
 <p><span class="chinese">他小时候睡在阁楼上。</span><span class="english">He slept in a loft as a boy.</span></p>
 
 <p><span class="chinese">卧室里有一个小隔层。</span><span class="english">The bedroom has a sleeping loft.</span></p>

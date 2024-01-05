@@ -1,5 +1,7 @@
 # longest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longest.md)
+
 <p><span class="chinese">天下没有不散的盛筵。</span><span class="english">The longest day has an end.</span></p>
 
 <p><span class="chinese">句子可以无限延长</span><span class="english">There's no longest sentence.</span></p>

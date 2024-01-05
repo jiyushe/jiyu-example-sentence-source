@@ -1,5 +1,7 @@
 # 田野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianye_1.md)
+
 <p><span class="chinese">在田野上奔跑。</span><span class="english">Running ober the fields.</span></p>
 
 <p><span class="chinese">田野穿上绯红色的衣袍。</span><span class="english">The field a scarlet gown.</span></p>

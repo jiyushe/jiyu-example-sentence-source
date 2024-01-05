@@ -1,5 +1,7 @@
 # funnel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/funnel.md)
+
 <p><span class="chinese">漏斗设计组。</span><span class="english">The Funnel Design Group.</span></p>
 
 <p><span class="chinese">一个玻璃漏斗架在采集罐上。</span><span class="english">A glass funnel is on top of that.</span></p>

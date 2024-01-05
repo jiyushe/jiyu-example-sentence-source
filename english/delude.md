@@ -1,5 +1,7 @@
 # delude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delude.md)
+
 <p><span class="chinese">你们知道我们是凭发卖货样发卖茶叶的。</span><span class="english">You know we delude our tea according to our samples.</span></p>
 
 <p><span class="chinese">住在美国麻州安多佛的自由作家。</span><span class="english">Cathryn M. Delude is a freelance writer based in Andover, Mass.</span></p>

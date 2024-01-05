@@ -1,5 +1,7 @@
 # renunciation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renunciation.md)
+
 <p><span class="chinese">出离心是什么呢？它和幸运又有什么关系？</span><span class="english">What is renunciation mind? How does it fit in luck?</span></p>
 
 <p><span class="chinese">总起来说，她对这二者的态度是一种“扬弃”。</span><span class="english">Her attitude toward them is both renunciation and reception.</span></p>

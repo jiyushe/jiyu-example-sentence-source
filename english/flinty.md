@@ -1,5 +1,7 @@
 # flinty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flinty.md)
+
 <p><span class="chinese">一燧石铺成的窄道在这短斜坡上蜿蜒上升。</span><span class="english">A narrow and flinty grand rue wound up a short incline.</span></p>
 
 <p><span class="chinese">今天，改革正开始触及坚硬的内核。</span><span class="english">Today, the innovation begin to touch the flinty kernel.</span></p>

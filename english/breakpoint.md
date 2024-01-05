@@ -1,5 +1,7 @@
 # breakpoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breakpoint.md)
+
 <p><span class="chinese">首先，在代码中创建一个断点。</span><span class="english">First, create a breakpoint in our code.</span></p>
 
 <p><span class="chinese">表示中断点的类型或状态。</span><span class="english">Indicatesthe type or state of a breakpoint.</span></p>

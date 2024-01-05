@@ -1,5 +1,7 @@
 # plot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plot.md)
+
 <p><span class="chinese">我的那块地已经耙过了。</span><span class="english">My plot has harrowed.</span></p>
 
 <p><span class="chinese">你可以计谋并做计划。</span><span class="english">You can plot and plan.</span></p>

@@ -1,5 +1,7 @@
 # 庸才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongcai.md)
+
 <p><span class="chinese">这家公司淘汰庸才。</span><span class="english">The company abhors mediocrity.</span></p>
 
 <p><span class="chinese">你最后会成为富有的庸才。</span><span class="english">You'll wind up a rich mediocrity.</span></p>

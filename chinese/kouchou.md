@@ -1,5 +1,7 @@
 # 口臭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouchou.md)
+
 <p><span class="chinese">他有口臭。</span><span class="english">He has bad breath.</span></p>
 
 <p><span class="chinese">有没有口臭和狐臭呀？</span><span class="english">Have halitosis and body odor?</span></p>

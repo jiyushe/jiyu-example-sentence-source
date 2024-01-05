@@ -1,5 +1,7 @@
 # belligerence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belligerence.md)
+
 <p><span class="chinese">好战的态度无法赢得这种尊重。</span><span class="english">This respect cannot be earned through belligerence.</span></p>
 
 <p><span class="chinese">她的日益增长的好战性使她和她的老朋友们疏远了。</span><span class="english">Her increasing belligerence alienated her from her old friends.</span></p>

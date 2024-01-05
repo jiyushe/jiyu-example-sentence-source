@@ -1,5 +1,7 @@
 # mercantile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercantile.md)
+
 <p><span class="chinese">在芝加哥商业交易所？</span><span class="english">At the Chicago Mercantile Exchange?</span></p>
 
 <p><span class="chinese">旧金山和纽约是美国的重要商港。</span><span class="english">San Francisco and New York are important mercantile ports in America.</span></p>

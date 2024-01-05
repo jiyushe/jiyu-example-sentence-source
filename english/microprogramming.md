@@ -1,5 +1,7 @@
 # microprogramming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microprogramming.md)
+
 <p><span class="chinese">这保证了IBM可以很容易的修复某个领域中的微程序设计缺陷。</span><span class="english">This permitted IBM to easily repair microprogramming defects in the field.</span></p>
 
 <p><span class="chinese">讨论了微程序控制的必要性。</span><span class="english">The necessity of adopting microprogramming techniques in the BIU is discussed.</span></p>

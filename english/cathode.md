@@ -1,5 +1,7 @@
 # cathode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cathode.md)
+
 <p><span class="chinese">最后讨论一下等离子体阴极电子枪。</span><span class="english">To discuss plasma cathode guns at last.</span></p>
 
 <p><span class="chinese">电池的阴极为铅，阳极为铜。</span><span class="english">The cathode is lead and the anode is copper.</span></p>

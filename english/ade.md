@@ -1,5 +1,7 @@
 # ade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ade.md)
+
 <p><span class="chinese">这窗子是由玻璃制成的。</span><span class="english">The window ism ade of glass.</span></p>
 
 <p><span class="chinese">它们乃至还用雪堆了一只小猫。</span><span class="english">They even mcraigslist ade a snowcat.</span></p>

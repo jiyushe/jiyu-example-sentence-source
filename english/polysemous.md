@@ -1,5 +1,7 @@
 # polysemous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polysemous.md)
+
 <p><span class="chinese">本系统还利用模糊集来处理多义词的问题。</span><span class="english">In addition, we process the polysemous problem using rough sets.</span></p>
 
 <p><span class="chinese">一个词的各个意义，是层积状，并不处在同一层面上。</span><span class="english">The meanings of a polysemous word are in the structure of different tiers.</span></p>

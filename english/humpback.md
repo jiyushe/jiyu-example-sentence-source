@@ -1,5 +1,7 @@
 # humpback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humpback.md)
+
 <p><span class="chinese">用中脚尖旋转着的青春期驼背鲸。</span><span class="english">An adolescent humpback whale in mid-pirouette.</span></p>
 
 <p><span class="chinese">驼背鲸妈妈仍然爱着她的白化病宝宝。</span><span class="english">This humpback mother whale still loves her freaky albino baby.</span></p>

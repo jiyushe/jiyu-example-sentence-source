@@ -1,5 +1,7 @@
 # centrifuge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centrifuge.md)
+
 <p><span class="chinese">这是个离心机。</span><span class="english">It's a centrifuge.</span></p>
 
 <p><span class="chinese">这就是那台离心机。</span><span class="english">This is that centrifuge.</span></p>

@@ -1,5 +1,7 @@
 # escalate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escalate.md)
+
 <p><span class="chinese">所以别让你们的差异升级为公开战争。</span><span class="english">So don't let your differences escalate into open war.</span></p>
 
 <p><span class="chinese">甚至有可能会演变成另一场核子战争。</span><span class="english">It even has the potential to escalate into a nuclear war.</span></p>

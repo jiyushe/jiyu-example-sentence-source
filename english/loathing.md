@@ -1,5 +1,7 @@
 # loathing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loathing.md)
+
 <p><span class="chinese">我的厌倦与那缓慢的暮色在争辩。</span><span class="english">My loathing wrestles with the slow twilights.</span></p>
 
 <p><span class="chinese">我为他感到最深的轻蔑和厌憎。</span><span class="english">I feel the deepest contempt and loathing for him.</span></p>

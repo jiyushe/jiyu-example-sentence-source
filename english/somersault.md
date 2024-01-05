@@ -1,5 +1,7 @@
 # somersault
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somersault.md)
+
 <p><span class="chinese">在海里翻一个跟斗？</span><span class="english">Turn a somersault in the sea.</span></p>
 
 <p><span class="chinese">杂技演员翻了个筋斗。</span><span class="english">The acrobat turned a somersault.</span></p>

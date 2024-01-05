@@ -1,5 +1,7 @@
 # sonication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sonication.md)
+
 <p><span class="chinese">随后，染色质从细胞核中分离并进行超声打断。</span><span class="english">Subsequently, chromatin is isolated from nuclei and subjected to sonication.</span></p>
 
 <p><span class="chinese">超声处理不仅打碎了溶酶体的膜，还从膜上释放出某些物质。</span><span class="english">Sonication not only breaks lysosomal membranes but also releases some materials from the membrane.</span></p>

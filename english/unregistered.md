@@ -1,5 +1,7 @@
 # unregistered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unregistered.md)
+
 <p><span class="chinese">未注册软件只能使用10天。</span><span class="english">Unregistered software can only be used for 10 days.</span></p>
 
 <p><span class="chinese">农村黑车何时寿终正寝?。</span><span class="english">When will unregistered vehicle disappear in countryside?</span></p>

@@ -1,5 +1,7 @@
 # demure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demure.md)
+
 <p><span class="chinese">它娴静端庄却又性感十足。</span><span class="english">It's demure yet very sexy.</span></p>
 
 <p><span class="chinese">她冲他娴静地笑了笑。</span><span class="english">She gave him a demure smile.</span></p>

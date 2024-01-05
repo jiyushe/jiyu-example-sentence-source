@@ -1,5 +1,7 @@
 # milkman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milkman.md)
+
 <p><span class="chinese">他是个送奶工。</span><span class="english">He is a milkman.</span></p>
 
 <p><span class="chinese">我也是，送奶先生。</span><span class="english">Neither do I, Mr. Milkman.</span></p>

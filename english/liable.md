@@ -1,5 +1,7 @@
 # liable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liable.md)
+
 <p><span class="chinese">那种玻璃易破。</span><span class="english">That glass is liable to crack.</span></p>
 
 <p><span class="chinese">我们都易反错误。</span><span class="english">We are liable to make mistakes.</span></p>

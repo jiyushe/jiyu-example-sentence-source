@@ -1,5 +1,7 @@
 # 矿柱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangzhu_1.md)
+
 <p><span class="chinese">您可以放置一个诡雷在泰矿柱上。</span><span class="english">You can plant a Booby Trap on a Tiberium Spike.</span></p>
 
 <p><span class="chinese">小矿房、小矿柱的房柱法。</span><span class="english">Room-and pillar mining method with small room and pillar.</span></p>

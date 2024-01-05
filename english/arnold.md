@@ -1,5 +1,7 @@
 # arnold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arnold.md)
+
 <p><span class="chinese">阿诺德是我见过的最笨的人。</span><span class="english">Arnold is a blockhead if I ever saw one.</span></p>
 
 <p><span class="chinese">阿诺德是我见过的非常笨的人。</span><span class="english">Arnold is a blockhead if I ever saw one.</span></p>

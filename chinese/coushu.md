@@ -1,5 +1,7 @@
 # 凑数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/coushu.md)
+
 <p><span class="chinese">有一个南郭先生，本来不会吹竽，也混在中间凑数。</span><span class="english">He would order 300 musicians at a time to play the Yu for him.</span></p>
 
 <p><span class="chinese">我们不会为了凑数而随意购买球员。</span><span class="english">We don't want to bring anyone in just for the sake of bringing.</span></p>

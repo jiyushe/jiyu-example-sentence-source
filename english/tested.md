@@ -1,5 +1,7 @@
 # tested
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tested.md)
+
 <p><span class="chinese">他们的信仰接受考验。</span><span class="english">Their faith was tested.</span></p>
 
 <p><span class="chinese">今天，我们在经受考验。</span><span class="english">Today, we are being tested.</span></p>

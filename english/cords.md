@@ -1,5 +1,7 @@
 # cords
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cords.md)
+
 <p><span class="chinese">他用绳子将柴捆好。</span><span class="english">He tied the sticks with cords.</span></p>
 
 <p><span class="chinese">他总是穿着那条蓝色的灯心绒裤。</span><span class="english">He always wears the blue cords.</span></p>

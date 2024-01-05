@@ -1,5 +1,7 @@
 # timber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timber.md)
+
 <p><span class="chinese">龙眼是木雕良材。</span><span class="english">Longan is wood timber.</span></p>
 
 <p><span class="chinese">太阳会晒裂木材。</span><span class="english">The sun checks timber.</span></p>

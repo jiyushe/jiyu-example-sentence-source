@@ -1,5 +1,7 @@
 # 讴歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ouge.md)
+
 <p><span class="chinese">天与地在同声讴歌。</span><span class="english">Bnd Heaven, and Heaven, and nature sing.</span></p>
 
 <p><span class="chinese">讴歌战争、船长和国王</span><span class="english">To sing of wars, of captains, and of kings</span></p>

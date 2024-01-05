@@ -1,5 +1,7 @@
 # property
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/property.md)
+
 <p><span class="chinese">这是一个可提升的属性。</span><span class="english">A promotable property.</span></p>
 
 <p><span class="chinese">因为这个性质。</span><span class="english">Because of this property.</span></p>

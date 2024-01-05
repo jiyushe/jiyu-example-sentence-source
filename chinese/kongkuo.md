@@ -1,5 +1,7 @@
 # 空阔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongkuo.md)
+
 <p><span class="chinese">向下看一片空阔的景色尽收眼底。</span><span class="english">A wide prospect opened below us.</span></p>
 
 <p><span class="chinese">或者，我们只该仰脸盯着空阔的天。</span><span class="english">Or, we may just stare at the cloudless sky.</span></p>

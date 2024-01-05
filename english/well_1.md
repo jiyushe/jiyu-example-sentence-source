@@ -1,5 +1,7 @@
 # well  
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/well_1.md)
+
 <p><span class="chinese">好好休息，早日康复。</span><span class="english">Rest well.</span></p>
 
 <p><span class="chinese">做得好！</span><span class="english">Well done!</span></p>

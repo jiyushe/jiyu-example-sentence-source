@@ -1,5 +1,7 @@
 # sweat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweat.md)
+
 <p><span class="chinese">多甜的水啊！</span><span class="english">What sweat water!</span></p>
 
 <p><span class="chinese">甜蜜夏日，香汗伶俐。</span><span class="english">Sweet summer sweat.</span></p>

@@ -1,5 +1,7 @@
 # addictive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addictive.md)
+
 <p><span class="chinese">你一直是云云地令我爱好成癖。</span><span class="english">You're all the time so addictive.</span></p>
 
 <p><span class="chinese">投资驱动的增长是让人上瘾的。</span><span class="english">Investment-driven growth is addictive.</span></p>

@@ -1,5 +1,7 @@
 # farmyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farmyard.md)
+
 <p><span class="chinese">我们来到一个农家庭院。</span><span class="english">We're coming to a farmyard.</span></p>
 
 <p><span class="chinese">雄鸡在农家院中啼叫。</span><span class="english">The cock crows in the farmyard.</span></p>

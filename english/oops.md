@@ -1,5 +1,7 @@
 # oops
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oops.md)
+
 <p><span class="chinese">哎呀，你看看我。</span><span class="english">Oops. Look at me.</span></p>
 
 <p><span class="chinese">“啊呀”理论。</span><span class="english">The "oops" theory.</span></p>

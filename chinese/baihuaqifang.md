@@ -1,5 +1,7 @@
 # 百花齐放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baihuaqifang.md)
+
 <p><span class="chinese">春天，百花齐放。</span><span class="english">Flowers bloom in spring.</span></p>
 
 <p><span class="chinese">一花独放否则春，百花齐放春满园。</span><span class="english">A single flower does not do a spring.</span></p>

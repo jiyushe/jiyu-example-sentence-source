@@ -1,5 +1,7 @@
 # 枳实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishi_6.md)
+
 <p><span class="chinese">结论HPLC-ESI-MS法可用于枳壳和枳实的研究。</span><span class="english">Conclusion HPLC-ESI-MS method can be efficiently used to study FA and FAI.</span></p>
 
 <p><span class="chinese">目的研究枳实中的多甲氧基黄酮类化合物。</span><span class="english">ObjectiveTo investigate the chemical constituents of Fructus Aurantii Immaturus.</span></p>

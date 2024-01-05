@@ -1,5 +1,7 @@
 # 妖艳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyan.md)
+
 <p><span class="chinese">妖艳的女孩。</span><span class="english">Holly was a glamour girl.</span></p>
 
 <p><span class="chinese">据说她是个妖艳女人。</span><span class="english">It is said that she is a siren.</span></p>

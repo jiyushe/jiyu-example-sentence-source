@@ -1,5 +1,7 @@
 # 毁于一旦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiyuyidan.md)
+
 <p><span class="chinese">你穷数年之功建设起来的东西可能毁于一旦。</span><span class="english">What you spend years building may be destroyed overnight.</span></p>
 
 <p><span class="chinese">整个家庭毁于一旦，猫、狗和老鼠也不能幸免。</span><span class="english">Entire families were wiped out. Dogs, cats and rats went too.</span></p>

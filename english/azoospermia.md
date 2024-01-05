@@ -1,5 +1,7 @@
 # azoospermia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azoospermia.md)
+
 <p><span class="chinese">造成阻塞性无精子症的原因有哪些？</span><span class="english">Caused by obstructive azoospermia What are the reasons?</span></p>
 
 <p><span class="chinese">这对于精子缺乏的男性来说变得尤其重要。</span><span class="english">This becomes especially important in males with azoospermia.</span></p>

@@ -1,5 +1,7 @@
 # unconfident
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconfident.md)
+
 <p><span class="chinese">你还是为你的口语自卑吗？</span><span class="english">You are still unconfident with your speaking?</span></p>
 
 <p><span class="chinese">而且，我也认为害羞意味着不自信。</span><span class="english">Moreover, I think being shy means unconfident.</span></p>

@@ -1,5 +1,7 @@
 # 昏眩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunxuan.md)
+
 <p><span class="chinese">我感觉昏眩作呕。</span><span class="english">I feel dizzy and nauseated.</span></p>
 
 <p><span class="chinese">他头上受了一击后就昏眩了片刻。</span><span class="english">The blow on the head dazed him for a moment.</span></p>

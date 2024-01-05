@@ -1,5 +1,7 @@
 # 占用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanyong.md)
+
 <p><span class="chinese">我只占用90秒。</span><span class="english">I will take 90 seconds.</span></p>
 
 <p><span class="chinese">占用您的时间了，谢谢您。再见！</span><span class="english">Thank you for your time,goodbye!</span></p>

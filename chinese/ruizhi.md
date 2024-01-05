@@ -1,5 +1,7 @@
 # 睿智
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruizhi.md)
+
 <p><span class="chinese">尤达是睿智的绝地大师。</span><span class="english">Yoda is a wise Jedi Master.</span></p>
 
 <p><span class="chinese">欢迎睿智的意见。</span><span class="english">Welcoming of sagacious advice.</span></p>

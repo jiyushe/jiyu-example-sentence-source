@@ -1,5 +1,7 @@
 # intercultural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercultural.md)
+
 <p><span class="chinese">也许我们的跨文化之旅能够对他人有所裨益。</span><span class="english">Perhaps our intercultural journey can be of help to others.</span></p>
 
 <p><span class="chinese">另一个目标是让卫生人员具有跨文化的技能。</span><span class="english">Another objective is to give health personnel intercultural skills.</span></p>

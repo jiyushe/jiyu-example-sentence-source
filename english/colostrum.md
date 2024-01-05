@@ -1,5 +1,7 @@
 # colostrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colostrum.md)
+
 <p><span class="chinese">初乳是婴儿最好的食物。</span><span class="english">Colostrum is the best food for babies.</span></p>
 
 <p><span class="chinese">什么是初乳？初乳对宝宝有什么好处？</span><span class="english">What is colostrum? How does it benefit my baby?</span></p>

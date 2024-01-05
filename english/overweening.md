@@ -1,5 +1,7 @@
 # overweening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overweening.md)
+
 <p><span class="chinese">天上地下，唯我独尊。</span><span class="english">Heaven and earth, overweening.</span></p>
 
 <p><span class="chinese">有时唱歌到了目中无人的地步！</span><span class="english">Sometimes I'm overweening to sing!</span></p>

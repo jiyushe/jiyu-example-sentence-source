@@ -1,5 +1,7 @@
 # quadric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadric.md)
+
 <p><span class="chinese">我们称这个曲面为应力二次曲面。</span><span class="english">We call this surface the stress quadric.</span></p>
 
 <p><span class="chinese">最后总结出了二次曲面进行NURBS表示的一般方法和步骤。</span><span class="english">At last, the commonly methods and steps for represention quadric surfaces using NURBS was find.</span></p>

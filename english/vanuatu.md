@@ -1,5 +1,7 @@
 # vanuatu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vanuatu.md)
+
 <p><span class="chinese">瓦努阿图大力促进私营经济的增长。</span><span class="english">Vanuatu strongly promotes private sector led growth.</span></p>
 
 <p><span class="chinese">瓦努阿图人民始终把中国视为他们最好的朋友。</span><span class="english">The Vanuatu people have always viewed China as their best friend.</span></p>

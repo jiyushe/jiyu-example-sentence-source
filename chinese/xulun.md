@@ -1,5 +1,7 @@
 # 序论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xulun.md)
+
 <p><span class="chinese">本于此点，故把对张华为人的探讨置于全文之序论部分，以明其重要之义。</span><span class="english">The most important part in the preface is about Zhang Hua's personal character.</span></p>
 
 <p><span class="chinese">在第一章〈序论〉中，我们对整篇论文作概要介绍。</span><span class="english">In the first chapter, "Introduction, " we give an overall presentation for the whole thesis.</span></p>

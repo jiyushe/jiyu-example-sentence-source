@@ -1,5 +1,7 @@
 # ba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ba.md)
+
 <p><span class="chinese">巴比在用沙堆城堡。</span><span class="english">Ba Bi is building a sand castle.</span></p>
 
 <p><span class="chinese">最近以来我一直在看巴金的作品。</span><span class="english">I have been reading Ba Jing lately.</span></p>

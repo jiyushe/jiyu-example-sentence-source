@@ -1,5 +1,7 @@
 # fort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fort.md)
+
 <p><span class="chinese">砌一座堡垒。</span><span class="english">Build a fort.</span></p>
 
 <p><span class="chinese">碉堡被撤空了。</span><span class="english">The fort was evacuated.</span></p>

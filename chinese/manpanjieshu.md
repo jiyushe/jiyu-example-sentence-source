@@ -1,5 +1,7 @@
 # 满盘皆输
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manpanjieshu.md)
+
 <p><span class="chinese">让他后悔的是，这个错误让他满盘皆输。</span><span class="english">To his rue, the error cost him the game.</span></p>
 
 <p><span class="chinese">好则回报高，差则可能满盘皆输。</span><span class="english">Good returns are high, it may worth worse.</span></p>

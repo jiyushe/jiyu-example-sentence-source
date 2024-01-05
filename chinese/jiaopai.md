@@ -1,5 +1,7 @@
 # 教派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaopai.md)
+
 <p><span class="chinese">我能很快被卫斯理教派大学录取。</span><span class="english">I got into Wesleyan.</span></p>
 
 <p><span class="chinese">教派主义是什么意思？</span><span class="english">What do I mean by sectarianism?</span></p>

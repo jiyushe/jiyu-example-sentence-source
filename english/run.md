@@ -1,5 +1,7 @@
 # run
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/run.md)
+
 <p><span class="chinese">运行它。</span><span class="english">Run it.</span></p>
 
 <p><span class="chinese">必须要跑操。</span><span class="english">Must run.</span></p>

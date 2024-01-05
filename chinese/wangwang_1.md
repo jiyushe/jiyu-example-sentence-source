@@ -1,5 +1,7 @@
 # 望望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangwang_1.md)
+
 <p><span class="chinese">她再望望地上。</span><span class="english">She glanced on the ground.</span></p>
 
 <p><span class="chinese">他仔细望望太阳。</span><span class="english">He looked at the sun carefully.</span></p>

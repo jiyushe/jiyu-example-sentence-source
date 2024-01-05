@@ -1,5 +1,7 @@
 # auditorium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auditorium.md)
+
 <p><span class="chinese">我们在礼堂集合。</span><span class="english">We assembled in the auditorium.</span></p>
 
 <p><span class="chinese">这礼堂可容纳1000人。</span><span class="english">This auditorium can hold 1,000 people.</span></p>

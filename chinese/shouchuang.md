@@ -1,5 +1,7 @@
 # 首创
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouchuang.md)
+
 <p><span class="chinese">这并非是好莱坞首创</span><span class="english">This is not Hollywood invention.</span></p>
 
 <p><span class="chinese">思想活跃、有首创和革新精神尤佳。</span><span class="english">Being active, creative and innonative.</span></p>

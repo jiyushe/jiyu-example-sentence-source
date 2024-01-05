@@ -1,5 +1,7 @@
 # 覆灭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fumie.md)
+
 <p><span class="chinese">所以请停止喂养它，尽快让它覆灭吧。</span><span class="english">So stop feeding it and let it wither on the vine.</span></p>
 
 <p><span class="chinese">它最终将覆灭于自由与进步的力量。</span><span class="english">It will eventually succumb to the forces of freedom and progress.</span></p>

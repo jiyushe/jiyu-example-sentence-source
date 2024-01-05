@@ -1,5 +1,7 @@
 # 结社
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshe.md)
+
 <p><span class="chinese">民主制度保障言论自由、闻自由和结社自由。</span><span class="english">The flag stands for freedom and democracy.</span></p>
 
 <p><span class="chinese">禁止民间组织，禁止结社自由。</span><span class="english">Ban citizen's groups. Deny the freedom of society.</span></p>

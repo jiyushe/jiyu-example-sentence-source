@@ -1,5 +1,7 @@
 # recreation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recreation.md)
+
 <p><span class="chinese">你得参加文娱活动。</span><span class="english">You must take some recreation.</span></p>
 
 <p><span class="chinese">在娱乐室里打个盹。</span><span class="english">Taking a nap in the recreation facility.</span></p>

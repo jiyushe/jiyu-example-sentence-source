@@ -1,5 +1,7 @@
 # machete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/machete.md)
+
 <p><span class="chinese">他紧紧握着他的大刀。</span><span class="english">He keeps his machete gripped tightly.</span></p>
 
 <p><span class="chinese">他有枪，还有大砍刀。</span><span class="english">And he had the gun, and he had the machete.</span></p>

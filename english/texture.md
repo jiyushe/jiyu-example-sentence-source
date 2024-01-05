@@ -1,5 +1,7 @@
 # texture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/texture.md)
+
 <p><span class="chinese">音乐的织体是怎样的</span><span class="english">What is the texture like?</span></p>
 
 <p><span class="chinese">这个纹理是光照贴图么？</span><span class="english">Is this texture a lightmap?</span></p>

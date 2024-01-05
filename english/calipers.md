@@ -1,5 +1,7 @@
 # calipers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calipers.md)
+
 <p><span class="chinese">你可以购买自己的卡尺。</span><span class="english">You can buy your own calipers.</span></p>
 
 <p><span class="chinese">那木匠用卡钳估量暗榫。</span><span class="english">The carpenter gauged the dowel with calipers.</span></p>

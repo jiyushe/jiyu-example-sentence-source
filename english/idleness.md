@@ -1,5 +1,7 @@
 # idleness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idleness.md)
+
 <p><span class="chinese">闲散浪费光阴。</span><span class="english">Idleness eats up time.</span></p>
 
 <p><span class="chinese">我的时间闲混过去了。</span><span class="english">I passed my time in idleness.</span></p>

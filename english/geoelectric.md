@@ -1,5 +1,7 @@
 # geoelectric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geoelectric.md)
+
 <p><span class="chinese">成像剖面清楚地反映了断面的地电特征。</span><span class="english">The imaging section clearly reflects the geoelectric characteristics of the section.</span></p>
 
 <p><span class="chinese">首次开展利用地电化学法地浸采铀的实验室探索。</span><span class="english">The effect of geomagnetic field on leaching uranium with geoelectric chemistry method is studied.</span></p>

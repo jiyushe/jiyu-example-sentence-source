@@ -1,5 +1,7 @@
 # 自尊心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizunxin.md)
+
 <p><span class="chinese">我的自尊心太强了。</span><span class="english">My pride is too strong.</span></p>
 
 <p><span class="chinese">你伤害了他的自尊心。</span><span class="english">You have wounded his pride.</span></p>

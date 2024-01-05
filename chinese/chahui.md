@@ -1,5 +1,7 @@
 # 茶会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chahui.md)
+
 <p><span class="chinese">一座街垒，便是吉布妈妈的一场茶会。</span><span class="english">A barricade is Mother Gibou's tea.</span></p>
 
 <p><span class="chinese">茶会下战书六点半开端。</span><span class="english">The tea party began at half past six.</span></p>

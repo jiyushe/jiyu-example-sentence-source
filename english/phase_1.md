@@ -1,5 +1,7 @@
 # phase 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phase_1.md)
+
 <p><span class="chinese">这里是B阶段。</span><span class="english">There's Phase B.</span></p>
 
 <p><span class="chinese">全都是气相。</span><span class="english">It's all gas phase.</span></p>

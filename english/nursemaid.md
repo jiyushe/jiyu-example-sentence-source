@@ -1,5 +1,7 @@
 # nursemaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nursemaid.md)
+
 <p><span class="chinese">像保姆解除她的职责。</span><span class="english">Like a nursemaid relieved of her duty.</span></p>
 
 <p><span class="chinese">它的女人要去别的国家做保姆！</span><span class="english">Its woman must go to other country to be the nursemaid !</span></p>

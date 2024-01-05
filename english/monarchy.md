@@ -1,5 +1,7 @@
 # monarchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monarchy.md)
+
 <p><span class="chinese">夺取了政权。</span><span class="english">Wrested power from the monarchy.</span></p>
 
 <p><span class="chinese">君主所在即为国家所在</span><span class="english">The monarchy was wherever the king was.</span></p>

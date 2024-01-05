@@ -1,5 +1,7 @@
 # waterscape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterscape.md)
+
 <p><span class="chinese">让我们对水景艺术了解的更深刻。</span><span class="english">Let us learn the art of the Waterscape more profound.</span></p>
 
 <p><span class="chinese">北京住宅区中水景的维护。</span><span class="english">The maintenance of waterscape in the community of Beijing.</span></p>

@@ -1,5 +1,7 @@
 # 神色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shense.md)
+
 <p><span class="chinese">我现出惊讶的神色。</span><span class="english">I looked surprised.</span></p>
 
 <p><span class="chinese">他的脸上流露出厌恶的神色。</span><span class="english">He looked his disgust.</span></p>

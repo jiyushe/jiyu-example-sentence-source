@@ -1,5 +1,7 @@
 # establishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/establishment.md)
+
 <p><span class="chinese">新教徒之间的裙带关系是与生俱来的。</span><span class="english">The Protestant Establishment was inbred.</span></p>
 
 <p><span class="chinese">祝贺表态网的成立！</span><span class="english">Congratulations to establishment of ctime!</span></p>

@@ -1,5 +1,7 @@
 # 烛台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhutai.md)
+
 <p><span class="chinese">头盖骨烛台？</span><span class="english">Cranium candelabra?</span></p>
 
 <p><span class="chinese">把蜡烛放在烛台上。</span><span class="english">Put the candle in the candleholder.</span></p>

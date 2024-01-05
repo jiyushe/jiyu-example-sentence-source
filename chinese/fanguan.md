@@ -1,5 +1,7 @@
 # 反观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanguan.md)
+
 <p><span class="chinese">而反观科技公司中的女性，她们却都是后女权主义者。</span><span class="english">The women at the tech company were post-feminists.</span></p>
 
 <p><span class="chinese">反观美国，它自己管理自己的货币。</span><span class="english">The United States, in contrast, controls its own currency.</span></p>

@@ -1,5 +1,7 @@
 # outwith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outwith.md)
+
 <p><span class="chinese">你和一个夜宿的女孩亲热了?。</span><span class="english">You made outwith a girl from a sleepover?</span></p>
 
 <p><span class="chinese">我和我的朋友们外出，骑著我们的脚踏车闲晃。</span><span class="english">Be outwith my friends, on our bikes we'd roam.</span></p>

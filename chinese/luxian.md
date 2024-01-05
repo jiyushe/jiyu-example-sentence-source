@@ -1,5 +1,7 @@
 # 路线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luxian.md)
+
 <p><span class="chinese">跑切线的路线。</span><span class="english">Run the tangents.</span></p>
 
 <p><span class="chinese">公交车路线容量?。</span><span class="english">Capacity of Bus Line?</span></p>

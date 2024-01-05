@@ -1,5 +1,7 @@
 # decreasing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decreasing.md)
+
 <p><span class="chinese">在这两个州，病例看来正在减少。</span><span class="english">Cases appear to be decreasing in both states.</span></p>
 
 <p><span class="chinese">它们仅是以关联性渐减的粗略次序排列。</span><span class="english">They are rough order of decreasing relevance.</span></p>

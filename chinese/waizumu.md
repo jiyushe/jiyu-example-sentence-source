@@ -1,5 +1,7 @@
 # 外祖母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waizumu.md)
+
 <p><span class="chinese">吉米的外祖母很喜欢玫瑰，也很爱初夏的季节。</span><span class="english">Jimmy's Gran loved roses and early summer.</span></p>
 
 <p><span class="chinese">十月份我的外祖母患了中风。</span><span class="english">My maternal grandmother had a stroke in October.</span></p>

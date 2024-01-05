@@ -1,5 +1,7 @@
 # blithely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blithely.md)
+
 <p><span class="chinese">你的社论全然无视铁一般的事实。</span><span class="english">Your editorial blithely ignores the hard facts.</span></p>
 
 <p><span class="chinese">共和党人还轻率地将下层中产阶级的工作机会转移至印度，公司的利润上升了———很好！</span><span class="english">Republicans blithely shipped jobs for lower-middle-class Americans off to India.</span></p>

@@ -1,5 +1,7 @@
 # fated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fated.md)
+
 <p><span class="chinese">所以我注定了也是一个戏子。</span><span class="english">So I'm fated to be an actor.</span></p>
 
 <p><span class="chinese">我命里该死呢，您瞧！</span><span class="english">You see that I am fated to die! Leave me!</span></p>

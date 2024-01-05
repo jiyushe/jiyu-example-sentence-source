@@ -1,5 +1,7 @@
 # 现势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshi_12.md)
+
 <p><span class="chinese">该系统于2002年投入使用，并在使用过程中始终保持良好的现势性。</span><span class="english">This system has been used since 2002, and keeps changing with reality.</span></p>
 
 <p><span class="chinese">保持GIS数据的现势性是GIS应用和发展的“瓶颈”。</span><span class="english">It is vital to keep GIS data "fresh" for application and development of GIS.</span></p>

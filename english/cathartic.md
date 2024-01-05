@@ -1,5 +1,7 @@
 # cathartic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cathartic.md)
+
 <p><span class="chinese">清润茶对小鼠具有通便作用。</span><span class="english">Qingrun tea had the cathartic effect in mice.</span></p>
 
 <p><span class="chinese">在使用通便药之前，要向医生询问。</span><span class="english">Ask or call your surgeon before taking a cathartic.</span></p>

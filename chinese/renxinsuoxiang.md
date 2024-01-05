@@ -1,5 +1,7 @@
 # 人心所向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renxinsuoxiang.md)
+
 <p><span class="chinese">维护朝鲜半岛和平稳定是人心所向。</span><span class="english">Maintain peace and stability on the Korean peninsula is people oriented.</span></p>
 
 <p><span class="chinese">严厉打击受贿犯罪是人心所向。</span><span class="english">Cracking down upon the crime of accepting bribes is the popular sentiment.</span></p>

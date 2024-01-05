@@ -1,5 +1,7 @@
 # rely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rely.md)
+
 <p><span class="chinese">你可以依靠/信得过我。</span><span class="english">You can rely on me.</span></p>
 
 <p><span class="chinese">我只依赖这记忆存在。</span><span class="english">I iust rely on memory.</span></p>

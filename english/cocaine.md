@@ -1,5 +1,7 @@
 # cocaine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cocaine.md)
+
 <p><span class="chinese">你对可卡因知多少？</span><span class="english">What do you know about cocaine?</span></p>
 
 <p><span class="chinese">可卡因和安非他明就不那么良性了。</span><span class="english">Cocaine and amphetamines are less benign.</span></p>

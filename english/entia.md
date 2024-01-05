@@ -1,5 +1,7 @@
 # entia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entia.md)
+
 <p><span class="chinese">人是动物性和文化性的统一。</span><span class="english">Man is a entia of animality and civilization.</span></p>
 
 <p><span class="chinese">世界本身就是一个矛盾统一体。</span><span class="english">The world is an entia filled with contradictory.</span></p>

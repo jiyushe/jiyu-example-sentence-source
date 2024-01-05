@@ -1,5 +1,7 @@
 # 上下浮动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxiafudong.md)
+
 <p><span class="chinese">这个浮子在水中上下浮动。</span><span class="english">The float bobs up and down in the water.</span></p>
 
 <p><span class="chinese">这个值一直在变化，在100上下浮动。</span><span class="english">And it just bounces around, hovering around 100.</span></p>

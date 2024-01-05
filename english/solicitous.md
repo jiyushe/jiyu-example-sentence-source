@@ -1,5 +1,7 @@
 # solicitous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solicitous.md)
+
 <p><span class="chinese">你突然又担心起来了？</span><span class="english">Suddenly , you're solicitous ?</span></p>
 
 <p><span class="chinese">细心和体贴。</span><span class="english">solicitous and considerate than you.</span></p>

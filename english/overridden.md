@@ -1,5 +1,7 @@
 # overridden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overridden.md)
+
 <p><span class="chinese">这个模型将不会被这个任务改写。</span><span class="english">This model will not be overridden by the task.</span></p>
 
 <p><span class="chinese">这些设置可能会被单篇文章所覆盖。</span><span class="english">These settings may be overridden for individual articles.</span></p>

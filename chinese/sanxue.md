@@ -1,5 +1,7 @@
 # 三学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanxue.md)
+
 <p><span class="chinese">他说他妹妹是河北大学的一名大三学生。</span><span class="english">He said his sister is a junior at Hebei University.</span></p>
 
 <p><span class="chinese">重庆交通大学工程专业大三学生</span><span class="english">a junior in engineering at Chongqing Jiaotong University</span></p>

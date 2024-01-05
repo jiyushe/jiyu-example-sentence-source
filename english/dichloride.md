@@ -1,5 +1,7 @@
 # dichloride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dichloride.md)
+
 <p><span class="chinese">以工业硫磺和液氯为主要原料，一步法直接制备二氯化硫。</span><span class="english">Sulfur dichloride was prepared by direct reaction of sulfur with chlorine.</span></p>
 
 <p><span class="chinese">根据分析结果，制定了二氯乙烷的安全储存方法。</span><span class="english">Based on the analysis results, the safe storage method of ethylene dichloride has been made.</span></p>

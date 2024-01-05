@@ -1,5 +1,7 @@
 # gat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gat.md)
+
 <p><span class="chinese">你的剩饭被如何处置，我俊俏的年轻人？</span><span class="english">And wha gat your leavins, my handsome young man?</span></p>
 
 <p><span class="chinese">罋再回来审视一些车组技能，之前它们是完全被动的。</span><span class="english">Looking gat crew skills again, right now they're all passive.</span></p>

@@ -1,5 +1,7 @@
 # hyperuricemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperuricemia.md)
+
 <p><span class="chinese">目的建立小鼠高尿酸血症模型。</span><span class="english">AIM To establish hyperuricemia animal model.</span></p>
 
 <p><span class="chinese">此外，“高尿酸血在数年内都不会出现任何症状。</span><span class="english">In addition, "you can go years with hyperuricemia and no symptoms.</span></p>

@@ -1,5 +1,7 @@
 # winking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winking.md)
+
 <p><span class="chinese">看我们和眨眼。</span><span class="english">Watching us and winking.</span></p>
 
 <p><span class="chinese">他眨眨眼，传来男人的信号，默许了吉姆的罪过。</span><span class="english">Winking a man\'s signal.</span></p>

@@ -1,5 +1,7 @@
 # mutilation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutilation.md)
+
 <p><span class="chinese">女性生殖器切割被分为四个主要种类</span><span class="english">Female genital mutilation is classified into four major types.</span></p>
 
 <p><span class="chinese">反对任何窜改、肢体不全或是修改作品的权利。</span><span class="english">The right to object to any distortion, mutilation or modification of the work</span></p>

@@ -1,5 +1,7 @@
 # cyrus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyrus.md)
+
 <p><span class="chinese">就连麦莉·赛勒斯都成了坏女孩的榜样了。</span><span class="english">Even Miley Cyrus is a bad role model.</span></p>
 
 <p><span class="chinese">居鲁士的儿子，冈比西斯二世，是统治世系中的下一位统治者。</span><span class="english">Cyrus ' son, Cambyses II, was next in line to rule.</span></p>

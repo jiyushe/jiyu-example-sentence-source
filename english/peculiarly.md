@@ -1,5 +1,7 @@
 # peculiarly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peculiarly.md)
+
 <p><span class="chinese">猎狐是英国特有的运动。</span><span class="english">Hunting foxes is a peculiarly English sport.</span></p>
 
 <p><span class="chinese">无神论是这样一个独有的现代现象。</span><span class="english">Atheism is thus a peculiarly modern phenomenon.</span></p>

@@ -1,5 +1,7 @@
 # 探问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanwen.md)
+
 <p><span class="chinese">探问别人隐私是不礼貌的。</span><span class="english">It is ill-mannered to ask personal questions.</span></p>
 
 <p><span class="chinese">他们一再探问此事。</span><span class="english">They inquired about the matter time and again.</span></p>

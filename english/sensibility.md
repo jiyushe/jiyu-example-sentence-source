@@ -1,5 +1,7 @@
 # sensibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensibility.md)
+
 <p><span class="chinese">对所有色彩具有感光性。</span><span class="english">She has an unusual sensibility for colors.</span></p>
 
 <p><span class="chinese">没有一个有鉴赏力的人会买这本书。</span><span class="english">No one with sensibility would buy the book.</span></p>

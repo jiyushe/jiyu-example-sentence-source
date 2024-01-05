@@ -1,5 +1,7 @@
 # 细细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixi_6.md)
+
 <p><span class="chinese">细细聆听你耳旁的这个世界。</span><span class="english">Listen to the world around you.</span></p>
 
 <p><span class="chinese">我们必须细细察看并做出评价。</span><span class="english">We must scrutinize and evaluate.</span></p>

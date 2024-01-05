@@ -1,5 +1,7 @@
 # 实打实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidashi.md)
+
 <p><span class="chinese">这些都是实打实的真功夫。</span><span class="english">These are all real skills.</span></p>
 
 <p><span class="chinese">所以比起其他网络公司，Zynga的业务收入可是更加实打实的。</span><span class="english">So its business is more real than those of some other online firms.</span></p>

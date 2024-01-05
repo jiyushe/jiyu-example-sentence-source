@@ -1,5 +1,7 @@
 # 活劳动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huolaodong.md)
+
 <p><span class="chinese">服务劳动是一种商品，活劳动是其价值存在形态。</span><span class="english">Service labor is a kind of commodity and live labor is its existing form of value.</span></p>
 
 <p><span class="chinese">服务劳动是一种商品，活劳动是其价值存在形态。</span><span class="english">The materialized labor value theory indirectly equates materialized labor with living labor.</span></p>

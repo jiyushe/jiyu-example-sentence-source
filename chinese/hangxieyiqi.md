@@ -1,5 +1,7 @@
 # 沆瀣一气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangxieyiqi.md)
+
 <p><span class="chinese">那些人沆瀣一气做坏事。</span><span class="english">Those people collaborated in evildoing.</span></p>
 
 <p><span class="chinese">不过也有人认为，政府与这种丑恶沆瀣一气。</span><span class="english">But some have argued the government is complicit in the ugliness.</span></p>

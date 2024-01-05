@@ -1,5 +1,7 @@
 # relevancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relevancy.md)
+
 <p><span class="chinese">产生的数值称为相关度。</span><span class="english">The numerical measure is called relevancy or score.</span></p>
 
 <p><span class="chinese">另一个注意力游戏中的关键因素是关联。</span><span class="english">Another key ingredient in the attention game is relevancy.</span></p>

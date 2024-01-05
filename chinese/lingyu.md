@@ -1,5 +1,7 @@
 # 领域
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingyu.md)
+
 <p><span class="chinese">领域专家。</span><span class="english">Domain expert.</span></p>
 
 <p><span class="chinese">领域广大。</span><span class="english">The domain is vast.</span></p>

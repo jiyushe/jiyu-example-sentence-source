@@ -1,5 +1,7 @@
 # 拼音字母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinyinzimu.md)
+
 <p><span class="chinese">汉语拼音字母对您学习英语字母有什么影响？</span><span class="english">How Chinese Bopomofo affects your learning of English letters?</span></p>
 
 <p><span class="chinese">汉语拼音字母有手写体和印刷体两种体式。</span><span class="english">There are two forms of the Chinese phonetic alphabet, the cursive and the printed.</span></p>

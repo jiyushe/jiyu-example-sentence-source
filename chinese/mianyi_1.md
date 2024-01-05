@@ -1,5 +1,7 @@
 # 棉衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianyi_1.md)
+
 <p><span class="chinese">为了您的棉衣今天！</span><span class="english">Order your Parka today!</span></p>
 
 <p><span class="chinese">你们有没有棉衣卖？</span><span class="english">Do You Carry Any Padded Coat?</span></p>

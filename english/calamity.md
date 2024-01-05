@@ -1,5 +1,7 @@
 # calamity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calamity.md)
+
 <p><span class="chinese">倾斜的公园，巨大的灾难</span><span class="english">The sloping park, great calamity</span></p>
 
 <p><span class="chinese">灾祸是吾人真正的试金石。</span><span class="english">Calamity is man's true touch stone.</span></p>

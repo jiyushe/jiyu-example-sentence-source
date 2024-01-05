@@ -1,5 +1,7 @@
 # microtubule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microtubule.md)
+
 <p><span class="chinese">单个动力蛋白分子沿着微管移动。</span><span class="english">Figure A single molecule of kinesin moves along a microtubule.</span></p>
 
 <p><span class="chinese">把微管的构象简化为若干电偶极子的线性排列。</span><span class="english">The microtubule is simplified as linear distribution of dipoles.</span></p>

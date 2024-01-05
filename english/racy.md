@@ -1,5 +1,7 @@
 # racy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racy.md)
+
 <p><span class="chinese">内容非常、非常香艳。</span><span class="english">It's very, very racy.</span></p>
 
 <p><span class="chinese">那本书与其说是猥亵的，倒不如说是活泼地。</span><span class="english">The book is racy rather than obscene.</span></p>

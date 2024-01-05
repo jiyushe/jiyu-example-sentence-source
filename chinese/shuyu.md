@@ -1,5 +1,7 @@
 # 属于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuyu.md)
+
 <p><span class="chinese">它可以属于任何人。</span><span class="english">It could be anyone.</span></p>
 
 <p><span class="chinese">但是我属于守旧派。</span><span class="english">But I am old-school.</span></p>

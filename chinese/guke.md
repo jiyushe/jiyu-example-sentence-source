@@ -1,5 +1,7 @@
 # 古柯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guke.md)
+
 <p><span class="chinese">自从以种植可可代替古柯之后，安古洛先生过上了平静的生活。</span><span class="english">Life is calmer now that Mr. Angulo sells cocoa instead of coca.</span></p>
 
 <p><span class="chinese">Vega认为，古柯在该地区长期种植的可能性不大。</span><span class="english">Vega does not see coca as a crop with long term possibilities in the area.</span></p>

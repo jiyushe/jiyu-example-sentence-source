@@ -1,5 +1,7 @@
 # 袋鼠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daishu.md)
+
 <p><span class="chinese">我也不知道什么香蕉种植地，正如我不知道什么是袋鼠一样！</span><span class="english">I did not know what to do.</span></p>
 
 <p><span class="chinese">它们叫袋鼠。</span><span class="english">They are called kangaroos.</span></p>

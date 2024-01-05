@@ -1,5 +1,7 @@
 # refectory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refectory.md)
+
 <p><span class="chinese">他们多数都是在学院的餐厅里吃饭。</span><span class="english">They eat most days in the college refectory.</span></p>
 
 <p><span class="chinese">Refectory酒店是美国俄亥俄州哥伦布市最好的酒店之一。</span><span class="english">The Refectory is one of the finest restaurants in Columbus, Ohio.</span></p>

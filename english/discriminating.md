@@ -1,5 +1,7 @@
 # discriminating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discriminating.md)
+
 <p><span class="chinese">这是因为他的作品对万物皆无所区别。</span><span class="english">This is because it has nothing for the discriminating.</span></p>
 
 <p><span class="chinese">你对客厅家具的选择是很有品味的。</span><span class="english">Your selection of living room furniture is quite discriminating.</span></p>

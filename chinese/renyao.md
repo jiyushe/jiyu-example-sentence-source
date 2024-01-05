@@ -1,5 +1,7 @@
 # 人妖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renyao.md)
+
 <p><span class="chinese">他讨厌被当作人妖看待。</span><span class="english">He hates to be seen as a she-man.</span></p>
 
 <p><span class="chinese">他是来自泰国的人妖。</span><span class="english">He is the man beauty from Thiland.</span></p>

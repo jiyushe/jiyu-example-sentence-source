@@ -1,5 +1,7 @@
 # decorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decorate.md)
+
 <p><span class="chinese">没有尸体可以装饰。</span><span class="english">There's no body to decorate.</span></p>
 
 <p><span class="chinese">装好盘后送到灶上。</span><span class="english">Decorate plates and send to Wok.</span></p>

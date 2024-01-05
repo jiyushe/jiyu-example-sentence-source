@@ -1,5 +1,7 @@
 # telephonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telephonic.md)
+
 <p><span class="chinese">按照我们刚才的电话交谈。</span><span class="english">As per our telephonic conversation just now.</span></p>
 
 <p><span class="chinese">香港的商业活动和消费者非常依赖话音电话服务。</span><span class="english">Hong Kong's businesses and consumers rely heavily on voice telephonic services.</span></p>

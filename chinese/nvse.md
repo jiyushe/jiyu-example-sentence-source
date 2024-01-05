@@ -1,5 +1,7 @@
 # 女色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvse.md)
+
 <p><span class="chinese">他们妄图以女色迫我就范。</span><span class="english">They tried to starve me out by a sex-trap.</span></p>
 
 <p><span class="chinese">贪图权力、财货与女色，是其腐败的主要表现。</span><span class="english">It was manifested by seeking power riches and women.</span></p>

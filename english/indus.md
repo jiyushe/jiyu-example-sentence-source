@@ -1,5 +1,7 @@
 # indus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indus.md)
+
 <p><span class="chinese">且看小伙有绝招，梧桐来了金凤凰。</span><span class="english">See small trick, the Indus to golden phoenix.</span></p>
 
 <p><span class="chinese">梧桐叶上三更雨，叶叶声声是别离。</span><span class="english">Indus three leaves, rain, parting leaf is sound.</span></p>

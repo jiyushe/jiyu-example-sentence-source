@@ -1,5 +1,7 @@
 # sorcerer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorcerer.md)
+
 <p><span class="chinese">魔法师然后给了她一个花的种子。</span><span class="english">The sorcerer then gave her a flower seed.</span></p>
 
 <p><span class="chinese">那巫师置那武士于奴隶地位。</span><span class="english">The sorcerer held the knight in thralldom.</span></p>

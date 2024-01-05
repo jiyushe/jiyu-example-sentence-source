@@ -1,5 +1,7 @@
 # nimble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nimble.md)
+
 <p><span class="chinese">他是一个机敏而又多才多艺的才子。</span><span class="english">He is a nimble and versatile wit.</span></p>
 
 <p><span class="chinese">九个敏捷的贵族啃桃仁。</span><span class="english">Nine nimble nobleman nibbled nuts.</span></p>

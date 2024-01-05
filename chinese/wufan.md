@@ -1,5 +1,7 @@
 # 午饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wufan.md)
+
 <p><span class="chinese">午饭时间到了。</span><span class="english">Itrs time for lunch.</span></p>
 
 <p><span class="chinese">然后开始做午饭。</span><span class="english">Then he makes lunch.</span></p>

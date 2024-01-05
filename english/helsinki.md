@@ -1,5 +1,7 @@
 # helsinki
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helsinki.md)
+
 <p><span class="chinese">芬兰赫尔辛基站内之特快车。</span><span class="english">An express train in Helsinki Station, Finland.</span></p>
 
 <p><span class="chinese">请问我在那里转机去郝尔辛基？</span><span class="english">Excuse me, Where could I Transfer to Helsinki?</span></p>

@@ -1,5 +1,7 @@
 # flatting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flatting.md)
+
 <p><span class="chinese">坐在椅子上，两手自然平放在大腿上。</span><span class="english">Sitting on chair, both hands flatting on thigh naturally.</span></p>
 
 <p><span class="chinese">她们掌握著乱针、平针、盘金等多种针法。</span><span class="english">They skillfully stitch at random , flatting or gold wire way.</span></p>

@@ -1,5 +1,7 @@
 # 交班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoban.md)
+
 <p><span class="chinese">对不起，我正赶去交班。</span><span class="english">Sorry, I'm changing shift now.</span></p>
 
 <p><span class="chinese">我希望交班时有良好的沟通。</span><span class="english">I expect communication to occur at shift handovers.</span></p>

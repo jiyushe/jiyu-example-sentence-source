@@ -1,5 +1,7 @@
 # farrowing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farrowing.md)
+
 <p><span class="chinese">在分娩前一个星期，每天供应一次垫料。</span><span class="english">Install a heat lamp and turn it on the day before farrowing.</span></p>
 
 <p><span class="chinese">如果分娩停止，将母猪赶在通道内适当运动。</span><span class="english">If farrowing stops, exercise the sow in the inspection alley.</span></p>

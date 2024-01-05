@@ -1,5 +1,7 @@
 # erbium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erbium.md)
+
 <p><span class="chinese">铒掺杂氧化锌已经由气相转换的过程制备。</span><span class="english">Erbium doped ZnO has been prepared by vapor-phase transport process.</span></p>
 
 <p><span class="chinese">目的研究铒激光在最小干预牙科技术中的应用。</span><span class="english">Objective To study the application of erbium laser in minimal intervention dentistry.</span></p>

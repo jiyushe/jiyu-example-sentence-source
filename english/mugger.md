@@ -1,5 +1,7 @@
 # mugger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mugger.md)
+
 <p><span class="chinese">抢劫犯突然向一个盲人袭击。</span><span class="english">The mugger laid to a blind man.</span></p>
 
 <p><span class="chinese">可是现在这条巨鳄又重新回来觅食了。</span><span class="english">But the mugger is back on the prowl.</span></p>

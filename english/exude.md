@@ -1,5 +1,7 @@
 # exude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exude.md)
+
 <p><span class="chinese">渗出，流出渗出液体，如植物的液汁。</span><span class="english">To exude a fluid such as sap.</span></p>
 
 <p><span class="chinese">烈日晒得她冒汗。</span><span class="english">The hot sun made her exude sweat.</span></p>

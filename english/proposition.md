@@ -1,5 +1,7 @@
 # proposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proposition.md)
+
 <p><span class="chinese">你赞成她的主张吗？</span><span class="english">Do you favor her proposition ?</span></p>
 
 <p><span class="chinese">这同样是一个冒险的提议。</span><span class="english">It is also a risky proposition.</span></p>

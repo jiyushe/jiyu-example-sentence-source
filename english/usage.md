@@ -1,5 +1,7 @@
 # usage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usage.md)
+
 <p><span class="chinese">这种用法已牢牢确立起来了。</span><span class="english">The usage is now firmly indurated.</span></p>
 
 <p><span class="chinese">m以兆为单位显示磁盘使用情况。</span><span class="english">M Displays disk usage in megabytes.</span></p>

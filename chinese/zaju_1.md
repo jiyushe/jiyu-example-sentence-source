@@ -1,5 +1,7 @@
 # 杂居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaju_1.md)
+
 <p><span class="chinese">宜宾，自古以来就是一个多民族杂居的地区。</span><span class="english">Yibin, since the ancient times is a multi-ethnic as areas.</span></p>
 
 <p><span class="chinese">而疏于对散居或杂居地区的畲族的研究。</span><span class="english">But neglected the study of She in regions of scattered or mixed.</span></p>

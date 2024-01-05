@@ -1,5 +1,7 @@
 # 偶合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ouhe.md)
+
 <p><span class="chinese">没有发现L次壳层偶合效应。</span><span class="english">The L-subshell coupling effects are not found.</span></p>
 
 <p><span class="chinese">图5.15所示为一种电容偶合方式。</span><span class="english">Figure 5.15 shows a method using capacitive coupling.</span></p>

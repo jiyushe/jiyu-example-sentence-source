@@ -1,5 +1,7 @@
 # 概括
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaikuo.md)
+
 <p><span class="chinese">不要过分概括。</span><span class="english">Don't over-generalize.</span></p>
 
 <p><span class="chinese">简单概括一下就是</span><span class="english">So again, let's recap.</span></p>

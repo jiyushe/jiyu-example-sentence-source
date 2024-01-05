@@ -1,5 +1,7 @@
 # 远足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzu_1.md)
+
 <p><span class="chinese">我去垦丁附近远足。</span><span class="english">I go hiking near Kenting.</span></p>
 
 <p><span class="chinese">我加入了他们的远足。</span><span class="english">I joined their excursion.</span></p>

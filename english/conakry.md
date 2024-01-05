@@ -1,5 +1,7 @@
 # conakry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conakry.md)
+
 <p><span class="chinese">科纳克里在几内亚的苏苏语中是“去海那边”的意思。</span><span class="english">Conakry in Guinea Susu language is "to the other side" means.</span></p>
 
 <p><span class="chinese">杨洁篪13日抵达科纳克里，对几内亚进行正式访问。</span><span class="english">Yang arrived in Conakry on February 13 for an official visit to Guinea.</span></p>

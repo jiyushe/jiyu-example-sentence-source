@@ -1,5 +1,7 @@
 # 游泳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyong_1.md)
+
 <p><span class="chinese">他游泳。</span><span class="english">He swims.</span></p>
 
 <p><span class="chinese">我经常游泳。</span><span class="english">I swim alot.</span></p>

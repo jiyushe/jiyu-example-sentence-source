@@ -1,5 +1,7 @@
 # 遗书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishu_1.md)
+
 <p><span class="chinese">她给我留下一封信，也算是遗书吧。</span><span class="english">She left a letter of me, a sort of will.</span></p>
 
 <p><span class="chinese">他补充说，警方也没有发现遗书。</span><span class="english">Police also didn't find a suicide note, he added.</span></p>

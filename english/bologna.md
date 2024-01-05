@@ -1,5 +1,7 @@
 # bologna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bologna.md)
+
 <p><span class="chinese">腌腊肠就是发生的事！</span><span class="english">Pickled bologna is what happens!</span></p>
 
 <p><span class="chinese">今天早上他来过吃过红肠。</span><span class="english">He came in for bologna this morning.</span></p>

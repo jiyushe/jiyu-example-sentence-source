@@ -1,5 +1,7 @@
 # 野心勃勃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yexinbobo.md)
+
 <p><span class="chinese">他是一个非常聪明且野心勃勃的家伙。</span><span class="english">He's a very smart and ambitious guy.</span></p>
 
 <p><span class="chinese">你野心勃勃、孤僻且太主观。</span><span class="english">You're ambitious, seclusive and too subjective.</span></p>

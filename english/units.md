@@ -1,5 +1,7 @@
 # units
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/units.md)
+
 <p><span class="chinese">那是每一个单元。</span><span class="english">That's units.</span></p>
 
 <p><span class="chinese">联系涉外单位。</span><span class="english">Contact foreign units.</span></p>

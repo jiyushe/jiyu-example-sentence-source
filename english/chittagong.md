@@ -1,5 +1,7 @@
 # chittagong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chittagong.md)
+
 <p><span class="chinese">吉大港山区原来是少数民族居住地。</span><span class="english">Chittagong Hill Tracts, the original place of residence of ethnic minorities.</span></p>
 
 <p><span class="chinese">兰加马蒂县是孟加拉国吉大港山区的三个县之一。</span><span class="english">County Rangamati Chittagong Hill Tracts in Bangladesh is one of the three counties.</span></p>

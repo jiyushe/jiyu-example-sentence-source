@@ -1,5 +1,7 @@
 # 翻江倒海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanjiangdaohai.md)
+
 <p><span class="chinese">对虫子们来说，这是灭顶之灾，但对赫克托尔翻江倒海的胃来说，结局令人宽慰。</span><span class="english">A soothing end, not for the worms, but for Hector's upset stomach.</span></p>
 
 <p><span class="chinese">当一次又一次的听见公牛那痛苦的叫声，我的胃里翻江倒海似的难受。</span><span class="english">Feeling sick at my stomach I heard the bull bellowing again and again.</span></p>

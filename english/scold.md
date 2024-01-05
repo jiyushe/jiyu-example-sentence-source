@@ -1,5 +1,7 @@
 # scold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scold.md)
+
 <p><span class="chinese">他会骂我的。</span><span class="english">He would scold me.</span></p>
 
 <p><span class="chinese">别老是熊人。</span><span class="english">Don't scold too much.</span></p>

@@ -1,5 +1,7 @@
 # 污言秽语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyanhuiyu.md)
+
 <p><span class="chinese">她一见我就吐出一连串的污言秽语。</span><span class="english">She greeted me with a stream of abuse.</span></p>
 
 <p><span class="chinese">请勿在大人面前使用污言秽语。</span><span class="english">Never use foul language in front of adults.</span></p>

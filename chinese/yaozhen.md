@@ -1,5 +1,7 @@
 # 药疹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaozhen.md)
+
 <p><span class="chinese">目的探讨氨苄青霉素药疹的临床特点。</span><span class="english">Objective To discuss ampicillin drug rash's clinical characteristics.</span></p>
 
 <p><span class="chinese">探讨大疱性表皮松解型药疹的发生特点及一般规律。</span><span class="english">Analysis characteristic and regularity of epidermolysis bullosa type eruption.</span></p>

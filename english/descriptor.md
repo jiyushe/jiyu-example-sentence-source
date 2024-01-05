@@ -1,5 +1,7 @@
 # descriptor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/descriptor.md)
+
 <p><span class="chinese">变量描述符?。</span><span class="english">VD? Variable Descriptor?</span></p>
 
 <p><span class="chinese">使用文件描述符读取字节。</span><span class="english">Read the bytes with the file descriptor.</span></p>

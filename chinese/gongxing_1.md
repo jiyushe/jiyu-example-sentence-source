@@ -1,5 +1,7 @@
 # 弓形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongxing_1.md)
+
 <p><span class="chinese">她同样推荐鞋底有弓形结构的鞋子。</span><span class="english">She also recommends arch support.</span></p>
 
 <p><span class="chinese">她咧开弓形的嘴笑着，嘴角往上翘。</span><span class="english">Her bow mouth turned upward in a grin.</span></p>

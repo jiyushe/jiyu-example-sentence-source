@@ -1,5 +1,7 @@
 # foramen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foramen.md)
+
 <p><span class="chinese">专用密封闭孔弹性氯丁橡胶。</span><span class="english">Specialized obturator foramen type of Flexible Neoprene.</span></p>
 
 <p><span class="chinese">右为成年人卵圆孔未闭的探查。</span><span class="english">At the right is a probe patent foramen ovale in an adult.</span></p>

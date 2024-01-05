@@ -1,5 +1,7 @@
 # 连写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianxie.md)
+
 <p><span class="chinese">文章全文分词连写。</span><span class="english">The paper has been written word-segmentedly.</span></p>
 
 <p><span class="chinese">实行中文分词连写确实具有必要性。</span><span class="english">Link writing for Chinese words has the necessity.</span></p>

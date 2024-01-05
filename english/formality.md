@@ -1,5 +1,7 @@
 # formality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formality.md)
+
 <p><span class="chinese">有些合同纯属走形式。</span><span class="english">Some contracts are a mere formality.</span></p>
 
 <p><span class="chinese">他全然不顾一切礼节。</span><span class="english">He has the greatest disregard for all formality.</span></p>

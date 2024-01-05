@@ -1,5 +1,7 @@
 # otherworldly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/otherworldly.md)
+
 <p><span class="chinese">这头牛在另一个世界耕作。</span><span class="english">This ox did otherworldly plowing.</span></p>
 
 <p><span class="chinese">沙尘形成许多超凡的地理景观，例如多孔隙的地面。</span><span class="english">Dust produces otherworldly landscapes, such as distinctively pitted terrain.</span></p>

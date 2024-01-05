@@ -1,5 +1,7 @@
 # colosseum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colosseum.md)
+
 <p><span class="chinese">竞技场的夜景，罗马，意大利，1970。</span><span class="english">Colosseum Nightscape, Rome, Italy, 1970</span></p>
 
 <p><span class="chinese">古罗马圆形竞技场会告诉我们很多关于罗马人的故事。</span><span class="english">The Colosseum says a lot about the Romans.</span></p>

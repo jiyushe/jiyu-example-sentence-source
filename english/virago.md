@@ -1,5 +1,7 @@
 # virago
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virago.md)
+
 <p><span class="chinese">他的妻子是母老虎。</span><span class="english">His wife is a virago.</span></p>
 
 <p><span class="chinese">就算我是泼妇，也是苏淳一手培养出来的。</span><span class="english">Even if I am a virago now , that brought up by Mr, Su.</span></p>

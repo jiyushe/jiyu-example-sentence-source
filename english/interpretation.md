@@ -1,5 +1,7 @@
 # interpretation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpretation.md)
+
 <p><span class="chinese">逐字翻译不一定最接近原义。</span><span class="english">He made a literal interpretation.</span></p>
 
 <p><span class="chinese">是只有一种解释吗？</span><span class="english">Is there only one interpretation?</span></p>

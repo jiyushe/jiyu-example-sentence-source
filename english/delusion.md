@@ -1,5 +1,7 @@
 # delusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delusion.md)
+
 <p><span class="chinese">这种妄想并没有维持很久。</span><span class="english">The delusion did not last long.</span></p>
 
 <p><span class="chinese">在三个层面上可见这是一个错觉。</span><span class="english">For delusion it is, on three levels.</span></p>

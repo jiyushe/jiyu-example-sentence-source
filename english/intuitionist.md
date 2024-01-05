@@ -1,5 +1,7 @@
 # intuitionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intuitionist.md)
+
 <p><span class="chinese">这种方法能够直观的检测光脉冲是否含有啁啾。</span><span class="english">It was an intuitionist method for judge whether have a chirp in laser pulse.</span></p>
 
 <p><span class="chinese">进口PLC全自动电脑控制系统，触摸屏操作简便、直观。</span><span class="english">Imported PLC fully computer-controlled system, ouch screen is intuitionist and easy to operate.</span></p>

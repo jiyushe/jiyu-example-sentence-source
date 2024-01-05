@@ -1,5 +1,7 @@
 # multimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multimeter.md)
+
 <p><span class="chinese">万用表都能测啥啊?。</span><span class="english">What can be measured with a multimeter?</span></p>
 
 <p><span class="chinese">它也有功能的测量线索，万用表。</span><span class="english">It also has the function of measuring leads for multimeter.</span></p>

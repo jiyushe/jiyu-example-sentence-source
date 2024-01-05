@@ -1,5 +1,7 @@
 # oily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oily.md)
+
 <p><span class="chinese">怎么治疗油性皮肤？</span><span class="english">How to treat oily skin?</span></p>
 
 <p><span class="chinese">我想我是油性皮肤。</span><span class="english">I think I have oily skin.</span></p>

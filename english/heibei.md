@@ -1,5 +1,7 @@
 # heibei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heibei.md)
+
 <p><span class="chinese">但是对于河北SEO，你可能会获得一个好的排名。</span><span class="english">But to Heibei SEO, you may obtain a good rank.</span></p>
 
 <p><span class="chinese">2006年毕业于河北大学质量工程专业。</span><span class="english">Graduated from Quality Engineering Department from Heibei University in 2006.</span></p>

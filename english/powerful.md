@@ -1,5 +1,7 @@
 # powerful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/powerful.md)
+
 <p><span class="chinese">你是很强大的。</span><span class="english">You are powerful.</span></p>
 
 <p><span class="chinese">不可思议的吸引力</span><span class="english">Incredibly powerful.</span></p>

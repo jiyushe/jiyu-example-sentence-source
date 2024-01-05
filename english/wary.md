@@ -1,5 +1,7 @@
 # wary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wary.md)
+
 <p><span class="chinese">注意敌人的铂条干扰。</span><span class="english">Be wary of enemy chaffs.</span></p>
 
 <p><span class="chinese">但却为许多什叶派的穆斯林所戒慎。</span><span class="english">But many Shia Muslims are wary of it.</span></p>

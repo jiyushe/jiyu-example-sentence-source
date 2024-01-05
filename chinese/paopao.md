@@ -1,5 +1,7 @@
 # 泡泡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paopao.md)
+
 <p><span class="chinese">我可以玩泡泡枪吗？</span><span class="english">May I play with the bubble gun?</span></p>
 
 <p><span class="chinese">双重的泡泡糖能吹双重的泡泡。</span><span class="english">Double bubble gum bubbles double.</span></p>

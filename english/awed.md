@@ -1,5 +1,7 @@
 # awed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awed.md)
+
 <p><span class="chinese">她那番严肃的话使我敬畏。</span><span class="english">I was awed  by her solemn words.</span></p>
 
 <p><span class="chinese">畏怯那不屈不挠的勇气！</span><span class="english">Awed by that indomitable courage!</span></p>

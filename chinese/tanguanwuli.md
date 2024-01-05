@@ -1,5 +1,7 @@
 # 贪官污吏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanguanwuli.md)
+
 <p><span class="chinese">打倒贪官污吏新买办！</span><span class="english">Overthrows the corrupt officials new comprador!</span></p>
 
 <p><span class="chinese">他们与贪官污吏狼狈为奸。</span><span class="english">They acted in collusion with corrupt officials.</span></p>

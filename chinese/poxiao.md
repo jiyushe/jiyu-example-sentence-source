@@ -1,5 +1,7 @@
 # 破晓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poxiao.md)
+
 <p><span class="chinese">在破晓时分的床上？</span><span class="english">In her bed at peep of day?</span></p>
 
 <p><span class="chinese">破晓你悄然离去。</span><span class="english">And at day break you leave.</span></p>

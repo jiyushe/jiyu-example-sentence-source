@@ -1,5 +1,7 @@
 # parachutist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parachutist.md)
+
 <p><span class="chinese">我变成了一个巴甫洛夫式的跳伞者。</span><span class="english">I had become a Pavlovian parachutist.</span></p>
 
 <p><span class="chinese">那名伞兵从飞机上跳伞。</span><span class="english">The parachutist dived from the plane.</span></p>

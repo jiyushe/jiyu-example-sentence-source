@@ -1,5 +1,7 @@
 # hma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hma.md)
+
 <p><span class="chinese">每当出现问题时，卫生管理协会就去寻求克林顿先生的帮助。</span><span class="english">Whenever trouble appeared, HMA asked for Mr. Clinton's help.</span></p>
 
 <p><span class="chinese">结论异双体动态分析法是一个快速，简单，准确的方法。</span><span class="english">Conclusion HMA is a rapid, simple and accurate method to detect mixed infection.</span></p>

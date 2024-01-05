@@ -1,5 +1,7 @@
 # 小憩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqi.md)
+
 <p><span class="chinese">祝你有个有效的小憩！</span><span class="english">Good luck with your napping!</span></p>
 
 <p><span class="chinese">我在树顶上小憩，合上双眼。</span><span class="english">I sit in the top of the wood, my eyes closed.</span></p>

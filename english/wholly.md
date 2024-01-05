@@ -1,5 +1,7 @@
 # wholly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wholly.md)
+
 <p><span class="chinese">是你的红唇粘住我的一切。</span><span class="english">Your lips stuck me wholly.</span></p>
 
 <p><span class="chinese">国有独资公司。</span><span class="english">Wholly state-owned company.</span></p>

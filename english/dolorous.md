@@ -1,5 +1,7 @@
 # dolorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dolorous.md)
+
 <p><span class="chinese">那些美好而忧伤的记忆。</span><span class="english">The beautiful and dolorous memory.</span></p>
 
 <p><span class="chinese">哀恸的领唱人的声音向哀伤的祷告者呼唤。</span><span class="english">The voice of the mournful chanter called to dolorous prayer.</span></p>

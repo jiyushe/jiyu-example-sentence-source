@@ -1,5 +1,7 @@
 # oversee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oversee.md)
+
 <p><span class="chinese">他正站在瞭望塔上。</span><span class="english">He is standing on the oversee tower.</span></p>
 
 <p><span class="chinese">政府必须帮助监督这次调整。</span><span class="english">Government must help oversee this recalibration.</span></p>

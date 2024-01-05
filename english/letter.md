@@ -1,5 +1,7 @@
 # letter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/letter.md)
+
 <p><span class="chinese">今日无信！</span><span class="english">No letter today!</span></p>
 
 <p><span class="chinese">这张信给爸爸。</span><span class="english">A letter for Daddy.</span></p>

@@ -1,5 +1,7 @@
 # lineation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lineation.md)
+
 <p><span class="chinese">激光转镜以扫描方式将激光束聚焦扫描成线状光斑。</span><span class="english">Laser rotating mirror scans the focused laser beam into lineation facula.</span></p>
 
 <p><span class="chinese">见到带下划线的文字都想用鼠标去点一下。</span><span class="english">The writing which saw take a lineation all want to use a mouse to the point once.</span></p>

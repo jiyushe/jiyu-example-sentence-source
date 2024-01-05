@@ -1,5 +1,7 @@
 # 外商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waishang_1.md)
+
 <p><span class="chinese">中国是否鼓励外商投资？</span><span class="english">Is foreign investment encouraged in China?</span></p>
 
 <p><span class="chinese">外商云集广州。</span><span class="english">Many foreign merchants gathered in Guangzhou.</span></p>

@@ -1,5 +1,7 @@
 # bigness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bigness.md)
+
 <p><span class="chinese">这似乎就是规模庞大的结果，公司运转机制再灵活也不可避免。</span><span class="english">This seems an inevitable consequence of bigness.</span></p>
 
 <p><span class="chinese">大公司是一直以来都是美国之所以强大的理由。</span><span class="english">Bigness has always been a powerful American theme.</span></p>

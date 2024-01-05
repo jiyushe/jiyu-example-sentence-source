@@ -1,5 +1,7 @@
 # 配料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peiliao.md)
+
 <p><span class="chinese">我在拌和配料做蛋糕。</span><span class="english">I'm mixing a cake.</span></p>
 
 <p><span class="chinese">这是一小包混合配料。</span><span class="english">It was a packet mix.</span></p>

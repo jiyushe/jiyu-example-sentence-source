@@ -1,5 +1,7 @@
 # administration 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/administration.md)
+
 <p><span class="chinese">第三个就是行政管理。</span><span class="english">And the third is administration.</span></p>
 
 <p><span class="chinese">这是口服药吗？</span><span class="english">Is this for oral administration?</span></p>

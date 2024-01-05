@@ -1,5 +1,7 @@
 # seagoing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seagoing.md)
+
 <p><span class="chinese">杰克拥有一艘大型远洋轮的部分所有权。</span><span class="english">Jake had a share in a large, seagoing vessel.</span></p>
 
 <p><span class="chinese">一种古时在地中海内靠桨推进的远洋轮船。</span><span class="english">An ancient Mediterranean seagoing vessel propelled by oars.</span></p>

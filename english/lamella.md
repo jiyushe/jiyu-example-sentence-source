@@ -1,5 +1,7 @@
 # lamella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamella.md)
+
 <p><span class="chinese">穿山甲浑身的鳞片就是它的刺，与指甲相类似。</span><span class="english">The pangolin whole body's lamella is its thorn, is similar with the nail.</span></p>
 
 <p><span class="chinese">精细片层区域的比例随着轧制压下率的提高而增大。</span><span class="english">As the rolling reduction increases, the proportion of fine lamella increases.</span></p>

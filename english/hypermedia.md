@@ -1,5 +1,7 @@
 # hypermedia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypermedia.md)
+
 <p><span class="chinese">名称，增加现有超媒体网络的价值。</span><span class="english">names, adding value to the existing hypermedia network.</span></p>
 
 <p><span class="chinese">超文本和超媒体有一个主要特征，即非线性的信息连接。</span><span class="english">Hypertext and hypermedia have as a major property a non-linear information link.</span></p>

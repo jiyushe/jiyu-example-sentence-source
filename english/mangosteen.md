@@ -1,5 +1,7 @@
 # mangosteen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mangosteen.md)
+
 <p><span class="chinese">我喜欢吃山竹果。</span><span class="english">I like to eat mangosteen.</span></p>
 
 <p><span class="chinese">罗汉果是一个水果来自东南亚。</span><span class="english">Mangosteen is a fruit from southeast Asia.</span></p>

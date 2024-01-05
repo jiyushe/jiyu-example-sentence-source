@@ -1,5 +1,7 @@
 # dampness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dampness.md)
+
 <p><span class="chinese">冬日的寒冷与潮湿。</span><span class="english">The cold and dampness of winter.</span></p>
 
 <p><span class="chinese">“这是湿气在蒸发哩，”乔答。</span><span class="english">"It's the dampness drying, " replied Jo.</span></p>

@@ -1,5 +1,7 @@
 # 严酷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanku.md)
+
 <p><span class="chinese">这是一个严酷的冬天。</span><span class="english">It was the cruellest winter.</span></p>
 
 <p><span class="chinese">战争更严酷地彰显了这一现实。</span><span class="english">In war, this reality becomes even starker.</span></p>

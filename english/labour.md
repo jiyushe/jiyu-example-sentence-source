@@ -1,5 +1,7 @@
 # labour 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/labour.md)
+
 <p><span class="chinese">劳动创造世界。</span><span class="english">Labour creates the world.</span></p>
 
 <p><span class="chinese">他靠正当的劳动生活。</span><span class="english">He lives by honest labour.</span></p>

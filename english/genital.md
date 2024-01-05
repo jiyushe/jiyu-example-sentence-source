@@ -1,5 +1,7 @@
 # genital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genital.md)
+
 <p><span class="chinese">别担心生殖器疱疹或者艾滋病病毒。</span><span class="english">Don't worry about genital herpes or HIV.</span></p>
 
 <p><span class="chinese">生殖器疱疹让人又恼尴尬。</span><span class="english">Having genital herpes is annoying and embarrassing.</span></p>

@@ -1,5 +1,7 @@
 # scramjet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scramjet.md)
+
 <p><span class="chinese">破纪录的“超音速燃烧冲压喷气发动机”</span><span class="english">Record-breaking "Scramjet"</span></p>
 
 <p><span class="chinese">氢注入及冲压点火测试。</span><span class="english">Hydrogen injection and scramjet ignition testing.</span></p>

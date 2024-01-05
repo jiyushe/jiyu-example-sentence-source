@@ -1,5 +1,7 @@
 # 临街
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linjie.md)
+
 <p><span class="chinese">我想要个不临街的安静房间。</span><span class="english">I’d like a quiet room away from the street.</span></p>
 
 <p><span class="chinese">你是要临街的还是背街的房间?。</span><span class="english">Would you prefer a room on the street or at the back?</span></p>

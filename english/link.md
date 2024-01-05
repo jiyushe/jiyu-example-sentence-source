@@ -1,5 +1,7 @@
 # link
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/link.md)
+
 <p><span class="chinese">谢谢你，林克。</span><span class="english">Thanks, Link.</span></p>
 
 <p><span class="chinese">因此就有了这个链接。</span><span class="english">So there’s the link.</span></p>

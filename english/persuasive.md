@@ -1,5 +1,7 @@
 # persuasive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persuasive.md)
+
 <p><span class="chinese">他是一位非常能取信于人的演讲者。</span><span class="english">He is a very persuasive speaker.</span></p>
 
 <p><span class="chinese">有多少人认为这没有说服力的？</span><span class="english">How many don't find it persuasive?</span></p>

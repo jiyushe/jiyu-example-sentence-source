@@ -1,5 +1,7 @@
 # subsistent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsistent.md)
+
 <p><span class="chinese">后顾性文艺是社会的客观存在。</span><span class="english">The "looking back" literature and art is an objective social subsistent.</span></p>
 
 <p><span class="chinese">他们作为一个艺术群体有着自己的特殊性和存在的意义。</span><span class="english">As an art community, they have their own particularity and subsistent significance.</span></p>

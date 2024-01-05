@@ -1,5 +1,7 @@
 # 蹑手蹑脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nieshouniejiao.md)
+
 <p><span class="chinese">她蹑手蹑脚地走到窗前。</span><span class="english">She tiptoed to the window.</span></p>
 
 <p><span class="chinese">她蹑手蹑脚地走出了房间。</span><span class="english">She tiptoed out of the room.</span></p>

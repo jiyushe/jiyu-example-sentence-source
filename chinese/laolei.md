@@ -1,5 +1,7 @@
 # 劳累
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laolei.md)
+
 <p><span class="chinese">他死于过分劳累。</span><span class="english">He died from overwork.</span></p>
 
 <p><span class="chinese">当心不要过分劳累。</span><span class="english">Don't overwork that excuse.</span></p>

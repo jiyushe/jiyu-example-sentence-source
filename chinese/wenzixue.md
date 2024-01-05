@@ -1,5 +1,7 @@
 # 文字学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenzixue.md)
+
 <p><span class="chinese">第一、哲学全书排斥只是零碎的知识的聚集，例如，文字学似属于此类的知识。</span><span class="english">An encyclopaedia of philosophy excludes three kinds of partial science. I.</span></p>
 
 <p><span class="chinese">孙诒让先生无论在古文字学方面还是在古籍整理方面，都是大家。</span><span class="english">Mr. Sun yi-rang is a master both in paleography and ancient books sifting.</span></p>

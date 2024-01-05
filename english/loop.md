@@ -1,5 +1,7 @@
 # loop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loop.md)
+
 <p><span class="chinese">有插笔孔。</span><span class="english">Pen loop.</span></p>
 
 <p><span class="chinese">带环腰。</span><span class="english">Belt loop waist.</span></p>

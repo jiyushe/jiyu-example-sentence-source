@@ -1,5 +1,7 @@
 # 抛出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paochu_1.md)
+
 <p><span class="chinese">杰克抛出绳索套住了那头小公牛。</span><span class="english">Jack dabbed his rope on the steer.</span></p>
 
 <p><span class="chinese">他把椅子从窗户中抛出。</span><span class="english">He hove a chair through the window.</span></p>

@@ -1,5 +1,7 @@
 # 查检
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chajian.md)
+
 <p><span class="chinese">其中有许多同形异义词，查检使用时须加分辨。</span><span class="english">There are many homonyms, so you have to distinguish.</span></p>
 
 <p><span class="chinese">邮递员正在查检信件和报刊。</span><span class="english">The postman is going through the newspaper, and mail.</span></p>

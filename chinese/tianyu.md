@@ -1,5 +1,7 @@
 # 天宇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianyu.md)
+
 <p><span class="chinese">而隐晦得像犹太人的天宇</span><span class="english">And obscure as that heaven of the Jews</span></p>
 
 <p><span class="chinese">再没有迟来的光照耀我的天宇。</span><span class="english">No later light has lightened up my heaven.</span></p>

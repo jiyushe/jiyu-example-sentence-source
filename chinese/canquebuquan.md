@@ -1,5 +1,7 @@
 # 残缺不全
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canquebuquan.md)
+
 <p><span class="chinese">这套茶具残缺不全。</span><span class="english">The tea set is incomplete.</span></p>
 
 <p><span class="chinese">这套茶具残缺不全。</span><span class="english">This tea set is incomplete.</span></p>

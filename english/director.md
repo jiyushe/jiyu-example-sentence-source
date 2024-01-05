@@ -1,5 +1,7 @@
 # director 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/director.md)
+
 <p><span class="chinese">泰妈作为导演水准如何？</span><span class="english">How was Tyra as a director?</span></p>
 
 <p><span class="chinese">我想成为一名电视导演。</span><span class="english">I want to be a TV director.</span></p>

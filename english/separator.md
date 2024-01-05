@@ -1,5 +1,7 @@
 # separator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/separator.md)
+
 <p><span class="chinese">在导航器中添加分隔线</span><span class="english">Add separator lines to the navigator</span></p>
 
 <p><span class="chinese">分油机旁边有一个预热器。</span><span class="english">There is a preheater near the oil separator.</span></p>

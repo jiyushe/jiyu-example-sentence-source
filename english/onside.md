@@ -1,5 +1,7 @@
 # onside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onside.md)
+
 <p><span class="chinese">裁判宣布他没有越位。</span><span class="english">The referee declared him onside.</span></p>
 
 <p><span class="chinese">但从此后我们又怎么知道什么是真的分布有利？</span><span class="english">But then, how do we know what is really onside ?</span></p>

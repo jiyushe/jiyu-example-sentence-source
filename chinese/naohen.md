@@ -1,5 +1,7 @@
 # 恼恨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naohen.md)
+
 <p><span class="chinese">弟兄们，如果世界恼恨你们，不必惊奇。</span><span class="english">Wonder not, brethren, if the world hate you.</span></p>
 
 <p><span class="chinese">我们喜欢或恼恨对方，也是反射作用。</span><span class="english">It is also reflection that we like or hate a person.</span></p>

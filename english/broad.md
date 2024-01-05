@@ -1,5 +1,7 @@
 # broad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broad.md)
+
 <p><span class="chinese">街路变宽了。</span><span class="english">Street Road broad.</span></p>
 
 <p><span class="chinese">这是一个大趋势。</span><span class="english">It's a broad trend.</span></p>

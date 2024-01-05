@@ -1,5 +1,7 @@
 # nasty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nasty.md)
+
 <p><span class="chinese">他就是一个淫僧。</span><span class="english">He is a nasty monk.</span></p>
 
 <p><span class="chinese">那些食物好恶心。</span><span class="english">That food is nasty.</span></p>

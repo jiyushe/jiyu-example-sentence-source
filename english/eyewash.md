@@ -1,5 +1,7 @@
 # eyewash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyewash.md)
+
 <p><span class="chinese">他说我的理论大多数是无稽之谈。</span><span class="english">He said most of my theory is eyewash.</span></p>
 
 <p><span class="chinese">测试每个安全喷淋和洗眼器的报警器。</span><span class="english">C. Test alarm of every safety shower and eyewash station.</span></p>

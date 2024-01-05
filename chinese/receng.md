@@ -1,5 +1,7 @@
 # 热层
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/receng.md)
+
 <p><span class="chinese">尽管如此，该热层塌陷是比太阳的活动可以解释的理由还要剧烈。</span><span class="english">Still, the collapse of the thermosphere was bigger than the sun's activity alone can explain.</span></p>
 
 <p><span class="chinese">当太阳活动高，太阳极端的紫外线加热并扩大热层。</span><span class="english">When solar activity is high, solar extreme ultraviolet rays warm and expand the thermosphere.</span></p>

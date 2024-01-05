@@ -1,5 +1,7 @@
 # 仙乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianle.md)
+
 <p><span class="chinese">为什么仙乐说他杀了她？</span><span class="english">Why XianLe said he killed her?</span></p>
 
 <p><span class="chinese">在我们耳中，鲸和海豚的叫声如同仙乐般美妙。</span><span class="english">The songs of whales and dolphins can be beautiful to the ear.</span></p>

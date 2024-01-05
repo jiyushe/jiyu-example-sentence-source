@@ -1,5 +1,7 @@
 # beguile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beguile.md)
+
 <p><span class="chinese">什么也欺骗不了这位老人。</span><span class="english">Nothing can beguile the old man.</span></p>
 
 <p><span class="chinese">不要让潮流迷惑了你自己。</span><span class="english">Don't let the fashion- mongers beguile you.</span></p>

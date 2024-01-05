@@ -1,5 +1,7 @@
 # molt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molt.md)
+
 <p><span class="chinese">这种兽药对于防治兽类掉毛很有效。</span><span class="english">This veterinary product is very effective in preventing molt.</span></p>
 
 <p><span class="chinese">这种兽药对于防治兽类掉毛很有效。</span><span class="english">This veterinary product is very effective in preventing animal molt.</span></p>

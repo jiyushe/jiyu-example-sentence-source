@@ -1,5 +1,7 @@
 # sparing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sparing.md)
+
 <p><span class="chinese">楞场堆满了木材，一点多余的空间都没有了。</span><span class="english">The relay place is stacked with lumber, sparing no room.</span></p>
 
 <p><span class="chinese">灰质和皮质下U形纤维尚正常。</span><span class="english">There is sparing of gray matter and subcortical U-fibers.</span></p>

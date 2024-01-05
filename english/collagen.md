@@ -1,5 +1,7 @@
 # collagen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collagen.md)
+
 <p><span class="chinese">而有些细胞可以降解胶原蛋白</span><span class="english">Some cells digest collagen.</span></p>
 
 <p><span class="chinese">这种胶原蛋白不会被排出。</span><span class="english">This kind of collagen will last.</span></p>

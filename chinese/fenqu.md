@@ -1,5 +1,7 @@
 # 分区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenqu.md)
+
 <p><span class="chinese">分区表。</span><span class="english">Partition tables.</span></p>
 
 <p><span class="chinese">分区是什么?</span><span class="english">What Are Partitions?</span></p>

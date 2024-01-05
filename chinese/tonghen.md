@@ -1,5 +1,7 @@
 # 痛恨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghen.md)
+
 <p><span class="chinese">我痛恨罪恶。</span><span class="english">I hate sin.</span></p>
 
 <p><span class="chinese">我痛恨这一点。</span><span class="english">I hate this.</span></p>

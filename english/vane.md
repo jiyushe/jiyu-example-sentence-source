@@ -1,5 +1,7 @@
 # vane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vane.md)
+
 <p><span class="chinese">范恩剧院，愿为您效劳。</span><span class="english">Vane Theater, at your service.</span></p>
 
 <p><span class="chinese">茜比尔·范把头往后一仰，大笑起来。</span><span class="english">Vane tossed her head and laughed.</span></p>

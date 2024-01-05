@@ -1,5 +1,7 @@
 # 小样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyang.md)
+
 <p><span class="chinese">小样的，你有两下子。</span><span class="english">Small one, you have tow down son.</span></p>
 
 <p><span class="chinese">小样的，你有两下子！</span><span class="english">Small one, you have two down son.</span></p>

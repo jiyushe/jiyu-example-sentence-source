@@ -1,5 +1,7 @@
 # strung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strung.md)
+
 <p><span class="chinese">真该把他吊死。</span><span class="english">He should be strung up!</span></p>
 
 <p><span class="chinese">他拖长了他的演讲。</span><span class="english">He strung out his lecture.</span></p>

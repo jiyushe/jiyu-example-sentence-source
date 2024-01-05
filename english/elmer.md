@@ -1,5 +1,7 @@
 # elmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elmer.md)
+
 <p><span class="chinese">这件作品都是用白胶浆黏合的。</span><span class="english">They were glued by Elmer this time.</span></p>
 
 <p><span class="chinese">你能想到的颜色埃尔默不能穿？</span><span class="english">Can you think of a color Elmer can't wear?</span></p>

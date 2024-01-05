@@ -1,5 +1,7 @@
 # organophosphate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organophosphate.md)
+
 <p><span class="chinese">综述了有机磷酸酯类化合物对机体的影响。</span><span class="english">The effects of organophosphate compounds on the organism were sum up.</span></p>
 
 <p><span class="chinese">农药中毒以有机磷杀虫剂居首位。</span><span class="english">The pesticide poisoning reduced mainly by organophosphate insecticide.</span></p>

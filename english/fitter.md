@@ -1,5 +1,7 @@
 # fitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fitter.md)
+
 <p><span class="chinese">它可以帮助你成为钳工。</span><span class="english">It can help you to become fitter.</span></p>
 
 <p><span class="chinese">这个车工兼钳工的工人不到二十五岁。</span><span class="english">The turner and fitter is under twenty-five.</span></p>

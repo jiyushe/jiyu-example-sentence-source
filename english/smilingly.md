@@ -1,5 +1,7 @@
 # smilingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smilingly.md)
+
 <p><span class="chinese">他笑迷迷地看着我。</span><span class="english">He looked at me smilingly.</span></p>
 
 <p><span class="chinese">管家大爷笑眯眯的说。</span><span class="english">The maid big Ye smilingly says.</span></p>

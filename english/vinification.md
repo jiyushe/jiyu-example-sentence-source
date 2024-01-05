@@ -1,5 +1,7 @@
 # vinification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vinification.md)
+
 <p><span class="chinese">酿造白葡萄酒比酿造白葡萄酒更精巧一些。</span><span class="english">Vinification of white wine is more delicate than vinification of red wine.</span></p>
 
 <p><span class="chinese">梅西亚葡萄酒利用最精致的葡萄酒酿造技艺生产，产品质量卓越。</span><span class="english">The products of Messias with high-quality are made by using the best vinification technology.</span></p>

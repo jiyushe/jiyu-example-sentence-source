@@ -1,5 +1,7 @@
 # 水淋淋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilinlin.md)
+
 <p><span class="chinese">她满脸汗水淋淋。</span><span class="english">Her face dripped with sweat.</span></p>
 
 <p><span class="chinese">她满脸汗水淋淋。</span><span class="english">She was dripping with sweat.</span></p>

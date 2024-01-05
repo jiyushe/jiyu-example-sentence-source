@@ -1,5 +1,7 @@
 # 疑案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yian.md)
+
 <p><span class="chinese">与气候变化相关的疑案</span><span class="english">A climate change-related mystery</span></p>
 
 <p><span class="chinese">警察成功破解了这个疑案。</span><span class="english">Police have succeeded in solving the mystery.</span></p>

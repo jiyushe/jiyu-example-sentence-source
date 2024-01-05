@@ -1,5 +1,7 @@
 # upsurge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upsurge.md)
+
 <p><span class="chinese">革命的新高潮来了。</span><span class="english">A new upsurge of revolution has come.</span></p>
 
 <p><span class="chinese">一个建设之新高潮正在兴起。</span><span class="english">A new upsurge in construction is in the making.</span></p>

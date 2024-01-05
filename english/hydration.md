@@ -1,5 +1,7 @@
 # hydration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydration.md)
+
 <p><span class="chinese">水合保湿著色。</span><span class="english">"Hydration" moisturizing color.</span></p>
 
 <p><span class="chinese">通过环己烯水合制备环己醇。</span><span class="english">Hydration of cyclohexene to cyclohexanol.</span></p>

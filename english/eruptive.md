@@ -1,5 +1,7 @@
 # eruptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eruptive.md)
+
 <p><span class="chinese">喷气口和跟岩浆口是不一样的。</span><span class="english">An eruptive vent is different from a crater.</span></p>
 
 <p><span class="chinese">间歇泉是一种间歇喷发的温泉。</span><span class="english">A geyser is an intermittently eruptive hot spring.</span></p>

@@ -1,5 +1,7 @@
 # recumbent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recumbent.md)
+
 <p><span class="chinese">如何使经常骑自行车到卧位。</span><span class="english">How to make a regular bike into a recumbent.</span></p>
 
 <p><span class="chinese">它无声无息地向那斜倚着的女人走去。</span><span class="english">It glided noiselessly towards the recumbent woman.</span></p>

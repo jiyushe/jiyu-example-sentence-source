@@ -1,5 +1,7 @@
 # 甜酸苦辣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiansuankula.md)
+
 <p><span class="chinese">他以尝遍了人生的甜酸苦辣。</span><span class="english">He has tasted sweets and bitters of life.</span></p>
 
 <p><span class="chinese">他已尝遍了一生的甜酸苦辣。</span><span class="english">He get tasted the sweets or bitters of life.</span></p>

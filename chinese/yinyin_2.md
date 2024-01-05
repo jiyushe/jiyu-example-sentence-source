@@ -1,5 +1,7 @@
 # 隐隐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyin_2.md)
+
 <p><span class="chinese">一个男人隐隐出现在黑暗中。</span><span class="english">A man loomed up out of the darkness.</span></p>
 
 <p><span class="chinese">在薄雾中隐隐可见一根旗杆。</span><span class="english">A flagpole loomed up through the mist.</span></p>

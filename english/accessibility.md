@@ -1,5 +1,7 @@
 # accessibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accessibility.md)
+
 <p><span class="chinese">提取以用于无障碍设备。</span><span class="english">Extract for use by accessibility dev.</span></p>
 
 <p><span class="chinese">无处不在，可靠并且易用。</span><span class="english">Ubiquity, reliability and accessibility.</span></p>

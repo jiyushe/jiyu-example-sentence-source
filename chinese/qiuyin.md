@@ -1,5 +1,7 @@
 # 蚯蚓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuyin.md)
+
 <p><span class="chinese">他们掘蚯蚓做钓饵。</span><span class="english">They dug worms for bait.</span></p>
 
 <p><span class="chinese">把蚯蚓装在鱼钩上作为钓饵。</span><span class="english">Bait your hook with a worm.</span></p>

@@ -1,5 +1,7 @@
 # contaminated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contaminated.md)
+
 <p><span class="chinese">酒已经把他的衬衫弄脏了。</span><span class="english">The wine had contaminated his shirt.</span></p>
 
 <p><span class="chinese">不要沾染官僚主义作风。</span><span class="english">Don't be contaminated by bureaucratism.</span></p>

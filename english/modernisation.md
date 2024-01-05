@@ -1,5 +1,7 @@
 # modernisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modernisation.md)
+
 <p><span class="chinese">东陶以及其产品已经成为现代化的一个标志。</span><span class="english">Toto and its products became a symbol of modernisation.</span></p>
 
 <p><span class="chinese">你觉得伦敦的现代化进程如何？</span><span class="english">What do you think of the modernisation that is going on in London?</span></p>

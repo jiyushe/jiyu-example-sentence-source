@@ -1,5 +1,7 @@
 # 天下无双
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianxiawushuang.md)
+
 <p><span class="chinese">那是我天下无双的你的笑容。</span><span class="english">I'm the king of the world.</span></p>
 
 <p><span class="chinese">她是天下无双的美人儿。</span><span class="english">She is a beauty without peer.</span></p>

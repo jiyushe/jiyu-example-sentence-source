@@ -1,5 +1,7 @@
 # 遗俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yisu.md)
+
 <p><span class="chinese">“爱国精神是石器时代的遗俗。”科格兰温和地说。</span><span class="english">"A relic of the stone age, " declared Coglan, warmly.</span></p>
 
 <p><span class="chinese">或者仅仅是某种没有恶意的古代异教遗俗？</span><span class="english">Or is it just a harmless vestige of some ancient pagan ritual?</span></p>

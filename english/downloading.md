@@ -1,5 +1,7 @@
 # downloading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downloading.md)
+
 <p><span class="chinese">“常识媒体”创始人兼总主编丽兹·佩尔说，“免费下载歌曲，叫偷？</span><span class="english">Downloading a song for free.</span></p>
 
 <p><span class="chinese">谢谢你下载思维导图。</span><span class="english">Thank you for downloading FreeMind.</span></p>

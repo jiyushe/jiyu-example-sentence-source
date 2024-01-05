@@ -1,5 +1,7 @@
 # 颐养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyang_2.md)
+
 <p><span class="chinese">精神养生保健颐养精神。</span><span class="english">Mental health care home for the spirit.</span></p>
 
 <p><span class="chinese">这就是为什么富人们要到这里颐养天年，他们的到来为尼斯增色。</span><span class="english">That's why so many rich people have ended up here.</span></p>

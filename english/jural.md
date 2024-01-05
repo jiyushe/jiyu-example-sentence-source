@@ -1,5 +1,7 @@
 # jural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jural.md)
+
 <p><span class="chinese">虽然，从法律上看，目前大多数集体企业…</span><span class="english">Although, from jural look, at present most cooperative.</span></p>
 
 <p><span class="chinese">国家不作为法律上的主体参加诉讼。</span><span class="english">The main body with national jural nonfeasance joins suit.</span></p>

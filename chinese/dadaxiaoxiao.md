@@ -1,5 +1,7 @@
 # 大大小小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadaxiaoxiao.md)
+
 <p><span class="chinese">这大大小小的石狮子。</span><span class="english">I've seen many stone lions.</span></p>
 
 <p><span class="chinese">数以千计大大小小的唱片店也都关门大吉了。</span><span class="english">So did thousands of smaller stores.</span></p>

@@ -1,5 +1,7 @@
 # 空空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongkong.md)
+
 <p><span class="chinese">空空的大厅里发出回声。</span><span class="english">The empty hall echoed.</span></p>
 
 <p><span class="chinese">我看了一眼空空的水碗。</span><span class="english">I glanced at the empty water bowl.</span></p>

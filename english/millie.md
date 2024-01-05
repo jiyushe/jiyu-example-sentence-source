@@ -1,5 +1,7 @@
 # millie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millie.md)
+
 <p><span class="chinese">我的名字叫米老鼠。</span><span class="english">My name's Millie Mouse.</span></p>
 
 <p><span class="chinese">你好，我的名字是米莉。</span><span class="english">Hello, my name is Millie.</span></p>

@@ -1,5 +1,7 @@
 # 至今
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijin_1.md)
+
 <p><span class="chinese">有两名至今还在监狱。</span><span class="english">Two are still in jail.</span></p>
 
 <p><span class="chinese">但是至今，还没有回应。</span><span class="english">But no answers were given.</span></p>

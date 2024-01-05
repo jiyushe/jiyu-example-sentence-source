@@ -1,5 +1,7 @@
 # 一钱不值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqianbuzhi.md)
+
 <p><span class="chinese">这幅假画一钱不值。</span><span class="english">The fake painting is worthless.</span></p>
 
 <p><span class="chinese">事实上，这小我根柢一钱不值。</span><span class="english">The truth is, the man's not worth a hill of beans.</span></p>

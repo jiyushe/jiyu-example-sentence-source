@@ -1,5 +1,7 @@
 # notebook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notebook.md)
+
 <p><span class="chinese">记事本和笔.</span><span class="english">Notebook and pen.</span></p>
 
 <p><span class="chinese">我有一个笔记簿。</span><span class="english">I have a notebook.</span></p>

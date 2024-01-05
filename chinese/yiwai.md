@@ -1,5 +1,7 @@
 # 以外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwai.md)
+
 <p><span class="chinese">除了身高以外。</span><span class="english">Besides in height.</span></p>
 
 <p><span class="chinese">我除了同意以外别无选择。</span><span class="english">I had no option but to agree.</span></p>

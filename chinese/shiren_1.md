@@ -1,5 +1,7 @@
 # 士人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiren_1.md)
+
 <p><span class="chinese">这就是芝华士人生。</span><span class="english">That is chivas life.</span></p>
 
 <p><span class="chinese">腓利士人来自梭烈谷。</span><span class="english">A philistine from the valley of Sorek.</span></p>

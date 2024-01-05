@@ -1,5 +1,7 @@
 # seagull
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seagull.md)
+
 <p><span class="chinese">我是海鸥。</span><span class="english">I am a seagull.</span></p>
 
 <p><span class="chinese">这只海鸥在大洋上沾一沾水。</span><span class="english">The seagull dipped in the ocean.</span></p>

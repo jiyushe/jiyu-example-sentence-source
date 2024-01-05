@@ -1,5 +1,7 @@
 # pasquale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pasquale.md)
+
 <p><span class="chinese">福贾表示他并不确定自己下赛季将会为哪支球队效力。</span><span class="english">Pasquale Foggia admits he's unsure of where he will be playing next season.</span></p>
 
 <p><span class="chinese">老祖父帕斯夸莱·奥利瓦，朝那不勒斯小店窗户看了看，同意了她的观点。</span><span class="english">Grandfather Pasquale Oliva , looking into a shop window in Naples agreed with her.</span></p>

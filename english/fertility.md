@@ -1,5 +1,7 @@
 # fertility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fertility.md)
+
 <p><span class="chinese">这是繁殖力的象征。</span><span class="english">That's a symbol of fertility.</span></p>
 
 <p><span class="chinese">有损害生育能力的危险。</span><span class="english">R62 Risk of impaired fertility.</span></p>

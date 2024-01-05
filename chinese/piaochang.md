@@ -1,5 +1,7 @@
 # 嫖娼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaochang.md)
+
 <p><span class="chinese">他去嫖娼。</span><span class="english">He went whoring.</span></p>
 
 <p><span class="chinese">如果你参与嫖娼，你就间接资助了人口拐卖的活动。</span><span class="english">If you pay a prostitute, you're financing human trading.</span></p>

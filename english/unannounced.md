@@ -1,5 +1,7 @@
 # unannounced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unannounced.md)
+
 <p><span class="chinese">神的恩典造访也常不期而至，意外忽来。</span><span class="english">God comes with an unannounced invasion of mercy.</span></p>
 
 <p><span class="chinese">督学们进行了一次突击视察。</span><span class="english">The school inspectors make an unannounced visit.</span></p>

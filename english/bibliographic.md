@@ -1,5 +1,7 @@
 # bibliographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bibliographic.md)
+
 <p><span class="chinese">一件事情是NISO书目控制网络研讨会。</span><span class="english">One was the NISO Webinar on Bibliographic Control.</span></p>
 
 <p><span class="chinese">另一个关注书目的实验位于semanticlibrary.org。</span><span class="english">Another, bibliographic focused, experiment can be found at semanticlibrary.org.</span></p>

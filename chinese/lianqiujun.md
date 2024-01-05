@@ -1,5 +1,7 @@
 # 链球菌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianqiujun.md)
+
 <p><span class="chinese">猪的链球菌怎么治疗？</span><span class="english">Of the pig streptococcic how to treat?</span></p>
 
 <p><span class="chinese">例如，乳酸菌，乳链球菌。</span><span class="english">Lactobacillus spp. , Streptococcus lactis.</span></p>

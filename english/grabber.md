@@ -1,5 +1,7 @@
 # grabber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grabber.md)
+
 <p><span class="chinese">你需要有人注意你。</span><span class="english">You need an attention grabber.</span></p>
 
 <p><span class="chinese">一个视频采集卡功能也将需要。</span><span class="english">A video grabber feature would be needed as well.</span></p>

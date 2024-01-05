@@ -1,5 +1,7 @@
 # unmoved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmoved.md)
+
 <p><span class="chinese">大师无动于衷。</span><span class="english">The Master was unmoved.</span></p>
 
 <p><span class="chinese">他，岿然不动，注视她。</span><span class="english">And he, unmoved , regarded her.</span></p>

@@ -1,5 +1,7 @@
 # vestibular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vestibular.md)
+
 <p><span class="chinese">门厅小桌，茶几，镜子都是树脂材料的。</span><span class="english">Vestibular teapoy, tea table, the mirror is colophony material.</span></p>
 
 <p><span class="chinese">前庭手种红兰树，看到春风第二芽。</span><span class="english">Vestibular tree I planted red and blue, to see the second spring buds.</span></p>

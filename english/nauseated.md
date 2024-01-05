@@ -1,5 +1,7 @@
 # nauseated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nauseated.md)
+
 <p><span class="chinese">我感觉昏眩作呕。</span><span class="english">I feel dizzy and nauseated.</span></p>
 
 <p><span class="chinese">有过恶心，呕吐吗？</span><span class="english">Have you ever nauseated or vomited?</span></p>

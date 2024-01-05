@@ -1,5 +1,7 @@
 # lawson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawson.md)
+
 <p><span class="chinese">我是高顿·劳森。</span><span class="english">This is Gordon Lawson.</span></p>
 
 <p><span class="chinese">知道了，谢谢你打电话来，劳森先生。</span><span class="english">I see. Well, thank you for calling, Mr. Lawson.</span></p>

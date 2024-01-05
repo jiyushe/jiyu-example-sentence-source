@@ -1,5 +1,7 @@
 # 差事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaishi.md)
+
 <p><span class="chinese">一度也是我的差事。</span><span class="english">It was mine, once.</span></p>
 
 <p><span class="chinese">我是专程来办一件差事的。</span><span class="english">I've come on a special errand.</span></p>

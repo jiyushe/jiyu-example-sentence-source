@@ -1,5 +1,7 @@
 # 是否
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifou.md)
+
 <p><span class="chinese">是否已超买?</span><span class="english">OVERBOUGHT?</span></p>
 
 <p><span class="chinese">是否是小说？</span><span class="english">Is it fiction?</span></p>

@@ -1,5 +1,7 @@
 # slovenly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slovenly.md)
+
 <p><span class="chinese">过光棍生活，胜过有一个邋遢老婆。</span><span class="english">Better a bachelor's life than a slovenly wife.</span></p>
 
 <p><span class="chinese">单身汉的生活好于有一个懒散的妻子。</span><span class="english">Better a bachelor 's life than a slovenly wife.</span></p>

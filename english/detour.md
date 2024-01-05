@@ -1,5 +1,7 @@
 # detour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detour.md)
+
 <p><span class="chinese">他们得绕过路障。</span><span class="english">They had to detour a road-block.</span></p>
 
 <p><span class="chinese">此路不通，行人绕行。</span><span class="english">No Through Route For Pedestrians Detour.</span></p>

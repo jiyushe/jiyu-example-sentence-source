@@ -1,5 +1,7 @@
 # 走卒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouzu.md)
+
 <p><span class="chinese">整件事情都是走卒一个?。</span><span class="english">Just a pawn in all this?</span></p>
 
 <p><span class="chinese">这名成员现在是一名“走卒”。</span><span class="english">The member is now a 'foot soldier'.</span></p>

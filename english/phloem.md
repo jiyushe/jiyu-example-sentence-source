@@ -1,5 +1,7 @@
 # phloem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phloem.md)
+
 <p><span class="chinese">树皮的汞含量与韧皮部相近。</span><span class="english">This had similar mercury levels to the phloem.</span></p>
 
 <p><span class="chinese">根的次生韧皮部则由筛胞和韧皮薄壁细胞组成。</span><span class="english">The secondary phloem consisted of sieve cells and phloem parenchymas.</span></p>

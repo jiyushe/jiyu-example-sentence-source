@@ -1,5 +1,7 @@
 # functionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/functionally.md)
+
 <p><span class="chinese">但事实上，我们需要的是功能稳定。</span><span class="english">But all it has to be is functionally stable.</span></p>
 
 <p><span class="chinese">花两性的或植株功能上为雌雄异株。</span><span class="english">Flowers hermaphroditic or plants functionally dioecious.</span></p>

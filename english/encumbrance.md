@@ -1,5 +1,7 @@
 # encumbrance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encumbrance.md)
+
 <p><span class="chinese">现在我成为累赘了。</span><span class="english">Now I should be an encumbrance.</span></p>
 
 <p><span class="chinese">在你看来，我已经成为累赘？</span><span class="english">Am I a encumbrance in your eyes?</span></p>

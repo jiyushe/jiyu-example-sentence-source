@@ -1,5 +1,7 @@
 # duck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duck.md)
+
 <p><span class="chinese">鸭子嘎嘎地叫。</span><span class="english">A duck quacks.</span></p>
 
 <p><span class="chinese">丑小鸭也想学飞？</span><span class="english">Duck tries to fly?</span></p>

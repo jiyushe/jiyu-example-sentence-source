@@ -1,5 +1,7 @@
 # 平民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingmin.md)
+
 <p><span class="chinese">这些平民又能起到多大作用呢？</span><span class="english">Where they going to be?</span></p>
 
 <p><span class="chinese">一个低贱的平民进入元老院?。</span><span class="english">A lowly pleb in the Senate?</span></p>

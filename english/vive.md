@@ -1,5 +1,7 @@
 # vive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vive.md)
+
 <p><span class="chinese">树袋熊住在澳大利亚。</span><span class="english">El koala vive en Australia.</span></p>
 
 <p><span class="chinese">法兰西万岁！</span><span class="english">Vive la France! Long live France!</span></p>

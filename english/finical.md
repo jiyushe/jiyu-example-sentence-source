@@ -1,5 +1,7 @@
 # finical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finical.md)
+
 <p><span class="chinese">方法回顾总结分析580例经产妇剖宫产的临床资料。</span><span class="english">Methods The finical information of 580 multiparas were analyzed.</span></p>
 
 <p><span class="chinese">联邦及州政府的经济援助只针对美国公民。</span><span class="english">Federal and state finical financial aid can only go to American citizens.</span></p>

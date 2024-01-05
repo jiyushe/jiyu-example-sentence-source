@@ -1,5 +1,7 @@
 # cambodia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cambodia.md)
+
 <p><span class="chinese">柬埔寨将维族骚乱分子驱逐回中国。</span><span class="english">Cambodia deports Uygurs back to China.</span></p>
 
 <p><span class="chinese">中国和柬埔寨是肝胆相照的好朋友。</span><span class="english">China and Cambodia are devoted friends.</span></p>

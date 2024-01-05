@@ -1,5 +1,7 @@
 # headquarter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headquarter.md)
+
 <p><span class="chinese">我们的总部设在香港。</span><span class="english">Our headquarter is in Hongkong.</span></p>
 
 <p><span class="chinese">新公司会将总部设在巴黎。</span><span class="english">The new company will headquarter in Paris.</span></p>

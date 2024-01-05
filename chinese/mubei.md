@@ -1,5 +1,7 @@
 # 墓碑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mubei.md)
+
 <p><span class="chinese">墓碑上的秘密。</span><span class="english">Secrets on gravestones.</span></p>
 
 <p><span class="chinese">她的目光盯在了那墓碑上。</span><span class="english">Her gaze stayed on the grave.</span></p>

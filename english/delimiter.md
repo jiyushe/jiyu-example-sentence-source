@@ -1,5 +1,7 @@
 # delimiter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delimiter.md)
+
 <p><span class="chinese">所使用的分隔符字符。</span><span class="english">The Delimiter character in use.</span></p>
 
 <p><span class="chinese">默认的字段分隔符是制表符。</span><span class="english">The default field delimiter is the tab character.</span></p>

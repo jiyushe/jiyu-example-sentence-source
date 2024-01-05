@@ -1,5 +1,7 @@
 # enterocolitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enterocolitis.md)
+
 <p><span class="chinese">逐步排除非炎症性肠病的诊断方法也被采用。</span><span class="english">A stepwise approach to exclude non-IBD enterocolitis also must be introduced.</span></p>
 
 <p><span class="chinese">膳食纤维还有利于化疗引起的肠道炎症恢复。</span><span class="english">Dietary fiber also can facilitate intestinal recovery after enterocolitis induced by chemotherapy.</span></p>

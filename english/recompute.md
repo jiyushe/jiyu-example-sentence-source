@@ -1,5 +1,7 @@
 # recompute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recompute.md)
+
 <p><span class="chinese">这意味着程序员必须始终跟踪或重新计算剩余的空间。</span><span class="english">That means programmers have to keep track or recompute how much space is left all the time.</span></p>
 
 <p><span class="chinese">但是，这会导致你的活动重新计算和重绘基于新的大小布局。</span><span class="english">However, this causes your activity to recompute and redraw the layout based on its new size.</span></p>

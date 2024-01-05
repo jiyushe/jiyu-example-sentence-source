@@ -1,5 +1,7 @@
 # hertha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hertha.md)
+
 <p><span class="chinese">安德烈-沃罗宁已经证实下赛季他不会呆在柏林赫塔。</span><span class="english">Andriy Voronin has confirmed that he will not be staying at Hertha Berlin next season.</span></p>
 
 <p><span class="chinese">却在上赛季被租借到柏林赫塔期间大爆发，取得了20场11球的不俗成绩。</span><span class="english">He spent most of last season on loan at Hertha Berlin, where he scored 11 goals in 20 games.</span></p>

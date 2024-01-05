@@ -1,5 +1,7 @@
 # electrokinetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrokinetic.md)
+
 <p><span class="chinese">络合剂和酸度控制对土壤铬电动过程的影响。</span><span class="english">Influence of complexes and acidity control on electrokinetic process of soil chromium.</span></p>
 
 <p><span class="chinese">研究了固体浓度对方解石动电行为的影响。</span><span class="english">The effect of solid concentrations on the electrokinetic behavior of calcite was studied.</span></p>

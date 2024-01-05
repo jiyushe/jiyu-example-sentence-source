@@ -1,5 +1,7 @@
 # 锣鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luogu.md)
+
 <p><span class="chinese">锣鼓听声，听话听音。</span><span class="english">Hark ! I can hear their voices.</span></p>
 
 <p><span class="chinese">锣鼓听声，听话听音。</span><span class="english">He listened but could not hear.</span></p>

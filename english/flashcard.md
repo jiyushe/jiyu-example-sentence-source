@@ -1,5 +1,7 @@
 # flashcard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flashcard.md)
+
 <p><span class="chinese">将闪示卡拿在头上方。</span><span class="english">Hold the flashcard over your head.</span></p>
 
 <p><span class="chinese">将闪示卡拿在前面。</span><span class="english">Hold the flashcard in front of you.</span></p>

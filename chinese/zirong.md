@@ -1,5 +1,7 @@
 # 姿容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zirong.md)
+
 <p><span class="chinese">见了你憔悴的姿容，大地也含悲而湿润。</span><span class="english">As the dank earth weeps at thy languishment.</span></p>
 
 <p><span class="chinese">一个湖是风景中最美、最有表情的姿容。</span><span class="english">A lake is the landscape's most beautiful and expressive feature.</span></p>

@@ -1,5 +1,7 @@
 # 敲敲打打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoqiaodada.md)
+
 <p><span class="chinese">老约翰只管继续敲敲打打地干活儿。</span><span class="english">Old John kept right on hammering.</span></p>
 
 <p><span class="chinese">学校外的工地敲敲打打的声音让人很是烦躁。</span><span class="english">The school crooked work site strikes the sound lets the human very is agitated.</span></p>

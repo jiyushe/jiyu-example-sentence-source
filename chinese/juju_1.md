@@ -1,5 +1,7 @@
 # 踽踽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juju_1.md)
+
 <p><span class="chinese">我踽踽独行，前路一片漆黑。</span><span class="english">I am alone and the road is very dark.</span></p>
 
 <p><span class="chinese">在现实通往梦想的那条路上，只有我一个人，踽踽独行可我充满希望。</span><span class="english">I'm along on the way to my dream, but I'm full of hope.</span></p>

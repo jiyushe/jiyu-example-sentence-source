@@ -1,5 +1,7 @@
 # thylacine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thylacine.md)
+
 <p><span class="chinese">在灭尽的动物里，袋狼算是最惨的了。</span><span class="english">In the extinction of animal, the thylacine is the worst.</span></p>
 
 <p><span class="chinese">在灭绝的动物里，袋狼算是最惨的了。</span><span class="english">In the extinction of animal, the thylacine is the worst.</span></p>

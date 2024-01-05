@@ -1,5 +1,7 @@
 # epistolary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epistolary.md)
+
 <p><span class="chinese">西丽的成长过程也在她写信过程中得到了充分的表现。</span><span class="english">Celie's growth can also be shown from the epistolary form.</span></p>
 
 <p><span class="chinese">在这些作家的努力下，书信体小说被推向了高峰。</span><span class="english">By these authors' efforts, epistolary novels were pushed to the peak.</span></p>

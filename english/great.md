@@ -1,5 +1,7 @@
 # great
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/great.md)
+
 <p><span class="chinese">真是天大的喜讯！</span><span class="english">Great news!</span></p>
 
 <p><span class="chinese">好棒的一课。</span><span class="english">Great class.</span></p>

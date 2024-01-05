@@ -1,5 +1,7 @@
 # similarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/similarity.md)
+
 <p><span class="chinese">相似性。</span><span class="english">Similarity.</span></p>
 
 <p><span class="chinese">相似的人会相轻“</span><span class="english">"Similarity breeds contempt?"</span></p>

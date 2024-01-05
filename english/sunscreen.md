@@ -1,5 +1,7 @@
 # sunscreen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunscreen.md)
+
 <p><span class="chinese">不要忘了抹点防晒油哟！</span><span class="english">Don't forget your sunscreen.</span></p>
 
 <p><span class="chinese">我早告诉你要擦防晒油了。</span><span class="english">I told you to use sunscreen.</span></p>

@@ -1,5 +1,7 @@
 # 茱萸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyu_1.md)
+
 <p><span class="chinese">茱萸入药，可制酒养身祛病。</span><span class="english">Cornel medicine, liquor health illnesses.</span></p>
 
 <p><span class="chinese">茱萸是一种草，它细细长长的，又是绿油油的。</span><span class="english">Dogwood dis a grass, it be long, it is green.</span></p>

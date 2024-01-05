@@ -1,5 +1,7 @@
 # 掩蔽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanbi_1.md)
+
 <p><span class="chinese">它能掩蔽所有的人吗？</span><span class="english">Can it shelter all of them?</span></p>
 
 <p><span class="chinese">这个土丘可做我们的掩蔽物。</span><span class="english">The mound can be used as our screen.</span></p>

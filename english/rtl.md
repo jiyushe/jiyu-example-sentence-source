@@ -1,5 +1,7 @@
 # rtl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rtl.md)
+
 <p><span class="chinese">布鲁内塔17日在接受意大利RTL广播电台采访时证实了他的这一想法。</span><span class="english">He confirmed it Sunday in an interview with RTL radio.</span></p>
 
 <p><span class="chinese">RTL混合可满足性求解是RTL验证中的关键技术。</span><span class="english">RTL hybrid satisfiability solving is the key technique of RTL verification.</span></p>

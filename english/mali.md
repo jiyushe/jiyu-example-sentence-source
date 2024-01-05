@@ -1,5 +1,7 @@
 # mali
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mali.md)
+
 <p><span class="chinese">图中是马面共跟国巴马科市中心的一条繁闲的街讲。</span><span class="english">A busy street in the middle of Bamako, Mali.</span></p>
 
 <p><span class="chinese">与象牙海岸和冈比亚不同，马里没有海港。</span><span class="english">Unlike Ivory Coast and Gambia, Mali has no seaports.</span></p>

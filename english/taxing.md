@@ -1,5 +1,7 @@
 # taxing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taxing.md)
+
 <p><span class="chinese">城市生活无疑是繁重的。</span><span class="english">City living can be taxing.</span></p>
 
 <p><span class="chinese">通过税收来募集资金很难。</span><span class="english">It's just hard to raise money by taxing.</span></p>

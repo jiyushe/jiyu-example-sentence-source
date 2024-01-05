@@ -1,5 +1,7 @@
 # cosmodrome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmodrome.md)
+
 <p><span class="chinese">但航天器发射场只是俄罗斯新的空间雄心的开始。</span><span class="english">But the cosmodrome is just a start for Russia's new space ambitions.</span></p>
 
 <p><span class="chinese">多达30,000专家可能会参与建造这个新的航天器发射场。</span><span class="english">Up to 30,000 specialists could be brought in to build the new cosmodrome.</span></p>

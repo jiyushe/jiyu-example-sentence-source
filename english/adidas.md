@@ -1,5 +1,7 @@
 # adidas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adidas.md)
+
 <p><span class="chinese">我想买双运动鞋，要阿迪达斯牌的。</span><span class="english">I want a pair of sports shoes, Adidas.</span></p>
 
 <p><span class="chinese">非标橡胶鞋底，时尚阿迪达斯标志。</span><span class="english">Non-marking rubber outsole and fashionable Adidas logo.</span></p>

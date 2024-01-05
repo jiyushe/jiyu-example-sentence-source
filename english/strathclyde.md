@@ -1,5 +1,7 @@
 # strathclyde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strathclyde.md)
+
 <p><span class="chinese">斯特拉斯克莱德大学的心理学家阿尔斯达尔•罗丝说，男性觉得，有个漂亮的妻子让很有面子。</span><span class="english">Strathclyde University psychologist Alastair Ross said many men enjoyed the prestige of having a beautiful wife.</span></p>
 
 <p><span class="chinese">斯特拉斯克莱德大学的心理学家阿尔斯达尔·罗丝说，很多男性觉得，有个漂亮的妻子让自己很有面子。</span><span class="english">Strathclyde University psychologist Alastair Ross said many men enjoyed the prestige of having a beautiful wife."Men</span></p>

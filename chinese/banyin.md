@@ -1,5 +1,7 @@
 # 伴音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banyin.md)
+
 <p><span class="chinese">调频比调幅更适合于传送立体声、电视节目的伴音信号。</span><span class="english">FM is also better able to transmit sounds in stereo than AM.</span></p>
 
 <p><span class="chinese">木梁的吱吱声成了井水的伴音。</span><span class="english">Squeak coming from wood beams becomes semitone of well water.</span></p>

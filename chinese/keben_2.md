@@ -1,5 +1,7 @@
 # 课本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keben_2.md)
+
 <p><span class="chinese">我去拿我的课本。</span><span class="english">I'm fetching my textbook.</span></p>
 
 <p><span class="chinese">没有课本-我很困惑。</span><span class="english">No textbooks—I was confused.</span></p>

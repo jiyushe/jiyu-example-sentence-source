@@ -1,5 +1,7 @@
 # 曝光表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoguangbiao.md)
+
 <p><span class="chinese">我们来查一下曝光表。</span><span class="english">Let's have a look at the exposure meter.</span></p>
 
 <p><span class="chinese">另外还带有一个装曝光表的盒子。</span><span class="english">And there's an exposure meter in a case attached.</span></p>

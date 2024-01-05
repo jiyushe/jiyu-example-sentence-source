@@ -1,5 +1,7 @@
 # 照壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaobi.md)
+
 <p><span class="chinese">你看见那照壁上的图案了吗。</span><span class="english">Look at the patterns on this screen.</span></p>
 
 <p><span class="chinese">其飞檐照壁雕刻精美。</span><span class="english">Beautifully carved cornices its Zhaobi.</span></p>

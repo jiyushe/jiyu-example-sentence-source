@@ -1,5 +1,7 @@
 # ape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ape.md)
+
 <p><span class="chinese">试想，一个裸猿怎么样？</span><span class="english">How about a naked ape?</span></p>
 
 <p><span class="chinese">猿猴之于人是什么？</span><span class="english">What is the ape to man ?</span></p>

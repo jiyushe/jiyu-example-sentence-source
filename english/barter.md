@@ -1,5 +1,7 @@
 # barter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barter.md)
+
 <p><span class="chinese">以货易货。</span><span class="english">Barter.</span></p>
 
 <p><span class="chinese">易货是收入。</span><span class="english">Barter is income.</span></p>

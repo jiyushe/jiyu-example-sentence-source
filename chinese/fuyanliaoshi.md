@@ -1,5 +1,7 @@
 # 敷衍了事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyanliaoshi.md)
+
 <p><span class="chinese">敷衍了事太傻了，你为什么就不说出来？</span><span class="english">Why don't you just say it.</span></p>
 
 <p><span class="chinese">这个测试必须不能敷衍了事。</span><span class="english">The tests must not be fudged.</span></p>

@@ -1,5 +1,7 @@
 # occupy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occupy.md)
+
 <p><span class="chinese">筑巢修建或占有一个巢…</span><span class="english">To build or occupy a nest.</span></p>
 
 <p><span class="chinese">一定的体积。</span><span class="english">They occupy a certain volume.</span></p>

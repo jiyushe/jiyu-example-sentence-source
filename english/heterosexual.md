@@ -1,5 +1,7 @@
 # heterosexual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterosexual.md)
+
 <p><span class="chinese">什么是异性恋？</span><span class="english">What is heterosexual?</span></p>
 
 <p><span class="chinese">哦是的，真正的男人是异性恋。</span><span class="english">Oh yeah, real men are heterosexual.</span></p>

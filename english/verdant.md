@@ -1,5 +1,7 @@
 # verdant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verdant.md)
+
 <p><span class="chinese">我爱你青松气质。</span><span class="english">I love your temperament of verdant pines.</span></p>
 
 <p><span class="chinese">我曾在那滴翠的绿荫下。</span><span class="english">I once in under that verdant green shade.</span></p>

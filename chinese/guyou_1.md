@@ -1,5 +1,7 @@
 # 故友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyou_1.md)
+
 <p><span class="chinese">警司故友的到来，打断了他们的对话。</span><span class="english">Then coming his old friend stopped their conversation.</span></p>
 
 <p><span class="chinese">它使他对他故友的思想有了一些了解。</span><span class="english">He has many years' experience of the criminal mentality.</span></p>

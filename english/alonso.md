@@ -1,5 +1,7 @@
 # alonso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alonso.md)
+
 <p><span class="chinese">阿隆索和汉密尔顿谁更强？</span><span class="english">Between Alonso and Hamilton, who is stronger?</span></p>
 
 <p><span class="chinese">但是任何的转会都决定于阿隆索是否转会去皇家马德里。</span><span class="english">Any move is now hinging on Alonso and Real Madrid.</span></p>

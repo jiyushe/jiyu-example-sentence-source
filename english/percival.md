@@ -1,5 +1,7 @@
 # percival
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/percival.md)
+
 <p><span class="chinese">这位画家是实验室的创立者帕西维尔?罗尼尔。</span><span class="english">The artist was the observatory's founder, Percival Lowell.</span></p>
 
 <p><span class="chinese">我的主要敌人是派司沃格纳德大人，而现在派司沃大人死了。</span><span class="english">My main enemy had been Sir Percival Glyde and Sir Percival was now dead.</span></p>

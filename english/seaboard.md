@@ -1,5 +1,7 @@
 # seaboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seaboard.md)
+
 <p><span class="chinese">东北部沿海地带气候潮湿。</span><span class="english">The northeastern seaboard has a humid climate.</span></p>
 
 <p><span class="chinese">洪水淹没了东部沿海各州。</span><span class="english">Floodwaters are inundating states up and down the Eastern Seaboard.</span></p>

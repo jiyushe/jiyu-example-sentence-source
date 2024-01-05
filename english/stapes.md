@@ -1,5 +1,7 @@
 # stapes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stapes.md)
+
 <p><span class="chinese">在镫骨斜位MPR图像上测量镫骨的高度。</span><span class="english">The height of stapes was measured with the oblique MPR.</span></p>
 
 <p><span class="chinese">这两个概念的形成及对它的质疑经历了三个时期。</span><span class="english">It took three stapes to form and query the two important concepts.</span></p>

@@ -1,5 +1,7 @@
 # 地利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dili.md)
+
 <p><span class="chinese">他吃力地利泥泞中跋涉。</span><span class="english">He slogged through the mud.</span></p>
 
 <p><span class="chinese">我例外地利星期日到学校去。</span><span class="english">I went to school on Sunday.</span></p>

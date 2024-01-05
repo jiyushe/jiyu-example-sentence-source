@@ -1,5 +1,7 @@
 # screwball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screwball.md)
+
 <p><span class="chinese">那个怪人把他的衬衣反着穿。</span><span class="english">That screwball is wearing his shirt inside out.</span></p>
 
 <p><span class="chinese">直到我见到他，我才知道他是一个多么古怪的人。</span><span class="english">I never knew what a screwball be is until I met him.</span></p>

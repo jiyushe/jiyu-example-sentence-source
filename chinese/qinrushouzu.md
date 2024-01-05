@@ -1,5 +1,7 @@
 # 亲如手足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinrushouzu.md)
+
 <p><span class="chinese">一家人要和睦共处，亲如手足。</span><span class="english">One wants peace and love in a family.</span></p>
 
 <p><span class="chinese">为了找到答案，Burt和她的同事们研究了289对男性双胞胎，他们长相接近，亲如手足。</span><span class="english">To find out, Burt and her colleagues studied 289 pairs of male twins, both identical and fraternal.</span></p>

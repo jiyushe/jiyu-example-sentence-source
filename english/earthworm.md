@@ -1,5 +1,7 @@
 # earthworm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthworm.md)
+
 <p><span class="chinese">母鸡扒出了一条蚯蚓。</span><span class="english">The hen raked up an earthworm.</span></p>
 
 <p><span class="chinese">他踩死了蚯蚓。</span><span class="english">He trampled the earthworm to death.</span></p>

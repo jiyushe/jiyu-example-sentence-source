@@ -1,5 +1,7 @@
 # 日夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riye.md)
+
 <p><span class="chinese">老天何来那么多的悲痛，日夜泪流不止？</span><span class="english">God why so much grief, and tears?</span></p>
 
 <p><span class="chinese">在所有小时的日夜奋战。</span><span class="english">At all hours of the day and night.</span></p>

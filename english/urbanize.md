@@ -1,5 +1,7 @@
 # urbanize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urbanize.md)
+
 <p><span class="chinese">难道这是让一个农业国走向城市化必须的吗？</span><span class="english">Is this necessary to urbanize a rural country?</span></p>
 
 <p><span class="chinese">政府正在设法把这一地区城市化。</span><span class="english">The government is trying to urbanize this area.</span></p>

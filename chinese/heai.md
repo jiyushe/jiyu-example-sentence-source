@@ -1,5 +1,7 @@
 # 和蔼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heai.md)
+
 <p><span class="chinese">他为人和蔼而忧郁。</span><span class="english">He was affable and sad.</span></p>
 
 <p><span class="chinese">莉莎特和蔼地看了他一眼。</span><span class="english">Lisette gave him a kindly look.</span></p>

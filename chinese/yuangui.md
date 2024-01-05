@@ -1,5 +1,7 @@
 # 圆规
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuangui.md)
+
 <p><span class="chinese">他有三副圆规。</span><span class="english">He has two pairs of compasses.</span></p>
 
 <p><span class="chinese">用圆规把一个角二等分。</span><span class="english">Use your compass to bisect an angle.</span></p>

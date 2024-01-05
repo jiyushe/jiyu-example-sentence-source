@@ -1,5 +1,7 @@
 # 风凉话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenglianghua.md)
+
 <p><span class="chinese">她常说风凉话。</span><span class="english">She often makes insensitive remarks.</span></p>
 
 <p><span class="chinese">这些风凉话何时了？或者有什麽事迫你非说不可？</span><span class="english">Shall windy words have no end? or is it any trouble to thee to speak?</span></p>

@@ -1,5 +1,7 @@
 # crock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crock.md)
+
 <p><span class="chinese">缸里盛满了酒。</span><span class="english">The crock isfilled with wine.</span></p>
 
 <p><span class="chinese">这简直是一堆臭屎。</span><span class="english">This is such a crock of shit.</span></p>

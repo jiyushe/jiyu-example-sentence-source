@@ -1,5 +1,7 @@
 # 流水线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liushuixian.md)
+
 <p><span class="chinese">这种技术称为流水线。</span><span class="english">This is known as pipelining.</span></p>
 
 <p><span class="chinese">适用全部包装流水线喷刻字码要求。</span><span class="english">Apply all packing line moment demands.</span></p>

@@ -1,5 +1,7 @@
 # aside 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aside.md)
+
 <p><span class="chinese">把那些放到一边。</span><span class="english">Put those aside.</span></p>
 
 <p><span class="chinese">杰德把我叫到另一边。</span><span class="english">Jed took me aside.</span></p>

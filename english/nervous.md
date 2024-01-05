@@ -1,5 +1,7 @@
 # nervous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nervous.md)
+
 <p><span class="chinese">你太紧张。</span><span class="english">You're nervous.</span></p>
 
 <p><span class="chinese">别紧张。</span><span class="english">Don't be nervous.</span></p>

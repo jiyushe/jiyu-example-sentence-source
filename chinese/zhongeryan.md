@@ -1,5 +1,7 @@
 # 中耳炎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongeryan.md)
+
 <p><span class="chinese">您患了急性中耳炎。</span><span class="english">You have acute otitis media.</span></p>
 
 <p><span class="chinese">急性中耳炎是最常见的儿童。</span><span class="english">Symptoms of otitis media is how to do?</span></p>

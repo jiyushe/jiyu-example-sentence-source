@@ -1,5 +1,7 @@
 # mag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mag.md)
+
 <p><span class="chinese">而是tickle，这是镁。</span><span class="english">It's tickle. This is mag.</span></p>
 
 <p><span class="chinese">镁是极限反应物。</span><span class="english">Mag is the limiting reagent.</span></p>

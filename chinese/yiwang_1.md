@@ -1,5 +1,7 @@
 # 已往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwang_1.md)
+
 <p><span class="chinese">健忘已往，驾驭如今，才无将来。</span><span class="english">Forget the past and look to now.</span></p>
 
 <p><span class="chinese">他能记得已往的事情。</span><span class="english">He could remember events in the past.</span></p>

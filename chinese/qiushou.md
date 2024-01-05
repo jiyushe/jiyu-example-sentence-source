@@ -1,5 +1,7 @@
 # 秋收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiushou.md)
+
 <p><span class="chinese">秋收之后，我们把粮食储存起来。</span><span class="english">After harvest we store the grain.</span></p>
 
 <p><span class="chinese">生春夏长，秋收冬藏。</span><span class="english">Born in spring and summer, autumn.</span></p>

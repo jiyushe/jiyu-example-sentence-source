@@ -1,5 +1,7 @@
 # own
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/own.md)
+
 <p><span class="chinese">我没有硬抢过来的意思…</span><span class="english">I don't own them.</span></p>
 
 <p><span class="chinese">我可以吸到自己。</span><span class="english">I can suck my own.</span></p>

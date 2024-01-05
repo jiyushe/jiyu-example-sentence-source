@@ -1,5 +1,7 @@
 # dual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dual.md)
+
 <p><span class="chinese">双重启动。</span><span class="english">Dual booting.</span></p>
 
 <p><span class="chinese">我拥有双重性格。</span><span class="english">I have dual personality.</span></p>

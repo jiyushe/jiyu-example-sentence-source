@@ -1,5 +1,7 @@
 # 侵蚀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinshi_1.md)
+
 <p><span class="chinese">强酸侵蚀金属。</span><span class="english">Strong acids attack metals.</span></p>
 
 <p><span class="chinese">侵蚀目标的蒸汽。</span><span class="english">Vapor that corrodes target.</span></p>

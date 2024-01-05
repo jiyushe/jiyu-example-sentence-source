@@ -1,5 +1,7 @@
 # transistor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transistor.md)
+
 <p><span class="chinese">售主晶体管逻辑?。</span><span class="english">VTL? Vendor Transistor Logic?</span></p>
 
 <p><span class="chinese">双极性接面电晶体。</span><span class="english">The Bipolar Junction Transistor.</span></p>

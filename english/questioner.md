@@ -1,5 +1,7 @@
 # questioner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/questioner.md)
+
 <p><span class="chinese">我就是那天提问的人。</span><span class="english">I was the questioner that day.</span></p>
 
 <p><span class="chinese">他们站着互相怒目而视。</span><span class="english">He puffed up and glared at the importuning questioner.</span></p>

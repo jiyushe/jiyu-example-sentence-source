@@ -1,5 +1,7 @@
 # reunification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reunification.md)
+
 <p><span class="chinese">岛和平统一的日子不会很远了。</span><span class="english">Island of peaceful reunification days not very far.</span></p>
 
 <p><span class="chinese">和平统一，远胜过黄金和彩虹的辉耀。</span><span class="english">A peaceful reunification is greater than having gold.</span></p>

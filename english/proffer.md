@@ -1,5 +1,7 @@
 # proffer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proffer.md)
+
 <p><span class="chinese">我愿意帮助他。</span><span class="english">I proffer to help him.</span></p>
 
 <p><span class="chinese">他提出的意见被采纳了。</span><span class="english">His proffer of advice was accepted.</span></p>

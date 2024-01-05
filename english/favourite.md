@@ -1,5 +1,7 @@
 # favourite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favourite.md)
+
 <p><span class="chinese">鱼是我最爱吃的。</span><span class="english">Fish is my favourite.</span></p>
 
 <p><span class="chinese">鳕鱼是我最喜欢吃的。</span><span class="english">Cod is my favourite fish.</span></p>

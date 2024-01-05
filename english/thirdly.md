@@ -1,5 +1,7 @@
 # thirdly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thirdly.md)
+
 <p><span class="chinese">其三是角线。</span><span class="english">It is horny line thirdly.</span></p>
 
 <p><span class="chinese">第三，他应当承受德性教育。</span><span class="english">Thirdly he should receive morwouls educ.</span></p>

@@ -1,5 +1,7 @@
 # appendectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appendectomy.md)
+
 <p><span class="chinese">你是否适合做腹腔镜阑尾切除术？</span><span class="english">ARE YOU A CANDIDATE FOR LAPAROSCOPIC APPENDECTOMY?</span></p>
 
 <p><span class="chinese">阑尾切除术后，给自己安排几个星期的恢复时间。</span><span class="english">Expect a few weeks of recovery from an appendectomy.</span></p>

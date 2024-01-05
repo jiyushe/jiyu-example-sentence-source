@@ -1,5 +1,7 @@
 # 震耳欲聋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheneryulong.md)
+
 <p><span class="chinese">巨大的响声震耳欲聋。</span><span class="english">The sound was deafening.</span></p>
 
 <p><span class="chinese">你们的沉默是震耳欲聋的。</span><span class="english">Your silence is deafening.</span></p>

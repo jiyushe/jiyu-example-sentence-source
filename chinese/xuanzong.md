@@ -1,5 +1,7 @@
 # 玄宗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanzong.md)
+
 <p><span class="chinese">唐玄宗曾经为这种铜镜写过一首诗。</span><span class="english">Emperor Xuanzong of Tang Dynasty once wrote a poem for this kind of bronze mirror.</span></p>
 
 <p><span class="chinese">唐玄宗即位，正式建立翰林院，翰林院待诏各以艺能供奉君主。</span><span class="english">As soon as Emperor Xuanzong ascended the throne, Literati House was established formally.</span></p>

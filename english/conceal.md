@@ -1,5 +1,7 @@
 # conceal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conceal.md)
+
 <p><span class="chinese">时间怎敢隐消？</span><span class="english">Time cannot dare conceal.</span></p>
 
 <p><span class="chinese">我没有隐瞒事实。</span><span class="english">I did not conceal the fact.</span></p>

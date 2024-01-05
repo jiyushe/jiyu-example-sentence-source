@@ -1,5 +1,7 @@
 # 小指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozhi.md)
+
 <p><span class="chinese">玛丽在她的小指上戴了一只戒指。</span><span class="english">Marie wears a ring on her little finger.</span></p>
 
 <p><span class="chinese">摸一下你手掌的小指一侧。</span><span class="english">Feel the little finger edge of your hand.</span></p>

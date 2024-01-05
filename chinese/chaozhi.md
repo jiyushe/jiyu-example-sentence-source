@@ -1,5 +1,7 @@
 # 超支
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaozhi.md)
+
 <p><span class="chinese">这个月我们有点超支了。</span><span class="english">We're a little overspent this month.</span></p>
 
 <p><span class="chinese">你也不会在这些项目上超支。</span><span class="english">You don’t overspend in these categories.</span></p>

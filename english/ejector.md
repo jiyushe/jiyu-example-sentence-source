@@ -1,5 +1,7 @@
 # ejector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ejector.md)
+
 <p><span class="chinese">顶针导柱的安装。</span><span class="english">Ejector guide pins installation.</span></p>
 
 <p><span class="chinese">详细的引射器的机制，在行动上。</span><span class="english">A detail of the ejector mechanism in action.</span></p>

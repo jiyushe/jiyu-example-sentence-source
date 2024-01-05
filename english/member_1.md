@@ -1,5 +1,7 @@
 # member 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/member_1.md)
+
 <p><span class="chinese">您是否本教会的会员？</span><span class="english">Are you a CCMC member?</span></p>
 
 <p><span class="chinese">切片器是成员集。</span><span class="english">Slicers are member sets.</span></p>

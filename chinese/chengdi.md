@@ -1,5 +1,7 @@
 # 呈递
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengdi.md)
+
 <p><span class="chinese">我向系里呈递了辞职书。</span><span class="english">I filed my resignation with the department.</span></p>
 
 <p><span class="chinese">她已经向警察局呈递了诉状。</span><span class="english">She has lodged a complaint with the police.</span></p>

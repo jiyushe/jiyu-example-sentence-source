@@ -1,5 +1,7 @@
 # debater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debater.md)
+
 <p><span class="chinese">他是个很棒的辩论人才。</span><span class="english">He's a great debater.</span></p>
 
 <p><span class="chinese">他未能驳倒对方的辩论者。</span><span class="english">He was unable to confute the debater.</span></p>

@@ -1,5 +1,7 @@
 # windscreen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windscreen.md)
+
 <p><span class="chinese">风挡玻璃上布满了雨点。</span><span class="english">The windscreen was spotted with rain.</span></p>
 
 <p><span class="chinese">汽车挡风玻璃上刮水器的速度是可变的。</span><span class="english">The speed of the windscreen wipers is variable.</span></p>

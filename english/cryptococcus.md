@@ -1,5 +1,7 @@
 # cryptococcus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryptococcus.md)
+
 <p><span class="chinese">新型隐球菌脑膜炎GMS染色法显示细胞核。</span><span class="english">This is a Cryptococcus neoformans meningitis stained with GMS to reveal the nuclei.</span></p>
 
 <p><span class="chinese">目的探讨新型隐球菌性脑膜炎的有效治疗途径。</span><span class="english">Objective To explore the way to effective treatment in Cryptococcus neoformans meningitis.</span></p>

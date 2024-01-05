@@ -1,5 +1,7 @@
 # 批文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piwen.md)
+
 <p><span class="chinese">进口药可以直接销售吗，要不要国内批文？</span><span class="english">Imported drugs can do direct sales, not to domestic approval?</span></p>
 
 <p><span class="chinese">着陆许可证或者其它的批文通常需要更复杂的过程和更长的时间。</span><span class="english">Landing permits and other authorizations often require long processing times.</span></p>

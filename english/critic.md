@@ -1,5 +1,7 @@
 # critic 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/critic.md)
+
 <p><span class="chinese">后来她成为了一个评论家。</span><span class="english">She becomes a critic.</span></p>
 
 <p><span class="chinese">感谢批判者。</span><span class="english">By thanking the critic.</span></p>

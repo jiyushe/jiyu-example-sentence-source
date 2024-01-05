@@ -1,5 +1,7 @@
 # proverbs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proverbs.md)
+
 <p><span class="chinese">所罗门的箴言。</span><span class="english">The proverbs of Solomon.</span></p>
 
 <p><span class="chinese">箴言也说到慷慨大方的原则</span><span class="english">Proverbs also speaks of principles of generosity</span></p>

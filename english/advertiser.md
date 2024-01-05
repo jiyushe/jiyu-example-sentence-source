@@ -1,5 +1,7 @@
 # advertiser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advertiser.md)
+
 <p><span class="chinese">广告客户可以创建广告。</span><span class="english">An advertiser can create an ad.</span></p>
 
 <p><span class="chinese">管理员可以查看广告商和出版商。</span><span class="english">Can Delete or edite a Advertiser Ad.</span></p>

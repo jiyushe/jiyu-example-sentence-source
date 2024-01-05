@@ -1,5 +1,7 @@
 # opener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opener.md)
+
 <p><span class="chinese">没有，没有开瓶器。</span><span class="english">No. No bottle opener.</span></p>
 
 <p><span class="chinese">下扩眼器到海底。</span><span class="english">Run hole opener to sea bed.</span></p>

@@ -1,5 +1,7 @@
 # 添砖加瓦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzhuanjiewa.md)
+
 <p><span class="chinese">为这一设想的实现添砖加瓦成了一件既快乐又激动人心的事。</span><span class="english">Contributing to the vision becomes fun and exciting.</span></p>
 
 <p><span class="chinese">我们有不错的基础，但还需要添砖加瓦。</span><span class="english">We have a good foundation but we need to build on it.</span></p>

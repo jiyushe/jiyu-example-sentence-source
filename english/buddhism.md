@@ -1,5 +1,7 @@
 # buddhism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buddhism.md)
+
 <p><span class="chinese">他改信佛教了。</span><span class="english">He converted to Buddhism.</span></p>
 
 <p><span class="chinese">可以不信佛教。</span><span class="english">You can do without Buddhism.</span></p>

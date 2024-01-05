@@ -1,5 +1,7 @@
 # integrative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/integrative.md)
+
 <p><span class="chinese">它们都是综合性的。</span><span class="english">They are integrative.</span></p>
 
 <p><span class="chinese">什么是感觉统和训练？</span><span class="english">What feeling is integrative training?</span></p>

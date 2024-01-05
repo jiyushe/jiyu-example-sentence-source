@@ -1,5 +1,7 @@
 # 戕害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianghai.md)
+
 <p><span class="chinese">在这儿只有折磨神经戕害身体的苦工，没有思想。</span><span class="english">He had no thoughts save for the nerve-racking, body- destroying toil.</span></p>
 
 <p><span class="chinese">这样的两党共识正在戕害民主和我们的经济前途。</span><span class="english">This bipartisan consensus is damaging, to both democracy and our economic future.</span></p>

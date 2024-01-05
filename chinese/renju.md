@@ -1,5 +1,7 @@
 # 刃具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renju.md)
+
 <p><span class="chinese">中山钢锋硬质合金刃具有限公司！</span><span class="english">Zhong Shan Gang Feng Horniness Alloy Cutlery Co. , Ltd.</span></p>
 
 <p><span class="chinese">1969年，北京量具刃具厂开始采用光亮淬火。</span><span class="english">In 1969, the following enterprise by Beijing gage start light quenching.</span></p>

@@ -1,5 +1,7 @@
 # construe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/construe.md)
+
 <p><span class="chinese">这一段不能分析。</span><span class="english">This passage won't construe.</span></p>
 
 <p><span class="chinese">那一句不能分析。</span><span class="english">The sentence does not construe.</span></p>

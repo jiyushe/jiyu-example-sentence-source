@@ -1,5 +1,7 @@
 # layering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/layering.md)
+
 <p><span class="chinese">良好的分层可以带来许多好处。</span><span class="english">Good layering can cover a multitude of sins.</span></p>
 
 <p><span class="chinese">那正是很好的封装和智能分层方式。</span><span class="english">That's just good encapsulation and smart layering.</span></p>

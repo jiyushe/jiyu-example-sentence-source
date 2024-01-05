@@ -1,5 +1,7 @@
 # overelaborate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overelaborate.md)
+
 <p><span class="chinese">这些手续真罗嗦。</span><span class="english">All these formalities are overelaborate.</span></p>
 
 <p><span class="chinese">阿森纳，他们说，观赏性很好，但是太过于精细了。</span><span class="english">Arsenal, they say, are eye-catching but overelaborate.</span></p>

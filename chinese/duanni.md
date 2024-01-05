@@ -1,5 +1,7 @@
 # 端倪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanni.md)
+
 <p><span class="chinese">但盛到盆子里就发现了端倪。</span><span class="english">Sung to the pot to find clues.</span></p>
 
 <p><span class="chinese">一个艰难的长期性斗争已在参议院初露端倪。</span><span class="english">A long, hard battle now looms in the Senate.</span></p>

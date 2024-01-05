@@ -1,5 +1,7 @@
 # excite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excite.md)
+
 <p><span class="chinese">你使我兴奋！</span><span class="english">You excite me!</span></p>
 
 <p><span class="chinese">什么会使我激动？</span><span class="english">What would excite me?</span></p>

@@ -1,5 +1,7 @@
 # conservatoire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conservatoire.md)
+
 <p><span class="chinese">你是一个音乐学院的毕业生？</span><span class="english">Are you a graduate of a Conservatoire?</span></p>
 
 <p><span class="chinese">11岁时，她赢得巴黎音乐学院首奖。</span><span class="english">At the age of 11, she won first prize at the Paris Conservatoire.</span></p>

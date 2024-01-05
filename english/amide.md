@@ -1,5 +1,7 @@
 # amide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amide.md)
+
 <p><span class="chinese">胶凝剂可为一种酰胺胶凝剂。</span><span class="english">The gellant may be an amide gellant.</span></p>
 
 <p><span class="chinese">才了解麸醯胺酸原来是这样的一个东西。</span><span class="english">Glutamic acid amide only know the original is such a thing.</span></p>

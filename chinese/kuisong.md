@@ -1,5 +1,7 @@
 # 馈送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuisong.md)
+
 <p><span class="chinese">结果被馈送给事件消费者。</span><span class="english">This result is then fed into the event consumer.</span></p>
 
 <p><span class="chinese">请注意，上下文在时间上对应于一个馈送的快照。</span><span class="english">Note that a context corresponds to a snapshot of a feed in time.</span></p>

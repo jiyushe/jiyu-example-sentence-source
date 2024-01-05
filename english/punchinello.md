@@ -1,5 +1,7 @@
 # punchinello
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punchinello.md)
+
 <p><span class="chinese">所以胖哥还是回家了。</span><span class="english">So Punchinello went home.</span></p>
 
 <p><span class="chinese">胖哥就是其中之一。</span><span class="english">Punchinello was one of these.</span></p>

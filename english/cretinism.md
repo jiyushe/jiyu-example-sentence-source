@@ -1,5 +1,7 @@
 # cretinism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cretinism.md)
+
 <p><span class="chinese">了解光泽县地方性克汀病20年综合防治的效果。</span><span class="english">To study 20 years disease control effect of endemic cretinism in Guangze County.</span></p>
 
 <p><span class="chinese">克汀病导致精神缺陷和障碍的高发病率。</span><span class="english">Clinical cretinism results in an extremely high degree of mental defectiveness and impairment.</span></p>

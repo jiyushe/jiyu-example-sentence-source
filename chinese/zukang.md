@@ -1,5 +1,7 @@
 # 阻抗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zukang.md)
+
 <p><span class="chinese">大电流低直流阻抗。</span><span class="english">Large Current and Low DCR.</span></p>
 
 <p><span class="chinese">大电流及低直流阻抗。</span><span class="english">Large current and low DCR.</span></p>

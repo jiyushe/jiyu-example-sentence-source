@@ -1,5 +1,7 @@
 # obstructive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obstructive.md)
+
 <p><span class="chinese">这可以导致梗阻性脑积水。</span><span class="english">This can result in obstructive hydrocephalus.</span></p>
 
 <p><span class="chinese">造成阻塞性无精子症的原因有哪些？</span><span class="english">Caused by obstructive azoospermia What are the reasons?</span></p>

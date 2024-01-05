@@ -1,5 +1,7 @@
 # 水蛭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizhi.md)
+
 <p><span class="chinese">你们不会真用吸血的水蛭，对吧？</span><span class="english">You don't use real leaches do you?</span></p>
 
 <p><span class="chinese">不要让水蛭们投票！！！</span><span class="english">No Votes for Leeches ! ! ! ! ! ! ! !</span></p>

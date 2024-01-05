@@ -1,5 +1,7 @@
 # galore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galore.md)
+
 <p><span class="chinese">我们面临许多问题。</span><span class="english">We got problems galore.</span></p>
 
 <p><span class="chinese">这个城市有很多书店。</span><span class="english">There are book-shop galore in this town.</span></p>

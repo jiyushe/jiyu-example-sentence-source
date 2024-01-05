@@ -1,5 +1,7 @@
 # 内部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neibu.md)
+
 <p><span class="chinese">一个模型的内部。</span><span class="english">Inside of a model.</span></p>
 
 <p><span class="chinese">在俱乐部内部的不算。</span><span class="english">And not in fight club.</span></p>

@@ -1,5 +1,7 @@
 # 窃笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiexiao_1.md)
+
 <p><span class="chinese">人们窃笑。</span><span class="english">They titter.</span></p>
 
 <p><span class="chinese">他又窃笑起来。</span><span class="english">He snickered again.</span></p>

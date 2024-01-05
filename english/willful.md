@@ -1,5 +1,7 @@
 # willful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willful.md)
+
 <p><span class="chinese">警方认为那是蓄意谋杀。</span><span class="english">WILFUL】The police think that it was a willful murder.</span></p>
 
 <p><span class="chinese">陪审团宣判此案中第一位接线员故意玩忽职守。</span><span class="english">A jury convicted the first operator of willful neglect.</span></p>

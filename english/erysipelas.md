@@ -1,5 +1,7 @@
 # erysipelas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erysipelas.md)
+
 <p><span class="chinese">猪丹毒怎么治疗？</span><span class="english">How is swine erysipelas treated?</span></p>
 
 <p><span class="chinese">这副药可以消除你的流火。</span><span class="english">This dose of medicine will eradicate your erysipelas.</span></p>

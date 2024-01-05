@@ -1,5 +1,7 @@
 # 作曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoqu.md)
+
 <p><span class="chinese">刚刚播送的是维瓦尔迪作曲的C小调协奏曲。</span><span class="english">That was the concerto in C minor by Vivaldi.</span></p>
 
 <p><span class="chinese">许多人靠写词作曲来谋生。</span><span class="english">Many people earn their living by writing music.</span></p>

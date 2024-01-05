@@ -1,5 +1,7 @@
 # unenviable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unenviable.md)
+
 <p><span class="chinese">他一直身体不好，这可不值得羡慕。</span><span class="english">He has an unenviable record of ill-health.</span></p>
 
 <p><span class="chinese">资讯科技是有一件不值得羡慕的工作经营团队。</span><span class="english">It's a management team with an unenviable task.</span></p>

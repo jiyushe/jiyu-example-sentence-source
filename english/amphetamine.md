@@ -1,5 +1,7 @@
 # amphetamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amphetamine.md)
+
 <p><span class="chinese">安非他命是谁卖给你的？</span><span class="english">Who sold you the amphetamine?</span></p>
 
 <p><span class="chinese">你从哪里得到安非他命？</span><span class="english">Where did you get the amphetamine?</span></p>

@@ -1,5 +1,7 @@
 # intimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intimate.md)
+
 <p><span class="chinese">不可直接用于私密处。</span><span class="english">Not for intimate hygine use.</span></p>
 
 <p><span class="chinese">我和他很贴心。</span><span class="english">I'm tolerably intimate with him.</span></p>

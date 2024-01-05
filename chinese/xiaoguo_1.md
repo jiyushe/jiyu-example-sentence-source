@@ -1,5 +1,7 @@
 # 效果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoguo_1.md)
+
 <p><span class="chinese">切副乳无效果吗？</span><span class="english">No Furu cut effect?</span></p>
 
 <p><span class="chinese">效果为零，效果全无。</span><span class="english">The effect was nil.</span></p>

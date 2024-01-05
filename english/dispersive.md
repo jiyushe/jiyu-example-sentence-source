@@ -1,5 +1,7 @@
 # dispersive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispersive.md)
+
 <p><span class="chinese">当然这种波是弥散的。</span><span class="english">The wave are of course dispersive.</span></p>
 
 <p><span class="chinese">所以现在可以看到，腾讯的决策是比较分散的。</span><span class="english">Can see now so, of Tecent decision-making it is more dispersive.</span></p>

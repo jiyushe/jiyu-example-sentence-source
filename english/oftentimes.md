@@ -1,5 +1,7 @@
 # oftentimes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oftentimes.md)
+
 <p><span class="chinese">而和弦的变化往往都在重拍上</span><span class="english">But where they change oftentimes is on the downbeat.</span></p>
 
 <p><span class="chinese">神两次，三次，向人行这一切的事。</span><span class="english">Lo, all these things worketh God oftentimes with man</span></p>

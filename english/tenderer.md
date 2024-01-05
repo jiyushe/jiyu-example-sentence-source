@@ -1,5 +1,7 @@
 # tenderer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenderer.md)
+
 <p><span class="chinese">投标者交出了她异常纤细娇嫩的手指.</span><span class="english">The tenderer  surrendered her tremendously slender tender fingers.</span></p>
 
 <p><span class="chinese">招标人设有标底的，标底必须保密。</span><span class="english">If a tenderer has a base bid price, it must be kept secret and confidential.</span></p>

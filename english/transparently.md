@@ -1,5 +1,7 @@
 # transparently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transparently.md)
+
 <p><span class="chinese">透明集群POJO。</span><span class="english">Cluster POJOs transparently.</span></p>
 
 <p><span class="chinese">你可以修改透明度和流量。</span><span class="english">You can work transparently or opaquely.</span></p>

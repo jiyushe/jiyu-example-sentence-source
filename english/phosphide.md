@@ -1,5 +1,7 @@
 # phosphide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphide.md)
+
 <p><span class="chinese">每平方米用磷化铝1克，对根蝽有较强的毒杀作用。</span><span class="english">Per square meter with 1 g of aluminum phosphide , the bugs have a stronger root toxicity.</span></p>
 
 <p><span class="chinese">磷化钨催化剂更有利于大分子化合物的HDN反应，是一个良好的HDN催化剂。</span><span class="english">In favor of big molecular HDN reaction, Tungsten phosphide catalyst was a good performance HDN catalyst.</span></p>

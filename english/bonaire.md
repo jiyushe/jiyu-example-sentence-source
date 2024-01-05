@@ -1,5 +1,7 @@
 # bonaire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonaire.md)
+
 <p><span class="chinese">一只海胆正舒适的藏在博内尔岛的珊瑚丛里。</span><span class="english">A sea urchin is nestled in a coral formation off Bonaire Island.</span></p>
 
 <p><span class="chinese">它已袭击了位于加勒比海的阿鲁巴岛。</span><span class="english">It has already battered the Caribbean islands of Aruba, Curasao and Bonaire.</span></p>

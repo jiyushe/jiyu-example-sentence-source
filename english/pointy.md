@@ -1,5 +1,7 @@
 # pointy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pointy.md)
+
 <p><span class="chinese">尖头鞋是今年的流行款式。</span><span class="english">Pointy shoes are the fashion this year.</span></p>
 
 <p><span class="chinese">去吧，你们这些聪明的尖头失败者们！</span><span class="english">Take that, you pointy -headed failures!</span></p>

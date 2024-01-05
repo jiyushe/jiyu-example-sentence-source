@@ -1,5 +1,7 @@
 # 可望而不可及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kewangerbukeji.md)
+
 <p><span class="chinese">在他的幻梦中，那岛屿似乎成了可望而不可及的阿卡狄亚了。</span><span class="english">In his fancy the Island seemed an unattainable Arcadia.</span></p>
 
 <p><span class="chinese">现在这个目标不再可望而不可及了。</span><span class="english">Now that objective is no longer tantalizingly out of reach.</span></p>

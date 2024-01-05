@@ -1,5 +1,7 @@
 # rickety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rickety.md)
+
 <p><span class="chinese">这个东倒西歪的粮仓该修理了。</span><span class="english">The rickety barn needs repairing.</span></p>
 
 <p><span class="chinese">碰到保险丝烧断了，家具榫头松了。</span><span class="english">When lights fuse, furniture gets rickety.</span></p>

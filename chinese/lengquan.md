@@ -1,5 +1,7 @@
 # 冷泉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengquan.md)
+
 <p><span class="chinese">在冷泉汇成的水面上漂流着。</span><span class="english">Drifting over water fed by cool springs.</span></p>
 
 <p><span class="chinese">她把火炬往四周冷泉里一浸。</span><span class="english">This brand she quenched in a cool well by.</span></p>

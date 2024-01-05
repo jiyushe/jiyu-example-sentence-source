@@ -1,5 +1,7 @@
 # wiry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wiry.md)
+
 <p><span class="chinese">外层披毛为刚毛，毛质硬，内层底毛柔软浓密。</span><span class="english">It is a hard, wiry outer coat with a soft, dense undercoat.</span></p>
 
 <p><span class="chinese">海姆尔的学徒是个叫内尔的精瘦红发小伙。</span><span class="english">Hammer's apprentice was a wiry red-haired youth called Nail.</span></p>

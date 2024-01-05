@@ -1,5 +1,7 @@
 # seal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seal.md)
+
 <p><span class="chinese">把它封上！</span><span class="english">Seal it off !</span></p>
 
 <p><span class="chinese">第五道封印是什么？</span><span class="english">What's the fifth seal?</span></p>

@@ -1,5 +1,7 @@
 # 悄声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaosheng.md)
+
 <p><span class="chinese">“我需要帮助，”我悄声说。</span><span class="english">“I need help” I whispered.</span></p>
 
 <p><span class="chinese">她是悄声说的，所以我没有听见。</span><span class="english">She said it in a whisper, so I didn't hear.</span></p>

@@ -1,5 +1,7 @@
 # 刺槐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cihuai.md)
+
 <p><span class="chinese">刺槐在遗传特性上表现为深根性树种。</span><span class="english">Robinia Pseudoacacia is a deep root tree.</span></p>
 
 <p><span class="chinese">水是影响黄土高原地区刺槐生长的主要因子。</span><span class="english">Water is a main factor affecting locust growth.</span></p>

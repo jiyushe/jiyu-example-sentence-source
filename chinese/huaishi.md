@@ -1,5 +1,7 @@
 # 坏事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaishi.md)
+
 <p><span class="chinese">坏事传千年。</span><span class="english">A bad thing neer dies.</span></p>
 
 <p><span class="chinese">坏事遗臭万年。</span><span class="english">A bad thing never dies.</span></p>

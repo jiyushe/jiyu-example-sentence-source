@@ -1,5 +1,7 @@
 # zooplankton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zooplankton.md)
+
 <p><span class="chinese">此区主要由浮游植物和浮游动物组成。</span><span class="english">The main forms of life in the limnetic zone are phytoplankton and zooplankton.</span></p>
 
 <p><span class="chinese">枝角类和桡足类是淡水浮游动物的主要组成部分。</span><span class="english">Cladocerans and copepods are two important components in freshwater zooplankton.</span></p>

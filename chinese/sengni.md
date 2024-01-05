@@ -1,5 +1,7 @@
 # 僧尼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sengni.md)
+
 <p><span class="chinese">现存寺院48处，僧尼数百人。</span><span class="english">Existing temple in nuns hundreds of people, 48.</span></p>
 
 <p><span class="chinese">再次，关于隋唐时期的僧尼角色冲突。</span><span class="english">Again, about part conflict of monastic in Sui and Tang dynasty.</span></p>

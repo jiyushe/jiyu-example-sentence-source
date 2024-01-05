@@ -1,5 +1,7 @@
 # 专一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyi.md)
+
 <p><span class="chinese">你是个用情专一的人。</span><span class="english">You are a one-girl guy!</span></p>
 
 <p><span class="chinese">他的爱太专一了。</span><span class="english">He loves them too exclusively.</span></p>

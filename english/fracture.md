@@ -1,5 +1,7 @@
 # fracture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fracture.md)
+
 <p><span class="chinese">导联也可能断裂。</span><span class="english">Leads can also fracture.</span></p>
 
 <p><span class="chinese">有一点骨裂。</span><span class="english">There's a hairline fracture.</span></p>

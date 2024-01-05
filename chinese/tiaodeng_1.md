@@ -1,5 +1,7 @@
 # 条凳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaodeng_1.md)
+
 <p><span class="chinese">宽大的长条桌和条凳。</span><span class="english">Wide long tables and lifestyle.</span></p>
 
 <p><span class="chinese">一只松鼠在条凳上趴着睡着了。</span><span class="english">A sleeping squirrel stretches out on a bench.</span></p>

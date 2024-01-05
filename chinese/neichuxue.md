@@ -1,5 +1,7 @@
 # 内出血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neichuxue.md)
+
 <p><span class="chinese">他几小时后死于内出血。</span><span class="english">He died hours later from internal bleeding.</span></p>
 
 <p><span class="chinese">然而，并没有任何的措施阻止这种内出血。</span><span class="english">Yet nothing is being done to stem the haemorrhaging.</span></p>

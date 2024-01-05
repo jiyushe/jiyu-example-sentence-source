@@ -1,5 +1,7 @@
 # 皂荚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaojia.md)
+
 <p><span class="chinese">你要用皂荚木做一座烧香的坛。</span><span class="english">Make an altar of acacia wood for burning incense.</span></p>
 
 <p><span class="chinese">他用皂荚木做香坛，是四方的，长一寸，宽一寸，高二寸。</span><span class="english">They made the altar of incense out of acacia wood.</span></p>

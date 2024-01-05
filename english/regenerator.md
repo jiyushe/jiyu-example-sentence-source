@@ -1,5 +1,7 @@
 # regenerator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regenerator.md)
+
 <p><span class="chinese">回热器位于冷阱的上部。</span><span class="english">The regenerator is above the cold trap.</span></p>
 
 <p><span class="chinese">这与再生器的实际情况是相符的。</span><span class="english">This is in accordance with the actual conditions of regenerator.</span></p>

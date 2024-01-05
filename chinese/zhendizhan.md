@@ -1,5 +1,7 @@
 # 阵地战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhendizhan.md)
+
 <p><span class="chinese">我们在小区域内进行很多的阵地战演练。</span><span class="english">We do a lot of positional play in small spaces.</span></p>
 
 <p><span class="chinese">进攻战术单一，阵地战以通过中锋进攻为主。</span><span class="english">The monotony of strategy, position attack is mainly carried out by the center forward.</span></p>

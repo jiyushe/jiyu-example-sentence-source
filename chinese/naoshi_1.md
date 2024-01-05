@@ -1,5 +1,7 @@
 # 闹事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoshi_1.md)
+
 <p><span class="chinese">我向他宣读了“取缔闹事法”。</span><span class="english">I read him the riot act.</span></p>
 
 <p><span class="chinese">外面是一片聚众闹事的景象。</span><span class="english">It's a mob scene out there.</span></p>

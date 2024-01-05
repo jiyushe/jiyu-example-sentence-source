@@ -1,5 +1,7 @@
 # anionic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anionic.md)
+
 <p><span class="chinese">多功能增效剂MAT属阴离子表面活性剂。</span><span class="english">Multifunctiona synergist MAT is a king of anionic surfactant.</span></p>
 
 <p><span class="chinese">相反，对阴离子活性剂观察到相反的效应。</span><span class="english">On the contrary, for the anionic surfactant an opposite effect was observed.</span></p>

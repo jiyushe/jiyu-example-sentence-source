@@ -1,5 +1,7 @@
 # cereus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cereus.md)
+
 <p><span class="chinese">水加热则成为蒸汽，冷却则成为冰。</span><span class="english">So desert should take heat with cereus.</span></p>
 
 <p><span class="chinese">这些胡言乱语的文字，它们只是指尖开出的昙花。</span><span class="english">These words of nonsense, are only the night-blooming cereus.</span></p>

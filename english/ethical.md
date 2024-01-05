@@ -1,5 +1,7 @@
 # ethical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethical.md)
+
 <p><span class="chinese">这是一个道德问题吗？</span><span class="english">And is this an ethical issue?</span></p>
 
 <p><span class="chinese">孩之宝之外，还存在合乎良知的替代品。</span><span class="english">There are ethical alternatives.</span></p>

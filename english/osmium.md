@@ -1,5 +1,7 @@
 # osmium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osmium.md)
+
 <p><span class="chinese">在金属中锇的密度很高。</span><span class="english">Osmium has the highest density.</span></p>
 
 <p><span class="chinese">锇在工业中可以用做催化剂。</span><span class="english">The osmium may use in the industry to make the catalyst.</span></p>

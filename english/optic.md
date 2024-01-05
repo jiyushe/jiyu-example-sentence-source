@@ -1,5 +1,7 @@
 # optic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optic.md)
+
 <p><span class="chinese">光纤传感器在土木工程中的应用。</span><span class="english">Fiber optic sensors in the Waterbury Bridge.</span></p>
 
 <p><span class="chinese">光纤跳线、光源、光功率计。</span><span class="english">Fiber optic jumper, light, light power meter.</span></p>

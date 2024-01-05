@@ -1,5 +1,7 @@
 # 升迁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengqian.md)
+
 <p><span class="chinese">如何升迁隔行视频吗？</span><span class="english">How to upsize interlaced video?</span></p>
 
 <p><span class="chinese">公司的升迁制度是怎样的？</span><span class="english">What is the career track within the company?</span></p>

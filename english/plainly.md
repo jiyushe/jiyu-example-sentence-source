@@ -1,5 +1,7 @@
 # plainly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plainly.md)
+
 <p><span class="chinese">这种事情很显然是荒谬的！</span><span class="english">That sort of thing is plainly absurd.</span></p>
 
 <p><span class="chinese">我说话爽直，千万要请你原谅。</span><span class="english">Excuse me -- for I must speak plainly.</span></p>

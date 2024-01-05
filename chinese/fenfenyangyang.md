@@ -1,5 +1,7 @@
 # 纷纷扬扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfenyangyang.md)
+
 <p><span class="chinese">纷纷扬扬，从天而降。</span><span class="english">Swirl, coming down from heaven.</span></p>
 
 <p><span class="chinese">雪纷纷扬扬地下了一夜。</span><span class="english">Snow there were numerous underground night.</span></p>

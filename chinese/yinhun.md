@@ -1,5 +1,7 @@
 # 银婚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhun.md)
+
 <p><span class="chinese">这次聚会是为了庆祝母亲银婚。</span><span class="english">The party mother's silver wedding.</span></p>
 
 <p><span class="chinese">银婚表示结婚二十五年了。</span><span class="english">Silver Wedding marks 25 years of marriage.</span></p>

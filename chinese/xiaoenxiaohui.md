@@ -1,5 +1,7 @@
 # 小恩小惠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoenxiaohui.md)
+
 <p><span class="chinese">对小恩小惠也要表示感谢。</span><span class="english">Be thankful for small mercies.</span></p>
 
 <p><span class="chinese">虽然是些小恩小惠，也足以让我感动。</span><span class="english">Although some petty favors, but also enough to let me impressed.</span></p>

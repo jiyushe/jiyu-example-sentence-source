@@ -1,5 +1,7 @@
 # 相让
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangrang.md)
+
 <p><span class="chinese">并且，双方僵持，各不相让。</span><span class="english">Both sides stalemate, and his lap.</span></p>
 
 <p><span class="chinese">各不相让。</span><span class="english">Neither is willing to give ground.</span></p>

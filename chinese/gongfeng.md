@@ -1,5 +1,7 @@
 # 工蜂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongfeng.md)
+
 <p><span class="chinese">三周后，工蜂出房。</span><span class="english">Three weeks later, worker bees emerge.</span></p>
 
 <p><span class="chinese">她从来不用她的螫针去剌工蜂，雄蜂，或人。</span><span class="english">She never uses it on workers, drones, or people.</span></p>

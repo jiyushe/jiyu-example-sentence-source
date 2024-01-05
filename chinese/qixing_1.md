@@ -1,5 +1,7 @@
 # 气性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixing_1.md)
+
 <p><span class="chinese">接气性，是无想象力窘蹙者最后的借口。</span><span class="english">Donsistency is the last refuge of the unimaginative.</span></p>
 
 <p><span class="chinese">这对水分移动，渗透度及通气性有不利影响。</span><span class="english">This adversely affects water movement, permeability, and aeration.</span></p>

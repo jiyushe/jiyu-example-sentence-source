@@ -1,5 +1,7 @@
 # 压境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yajing.md)
+
 <p><span class="chinese">大军压境。</span><span class="english">A large enemy force is bearing down upon the border.</span></p>
 
 <p><span class="chinese">进口相机大举压境，国产相机将面临新的考验。</span><span class="english">Soon cameras massive imports, domestic cameras will face a new test.</span></p>

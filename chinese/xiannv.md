@@ -1,5 +1,7 @@
 # 仙女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiannv.md)
+
 <p><span class="chinese">仙女们能飞。</span><span class="english">Fairies can fly.</span></p>
 
 <p><span class="chinese">仙女们能飞吗？</span><span class="english">Can the fairies fly?</span></p>

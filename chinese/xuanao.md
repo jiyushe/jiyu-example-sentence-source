@@ -1,5 +1,7 @@
 # 玄奥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanao.md)
+
 <p><span class="chinese">我只想把这样玄奥的问题，送进茫茫的太空。</span><span class="english">I just wanna send this cosmic question out into the void.</span></p>
 
 <p><span class="chinese">无形之物不玄奥，有形之物真玄奥。</span><span class="english">The true mystery of the world is the visible, not the invisible.</span></p>

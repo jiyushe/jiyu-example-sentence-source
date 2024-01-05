@@ -1,5 +1,7 @@
 # 梅雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiyu.md)
+
 <p><span class="chinese">此时已经是梅雨季节了吧。</span><span class="english">This time already was the rainy season.</span></p>
 
 <p><span class="chinese">六月的无锡，正是梅雨季节。</span><span class="english">The June is a rainy season of the year in Wuxi.</span></p>

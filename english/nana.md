@@ -1,5 +1,7 @@
 # nana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nana.md)
+
 <p><span class="chinese">我看见奶奶在我的施洗仪式上。</span><span class="english">I saw nana at my baptizing.</span></p>
 
 <p><span class="chinese">温迪还在搂着娜娜。</span><span class="english">And still Wendy hugged Nana.</span></p>

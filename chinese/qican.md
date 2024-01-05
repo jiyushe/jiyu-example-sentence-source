@@ -1,5 +1,7 @@
 # 凄惨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qican.md)
+
 <p><span class="chinese">多么凄惨的景象!</span><span class="english">What a sad scene!</span></p>
 
 <p><span class="chinese">这是一个凄惨的故事。</span><span class="english">It's a tragic tale.</span></p>

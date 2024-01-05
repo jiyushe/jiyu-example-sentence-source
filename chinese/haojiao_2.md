@@ -1,5 +1,7 @@
 # 嚎叫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haojiao_2.md)
+
 <p><span class="chinese">郊狼嚎叫…</span><span class="english">Coyotes howl.</span></p>
 
 <p><span class="chinese">他太太嚎叫起来。</span><span class="english">His wife howled.</span></p>

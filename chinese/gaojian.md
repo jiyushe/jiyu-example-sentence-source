@@ -1,5 +1,7 @@
 # 高见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojian.md)
+
 <p><span class="chinese">有何高见?</span><span class="english">What do you think about it?</span></p>
 
 <p><span class="chinese">亲爱的读者有何高见呢？</span><span class="english">What's your take on this, dear reader?</span></p>

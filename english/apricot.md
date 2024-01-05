@@ -1,5 +1,7 @@
 # apricot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apricot.md)
+
 <p><span class="chinese">这里还有四个杏味胶皮糖！</span><span class="english">And here's four Apricot Twisters!</span></p>
 
 <p><span class="chinese">他们甚至还拿走了杏味胶皮糖！</span><span class="english">They even took the Apricot Twisters!</span></p>

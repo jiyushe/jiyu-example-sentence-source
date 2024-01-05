@@ -1,5 +1,7 @@
 # honda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honda.md)
+
 <p><span class="chinese">本田金翼部分。</span><span class="english">Honda Gold "Wing" parts.</span></p>
 
 <p><span class="chinese">本田流床位寓所。</span><span class="english">Apartments Honda Stream bed.</span></p>

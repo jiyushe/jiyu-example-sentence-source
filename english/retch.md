@@ -1,5 +1,7 @@
 # retch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retch.md)
+
 <p><span class="chinese">这种味道让我恶心。</span><span class="english">The smell made me retch.</span></p>
 
 <p><span class="chinese">这气味让她恶心。</span><span class="english">The smell made her retch.</span></p>

@@ -1,5 +1,7 @@
 # algebraic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/algebraic.md)
+
 <p><span class="chinese">第一章介绍几个重要的矩阵数值域基本特性。</span><span class="english">An algebraic and a bijective proof is presented.</span></p>
 
 <p><span class="chinese">矩阵定义网路的代数方程。</span><span class="english">This matrix defines the network algebraic equations.</span></p>

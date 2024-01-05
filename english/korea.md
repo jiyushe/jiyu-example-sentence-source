@@ -1,5 +1,7 @@
 # korea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/korea.md)
+
 <p><span class="chinese">我喺韩国来。</span><span class="english">I'm from Korea.</span></p>
 
 <p><span class="chinese">李在韩国时代中说道。</span><span class="english">Lee told The Korea Times.</span></p>

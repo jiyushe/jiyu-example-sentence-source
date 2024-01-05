@@ -1,5 +1,7 @@
 # 皮张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pizhang.md)
+
 <p><span class="chinese">貂皮尺码和皮张质量优良。</span><span class="english">The fur length and quality were good.</span></p>
 
 <p><span class="chinese">遗憾的是，这个季节的獭兔毛皮毛绒生长稀疏，皮张易受损，并且不易贮藏。</span><span class="english">Unfortunately is, pile sparse growth of rex rabbit fur this season, Pi Zhangyi damaged and easy storage.</span></p>

@@ -1,5 +1,7 @@
 # 瘫软
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanruan.md)
+
 <p><span class="chinese">我因为害怕而膝盖瘫软。</span><span class="english">My knees buckled with fear.</span></p>
 
 <p><span class="chinese">失败者垂头丧气地坐着，全身瘫软。</span><span class="english">The loser sat slumped in dejection.</span></p>

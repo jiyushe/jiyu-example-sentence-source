@@ -1,5 +1,7 @@
 # unambiguous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unambiguous.md)
+
 <p><span class="chinese">这个答案很明了，不含糊。</span><span class="english">The answer was clear and unambiguous.</span></p>
 
 <p><span class="chinese">它与上下文无关，并且毫不含糊。</span><span class="english">It is context-independent and unambiguous.</span></p>

@@ -1,5 +1,7 @@
 # 偏袒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piantan_1.md)
+
 <p><span class="chinese">它不偏袒任何一方。</span><span class="english">It speaks without bias.</span></p>
 
 <p><span class="chinese">他们偏袒这项计划。</span><span class="english">They biased towards this plan.</span></p>

@@ -1,5 +1,7 @@
 # bimetallic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bimetallic.md)
+
 <p><span class="chinese">压缩机出口排污管的电偶腐蚀实验研究。</span><span class="english">Study on bimetallic corrosion testing of blow-off pipe of compressor outlet.</span></p>
 
 <p><span class="chinese">采用液相化学还原法，在亚微米级的镍粉表面包覆上一层纳米银制成镍–银双金属粉。</span><span class="english">Ultrafine Ni-Ag bimetallic powder was prepared by chemical reduction method in aqueous solutions.</span></p>

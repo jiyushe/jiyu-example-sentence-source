@@ -1,5 +1,7 @@
 # 决策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juece.md)
+
 <p><span class="chinese">这些可都是大的决策！</span><span class="english">Those are big decisions.</span></p>
 
 <p><span class="chinese">这才是果断决策。</span><span class="english">Now that is decisiveness.</span></p>

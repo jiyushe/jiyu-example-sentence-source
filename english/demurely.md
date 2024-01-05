@@ -1,5 +1,7 @@
 # demurely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demurely.md)
+
 <p><span class="chinese">哦，抱歉。他故作正经的说道。</span><span class="english">Oh, excuse me, he said demurely.</span></p>
 
 <p><span class="chinese">然后再次和他们眼神交汇，正经地笑着。</span><span class="english">Then move your eyes back up to meet theirs and smile demurely.</span></p>

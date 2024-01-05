@@ -1,5 +1,7 @@
 # lunchroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lunchroom.md)
+
 <p><span class="chinese">孩子不可以在午餐室占座。</span><span class="english">Your child should not save seats in the lunchroom.</span></p>
 
 <p><span class="chinese">他想用肘把我挤出餐厅的候餐行列。</span><span class="english">He tried to elbow me off the line in the lunchroom.</span></p>

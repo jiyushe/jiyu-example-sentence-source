@@ -1,5 +1,7 @@
 # neglectful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neglectful.md)
+
 <p><span class="chinese">尽管他很生气，但他并没有忘记自己的诺言。</span><span class="english">His anger did not make him neglectful of his promise.</span></p>
 
 <p><span class="chinese">她最近不大重视自己的仪容。</span><span class="english">She has been rather neglectful of her appearance lately.</span></p>

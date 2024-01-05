@@ -1,5 +1,7 @@
 # 急转直下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizhuanzhixia.md)
+
 <p><span class="chinese">股票市场行情急转直下。</span><span class="english">The stock market turned down sharply.</span></p>
 
 <p><span class="chinese">前方的军事局势急转直下。</span><span class="english">The military on the front went swiftly ahead.</span></p>

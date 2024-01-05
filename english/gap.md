@@ -1,5 +1,7 @@
 # gap 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gap.md)
+
 <p><span class="chinese">你将间隔填补上了</span><span class="english">You fill in the gap.</span></p>
 
 <p><span class="chinese">高能隙材料。</span><span class="english">High band gap materials.</span></p>

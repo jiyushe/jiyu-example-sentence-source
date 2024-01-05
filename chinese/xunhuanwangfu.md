@@ -1,5 +1,7 @@
 # 循环往复
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunhuanwangfu.md)
+
 <p><span class="chinese">四季循环往复。</span><span class="english">The seasons revolve.</span></p>
 
 <p><span class="chinese">啥事情都是循环往复滴。</span><span class="english">Everything is cyclical.</span></p>

@@ -1,5 +1,7 @@
 # 天波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianbo.md)
+
 <p><span class="chinese">因此短波通信的主要传播路径是天波。</span><span class="english">The sky wave is the major transmitting way of short-wave communication.</span></p>
 
 <p><span class="chinese">第二天上午我们游览了杨家界的一步登天，空中走廊，乌龙寨，天波府。</span><span class="english">The next morning we toured the's sweeping, air corridors, Oolong Walled, Tianbo House.</span></p>

@@ -1,5 +1,7 @@
 # 赠与
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengyu.md)
+
 <p><span class="chinese">第一百九十条赠与可以附义务。</span><span class="english">A gift may be subject to obligations.</span></p>
 
 <p><span class="chinese">他立遗嘱赠与儿子巨额的财产。</span><span class="english">He bequeathed his son a great fortune.</span></p>

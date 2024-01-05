@@ -1,5 +1,7 @@
 # businessmen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/businessmen.md)
+
 <p><span class="chinese">伦敦的许多商人戴常礼帽。</span><span class="english">Many London businessmen wear bowlers.</span></p>
 
 <p><span class="chinese">你看，我们是文明的生意人。</span><span class="english">You see, we are civilized businessmen.</span></p>

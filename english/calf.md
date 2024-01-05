@@ -1,5 +1,7 @@
 # calf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calf.md)
+
 <p><span class="chinese">小牛咩咩叫。</span><span class="english">A calf bleats.</span></p>
 
 <p><span class="chinese">这头母牛早产了。</span><span class="english">The cow cast a calf.</span></p>

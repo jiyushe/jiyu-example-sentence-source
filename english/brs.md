@@ -1,5 +1,7 @@
 # brs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brs.md)
+
 <p><span class="chinese">尽量提高品牌和包装的铺货率，突出重点包装。</span><span class="english">Improve the distribution of brs & packages to highlight the key SKU.</span></p>
 
 <p><span class="chinese">本人表现良好，赢得了我的第二个年头醇类一流的奖学金。</span><span class="english">I performed well and won a first-class scholarship in my second year in BRS.</span></p>

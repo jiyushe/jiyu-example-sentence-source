@@ -1,5 +1,7 @@
 # blenheim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blenheim.md)
+
 <p><span class="chinese">1874年，英国政治家温斯顿·邱吉尔在布兰姆宫诞生。</span><span class="english">In 1874, British statesman Sir Winston Churchill was born at Blenheim Palace.</span></p>
 
 <p><span class="chinese">在这架从布伦亨飞往基督城的飞机上没有发现爆炸物。</span><span class="english">No explosives were found on the plane, which was on a flight from Blenheim to Christchurch.</span></p>

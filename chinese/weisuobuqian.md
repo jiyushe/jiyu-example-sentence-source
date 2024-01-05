@@ -1,5 +1,7 @@
 # 畏缩不前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weisuobuqian.md)
+
 <p><span class="chinese">你不会含屈忍辱畏缩不前。</span><span class="english">Thou wilt not cower in the dust.</span></p>
 
 <p><span class="chinese">当时我们英勇奋斗，今天却要畏缩不前吗？</span><span class="english">Did we brave all then to falter now?</span></p>

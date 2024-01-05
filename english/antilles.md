@@ -1,5 +1,7 @@
 # antilles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antilles.md)
+
 <p><span class="chinese">安迪尔斯上校-在阁下?。</span><span class="english">Captain Antilles. -Yes, Your Highness?</span></p>
 
 <p><span class="chinese">库拉索岛是主岛荷属安的列斯群岛。</span><span class="english">Curacao is the main island of the Netherlands Antilles.</span></p>

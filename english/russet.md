@@ -1,5 +1,7 @@
 # russet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/russet.md)
+
 <p><span class="chinese">玫瑰色带有赤褐色底调。</span><span class="english">Dusty rose with russet undertones.</span></p>
 
 <p><span class="chinese">每个红褐色的斑点都很清楚。</span><span class="english">And every fleck of russet showing clear.</span></p>

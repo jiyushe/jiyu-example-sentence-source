@@ -1,5 +1,7 @@
 # converse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/converse.md)
+
 <p><span class="chinese">那么谁买匡威运动鞋？</span><span class="english">So who buys Converse sneakers?</span></p>
 
 <p><span class="chinese">和不落的群星自由交谈。</span><span class="english">In liberal converse with the eternal stars.</span></p>

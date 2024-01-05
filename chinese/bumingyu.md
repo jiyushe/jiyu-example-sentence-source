@@ -1,5 +1,7 @@
 # 不名誉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bumingyu.md)
+
 <p><span class="chinese">你是我团的不名誉。</span><span class="english">You are a dishonor to our regiment.</span></p>
 
 <p><span class="chinese">没有不名誉或犯罪行为的记录的。</span><span class="english">Having no marks of discredit or offense.</span></p>

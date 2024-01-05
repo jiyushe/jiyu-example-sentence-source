@@ -1,5 +1,7 @@
 # circumpolar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumpolar.md)
+
 <p><span class="chinese">在淡水中的极地附近。</span><span class="english">Gazetteer Circumpolar in fresh water.</span></p>
 
 <p><span class="chinese">极地附近分布的各种短尾、脚上有毛的啮齿动物。</span><span class="english">Any of various short-tailed furry-footed rodents of circumpolar distribution.</span></p>

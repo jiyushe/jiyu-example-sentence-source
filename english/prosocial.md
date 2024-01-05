@@ -1,5 +1,7 @@
 # prosocial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosocial.md)
+
 <p><span class="chinese">在中国，亲社会行为历来被提倡。</span><span class="english">In China, prosocial behavior has long been advocated.</span></p>
 
 <p><span class="chinese">大学生亲社会行为具有自己群体的一些特征。</span><span class="english">Prosocial behavior of college students possesses some special features.</span></p>

@@ -1,5 +1,7 @@
 # saber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saber.md)
+
 <p><span class="chinese">我们的军刀用的是420纯钢，不生锈！</span><span class="english">Our saber with 420, whilst doesn't rust!</span></p>
 
 <p><span class="chinese">带着一种清楚的声音，剑嗡嗡作响，闪耀着光芒。</span><span class="english">The saber hums and scintillates with a distinct sound.</span></p>

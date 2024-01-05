@@ -1,5 +1,7 @@
 # replenish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replenish.md)
+
 <p><span class="chinese">我们补充袜子到抽屉里。</span><span class="english">We replenish the sock drawer.</span></p>
 
 <p><span class="chinese">我们需要添装食橱。</span><span class="english">We need to replenish the food cupboard.</span></p>

@@ -1,5 +1,7 @@
 # preconception
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preconception.md)
+
 <p><span class="chinese">做一个提前预约。</span><span class="english">Make a preconception appointment.</span></p>
 
 <p><span class="chinese">我对它没有任何的先入之见。</span><span class="english">I don't have any preconception about it.</span></p>

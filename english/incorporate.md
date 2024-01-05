@@ -1,5 +1,7 @@
 # incorporate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incorporate.md)
+
 <p><span class="chinese">合并风险分析。</span><span class="english">Incorporate risk analysis.</span></p>
 
 <p><span class="chinese">加入赛隆舰队选项。</span><span class="english">Incorporate the Cylon Fleet option.</span></p>

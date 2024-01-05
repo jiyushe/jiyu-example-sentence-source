@@ -1,5 +1,7 @@
 # 轧辊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhagun.md)
+
 <p><span class="chinese">安排经常性的轧辊检验。</span><span class="english">Arrange regular inspection of roll journals.</span></p>
 
 <p><span class="chinese">还对锻钢轧辊的发展趋势做了预测。</span><span class="english">Trend of forged steel roll for rolling mills is forecast.</span></p>

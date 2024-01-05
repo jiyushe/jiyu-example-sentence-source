@@ -1,5 +1,7 @@
 # sound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sound.md)
+
 <p><span class="chinese">把笛子吹起！</span><span class="english">Sound the Flute!</span></p>
 
 <p><span class="chinese">你听起来病恹恹的！</span><span class="english">You sound so sick!</span></p>

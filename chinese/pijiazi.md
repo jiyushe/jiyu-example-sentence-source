@@ -1,5 +1,7 @@
 # 皮夹子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pijiazi.md)
+
 <p><span class="chinese">我找到了这个皮夹子。</span><span class="english">I found this wallet.</span></p>
 
 <p><span class="chinese">我的皮夹子扣不上。</span><span class="english">My wallet won't button.</span></p>

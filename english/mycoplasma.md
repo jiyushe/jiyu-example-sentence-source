@@ -1,5 +1,7 @@
 # mycoplasma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mycoplasma.md)
+
 <p><span class="chinese">此外还有支原体等病原体感染。</span><span class="english">In addition also has pathogen infections and so on mycoplasma.</span></p>
 
 <p><span class="chinese">支原体主要存在于人和动物的腔道粘膜。</span><span class="english">Mycoplasma mainly exists in human and animal sinus tract mucosa.</span></p>

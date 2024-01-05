@@ -1,5 +1,7 @@
 # 无所不能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusuobuneng.md)
+
 <p><span class="chinese">那你要无所不能嘛？</span><span class="english">Would you love to go?</span></p>
 
 <p><span class="chinese">空言无所不能成交易。</span><span class="english">Bare not phrases, no bargain.</span></p>

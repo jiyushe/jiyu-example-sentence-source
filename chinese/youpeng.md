@@ -1,5 +1,7 @@
 # 友朋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youpeng.md)
+
 <p><span class="chinese">我的友朋！</span><span class="english">That friend of mine!</span></p>
 
 <p><span class="chinese">李家指的正是李友朋大师。</span><span class="english">The "Li" is just Master Li Youpeng.</span></p>

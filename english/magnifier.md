@@ -1,5 +1,7 @@
 # magnifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnifier.md)
+
 <p><span class="chinese">然后我把放大镜放在上面。</span><span class="english">Then I put the magnifier in place.</span></p>
 
 <p><span class="chinese">用放大镜在太阳底下烤死一只蚂蚁。</span><span class="english">Use a magnifier to roast an ant in the sun.</span></p>

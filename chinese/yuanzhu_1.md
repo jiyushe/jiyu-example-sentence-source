@@ -1,5 +1,7 @@
 # 原著
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhu_1.md)
+
 <p><span class="chinese">你们读过电影的原著吗?。</span><span class="english">Q. Had you guys read the books?</span></p>
 
 <p><span class="chinese">这个剧本与原著不相符。</span><span class="english">The play does not agree with the book.</span></p>

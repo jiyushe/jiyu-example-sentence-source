@@ -1,5 +1,7 @@
 # thou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thou.md)
+
 <p><span class="chinese">你是这么说的吗？</span><span class="english">Sayest thou so?</span></p>
 
 <p><span class="chinese">你走得太慢慢腾腾了！</span><span class="english">How slow thou art!</span></p>

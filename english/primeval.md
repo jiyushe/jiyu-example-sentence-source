@@ -1,5 +1,7 @@
 # primeval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primeval.md)
+
 <p><span class="chinese">铁路穿越原始森林。</span><span class="english">The railway cuts through a primeval forest.</span></p>
 
 <p><span class="chinese">他们穿行于原始森林之中。</span><span class="english">They needled their way through a primeval forest.</span></p>

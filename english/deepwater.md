@@ -1,5 +1,7 @@
 # deepwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deepwater.md)
+
 <p><span class="chinese">在海岛上建设的港口。告别了没有深水良港的历史。</span><span class="english">Bid goodbye to its history of having no deepwater port.</span></p>
 
 <p><span class="chinese">而“深水地平线”的失败则使整个美国都觉面上无光。</span><span class="english">Deepwater Horizon's failure demoralized the whole nation.</span></p>

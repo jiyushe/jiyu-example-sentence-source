@@ -1,5 +1,7 @@
 # reinforce 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinforce.md)
+
 <p><span class="chinese">加固你的安全网。</span><span class="english">Reinforce your safety net.</span></p>
 
 <p><span class="chinese">马卡尔可以在这些墓园城中扩张他的军队。</span><span class="english">Markal will be able to reinforce his army.</span></p>

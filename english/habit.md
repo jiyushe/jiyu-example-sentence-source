@@ -1,5 +1,7 @@
 # habit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habit.md)
+
 <p><span class="chinese">改变一个习惯。</span><span class="english">Change one habit.</span></p>
 
 <p><span class="chinese">这是一个关键的习惯。</span><span class="english">This is the key habit.</span></p>

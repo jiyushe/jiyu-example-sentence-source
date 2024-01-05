@@ -1,5 +1,7 @@
 # showily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/showily.md)
+
 <p><span class="chinese">已有人送给她更加华贵的珠宝。</span><span class="english">Has someone gave her more showily jewelry.</span></p>
 
 <p><span class="chinese">试着加入一点金色，华贵无比。</span><span class="english">Try to join aureate, showily and clinking.</span></p>

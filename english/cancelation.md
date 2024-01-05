@@ -1,5 +1,7 @@
 # cancelation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cancelation.md)
+
 <p><span class="chinese">一个任务的取消操作也可以传递给所有的子任务。</span><span class="english">Cancelation can also flow to child tasks.</span></p>
 
 <p><span class="chinese">您是否想要为此备忘发送取消通知？</span><span class="english">Would you like to send a cancelation notice for this memo?</span></p>

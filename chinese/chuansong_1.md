@@ -1,5 +1,7 @@
 # 传颂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuansong_1.md)
+
 <p><span class="chinese">你英武的名字应传颂。</span><span class="english">Your mighty names shall sound.</span></p>
 
 <p><span class="chinese">克南的事迹被传颂。</span><span class="english">The story about Kernan was sounded.</span></p>

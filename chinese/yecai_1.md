@@ -1,5 +1,7 @@
 # 野菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yecai_1.md)
+
 <p><span class="chinese">全家人靠吃野菜度日。</span><span class="english">The family lived on wild plants.</span></p>
 
 <p><span class="chinese">摘取野菜正宜晚餐。</span><span class="english">Pick them for dinner perfectly well.</span></p>

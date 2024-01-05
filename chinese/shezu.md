@@ -1,5 +1,7 @@
 # 涉足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shezu.md)
+
 <p><span class="chinese">他仅仅是涉足政治而已。</span><span class="english">He just dabbles in politics.</span></p>
 
 <p><span class="chinese">他们浅尝涉足于右翼政治。</span><span class="english">They dabble in right-wing politics.</span></p>

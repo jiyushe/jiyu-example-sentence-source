@@ -1,5 +1,7 @@
 # gestapo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gestapo.md)
+
 <p><span class="chinese">你这样是吓不倒我的…</span><span class="english">No, we're the Gestapo.</span></p>
 
 <p><span class="chinese">盖世太保称她为“白鼠”。</span><span class="english">The Gestapo called her the “White Mouse”.</span></p>

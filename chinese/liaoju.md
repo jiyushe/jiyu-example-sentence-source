@@ -1,5 +1,7 @@
 # 了局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoju.md)
+
 <p><span class="chinese">这名队员曾因为打人犯规而被罚了局。</span><span class="english">The player was once sent off because of striking.</span></p>
 
 <p><span class="chinese">现在让我们脏了局有点增加一些噪声。</span><span class="english">Now let's dirty up the board a bit by adding some noise.</span></p>

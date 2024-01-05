@@ -1,5 +1,7 @@
 # 蹊径
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijing_1.md)
+
 <p><span class="chinese">化成蹊径上行人的生命。</span><span class="english">And lives of the pedestrians on the paths.</span></p>
 
 <p><span class="chinese">我们感谢主，祢以爱所辟出的蹊径</span><span class="english">We thank Thee for the hidden paths Thy love hath made</span></p>

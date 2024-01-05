@@ -1,5 +1,7 @@
 # 内定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiding.md)
+
 <p><span class="chinese">一个欺诈的例子就是利率“内定”方式。</span><span class="english">A quirkier example is the ability to “lock in” an interest rate.</span></p>
 
 <p><span class="chinese">主人正在发现在毂上被配置的内定出入口。</span><span class="english">The hosts are detecting the default gateway configured on the hub.</span></p>

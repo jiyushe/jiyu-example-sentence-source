@@ -1,5 +1,7 @@
 # azimuth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azimuth.md)
+
 <p><span class="chinese">寻北仪是一种采用惯性工作原理的方位指示仪器。</span><span class="english">North finder is a kind of autonomous azimuth indicator.</span></p>
 
 <p><span class="chinese">该方法要求一个方位已知的近场校正源。</span><span class="english">This method requires a near-field source whose azimuth is known.</span></p>

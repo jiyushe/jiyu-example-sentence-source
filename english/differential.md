@@ -1,5 +1,7 @@
 # differential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/differential.md)
+
 <p><span class="chinese">这是个微分方程。</span><span class="english">It's a differential equation.</span></p>
 
 <p><span class="chinese">拥有17个净胜球。</span><span class="english">A goal differential of plus-17.</span></p>

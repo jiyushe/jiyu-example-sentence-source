@@ -1,5 +1,7 @@
 # resuscitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resuscitation.md)
+
 <p><span class="chinese">学习开始及终止苏急救之适应时机。</span><span class="english">Learn the indications for and terminating resuscitation.</span></p>
 
 <p><span class="chinese">没有给她输液，没有给她供氧，没有给她注射针剂，没有急救措施。</span><span class="english">No drip, no oxygen mask, no injections, no resuscitation.</span></p>

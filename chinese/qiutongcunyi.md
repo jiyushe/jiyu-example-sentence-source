@@ -1,5 +1,7 @@
 # 求同存异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiutongcunyi.md)
+
 <p><span class="chinese">四是求同存异。</span><span class="english">The fourth is tolerance.</span></p>
 
 <p><span class="chinese">求同存异也一直在发生。</span><span class="english">Differentiations of culture happen all the time as well.</span></p>

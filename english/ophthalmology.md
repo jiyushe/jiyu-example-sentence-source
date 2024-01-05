@@ -1,5 +1,7 @@
 # ophthalmology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ophthalmology.md)
+
 <p><span class="chinese">这项发明革命性地推动了眼科学的发展。</span><span class="english">The invention revolutionizes ophthalmology.</span></p>
 
 <p><span class="chinese">单纯疱疹性角膜炎是眼科常见病，多发病。</span><span class="english">Herpes simplex keratitis is common in department of ophthalmology.</span></p>

@@ -1,5 +1,7 @@
 # tilbury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tilbury.md)
+
 <p><span class="chinese">那是一辆小车，驾着一匹白马。</span><span class="english">It was a tilbury harnessed to a small white horse.</span></p>
 
 <p><span class="chinese">“这话要是包括提尔伯里，”他说，“他可担当不起。</span><span class="english">"If you are including tilbury" said he "it don't apply.</span></p>

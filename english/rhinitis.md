@@ -1,5 +1,7 @@
 # rhinitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhinitis.md)
+
 <p><span class="chinese">您得了鼻炎。</span><span class="english">You have rhinitis.</span></p>
 
 <p><span class="chinese">如何治疗季节性鼻炎？</span><span class="english">How to treat seasonal rhinitis?</span></p>

@@ -1,5 +1,7 @@
 # glossiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glossiness.md)
+
 <p><span class="chinese">共聚物的涂膜具有较好的光泽度及硬度。</span><span class="english">The coating material of copolymer has good hardness and glossiness.</span></p>
 
 <p><span class="chinese">接下来，我叠加了两个光泽和反射层，这样图看上去会更真实。</span><span class="english">Next I added two glossiness and reflection layers for realistic final look.</span></p>

@@ -1,5 +1,7 @@
 # humanist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanist.md)
+
 <p><span class="chinese">汪晖说鲁迅实际上是一位人文主义者。</span><span class="english">Lu Xun, said Mr. Wang, was actually a humanist.</span></p>
 
 <p><span class="chinese">所以，哈姆莱特的悲剧是时代的悲剧，是人文主义者的悲剧。</span><span class="english">So, Hamlet's tragedy is the time tragedy and humanist tragedy.</span></p>

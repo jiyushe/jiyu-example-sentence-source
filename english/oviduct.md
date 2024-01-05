@@ -1,5 +1,7 @@
 # oviduct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oviduct.md)
+
 <p><span class="chinese">在卵巢端的输卵管末端为漏斗部。</span><span class="english">At the ovarian end of the oviduct is the infundibulum.</span></p>
 
 <p><span class="chinese">目的探讨弹性塑胶输卵管堵塞术的可行性。</span><span class="english">To research the self-elastic gel block of the oviduct.</span></p>

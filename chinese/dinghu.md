@@ -1,5 +1,7 @@
 # 订户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinghu.md)
+
 <p><span class="chinese">订户的订阅名称。</span><span class="english">Subscriber's subscription name.</span></p>
 
 <p><span class="chinese">然后订户会收到一份电子邮件警报。</span><span class="english">Subscribers then receive an email alert.</span></p>

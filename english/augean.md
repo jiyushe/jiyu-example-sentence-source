@@ -1,5 +1,7 @@
 # augean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/augean.md)
+
 <p><span class="chinese">这是一项非常棘手的工作。</span><span class="english">This is an augean task.</span></p>
 
 <p><span class="chinese">总之，我们知道，情况极为糟糕。</span><span class="english">We know, in short, that this was the Augean stables.</span></p>

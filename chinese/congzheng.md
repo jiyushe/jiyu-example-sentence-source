@@ -1,5 +1,7 @@
 # 从政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congzheng.md)
+
 <p><span class="chinese">从政是范·德·比尔特家孩子与生俱来的权利。</span><span class="english">Politics is a Van Der Bilt birth right.</span></p>
 
 <p><span class="chinese">他从当外交官起开始了他的从政生涯。</span><span class="english">He started his official career as a diplomat.</span></p>

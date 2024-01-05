@@ -1,5 +1,7 @@
 # 用兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongbing.md)
+
 <p><span class="chinese">这就是用兵的一般法则。</span><span class="english">Such is the method of using troops.</span></p>
 
 <p><span class="chinese">操虽能用兵，只此可以瞒过他也。</span><span class="english">Cao may be an able strategist, but this should fool him.</span></p>

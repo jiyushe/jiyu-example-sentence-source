@@ -1,5 +1,7 @@
 # 忐忑不安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tantebuan.md)
+
 <p><span class="chinese">地震的消息使我们感到忐忑不安。</span><span class="english">News of the earthquake discomforted us.</span></p>
 
 <p><span class="chinese">当晚我们忐忑不安的上床睡觉。</span><span class="english">That night we all went to sleep uneasy.</span></p>

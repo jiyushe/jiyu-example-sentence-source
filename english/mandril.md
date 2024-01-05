@@ -1,5 +1,7 @@
 # mandril
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mandril.md)
+
 <p><span class="chinese">所述气瓶嘴的喷射接口上设置有顶杆连接结构。</span><span class="english">The mandril connecting structure is arranged on the jetting joint of the air bottle nozzle.</span></p>
 
 <p><span class="chinese">在扩管生产中，需要实时了解每根顶杆的长度、外径、使用次数等信息。</span><span class="english">The length, diameter and using time of mandril are needed in the process of manufacturing the pipe.</span></p>

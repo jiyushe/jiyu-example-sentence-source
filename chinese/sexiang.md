@@ -1,5 +1,7 @@
 # 色相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sexiang.md)
+
 <p><span class="chinese">这些相片镶以红色相框会很好看。</span><span class="english">The photographs will look nice framed in red.</span></p>
 
 <p><span class="chinese">套用一句广告俗语，那就是“出卖色相”。</span><span class="english">And, to quote an old advertising adage , sex sells.</span></p>

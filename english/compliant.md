@@ -1,5 +1,7 @@
 # compliant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compliant.md)
+
 <p><span class="chinese">对你来说，符合规范很重要吗？</span><span class="english">Is it important for you to be compliant?</span></p>
 
 <p><span class="chinese">插脚式連接器系统中的铅。</span><span class="english">Lead used in compliant pin connector systems.</span></p>

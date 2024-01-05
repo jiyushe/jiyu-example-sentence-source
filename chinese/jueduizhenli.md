@@ -1,5 +1,7 @@
 # 绝对真理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueduizhenli.md)
+
 <p><span class="chinese">“喜欢你”这件事，是毋庸置疑的绝对真理。</span><span class="english">"Like you" is no doubt the absolute truth.</span></p>
 
 <p><span class="chinese">BLT就是绝对真理，而总会三明治就是一张空白纸。</span><span class="english">The BLT is an absolute, the Club a blank sheet.</span></p>

@@ -1,5 +1,7 @@
 # earthshaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthshaking.md)
+
 <p><span class="chinese">源于地之心的惊天动地之火</span><span class="english">Earthshaking fire from the center of the Earth</span></p>
 
 <p><span class="chinese">像这样翻天覆地的变化一定会产生深远的影响。</span><span class="english">Such an earthshaking change must have far-reaching effects.</span></p>

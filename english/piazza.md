@@ -1,5 +1,7 @@
 # piazza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piazza.md)
+
 <p><span class="chinese">圣母院前的广场。</span><span class="english">Piazza in front of Notre-Dame.</span></p>
 
 <p><span class="chinese">大教堂广场，宏伟！</span><span class="english">Galleria in Piazza Duomo, Milan.</span></p>

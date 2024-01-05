@@ -1,5 +1,7 @@
 # 征收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengshou.md)
+
 <p><span class="chinese">而且，该市不征收州所得税。</span><span class="english">There is no state income tax.</span></p>
 
 <p><span class="chinese">政府当局开始对燃油征收一项新税。</span><span class="english">A new tax was imposed on fuel.</span></p>

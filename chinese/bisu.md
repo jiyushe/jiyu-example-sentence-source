@@ -1,5 +1,7 @@
 # 鄙俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bisu.md)
+
 <p><span class="chinese">粗俗的，淫秽的，鄙俗的。</span><span class="english">Obscene, lewd, or vulgar.</span></p>
 
 <p><span class="chinese">拉丁语用词鄙俗。</span><span class="english">The Latin language barbarized.</span></p>

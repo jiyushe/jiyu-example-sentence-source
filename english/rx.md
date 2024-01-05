@@ -1,5 +1,7 @@
 # rx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rx.md)
+
 <p><span class="chinese">我所读过的、最深入浅出的、有关健康的诠释。</span><span class="english">Edward Taub, M. D. , author of the Wellness Rx.</span></p>
 
 <p><span class="chinese">在这种情况下中心点的值不会再系统加点的时候被读取。</span><span class="english">In this case centre is not being read from axes X, Y and Rx during start-up.</span></p>

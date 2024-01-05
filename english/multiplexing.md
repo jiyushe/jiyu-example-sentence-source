@@ -1,5 +1,7 @@
 # multiplexing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiplexing.md)
+
 <p><span class="chinese">现在看看多路模式的工作方式。</span><span class="english">Now see what the multiplexing mode is.</span></p>
 
 <p><span class="chinese">复合数据为异步方式的发数据复接。</span><span class="english">Transmitting multiplexing for asyn-mux-data.</span></p>

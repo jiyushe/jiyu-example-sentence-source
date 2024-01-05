@@ -1,5 +1,7 @@
 # bewitch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bewitch.md)
+
 <p><span class="chinese">使他们着迷的事你没必要做很多。</span><span class="english">You don't have to do much to bewitch a child.</span></p>
 
 <p><span class="chinese">她有必要使人惊讶和着迷。</span><span class="english">It is necessary that she should astonish and bewitch.</span></p>

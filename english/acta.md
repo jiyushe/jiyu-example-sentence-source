@@ -1,5 +1,7 @@
 # acta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acta.md)
+
 <p><span class="chinese">每日纪闻的其他形式为法律、市政和军事公告。</span><span class="english">Other forms of Acta were legal, municipal and military notices.</span></p>
 
 <p><span class="chinese">内容包括市政、法律、军事的特殊纪闻。</span><span class="english">There were special acta of municipal, legal, or military content.</span></p>

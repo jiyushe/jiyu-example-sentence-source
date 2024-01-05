@@ -1,5 +1,7 @@
 # meteor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meteor.md)
+
 <p><span class="chinese">这就是每年的猎户座流星雨。</span><span class="english">This is the annual Orionid meteor shower.</span></p>
 
 <p><span class="chinese">一道流星，倏然而逝。</span><span class="english">A meteor shot across the sky and vanished.</span></p>

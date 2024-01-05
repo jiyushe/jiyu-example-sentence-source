@@ -1,5 +1,7 @@
 # abuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abuse.md)
+
 <p><span class="chinese">他的老师咒骂他。</span><span class="english">His teachers abuse him.</span></p>
 
 <p><span class="chinese">但是不要滥用特权。</span><span class="english">Don't abuse the privilege.</span></p>

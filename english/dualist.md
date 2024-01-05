@@ -1,5 +1,7 @@
 # dualist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dualist.md)
+
 <p><span class="chinese">二元论者确实可以这么说。</span><span class="english">Dualist could say that.</span></p>
 
 <p><span class="chinese">假设我是二元论者。</span><span class="english">So suppose I was a dualist.</span></p>

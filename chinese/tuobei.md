@@ -1,5 +1,7 @@
 # 驼背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuobei.md)
+
 <p><span class="chinese">老人已驼背了。</span><span class="english">The old man stoops.</span></p>
 
 <p><span class="chinese">矫正驼背。</span><span class="english">Correction of kyphosis.</span></p>

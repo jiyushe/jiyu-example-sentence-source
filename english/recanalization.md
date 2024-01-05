@@ -1,5 +1,7 @@
 # recanalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recanalization.md)
+
 <p><span class="chinese">治疗包括入路选择、闭塞段的开通和再血管化。</span><span class="english">The method includes acess selecting, recanalization of occlusions and revascularization.</span></p>
 
 <p><span class="chinese">若血管未获再通，其收缩压保持高水平的时间较血管再通者要长久。</span><span class="english">When recanalization failed, systolic BP remained elevated longer than when it succeeded.</span></p>

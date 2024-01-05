@@ -1,5 +1,7 @@
 # composed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/composed.md)
+
 <p><span class="chinese">小膜3由三列动基列组成。</span><span class="english">P3 composed of three rows.</span></p>
 
 <p><span class="chinese">永远都由许多的现在组成。</span><span class="english">Forever is composed of nows.</span></p>

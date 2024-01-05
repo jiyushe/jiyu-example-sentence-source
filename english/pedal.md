@@ -1,5 +1,7 @@
 # pedal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedal.md)
+
 <p><span class="chinese">你可以开那台拖拉机。</span><span class="english">You may pedal the tractor.</span></p>
 
 <p><span class="chinese">他甚至连自行车也不能骑了。</span><span class="english">He couldn't even pedal a bicycle.</span></p>

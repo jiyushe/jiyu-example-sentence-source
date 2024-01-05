@@ -1,5 +1,7 @@
 # millimetre 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millimetre.md)
+
 <p><span class="chinese">他把木头削去一毫米。</span><span class="english">He shaved a millimetre off the block.</span></p>
 
 <p><span class="chinese">所以，一个60毫米直径的卵石。</span><span class="english">So, a sixty millimetre diameter pebble.</span></p>

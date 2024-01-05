@@ -1,5 +1,7 @@
 # 凄苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiku.md)
+
 <p><span class="chinese">同着数不尽的奴隶的凄苦。</span><span class="english">Along with innumerable servile miseries.</span></p>
 
 <p><span class="chinese">唯潸潸泪滴，凄苦的标识！</span><span class="english">But heavy tears, badges of either's woe.</span></p>

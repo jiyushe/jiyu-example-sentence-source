@@ -1,5 +1,7 @@
 # 饼干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binggan.md)
+
 <p><span class="chinese">烘烤饼干。</span><span class="english">Bake cookies.</span></p>
 
 <p><span class="chinese">我喜欢华夫饼干。</span><span class="english">I like waffles.</span></p>

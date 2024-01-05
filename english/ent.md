@@ -1,5 +1,7 @@
 # ent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ent.md)
+
 <p><span class="chinese">房地产开发企业会计。</span><span class="english">Accounting of real estate ent.</span></p>
 
 <p><span class="chinese">就像是拍摄另一部电影。</span><span class="english">It was like shooting a differ ent movie.</span></p>

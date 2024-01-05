@@ -1,5 +1,7 @@
 # 指明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiming_1.md)
+
 <p><span class="chinese">所以我指明thankful是true值。</span><span class="english">So I said thankful to true.</span></p>
 
 <p><span class="chinese">她给我指明去邮局的路。</span><span class="english">She directed me to the post office.</span></p>

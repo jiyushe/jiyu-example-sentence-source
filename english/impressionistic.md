@@ -1,5 +1,7 @@
 # impressionistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impressionistic.md)
+
 <p><span class="chinese">我喜欢印象主义画作。</span><span class="english">I like the impressionistic paintings.</span></p>
 
 <p><span class="chinese">它像是一幅印象派画作。</span><span class="english">It looks like an impressionistic painting.</span></p>

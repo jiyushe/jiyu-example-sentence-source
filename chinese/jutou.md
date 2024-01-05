@@ -1,5 +1,7 @@
 # 巨头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jutou.md)
+
 <p><span class="chinese">让我们来看看两位巨头的对手。</span><span class="english">Have the two potentates met their match?</span></p>
 
 <p><span class="chinese">他会见了一群经过挑选的媒介巨头。</span><span class="english">He met a select group of media influentials.</span></p>

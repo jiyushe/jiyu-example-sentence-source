@@ -1,5 +1,7 @@
 # 躲闪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoshan.md)
+
 <p><span class="chinese">日常生活中练习扭身和躲闪运动。</span><span class="english">Duck and twist during your daily routine.</span></p>
 
 <p><span class="chinese">球从他头顶射过时他躲闪过去了。</span><span class="english">He ducked as the ball shot over his head.</span></p>

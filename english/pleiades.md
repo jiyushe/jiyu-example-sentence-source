@@ -1,5 +1,7 @@
 # pleiades
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pleiades.md)
+
 <p><span class="chinese">因为他们来自昴宿星或猎户座。</span><span class="english">They came from the Pleiades or Orion.</span></p>
 
 <p><span class="chinese">为什么？因为他们来自昴宿星或猎户座。</span><span class="english">Why? They came from the Pleiades or Orion.</span></p>

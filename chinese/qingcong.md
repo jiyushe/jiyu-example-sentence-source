@@ -1,5 +1,7 @@
 # 青葱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingcong.md)
+
 <p><span class="chinese">你有卖青葱吗？</span><span class="english">Do you sell scallions?</span></p>
 
 <p><span class="chinese">秋天使山上青葱的草木发黄。</span><span class="english">Autumn disrobes the hill of verdure.</span></p>

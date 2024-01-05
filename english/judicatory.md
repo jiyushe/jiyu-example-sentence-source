@@ -1,5 +1,7 @@
 # judicatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judicatory.md)
+
 <p><span class="chinese">理念之于司法，犹如罗盘之于航海。</span><span class="english">It is principle in judicatory as if compass it in voyage.</span></p>
 
 <p><span class="chinese">无此便不能确保司法公正和效率目标的实现。</span><span class="english">Otherwise, judicatory impartiality and efficiency can not be ensured.</span></p>

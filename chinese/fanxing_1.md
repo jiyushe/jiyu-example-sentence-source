@@ -1,5 +1,7 @@
 # 繁星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanxing_1.md)
+
 <p><span class="chinese">水仙花，青青的草地，繁星满天。</span><span class="english">Daffodils. Green meadows.</span></p>
 
 <p><span class="chinese">在繁星点点的夏夜之浪漫中着迷。</span><span class="english">The romance of a starlit night.</span></p>

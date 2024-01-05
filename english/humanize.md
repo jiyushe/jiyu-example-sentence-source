@@ -1,5 +1,7 @@
 # humanize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanize.md)
+
 <p><span class="chinese">让你的业务人性化。</span><span class="english">To Humanize Your Business.</span></p>
 
 <p><span class="chinese">许多国家想促使战争人道化，可是没有效。</span><span class="english">Nations have tried feebly to humanize war.</span></p>

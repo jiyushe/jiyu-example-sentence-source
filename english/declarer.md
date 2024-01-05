@@ -1,5 +1,7 @@
 # declarer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/declarer.md)
+
 <p><span class="chinese">所以你能够对付庄家任何的打牌线路。</span><span class="english">So you are ready for whatever line declarer chooses.</span></p>
 
 <p><span class="chinese">你会怎么打，例如，当庄家打出一张方块？</span><span class="english">What do you do, for instance, if declarer plays a diamond?</span></p>

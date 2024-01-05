@@ -1,5 +1,7 @@
 # sting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sting.md)
+
 <p><span class="chinese">蜜蜂蜇伤。</span><span class="english">Bee sting.</span></p>
 
 <p><span class="chinese">荨麻怎样“叮”人？</span><span class="english">How do nettles sting?</span></p>

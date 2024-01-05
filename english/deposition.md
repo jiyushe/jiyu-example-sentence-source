@@ -1,5 +1,7 @@
 # deposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deposition.md)
+
 <p><span class="chinese">田野上覆盖着一层厚厚的沉积物。</span><span class="english">A thick deposition of mud covered the field.</span></p>
 
 <p><span class="chinese">脂肪的沉积可以是全身性的，或者是局部性。</span><span class="english">The deposition of fat may be general or local.</span></p>

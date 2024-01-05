@@ -1,5 +1,7 @@
 # 黑子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heizi.md)
+
 <p><span class="chinese">但是领队拉着绳走时，却牵不动小黑子。</span><span class="english">But when he pulled, he could not budge him!</span></p>
 
 <p><span class="chinese">因此领队就在小黑子的鼻子上穿了一根绳。</span><span class="english">So he put a rope through Grandma's Blackie's nose.</span></p>

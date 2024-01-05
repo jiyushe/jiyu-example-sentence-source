@@ -1,5 +1,7 @@
 # faintly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faintly.md)
+
 <p><span class="chinese">他的声音微弱地传到我们这儿。</span><span class="english">His voice came faintly to us.</span></p>
 
 <p><span class="chinese">那是仙境的号角轻轻地吹起！</span><span class="english">The horns of Elfland faintly blowing!</span></p>

@@ -1,5 +1,7 @@
 # sepsis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sepsis.md)
+
 <p><span class="chinese">脓毒症是常见的危重病。</span><span class="english">Sepsis is one of common critical diseases.</span></p>
 
 <p><span class="chinese">脓毒病和出血造成了大量的死亡。</span><span class="english">Sepsis and bleeding caused numerous deaths.</span></p>

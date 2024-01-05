@@ -1,5 +1,7 @@
 # 出言不逊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuyanbuxun.md)
+
 <p><span class="chinese">她对他的出言不逊怒火中烧。</span><span class="english">She burned with fury at his unkind remarks.</span></p>
 
 <p><span class="chinese">你总是出言不逊得罪人。</span><span class="english">You are always abusing and offending people.</span></p>

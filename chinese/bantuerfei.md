@@ -1,5 +1,7 @@
 # 半途而废
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bantuerfei.md)
+
 <p><span class="chinese">所以不要半途而废。</span><span class="english">So don't give up in the middle.</span></p>
 
 <p><span class="chinese">改革并没有完全半途而废。</span><span class="english">Reform has not completely petered out.</span></p>

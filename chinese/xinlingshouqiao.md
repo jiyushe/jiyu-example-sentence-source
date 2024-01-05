@@ -1,5 +1,7 @@
 # 心灵手巧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinlingshouqiao.md)
+
 <p><span class="chinese">她心灵手巧。</span><span class="english">She is ingenuity.</span></p>
 
 <p><span class="chinese">她心灵手巧。</span><span class="english">She is a ingenuity girl.</span></p>

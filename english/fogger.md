@@ -1,5 +1,7 @@
 # fogger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fogger.md)
+
 <p><span class="chinese">智能雾MS100烟雾机是最佳的尘埃的解决方案。</span><span class="english">The Smart Fog MS100 Fogger is the solution for optimal dust suppression.</span></p>
 
 <p><span class="chinese">脉冲式烟雾机是一种应用广泛、防治高效的植保机械。</span><span class="english">The pulsed fogger is a kind of widely used and effective plant protection machinery.</span></p>

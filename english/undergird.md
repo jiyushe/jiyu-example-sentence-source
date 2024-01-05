@@ -1,5 +1,7 @@
 # undergird
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undergird.md)
+
 <p><span class="chinese">我们采取措施将船的底部加固。</span><span class="english">We took measures to  undergird the ship.</span></p>
 
 <p><span class="chinese">它们是文明的基石，但并非都是上天赐予的礼品。</span><span class="english">They undergird civilization. But they aren’t gifts outright.</span></p>

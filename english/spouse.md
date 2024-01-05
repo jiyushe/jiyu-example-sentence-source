@@ -1,5 +1,7 @@
 # spouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spouse.md)
+
 <p><span class="chinese">完美伴侣，从我做起。</span><span class="english">Be your ideal spouse.</span></p>
 
 <p><span class="chinese">你的老伴儿也不会让你去。</span><span class="english">Your spouse won’t stand for it.</span></p>

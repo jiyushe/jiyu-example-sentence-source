@@ -1,5 +1,7 @@
 # apa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apa.md)
+
 <p><span class="chinese">你们的公寓是平房还是两层的？</span><span class="english">Is your apa tment a one-storey or a two-storey house?</span></p>
 
 <p><span class="chinese">因此，高活性的溶解态磷酸酶与水华的发生有关。</span><span class="english">Hence, high APA was closely related with the occurrence of bloom.</span></p>

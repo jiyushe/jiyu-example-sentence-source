@@ -1,5 +1,7 @@
 # cloying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloying.md)
+
 <p><span class="chinese">回味佳，并无讨厌的糖分影响。</span><span class="english">Finishes crisply without any cloying residual sugar.</span></p>
 
 <p><span class="chinese">这些东西很快就变得倒胃口，令人心神不宁。</span><span class="english">These constructs soon become cloying and distracting.</span></p>

@@ -1,5 +1,7 @@
 # ellipsoidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ellipsoidal.md)
+
 <p><span class="chinese">对于空间运动相对动量矩可取点集，有的认为是一条空间曲线，有的认为是椭球曲面。</span><span class="english">In some notion, the point-set can only he a special curve or an ellipsoidal surface.</span></p>
 
 <p><span class="chinese">种子多数，棕色或红棕色，卵球形对椭圆体，凹凸，不到1毫米。</span><span class="english">Seeds numerous, brown or reddish brown, ovoid to ellipsoidal , concave-convex, less than 1 mm.</span></p>

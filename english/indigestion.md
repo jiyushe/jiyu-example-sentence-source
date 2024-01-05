@@ -1,5 +1,7 @@
 # indigestion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indigestion.md)
+
 <p><span class="chinese">你得的是消化不良。</span><span class="english">You've got indigestion.</span></p>
 
 <p><span class="chinese">肚子痛不痛、胀不胀？</span><span class="english">Stomach pain or indigestion?</span></p>

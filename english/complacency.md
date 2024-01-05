@@ -1,5 +1,7 @@
 # complacency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complacency.md)
+
 <p><span class="chinese">但是骄傲自满情绪也无处不在。</span><span class="english">But there was complacency.</span></p>
 
 <p><span class="chinese">他脸上显出得意的神气。</span><span class="english">He had an air of complacency.</span></p>

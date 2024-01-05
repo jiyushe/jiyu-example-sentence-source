@@ -1,5 +1,7 @@
 # 古刹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gucha.md)
+
 <p><span class="chinese">是一座真正的千年古刹。</span><span class="english">It's a real millenarian temple.</span></p>
 
 <p><span class="chinese">这座古刹四面环山。</span><span class="english">The ancient Buddhist temple is ringed around with hills.</span></p>

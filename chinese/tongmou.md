@@ -1,5 +1,7 @@
 # 同谋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongmou.md)
+
 <p><span class="chinese">他会是同谋吗？</span><span class="english">Was he an accomplice?</span></p>
 
 <p><span class="chinese">他必须招出同谋的姓名。</span><span class="english">And he must name names.</span></p>

@@ -1,5 +1,7 @@
 # 误码率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wumalv.md)
+
 <p><span class="chinese">给出了误码率与BPF群时延的关系。</span><span class="english">At last, the relationship of BER and BPF group delay is shown.</span></p>
 
 <p><span class="chinese">仿真分析表明，该方法可获得有较好的误码率性能。</span><span class="english">Simulation results show that the performance of this system is good.</span></p>

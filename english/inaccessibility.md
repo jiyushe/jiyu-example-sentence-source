@@ -1,5 +1,7 @@
 # inaccessibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inaccessibility.md)
+
 <p><span class="chinese">总是难达到满意的效果，并常见复发。</span><span class="english">Always inaccessibility satisfaction effect, and common recrudescence.</span></p>
 
 <p><span class="chinese">但是，看医生难让早发现更加困难。</span><span class="english">But the inaccessibility of doctors makes early detection more difficult.</span></p>

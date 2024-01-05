@@ -1,5 +1,7 @@
 # souse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/souse.md)
+
 <p><span class="chinese">腌货被认为具有很强的酸性。</span><span class="english">Souse is believed to be highly acidic.</span></p>
 
 <p><span class="chinese">那以后我就从来没见他喝醉过。</span><span class="english">I have never seen him souse from then on.</span></p>

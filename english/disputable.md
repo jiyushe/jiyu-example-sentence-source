@@ -1,5 +1,7 @@
 # disputable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disputable.md)
+
 <p><span class="chinese">我的意思是，那是不容置疑的。</span><span class="english">I mean, that’s just not disputable.</span></p>
 
 <p><span class="chinese">古代城邦的起源是有争议的。</span><span class="english">The origin of city-states is disputable.</span></p>

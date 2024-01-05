@@ -1,5 +1,7 @@
 # 决定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueding.md)
+
 <p><span class="chinese">我的决定？</span><span class="english">My decision?</span></p>
 
 <p><span class="chinese">他说我是决定人。</span><span class="english">I'm the decider.</span></p>

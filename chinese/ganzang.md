@@ -1,5 +1,7 @@
 # 肝脏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzang.md)
+
 <p><span class="chinese">位置在肝脏上方。</span><span class="english">Located on topside of liver.</span></p>
 
 <p><span class="chinese">递给我肝脏和胗。</span><span class="english">Pass me the liver and gizzards.</span></p>

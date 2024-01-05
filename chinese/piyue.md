@@ -1,5 +1,7 @@
 # 批阅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piyue.md)
+
 <p><span class="chinese">你甚至不要坐在书桌上批阅论文。</span><span class="english">You don't even have to sit at your desk.</span></p>
 
 <p><span class="chinese">“朕平时批阅奏章，就是点个点”。</span><span class="english">I sign the memorials with a point usually.</span></p>

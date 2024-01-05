@@ -1,5 +1,7 @@
 # 鹰爪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingzhao_1.md)
+
 <p><span class="chinese">她只能用柔软的鹰爪了。</span><span class="english">She’d have to use very tender talons.</span></p>
 
 <p><span class="chinese">在另一只鹰爪里紧握着箭。</span><span class="english">The eagle is clasping arrows in its other claw.</span></p>

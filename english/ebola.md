@@ -1,5 +1,7 @@
 # ebola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ebola.md)
+
 <p><span class="chinese">埃博拉扎伊尔病毒杀夺取百分之九十的受感染者的生命。</span><span class="english">Ebola Zaire virus kills 90 per cent of the people it infects.</span></p>
 
 <p><span class="chinese">他不停地与埃博拉从其他病人不同的人。</span><span class="english">He kept the people with Ebola separate from the other patients.</span></p>

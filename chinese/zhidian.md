@@ -1,5 +1,7 @@
 # 指点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhidian.md)
+
 <p><span class="chinese">天使们一直都在指点着它！</span><span class="english">The angels were forever pointing at it!</span></p>
 
 <p><span class="chinese">你能指点我去车站的路吗？</span><span class="english">Could you tell me the way to the station?</span></p>

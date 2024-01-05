@@ -1,5 +1,7 @@
 # construction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/construction.md)
+
 <p><span class="chinese">伏尔加酒店建设场景。</span><span class="english">Volga Hotel construction.</span></p>
 
 <p><span class="chinese">易拉建设。</span><span class="english">Easy pull-on construction.</span></p>

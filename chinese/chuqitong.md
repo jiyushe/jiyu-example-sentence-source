@@ -1,5 +1,7 @@
 # 出气筒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuqitong.md)
+
 <p><span class="chinese">别拿我当出气筒。</span><span class="english">Don't take it out on me.</span></p>
 
 <p><span class="chinese">我并没有拿那只狗当出气筒。</span><span class="english">I'm not taking spite out on the dog.</span></p>

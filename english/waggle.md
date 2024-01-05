@@ -1,5 +1,7 @@
 # waggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waggle.md)
+
 <p><span class="chinese">她能让耳朵来回动。</span><span class="english">She can waggle her ears.</span></p>
 
 <p><span class="chinese">你能让耳朵来回动吗？</span><span class="english">Can you waggle your ears?</span></p>

@@ -1,5 +1,7 @@
 # intoxicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intoxicate.md)
+
 <p><span class="chinese">海风醉人。</span><span class="english">Sea wind intoxicate.</span></p>
 
 <p><span class="chinese">你浓稠如脂的肌理和炽热的肤皮使我沉醉不已。</span><span class="english">Thy creamy flesh and hot rind intoxicate me.</span></p>

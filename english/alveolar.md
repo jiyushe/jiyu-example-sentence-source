@@ -1,5 +1,7 @@
 # alveolar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alveolar.md)
+
 <p><span class="chinese">没有肺泡腔渗出物。</span><span class="english">Note that there is no alveolar exudate.</span></p>
 
 <p><span class="chinese">各组均有牙槽骨吸收。</span><span class="english">All groups had alveolar bone resorption.</span></p>

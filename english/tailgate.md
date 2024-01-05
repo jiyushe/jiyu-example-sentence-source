@@ -1,5 +1,7 @@
 # tailgate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tailgate.md)
+
 <p><span class="chinese">打开后挡板。</span><span class="english">Open the tailgate.</span></p>
 
 <p><span class="chinese">电动尾门系统是什么？</span><span class="english">What is power tailgate system?</span></p>

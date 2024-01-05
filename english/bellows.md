@@ -1,5 +1,7 @@
 # bellows
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bellows.md)
+
 <p><span class="chinese">里面低音边和风箱。</span><span class="english">Inside bass side and bellows.</span></p>
 
 <p><span class="chinese">他的肚子是音乐的风箱。</span><span class="english">Music bellows from his insides.</span></p>

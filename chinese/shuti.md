@@ -1,5 +1,7 @@
 # 书体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuti.md)
+
 <p><span class="chinese">中文的草书体很难读。</span><span class="english">Chinese cursive writing is very difficult to read.</span></p>
 
 <p><span class="chinese">人的需要是书体演变的内在原因。</span><span class="english">The need of people is the real reason for calligraphical evolution.</span></p>

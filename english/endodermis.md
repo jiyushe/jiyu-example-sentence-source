@@ -1,5 +1,7 @@
 # endodermis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endodermis.md)
+
 <p><span class="chinese">其内皮层细胞上凯氏带明显。</span><span class="english">The endodermis had clear Casparian strips on its cells.</span></p>
 
 <p><span class="chinese">茎有内皮层，凯氏带加厚明显。</span><span class="english">Wall thickening ofCasparian strip is evident in its endodermis.</span></p>

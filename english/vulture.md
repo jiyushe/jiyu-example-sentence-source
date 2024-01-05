@@ -1,5 +1,7 @@
 # vulture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vulture.md)
+
 <p><span class="chinese">看看这只垂头丧气的秃鹰。</span><span class="english">Check out this lappet-faced vulture.</span></p>
 
 <p><span class="chinese">这是一只鲁氏粗毛秃鹫。</span><span class="english">This is the Ruppell's Griffon Vulture.</span></p>

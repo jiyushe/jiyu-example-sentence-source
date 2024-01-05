@@ -1,5 +1,7 @@
 # 解放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiefang_1.md)
+
 <p><span class="chinese">摩诃萨.解放.自由.</span><span class="english">Liberation. Freedom.</span></p>
 
 <p><span class="chinese">解放油罐车挡位和优雅。</span><span class="english">Moving off with grace.</span></p>

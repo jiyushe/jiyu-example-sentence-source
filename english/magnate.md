@@ -1,5 +1,7 @@
 # magnate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnate.md)
+
 <p><span class="chinese">史蒂夫韦恩，亿万富翁赌场大亨。</span><span class="english">Steve Wynn, multi-billionaire casino magnate.</span></p>
 
 <p><span class="chinese">这个石油大亨被指控犯有放高利贷罪。</span><span class="english">The oil magnate was charged with being guilty of usury.</span></p>

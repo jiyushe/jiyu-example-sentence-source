@@ -1,5 +1,7 @@
 # diacetyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diacetyl.md)
+
 <p><span class="chinese">双乙酰是影响啤酒风味的重要物质。</span><span class="english">Diacetyl is an important matter affecting the flavor of beer.</span></p>
 
 <p><span class="chinese">啤酒中双乙酰含量的变化与许多因素有关。</span><span class="english">The change of diacetyl content in beer is related to many factors.</span></p>

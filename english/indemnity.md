@@ -1,5 +1,7 @@
 # indemnity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indemnity.md)
+
 <p><span class="chinese">他必须支付100英镑的赔偿。</span><span class="english">He have to pay an indemnity of￡100.</span></p>
 
 <p><span class="chinese">他们在事故后向受害者付了赔偿金。</span><span class="english">They paid an indemnity to the victim after the accident.</span></p>

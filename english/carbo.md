@@ -1,5 +1,7 @@
 # carbo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbo.md)
+
 <p><span class="chinese">我想要减肥的时候，我就会避免任何碳水化合物食品和油炸食品。</span><span class="english">When I want to lose weight, I'll avoid carbo and anything fried.</span></p>
 
 <p><span class="chinese">耐力型运动员在比赛马上开始之前来补充碳水化合物。</span><span class="english">Carbo loading is used by endurance athletes just before competing.</span></p>

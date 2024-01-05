@@ -1,5 +1,7 @@
 # alterative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alterative.md)
+
 <p><span class="chinese">同时，有一个地图有很多猪，被称作猪的海岸。</span><span class="english">Also, there is the famous map for pigs, as an alterative for Pig Beach.</span></p>
 
 <p><span class="chinese">字谜中的汉字修辞与顿读别解。</span><span class="english">Chinese character rhetoric of riddle and alterative interpretation of intermittence reading.</span></p>

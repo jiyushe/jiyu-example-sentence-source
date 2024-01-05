@@ -1,5 +1,7 @@
 # 承揽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenglan.md)
+
 <p><span class="chinese">我们承揽切纸加工业务。</span><span class="english">We supply cutting paper service.</span></p>
 
 <p><span class="chinese">戴维能预知承揽工作的结果吗？</span><span class="english">Can David foresee the end of the job work?</span></p>

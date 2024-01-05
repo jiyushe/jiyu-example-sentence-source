@@ -1,5 +1,7 @@
 # luton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luton.md)
+
 <p><span class="chinese">卢顿市位于伦敦的北部。</span><span class="english">Luton is located north of London.</span></p>
 
 <p><span class="chinese">如果我没记错的话，他住在卢顿。</span><span class="english">If I recall correctly, he lives in Luton.</span></p>

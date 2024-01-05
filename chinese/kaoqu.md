@@ -1,5 +1,7 @@
 # 考取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaoqu.md)
+
 <p><span class="chinese">你必须考取驾驶证。</span><span class="english">You must have drive's license.</span></p>
 
 <p><span class="chinese">我目前的规划只到了考取高级工程师这一步。</span><span class="english">Now my plan is to be a senior engineer.</span></p>

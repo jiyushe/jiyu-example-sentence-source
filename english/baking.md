@@ -1,5 +1,7 @@
 # baking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baking.md)
+
 <p><span class="chinese">烘烤曲奇的香味。</span><span class="english">Smell of cookies baking.</span></p>
 
 <p><span class="chinese">把它们放到烘烤盘上。</span><span class="english">Put them on a baking tray.</span></p>

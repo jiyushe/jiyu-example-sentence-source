@@ -1,5 +1,7 @@
 # 坐骨神经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuogushenjing.md)
+
 <p><span class="chinese">我妈的坐骨神经痛又犯了。</span><span class="english">Mom’s sciatica was acting up.</span></p>
 
 <p><span class="chinese">掌握坐骨神经痛的定义。</span><span class="english">Master the definition of sciatica.</span></p>

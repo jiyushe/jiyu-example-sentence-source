@@ -1,5 +1,7 @@
 # 拆开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaikai.md)
+
 <p><span class="chinese">我可以把这些缝口拆开。</span><span class="english">I can open the seam.</span></p>
 
 <p><span class="chinese">我可以把这些缝口拆开。</span><span class="english">I can open the seams.</span></p>

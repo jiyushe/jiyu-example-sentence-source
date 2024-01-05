@@ -1,5 +1,7 @@
 # 弹丸之地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danwanzhidi.md)
+
 <p><span class="chinese">弹丸之地卡塔尔就是一个例子。</span><span class="english">Tiny Qatar is just one of the examples.</span></p>
 
 <p><span class="chinese">卡塔尔这个海湾小国虽是弹丸之地，但却在武装给予反对党支持。</span><span class="english">The small Gulf state was instrumental in arming the rebels.</span></p>

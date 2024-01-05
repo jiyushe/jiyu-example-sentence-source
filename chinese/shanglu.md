@@ -1,5 +1,7 @@
 # 上路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanglu.md)
+
 <p><span class="chinese">我们都可以上路了。</span><span class="english">We both can go.</span></p>
 
 <p><span class="chinese">我们驱马慢跑开始上路。</span><span class="english">We set off at a canter.</span></p>

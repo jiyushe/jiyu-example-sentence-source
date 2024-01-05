@@ -1,5 +1,7 @@
 # casa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casa.md)
+
 <p><span class="chinese">胡安不在家么？</span><span class="english">Juan no está en casa ?</span></p>
 
 <p><span class="chinese">我带着花去他家。</span><span class="english">Voy a su casa con flores.</span></p>

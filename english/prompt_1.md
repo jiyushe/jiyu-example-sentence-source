@@ -1,5 +1,7 @@
 # prompt 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prompt_1.md)
+
 <p><span class="chinese">打开命令提示符。</span><span class="english">Open a Command Prompt.</span></p>
 
 <p><span class="chinese">您应该看到一个提示符。</span><span class="english">You should see a prompt.</span></p>

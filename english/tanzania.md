@@ -1,5 +1,7 @@
 # tanzania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tanzania.md)
+
 <p><span class="chinese">坦桑尼亚的塔拉哥尔国家公园</span><span class="english">Tarangire National Park, Tanzania</span></p>
 
 <p><span class="chinese">我们在坦桑尼亚有一个很好的例子。</span><span class="english">We have a good example in Tanzania.</span></p>

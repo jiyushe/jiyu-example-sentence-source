@@ -1,5 +1,7 @@
 # poseidon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poseidon.md)
+
 <p><span class="chinese">波赛冬是希腊海神。</span><span class="english">Poseidon was the Greek god of the sea.</span></p>
 
 <p><span class="chinese">始皇感激不尽，要面谢海神。</span><span class="english">Emperor grateful, thank to face Poseidon.</span></p>

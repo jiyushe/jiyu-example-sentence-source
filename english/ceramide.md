@@ -1,5 +1,7 @@
 # ceramide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceramide.md)
+
 <p><span class="chinese">生物体内神经酰胺有多种生成途径。</span><span class="english">Ceramide may be generated from many metabolism routes.</span></p>
 
 <p><span class="chinese">神经酰胺的聚集激起了肺部炎症并杀死肺细胞。</span><span class="english">As ceramide accumulates, it inflames the lung and kills lung cells.</span></p>

@@ -1,5 +1,7 @@
 # dowel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dowel.md)
+
 <p><span class="chinese">削减木钉，以20厘米的长度。</span><span class="english">Cut the dowel down to 20cm in length.</span></p>
 
 <p><span class="chinese">钻头的销子和螺栓和脊髓。</span><span class="english">Drill bits for dowel and bolts and cord.</span></p>

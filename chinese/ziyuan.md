@@ -1,5 +1,7 @@
 # 资源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyuan.md)
+
 <p><span class="chinese">角色与资源。</span><span class="english">Roles and resources.</span></p>
 
 <p><span class="chinese">尽量使用免费资源。</span><span class="english">Utilize free resources.</span></p>

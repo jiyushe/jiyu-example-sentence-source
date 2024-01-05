@@ -1,5 +1,7 @@
 # enzyme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enzyme.md)
+
 <p><span class="chinese">它是一个别构酶。</span><span class="english">It is an allosteric enzyme.</span></p>
 
 <p><span class="chinese">这酶是酸性磷酸酶。</span><span class="english">The enzyme was acid phosphatase.</span></p>

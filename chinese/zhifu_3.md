@@ -1,5 +1,7 @@
 # 支付
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhifu_3.md)
+
 <p><span class="chinese">用现金支付。</span><span class="english">Pay with cash.</span></p>
 
 <p><span class="chinese">在网上支付账单。</span><span class="english">Pay bills online.</span></p>

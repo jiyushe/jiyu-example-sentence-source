@@ -1,5 +1,7 @@
 # dashboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dashboard.md)
+
 <p><span class="chinese">他转动着仪表板上的一个旋钮。</span><span class="english">He twiddled a knob on the dashboard.</span></p>
 
 <p><span class="chinese">一个可以运动的横梁支撑住了板子。</span><span class="english">A transverse beam supports the dashboard.</span></p>

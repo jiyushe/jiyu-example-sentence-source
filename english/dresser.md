@@ -1,5 +1,7 @@
 # dresser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dresser.md)
+
 <p><span class="chinese">他是最好的服装师。</span><span class="english">He is the best dresser.</span></p>
 
 <p><span class="chinese">梳妆盒可以靠墙放。</span><span class="english">The dresser could go against wall.</span></p>

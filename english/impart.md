@@ -1,5 +1,7 @@
 # impart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impart.md)
+
 <p><span class="chinese">可以更加有效地传授知识吗？</span><span class="english">Impart knowledge more effectively?</span></p>
 
 <p><span class="chinese">我会传递给你们对古典音乐的热爱</span><span class="english">I will impart to you a love of classical music.</span></p>

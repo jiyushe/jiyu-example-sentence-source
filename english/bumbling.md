@@ -1,5 +1,7 @@
 # bumbling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bumbling.md)
+
 <p><span class="chinese">她在瞎说些什么呀?</span><span class="english">What is she bumbling on about?</span></p>
 
 <p><span class="chinese">那位笨手笨脚的服务生把水泼在客人的身上了。</span><span class="english">The bumbling waiter spilled water on a customer.</span></p>

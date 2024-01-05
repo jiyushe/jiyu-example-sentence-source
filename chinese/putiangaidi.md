@@ -1,5 +1,7 @@
 # 铺天盖地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putiangaidi.md)
+
 <p><span class="chinese">我们总是面对这样铺天盖地的忠告。</span><span class="english">We face this sea of advice all the time.</span></p>
 
 <p><span class="chinese">啊，又到了一年中政治新闻铺天盖地的时节了。</span><span class="english">Ah, the time of year when political news is everywhere.</span></p>

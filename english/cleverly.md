@@ -1,5 +1,7 @@
 # cleverly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleverly.md)
+
 <p><span class="chinese">警察向他开枪时，他机警地闪开了。</span><span class="english">He dodged cleverly when the police fired at him.</span></p>
 
 <p><span class="chinese">因此，我们务必节约他们最聪明的。</span><span class="english">As a result, we must economize them most cleverly.</span></p>

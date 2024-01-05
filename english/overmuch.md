@@ -1,5 +1,7 @@
 # overmuch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overmuch.md)
+
 <p><span class="chinese">月经过多。是什么原因?。</span><span class="english">Menstruation is overmuch. What reason be?</span></p>
 
 <p><span class="chinese">刮痧瘦腿不宜过多。</span><span class="english">Scrapping thin leg is unfavorable and overmuch.</span></p>

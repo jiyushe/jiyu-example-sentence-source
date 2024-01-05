@@ -1,5 +1,7 @@
 # recondition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recondition.md)
+
 <p><span class="chinese">在乌烟瘴气中，你赐我清新的空气。</span><span class="english">In fog and smog, you recondition my air.</span></p>
 
 <p><span class="chinese">他们决定将老房子修整一番。</span><span class="english">They decided to recondition their old house.</span></p>

@@ -1,5 +1,7 @@
 # mj
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mj.md)
+
 <p><span class="chinese">为什么MJ在中国这么受欢迎？</span><span class="english">Why is MJ so popular in China?</span></p>
 
 <p><span class="chinese">如果再往下看1s层，是一摩尔20兆焦耳。</span><span class="english">If you go down to 1s, it's 20 MJ per mole.</span></p>

@@ -1,5 +1,7 @@
 # functor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/functor.md)
+
 <p><span class="chinese">你怎么能与一个可变参数函数函？</span><span class="english">How can you bind a variadic member function to a functor?</span></p>
 
 <p><span class="chinese">函子的法律证明保存完整的结构吗?。</span><span class="english">Do the functor laws prove complete preservation of structure?</span></p>

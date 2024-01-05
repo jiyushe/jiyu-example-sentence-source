@@ -1,5 +1,7 @@
 # parachute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parachute.md)
+
 <p><span class="chinese">降落伞张开了。</span><span class="english">The parachute puffed out.</span></p>
 
 <p><span class="chinese">他加入了伞兵部队。</span><span class="english">He joined the parachute troops.</span></p>

@@ -1,5 +1,7 @@
 # hockey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hockey.md)
+
 <p><span class="chinese">这里是冰球场。</span><span class="english">This is a hockey rink.</span></p>
 
 <p><span class="chinese">冰球妈妈来救驾了！</span><span class="english">Hockey mom to the rescue!</span></p>

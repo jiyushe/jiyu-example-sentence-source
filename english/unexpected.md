@@ -1,5 +1,7 @@
 # unexpected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unexpected.md)
+
 <p><span class="chinese">诚非所料。</span><span class="english">It is really unexpected.</span></p>
 
 <p><span class="chinese">他的启程是出乎意外的。</span><span class="english">His going was unexpected.</span></p>

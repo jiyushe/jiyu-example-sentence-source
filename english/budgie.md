@@ -1,5 +1,7 @@
 # budgie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/budgie.md)
+
 <p><span class="chinese">像鹦鹉一样飞。</span><span class="english">Fly like a budgie.</span></p>
 
 <p><span class="chinese">星期一她画了一只红色的鹦鹉。</span><span class="english">She paints a red budgie on Monday.</span></p>

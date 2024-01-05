@@ -1,5 +1,7 @@
 # seashore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seashore.md)
+
 <p><span class="chinese">他们在海浜避暑。</span><span class="english">They summer at the seashore.</span></p>
 
 <p><span class="chinese">我们在海滨渡过了夏天。</span><span class="english">We summered at the seashore.</span></p>

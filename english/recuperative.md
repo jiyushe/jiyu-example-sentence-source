@@ -1,5 +1,7 @@
 # recuperative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recuperative.md)
+
 <p><span class="chinese">具有顽固性和复发性的特点。</span><span class="english">The trait is stubborn and recuperative.</span></p>
 
 <p><span class="chinese">你可以很好的照顾自己，并有很强的恢复能力。</span><span class="english">Health. You take good care of yourself and have great recuperative.</span></p>

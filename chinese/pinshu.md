@@ -1,5 +1,7 @@
 # 聘书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinshu.md)
+
 <p><span class="chinese">根据新的规章制度制订新的聘书。</span><span class="english">The new hiring was done according to the book.</span></p>
 
 <p><span class="chinese">证书聘书票夹系列。</span><span class="english">Certificate letter of appointment purse Series.</span></p>

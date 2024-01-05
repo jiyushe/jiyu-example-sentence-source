@@ -1,5 +1,7 @@
 # 针刺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenci.md)
+
 <p><span class="chinese">只是有点针刺。</span><span class="english">Just a little pinprick.</span></p>
 
 <p><span class="chinese">针刺证明有效吗？</span><span class="english">What's the evidence for acupuncture?</span></p>

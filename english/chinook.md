@@ -1,5 +1,7 @@
 # chinook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chinook.md)
+
 <p><span class="chinese">一位奇努克妇女拿着一个装着蛤蜊的篮子。</span><span class="english">A Chinook Indian woman holds a clam basket.</span></p>
 
 <p><span class="chinese">这意味着Chinook成为一个较大的目标。</span><span class="english">Which means the Chinook makes for a bigger target.</span></p>

@@ -1,5 +1,7 @@
 # hyperthyroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperthyroid.md)
+
 <p><span class="chinese">目的甲状腺功能亢进患者的糖代谢情况。</span><span class="english">Objective To observe the glycometabolism in hyperthyroid patients.</span></p>
 
 <p><span class="chinese">目的研究卡托普利对甲亢大鼠心肌的保护作用。</span><span class="english">OBJECTIVE To study the protective effects of Captopril on hyperthyroid rats.</span></p>

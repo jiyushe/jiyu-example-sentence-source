@@ -1,5 +1,7 @@
 # stark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stark.md)
+
 <p><span class="chinese">他完全疯了。</span><span class="english">He was stark mad.</span></p>
 
 <p><span class="chinese">耸立在刮风的天空下。</span><span class="english">Stark in a windy sky.</span></p>

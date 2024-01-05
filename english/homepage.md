@@ -1,5 +1,7 @@
 # homepage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homepage.md)
+
 <p><span class="chinese">这是殷德敏的个人网站。</span><span class="english">This is Demin Yin's personal homepage.</span></p>
 
 <p><span class="chinese">这张照片取自竞赛官网主页。</span><span class="english">This photo shows the contest's homepage.</span></p>

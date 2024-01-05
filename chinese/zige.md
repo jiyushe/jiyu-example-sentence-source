@@ -1,5 +1,7 @@
 # 资格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zige.md)
+
 <p><span class="chinese">我们都有资格。</span><span class="english">All of us qualify.</span></p>
 
 <p><span class="chinese">他被取消比赛资格了!</span><span class="english">He was disqualified.</span></p>

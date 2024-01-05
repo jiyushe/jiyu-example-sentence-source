@@ -1,5 +1,7 @@
 # 邀功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaogong.md)
+
 <p><span class="chinese">但是，本周似乎没有人急于邀功。</span><span class="english">Still, no one seemed eager this week to take credit for honoring Mr.</span></p>
 
 <p><span class="chinese">现在，我们两个也没有一个人出来邀功说发明了这个术语设计思考。</span><span class="english">Now, neither of us make any claim to having invented the term design thinking.</span></p>

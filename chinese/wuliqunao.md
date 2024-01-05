@@ -1,5 +1,7 @@
 # 无理取闹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuliqunao.md)
+
 <p><span class="chinese">不要无理取闹，否则我告诉你的老板。</span><span class="english">Don't get fresh,or I'll tell your boss.</span></p>
 
 <p><span class="chinese">无理取闹，这是我许你的特权。</span><span class="english">Vexatious, this is I make your privilege.</span></p>

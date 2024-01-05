@@ -1,5 +1,7 @@
 # forbad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forbad.md)
+
 <p><span class="chinese">我老妈不让我去。</span><span class="english">My mom forbad me to go.</span></p>
 
 <p><span class="chinese">我父亲不让我吸烟。</span><span class="english">My father forbad me to smoke.</span></p>

@@ -1,5 +1,7 @@
 # precent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precent.md)
+
 <p><span class="chinese">大约45领唱学生不吃早饭去上学。</span><span class="english">About 45 precent students go to school without breakfast.</span></p>
 
 <p><span class="chinese">该桥为目前世界上跨径最大的拱桥。</span><span class="english">The bridge is the world's largest span arch bridge at precent.</span></p>

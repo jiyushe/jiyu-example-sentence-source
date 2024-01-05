@@ -1,5 +1,7 @@
 # regain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regain.md)
+
 <p><span class="chinese">首先，重展你的笑颜。</span><span class="english">First, regain your smile.</span></p>
 
 <p><span class="chinese">贝巴螚重拾弗格森的信任吗？</span><span class="english">Can Berbatov regain Ferguson's trust?</span></p>

@@ -1,5 +1,7 @@
 # polyphonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyphonic.md)
+
 <p><span class="chinese">支持mp3和弦铃声。</span><span class="english">MP3 polyphonic ring tone.</span></p>
 
 <p><span class="chinese">从整体来看，这部小说是一部复调小说。</span><span class="english">It is as a whole a polyphonic novel.</span></p>

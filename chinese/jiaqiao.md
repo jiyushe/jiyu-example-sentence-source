@@ -1,5 +1,7 @@
 # 甲壳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaqiao.md)
+
 <p><span class="chinese">例如，它们的甲壳变薄了。</span><span class="english">They have thinner shells, for example.</span></p>
 
 <p><span class="chinese">因此，他们提出一个黑暗的甲壳。</span><span class="english">Therefore, they present a dark carapace.</span></p>

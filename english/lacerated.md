@@ -1,5 +1,7 @@
 # lacerated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacerated.md)
+
 <p><span class="chinese">一个较大的血管已经裂伤。</span><span class="english">A major vessel has been lacerated.</span></p>
 
 <p><span class="chinese">尖石把他的脚划伤了。</span><span class="english">The sharp stones lacerated his feet.</span></p>

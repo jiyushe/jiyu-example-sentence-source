@@ -1,5 +1,7 @@
 # 脾胃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piwei.md)
+
 <p><span class="chinese">具有调和脾胃、清热润燥作用。</span><span class="english">Has the harmonic taste, heat dryness role.</span></p>
 
 <p><span class="chinese">绿豆也能够清热败火、防暑解毒，还是养脾胃的良品。</span><span class="english">It is also knows to be good for spleen and stomach.</span></p>

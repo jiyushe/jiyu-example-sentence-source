@@ -1,5 +1,7 @@
 # tapeworm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tapeworm.md)
+
 <p><span class="chinese">我体内也会有绦虫吗？</span><span class="english">I could have tapeworm in me?</span></p>
 
 <p><span class="chinese">还有“绦虫”节食减肥法。</span><span class="english">Then there is the tapeworm diet.</span></p>

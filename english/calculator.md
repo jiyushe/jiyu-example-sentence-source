@@ -1,5 +1,7 @@
 # calculator 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calculator.md)
+
 <p><span class="chinese">把函数输进计算器。</span><span class="english">You can put that into calculator.</span></p>
 
 <p><span class="chinese">现在，打开了“ESN的校验和计算器”。</span><span class="english">Now open up "ESN Checksum Calculator".</span></p>

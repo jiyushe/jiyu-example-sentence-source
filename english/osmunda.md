@@ -1,5 +1,7 @@
 # osmunda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osmunda.md)
+
 <p><span class="chinese">卵发生进行了超微结构的研究。</span><span class="english">The ultrastructure of oogenesis in the fern Osmunda cinnamomea L.</span></p>
 
 <p><span class="chinese">研究了薇菜的干制和复水工艺，并据此生产出营养和味道适宜的薇菜小食品。</span><span class="english">The drying and soaking processes of Osmunda japonica Thunb were investigated in this paper.</span></p>

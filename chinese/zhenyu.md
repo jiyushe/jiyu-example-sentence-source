@@ -1,5 +1,7 @@
 # 阵雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenyu.md)
+
 <p><span class="chinese">只是一场阵雨而已。</span><span class="english">It's only a shower.</span></p>
 
 <p><span class="chinese">阵雨涤荡了空中飞扬的灰尘。</span><span class="english">The shower laid the dust.</span></p>

@@ -1,5 +1,7 @@
 # 骚动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saodong.md)
+
 <p><span class="chinese">为什么骚动？</span><span class="english">Why create uproar?</span></p>
 
 <p><span class="chinese">之后会造成一段长期的骚动。</span><span class="english">A long to-do list, then.</span></p>

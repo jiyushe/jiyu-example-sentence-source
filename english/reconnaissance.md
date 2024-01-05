@@ -1,5 +1,7 @@
 # reconnaissance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconnaissance.md)
+
 <p><span class="chinese">美国国家侦察局。</span><span class="english">The National Reconnaissance Office.</span></p>
 
 <p><span class="chinese">一个用于侦察和监视小型无人机。</span><span class="english">A mini UAV for reconnaissance and surveillance.</span></p>

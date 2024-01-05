@@ -1,5 +1,7 @@
 # 意想不到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiangbudao.md)
+
 <p><span class="chinese">意想不到的事情，总是妙趣横生。</span><span class="english">The unexpected is always fun!</span></p>
 
 <p><span class="chinese">他正在追踪的那名间谍有许多意想不到的怪招。</span><span class="english">The spy he was chasing had many quirks.</span></p>

@@ -1,5 +1,7 @@
 # 呱呱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guagua_1.md)
+
 <p><span class="chinese">国内互联网实是底呱呱！</span><span class="english">Internet is number one!</span></p>
 
 <p><span class="chinese">“我们呱呱，”六只小乌鸦说。</span><span class="english">"We caw, "said the six.</span></p>

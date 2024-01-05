@@ -1,5 +1,7 @@
 # extended
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extended.md)
+
 <p><span class="chinese">那舞蹈者伸了伸腿。</span><span class="english">The dancer extended her leg.</span></p>
 
 <p><span class="chinese">那匹马已被全力驱策。</span><span class="english">The horse was fully extended.</span></p>

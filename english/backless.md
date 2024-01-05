@@ -1,5 +1,7 @@
 # backless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backless.md)
+
 <p><span class="chinese">凳子就是既没有靠背又没有扶手的椅子。</span><span class="english">A stool is a backless and armless seat.</span></p>
 
 <p><span class="chinese">她穿了一件露背装还有迷你裙。</span><span class="english">She wore a backless top and a mini skirt.</span></p>

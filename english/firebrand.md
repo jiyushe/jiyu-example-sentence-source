@@ -1,5 +1,7 @@
 # firebrand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firebrand.md)
+
 <p><span class="chinese">我从前是块木头，后来成了引火的干柴。</span><span class="english">I was a block of wood, I became a firebrand.</span></p>
 
 <p><span class="chinese">在2000年至2008年任总统期间，他就一直鼓动台湾独立。</span><span class="english">President in 2000-08, he was a firebrand for explicit independence.</span></p>

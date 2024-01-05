@@ -1,5 +1,7 @@
 # beam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beam.md)
+
 <p><span class="chinese">我们有一个电子束。</span><span class="english">And we have a beam.</span></p>
 
 <p><span class="chinese">这是电子束。</span><span class="english">This is the e beam.</span></p>

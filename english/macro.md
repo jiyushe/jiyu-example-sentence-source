@@ -1,5 +1,7 @@
 # macro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macro.md)
+
 <p><span class="chinese">宏病毒？</span><span class="english">Macro Virus?</span></p>
 
 <p><span class="chinese">宏微观分析。</span><span class="english">Macro and micro analysis.</span></p>

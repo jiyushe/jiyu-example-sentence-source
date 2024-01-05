@@ -1,5 +1,7 @@
 # 选育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanyu.md)
+
 <p><span class="chinese">在棚室内选育成功的。</span><span class="english">Breeding success indoors in the shed.</span></p>
 
 <p><span class="chinese">西葫芦新品种京葫1号的选育。</span><span class="english">A new summer squash f1hybrid-'jinghu no.</span></p>

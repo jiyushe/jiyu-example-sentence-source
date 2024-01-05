@@ -1,5 +1,7 @@
 # 安安稳稳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ananwenwen.md)
+
 <p><span class="chinese">其余的人想安安稳稳的过日子。</span><span class="english">The rest of us want to live in peace.</span></p>
 
 <p><span class="chinese">猫安安稳稳地蹲在扶手椅里。</span><span class="english">The cat ensconced itself in the armchair.</span></p>

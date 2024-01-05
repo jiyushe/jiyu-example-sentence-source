@@ -1,5 +1,7 @@
 # portulaca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portulaca.md)
+
 <p><span class="chinese">马齿苋口服液是以马齿苋为主制成的口服液体制剂。</span><span class="english">Machixian Oral liquid was made from Portulaca oleracea L.</span></p>
 
 <p><span class="chinese">马齿苋的功能及其开发利用。</span><span class="english">The functional character and exploitation of Portulaca oleracea L.</span></p>

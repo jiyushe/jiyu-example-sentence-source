@@ -1,5 +1,7 @@
 # 特等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tedeng.md)
+
 <p><span class="chinese">采用20瓦的氟灯或者可调光特等氟灯。</span><span class="english">lighting is 20 watt compact fluoros or dimmable PL fluoro.</span></p>
 
 <p><span class="chinese">陈大卫特等中国进出口银，陈集。</span><span class="english">Chan, David P. L. Chinese Export Silver, The Chan Collection.</span></p>

@@ -1,5 +1,7 @@
 # heller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heller.md)
+
 <p><span class="chinese">古拉代表的是保安人员迪克.赫勒。</span><span class="english">Gura represented security guard Dick Heller.</span></p>
 
 <p><span class="chinese">海勒虽喜战争题材，但不写军队里情同手足的兄弟。</span><span class="english">Heller took war as his subject, but he didn't write about backslapping brothers in arms.</span></p>

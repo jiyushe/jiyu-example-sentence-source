@@ -1,5 +1,7 @@
 # absorb 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorb.md)
+
 <p><span class="chinese">软木制的天花板能减少回音。</span><span class="english">Cork ceilings absorb sound.</span></p>
 
 <p><span class="chinese">棉手套吸汗。</span><span class="english">Cotton gloves absorb sweat.</span></p>

@@ -1,5 +1,7 @@
 # hydrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrant.md)
+
 <p><span class="chinese">每个楼层都有一个消防栓。</span><span class="english">On every floor there is a fire hydrant.</span></p>
 
 <p><span class="chinese">消火栓是从东京的原之一。</span><span class="english">The fire hydrant is an original one from Tokyo.</span></p>

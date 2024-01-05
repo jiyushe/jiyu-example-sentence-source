@@ -1,5 +1,7 @@
 # 冬青
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongqing.md)
+
 <p><span class="chinese">她把冬青编成花环。</span><span class="english">She twined holly into wreaths.</span></p>
 
 <p><span class="chinese">猿飞被李冬青救下。</span><span class="english">Fly ape was dong-qing li saved.</span></p>

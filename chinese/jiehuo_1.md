@@ -1,5 +1,7 @@
 # 结伙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiehuo_1.md)
+
 <p><span class="chinese">孩子们喜欢成群结伙相互攻击。</span><span class="english">Children like to gang each other.</span></p>
 
 <p><span class="chinese">十几岁的男孩喜欢成群结伙地四处闲逛。</span><span class="english">Teenage boys tend to go about in groups.</span></p>

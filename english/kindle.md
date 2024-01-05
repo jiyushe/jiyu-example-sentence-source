@@ -1,5 +1,7 @@
 # kindle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kindle.md)
+
 <p><span class="chinese">这木柴太湿点不着。</span><span class="english">This wood is too wet to kindle.</span></p>
 
 <p><span class="chinese">无心的快语可能引发争执。</span><span class="english">A careless word may kindle strife.</span></p>

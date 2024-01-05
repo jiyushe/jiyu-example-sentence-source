@@ -1,5 +1,7 @@
 # dls
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dls.md)
+
 <p><span class="chinese">南港货站水泥仓的北晟重机凸形调车机群。</span><span class="english">The PHM DLs of cement warehouse, Nan-Kang Cargo Station.</span></p>
 
 <p><span class="chinese">这些方向性标签是飞往华沙、克拉科夫，利沃夫和格但斯克的。</span><span class="english">These dls were flown to warszawa krakow lwow and gdansk.</span></p>

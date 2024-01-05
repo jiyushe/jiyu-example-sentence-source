@@ -1,5 +1,7 @@
 # lobectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lobectomy.md)
+
 <p><span class="chinese">目的总结26例肝尾叶切除的经验。</span><span class="english">Objective To summarize the experience in caudate lobectomy for 26 cases.</span></p>
 
 <p><span class="chinese">这些病人中，31位接受了全甲状腺切除，40位接受了腺叶切除。</span><span class="english">Of these, 31 underwent a total thyroidectomy and 40 underwent a lobectomy.</span></p>

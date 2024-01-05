@@ -1,5 +1,7 @@
 # 草鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoyu.md)
+
 <p><span class="chinese">草鱼煮熟即可，时间不要长。</span><span class="english">Don't boil the grass carp for too long time.</span></p>
 
 <p><span class="chinese">在中国，草鱼是常见的河鱼。</span><span class="english">Grass carp is a common kind of freshwater fish in China.</span></p>

@@ -1,5 +1,7 @@
 # oncoming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oncoming.md)
+
 <p><span class="chinese">魔鬼继续紧追不舍。</span><span class="english">The devil keeps oncoming.</span></p>
 
 <p><span class="chinese">聚云预示了即将来临的风暴。</span><span class="english">Gathering clouds announced the oncoming storm.</span></p>

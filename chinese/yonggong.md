@@ -1,5 +1,7 @@
 # 佣工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yonggong.md)
+
 <p><span class="chinese">魔力将与奴才和佣工发现工作吗？</span><span class="english">Will Magic Find work with Minions and Hirelings?</span></p>
 
 <p><span class="chinese">佣工是否需要有照顾卧床病患者经验?。</span><span class="english">Helper needs to have experience in bed-ridden care?</span></p>

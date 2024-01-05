@@ -1,5 +1,7 @@
 # kino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kino.md)
+
 <p><span class="chinese">电影院今天放一部新电影。</span><span class="english">Heute läuft ein neuer Film im Kino.</span></p>
 
 <p><span class="chinese">吉纳已经发现了世上最大的珍珠。</span><span class="english">Kino had found the Pearl of the World.</span></p>

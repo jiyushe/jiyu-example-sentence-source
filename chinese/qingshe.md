@@ -1,5 +1,7 @@
 # 青蛇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshe.md)
+
 <p><span class="chinese">这只青蛇继续鬼鬼祟祟的打猎。</span><span class="english">The snake continues its stealthy hunt.</span></p>
 
 <p><span class="chinese">一条大青蛇缠绕在他脖子上。</span><span class="english">A large green snake twisted itself around his neck.</span></p>

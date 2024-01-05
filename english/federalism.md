@@ -1,5 +1,7 @@
 # federalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/federalism.md)
+
 <p><span class="chinese">她是缅甸各族联邦的坚定支持者。</span><span class="english">She was known as a staunch supporter of federalism in Burma.</span></p>
 
 <p><span class="chinese">他们开口闭口都是联邦制度，满口时髦词汇。</span><span class="english">Their vocabulary bristles fashionably with talk of federalism.</span></p>

@@ -1,5 +1,7 @@
 # hump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hump.md)
+
 <p><span class="chinese">在驼峰段刹车。</span><span class="english">Brakes on a gravity hump.</span></p>
 
 <p><span class="chinese">现在我还在这儿，韩福。</span><span class="english">And yet I am all here, Hump.</span></p>

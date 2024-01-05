@@ -1,5 +1,7 @@
 # 聪明才智
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congmingcaizhi.md)
+
 <p><span class="chinese">他是个极有聪明才智的音乐家。</span><span class="english">He is an incredibly intelligent musician.</span></p>
 
 <p><span class="chinese">总之，它是民族聪明才智的集大成者。</span><span class="english">In short, it is a master of national intelligence.</span></p>

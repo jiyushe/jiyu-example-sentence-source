@@ -1,5 +1,7 @@
 # botswana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/botswana.md)
+
 <p><span class="chinese">Kanana营，博茨瓦纳。</span><span class="english">Kanana Camp, Botswana.</span></p>
 
 <p><span class="chinese">这照片摄取在博茨瓦纳丘比保护区。</span><span class="english">This was shot in Chobe Reserve in Botswana.</span></p>

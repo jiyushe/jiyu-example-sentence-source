@@ -1,5 +1,7 @@
 # prevalence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prevalence.md)
+
 <p><span class="chinese">结果调查人群的两周患病率为18。</span><span class="english">Results The two-week prevalence rate was 18.</span></p>
 
 <p><span class="chinese">结果调查人群的二周患病率为191。</span><span class="english">Results The two- week prevalence rate was 191.</span></p>

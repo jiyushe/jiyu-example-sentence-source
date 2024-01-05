@@ -1,5 +1,7 @@
 # lodger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lodger.md)
+
 <p><span class="chinese">我们在对待房客的问题上意见不一。</span><span class="english">We are at variance about our lodger.</span></p>
 
 <p><span class="chinese">“你好大胆哪！”房客说道。</span><span class="english">"how dare you then, " said the lodger.</span></p>

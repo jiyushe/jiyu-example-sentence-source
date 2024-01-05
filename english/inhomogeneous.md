@@ -1,5 +1,7 @@
 # inhomogeneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhomogeneous.md)
+
 <p><span class="chinese">DTPA增强肿瘤呈不均匀强化。</span><span class="english">Inhomogeneous Gd-DTPA enhancement in most of the tumors.</span></p>
 
 <p><span class="chinese">超示肿块为不均匀的低回声区。</span><span class="english">On B- mode ultrasound, and inhomogeneous hypo-echoic mass was seen.</span></p>

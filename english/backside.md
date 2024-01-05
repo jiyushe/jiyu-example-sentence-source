@@ -1,5 +1,7 @@
 # backside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backside.md)
+
 <p><span class="chinese">现在我们将要开始制作背后的褶。</span><span class="english">Now we're going to pleat the backside.</span></p>
 
 <p><span class="chinese">这个演员屁股上都长羽毛儿。</span><span class="english">The actor has feathers on his backside.</span></p>

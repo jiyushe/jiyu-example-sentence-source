@@ -1,5 +1,7 @@
 # enteric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enteric.md)
+
 <p><span class="chinese">难辨梭状芽孢杆菌是一种革兰阳性肠道病原体。</span><span class="english">Clostridium difficile is a gram-positive enteric pathogen.</span></p>
 
 <p><span class="chinese">小丸还用肠溶衣层包衣。</span><span class="english">The pellets are further provided with an enteric coating layer.</span></p>

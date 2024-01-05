@@ -1,5 +1,7 @@
 # 起名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiming.md)
+
 <p><span class="chinese">你给你的儿子起名了吗？</span><span class="english">Did you name your son?</span></p>
 
 <p><span class="chinese">因此给他起名叫法勒斯。</span><span class="english">And he was named Perez.</span></p>

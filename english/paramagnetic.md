@@ -1,5 +1,7 @@
 # paramagnetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paramagnetic.md)
+
 <p><span class="chinese">液氧具有顺磁性。</span><span class="english">Liquid oxygen is paramagnetic.</span></p>
 
 <p><span class="chinese">在室温时，所有的金属都是顺磁性的。</span><span class="english">At room temperature all the metals are paramagnetic.</span></p>

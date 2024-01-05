@@ -1,5 +1,7 @@
 # yeti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yeti.md)
+
 <p><span class="chinese">你能告诉我雪人住哪儿吗？</span><span class="english">Can you show me where the yeti lives?</span></p>
 
 <p><span class="chinese">关于雪人还有许多其他的故事。</span><span class="english">There are many other stories about the yeti.</span></p>

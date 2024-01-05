@@ -1,5 +1,7 @@
 # sara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sara.md)
+
 <p><span class="chinese">拜托啦，萨拉，看在朋友份上。</span><span class="english">Come on, Sara. Be a pal.</span></p>
 
 <p><span class="chinese">他未能与莎菈取得联络。</span><span class="english">He failed to contact Sara.</span></p>

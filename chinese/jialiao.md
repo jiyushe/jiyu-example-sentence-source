@@ -1,5 +1,7 @@
 # 加料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jialiao.md)
+
 <p><span class="chinese">那就是一种『加料的』堆肥法。</span><span class="english">It is composting with a twist.</span></p>
 
 <p><span class="chinese">在加拿大，普丁是杂烩型，加料版本的肉汁薯条。</span><span class="english">Poutine is a messy, rich version of gravy fries in Canada.</span></p>

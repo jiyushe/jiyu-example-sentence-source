@@ -1,5 +1,7 @@
 # relative 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relative.md)
+
 <p><span class="chinese">真理是相对的。</span><span class="english">Truth is relative.</span></p>
 
 <p><span class="chinese">这些全都有关，小伙子。</span><span class="english">It's all relative chap.</span></p>

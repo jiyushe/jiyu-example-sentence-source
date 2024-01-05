@@ -1,5 +1,7 @@
 # 教研室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyanshi.md)
+
 <p><span class="chinese">这是复旦大学公共卫生学院劳动卫生教研室的网页。</span><span class="english">This is the webpage of the Department of Occupational Health.</span></p>
 
 <p><span class="chinese">玛丽为被任命为教研室主任而感到骄傲。</span><span class="english">Mary was proud of being appointed to be the chief of the teaching section.</span></p>

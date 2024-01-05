@@ -1,5 +1,7 @@
 # 哀告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aigao.md)
+
 <p><span class="chinese">“求你了，先生，”她哀告道。</span><span class="english">"I beg you, sir, " she pleaded.</span></p>
 
 <p><span class="chinese">同时希望您眷注我的哀告。</span><span class="english">I hope you got interested in the request.</span></p>

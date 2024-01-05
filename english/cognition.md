@@ -1,5 +1,7 @@
 # cognition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cognition.md)
+
 <p><span class="chinese">这是认识过程的一次大飞跃。</span><span class="english">It is a big leap in the process of cognition.</span></p>
 
 <p><span class="chinese">我们能根据其认知能力对这个作出预测。</span><span class="english">We may be able to predict that based on cognition.</span></p>

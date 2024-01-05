@@ -1,5 +1,7 @@
 # extempore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extempore.md)
+
 <p><span class="chinese">这个曲子是即席作成的。</span><span class="english">The song was composed extempore.</span></p>
 
 <p><span class="chinese">这首歌是即兴创作的。</span><span class="english">The song was composed extempore.</span></p>

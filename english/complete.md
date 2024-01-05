@@ -1,5 +1,7 @@
 # complete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complete.md)
+
 <p><span class="chinese">你将享受到彻底的财富共享。</span><span class="english">It's complete sharing.</span></p>
 
 <p><span class="chinese">所以我们可以完成这一步。</span><span class="english">So we could complete it.</span></p>

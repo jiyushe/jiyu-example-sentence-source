@@ -1,5 +1,7 @@
 # 侧柏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cebai.md)
+
 <p><span class="chinese">侧柏提取物一般从叶子中制成。</span><span class="english">A Thuja extract is usually made from the foliage.</span></p>
 
 <p><span class="chinese">有近2万亩的油松、侧柏天然林带。</span><span class="english">Nearly 2 million mu of Chinese pine, with natural oriental arborvitae.</span></p>

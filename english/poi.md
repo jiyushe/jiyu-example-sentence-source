@@ -1,5 +1,7 @@
 # poi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poi.md)
+
 <p><span class="chinese">来，尝尝我的芋泥。</span><span class="english">Here, try some of my poi.</span></p>
 
 <p><span class="chinese">那你可以跟我玩一个晚上吗？</span><span class="english">Poi si può giocare con me una sera?</span></p>

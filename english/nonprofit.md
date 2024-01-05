@@ -1,5 +1,7 @@
 # nonprofit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonprofit.md)
+
 <p><span class="chinese">一些将是非盈利性的。</span><span class="english">Some will be nonprofit.</span></p>
 
 <p><span class="chinese">自由与时尚是一个非营利机构，</span><span class="english">Freedom and Fashion is a nonprofit organization</span></p>

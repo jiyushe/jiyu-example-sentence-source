@@ -1,5 +1,7 @@
 # 死灰复燃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihuifuran.md)
+
 <p><span class="chinese">只要你给他留下活路，他总会死灰复燃。</span><span class="english">If you leave a path to it, he'll find it.</span></p>
 
 <p><span class="chinese">所有这一切都导致了宗教信仰的死灰复燃。</span><span class="english">All of this has led to a resurgence of religiosity.</span></p>

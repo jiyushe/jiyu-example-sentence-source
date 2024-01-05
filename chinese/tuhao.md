@@ -1,5 +1,7 @@
 # 土豪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuhao.md)
+
 <p><span class="chinese">我参加的第一次行动是攻打当地的一个土豪。</span><span class="english">The first action I was involved in was an attack on a local exploiter.</span></p>
 
 <p><span class="chinese">作为奖励，我们同样给在米国买正版的土豪们提供了一个补丁。</span><span class="english">As a bonus we also included a patch for people who legally bought the game in the. us.</span></p>

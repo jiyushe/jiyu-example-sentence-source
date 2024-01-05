@@ -1,5 +1,7 @@
 # sadness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sadness.md)
+
 <p><span class="chinese">悲伤和痛苦。</span><span class="english">Sadness and pain.</span></p>
 
 <p><span class="chinese">悲伤也是一种病？</span><span class="english">Is sadness a sickness?</span></p>

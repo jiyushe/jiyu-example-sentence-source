@@ -1,5 +1,7 @@
 # missive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/missive.md)
+
 <p><span class="chinese">信中还要求他停止使用craigslist的内容。</span><span class="english">The missive demanded he stop displaying craigslist content.</span></p>
 
 <p><span class="chinese">我等候只有现在为一包裹从伦敦到完成这公文而且有完成了与这书。</span><span class="english">I wait now only for a package from London to finish this missive and have done with this book.</span></p>

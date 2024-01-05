@@ -1,5 +1,7 @@
 # 水彩画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuicaihua.md)
+
 <p><span class="chinese">他是水彩画家。</span><span class="english">He is a painter in watercolors.</span></p>
 
 <p><span class="chinese">这是一幅水彩画吗？</span><span class="english">Is it a picture of watercolour?</span></p>

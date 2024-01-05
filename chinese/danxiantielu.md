@@ -1,5 +1,7 @@
 # 单线铁路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danxiantielu.md)
+
 <p><span class="chinese">对单线铁路隧道全环整体模筑衬砌台车和施工工艺进行了研究。</span><span class="english">The platform and the construction technology for full-circular monolithic lining are studied.</span></p>
 
 <p><span class="chinese">这个设计要求在每个方向有三条交通车道和一条单线铁路线。</span><span class="english">The design requirements were for three lanes of vehicular traffic and a single rail line in each direction.</span></p>

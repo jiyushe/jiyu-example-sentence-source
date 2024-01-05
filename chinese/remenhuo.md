@@ -1,5 +1,7 @@
 # 热门货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/remenhuo.md)
+
 <p><span class="chinese">她是个热门货。</span><span class="english">She is a hot number.</span></p>
 
 <p><span class="chinese">在这个炙热的市场里，什么是热门货呢？</span><span class="english">And what's hot in this hot market?</span></p>

@@ -1,5 +1,7 @@
 # 泥沙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nisha.md)
+
 <p><span class="chinese">水透过泥沙冒了出来。</span><span class="english">Water bubbled up through the sand.</span></p>
 
 <p><span class="chinese">泥沙把这条河的三角洲淤塞了。</span><span class="english">Sand has silted up the river delta.</span></p>

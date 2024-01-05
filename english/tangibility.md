@@ -1,5 +1,7 @@
 # tangibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangibility.md)
+
 <p><span class="chinese">提供的证据缺乏确实性。</span><span class="english">The presented evidence lacked tangibility.</span></p>
 
 <p><span class="chinese">所有获得一点点的分量和无从捉摸。</span><span class="english">Everything gains a bit of heft and tangibility.</span></p>

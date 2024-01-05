@@ -1,5 +1,7 @@
 # 卸货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiehuo.md)
+
 <p><span class="chinese">该船正在卸货。</span><span class="english">The ship is unloading.</span></p>
 
 <p><span class="chinese">让我们现在开始卸货。</span><span class="english">Let’s begin to unload now.</span></p>

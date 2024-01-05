@@ -1,5 +1,7 @@
 # laryngectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laryngectomy.md)
+
 <p><span class="chinese">也有一些影响，喉切除术带来的。</span><span class="english">There are also impacts that Laryngectomy brings about.</span></p>
 
 <p><span class="chinese">因此，这里有一些事情，了解喉切除术。</span><span class="english">So here are some of the things to know about laryngectomy.</span></p>

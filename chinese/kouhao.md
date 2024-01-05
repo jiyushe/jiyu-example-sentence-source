@@ -1,5 +1,7 @@
 # 口号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouhao.md)
+
 <p><span class="chinese">这是他们的口号。</span><span class="english">That was their slogan.</span></p>
 
 <p><span class="chinese">天合联盟的口号？</span><span class="english">What is SkyTeam slogan ?</span></p>

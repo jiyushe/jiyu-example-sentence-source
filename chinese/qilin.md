@@ -1,5 +1,7 @@
 # 麒麟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qilin.md)
+
 <p><span class="chinese">手里拿着野雏菊和麒麟黄。</span><span class="english">and field daisies in my hands.</span></p>
 
 <p><span class="chinese">坐驹骑着墨麒麟。</span><span class="english">As one sits astride a black unicorn.</span></p>

@@ -1,5 +1,7 @@
 # initializing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/initializing.md)
+
 <p><span class="chinese">有错误，当初始化您的显示卡时。</span><span class="english">There was an error while initializing your video card.</span></p>
 
 <p><span class="chinese">端口正在初始化。等一会儿再拔号。</span><span class="english">Biplex port is initializing. Wait a few seconds and redial.</span></p>

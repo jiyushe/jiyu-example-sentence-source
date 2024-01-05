@@ -1,5 +1,7 @@
 # 楠木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanmu.md)
+
 <p><span class="chinese">楠木雕成的，简直像是石刻一样。</span><span class="english">From Nanmu , it looks like stone.</span></p>
 
 <p><span class="chinese">他们这次要去开采的是楠木。</span><span class="english">Their tasks were to acquire wood from Nanmu tree.</span></p>

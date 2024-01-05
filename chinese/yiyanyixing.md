@@ -1,5 +1,7 @@
 # 一言一行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyanyixing.md)
+
 <p><span class="chinese">通过你的一言一行，我学会了牛活。</span><span class="english">Through your words and deeds, I learned cattle live.</span></p>
 
 <p><span class="chinese">您的一言一行鼓舞了这个世界上的许多人。</span><span class="english">You are inspiration for many people around the world.</span></p>

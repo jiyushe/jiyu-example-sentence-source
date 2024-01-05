@@ -1,5 +1,7 @@
 # generically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generically.md)
+
 <p><span class="chinese">胺碘酮也是药物通用名，是美国惠氏药厂生产的可达龙的一种成分。</span><span class="english">Amiodarone is an ingredient in Wyeth's Cordarone and is also sold generically.</span></p>
 
 <p><span class="chinese">包含所有主要对象，但必须对其进行保护，并以通用的方式对其进行表示。</span><span class="english">Contain all the key objects that must be secured and represent them generically.</span></p>

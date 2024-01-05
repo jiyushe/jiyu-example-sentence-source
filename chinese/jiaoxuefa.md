@@ -1,5 +1,7 @@
 # 教学法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxuefa.md)
+
 <p><span class="chinese">这是一种完美可行的教学法。</span><span class="english">It's an AOK teaching method.</span></p>
 
 <p><span class="chinese">这被称作“混合教学法”。</span><span class="english">This is called the “blended learning concept.</span></p>

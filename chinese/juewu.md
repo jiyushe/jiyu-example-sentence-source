@@ -1,5 +1,7 @@
 # 觉悟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juewu.md)
+
 <p><span class="chinese">关键在乎你的觉悟。</span><span class="english">Awareness is the key to becoming present.</span></p>
 
 <p><span class="chinese">这样可以提升他们对单词的觉悟。</span><span class="english">This will raise their awareness of words.</span></p>

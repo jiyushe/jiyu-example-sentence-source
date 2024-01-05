@@ -1,5 +1,7 @@
 # 责无旁贷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zewupangdai.md)
+
 <p><span class="chinese">就我来说，帮助他是责无旁贷的。</span><span class="english">I'm duty-bound to help him.</span></p>
 
 <p><span class="chinese">履行诺言将是责无旁贷的。</span><span class="english">Fulfilling it will be tough.</span></p>

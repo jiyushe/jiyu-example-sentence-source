@@ -1,5 +1,7 @@
 # fool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fool.md)
+
 <p><span class="chinese">一个高尚的傻子？</span><span class="english">A holy fool?</span></p>
 
 <p><span class="chinese">我是一个蠢材吗？</span><span class="english">I am a fool it?</span></p>

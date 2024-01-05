@@ -1,5 +1,7 @@
 # teammate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teammate.md)
+
 <p><span class="chinese">我是你的好朋友兼队友德安德烈·乔丹啊。</span><span class="english">Your good friend and teammate DeAndre Jordan.</span></p>
 
 <p><span class="chinese">他与前队友奥尼尔的长期不和众所皆知。</span><span class="english">He publicly feuded with former teammate Shaquille O'Neal.</span></p>

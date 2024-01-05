@@ -1,5 +1,7 @@
 # mvp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mvp.md)
+
 <p><span class="chinese">说者无意，听者有心。</span><span class="english">Be a good listener, mvp.</span></p>
 
 <p><span class="chinese">伦纳德是MVP投票的第二，就是因为他的防守。</span><span class="english">Kawhi got second in MVP voting, cause of his defense.</span></p>

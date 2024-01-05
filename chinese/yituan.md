@@ -1,5 +1,7 @@
 # 疑团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yituan.md)
+
 <p><span class="chinese">解开那疑团并活下来。</span><span class="english">Solve the puzzle and survive.</span></p>
 
 <p><span class="chinese">我心里突然起了疑团。</span><span class="english">A sudden doubt came to my mind.</span></p>

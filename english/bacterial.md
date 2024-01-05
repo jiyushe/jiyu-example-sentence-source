@@ -1,5 +1,7 @@
 # bacterial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacterial.md)
+
 <p><span class="chinese">办法之一是限制细菌“搭便车”。</span><span class="english">One way is to restrict bacterial traffic.</span></p>
 
 <p><span class="chinese">谁有患细菌性心内膜炎的危险？</span><span class="english">Who is at risk for bacterial endocarditis?</span></p>

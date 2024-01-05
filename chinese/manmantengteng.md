@@ -1,5 +1,7 @@
 # 慢慢腾腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manmantengteng.md)
+
 <p><span class="chinese">你走得太慢慢腾腾了！</span><span class="english">How slow thou art!</span></p>
 
 <p><span class="chinese">我约会要晚了，你总是那么慢慢腾腾的。</span><span class="english">I'm to be late for my date.</span></p>

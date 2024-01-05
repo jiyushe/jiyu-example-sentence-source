@@ -1,5 +1,7 @@
 # buoy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buoy.md)
+
 <p><span class="chinese">凯斯特灯浮不可靠。</span><span class="english">Caister Light buoy unreliable.</span></p>
 
 <p><span class="chinese">今天并无合适系泊浮泡。</span><span class="english">No suitable buoy is available today.</span></p>

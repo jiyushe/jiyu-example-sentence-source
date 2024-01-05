@@ -1,5 +1,7 @@
 # inchworm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inchworm.md)
+
 <p><span class="chinese">按箝位方式对尺蠖驱动器进行分类。</span><span class="english">Inchworm actuators are classified by the clamping mechanism.</span></p>
 
 <p><span class="chinese">这尺蠖的底面措施宝宝高达24英寸。</span><span class="english">The underside of this inchworm measures your baby up to 24 inches.</span></p>

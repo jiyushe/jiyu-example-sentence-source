@@ -1,5 +1,7 @@
 # 微型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixing_1.md)
+
 <p><span class="chinese">她有一辆微型汽车。</span><span class="english">She has a baby car.</span></p>
 
 <p><span class="chinese">谁需要微型空气净化器呢?。</span><span class="english">Who needs Novus Air Mini?</span></p>

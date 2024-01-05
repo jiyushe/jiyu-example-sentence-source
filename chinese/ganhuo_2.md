@@ -1,5 +1,7 @@
 # 肝火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganhuo_2.md)
+
 <p><span class="chinese">但是周日清晨，我对贺博士大闹肝火，我想离开。</span><span class="english">By Sunday morning, I was so angry with Dr.</span></p>
 
 <p><span class="chinese">肝火动，血压会升高吗？</span><span class="english">Irascibility is moved, is blood pressure elevatory ?</span></p>

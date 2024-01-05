@@ -1,5 +1,7 @@
 # 线团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiantuan.md)
+
 <p><span class="chinese">裁缝正在把线缠成线团。</span><span class="english">The tailor was balling the yarn.</span></p>
 
 <p><span class="chinese">我是个可怜的女孩，在这里漂洗线团。</span><span class="english">I am a poor girl, and I am rinsing yarn.</span></p>

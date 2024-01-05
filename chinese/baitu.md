@@ -1,5 +1,7 @@
 # 白兔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baitu.md)
+
 <p><span class="chinese">“你是受欢迎的，”白兔回答。</span><span class="english">“You’re welcome,” White Rabbit answers.</span></p>
 
 <p><span class="chinese">这时候，美丽的白兔看到了鹰。</span><span class="english">At that time,the beautiful White Rabbit saw Eagle.</span></p>

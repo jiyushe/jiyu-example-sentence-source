@@ -1,5 +1,7 @@
 # 药水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoshui.md)
+
 <p><span class="chinese">爸爸，她把那药水溅得哪都是。</span><span class="english">Father, she spilled it.</span></p>
 
 <p><span class="chinese">一口气喝掉整瓶药水。</span><span class="english">Drink it all in one breath.</span></p>

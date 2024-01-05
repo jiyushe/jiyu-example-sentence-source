@@ -1,5 +1,7 @@
 # 颈项
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxiang_1.md)
+
 <p><span class="chinese">苏智诚颈项长瘤？</span><span class="english">Soh has a tumor on his neck?! ?</span></p>
 
 <p><span class="chinese">你有颈项痛或颈项强直吗？</span><span class="english">Do you have pain or stiffness in your neck?</span></p>

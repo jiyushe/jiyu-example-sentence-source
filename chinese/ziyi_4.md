@@ -1,5 +1,7 @@
 # 自缢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyi_4.md)
+
 <p><span class="chinese">王后上吊自缢了。</span><span class="english">The queen hanged herself.</span></p>
 
 <p><span class="chinese">妻子死后，他因悲伤而自缢。</span><span class="english">He hanged himself in sorrow after his wife died.</span></p>

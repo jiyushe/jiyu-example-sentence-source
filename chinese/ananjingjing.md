@@ -1,5 +1,7 @@
 # 安安静静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ananjingjing.md)
+
 <p><span class="chinese">偶尔一个人吃饭，安安静静地、专心地吃饭。</span><span class="english">Eat some meals alone, in silence.</span></p>
 
 <p><span class="chinese">你干嘛不安安静静地坐着看？</span><span class="english">Why don't you just sit and watch?</span></p>

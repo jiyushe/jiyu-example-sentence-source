@@ -1,5 +1,7 @@
 # hereon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hereon.md)
+
 <p><span class="chinese">从关于此只脚的交通。</span><span class="english">From hereon only foot traffic.</span></p>
 
 <p><span class="chinese">今天是你余生的开始。</span><span class="english">Are you ready to lead, hereon earth?</span></p>

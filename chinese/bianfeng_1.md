@@ -1,5 +1,7 @@
 # 边锋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianfeng_1.md)
+
 <p><span class="chinese">乔西，打边锋。波比，快跑。</span><span class="english">Josie, on the wing! Poppy, go long.</span></p>
 
 <p><span class="chinese">边锋/攻击型中场，19岁，巴塞尔</span><span class="english">Winger or attacking midfielder, 19, Basel</span></p>

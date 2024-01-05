@@ -1,5 +1,7 @@
 # heroically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heroically.md)
+
 <p><span class="chinese">他见义勇为地拯救落水儿童。</span><span class="english">He acted heroically saving the child from drowning.</span></p>
 
 <p><span class="chinese">可是红军得到了唯一的一只摆渡，英勇地渡过了河。</span><span class="english">But the Red Army got the only boat and heroically went over.</span></p>

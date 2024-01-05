@@ -1,5 +1,7 @@
 # 动荡不安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongdangbuan.md)
+
 <p><span class="chinese">2010年会是社会动荡不安的一年吗？</span><span class="english">Will 2010 be a year of social unrest?</span></p>
 
 <p><span class="chinese">即使在那个动荡不安的年代，也从不浪费一刻功夫。</span><span class="english">Even during turbulent times, not a moment was wasted.</span></p>

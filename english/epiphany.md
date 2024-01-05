@@ -1,5 +1,7 @@
 # epiphany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epiphany.md)
+
 <p><span class="chinese">最近，我有一种顿悟。</span><span class="english">I had an epiphany recently.</span></p>
 
 <p><span class="chinese">昨晚我突然灵光一现，这将改变我的人生。</span><span class="english">I had a life-changing epiphany last night.</span></p>

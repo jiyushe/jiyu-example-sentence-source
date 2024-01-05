@@ -1,5 +1,7 @@
 # sunstroke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunstroke.md)
+
 <p><span class="chinese">我中暑了。</span><span class="english">I got sunstroke.</span></p>
 
 <p><span class="chinese">我恐怕是中暑了。</span><span class="english">Iam afraid I've got sunstroke.</span></p>

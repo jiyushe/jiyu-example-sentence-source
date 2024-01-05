@@ -1,5 +1,7 @@
 # townspeople
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/townspeople.md)
+
 <p><span class="chinese">我们和镇上人协商给学生提供宿舍。</span><span class="english">We arrange with the townspeople to billet the students.</span></p>
 
 <p><span class="chinese">而镇上居民毫不掩饰他们的敌意。</span><span class="english">Some townspeople made no effort to hide their hostility.</span></p>

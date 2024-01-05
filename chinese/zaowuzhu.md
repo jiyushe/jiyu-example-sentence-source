@@ -1,5 +1,7 @@
 # 造物主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaowuzhu.md)
+
 <p><span class="chinese">造物主上帝是真正的上帝。</span><span class="english">The creator God really is God.</span></p>
 
 <p><span class="chinese">真主是我们的造物主及支持者。</span><span class="english">God is our Creator and Sustainer.</span></p>

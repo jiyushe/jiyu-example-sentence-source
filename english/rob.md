@@ -1,5 +1,7 @@
 # rob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rob.md)
+
 <p><span class="chinese">剥夺了我的世界。</span><span class="english">Rob me of my world.</span></p>
 
 <p><span class="chinese">必先摆捆住那壮士，才可以抢夺他的家。</span><span class="english">Then he can rob his house.</span></p>

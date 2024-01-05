@@ -1,5 +1,7 @@
 # antiterrorism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiterrorism.md)
+
 <p><span class="chinese">中国称这是反恐。</span><span class="english">China calls this antiterrorism.</span></p>
 
 <p><span class="chinese">他和美国反恐专家密切合作，对印尼警方进行训练。</span><span class="english">He has worked closely with U.S. antiterrorism specialists to train police.</span></p>

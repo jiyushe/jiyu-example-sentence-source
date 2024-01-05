@@ -1,5 +1,7 @@
 # cafeteria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cafeteria.md)
+
 <p><span class="chinese">学校食堂里挤满了人。</span><span class="english">The cafeteria was packed.</span></p>
 
 <p><span class="chinese">好啊，我吃腻了自助食堂。</span><span class="english">Sure. I'm bored of the Cafeteria.</span></p>

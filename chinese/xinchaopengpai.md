@@ -1,5 +1,7 @@
 # 心潮澎湃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinchaopengpai.md)
+
 <p><span class="chinese">多年以来，瑞典一直令左翼分子心潮澎湃。</span><span class="english">For years Sweden has made lefties swoon.</span></p>
 
 <p><span class="chinese">此时此刻，凌晓明的内心更是心潮澎湃。</span><span class="english">At this moment, Ms Ling Xiaoming contemplated a lot.</span></p>

@@ -1,5 +1,7 @@
 # 吸纳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xina.md)
+
 <p><span class="chinese">他们吸纳了海吉拉斯五分之四的收入。</span><span class="english">They pocket four-fifths of hijras' earnings.</span></p>
 
 <p><span class="chinese">欧安组织扩展赫尔辛基进程，吸纳非欧洲伙伴</span><span class="english">OSCE EXPANDS HELSINKI WITH NON-EUROPEAN PARTNERS</span></p>

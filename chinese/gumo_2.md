@@ -1,5 +1,7 @@
 # 鼓膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gumo_2.md)
+
 <p><span class="chinese">每只眼睛后面都有个鼓膜。</span><span class="english">Behind each eye there is an ear drum.</span></p>
 
 <p><span class="chinese">我应该鼓膜和眼球破裂。</span><span class="english">My eardrums and eyeballs should burst.</span></p>

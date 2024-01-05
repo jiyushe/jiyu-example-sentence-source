@@ -1,5 +1,7 @@
 # 亚热带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaredai.md)
+
 <p><span class="chinese">它是亚热带温润季风气候。</span><span class="english">It's Subropical moist monsoon climate.</span></p>
 
 <p><span class="chinese">广州属于亚热带气候。</span><span class="english">Guangzhou enjoys a semitropical climate.</span></p>

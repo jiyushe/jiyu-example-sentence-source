@@ -1,5 +1,7 @@
 # 昏昏沉沉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunhunchenchen.md)
+
 <p><span class="chinese">他昏昏沉沉地睡了一会儿。</span><span class="english">He doped off for a little while.</span></p>
 
 <p><span class="chinese">那晚他服用麻醉剂后被搞得昏昏沉沉。</span><span class="english">He was pretty goofed up that night.</span></p>

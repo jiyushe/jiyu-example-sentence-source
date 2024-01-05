@@ -1,5 +1,7 @@
 # cowherd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cowherd.md)
+
 <p><span class="chinese">于是，他被称为牛仔。</span><span class="english">So he was called a cowherd.</span></p>
 
 <p><span class="chinese">成为你的牧牛者和奴仆吧。</span><span class="english">Become Thy cowherd and Thy slave.</span></p>

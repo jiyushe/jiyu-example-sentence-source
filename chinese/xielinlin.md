@@ -1,5 +1,7 @@
 # 血淋淋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xielinlin.md)
+
 <p><span class="chinese">这是一条很健壮鲜血淋淋的鱼。</span><span class="english">It is a strong full-blooded fish.</span></p>
 
 <p><span class="chinese">叹息着他撕下自己古老的鲜血淋淋的翅膀。</span><span class="english">Tore his old wings off with a sigh.</span></p>

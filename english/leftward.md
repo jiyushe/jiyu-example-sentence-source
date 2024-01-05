@@ -1,5 +1,7 @@
 # leftward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leftward.md)
+
 <p><span class="chinese">尽管为时还早，但那些看出左倾苗头的人也不无理由。</span><span class="english">It is early days, but those who see a leftward tilt have a case.</span></p>
 
 <p><span class="chinese">在普通情况下，手链应仅戴一条，并应戴在左手上。</span><span class="english">Below general case, hand catenary should wear only, should wear leftward to go up.</span></p>

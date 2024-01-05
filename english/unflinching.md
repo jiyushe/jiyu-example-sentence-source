@@ -1,5 +1,7 @@
 # unflinching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unflinching.md)
+
 <p><span class="chinese">在政治方面，索恩先生是一个坚定的保守党人。</span><span class="english">In politics Mr. Thorne was an unflinching conservative.</span></p>
 
 <p><span class="chinese">毫不畏缩地进行重新评估成本会很高。</span><span class="english">The cost of this unflinching reappraisal will be large.</span></p>

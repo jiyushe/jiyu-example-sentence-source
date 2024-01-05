@@ -1,5 +1,7 @@
 # undertook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undertook.md)
+
 <p><span class="chinese">该律师经手承办这宗案件。</span><span class="english">The lawyer undertook the case.</span></p>
 
 <p><span class="chinese">他分12次付还了债主的钱。</span><span class="english">Next he undertook to pay off the debts.</span></p>

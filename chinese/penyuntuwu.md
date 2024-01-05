@@ -1,5 +1,7 @@
 # 喷云吐雾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penyuntuwu.md)
+
 <p><span class="chinese">来看看企鹅机喷云吐雾的样子喔！</span><span class="english">Let's have a look at the penguin in full fog!</span></p>
 
 <p><span class="chinese">他抬头向上一望，看到矮子正在吊床里喷云吐雾。</span><span class="english">He looked upwards, and saw that the dwarf was smoking in his hammock.</span></p>

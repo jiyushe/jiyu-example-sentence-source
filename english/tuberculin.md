@@ -1,5 +1,7 @@
 # tuberculin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuberculin.md)
+
 <p><span class="chinese">病人的结核菌素皮肤试验结果不详。</span><span class="english">Her status with respect to tuberculin skin testing was unknown.</span></p>
 
 <p><span class="chinese">要进行血常规、血液化学化验和结核菌素皮肤试验。</span><span class="english">A complete blood count blood chemistries and tuberculin skin test should be done.</span></p>

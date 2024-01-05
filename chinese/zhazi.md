@@ -1,5 +1,7 @@
 # 渣滓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhazi.md)
+
 <p><span class="chinese">涤尽渣滓罪﹐斩绝恶萌芽。</span><span class="english">Wash off the dregs of crime.</span></p>
 
 <p><span class="chinese">我们是社会的渣滓。</span><span class="english">We're the pariahs of society.</span></p>

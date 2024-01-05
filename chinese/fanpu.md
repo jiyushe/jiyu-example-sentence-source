@@ -1,5 +1,7 @@
 # 反扑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanpu.md)
+
 <p><span class="chinese">我知道周日湖人将疯狂反扑。</span><span class="english">I know the Lakers will come out hopping on Sunday.</span></p>
 
 <p><span class="chinese">中村怒杀苏金荣，疯狂反扑。</span><span class="english">Village anger kills Su Jinrong in, kickback wildly.</span></p>

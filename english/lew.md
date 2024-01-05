@@ -1,5 +1,7 @@
 # lew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lew.md)
+
 <p><span class="chinese">雅各布·卢是在美国广播公司“本周”节目中说这番话的。</span><span class="english">Lew spoke on ABC's This Week television program.</span></p>
 
 <p><span class="chinese">雅各布·卢是奥巴马总统的白宫预算办公室主任。</span><span class="english">Jacob Lew is President Barack Obama's top budget official.</span></p>

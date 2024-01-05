@@ -1,5 +1,7 @@
 # about 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/about.md)
+
 <p><span class="chinese">大概是150人。</span><span class="english">It's about 150.</span></p>
 
 <p><span class="chinese">音乐节目怎么样？</span><span class="english">How about music?</span></p>

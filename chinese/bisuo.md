@@ -1,5 +1,7 @@
 # 比索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bisuo.md)
+
 <p><span class="chinese">资本战争给予比索施加了很大压力。</span><span class="english">Capital flight is putting pressure on the peso.</span></p>
 
 <p><span class="chinese">科郎于1896年开始采用，代替哥斯达黎加比索。</span><span class="english">The colón was introduced in 1896, replacing the Costa Rican peso.</span></p>

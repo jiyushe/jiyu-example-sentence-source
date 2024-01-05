@@ -1,5 +1,7 @@
 # 饥饿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jie.md)
+
 <p><span class="chinese">你经常有饥饿感吗？</span><span class="english">Always hungry?</span></p>
 
 <p><span class="chinese">饥饿是听不见的。</span><span class="english">Hunger can be silent.</span></p>

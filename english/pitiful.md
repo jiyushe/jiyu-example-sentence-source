@@ -1,5 +1,7 @@
 # pitiful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitiful.md)
+
 <p><span class="chinese">那个家伙真可怜。</span><span class="english">That guy is pitiful.</span></p>
 
 <p><span class="chinese">这匹马一副可怜相。</span><span class="english">The horse was a pitiful sight.</span></p>

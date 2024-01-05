@@ -1,5 +1,7 @@
 # akimbo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/akimbo.md)
+
 <p><span class="chinese">他两手叉腰，站在铺子前。</span><span class="english">Children standing with arms akimbo.</span></p>
 
 <p><span class="chinese">他两手叉腰站立着。</span><span class="english">Children standing akimbo by the fence.</span></p>

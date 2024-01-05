@@ -1,5 +1,7 @@
 # 催熟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuishu.md)
+
 <p><span class="chinese">如果你尝试着来催熟果实，它就失去了原来的味道。</span><span class="english">When you try to ripen fruit quickly, it loses its flavor.</span></p>
 
 <p><span class="chinese">植物会产生乙烯，这是一种促进植物老化的催熟气体。</span><span class="english">Plants all produce ethylene, a ripening gas that promotes maturation.</span></p>

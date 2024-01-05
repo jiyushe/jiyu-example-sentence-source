@@ -1,5 +1,7 @@
 # accelerator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accelerator.md)
+
 <p><span class="chinese">于是他踩下油门。</span><span class="english">Hence he trampled accelerator.</span></p>
 
 <p><span class="chinese">他用脚在加速器上打拍子。</span><span class="english">He beat time on the accelerator.</span></p>

@@ -1,5 +1,7 @@
 # amends
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amends.md)
+
 <p><span class="chinese">作了全部赔偿。</span><span class="english">Full amends was made.</span></p>
 
 <p><span class="chinese">他逐日改过自新。</span><span class="english">He amends day by day.</span></p>

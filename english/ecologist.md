@@ -1,5 +1,7 @@
 # ecologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecologist.md)
+
 <p><span class="chinese">但当我把这告诉一位我认识的生态学家时，她吓了一跳。</span><span class="english">But when I told an ecologist I know, she was horrified.</span></p>
 
 <p><span class="chinese">生态学家萨沙克莱默帮助海地贫穷作斗争。</span><span class="english">Ecologist Sasha Kramer is helping to fight poverty in Haiti.</span></p>

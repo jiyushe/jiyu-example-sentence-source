@@ -1,5 +1,7 @@
 # acd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acd.md)
+
 <p><span class="chinese">第6届亚洲合作对话部长级会议将于明年在韩国举行。</span><span class="english">The 6th ACD Ministerial Meeting will be held in South Korea next year.</span></p>
 
 <p><span class="chinese">与会部长们还同意由印度尼西亚和菲律宾协调一项亚洲合作对话会议能源行动计划。</span><span class="english">The ministers also agreed that Indonesia and the Philippines would coordinate an ACD energy action plan.</span></p>

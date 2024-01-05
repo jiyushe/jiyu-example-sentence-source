@@ -1,5 +1,7 @@
 # 沙金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shajin.md)
+
 <p><span class="chinese">人们还坚信沙金石能增强领导者气质，配戴沙金后行为会更果断，直觉能力会更强。</span><span class="english">It is also believed to enhance leadership qualities allowing the wearer to act decisively , with strong intuitive power.</span></p>
 
 <p><span class="chinese">她成了美国画家约翰辛格沙金和詹姆斯迈克尔维斯特还有作家詹姆斯亨利的朋友。</span><span class="english">She became good friends with the American painters John Singer Sargent and James McNeill Whistler and the writer Henry James.</span></p>

@@ -1,5 +1,7 @@
 # 冷不丁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengbuding.md)
+
 <p><span class="chinese">而且障碍似乎总是冷不丁地冒出来，是吧？</span><span class="english">And something always seems to pop up, right?</span></p>
 
 <p><span class="chinese">从来不要冷不丁地去看你上大学的孩子。</span><span class="english">Don't ever pay a surprise visit to a child in college.</span></p>

@@ -1,5 +1,7 @@
 # 看场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanchang.md)
+
 <p><span class="chinese">可能就是看场电影。</span><span class="english">A movie maybe.</span></p>
 
 <p><span class="chinese">去看场表演好何？</span><span class="english">How about going to a show?</span></p>

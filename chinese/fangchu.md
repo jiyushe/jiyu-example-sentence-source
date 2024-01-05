@@ -1,5 +1,7 @@
 # 放出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangchu.md)
+
 <p><span class="chinese">太阳放出光。</span><span class="english">The sun emits light.</span></p>
 
 <p><span class="chinese">试玩版会在五月中旬放出。</span><span class="english">The Demo will come mid May.</span></p>

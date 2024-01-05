@@ -1,5 +1,7 @@
 # disappointment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disappointment.md)
+
 <p><span class="chinese">如何才能避免失望呢？</span><span class="english">How do you avoid disappointment?</span></p>
 
 <p><span class="chinese">这是他们失望的第一点。</span><span class="english">That's disappointment number one.</span></p>

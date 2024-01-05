@@ -1,5 +1,7 @@
 # shed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shed.md)
+
 <p><span class="chinese">生来就不会流一滴泪的顽愚。</span><span class="english">Not to shed a tear.</span></p>
 
 <p><span class="chinese">她轻轻拭去他的眼泪。</span><span class="english">Shed away his tears.</span></p>

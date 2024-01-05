@@ -1,5 +1,7 @@
 # unreachable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreachable.md)
+
 <p><span class="chinese">他们两个都是非卖品。</span><span class="english">Both of them are unreachable.</span></p>
 
 <p><span class="chinese">无法连线到目的连接埠。</span><span class="english">The destination port is unreachable.</span></p>

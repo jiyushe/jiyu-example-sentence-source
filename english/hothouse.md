@@ -1,5 +1,7 @@
 # hothouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hothouse.md)
+
 <p><span class="chinese">植物园中的温室。</span><span class="english">Hothouse in Botanic gardens.</span></p>
 
 <p><span class="chinese">我想为我的玫瑰花建一个迷你温室。</span><span class="english">I want to make a mini hothouse for my roses.</span></p>

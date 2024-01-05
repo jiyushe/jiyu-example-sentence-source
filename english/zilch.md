@@ -1,5 +1,7 @@
 # zilch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zilch.md)
+
 <p><span class="chinese">生意毫无收益。</span><span class="english">Business was zilch.</span></p>
 
 <p><span class="chinese">在你眼中我只是个普通人。</span><span class="english">I am just a zilch in your eyes.</span></p>

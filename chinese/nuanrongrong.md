@@ -1,5 +1,7 @@
 # 暖融融
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuanrongrong.md)
+
 <p><span class="chinese">朝阳暖融融地照在我们脸上。</span><span class="english">Our faces warm in the early sun.</span></p>
 
 <p><span class="chinese">太阳把大地照得暖融融的。</span><span class="english">The sun warmed up the earth nicely.</span></p>

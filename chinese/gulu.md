@@ -1,5 +1,7 @@
 # 咕噜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gulu.md)
+
 <p><span class="chinese">那只猫大声地发出咕噜咕噜声。</span><span class="english">The cat purred loudly.</span></p>
 
 <p><span class="chinese">她快乐地咕噜咕噜叫。</span><span class="english">She purred a happy purr.</span></p>

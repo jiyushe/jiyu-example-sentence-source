@@ -1,5 +1,7 @@
 # 病征
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingzheng.md)
+
 <p><span class="chinese">判断下一下病征系咩病?。</span><span class="english">Is the diagnostic below judgement baa disease?</span></p>
 
 <p><span class="chinese">“桐梓人”化石具有氟斑牙的病征吗?。</span><span class="english">Have "Tongzi" Fossils Symptom of Dental Fluorosis?</span></p>

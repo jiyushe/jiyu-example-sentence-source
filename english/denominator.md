@@ -1,5 +1,7 @@
 # denominator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denominator.md)
+
 <p><span class="chinese">减去最低的公分母。</span><span class="english">Reduced to the lowest common denominator.</span></p>
 
 <p><span class="chinese">您需要输入结果的分子和分母。</span><span class="english">You have to enter numerator and denominator.</span></p>

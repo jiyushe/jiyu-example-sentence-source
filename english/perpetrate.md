@@ -1,5 +1,7 @@
 # perpetrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perpetrate.md)
+
 <p><span class="chinese">只有疯子才犯这种令人发指的罪行。</span><span class="english">Only an insane person could perpetrate such a horrible crime.</span></p>
 
 <p><span class="chinese">它致力于动员公众舆论对实施滥用人权的个体施加压力。</span><span class="english">It works to mobilize public opinion which exerts pressure on individuals who perpetrate abuses.</span></p>

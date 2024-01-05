@@ -1,5 +1,7 @@
 # heartworm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartworm.md)
+
 <p><span class="chinese">心蠕虫感染可能导致宿主的严重疾病。</span><span class="english">Heartworm infection may result in serious disease for the host.</span></p>
 
 <p><span class="chinese">目的建立犬恶丝虫病的ELISA诊断方法。</span><span class="english">Objective To establish diagnostic method of ELISA on heartworm disease.</span></p>

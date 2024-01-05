@@ -1,5 +1,7 @@
 # 会商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huishang.md)
+
 <p><span class="chinese">这议案是在甚么时辰被提出会商的？</span><span class="english">When was the bill called up?</span></p>
 
 <p><span class="chinese">年夜略我们还可以会商一下。</span><span class="english">Maybe we can compromise on this.</span></p>

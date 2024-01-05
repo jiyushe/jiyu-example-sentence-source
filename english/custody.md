@@ -1,5 +1,7 @@
 # custody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/custody.md)
+
 <p><span class="chinese">直到现在，他仍在关押中。</span><span class="english">For now, he remains in custody.</span></p>
 
 <p><span class="chinese">哈林顿应该独享监护权吗？</span><span class="english">Should Harrington share custody?</span></p>

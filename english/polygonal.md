@@ -1,5 +1,7 @@
 # polygonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polygonal.md)
+
 <p><span class="chinese">瘤细胞较小圆形、多角形。</span><span class="english">Cells were small, round and polygonal.</span></p>
 
 <p><span class="chinese">填充屏幕上的多边形区域。</span><span class="english">Fills the polygonal area on the screen.</span></p>

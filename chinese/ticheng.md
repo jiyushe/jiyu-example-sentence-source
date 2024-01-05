@@ -1,5 +1,7 @@
 # 提成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ticheng.md)
+
 <p><span class="chinese">每售出一辆车，他便得到一份提成。</span><span class="english">He can _get a percentage__ for every car sold.</span></p>
 
 <p><span class="chinese">医院奖金提取可以按顺序提成法或逆序提成法。</span><span class="english">The deducting method of the hospital bonus is A to Z or Z to A.</span></p>

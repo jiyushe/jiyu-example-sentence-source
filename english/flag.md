@@ -1,5 +1,7 @@
 # flag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flag.md)
+
 <p><span class="chinese">挂着国旗的院门。</span><span class="english">Door with flag.</span></p>
 
 <p><span class="chinese">那面红旗倒了。</span><span class="english">The red flag fell.</span></p>

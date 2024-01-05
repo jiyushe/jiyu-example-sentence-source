@@ -1,5 +1,7 @@
 # 时时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_12.md)
+
 <p><span class="chinese">你是否时时心存爱意？</span><span class="english">Are you doing it in love?</span></p>
 
 <p><span class="chinese">和智者生活，时时勤于思索。</span><span class="english">With the wise Man Living'sThinking.</span></p>

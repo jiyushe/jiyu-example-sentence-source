@@ -1,5 +1,7 @@
 # neglected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neglected.md)
+
 <p><span class="chinese">两者不可偏废。</span><span class="english">Neither can be neglected.</span></p>
 
 <p><span class="chinese">步行是种易被忽略的愉悦。</span><span class="english">Walking is a neglected pleasure.</span></p>

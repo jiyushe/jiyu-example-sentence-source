@@ -1,5 +1,7 @@
 # sexuality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sexuality.md)
+
 <p><span class="chinese">性爱是大众的抒情诗。</span><span class="english">Sexuality is the lyricism of the masses.</span></p>
 
 <p><span class="chinese">“人类的性征是非常的复杂的，”他说。</span><span class="english">"Human sexuality is complicated," he says.</span></p>

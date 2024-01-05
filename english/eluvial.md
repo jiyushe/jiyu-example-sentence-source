@@ -1,5 +1,7 @@
 # eluvial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eluvial.md)
+
 <p><span class="chinese">矿床成因属第四纪残积型。</span><span class="english">The origin of the deposit belongs to Quarternary eluvial placer type.</span></p>
 
 <p><span class="chinese">风化壳淋积型稀土矿床，在湘南地区普遍发育。</span><span class="english">The weathering crust- eluvial type REE deposits develop widely in southern Hunan.</span></p>

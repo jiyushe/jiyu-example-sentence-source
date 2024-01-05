@@ -1,5 +1,7 @@
 # 原子笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzibi.md)
+
 <p><span class="chinese">我要买一只原子笔。</span><span class="english">I want a ballpoint pen.</span></p>
 
 <p><span class="chinese">请用蓝色原子笔填写。</span><span class="english">Use a blue ball-point pen.</span></p>

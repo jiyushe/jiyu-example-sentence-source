@@ -1,5 +1,7 @@
 # 病入膏肓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingrugaohuang.md)
+
 <p><span class="chinese">然而，我是一个病入膏肓的完美主义者，总是期望过高。</span><span class="english">But I am an incorrigible idealist, and my expectations are often high.</span></p>
 
 <p><span class="chinese">一种时疫正在教会蔓延，不久整个教会就会病入膏肓。</span><span class="english">An epidemic was spreading, and soon the whole church would be deathly ill.</span></p>

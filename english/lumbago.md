@@ -1,5 +1,7 @@
 # lumbago
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lumbago.md)
+
 <p><span class="chinese">我腰痛正在治疗中。</span><span class="english">I'm having treatment for my lumbago.</span></p>
 
 <p><span class="chinese">治疗腰痛的注意事项。</span><span class="english">Cautions in the treatment of Lumbago.</span></p>

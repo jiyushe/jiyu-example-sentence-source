@@ -1,5 +1,7 @@
 # telling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telling.md)
+
 <p><span class="chinese">我会介意说出我的年龄吗？</span><span class="english">Do I mind telling my age?</span></p>
 
 <p><span class="chinese">他后悔说了谎。</span><span class="english">He repented telling a lie.</span></p>

@@ -1,5 +1,7 @@
 # prolifically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prolifically.md)
+
 <p><span class="chinese">1923年，沟口健二执导了他的处女作，在之后的整个。</span><span class="english">He had directed his first film in 1923 and had worked prolifically throughout the silent era.</span></p>
 
 <p><span class="chinese">当天气暖和、食物充足、湿度适宜时，苍蝇会大量繁殖。</span><span class="english">Files breed prolifically when temperatures are warm, food is abundant , and humidity is moderate.</span></p>

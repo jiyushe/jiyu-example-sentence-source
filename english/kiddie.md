@@ -1,5 +1,7 @@
 # kiddie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kiddie.md)
+
 <p><span class="chinese">她不断地小声咯咯笑，发现了“鳞茎宝宝”“鳞茎幼儿”还有“鳞茎爸爸妈妈”，后者紧紧相拥。</span><span class="english">She discovered "baby bulbs", "kiddie bulbs", and "mummy and daddy bulbs", the latter snuggling cozily together.</span></p>
 
 <p><span class="chinese">她还发现了“球茎宝宝”、“球茎娃娃”和紧紧依偎在一起的“球茎爸爸和球茎妈妈”。</span><span class="english">She discovered "baby bulbs" and "kiddie bulbs" and "mummy and daddy bulbs"—the latter snuggling cozily together.</span></p>

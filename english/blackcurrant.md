@@ -1,5 +1,7 @@
 # blackcurrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackcurrant.md)
+
 <p><span class="chinese">有黑醋粟和黑莓的香味。</span><span class="english">The smell has Blackcurrant and black cherries.</span></p>
 
 <p><span class="chinese">持久的黑醋栗和新橡木口感余韵悠长。</span><span class="english">Lasting blackcurrant and new oak flavors palate.</span></p>

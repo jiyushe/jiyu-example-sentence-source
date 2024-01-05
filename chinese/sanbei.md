@@ -1,5 +1,7 @@
 # 三北
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanbei.md)
+
 <p><span class="chinese">三北防护林带是一项造林事业。</span><span class="english">The Three North Shelterbelt is a forestation undertaking.</span></p>
 
 <p><span class="chinese">东北要振兴，“三北”防护林工程怎么办?。</span><span class="english">What to do in vitalization of Northeast, Three North Project!</span></p>

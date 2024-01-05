@@ -1,5 +1,7 @@
 # 统计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongji_3.md)
+
 <p><span class="chinese">我的工作是统计账目。</span><span class="english">I do accounting.</span></p>
 
 <p><span class="chinese">新的战后统计界面。</span><span class="english">New post-battle statistics.</span></p>

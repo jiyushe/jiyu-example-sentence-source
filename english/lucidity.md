@@ -1,5 +1,7 @@
 # lucidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucidity.md)
+
 <p><span class="chinese">我需要明晰锐利的头脑。</span><span class="english">I need my lucidity.</span></p>
 
 <p><span class="chinese">她用清醒意识对付恶梦。</span><span class="english">She used lucidity to cure her nightmares.</span></p>

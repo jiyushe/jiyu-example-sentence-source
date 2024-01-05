@@ -1,5 +1,7 @@
 # adventist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adventist.md)
+
 <p><span class="chinese">生活就像一个安息日。</span><span class="english">Live like a Seventh Day Adventist.</span></p>
 
 <p><span class="chinese">我是西安基督复临复临安息日会的一员。</span><span class="english">I am a member of Xi'an Sabbath Day Adventist church.</span></p>

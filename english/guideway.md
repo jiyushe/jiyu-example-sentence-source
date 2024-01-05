@@ -1,5 +1,7 @@
 # guideway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guideway.md)
+
 <p><span class="chinese">阶梯式铸铁导轨是重型机床常采用的导轨形式。</span><span class="english">The stepped cast-iron guideway is often adopted in heavy machine tool.</span></p>
 
 <p><span class="chinese">静压导轴是一种圆柱形液体静压导轨。</span><span class="english">Hydrostatic guide spindle is a kind of cylindrical hydrostatic guideway.</span></p>

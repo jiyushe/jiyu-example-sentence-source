@@ -1,5 +1,7 @@
 # irrigation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrigation.md)
+
 <p><span class="chinese">灌溉天边朝露。</span><span class="english">Dew irrigation horizon.</span></p>
 
 <p><span class="chinese">他们在挖灌溉渠。</span><span class="english">They are digging irrigation ditches.</span></p>

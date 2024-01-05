@@ -1,5 +1,7 @@
 # autorotation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autorotation.md)
+
 <p><span class="chinese">离合器和超速期间提供自转。</span><span class="english">Clutch and overspeed provision during autorotation.</span></p>
 
 <p><span class="chinese">重复执行上述的步骤，但由操控者的左侧开始执行熄火降落。</span><span class="english">Repeat the above but start the autorotation from the pilot left.</span></p>

@@ -1,5 +1,7 @@
 # 守业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouye_1.md)
+
 <p><span class="chinese">为什么在经济安机外守业？</span><span class="english">Why to Start a Startup in a Bad Economy?</span></p>
 
 <p><span class="chinese">和可信的人一同守业！</span><span class="english">Stscienceing a job with the reliowed person!</span></p>

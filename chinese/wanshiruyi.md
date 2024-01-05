@@ -1,5 +1,7 @@
 # 万事如意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanshiruyi.md)
+
 <p><span class="chinese">我祝福她万事如意。</span><span class="english">I bless her everythings all fine!</span></p>
 
 <p><span class="chinese">老台门客栈的全体员工祝您身体健康，万事如意！</span><span class="english">I wish you good health and good luck!</span></p>

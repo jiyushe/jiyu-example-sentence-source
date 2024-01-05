@@ -1,5 +1,7 @@
 # 入口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rukou.md)
+
 <p><span class="chinese">工地入口，请慢行。</span><span class="english">Slow down.Site entrance.</span></p>
 
 <p><span class="chinese">你有互联网入口吗？</span><span class="english">Do you have Internet-access?</span></p>

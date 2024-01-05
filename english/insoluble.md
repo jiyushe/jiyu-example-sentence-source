@@ -1,5 +1,7 @@
 # insoluble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insoluble.md)
+
 <p><span class="chinese">这几乎是一个不可解决的问题。</span><span class="english">It is an almost insoluble problem.</span></p>
 
 <p><span class="chinese">所有拟除虫菊酯不溶于水。</span><span class="english">All Of pyrethroids are insoluble in water.</span></p>

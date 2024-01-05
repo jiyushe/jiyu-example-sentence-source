@@ -1,5 +1,7 @@
 # urination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urination.md)
+
 <p><span class="chinese">频尿是妇女常见的症状。</span><span class="english">Frequent urination is a common symptom in women.</span></p>
 
 <p><span class="chinese">他们还可以促进排尿，减少水肿。</span><span class="english">They can also promote urination and reduce edema.</span></p>

@@ -1,5 +1,7 @@
 # 朝思暮想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaosimuxiang.md)
+
 <p><span class="chinese">啊，他正是我朝思暮想的白马王子！</span><span class="english">Oh, he is just my dreamboat!</span></p>
 
 <p><span class="chinese">我还没有离开，就已经对你朝思暮想。</span><span class="english">You have been the one for me.</span></p>

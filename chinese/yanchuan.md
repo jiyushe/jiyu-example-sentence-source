@@ -1,5 +1,7 @@
 # 言传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanchuan.md)
+
 <p><span class="chinese">朋友，功夫只可意会不能言传，它就像是水！</span><span class="english">But do not name it, my friend, for it is like water.</span></p>
 
 <p><span class="chinese">功夫只能意会不能言传，它就像是水！</span><span class="english">Effort can the idea will can't talk to spread and it seems water!</span></p>

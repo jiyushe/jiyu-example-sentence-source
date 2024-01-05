@@ -1,5 +1,7 @@
 # perineal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perineal.md)
+
 <p><span class="chinese">然后，让我检查会阴垫上恶露的数量。</span><span class="english">Then let me check the perineal pads for the amount of lochia.</span></p>
 
 <p><span class="chinese">局部切除术后一个月内伤口疣体复发。</span><span class="english">Warty recurrences occurred in the perineal wound within a month of surgery.</span></p>

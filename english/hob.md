@@ -1,5 +1,7 @@
 # hob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hob.md)
+
 <p><span class="chinese">液压滚心轴夹紧。</span><span class="english">Hydraulic hob mandrel clamping.</span></p>
 
 <p><span class="chinese">棘轮滚刀是常用的定装滚刀。</span><span class="english">Ratchet hob is commonly used it is, hob.</span></p>

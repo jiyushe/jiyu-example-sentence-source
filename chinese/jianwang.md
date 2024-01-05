@@ -1,5 +1,7 @@
 # 健忘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianwang.md)
+
 <p><span class="chinese">他永久不会健忘那张脸。</span><span class="english">He never forgets a face.</span></p>
 
 <p><span class="chinese">我将永遥不会健忘你。</span><span class="english">I will never forget you.</span></p>

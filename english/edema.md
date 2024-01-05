@@ -1,5 +1,7 @@
 # edema
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edema.md)
+
 <p><span class="chinese">且试验组肺组织水肿明显轻微。</span><span class="english">Morever, histologic tissue edema was mild.</span></p>
 
 <p><span class="chinese">受浮肿影响的组织常在按后起凹陷。</span><span class="english">The tissue affected by edema will usually pit.</span></p>

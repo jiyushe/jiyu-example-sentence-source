@@ -1,5 +1,7 @@
 # degradability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degradability.md)
+
 <p><span class="chinese">结果说明壳聚糖纤维具有良好的生物降解性能。</span><span class="english">Experiments show that chitosan fiber has good degradability.</span></p>
 
 <p><span class="chinese">另外，通过土埋试验也证明了降解薄膜具有较好的生物降解性能。</span><span class="english">In addition, degradation test in soil also proves that the degradable film has good biological degradability.</span></p>

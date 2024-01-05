@@ -1,5 +1,7 @@
 # unwillingness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwillingness.md)
+
 <p><span class="chinese">她对这不受欢迎的建议感到反感。</span><span class="english">To feel or express strong unwillingness or repugnance.</span></p>
 
 <p><span class="chinese">这些懒汉必须从不愿工作的惰性中解脱出来。</span><span class="english">The lazybones must be aroused from their unwillingness to work.</span></p>

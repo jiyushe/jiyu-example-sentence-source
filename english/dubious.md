@@ -1,5 +1,7 @@
 # dubious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dubious.md)
+
 <p><span class="chinese">沃尔登脸上现出一副犹豫不决的神色。</span><span class="english">Walden put on a dubious face.</span></p>
 
 <p><span class="chinese">而一些人类专家却对此半信半疑。</span><span class="english">Some human experts are dubious.</span></p>

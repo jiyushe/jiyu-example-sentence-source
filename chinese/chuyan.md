@@ -1,5 +1,7 @@
 # 出演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuyan.md)
+
 <p><span class="chinese">在剧中，他出演一位船工。</span><span class="english">He played a riverboat worker.</span></p>
 
 <p><span class="chinese">如今，歌舞伎也全是由男性出演。</span><span class="english">Today, Kabuki, too, is all-male.</span></p>

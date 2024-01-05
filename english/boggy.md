@@ -1,5 +1,7 @@
 # boggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boggy.md)
+
 <p><span class="chinese">所有的一切都建筑在突出的地基上，海拔高过四周的沼泽地。</span><span class="english">Everything built on raised foundations, above the level of the boggy land around.</span></p>
 
 <p><span class="chinese">夏天，在亚极地针叶林地带的沼泽遍布的原野或乡村，出行亦将变得缓慢而艰难。</span><span class="english">Summer travel in the boggy lands, or muskeg country, of the Subarctic's taiga was also slow and arduous.</span></p>

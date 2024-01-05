@@ -1,5 +1,7 @@
 # erring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erring.md)
+
 <p><span class="chinese">可是，当心呀，别选择错了！</span><span class="english">But beware an erring choice!</span></p>
 
 <p><span class="chinese">改正错误的最好方法就是避免犯错误。</span><span class="english">The best way to correct mistakes is to avoid erring.</span></p>

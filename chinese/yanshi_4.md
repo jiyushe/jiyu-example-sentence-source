@@ -1,5 +1,7 @@
 # 演示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshi_4.md)
+
 <p><span class="chinese">现在我们演示实际操作。</span><span class="english">Now for the actual work.</span></p>
 
 <p><span class="chinese">他站起来进行演示。</span><span class="english">He stands up to demonstrate.</span></p>

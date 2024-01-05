@@ -1,5 +1,7 @@
 # 恩赐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/enci.md)
+
 <p><span class="chinese">岂都是得恩赐医病的吗。</span><span class="english">Have all the gifts of healing?</span></p>
 
 <p><span class="chinese">认识你是给了我恩赐。</span><span class="english">I am priviledged to have known you.</span></p>

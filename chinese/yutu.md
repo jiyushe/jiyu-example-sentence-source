@@ -1,5 +1,7 @@
 # 玉兔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yutu.md)
+
 <p><span class="chinese">希望玉兔也安好！</span><span class="english">Hope Yutu is find too !</span></p>
 
 <p><span class="chinese">月宫里，有一只可爱的玉兔陪伴她。</span><span class="english">In the palace, a jade hare accompanies her.</span></p>

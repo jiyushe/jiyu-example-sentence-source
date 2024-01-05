@@ -1,5 +1,7 @@
 # 卫生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weisheng_1.md)
+
 <p><span class="chinese">保持良好的卫生习惯。</span><span class="english">Have good hygiene.</span></p>
 
 <p><span class="chinese">一定不要放弃你的卫生防护！</span><span class="english">Don't drop your guard!</span></p>

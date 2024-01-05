@@ -1,5 +1,7 @@
 # bivalent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bivalent.md)
+
 <p><span class="chinese">双价口服脊髓灰质炎疫苗。</span><span class="english">V. , or bivalent oral polio vaccine.</span></p>
 
 <p><span class="chinese">新的形式是众所周知的双价口服脊髓灰质炎疫苗。</span><span class="english">The new formulation is known as B. O. P. V. , or bivalent oral polio vaccine.</span></p>

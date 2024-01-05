@@ -1,5 +1,7 @@
 # sacking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sacking.md)
+
 <p><span class="chinese">赫尔克里斯于是发动了一场战争，洗劫了艾丽斯。</span><span class="english">Hercules waged a successful war on the King, sacking Elis.</span></p>
 
 <p><span class="chinese">他将一个用帆布包着的重物扔到吉米脚下。</span><span class="english">And he flung a heavy object wrapped in sacking at Jimmy'sfeet.</span></p>

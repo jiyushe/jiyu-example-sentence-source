@@ -1,5 +1,7 @@
 # ironclad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ironclad.md)
+
 <p><span class="chinese">如今，这种稳如磐石的形象开始动摇。</span><span class="english">That ironclad image is now tarnished.</span></p>
 
 <p><span class="chinese">一系列铁的事实驳得他哑口无言。</span><span class="english">A series of ironclad facts put him to silence.</span></p>

@@ -1,5 +1,7 @@
 # subculture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subculture.md)
+
 <p><span class="chinese">传代培养细胞不能增生。</span><span class="english">The subculture could not be established.</span></p>
 
 <p><span class="chinese">一个繁荣的杰哈迪亚文化出现了。</span><span class="english">A thriving jihadi subculture has emerged.</span></p>

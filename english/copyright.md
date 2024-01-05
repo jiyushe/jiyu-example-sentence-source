@@ -1,5 +1,7 @@
 # copyright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copyright.md)
+
 <p><span class="chinese">版权所有，1963。</span><span class="english">Copyright ? 1963.</span></p>
 
 <p><span class="chinese">整个2011年约翰莫尔丁。</span><span class="english">Copyright 2011 John Mauldin.</span></p>

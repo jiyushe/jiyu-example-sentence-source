@@ -1,5 +1,7 @@
 # 印证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzheng.md)
+
 <p><span class="chinese">三峡合影，爱的印证。</span><span class="english">Sanxia Photo, Evidence of Our Love.</span></p>
 
 <p><span class="chinese">透过外师的引导，印证科学的奥妙与乐趣。</span><span class="english">Discover the mystery and fun of science.</span></p>

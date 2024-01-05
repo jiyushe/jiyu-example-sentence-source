@@ -1,5 +1,7 @@
 # 普法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pufa.md)
+
 <p><span class="chinese">关键在于最后一个事件——普法战争。</span><span class="english">The key is the final event—the Franco- Prussian War.</span></p>
 
 <p><span class="chinese">斯科特麦克马洪和安普法夫都是肖像画艺术家。</span><span class="english">Scott McMahon and Anne Pfaff are both portrait artists.</span></p>

@@ -1,5 +1,7 @@
 # arsenide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arsenide.md)
+
 <p><span class="chinese">介绍了砷化氢的毒性及危害性。</span><span class="english">This paper describes the toxicity and harm of hydrogen arsenide.</span></p>
 
 <p><span class="chinese">这篇文章介绍了砷化氢的毒性及危害性。</span><span class="english">This paper describes the toxicity and harm of hydrogen arsenide.</span></p>

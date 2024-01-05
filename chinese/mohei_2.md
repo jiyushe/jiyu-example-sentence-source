@@ -1,5 +1,7 @@
 # 摸黑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mohei_2.md)
+
 <p><span class="chinese">不摸黑吃也不坐火车吃。</span><span class="english">Not in the dark. Not on a train.</span></p>
 
 <p><span class="chinese">摸黑要走到另一个房间去。</span><span class="english">In going from room to room in the dark.</span></p>

@@ -1,5 +1,7 @@
 # 悬赏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanshang.md)
+
 <p><span class="chinese">悬赏10分…具体的再加分…</span><span class="english">A reward 10points. Detailed again add cent.</span></p>
 
 <p><span class="chinese">悬赏这个戒子好漂亮，我好喜欢！</span><span class="english">This ring is so gorgeous, I really like it!</span></p>

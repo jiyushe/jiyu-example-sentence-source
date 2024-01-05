@@ -1,5 +1,7 @@
 # norris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norris.md)
+
 <p><span class="chinese">罗礼士能把鱼淹死。</span><span class="english">Chuck Norris can drown fish.</span></p>
 
 <p><span class="chinese">查克罗礼士发明了水。</span><span class="english">Chuck Norris invented water.</span></p>

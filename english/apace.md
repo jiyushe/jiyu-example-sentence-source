@@ -1,5 +1,7 @@
 # apace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apace.md)
+
 <p><span class="chinese">恶习易染。</span><span class="english">Ill weeds grow apace.</span></p>
 
 <p><span class="chinese">杰克的习惯是不修边幅，这一习惯就像莠草一样总比庄稼长得快。</span><span class="english">Jack's habits are slovenly and like ill weeds grow apace.</span></p>

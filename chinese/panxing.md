@@ -1,5 +1,7 @@
 # 判刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panxing.md)
+
 <p><span class="chinese">对这些人将会怎样判刑？</span><span class="english">What sentence will they be given?</span></p>
 
 <p><span class="chinese">最后，这名劫匪被判刑3年。</span><span class="english">The hijacker was sentenced to 3 years.</span></p>

@@ -1,5 +1,7 @@
 # predication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predication.md)
+
 <p><span class="chinese">这里的是是谓语。</span><span class="english">Here is an is as a predication.</span></p>
 
 <p><span class="chinese">⑻谓词公式的分类。</span><span class="english">The classification with ⑻ formulary predication.</span></p>

@@ -1,5 +1,7 @@
 # nitrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitrous.md)
+
 <p><span class="chinese">氮化物一氧化氮也是温室气体的一种。</span><span class="english">Nitrous oxide is also a greenhouse gas.</span></p>
 
 <p><span class="chinese">这是固定使用，民建联的高温硅。</span><span class="english">No, it is a little dab of nitrous oxide.</span></p>

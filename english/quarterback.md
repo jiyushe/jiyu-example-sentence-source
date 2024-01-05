@@ -1,5 +1,7 @@
 # quarterback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quarterback.md)
+
 <p><span class="chinese">他们的四分卫是个壮汉。</span><span class="english">Their quarterback is one tough hombre.</span></p>
 
 <p><span class="chinese">四分卫是他们队的关键。</span><span class="english">The quarterback was the key of their team.</span></p>

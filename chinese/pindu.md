@@ -1,5 +1,7 @@
 # 频度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pindu.md)
+
 <p><span class="chinese">信息的变更频度如何？</span><span class="english">How often does it change?</span></p>
 
 <p><span class="chinese">持续测试包括了广度和频度。</span><span class="english">Continuous testing encompasses both breadth and frequency.</span></p>

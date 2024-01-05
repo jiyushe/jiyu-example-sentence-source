@@ -1,5 +1,7 @@
 # raceway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raceway.md)
+
 <p><span class="chinese">滚道为球表面的一部分。</span><span class="english">Raceway for the ball portion of the surface.</span></p>
 
 <p><span class="chinese">正如单列型，外圈滚道是球面。</span><span class="english">As in the single-row type, the outer-ring raceway is spherical.</span></p>

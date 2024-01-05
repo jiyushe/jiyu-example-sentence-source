@@ -1,5 +1,7 @@
 # heilongjiang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heilongjiang.md)
+
 <p><span class="chinese">1993年黑龙江齐齐哈尔。</span><span class="english">Heilongjiang Qiqihar.</span></p>
 
 <p><span class="chinese">但田川却选择了黑龙江省哈尔滨市的一所大学。</span><span class="english">But Tian has chosen one in Harbin, Heilongjiang.</span></p>

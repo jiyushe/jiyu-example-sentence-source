@@ -1,5 +1,7 @@
 # psychologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychologist.md)
+
 <p><span class="chinese">他不过是个心理学家“</span><span class="english">He's just a psychologist."</span></p>
 
 <p><span class="chinese">美国心理学家M。</span><span class="english">American psychologist M. L.</span></p>

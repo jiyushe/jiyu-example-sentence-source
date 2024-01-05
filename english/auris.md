@@ -1,5 +1,7 @@
 # auris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auris.md)
+
 <p><span class="chinese">“我不知道。”她说。可是却皱起了眉头。</span><span class="english">"I don't know, " Auris said. But she frowned.</span></p>
 
 <p><span class="chinese">“恩”，奥瑞丝说，“安静，我正在听呢”</span><span class="english">"Yes, " Auris said. "Hush now. I'm listening. "</span></p>

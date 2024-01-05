@@ -1,5 +1,7 @@
 # bacteriological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacteriological.md)
+
 <p><span class="chinese">目的为了提高细菌学鉴定水平。</span><span class="english">Objective To advance the level of bacteriological techniques.</span></p>
 
 <p><span class="chinese">北约和反对派计划对苏尔特使用细菌战。</span><span class="english">NATO and rebels plan to use bacteriological warfare against Sirte.</span></p>

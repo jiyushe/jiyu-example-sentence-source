@@ -1,5 +1,7 @@
 # correlativity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correlativity.md)
+
 <p><span class="chinese">结果表明，该拓扑指数具有良好的结构-性质相关性。</span><span class="english">The results show that the topological index has good structure-property correlativity.</span></p>
 
 <p><span class="chinese">根据随机过程理论，用计算机模拟生成具有空间相关性的风场。</span><span class="english">Based on random process theory, wind fields with spatial correlativity were simulated in computer.</span></p>

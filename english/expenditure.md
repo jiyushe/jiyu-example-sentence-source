@@ -1,5 +1,7 @@
 # expenditure 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expenditure.md)
+
 <p><span class="chinese">支出须由收入支配。</span><span class="english">Income must govern expenditure.</span></p>
 
 <p><span class="chinese">收入和支出的差距太大。</span><span class="english">His expenditure outran his income.</span></p>

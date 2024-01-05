@@ -1,5 +1,7 @@
 # 夸夸其谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuakuaqitan.md)
+
 <p><span class="chinese">他的讲演通篇是夸夸其谈。</span><span class="english">His speech was full of bombast.</span></p>
 
 <p><span class="chinese">这完全是文学上的夸夸其谈。</span><span class="english">It is literary gas and gaiters.</span></p>

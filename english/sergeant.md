@@ -1,5 +1,7 @@
 # sergeant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sergeant.md)
+
 <p><span class="chinese">那是托伊中士。</span><span class="english">It was Sergeant Troy.</span></p>
 
 <p><span class="chinese">军士长全身被汗浸湿透了。</span><span class="english">Sweat soaks First Sergeant.</span></p>

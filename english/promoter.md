@@ -1,5 +1,7 @@
 # promoter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promoter.md)
+
 <p><span class="chinese">样子愉快是壮健的增加剂。</span><span class="english">Cheerfulness is the promoter of health.</span></p>
 
 <p><span class="chinese">这意味着你要厚着脸皮的自我推销。</span><span class="english">This means being an unabashed self promoter.</span></p>

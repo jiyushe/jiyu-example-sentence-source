@@ -1,5 +1,7 @@
 # 图谱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tupu.md)
+
 <p><span class="chinese">记录纸上打印的分析图谱也能应用。</span><span class="english">Fingerprint on record paper can also be utilized.</span></p>
 
 <p><span class="chinese">结果薄层图谱斑点清晰，分离度好。</span><span class="english">Results The spots on TLC could be well separated.</span></p>

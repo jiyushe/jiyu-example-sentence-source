@@ -1,5 +1,7 @@
 # alamo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alamo.md)
+
 <p><span class="chinese">连阿拉莫也不像往常那样气定神闲。</span><span class="english">Even Álamo wasn't his usual calm self.</span></p>
 
 <p><span class="chinese">嘿，现在的情况，就是他们说的阿拉莫吧。</span><span class="english">Hey, now, that's what they said at The Alamo.</span></p>

@@ -1,5 +1,7 @@
 # busybody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busybody.md)
+
 <p><span class="chinese">他是个爱管闲事的人。</span><span class="english">He is a busybody.</span></p>
 
 <p><span class="chinese">我是一个小土豆。</span><span class="english">She is a busybody.</span></p>

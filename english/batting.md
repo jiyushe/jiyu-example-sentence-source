@@ -1,5 +1,7 @@
 # batting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/batting.md)
+
 <p><span class="chinese">他发觉她在到处寻乐。</span><span class="english">He found her batting round.</span></p>
 
 <p><span class="chinese">正轮到游击手击球时，天下起雨来。</span><span class="english">The shortstop was batting when the rain began.</span></p>

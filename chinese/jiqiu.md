@@ -1,5 +1,7 @@
 # 击球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiqiu.md)
+
 <p><span class="chinese">杰克是位勇敢的击球手。</span><span class="english">Jack is a brave batsman.</span></p>
 
 <p><span class="chinese">那个击球手被判出局。</span><span class="english">The batsman was given out.</span></p>

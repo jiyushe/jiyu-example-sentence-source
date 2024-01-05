@@ -1,5 +1,7 @@
 # barbarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbarity.md)
+
 <p><span class="chinese">这个世界黑暗。残忍。</span><span class="english">The world is dark and barbarity.</span></p>
 
 <p><span class="chinese">残暴地对待他们的俘虏。</span><span class="english">The pirates treated their captives with barbarity.</span></p>

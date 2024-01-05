@@ -1,5 +1,7 @@
 # 风雨同舟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyutongzhou.md)
+
 <p><span class="chinese">让我们风雨同舟！</span><span class="english">Let us share hardships!</span></p>
 
 <p><span class="chinese">我们是风雨同舟的！</span><span class="english">We are in the same bote.</span></p>

@@ -1,5 +1,7 @@
 # sample 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sample_1.md)
+
 <p><span class="chinese">这和样品相符。</span><span class="english">It comes up to sample.</span></p>
 
 <p><span class="chinese">这些样书打折扣出售。</span><span class="english">A sample piece of fabric.</span></p>

@@ -1,5 +1,7 @@
 # sesamin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sesamin.md)
+
 <p><span class="chinese">本发明公开了一种芝麻素的提取工艺。</span><span class="english">This invention discloses a process for extracting sesamin.</span></p>
 
 <p><span class="chinese">首先，对芝麻油中芝麻素含量的测定方法进行了研究。</span><span class="english">Firstly, determination method of sesamin in sesame oil was studied.</span></p>

@@ -1,5 +1,7 @@
 # nitpick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitpick.md)
+
 <p><span class="chinese">你真的很爱找碴耶。</span><span class="english">You really love nitpick.</span></p>
 
 <p><span class="chinese">你真的很爱找碴耶。</span><span class="english">You really love to nitpick.</span></p>

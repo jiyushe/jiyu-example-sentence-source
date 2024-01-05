@@ -1,5 +1,7 @@
 # cause
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cause.md)
+
 <p><span class="chinese">什么导致了这个病？</span><span class="english">What cause the illness?</span></p>
 
 <p><span class="chinese">所以A导致了。</span><span class="english">B Therefore As cause Bs.</span></p>

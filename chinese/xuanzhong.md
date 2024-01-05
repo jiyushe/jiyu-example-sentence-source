@@ -1,5 +1,7 @@
 # 选种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanzhong.md)
+
 <p><span class="chinese">这位农民教我们如何选种。</span><span class="english">The farmer taught us how to select seeds.</span></p>
 
 <p><span class="chinese">选种培育以提高产量会大有可为。</span><span class="english">There is potential for selective breeding for better yields.</span></p>

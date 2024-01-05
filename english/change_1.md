@@ -1,5 +1,7 @@
 # change 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/change_1.md)
+
 <p><span class="chinese">换钱吗？</span><span class="english">Change money?</span></p>
 
 <p><span class="chinese">我该怎样转车呢?。</span><span class="english">How to change?</span></p>

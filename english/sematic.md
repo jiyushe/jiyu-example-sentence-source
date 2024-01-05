@@ -1,5 +1,7 @@
 # sematic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sematic.md)
+
 <p><span class="chinese">最后建立了一个原型系统，取得较好的实验结果。</span><span class="english">By adding the comprehension of sematic relation, a better testing result is gained.</span></p>
 
 <p><span class="chinese">中性词语义偏移是当代语义学的一个关注点。</span><span class="english">The law of its sematic collocation and semantic shift is different from other categories.</span></p>

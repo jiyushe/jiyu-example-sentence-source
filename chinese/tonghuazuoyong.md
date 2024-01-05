@@ -1,5 +1,7 @@
 # 同化作用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghuazuoyong.md)
+
 <p><span class="chinese">间歇反应中微生物同化作用占主导地位。</span><span class="english">Microbe assimilation plays a leading role in the intermittent reaction.</span></p>
 
 <p><span class="chinese">肌肉组织就是由这些不同种类的氨基酸通过同化作用组成的。</span><span class="english">Remember, muscle tissue is made from the assimilation of various amino acids.</span></p>

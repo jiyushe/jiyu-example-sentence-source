@@ -1,5 +1,7 @@
 # blight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blight.md)
+
 <p><span class="chinese">只揭露枯萎和死亡。</span><span class="english">Only blight and death.</span></p>
 
 <p><span class="chinese">只有枯萎和死亡。</span><span class="english">Blight and death alone.</span></p>

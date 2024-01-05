@@ -1,5 +1,7 @@
 # aramaic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aramaic.md)
+
 <p><span class="chinese">目前已知的在亚拉姆语中仅有一例。</span><span class="english">There's only one other known example in Aramaic.</span></p>
 
 <p><span class="chinese">司提反是希伯来语还是亚拉姆语名字？</span><span class="english">Hmmm.Stephen,is that a good Hebrew or Aramaic name?</span></p>

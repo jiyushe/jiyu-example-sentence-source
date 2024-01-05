@@ -1,5 +1,7 @@
 # 农奴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongnu.md)
+
 <p><span class="chinese">这个农奴被蹂躏致死。</span><span class="english">The serf was trod to death.</span></p>
 
 <p><span class="chinese">啮齿类动物是西伯利亚的“可怜的农奴”。</span><span class="english">Rodents Were "Poor Serfs" of Siberia</span></p>

@@ -1,5 +1,7 @@
 # lavatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lavatory.md)
+
 <p><span class="chinese">厕所在哪里？</span><span class="english">Where's the lavatory?</span></p>
 
 <p><span class="chinese">这房间有盥洗间吗？</span><span class="english">Dose the room have a lavatory?</span></p>

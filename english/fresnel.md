@@ -1,5 +1,7 @@
 # fresnel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fresnel.md)
+
 <p><span class="chinese">塔顶的菲涅尔透镜。</span><span class="english">Fresnel lens on the top.</span></p>
 
 <p><span class="chinese">本文还描述了制造菲涅耳透镜的方法。</span><span class="english">A method of making the Fresnel lens is described.</span></p>

@@ -1,5 +1,7 @@
 # unvoiced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unvoiced.md)
+
 <p><span class="chinese">辅音可发声也可不发声。</span><span class="english">A consonant can either be unvoiced or voiced.</span></p>
 
 <p><span class="chinese">经过长时间的谈判，最后我们达成默契。</span><span class="english">After a long negotiation, we at last reached an unvoiced pact.</span></p>

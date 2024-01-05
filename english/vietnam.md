@@ -1,5 +1,7 @@
 # vietnam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vietnam.md)
+
 <p><span class="chinese">支持在越南的战士吧。</span><span class="english">Support the boys in Vietnam.</span></p>
 
 <p><span class="chinese">仍然在越南的归仁市。</span><span class="english">I'm still in Qui Nhon of Vietnam.</span></p>

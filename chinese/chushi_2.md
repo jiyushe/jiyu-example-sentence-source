@@ -1,5 +1,7 @@
 # 出使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushi_2.md)
+
 <p><span class="chinese">丝绸之路的历史可以追溯到公元前二世纪，当时一名官员、朝廷的使者张骞沿着这条连接欧亚两大洲的贸易通道出使西域。</span><span class="english">The historyof the Silk Way could track back to 2 century BC.</span></p>
 
 <p><span class="chinese">蔺相如是赵国出使秦国的使臣。</span><span class="english">Lin Xiangru was the envoy the Zhao state detached to the Qin State.</span></p>

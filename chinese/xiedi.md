@@ -1,5 +1,7 @@
 # 鞋底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiedi.md)
+
 <p><span class="chinese">我想把这双鞋换鞋底。</span><span class="english">I want these shoes resoled.</span></p>
 
 <p><span class="chinese">他的鞋底满是泥块。</span><span class="english">His shoes were  caked with mud.</span></p>

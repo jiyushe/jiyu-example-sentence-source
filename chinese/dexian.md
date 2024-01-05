@@ -1,5 +1,7 @@
 # 得闲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dexian.md)
+
 <p><span class="chinese">好唔得闲噶一日。</span><span class="english">This is a busy day.</span></p>
 
 <p><span class="chinese">得闲来玩。</span><span class="english">Drop in when you are free.</span></p>

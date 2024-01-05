@@ -1,5 +1,7 @@
 # 摘记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaiji.md)
+
 <p><span class="chinese">注释是一个对请求者不可见的给员工的隐秘的摘记。</span><span class="english">A comment is a private note for staff not visible to the requestor.</span></p>
 
 <p><span class="chinese">电视广告是一个女孩的旅行摘记。</span><span class="english">The TVC is based on the girl's notes and jottings about her travels.</span></p>

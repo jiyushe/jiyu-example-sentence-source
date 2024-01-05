@@ -1,5 +1,7 @@
 # ccc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ccc.md)
+
 <p><span class="chinese">为便于监管，认证证书的格式由国家认监委统一规定。</span><span class="english">The format of CCC certificate is set out by CNCA.</span></p>
 
 <p><span class="chinese">华社定于2011年一月举办摄影展。</span><span class="english">CCC is planning a photo exhibition in January 2011.</span></p>

@@ -1,5 +1,7 @@
 # ahd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ahd.md)
+
 <p><span class="chinese">我有没有兄弟新纪元没有儿子。</span><span class="english">I have no brothers ahd no sons.</span></p>
 
 <p><span class="chinese">我爱你和我的孩子。</span><span class="english">I love you ahd my children deeply.</span></p>

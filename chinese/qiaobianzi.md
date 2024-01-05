@@ -1,5 +1,7 @@
 # 翘辫子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaobianzi.md)
+
 <p><span class="chinese">你永远不会知道自己什么时候翘辫子。</span><span class="english">You never know when your time is up.</span></p>
 
 <p><span class="chinese">我的心翘辫子，死走了，你呢？</span><span class="english">Illusions of the, Love gone, What will you?</span></p>

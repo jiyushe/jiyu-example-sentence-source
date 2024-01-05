@@ -1,5 +1,7 @@
 # 喷水池
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penshuichi.md)
+
 <p><span class="chinese">喷水池在哪儿啊？</span><span class="english">Where is the fountain?</span></p>
 
 <p><span class="chinese">这个喷水池真是废物。</span><span class="english">The fountain is a white elephant.</span></p>

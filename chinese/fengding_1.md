@@ -1,5 +1,7 @@
 # 峰顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengding_1.md)
+
 <p><span class="chinese">峰顶有月观亭。</span><span class="english">There are peak months Guanting.</span></p>
 
 <p><span class="chinese">站在虎山长城的峰顶举目望去。</span><span class="english">Standing on the Hushan Great Wall.</span></p>

@@ -1,5 +1,7 @@
 # urbanity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urbanity.md)
+
 <p><span class="chinese">最后，我渴望练就温文尔雅的性情。</span><span class="english">Then, last of all, I desiderate urbanity.</span></p>
 
 <p><span class="chinese">文雅是一种你必须在内心拥有的品质。</span><span class="english">Urbanity is a quality you have to possess from within.</span></p>

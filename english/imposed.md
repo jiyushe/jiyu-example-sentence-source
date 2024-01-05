@@ -1,5 +1,7 @@
 # imposed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imposed.md)
+
 <p><span class="chinese">政府当局开始对燃油征收一项新税。</span><span class="english">A new tax was imposed on fuel.</span></p>
 
 <p><span class="chinese">在侵权法中，责任是由法律规定的。</span><span class="english">In tort law the duty is imposed by the law.</span></p>

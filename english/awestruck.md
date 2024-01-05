@@ -1,5 +1,7 @@
 # awestruck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awestruck.md)
+
 <p><span class="chinese">此次阅兵想要向这个惊奇畏惧的世界传达怎样的讯息呢？</span><span class="english">What message was it meant to convey to an awestruck world?</span></p>
 
 <p><span class="chinese">问题是大多数人对你只是肃然起敬。</span><span class="english">The problem is that most people are awestruck by your fabulousness.</span></p>

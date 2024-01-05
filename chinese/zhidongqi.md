@@ -1,5 +1,7 @@
 # 制动器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhidongqi.md)
+
 <p><span class="chinese">这时我们说制动器起作用了。</span><span class="english">We say that the brakes are on.</span></p>
 
 <p><span class="chinese">停车后要拉上驻车制动器。</span><span class="english">Pull on parking brake after parking.</span></p>

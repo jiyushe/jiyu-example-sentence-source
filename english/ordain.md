@@ -1,5 +1,7 @@
 # ordain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ordain.md)
+
 <p><span class="chinese">我吩咐各教会都是这样。</span><span class="english">And so ordain I in all churches.</span></p>
 
 <p><span class="chinese">请给我授戒让我成为比丘，这样我就能够修行八正道。</span><span class="english">Please ordain me a Bhikkhu so that I can develop the Noble Eightfold Path.</span></p>

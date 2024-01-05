@@ -1,5 +1,7 @@
 # sanely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanely.md)
+
 <p><span class="chinese">你们墨家从来都是这么理智的吗？</span><span class="english">Is that what you Mozi would have done sanely?</span></p>
 
 <p><span class="chinese">在一健全有组织的社会你可以做好许多事。</span><span class="english">In a sanely organized society you can get a lot done.</span></p>

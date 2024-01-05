@@ -1,5 +1,7 @@
 # 华诞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huadan.md)
+
 <p><span class="chinese">他们把我的华诞搞错了。</span><span class="english">They got my birthdate wrong.</span></p>
 
 <p><span class="chinese">2007年是华新的百年华诞。</span><span class="english">In 2007 Huaxin turned 100 years old.</span></p>

@@ -1,5 +1,7 @@
 # 西夏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixia_1.md)
+
 <p><span class="chinese">西夏文佛经是从汉语翻译来的。</span><span class="english">Tangut version of the Sutra was translated from Chinese.</span></p>
 
 <p><span class="chinese">西夏铜官印1983年出土，为一级文物。</span><span class="english">Xixia Tongguanshan India unearthed in 1983 for the objects.</span></p>

@@ -1,5 +1,7 @@
 # 一把手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibashou.md)
+
 <p><span class="chinese">给她一把手电筒让她看清道路。</span><span class="english">Hand her a flashlight so she can see the way.</span></p>
 
 <p><span class="chinese">他掷掉剑，捡起一把手枪。</span><span class="english">He dashed down his sword and picked up a revolver.</span></p>

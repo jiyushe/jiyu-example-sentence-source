@@ -1,5 +1,7 @@
 # 伏兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fubing.md)
+
 <p><span class="chinese">他怀疑有伏兵。</span><span class="english">He suspected an ambush.</span></p>
 
 <p><span class="chinese">你要在城后设下伏兵。</span><span class="english">Set an ambush behind the city.</span></p>

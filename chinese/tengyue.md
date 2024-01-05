@@ -1,5 +1,7 @@
 # 腾越
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tengyue.md)
+
 <p><span class="chinese">笼里夜莺不唱歌，浪里蛟龙任腾越。</span><span class="english">Nightingales will nit sing in a cage.</span></p>
 
 <p><span class="chinese">第一个画面显示了一个腾越空中向篮圈飞去的篮球。</span><span class="english">The first picture shows a basketball soaring through the air toward the hoop.</span></p>

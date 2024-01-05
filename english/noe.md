@@ -1,5 +1,7 @@
 # noe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noe.md)
+
 <p><span class="chinese">听着，我要赶去诺亚谷，，渴攀里斯。</span><span class="english">Listen, I'm going to Noe Valley, Chris.</span></p>
 
 <p><span class="chinese">天主怎样吩咐了他，他就怎样做了。</span><span class="english">And Noe did all things which God commanded him.</span></p>

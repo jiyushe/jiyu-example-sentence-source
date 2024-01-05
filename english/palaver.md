@@ -1,5 +1,7 @@
 # palaver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palaver.md)
+
 <p><span class="chinese">欢迎诚信客商来人来电洽谈。</span><span class="english">Sincere welcome customers for palaver.</span></p>
 
 <p><span class="chinese">付帐的事真费口舌呀！</span><span class="english">What a palaver there was about paying the bill!</span></p>

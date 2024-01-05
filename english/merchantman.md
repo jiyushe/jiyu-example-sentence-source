@@ -1,5 +1,7 @@
 # merchantman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merchantman.md)
+
 <p><span class="chinese">被帆船或是商船遇见。</span><span class="english">By frigate or by merchantman.</span></p>
 
 <p><span class="chinese">中国皇后号对一个美国商人来说是过大了。</span><span class="english">The boot was of striking large size for an American merchantman.</span></p>

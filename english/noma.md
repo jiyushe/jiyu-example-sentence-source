@@ -1,5 +1,7 @@
 # noma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noma.md)
+
 <p><span class="chinese">感谢您抽出时间接受我们的采访。</span><span class="english">Thanks Noma Bar for taking the time to talk us.</span></p>
 
 <p><span class="chinese">Noma家庭是这整个系列中最宽敞最大的部分。</span><span class="english">Family Noma is spacious and largest of all the series.</span></p>

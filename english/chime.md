@@ -1,5 +1,7 @@
 # chime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chime.md)
+
 <p><span class="chinese">轻轻舞，是风铃儿呢。</span><span class="english">Dance, the wind chime.</span></p>
 
 <p><span class="chinese">塔钟每小时鸣奏一次。</span><span class="english">The tower bells chime every hour.</span></p>

@@ -1,5 +1,7 @@
 # 示众
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhong.md)
+
 <p><span class="chinese">为什么不挂牌、不游街示众？</span><span class="english">Why not listed, do not paraded through the streets?</span></p>
 
 <p><span class="chinese">抓获的罪犯被游街示众。</span><span class="english">The captured criminals were paraded through the streets.</span></p>

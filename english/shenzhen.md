@@ -1,5 +1,7 @@
 # shenzhen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shenzhen.md)
+
 <p><span class="chinese">现在“他生活在深圳”。</span><span class="english">Today, he lives in Shenzhen.</span></p>
 
 <p><span class="chinese">约翰森，请留下。请留在深圳队！</span><span class="english">Please stay in Shenzhen team.</span></p>

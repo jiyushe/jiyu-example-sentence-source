@@ -1,5 +1,7 @@
 # 自然力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranli.md)
+
 <p><span class="chinese">先前每个城市有它自己的自然力守护神的寺庙。</span><span class="english">Previously each city had its own elementalist temple.</span></p>
 
 <p><span class="chinese">这一现象促使我思考火与它作为一种自然力所起的作用。</span><span class="english">This prompted me to consider fire and the role it plays as a force of nature.</span></p>

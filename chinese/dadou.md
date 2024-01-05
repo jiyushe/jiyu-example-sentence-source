@@ -1,5 +1,7 @@
 # 大豆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadou.md)
+
 <p><span class="chinese">而大豆的作用在哪里呢？</span><span class="english">So where does soy fit in?</span></p>
 
 <p><span class="chinese">日内瓦——有人怨大豆。</span><span class="english">GENEVA — Some blamed soybeans.</span></p>

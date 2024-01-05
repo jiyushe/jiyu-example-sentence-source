@@ -1,5 +1,7 @@
 # ala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ala.md)
+
 <p><span class="chinese">其他食品可以添加到您的摄入酮戊酸。</span><span class="english">Other foods can add to your intake of ALA.</span></p>
 
 <p><span class="chinese">鼻翼有点大能整出小巧的鼻子吗？</span><span class="english">Can nose ala rectify a cabinet nose greatly a bit?</span></p>

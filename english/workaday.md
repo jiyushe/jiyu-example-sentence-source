@@ -1,5 +1,7 @@
 # workaday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workaday.md)
+
 <p><span class="chinese">但是如今越来越多平常的计划正在取得新的突破。</span><span class="english">But now the more workaday strategies are getting a new look-in.</span></p>
 
 <p><span class="chinese">然而，维持的借口却是，这种穿梭机就是普通的航空器。</span><span class="english">But the pretence was maintained that the shuttle was a workaday craft.</span></p>

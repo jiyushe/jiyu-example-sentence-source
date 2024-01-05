@@ -1,5 +1,7 @@
 # boaz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boaz.md)
+
 <p><span class="chinese">鲍兹·尼格罗一直没有重新修建他的房屋。</span><span class="english">Boaz Negro did not rebuild his house.</span></p>
 
 <p><span class="chinese">于是，波阿斯娶了路得为妻，与她同房。</span><span class="english">So Boaz took Ruth and she became his wife.</span></p>

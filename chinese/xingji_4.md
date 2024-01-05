@@ -1,5 +1,7 @@
 # 行迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingji_4.md)
+
 <p><span class="chinese">一艘行迹可疑的船向我们驶来。</span><span class="english">A suspicious boat made up to us.</span></p>
 
 <p><span class="chinese">他一直将自己的行迹掩藏得很好。</span><span class="english">He has been hiding his whereabouts very well.</span></p>

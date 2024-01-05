@@ -1,5 +1,7 @@
 # 词句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciju.md)
+
 <p><span class="chinese">一个残酷的词句可能折损一条生命。</span><span class="english">A cruel word may wreck a life.</span></p>
 
 <p><span class="chinese">不要常用缺乏自信的词句。</span><span class="english">Don't use the diffident words and sentences.</span></p>

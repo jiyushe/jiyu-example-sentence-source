@@ -1,5 +1,7 @@
 # thicket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thicket.md)
+
 <p><span class="chinese">枭翼树丛挖掘场。</span><span class="english">Owl Wing Thicket Digsite.</span></p>
 
 <p><span class="chinese">我们爬进灌林丛，躲了起来。</span><span class="english">We crawled into the thicket and hid.</span></p>

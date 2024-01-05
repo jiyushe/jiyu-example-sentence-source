@@ -1,5 +1,7 @@
 # 解答
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieda.md)
+
 <p><span class="chinese">以下克里斯蒂·尼克尔森为你报导解答。</span><span class="english">Christie Nicholson reports.</span></p>
 
 <p><span class="chinese">人生是一道难题，解答它。</span><span class="english">Life is a puzzle — solve it.</span></p>

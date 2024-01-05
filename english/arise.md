@@ -1,5 +1,7 @@
 # arise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arise.md)
+
 <p><span class="chinese">不会出差错。</span><span class="english">No mistakes could arise.</span></p>
 
 <p><span class="chinese">鼻癌是怎样产生的?。</span><span class="english">How does nose cancer arise?</span></p>

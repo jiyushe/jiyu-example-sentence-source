@@ -1,5 +1,7 @@
 # piteously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piteously.md)
+
 <p><span class="chinese">她怜悯地向他伸出双手。</span><span class="english">She extended her hands towards him piteously.</span></p>
 
 <p><span class="chinese">她用哽咽了的嗓音苦苦哀求。</span><span class="english">She implored piteously a voice choked with sobs.</span></p>

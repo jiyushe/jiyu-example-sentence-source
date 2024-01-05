@@ -1,5 +1,7 @@
 # adrenalin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adrenalin.md)
+
 <p><span class="chinese">但我也感觉到肾上腺素迅速分泌的兴奋。</span><span class="english">But I also felt a buzz of adrenalin.</span></p>
 
 <p><span class="chinese">他被急忙送往医院注射肾上腺素。</span><span class="english">Hewas rushed to the hospital and injected with Adrenalin.</span></p>

@@ -1,5 +1,7 @@
 # proton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proton.md)
+
 <p><span class="chinese">我们从质子数开始。</span><span class="english">And we began with the proton number.</span></p>
 
 <p><span class="chinese">接着我们可以用质子来做。</span><span class="english">Later on we could do this with a proton.</span></p>

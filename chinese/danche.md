@@ -1,5 +1,7 @@
 # 单车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danche.md)
+
 <p><span class="chinese">这部单车需要调整。</span><span class="english">This Bike needs a tune-up.</span></p>
 
 <p><span class="chinese">他把单车放在睡房里。</span><span class="english">He keeps it in his bedroom.</span></p>

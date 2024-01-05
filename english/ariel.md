@@ -1,5 +1,7 @@
 # ariel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ariel.md)
+
 <p><span class="chinese">由来自俄亥俄州梧桐高中的艾莉尔所写</span><span class="english">by Ariel from Sycamore Jr High, Ohio</span></p>
 
 <p><span class="chinese">作为一个演员，林依晨非常成功。</span><span class="english">AS an actor, Ariel Lin is very successful.</span></p>

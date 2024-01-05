@@ -1,5 +1,7 @@
 # 初等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chudeng.md)
+
 <p><span class="chinese">高等初等中等学校时她常常欺负我。</span><span class="english">IT employ to bully me in high educate.</span></p>
 
 <p><span class="chinese">下面会有一个初等几何的回顾.</span><span class="english">There is a review of elementary geometry below.</span></p>

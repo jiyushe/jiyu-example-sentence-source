@@ -1,5 +1,7 @@
 # plaint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plaint.md)
+
 <p><span class="chinese">我经常发这样的感叹。</span><span class="english">I often had this kind of plaint.</span></p>
 
 <p><span class="chinese">这是不少农民的感叹和疑问。</span><span class="english">This is many farmers plaint and doubt.</span></p>

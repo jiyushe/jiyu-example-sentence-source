@@ -1,5 +1,7 @@
 # 降调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangdiao.md)
+
 <p><span class="chinese">这里我们应该用降调。</span><span class="english">Here we should use a falling tone.</span></p>
 
 <p><span class="chinese">这里我们该当用降调。</span><span class="english">Here we should use an fwisling tone.</span></p>

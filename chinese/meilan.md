@@ -1,5 +1,7 @@
 # 霉烂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meilan.md)
+
 <p><span class="chinese">淡黄色，有麦芽香味，无霉烂。</span><span class="english">Flaxen, malt fragrance, no mildew.</span></p>
 
 <p><span class="chinese">房间里有一股长期不用和霉烂书籍的味道。</span><span class="english">The room smelt of disuse and mouldering books.</span></p>

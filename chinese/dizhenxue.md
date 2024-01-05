@@ -1,5 +1,7 @@
 # 地震学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhenxue.md)
+
 <p><span class="chinese">他是有名的地震学专家。</span><span class="english">He is a famous seismology expert.</span></p>
 
 <p><span class="chinese">地震学家是怎么确定地震位置的？</span><span class="english">How do seismologists locate an earthquake?</span></p>

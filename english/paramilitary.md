@@ -1,5 +1,7 @@
 # paramilitary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paramilitary.md)
+
 <p><span class="chinese">准军事部队已经部署在了最前线。</span><span class="english">Paramilitary troops have been at the forefront of the crackdown.</span></p>
 
 <p><span class="chinese">数十名警察和准军事警察护送着火炬小步慢跑。</span><span class="english">Police and paramilitary forces by the dozens jogged on either side of the torch.</span></p>

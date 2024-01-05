@@ -1,5 +1,7 @@
 # hairless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hairless.md)
+
 <p><span class="chinese">德文卷毛猫是一种很好的无毛猫种。</span><span class="english">Devon Rex is a great hairless cat.</span></p>
 
 <p><span class="chinese">又白又嫩，光滑如鹅蛋，难以想象！</span><span class="english">Which is as white and hairless as an egg.</span></p>

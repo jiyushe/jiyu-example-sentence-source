@@ -1,5 +1,7 @@
 # 击落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiluo.md)
+
 <p><span class="chinese">两架敌机被击落。</span><span class="english">Two enemy planes sent down.</span></p>
 
 <p><span class="chinese">为何要击落卫星呢？</span><span class="english">Why shoot down the satellite?</span></p>

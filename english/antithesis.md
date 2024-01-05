@@ -1,5 +1,7 @@
 # antithesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antithesis.md)
+
 <p><span class="chinese">百度是GOOGLE的对立面。</span><span class="english">GOOGLE and Baidu is the antithesis.</span></p>
 
 <p><span class="chinese">百事是可口可乐的对立面。</span><span class="english">Pepsi is the antithesis of Coca-Cola.</span></p>

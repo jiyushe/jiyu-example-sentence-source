@@ -1,5 +1,7 @@
 # 击节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijie.md)
+
 <p><span class="chinese">也许我们能得到更多的注册人数，也许是更多的回头访客，也许是Twitter上更多的击节赞叹。</span><span class="english">Maybe we’ll get more signups, maybe more returning visits, maybe more high five’s on Twitter.</span></p>
 
 <p><span class="chinese">被动的迁移却带来意想不到的结果，常使后人击节称奇。</span><span class="english">Passive migration but bring an unexpected result, often make posterity shot the stanza call strange.</span></p>

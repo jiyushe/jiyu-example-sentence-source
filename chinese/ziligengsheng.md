@@ -1,5 +1,7 @@
 # 自力更生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziligengsheng.md)
+
 <p><span class="chinese">咱们主张自力更生。</span><span class="english">We stor to self-reliance.</span></p>
 
 <p><span class="chinese">这是一种自力更生的生活。</span><span class="english">It's a self-reliant sort of life.</span></p>

@@ -1,5 +1,7 @@
 # 妻离子散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qilizisan.md)
+
 <p><span class="chinese">战争使许多家庭妻离子散。</span><span class="english">The war separated many families.</span></p>
 
 <p><span class="chinese">战争期间，很多家庭妻离子散。</span><span class="english">Many families got separated during the war.</span></p>

@@ -1,5 +1,7 @@
 # banter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banter.md)
+
 <p><span class="chinese">戏弄他人而使其失去理性是无礼的。</span><span class="english">I do not banter you, I am in earnest.</span></p>
 
 <p><span class="chinese">他辨出这玩笑话里有真意在。</span><span class="english">He senses the truth beneath her banter.</span></p>

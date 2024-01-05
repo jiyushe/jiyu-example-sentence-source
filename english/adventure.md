@@ -1,5 +1,7 @@
 # adventure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adventure.md)
+
 <p><span class="chinese">他热爱这类冒险。</span><span class="english">He sought adventure.</span></p>
 
 <p><span class="chinese">动作冒险类的。</span><span class="english">Action and adventure.</span></p>

@@ -1,5 +1,7 @@
 # toxicological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toxicological.md)
+
 <p><span class="chinese">对麦芽四糖产品进行了毒理试验，结果表明该产品安全无毒。</span><span class="english">The toxicological test was carried, and the results proved the safety of product.</span></p>
 
 <p><span class="chinese">目的分析四氟苯菊酯的毒理学和生物学特征。</span><span class="english">Objective To analyze toxicological and biological characteristics of transfluthrin.</span></p>

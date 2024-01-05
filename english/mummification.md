@@ -1,5 +1,7 @@
 # mummification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mummification.md)
+
 <p><span class="chinese">一名英国科学家宣称已经解开了木乃伊制作的秘密。</span><span class="english">An English scientist claims to have unlocked the secrets of mummification.</span></p>
 
 <p><span class="chinese">埃及人相信，木乃伊保存了死者的灵魂，使其得以进入来世的旅程。</span><span class="english">The Egyptians believed that mummification preserved the soul for its journey into the afterlife.</span></p>

@@ -1,5 +1,7 @@
 # veer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veer.md)
+
 <p><span class="chinese">接着在岔路口向右转。</span><span class="english">Then veer right at the fork in the road.</span></p>
 
 <p><span class="chinese">大海的暴风雨似乎避着你而转向</span><span class="english">The ocean storm seems to veer away from you</span></p>

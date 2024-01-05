@@ -1,5 +1,7 @@
 # stiffly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stiffly.md)
+
 <p><span class="chinese">福勒僵硬地站在附近奥塞布尔。</span><span class="english">Fowler was standing stiffly near Ausable.</span></p>
 
 <p><span class="chinese">“我想是吧。”杜斯利夫人生硬地说。</span><span class="english">"I suppose so, " said Mrs. Dursley stiffly.</span></p>

@@ -1,5 +1,7 @@
 # calamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calamine.md)
+
 <p><span class="chinese">您只需把您的产品在那里，作为一种炉甘石洗剂。</span><span class="english">You simply put your product in there, as a kind of calamine lotion.</span></p>
 
 <p><span class="chinese">他四肢上涂得厚厚的炉甘石液已干成粉白色。</span><span class="english">His arms and legs were thickly smeared with calamine lotion dried to a chalky white.</span></p>

@@ -1,5 +1,7 @@
 # consenting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consenting.md)
+
 <p><span class="chinese">并且不应该有人因为赞成同性恋而受到联盟的伤害。</span><span class="english">And no one is harmed by the union of two consenting gay people.</span></p>
 
 <p><span class="chinese">这使得希腊政府的官僚能任意摆布参与交易的人。</span><span class="english">This puts consenting adults at the mercy of the Greek bureaucracy.</span></p>

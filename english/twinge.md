@@ -1,5 +1,7 @@
 # twinge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twinge.md)
+
 <p><span class="chinese">我感到一阵痛彻心扉的内疚。</span><span class="english">I felt a twinge of guilt.</span></p>
 
 <p><span class="chinese">我可是一点儿肉体的痛苦也没有受到啊！</span><span class="english">And not a twinge of bodily pain about me!</span></p>

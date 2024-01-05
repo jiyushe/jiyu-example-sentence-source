@@ -1,5 +1,7 @@
 # 透漏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toulou.md)
+
 <p><span class="chinese">你每次都把结局透漏出来。</span><span class="english">You always give away the endings!</span></p>
 
 <p><span class="chinese">据埃蒙斯谈，大多数的门都透漏空气。</span><span class="english">According to Emmons, most doors leak air.</span></p>

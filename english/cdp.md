@@ -1,5 +1,7 @@
 # cdp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cdp.md)
+
 <p><span class="chinese">该项工作将在位于阿拉巴马州安尼斯顿的国家应急中心完成。</span><span class="english">Work will be performed at the CDP in Anniston, Ala.</span></p>
 
 <p><span class="chinese">CDP集团将与您分享人力资源外包趋势及最佳案例。</span><span class="english">CDP will share you the HRO trends and the best practical case studies.</span></p>

@@ -1,5 +1,7 @@
 # misrepresent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misrepresent.md)
+
 <p><span class="chinese">要知道肯定会有人曲解你的话语。</span><span class="english">Know that there are people who will misrepresent you.</span></p>
 
 <p><span class="chinese">如果你歪曲了计划中的内容，我们将告诉你。</span><span class="english">you misrepresent what's in the plan, we will call you out.</span></p>

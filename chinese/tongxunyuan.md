@@ -1,5 +1,7 @@
 # 通讯员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxunyuan.md)
+
 <p><span class="chinese">请看我们的洛杉矶通讯员彼得波尔斯。</span><span class="english">Watching was our LA correspondent Peter Bowes.</span></p>
 
 <p><span class="chinese">铁虎将通讯员老胡牺牲的消息告诉众人。</span><span class="english">Iron Iliad correspondent khufu sacrifice of the news to all.</span></p>

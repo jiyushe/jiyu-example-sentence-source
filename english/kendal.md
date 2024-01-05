@@ -1,5 +1,7 @@
 # kendal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kendal.md)
+
 <p><span class="chinese">肯德尔转过身，那人关上了门。</span><span class="english">Kendal turned, and the man shut the door.</span></p>
 
 <p><span class="chinese">肯德尔将钞票放在他的桌上看着。</span><span class="english">Kendal put the note on his table and looked at it.</span></p>

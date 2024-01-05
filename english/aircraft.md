@@ -1,5 +1,7 @@
 # aircraft 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aircraft.md)
+
 <p><span class="chinese">'整流'。''罩飞机的引擎外罩。</span><span class="english">The cowling on an aircraft.</span></p>
 
 <p><span class="chinese">飞机在上空发出嗡嗡声。</span><span class="english">An aircraft droned overhead.</span></p>

@@ -1,5 +1,7 @@
 # invertible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invertible.md)
+
 <p><span class="chinese">矩阵是否可逆的两种。</span><span class="english">Either the matrix is invertible.</span></p>
 
 <p><span class="chinese">无限维球面可逆吗？</span><span class="english">Are Infinite Dimensional Spheres Invertible?</span></p>

@@ -1,5 +1,7 @@
 # 转交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanjiao.md)
+
 <p><span class="chinese">我写给他的信由李同志转交。</span><span class="english">I wrote to him care of Comrade Li.</span></p>
 
 <p><span class="chinese">慷慨的赏赐，却不予转交？</span><span class="english">The bounteous largess given thee to give?</span></p>

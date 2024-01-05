@@ -1,5 +1,7 @@
 # 雷公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leigong.md)
+
 <p><span class="chinese">雷公制造雷声来处罚做坏事的人。</span><span class="english">God of Thunder produces thunder to punish evildoers.</span></p>
 
 <p><span class="chinese">在服用雷公藤的那些人中有12人因这些原因离开研究。</span><span class="english">Among those taking TwHF extract, 12 left the study for these reasons.</span></p>

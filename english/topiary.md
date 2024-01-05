@@ -1,5 +1,7 @@
 # topiary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topiary.md)
+
 <p><span class="chinese">对待文章之用心，要么像修剪花草或摆弄盆栽，要么像精雕细琢或。</span><span class="english">Approach it like topiary. Or bonsai gardening.</span></p>
 
 <p><span class="chinese">在英国的园林修剪图案之旅。</span><span class="english">A pictorial tour of topiary in English gardens.</span></p>

@@ -1,5 +1,7 @@
 # 闻声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wensheng.md)
+
 <p><span class="chinese">对不起，我什么也没闻声。</span><span class="english">Sorry, I don't hear anything.</span></p>
 
 <p><span class="chinese">你闻声他的用词了吗，林顿？</span><span class="english">Did you notice his language, Linton?</span></p>

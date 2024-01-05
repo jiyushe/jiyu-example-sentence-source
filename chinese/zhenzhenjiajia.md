@@ -1,5 +1,7 @@
 # 真真假假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhenjiajia.md)
+
 <p><span class="chinese">那些真真假假我们真的输不起。</span><span class="english">True or true us who can not afford to lose.</span></p>
 
 <p><span class="chinese">算了，反正真真假假乱扯一通好了。</span><span class="english">Well, anyway, true or false chaos to pull a good.</span></p>

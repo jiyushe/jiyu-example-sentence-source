@@ -1,5 +1,7 @@
 # wap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wap.md)
+
 <p><span class="chinese">这个电话有WAP功能。</span><span class="english">This phone is WAP enabled.</span></p>
 
 <p><span class="chinese">她的鞭子轻轻的拍打在大腿上，啪，啪，啪。</span><span class="english">Her whip slapped softly against her thigh, wap wap wap.</span></p>

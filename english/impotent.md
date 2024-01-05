@@ -1,5 +1,7 @@
 # impotent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impotent.md)
+
 <p><span class="chinese">不要让他感到他在工作上是无能之辈。</span><span class="english">Don't make him feel impotent about work.</span></p>
 
 <p><span class="chinese">我知道我们没有机会了，无力感席卷了我们。</span><span class="english">I knew we had no chance. We felt impotent.</span></p>

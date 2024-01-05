@@ -1,5 +1,7 @@
 # electrolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrolysis.md)
+
 <p><span class="chinese">法拉第做了银的电解实验。</span><span class="english">Faraday conducted electrolysis of silver.</span></p>
 
 <p><span class="chinese">好了，电解水消耗了能量。</span><span class="english">Well, electrolysis of water consumes energy.</span></p>

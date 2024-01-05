@@ -1,5 +1,7 @@
 # bicyclist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bicyclist.md)
+
 <p><span class="chinese">这一个骑脚踏车者似乎是稍微鱼似！</span><span class="english">This bicyclist seems a little fishy!</span></p>
 
 <p><span class="chinese">今天上班的路上看到一群骑单车的人。</span><span class="english">Today on my way to work I saw a flock of bicyclist.</span></p>

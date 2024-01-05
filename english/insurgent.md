@@ -1,5 +1,7 @@
 # insurgent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insurgent.md)
+
 <p><span class="chinese">印度东北地区的反叛组织从中国获得了帮助？</span><span class="english">Insurgent groups in N- E getting help from China?</span></p>
 
 <p><span class="chinese">摩苏尔是叛军暴力的最新温床。</span><span class="english">Mosul is the latest hotbed of insurgent violence.</span></p>

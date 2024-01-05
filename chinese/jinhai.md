@@ -1,5 +1,7 @@
 # 近海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinhai.md)
+
 <p><span class="chinese">港威年夜厦，它是否附近海港城？</span><span class="english">Gateway Tower. Is it near the Harbour City?</span></p>
 
 <p><span class="chinese">近海的涡轮机在花费的成本上几乎要比一般的涡轮机贵上两倍.</span><span class="english">Offshore turbines are almost twice as expensive.</span></p>

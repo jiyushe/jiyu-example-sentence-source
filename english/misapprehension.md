@@ -1,5 +1,7 @@
 # misapprehension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misapprehension.md)
+
 <p><span class="chinese">他的声明澄清了一些误解。</span><span class="english">His statement cleared away some misapprehension.</span></p>
 
 <p><span class="chinese">双方之间的战争起因于误会。</span><span class="english">The fighting between the two sides rose from misapprehension.</span></p>

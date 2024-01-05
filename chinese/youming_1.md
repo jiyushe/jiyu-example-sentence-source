@@ -1,5 +1,7 @@
 # 有名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youming_1.md)
+
 <p><span class="chinese">他是个有名的剑客。</span><span class="english">He is renowned swordsman.</span></p>
 
 <p><span class="chinese">荆轲刺秦这么有名的故事。</span><span class="english">It is a well-known story.</span></p>

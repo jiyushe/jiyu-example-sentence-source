@@ -1,5 +1,7 @@
 # 硅胶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guijiao.md)
+
 <p><span class="chinese">你的大胸部是硅胶的吗?。</span><span class="english">Are your tatas silicone?</span></p>
 
 <p><span class="chinese">信越硅胶老品牌，值得信赖！</span><span class="english">ShinEtsu silicone old brand, trusted!</span></p>

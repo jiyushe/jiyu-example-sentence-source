@@ -1,5 +1,7 @@
 # 平板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingban.md)
+
 <p><span class="chinese">玻璃平板上没有原件。</span><span class="english">No original on platen glass.</span></p>
 
 <p><span class="chinese">上图是一副1835年的平板画，画中的是红夹克酋长，一位美洲原住民塞内卡族酋长。</span><span class="english">a Native American Seneca chief.</span></p>

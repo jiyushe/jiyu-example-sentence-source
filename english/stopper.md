@@ -1,5 +1,7 @@
 # stopper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stopper.md)
+
 <p><span class="chinese">脚伸到门底下当门吸。</span><span class="english">Foot under an opening door as a door stopper.</span></p>
 
 <p><span class="chinese">断火限位器是起重电气的一种。</span><span class="english">Fire stopper is lifting off a kind of electric.</span></p>

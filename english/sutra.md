@@ -1,5 +1,7 @@
 # sutra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sutra.md)
+
 <p><span class="chinese">我草，真他妈的经典！</span><span class="english">I grass, really he mother sutra !</span></p>
 
 <p><span class="chinese">我和大家分享此心经。</span><span class="english">I share the Heart Sutra with you.</span></p>

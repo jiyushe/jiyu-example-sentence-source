@@ -1,5 +1,7 @@
 # josephson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/josephson.md)
+
 <p><span class="chinese">约瑟夫森在接受采访时表示。</span><span class="english">Josephson remarked in an interview.</span></p>
 
 <p><span class="chinese">Josephson未参与这项新研究。</span><span class="english">Josephson was not involved in the new research.</span></p>

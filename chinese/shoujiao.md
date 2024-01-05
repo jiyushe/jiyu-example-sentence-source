@@ -1,5 +1,7 @@
 # 手脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoujiao.md)
+
 <p><span class="chinese">你会放开手脚，享受跑步！</span><span class="english">You are open to enjoy it!</span></p>
 
 <p><span class="chinese">我们都得伸伸手脚了。</span><span class="english">We all need a good stretch.</span></p>

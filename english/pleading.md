@@ -1,5 +1,7 @@
 # pleading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pleading.md)
+
 <p><span class="chinese">那是强词夺理。</span><span class="english">That's a special pleading.</span></p>
 
 <p><span class="chinese">上尉还在那里像先前一样三言两语地恳求着。</span><span class="english">There was the captain curtly pleading as before.</span></p>

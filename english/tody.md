@@ -1,5 +1,7 @@
 # tody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tody.md)
+
 <p><span class="chinese">今日你觉得怎么样?。</span><span class="english">How re you feeling tody?</span></p>
 
 <p><span class="chinese">她今天显得十分紧张。</span><span class="english">She seems very tense tody.</span></p>

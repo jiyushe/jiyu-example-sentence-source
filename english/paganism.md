@@ -1,5 +1,7 @@
 # paganism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paganism.md)
+
 <p><span class="chinese">她放弃异教而改信基督教。</span><span class="english">She abandoned paganism for Christianity.</span></p>
 
 <p><span class="chinese">“政治宗教”这个提法不过是异教信仰与偶像崇拜做法的回归。</span><span class="english">His notion of political religion is one of a great regression to paganism and idol worship.</span></p>

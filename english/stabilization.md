@@ -1,5 +1,7 @@
 # stabilization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stabilization.md)
+
 <p><span class="chinese">第五，建立平准基金。</span><span class="english">Fifth, to establish stabilization fund.</span></p>
 
 <p><span class="chinese">双重图像稳定的2合1防抖解决方案。</span><span class="english">Dual Image Stabilization The 2-in-1 anti-blur solution.</span></p>

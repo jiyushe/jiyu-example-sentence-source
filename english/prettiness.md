@@ -1,5 +1,7 @@
 # prettiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prettiness.md)
+
 <p><span class="chinese">你是个漂亮的公主！</span><span class="english">You are a prettiness princess!</span></p>
 
 <p><span class="chinese">这跟漂亮有什么关系？</span><span class="english">What does prettiness have to do with this?</span></p>

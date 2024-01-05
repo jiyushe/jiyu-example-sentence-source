@@ -1,5 +1,7 @@
 # 紫菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zicai.md)
+
 <p><span class="chinese">我的女儿喜欢我的紫菜卷。</span><span class="english">My daughter now loves my raw nori rolls.</span></p>
 
 <p><span class="chinese">蕃茄蛋花紫菜酸辣海鲜任选！</span><span class="english">Tomato egg flower laver acid seafood choose!</span></p>

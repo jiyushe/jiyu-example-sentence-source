@@ -1,5 +1,7 @@
 # forwarder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forwarder.md)
+
 <p><span class="chinese">今天我联系了上海的货运公司。</span><span class="english">I have contacted withtheShanghai xxx forwarder today.</span></p>
 
 <p><span class="chinese">它被配置来执行递归或者使用转发器。</span><span class="english">It's configured to perform recursion or use a forwarder.</span></p>

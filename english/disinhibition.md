@@ -1,5 +1,7 @@
 # disinhibition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disinhibition.md)
+
 <p><span class="chinese">不过，男性的抑制解除评分比女性低。</span><span class="english">However, men score lower in disinhibition than women.</span></p>
 
 <p><span class="chinese">问题是，网络抑制解除效应是把双刃剑。</span><span class="english">The problem is, the online disinhibition effect works in both positive and negative ways.</span></p>

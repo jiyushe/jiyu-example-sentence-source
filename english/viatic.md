@@ -1,5 +1,7 @@
 # viatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viatic.md)
+
 <p><span class="chinese">该网站是将旅行产品以“尾单”的形式向用户定向推送。</span><span class="english">This website is viatic product the form with " end odd " to the user directional push send.</span></p>
 
 <p><span class="chinese">立马走旅行网，2011年11月在北京正式宣布成立。</span><span class="english">Take viatic network immediately, announced formally to hold water in Beijing in November 2011.</span></p>

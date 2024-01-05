@@ -1,5 +1,7 @@
 # fertile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fertile.md)
+
 <p><span class="chinese">这儿的土够肥的。</span><span class="english">The soil here is quite fertile.</span></p>
 
 <p><span class="chinese">这片肥沃的土地上长什么都行。</span><span class="english">Anything grows in this fertile ground.</span></p>

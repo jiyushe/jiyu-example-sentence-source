@@ -1,5 +1,7 @@
 # heterozygous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterozygous.md)
+
 <p><span class="chinese">当两个等位基因不同时，称之为杂合性的。</span><span class="english">When the two alleles are not identical, they are said to be heterozygous.</span></p>
 
 <p><span class="chinese">呈杂合子状态的某些常染色体易位完全可以生活的。</span><span class="english">Certain autosomal translocations in the heterozygous state can be fully viable.</span></p>

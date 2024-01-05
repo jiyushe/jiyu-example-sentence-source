@@ -1,5 +1,7 @@
 # 死机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siji_4.md)
+
 <p><span class="chinese">死机了。</span><span class="english">It crashed.</span></p>
 
 <p><span class="chinese">它总是死机。</span><span class="english">It keeps crashing.</span></p>

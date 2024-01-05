@@ -1,5 +1,7 @@
 # undergrad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undergrad.md)
+
 <p><span class="chinese">我是本科生。</span><span class="english">I am an undergrad.</span></p>
 
 <p><span class="chinese">我的本科专业是历史。</span><span class="english">My undergrad is history.</span></p>

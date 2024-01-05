@@ -1,5 +1,7 @@
 # foursquare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foursquare.md)
+
 <p><span class="chinese">那么，为什么人们关心Foursquare停机？</span><span class="english">So, why do people care about Foursquare being down?</span></p>
 
 <p><span class="chinese">Foursquare花了仅仅一年的时间就突破了一百万用户量。</span><span class="english">It took Foursquare just over a year to get a million users.</span></p>

@@ -1,5 +1,7 @@
 # humbling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humbling.md)
+
 <p><span class="chinese">开眼界并且我非常谦卑。</span><span class="english">Eye-opening and very humbling.</span></p>
 
 <p><span class="chinese">这是一种令人激动和震撼人心的经验。</span><span class="english">This was an exciting and a humbling experience.</span></p>

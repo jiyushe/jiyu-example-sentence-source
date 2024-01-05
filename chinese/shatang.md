@@ -1,5 +1,7 @@
 # 砂糖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shatang.md)
+
 <p><span class="chinese">这套茶具是以砂糖为原料做成的。</span><span class="english">A tea set made of sugar.</span></p>
 
 <p><span class="chinese">砂糖溶解于水。</span><span class="english">Dissolve the sugar in water.</span></p>

@@ -1,5 +1,7 @@
 # otf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/otf.md)
+
 <p><span class="chinese">一种基于光学传递函数稳定性的波前编码相位板简单优化方法。</span><span class="english">Simple OTF stability based method for pupil phase mask′s optimization in wavefront coding system.</span></p>
 
 <p><span class="chinese">采用基于光学传递函数的物理光学方法分析平均流动和湍流对光质的影响。</span><span class="english">Aero-optical effects are analyzed with the physics optics by introducing the mean flow OTF and turbulence OTF.</span></p>

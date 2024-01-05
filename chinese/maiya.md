@@ -1,5 +1,7 @@
 # 麦芽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maiya.md)
+
 <p><span class="chinese">麦芽，不论是否焙制。</span><span class="english">Malt, whether or not roasted.</span></p>
 
 <p><span class="chinese">那是蟒蛇牌麦芽酒吗？</span><span class="english">Is that Anaconda Malt Liquor ?</span></p>

@@ -1,5 +1,7 @@
 # zarathustra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zarathustra.md)
+
 <p><span class="chinese">是的，我认出了查拉图斯特拉。</span><span class="english">Yes, I recognize Zarathustra.</span></p>
 
 <p><span class="chinese">施特劳斯的查拉图斯特拉就是首交响诗</span><span class="english">The Strauss Zarathustra is a tone poem.</span></p>

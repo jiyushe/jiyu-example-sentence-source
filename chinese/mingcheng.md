@@ -1,5 +1,7 @@
 # 名城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingcheng.md)
+
 <p><span class="chinese">这座历史名城建于公元912年。</span><span class="english">This historical city was founded in 912.</span></p>
 
 <p><span class="chinese">这座历史名城有着其繁忙的千樯林立的港口。</span><span class="english">The historic city had its busy ship-filled harbor.</span></p>

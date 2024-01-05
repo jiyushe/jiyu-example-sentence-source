@@ -1,5 +1,7 @@
 # cliffside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cliffside.md)
+
 <p><span class="chinese">相比在古老的生命之旅上的损失，悬崖边上的旅程看起来并没有那么糟糕了。</span><span class="english">Given the loss of that ancient way of life, a cliffside dive may not look so bad.</span></p>
 
 <p><span class="chinese">27具遗骸在尼泊尔崖边洞穴中被发现，包括男人、女人和小孩。</span><span class="english">The remains of 27 ancient men, women, and children have been found in cliffside caves in Nepal.</span></p>

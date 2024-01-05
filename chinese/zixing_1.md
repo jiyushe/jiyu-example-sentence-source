@@ -1,5 +1,7 @@
 # 自省
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixing_1.md)
+
 <p><span class="chinese">你无法通过自省而感受到它们的存在。</span><span class="english">You can't introspect and find them.</span></p>
 
 <p><span class="chinese">这就是持续的自省。</span><span class="english">It is the continual process of self-review.</span></p>

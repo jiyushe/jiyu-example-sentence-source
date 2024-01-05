@@ -1,5 +1,7 @@
 # 闲聊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianliao.md)
+
 <p><span class="chinese">然后我们坐下来闲聊。</span><span class="english">Then we sit and talk.</span></p>
 
 <p><span class="chinese">乙闲聊是有帮助的。</span><span class="english">B. Small talk is helpful.</span></p>

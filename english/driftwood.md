@@ -1,5 +1,7 @@
 # driftwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/driftwood.md)
+
 <p><span class="chinese">大量的浮木，但所有的湿。</span><span class="english">Lots of driftwood , but all wet.</span></p>
 
 <p><span class="chinese">添加浮木门建筑部分。</span><span class="english">Added Driftwood Door building part.</span></p>

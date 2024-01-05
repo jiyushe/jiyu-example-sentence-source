@@ -1,5 +1,7 @@
 # skeptical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skeptical.md)
+
 <p><span class="chinese">那勒心存怀疑</span><span class="english">Nala is skeptical.</span></p>
 
 <p><span class="chinese">告诉你们吧，我是个多疑的人。</span><span class="english">Let me tell you, I was skeptical.</span></p>

@@ -1,5 +1,7 @@
 # york
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/york.md)
+
 <p><span class="chinese">纽约真热。</span><span class="english">It is hot in New York.</span></p>
 
 <p><span class="chinese">我们乘公共汽车到纽约去。</span><span class="english">We bussed to New York.</span></p>

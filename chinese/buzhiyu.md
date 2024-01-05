@@ -1,5 +1,7 @@
 # 不至于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhiyu.md)
+
 <p><span class="chinese">我知道我听起来很挑剔，其实也不至于。</span><span class="english">I know I sound a prig . I'm not.</span></p>
 
 <p><span class="chinese">或许是空虚的，但不至于会那么空虚吧。</span><span class="english">Empty perhaps but not as empty as that.</span></p>

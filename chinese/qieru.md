@@ -1,5 +1,7 @@
 # 切入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieru.md)
+
 <p><span class="chinese">他用锯子深切入树身。</span><span class="english">He gashed the tree with a saw.</span></p>
 
 <p><span class="chinese">让我们切入正题。</span><span class="english">So, we need to get down to that.</span></p>

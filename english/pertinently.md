@@ -1,5 +1,7 @@
 # pertinently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pertinently.md)
+
 <p><span class="chinese">应有针对性地采取措施，迎接挑战。</span><span class="english">Measures should be taken pertinently to receive challenges.</span></p>
 
 <p><span class="chinese">话讲得多是一回事，讲得恰当是另一回事。</span><span class="english">It is one thing to speak much and another to speak pertinently.</span></p>

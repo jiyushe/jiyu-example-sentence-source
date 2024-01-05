@@ -1,5 +1,7 @@
 # 小青年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqingnian.md)
+
 <p><span class="chinese">小青年逃了。</span><span class="english">The youth fled.</span></p>
 
 <p><span class="chinese">他不过是个小青年。</span><span class="english">He is just a lad.</span></p>

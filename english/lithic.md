@@ -1,5 +1,7 @@
 # lithic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithic.md)
+
 <p><span class="chinese">研究区长2储层为中-细粒长石砂岩、岩屑长石砂岩，孔隙类型主要为粒间孔和溶蚀孔隙。</span><span class="english">The Chang 2 reservoir in the study area is medium to fine arkose and lithic arkose.</span></p>
 
 <p><span class="chinese">储层碎屑成分以岩屑和石英为主，几乎不含长石。</span><span class="english">Detrital component of reservoirs are main lithic fragment and quartz without feldspar.</span></p>

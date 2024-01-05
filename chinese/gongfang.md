@@ -1,5 +1,7 @@
 # 工房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongfang.md)
+
 <p><span class="chinese">在建筑工地的旁边新盖了一栋工房。</span><span class="english">A new work shed has been set up near the construction site.</span></p>
 
 <p><span class="chinese">创异工房由上海佳利特实业有限公司投资建设和管理。</span><span class="english">ESPACE is invested and run by Shanghai Great Industry Co. , Ltd.</span></p>

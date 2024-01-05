@@ -1,5 +1,7 @@
 # 蝶骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diegu.md)
+
 <p><span class="chinese">目的探讨内侧型蝶骨嵴脑膜瘤手术治疗。</span><span class="english">Objective To discuss the surgical treatment of medial sphenoid ridge meningioma.</span></p>
 
 <p><span class="chinese">蝶骨翼发育不良是NF-1诊断的六个临床规范之一。</span><span class="english">Sphenoid wing dysplasia is one of six clinical criteria for the diagnosis of NF-1.</span></p>

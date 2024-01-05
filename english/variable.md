@@ -1,5 +1,7 @@
 # variable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/variable.md)
+
 <p><span class="chinese">变量描述符?。</span><span class="english">VD? Variable Descriptor?</span></p>
 
 <p><span class="chinese">可变数据区?。</span><span class="english">VDA? Variable Data Area?</span></p>

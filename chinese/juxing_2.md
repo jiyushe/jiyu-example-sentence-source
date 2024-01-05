@@ -1,5 +1,7 @@
 # 矩形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juxing_2.md)
+
 <p><span class="chinese">我们放泥土在矩形碟子里面。</span><span class="english">We put dirt in square trays.</span></p>
 
 <p><span class="chinese">在编辑器窗口中的矩形字段。</span><span class="english">Rect field in an Editor Window.</span></p>

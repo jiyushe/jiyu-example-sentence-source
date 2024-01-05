@@ -1,5 +1,7 @@
 # subarachnoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subarachnoid.md)
+
 <p><span class="chinese">蛛网膜下室管膜囊肿是非常少见的。</span><span class="english">Subarachnoid ependymal cysts are extremely rare.</span></p>
 
 <p><span class="chinese">肿瘤侧上下蛛网膜下腔扩大。</span><span class="english">Widened the subarachnoid spare focally above and below the tumors.</span></p>

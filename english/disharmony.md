@@ -1,5 +1,7 @@
 # disharmony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disharmony.md)
+
 <p><span class="chinese">是什么原因让我们产生了不和协？</span><span class="english">What is causing our disharmony?</span></p>
 
 <p><span class="chinese">这就造成了冲突和不和谐。</span><span class="english">This creates conflict and disharmony.</span></p>

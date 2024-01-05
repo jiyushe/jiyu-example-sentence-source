@@ -1,5 +1,7 @@
 # bbs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bbs.md)
+
 <p><span class="chinese">来游戏上冻了，为BBS也很高兴。</span><span class="english">I was very glad to come in BBS.</span></p>
 
 <p><span class="chinese">我在留言版上读到了一些雷人的新闻。</span><span class="english">I read some startling news today on BBS.</span></p>

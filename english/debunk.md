@@ -1,5 +1,7 @@
 # debunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debunk.md)
+
 <p><span class="chinese">我会给你揭开谜底</span><span class="english">I'll debunk it for you."</span></p>
 
 <p><span class="chinese">结果形成了一份“十大”名单来揭穿这一秘密。</span><span class="english">The result is a top 10 list to debunk the myths.</span></p>

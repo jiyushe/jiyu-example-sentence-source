@@ -1,5 +1,7 @@
 # jal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jal.md)
+
 <p><span class="chinese">日航800纽约班机何时抵达？</span><span class="english">When do jal flight 800 from new york arrive?</span></p>
 
 <p><span class="chinese">日航留在寰宇一家具有极大价值.我们正与美国航空和其他联盟成员向日航展示这点.</span><span class="english">There is huge value for JAL in being in Oneworld.</span></p>

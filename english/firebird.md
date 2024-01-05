@@ -1,5 +1,7 @@
 # firebird
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firebird.md)
+
 <p><span class="chinese">火鸟没有排序规则简体版?。</span><span class="english">Firebird don't have Collate for GB2312?</span></p>
 
 <p><span class="chinese">是我第一次看到表哥托尼的崭新的“火鸟”车。</span><span class="english">And the first time I saw my cousin Tony's brand new Firebird.</span></p>

@@ -1,5 +1,7 @@
 # 大刀阔斧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadaokuofu.md)
+
 <p><span class="chinese">国会大刀阔斧地削减预算。</span><span class="english">Congress axed the budget.</span></p>
 
 <p><span class="chinese">他会像终结者那样大刀阔斧改革不正常的机制。</span><span class="english">He would slay the system, like the Terminator.</span></p>

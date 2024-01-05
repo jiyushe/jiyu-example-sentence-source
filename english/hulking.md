@@ -1,5 +1,7 @@
 # hulking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hulking.md)
+
 <p><span class="chinese">靠我们自己没法搬动那张又大又笨重的办公桌。</span><span class="english">We can't move that hulking great desk on our own.</span></p>
 
 <p><span class="chinese">她怒气冲冲地回到她那辆又大又笨的运动型多用车上，加大了油门。</span><span class="english">She huffs back to her hulking SUV, revs the engine.</span></p>

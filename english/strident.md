@@ -1,5 +1,7 @@
 # strident
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strident.md)
+
 <p><span class="chinese">谴责只会让事态变得更加尖锐。</span><span class="english">Denunciations will only grow more strident.</span></p>
 
 <p><span class="chinese">然而，在最后的章节中，它却采取了更为尖锐的表达。</span><span class="english">In the final chapter, however, he adopts a far more strident voice.</span></p>

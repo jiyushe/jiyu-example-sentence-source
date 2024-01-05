@@ -1,5 +1,7 @@
 # 游逛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youguang_1.md)
+
 <p><span class="chinese">昨天女儿玛利亚带我们四周游逛。</span><span class="english">Daughter Maria took us around yesterday.</span></p>
 
 <p><span class="chinese">她一个夏天在欧洲游逛。</span><span class="english">She spent the summer swanning around Europe.</span></p>

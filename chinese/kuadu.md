@@ -1,5 +1,7 @@
 # 跨度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuadu.md)
+
 <p><span class="chinese">它的跨度长达4，260英尺。</span><span class="english">It has a span of 4,260 feet.</span></p>
 
 <p><span class="chinese">电影的时间跨度达到一年。</span><span class="english">The time-line of the film spans a year.</span></p>

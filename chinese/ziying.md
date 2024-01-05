@@ -1,5 +1,7 @@
 # 自营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziying.md)
+
 <p><span class="chinese">如果你是自营商的身分有时候可以少付些税金。</span><span class="english">Sometimes you pay fewer taxes if you're self-employed.</span></p>
 
 <p><span class="chinese">我公司拥有进出口自营权。</span><span class="english">The company can do import and export business by itself.</span></p>

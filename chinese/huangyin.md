@@ -1,5 +1,7 @@
 # 荒淫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangyin.md)
+
 <p><span class="chinese">他行为荒淫，很快便挥霍掉了一大笔财富。</span><span class="english">He soon kissed away a large fortune.</span></p>
 
 <p><span class="chinese">它有可能会趋于荒淫和滥用。</span><span class="english">It can be subject to excesses and abuse.</span></p>

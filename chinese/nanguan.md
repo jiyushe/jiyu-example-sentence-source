@@ -1,5 +1,7 @@
 # 难关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanguan.md)
+
 <p><span class="chinese">“而且我认为，他们定将度过难关”。</span><span class="english">And I think they will.</span></p>
 
 <p><span class="chinese">指闯过难关的能力。</span><span class="english">Power-what one can do.</span></p>

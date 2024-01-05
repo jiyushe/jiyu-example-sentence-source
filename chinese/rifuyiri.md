@@ -1,5 +1,7 @@
 # 日复一日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rifuyiri.md)
+
 <p><span class="chinese">在日复一日的等待中。</span><span class="english">In day-after-day waiting.</span></p>
 
 <p><span class="chinese">远隔重洋，日复一日。</span><span class="english">Oceans apart day after day.</span></p>

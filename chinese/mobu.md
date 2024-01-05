@@ -1,5 +1,7 @@
 # 莫不
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mobu.md)
+
 <p><span class="chinese">整个行业莫不希望能如他所言。</span><span class="english">The entire industry hopes they do.</span></p>
 
 <p><span class="chinese">莫不为之鼓舞。</span><span class="english">There was no one who was uninspired.</span></p>

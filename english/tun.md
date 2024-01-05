@@ -1,5 +1,7 @@
 # tun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tun.md)
+
 <p><span class="chinese">“敦品励学”是学校新颖独特的校训。</span><span class="english">Xue Li Tun goods" is a unique new school motto."</span></p>
 
 <p><span class="chinese">在三里屯酒吧街，人们可以去不同的类型酒吧。</span><span class="english">We have a lot of choices in San Li Tun Bar Street.</span></p>

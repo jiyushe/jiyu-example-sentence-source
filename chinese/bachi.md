@@ -1,5 +1,7 @@
 # 把持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bachi.md)
+
 <p><span class="chinese">她把持着让我一直在她身体里。</span><span class="english">She kept holding me inside her.</span></p>
 
 <p><span class="chinese">那是仍然由熊市把持的点位。</span><span class="english">The bear market would still be in control.</span></p>

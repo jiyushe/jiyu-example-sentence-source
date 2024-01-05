@@ -1,5 +1,7 @@
 # assimilate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assimilate.md)
+
 <p><span class="chinese">某种食物易被吸收。</span><span class="english">Some kinds of food assimilate easily.</span></p>
 
 <p><span class="chinese">欧洲人和犹太人不易同化。</span><span class="english">Europeans and Jews do not readily assimilate.</span></p>

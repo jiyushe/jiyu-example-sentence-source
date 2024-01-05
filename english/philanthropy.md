@@ -1,5 +1,7 @@
 # philanthropy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philanthropy.md)
+
 <p><span class="chinese">巴菲特也以他的慷慨好施为闻名。</span><span class="english">But Buffett is also known for his philanthropy.</span></p>
 
 <p><span class="chinese">让我们对所有这一切虚假的慈善事业叫停。</span><span class="english">Let us call for an end to all this false philanthropy.</span></p>

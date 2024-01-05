@@ -1,5 +1,7 @@
 # turbidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turbidity.md)
+
 <p><span class="chinese">颜色和浊度。</span><span class="english">Colour and turbidity.</span></p>
 
 <p><span class="chinese">简要叙述浊度是衡量水。的一项重要指标。</span><span class="english">Turbidity is an important index for drinking water.</span></p>

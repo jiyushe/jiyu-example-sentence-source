@@ -1,5 +1,7 @@
 # 兴起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingqi.md)
+
 <p><span class="chinese">自治领的兴起。</span><span class="english">The growth of dominions.</span></p>
 
 <p><span class="chinese">现在我将真事指示你，波斯还有三王兴起，第四王必富足远胜诸王。</span><span class="english">And now will I shew thee the truth.</span></p>

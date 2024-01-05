@@ -1,5 +1,7 @@
 # wrung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrung.md)
+
 <p><span class="chinese">他把抹布拧干了。</span><span class="english">He wrung out the rag.</span></p>
 
 <p><span class="chinese">由于焦虑，他感到疲乏不堪。</span><span class="english">He feels wrung out with anxiety.</span></p>

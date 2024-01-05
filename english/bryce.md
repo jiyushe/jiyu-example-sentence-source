@@ -1,5 +1,7 @@
 # bryce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bryce.md)
+
 <p><span class="chinese">你和布莱斯·洛斯奇发生什么事了？</span><span class="english">What's going on with you and Bryce Loski?</span></p>
 
 <p><span class="chinese">这是印第安人讲的有关布赖斯峡谷派尤特印第安人的神话。</span><span class="english">Indian legend of Bryce Canyon as told by Indian Dick.</span></p>

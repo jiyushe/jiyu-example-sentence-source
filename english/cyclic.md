@@ -1,5 +1,7 @@
 # cyclic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclic.md)
+
 <p><span class="chinese">循环码的矩阵描述。</span><span class="english">Matrix description of cyclic codes.</span></p>
 
 <p><span class="chinese">该范围作为一个循环流实现。</span><span class="english">The scope is implemented as a cyclic flow.</span></p>

@@ -1,5 +1,7 @@
 # 甚至
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenzhi_1.md)
+
 <p><span class="chinese">甚至我。</span><span class="english">Even me.</span></p>
 
 <p><span class="chinese">我甚至讨厌它。</span><span class="english">I hated it.</span></p>

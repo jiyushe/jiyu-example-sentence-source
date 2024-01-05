@@ -1,5 +1,7 @@
 # wrack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrack.md)
+
 <p><span class="chinese">原来的计划几乎一点残迹也未留下。</span><span class="english">Of the original scheme hardly a wrack remains.</span></p>
 
 <p><span class="chinese">这城市的残骸，仍因火灾还是热的。</span><span class="english">The wrack of the city was still hot from the fire.</span></p>

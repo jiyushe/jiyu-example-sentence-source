@@ -1,5 +1,7 @@
 # 足以
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuyi_1.md)
+
 <p><span class="chinese">他拥有一个足以自豪的农场。</span><span class="english">He boasted a fine ranch.</span></p>
 
 <p><span class="chinese">那足以证明这论点。</span><span class="english">That supports the argument.</span></p>

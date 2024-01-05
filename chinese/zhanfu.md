@@ -1,5 +1,7 @@
 # 战俘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanfu.md)
+
 <p><span class="chinese">大部分的战俘在数周内丢掉性命.</span><span class="english">Most of the POWs died within weeks.</span></p>
 
 <p><span class="chinese">两军交换了战俘。</span><span class="english">The two armies exchanged prisoners.</span></p>

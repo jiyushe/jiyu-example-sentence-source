@@ -1,5 +1,7 @@
 # miscalculation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miscalculation.md)
+
 <p><span class="chinese">这是一个严重的错误。</span><span class="english">That is a grave miscalculation.</span></p>
 
 <p><span class="chinese">目前看来，这点他们算错了。</span><span class="english">As of now, it looks like a miscalculation.</span></p>

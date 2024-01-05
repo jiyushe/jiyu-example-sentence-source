@@ -1,5 +1,7 @@
 # 施加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijia_3.md)
+
 <p><span class="chinese">不要施加压力，不要受制于人。</span><span class="english">Don’t give into pressure.</span></p>
 
 <p><span class="chinese">ON公司竞标Endesa所施加的阻碍是违法的。</span><span class="english">ON's bid for Endesa are illegal.</span></p>

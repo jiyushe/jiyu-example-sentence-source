@@ -1,5 +1,7 @@
 # regalia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regalia.md)
+
 <p><span class="chinese">我把他画成党卫队全副武装的样子。</span><span class="english">I drew him in his SS regalia.</span></p>
 
 <p><span class="chinese">另外他们希望神话般在当地礼服。</span><span class="english">Plus they look fabulous in their local regalia.</span></p>

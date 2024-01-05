@@ -1,5 +1,7 @@
 # 阵脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenjiao_1.md)
+
 <p><span class="chinese">热刺渐渐稳住了阵脚。</span><span class="english">Spurs are steadying themselves.</span></p>
 
 <p><span class="chinese">敌军从背后受到奇袭而乱了阵脚。</span><span class="english">The enemy reeled when surprised from the rear.</span></p>

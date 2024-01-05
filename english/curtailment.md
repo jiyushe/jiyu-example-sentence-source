@@ -1,5 +1,7 @@
 # curtailment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curtailment.md)
+
 <p><span class="chinese">通过陪审团的裁决以削减我们的权力现在正由该政府考虑之中。</span><span class="english">The curtailment of our right to be tried by jury is now under consideration by the Government.</span></p>
 
 <p><span class="chinese">夏威夷已开始节俭能源，但这不会影响大家愉快地度假。</span><span class="english">While energy curtailment has come to Hawaii also, it should not affect the pleasure of your holiday.</span></p>

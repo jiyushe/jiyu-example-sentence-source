@@ -1,5 +1,7 @@
 # 鼎力相助
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinglixiangzhu.md)
+
 <p><span class="chinese">我们感谢他鼎力相助。</span><span class="english">We thank him for all his help.</span></p>
 
 <p><span class="chinese">我们感谢他们的鼎力相助。</span><span class="english">We thanked them for all their help.</span></p>

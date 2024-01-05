@@ -1,5 +1,7 @@
 # 姐姐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejie.md)
+
 <p><span class="chinese">我的姐姐？</span><span class="english">My sisters?</span></p>
 
 <p><span class="chinese">柏里欧有个姐姐。</span><span class="english">Berlioz has—a sister.</span></p>

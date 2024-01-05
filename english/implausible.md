@@ -1,5 +1,7 @@
 # implausible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implausible.md)
+
 <p><span class="chinese">这似乎难以置信的许多功利主义者。</span><span class="english">That seems implausible to many utilitarians.</span></p>
 
 <p><span class="chinese">我觉得这种观点难以置信。</span><span class="english">I've got to say I find that a pretty implausible view.</span></p>

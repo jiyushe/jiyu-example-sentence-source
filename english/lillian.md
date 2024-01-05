@@ -1,5 +1,7 @@
 # lillian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lillian.md)
+
 <p><span class="chinese">我听后赶紧去看莉莉安。</span><span class="english">I rushed to see Lillian.</span></p>
 
 <p><span class="chinese">为什么说这个，莉莲?</span><span class="english">Why do you say that, Lillian?</span></p>

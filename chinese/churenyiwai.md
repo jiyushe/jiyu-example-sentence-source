@@ -1,5 +1,7 @@
 # 出人意外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/churenyiwai.md)
+
 <p><span class="chinese">我觉得这确实出人意外。</span><span class="english">I find it really surprising.</span></p>
 
 <p><span class="chinese">他的离去出人意外。</span><span class="english">His departure was unexpected.</span></p>

@@ -1,5 +1,7 @@
 # 教友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyou_1.md)
+
 <p><span class="chinese">这里有路德会教友吗？</span><span class="english">Any Lutherans in here?</span></p>
 
 <p><span class="chinese">查禁教友派信徒和女巫。</span><span class="english">Quakers and witches are banned.</span></p>

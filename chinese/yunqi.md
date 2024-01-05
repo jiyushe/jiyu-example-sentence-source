@@ -1,5 +1,7 @@
 # 云气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunqi.md)
+
 <p><span class="chinese">倒像是一团辉光云气。</span><span class="english">It looked like a bundle of glowing gas.</span></p>
 
 <p><span class="chinese">最后云气散尽，出现了一张巨大的脸，神情沮丧。</span><span class="english">At last a great sad face looked out of the vapor.</span></p>

@@ -1,5 +1,7 @@
 # 河堤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hedi.md)
+
 <p><span class="chinese">形式如同河堤。</span><span class="english">Form is like the riverbanks.</span></p>
 
 <p><span class="chinese">这河堤是匆匆筑成的。</span><span class="english">An embankment has been thrown up.</span></p>

@@ -1,5 +1,7 @@
 # multiplier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiplier.md)
+
 <p><span class="chinese">那乘数如何呢？</span><span class="english">What’s the multiplier?</span></p>
 
 <p><span class="chinese">超级大力神被证实是一个部队增效器。</span><span class="english">The Super Hercules proved to be a force multiplier.</span></p>

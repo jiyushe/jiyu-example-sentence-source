@@ -1,5 +1,7 @@
 # wispy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wispy.md)
+
 <p><span class="chinese">当我最近在东京见到她时，她已经染成了一缕缕的粉红色。</span><span class="english">When I met her recently in Tokyo, it was a wispy pink.</span></p>
 
 <p><span class="chinese">美国航天局说，在地球上稀疏的白色卷云是由冰晶所组成的。</span><span class="english">On Earth, NASA says, white wispy cirrus clouds are made of ice crystals.</span></p>

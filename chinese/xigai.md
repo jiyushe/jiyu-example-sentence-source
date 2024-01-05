@@ -1,5 +1,7 @@
 # 膝盖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xigai.md)
+
 <p><span class="chinese">我的膝盖瘀青了。</span><span class="english">My knee is bruised.</span></p>
 
 <p><span class="chinese">让我的膝盖不能打弯！</span><span class="english">I can't bend my knees!</span></p>

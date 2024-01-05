@@ -1,5 +1,7 @@
 # 出丑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchou.md)
+
 <p><span class="chinese">让他当众出丑。</span><span class="english">Embarrass him in public.</span></p>
 
 <p><span class="chinese">他出丑还没有出到顶点。</span><span class="english">He did not want to be pinnacled.</span></p>

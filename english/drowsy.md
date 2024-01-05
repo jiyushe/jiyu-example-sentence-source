@@ -1,5 +1,7 @@
 # drowsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drowsy.md)
+
 <p><span class="chinese">檃“drowsy”是什么意思?。</span><span class="english">What does "drowsy" mean?</span></p>
 
 <p><span class="chinese">你在工作时昏昏欲睡？</span><span class="english">Are you feeling drowsy at work?</span></p>

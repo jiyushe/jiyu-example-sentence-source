@@ -1,5 +1,7 @@
 # 烧火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaohuo.md)
+
 <p><span class="chinese">他们的儿子阿牛烧火。</span><span class="english">Their son Aniu lit the fire.</span></p>
 
 <p><span class="chinese">把这些秆子带回去烧火。</span><span class="english">Take these stalks back to burn.</span></p>

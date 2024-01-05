@@ -1,5 +1,7 @@
 # 准时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunshi.md)
+
 <p><span class="chinese">请准时入馆。</span><span class="english">Please arrive on time.</span></p>
 
 <p><span class="chinese">您非常准时。</span><span class="english">You are very punctual.</span></p>

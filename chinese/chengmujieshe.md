@@ -1,5 +1,7 @@
 # 瞠目结舌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengmujieshe.md)
+
 <p><span class="chinese">以其自己的过去评判，巴西干得很棒，令人瞠目结舌。</span><span class="english">Judged against its own past, Brazil is doing astonishingly well.</span></p>
 
 <p><span class="chinese">SIGG的CEO斯蒂夫·沃斯克令哗然的消费者更加瞠目结舌。</span><span class="english">The consumer uproar has been eye-opening for SIGG CEO Steve Wasik.</span></p>

@@ -1,5 +1,7 @@
 # derivative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derivative.md)
+
 <p><span class="chinese">求出S1的导数</span><span class="english">Take a derivative of S1.</span></p>
 
 <p><span class="chinese">我会计算时间导数。</span><span class="english">I take the time derivative.</span></p>

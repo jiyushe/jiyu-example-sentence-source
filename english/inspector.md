@@ -1,5 +1,7 @@
 # inspector 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inspector.md)
+
 <p><span class="chinese">探长马上就开始了提问。</span><span class="english">The Inspector began at once.</span></p>
 
 <p><span class="chinese">检查员看见了那名妇女。</span><span class="english">The inspector saw the woman.</span></p>

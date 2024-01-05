@@ -1,5 +1,7 @@
 # authentic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authentic.md)
+
 <p><span class="chinese">他是真实的。</span><span class="english">He is authentic.</span></p>
 
 <p><span class="chinese">真诚的恭维。</span><span class="english">Give authentic compliments.</span></p>

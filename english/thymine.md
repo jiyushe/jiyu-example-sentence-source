@@ -1,5 +1,7 @@
 # thymine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thymine.md)
+
 <p><span class="chinese">然后他们记录了产生新的胸腺嘧啶键形成的反应。</span><span class="english">Then they timed the reactions that caused the new thymine bonds to form.</span></p>
 
 <p><span class="chinese">腺嘌呤和鸟嘌呤是嘌呤和胞嘧啶和胸腺嘧啶是嘧啶。</span><span class="english">Adenine and guanine are purines and cytosine and thymine are pyrimidines.</span></p>

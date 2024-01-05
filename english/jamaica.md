@@ -1,5 +1,7 @@
 # jamaica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jamaica.md)
+
 <p><span class="chinese">“来牙买加吧”，背景声音说。</span><span class="english">Come to Jamaica says the voice.</span></p>
 
 <p><span class="chinese">我们下一靠岸处应是牙买加。</span><span class="english">Our next landfall should be jamaica.</span></p>

@@ -1,5 +1,7 @@
 # bagdad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bagdad.md)
+
 <p><span class="chinese">在巴格达另两枚炸弹爆炸。</span><span class="english">Then two further bombs exploded in Bagdad.</span></p>
 
 <p><span class="chinese">巴格达的国王驾著魔毯飞到了阿拉伯半岛。</span><span class="english">The caliph of bagdad fly on his magic carpet to Arabia.</span></p>

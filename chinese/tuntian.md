@@ -1,5 +1,7 @@
 # 屯田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuntian.md)
+
 <p><span class="chinese">据考证，可能与当时的屯田制度有关。</span><span class="english">According to research, may be related to the then Tuntian system.</span></p>
 
 <p><span class="chinese">文章指出，屯田在宋夏灵州之战中开始出现，并逐渐由临时补给措施转化为常规补给方式。</span><span class="english">The paper points out that the cultivation appeared for the first time during the war of Lingzhou.</span></p>

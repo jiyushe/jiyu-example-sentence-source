@@ -1,5 +1,7 @@
 # 注目礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhumuli.md)
+
 <p><span class="chinese">把发霉的心事交给流水，向远去的尘埃行个注目礼。</span><span class="english">The rotten heart to water, dust to be a disappearing eyes.</span></p>
 
 <p><span class="chinese">当他的手离开帧，脸上滚行注目礼。</span><span class="english">When his hand leaves the frame , the faces roll their eyes.</span></p>

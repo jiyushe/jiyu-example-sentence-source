@@ -1,5 +1,7 @@
 # damnification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damnification.md)
+
 <p><span class="chinese">通过统计实验用植物叶片伤斑来分析甲醛对植物的损伤情况。</span><span class="english">It evaluates the damnification of plant by formaldehyde employing the the Stat. of the leaf scar.</span></p>
 
 <p><span class="chinese">由于体操动作的非常规性和危险性，是运动损伤多发的项目之一。</span><span class="english">As its unconventionality and danger, gym is one of the items which easily cause sports damnification.</span></p>

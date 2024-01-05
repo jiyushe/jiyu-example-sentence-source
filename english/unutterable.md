@@ -1,5 +1,7 @@
 # unutterable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unutterable.md)
+
 <p><span class="chinese">他的声音里有着多么难以形容的哀愁！</span><span class="english">What unutterable pathos was in his voice!</span></p>
 
 <p><span class="chinese">在那以后，就是无法形容的漫长黑夜了。</span><span class="english">After that the blackness of unutterable night.</span></p>

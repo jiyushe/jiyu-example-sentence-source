@@ -1,5 +1,7 @@
 # 帝王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diwang_1.md)
+
 <p><span class="chinese">它有帝王的野心么？</span><span class="english">Does it habor imperial ambitions?</span></p>
 
 <p><span class="chinese">非人人生来都是作帝王的。</span><span class="english">But all men are not born to reign.</span></p>

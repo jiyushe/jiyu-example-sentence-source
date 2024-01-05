@@ -1,5 +1,7 @@
 # 络合物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luohewu.md)
+
 <p><span class="chinese">氰化物、氧氰化物及氰络合物。</span><span class="english">Cyanides, cyanide oxides and complex cyanides.</span></p>
 
 <p><span class="chinese">本文还对混合型的络合物进行了讨论。</span><span class="english">In addition, the mixed ligand com- plexes are discussed.</span></p>

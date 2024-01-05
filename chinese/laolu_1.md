@@ -1,5 +1,7 @@
 # 老路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laolu_1.md)
+
 <p><span class="chinese">这些老路都需要努力工作以及自律的精神。</span><span class="english">These paths all require work and self-discipline.</span></p>
 
 <p><span class="chinese">我们可能正走在大自然曾走过的老路，步其后尘。</span><span class="english">We may just be following Mother Nature's ancient recipe.</span></p>

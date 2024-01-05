@@ -1,5 +1,7 @@
 # asphalt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asphalt.md)
+
 <p><span class="chinese">有沥青的糖果厂?。</span><span class="english">A sweet factory with asphalt?</span></p>
 
 <p><span class="chinese">多数街道是用柏油铺的。</span><span class="english">Most streets are laid with asphalt.</span></p>

@@ -1,5 +1,7 @@
 # preteen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preteen.md)
+
 <p><span class="chinese">一群十一二岁的小学生。</span><span class="english">A group of preteen schoolchildren.</span></p>
 
 <p><span class="chinese">那时我不到十三岁，正坐在餐桌旁做家庭作业。</span><span class="english">I'm a preteen doing homework at the kitchen table.</span></p>

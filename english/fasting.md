@@ -1,5 +1,7 @@
 # fasting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fasting.md)
+
 <p><span class="chinese">什么是断食？</span><span class="english">What is Fasting?</span></p>
 
 <p><span class="chinese">而且他需要单独持斋。</span><span class="english">And he was fasting alone.</span></p>

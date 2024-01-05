@@ -1,5 +1,7 @@
 # unreduced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreduced.md)
+
 <p><span class="chinese">其中，不减数配子是多倍体形成的主要机制。</span><span class="english">And union of unreduced gametes is the most important mechanism.</span></p>
 
 <p><span class="chinese">在植物中未减数配子非常普遍，他们可能代表了多倍体形成的最普遍的方式。</span><span class="english">Unreduced gametes are common in plants and likely represent the most frequent route to polyploidy.</span></p>

@@ -1,5 +1,7 @@
 # laptop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laptop.md)
+
 <p><span class="chinese">买个笔记本电脑怎么样？</span><span class="english">How about a laptop?</span></p>
 
 <p><span class="chinese">一个非常快的笔记本电脑？</span><span class="english">A epically speedy laptop?</span></p>

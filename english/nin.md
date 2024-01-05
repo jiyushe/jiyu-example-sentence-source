@@ -1,5 +1,7 @@
 # nin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nin.md)
+
 <p><span class="chinese">你是否命名了你的所有的忍狗?他们的名字都是什莫?。</span><span class="english">Q. Did you name all your Nin Dogs? What are their names?</span></p>
 
 <p><span class="chinese">MIN的歌迷同样可以从他的网站免费下载。</span><span class="english">NIN fans can still grab The Slip for free from his web site.</span></p>

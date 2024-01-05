@@ -1,5 +1,7 @@
 # glycerin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycerin.md)
+
 <p><span class="chinese">使用甘油。</span><span class="english">Use glycerin.</span></p>
 
 <p><span class="chinese">干净的那层是甘油。</span><span class="english">The clear layer is glycerin.</span></p>

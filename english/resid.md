@@ -1,5 +1,7 @@
 # resid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resid.md)
+
 <p><span class="chinese">这个用什么？我怎么知道一个资源的id?。</span><span class="english">ResID is the resource ID for the bitmap.</span></p>
 
 <p><span class="chinese">该乳化渣油在燃烧过程中，有较好的雾化效率和燃烧效率。</span><span class="english">Such an emulsified resid provides good atomizing and combustion efficiency.</span></p>

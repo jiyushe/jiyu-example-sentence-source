@@ -1,5 +1,7 @@
 # strainer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strainer.md)
+
 <p><span class="chinese">我们让茶通过滤器。</span><span class="english">We pour tea through a strainer.</span></p>
 
 <p><span class="chinese">这台过滤器是用不锈钢制成。</span><span class="english">This strainer is made of stainless steel.</span></p>

@@ -1,5 +1,7 @@
 # 挥霍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huihuo_1.md)
+
 <p><span class="chinese">他把所有的钱都挥霍了。</span><span class="english">He has blued all his money.</span></p>
 
 <p><span class="chinese">我要纵情欢度此生，我要挥霍我的人生。</span><span class="english">I will spend, squander, dazzle.</span></p>

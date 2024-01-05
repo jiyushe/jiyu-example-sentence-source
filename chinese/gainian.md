@@ -1,5 +1,7 @@
 # 概念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gainian.md)
+
 <p><span class="chinese">这能让你有个概念</span><span class="english">It gives you an idea.</span></p>
 
 <p><span class="chinese">这就是，肉体复活的概念“</span><span class="english">bodily resurrection."</span></p>

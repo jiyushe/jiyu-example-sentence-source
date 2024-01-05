@@ -1,5 +1,7 @@
 # 第三世界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/disanshijie.md)
+
 <p><span class="chinese">中国与印度同属于第三世界。</span><span class="english">China and India are of the third world.</span></p>
 
 <p><span class="chinese">我们何时会沦为第三世界国家？</span><span class="english">When do we become a Third World nation?</span></p>

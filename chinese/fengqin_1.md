@@ -1,5 +1,7 @@
 # 风琴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengqin_1.md)
+
 <p><span class="chinese">风琴在奏鸣。</span><span class="english">The organ is playing.</span></p>
 
 <p><span class="chinese">这架旧风琴呼哧呼哧地响。</span><span class="english">The old organ  wheezed.</span></p>

@@ -1,5 +1,7 @@
 # 天幕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianmu.md)
+
 <p><span class="chinese">看着漆黑天幕中的银色的花。</span><span class="english">Looking at silver bloom against black.</span></p>
 
 <p><span class="chinese">今天的天幕是灰色的。</span><span class="english">Today, the canopy of the heavens is grey.</span></p>

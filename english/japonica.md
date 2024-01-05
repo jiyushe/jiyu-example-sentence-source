@@ -1,5 +1,7 @@
 # japonica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/japonica.md)
+
 <p><span class="chinese">粳米洗净上笼蒸熟，晾干待用。</span><span class="english">Japonica rice cooked Shanglong Zheng Wash , dry stand -by.</span></p>
 
 <p><span class="chinese">研究蔓生百部中微量生物碱的结构。</span><span class="english">Objective To study the alkaloid structures of stemona japonica Miq.</span></p>

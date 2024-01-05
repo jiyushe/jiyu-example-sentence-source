@@ -1,5 +1,7 @@
 # 若有所失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruoyousuoshi.md)
+
 <p><span class="chinese">但还是觉得若有所失。</span><span class="english">But I feel that something is missing.</span></p>
 
 <p><span class="chinese">从你的眼睛里我能看到你若有所失的影踪。</span><span class="english">I get a notion from the look in your eyes, yea.</span></p>

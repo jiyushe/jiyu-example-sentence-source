@@ -1,5 +1,7 @@
 # shakuhachi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shakuhachi.md)
+
 <p><span class="chinese">尺八是一种受到普遍赏识的长笛乐器。</span><span class="english">The shakuhachi is a flute, universally appreciated.</span></p>
 
 <p><span class="chinese">吹奏尺八，可以刺激你的心智，让它保持年轻。</span><span class="english">Playing the shakuhachi stimulates the mind, keeping it young.</span></p>

@@ -1,5 +1,7 @@
 # 快慢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaiman.md)
+
 <p><span class="chinese">你挥动推杆的快慢。</span><span class="english">How fast you swing the putter.</span></p>
 
 <p><span class="chinese">或者能看到一个企业是如何增长的，以及现金流量增长的快慢。</span><span class="english">You may see why the business is growing its cash flow rapidly.</span></p>

@@ -1,5 +1,7 @@
 # 小市民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshimin.md)
+
 <p><span class="chinese">他只不过是一个小市民罢了。</span><span class="english">He is no more than a citizen.</span></p>
 
 <p><span class="chinese">你好，我是一个典型的苏州小市民家庭。</span><span class="english">Hello, I am a typical family man Suzhou.</span></p>

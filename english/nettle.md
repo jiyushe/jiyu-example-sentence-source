@@ -1,5 +1,7 @@
 # nettle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nettle.md)
+
 <p><span class="chinese">并且荨麻需要什么呢？</span><span class="english">And what is required for the nettle?</span></p>
 
 <p><span class="chinese">荨麻在嫩时，叶子是一种非常好吃的蔬菜。</span><span class="english">Nettle cloth is as good as linen cloth.</span></p>

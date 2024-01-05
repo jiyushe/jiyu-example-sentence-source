@@ -1,5 +1,7 @@
 # 监守自盗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianshouzidao.md)
+
 <p><span class="chinese">据法院档案记载，这是一种监守自盗行为。</span><span class="english">This was an inside job, according to court documents.</span></p>
 
 <p><span class="chinese">嗯，这种监守自盗的事很难防范。</span><span class="english">Yeah, it's difficult to keep inside jobs from happening.</span></p>

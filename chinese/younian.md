@@ -1,5 +1,7 @@
 # 幼年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/younian.md)
+
 <p><span class="chinese">耶稣，我幼年的哺育者。</span><span class="english">Jesus, Nourisher of my youth!</span></p>
 
 <p><span class="chinese">爱情从幼年开始就学会了装蒜！</span><span class="english">And love is taught hypocrisy from youth.</span></p>

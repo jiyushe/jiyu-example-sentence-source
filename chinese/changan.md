@@ -1,5 +1,7 @@
 # 长安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changan.md)
+
 <p><span class="chinese">这句话同样适用于新长安。</span><span class="english">It applies equally to new Changan.</span></p>
 
 <p><span class="chinese">唐代建都长安。</span><span class="english">The Tang Dynasty made Chang'an its capital.</span></p>

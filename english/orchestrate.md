@@ -1,5 +1,7 @@
 # orchestrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orchestrate.md)
+
 <p><span class="chinese">我想为你编成管弦乐曲。</span><span class="english">I'd love to orchestrate it for you.</span></p>
 
 <p><span class="chinese">虚拟化系统应为您安排这种情况。</span><span class="english">The virtualization system should orchestrate this for you.</span></p>

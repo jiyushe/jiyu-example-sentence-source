@@ -1,5 +1,7 @@
 # 生命线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengmingxian.md)
+
 <p><span class="chinese">选择单个生命线。</span><span class="english">Select a single lifeline.</span></p>
 
 <p><span class="chinese">选择多个生命线。</span><span class="english">Select multiple lifelines.</span></p>

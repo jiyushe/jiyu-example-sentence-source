@@ -1,5 +1,7 @@
 # 用具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongju.md)
+
 <p><span class="chinese">我可以租钓鱼用具吗？</span><span class="english">Can I rent fishing tackle?</span></p>
 
 <p><span class="chinese">把病房用具还回来。</span><span class="english">Return the utensil, please.</span></p>

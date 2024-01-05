@@ -1,5 +1,7 @@
 # theme 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theme.md)
+
 <p><span class="chinese">主题还是动机</span><span class="english">Theme or motive?</span></p>
 
 <p><span class="chinese">电影或是主题公园？</span><span class="english">Cinema or theme park?</span></p>

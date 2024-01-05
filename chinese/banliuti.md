@@ -1,5 +1,7 @@
 # 半流体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banliuti.md)
+
 <p><span class="chinese">适用于液体，半流体的自动包装。</span><span class="english">Suitable for automatic packaging liquid and Semi liquid.</span></p>
 
 <p><span class="chinese">液体和半流体关系的各类装置。</span><span class="english">Various types of liquid and semiliquid relationship fitted.</span></p>

@@ -1,5 +1,7 @@
 # austenite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/austenite.md)
+
 <p><span class="chinese">贝氏体铁素体在贫碳的奥氏体中形核。</span><span class="english">Bainitic ferrites nucleate in carbon-poor austenite.</span></p>
 
 <p><span class="chinese">时效态钢中奥氏体主要为逆转变奥氏体。</span><span class="english">The austenite in the steel after aging is mainly reverted austenite.</span></p>

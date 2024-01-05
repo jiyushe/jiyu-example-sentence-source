@@ -1,5 +1,7 @@
 # assignable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assignable.md)
+
 <p><span class="chinese">这些权利均可被迪威公司转让。</span><span class="english">These rights are assignable by Devco.</span></p>
 
 <p><span class="chinese">本协议将是全部或部分的可转让的。</span><span class="english">This Agreement will be assignable in part or whole.</span></p>

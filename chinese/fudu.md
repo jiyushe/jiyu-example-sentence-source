@@ -1,5 +1,7 @@
 # 幅度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fudu.md)
+
 <p><span class="chinese">这也是我们所得到的降息幅度。</span><span class="english">That is what we got.</span></p>
 
 <p><span class="chinese">疼痛幅度大约在0到21分之间变化。</span><span class="english">Pain was rated on a 0-to-21 scale.</span></p>

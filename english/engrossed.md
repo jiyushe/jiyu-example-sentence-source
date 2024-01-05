@@ -1,5 +1,7 @@
 # engrossed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engrossed.md)
+
 <p><span class="chinese">她们全神贯注一声不吭。</span><span class="english">They are too engrossed to talk.</span></p>
 
 <p><span class="chinese">奈妲全身心都放在了钥匙上。</span><span class="english">Naida was engrossed with the key.</span></p>

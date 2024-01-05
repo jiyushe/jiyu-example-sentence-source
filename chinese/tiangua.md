@@ -1,5 +1,7 @@
 # 甜瓜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiangua.md)
+
 <p><span class="chinese">这个甜瓜太软了。</span><span class="english">This cantaloupe is too soft.</span></p>
 
 <p><span class="chinese">我有一个猕猴桃和一个甜瓜。</span><span class="english">Jag har en kiwi och en melon.</span></p>

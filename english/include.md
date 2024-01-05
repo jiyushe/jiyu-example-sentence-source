@@ -1,5 +1,7 @@
 # include 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/include.md)
+
 <p><span class="chinese">收费不包括午膳。</span><span class="english">Fee does not include lunch.</span></p>
 
 <p><span class="chinese">船费包括饮食在内吗？</span><span class="english">Does the fare include a meal?</span></p>

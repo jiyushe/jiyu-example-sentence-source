@@ -1,5 +1,7 @@
 # coated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coated.md)
+
 <p><span class="chinese">墙被涂过了。</span><span class="english">The wall was coated.</span></p>
 
 <p><span class="chinese">舌苔厚腻。</span><span class="english">One's tongue is coated.</span></p>

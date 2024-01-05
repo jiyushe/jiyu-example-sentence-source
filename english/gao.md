@@ -1,5 +1,7 @@
 # gao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gao.md)
+
 <p><span class="chinese">我的名字是高露。</span><span class="english">My name is Gao lu.</span></p>
 
 <p><span class="chinese">409房间的高先生。</span><span class="english">Mr. Gao in Room 409.</span></p>

@@ -1,5 +1,7 @@
 # upset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upset.md)
+
 <p><span class="chinese">别生气。</span><span class="english">Don't be upset.</span></p>
 
 <p><span class="chinese">约翰感到不安。</span><span class="english">John fells upset.</span></p>

@@ -1,5 +1,7 @@
 # incisal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incisal.md)
+
 <p><span class="chinese">切缘残留肿瘤用同样方法检查。</span><span class="english">The incisal edge were also detected for residual tumor.</span></p>
 
 <p><span class="chinese">图3-16因舌前推所致之门牙前突且呈倒钩住下颚门牙。</span><span class="english">Fig3-16 Incisal protrusion with tongue thrust forward and hooked over the mandibular incisors.</span></p>

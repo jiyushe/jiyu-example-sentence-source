@@ -1,5 +1,7 @@
 # storytelling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/storytelling.md)
+
 <p><span class="chinese">当我讲故事的时侯，我过得非常开心。</span><span class="english">I feel very happy when I am storytelling.</span></p>
 
 <p><span class="chinese">讲故事的技艺深植于十九世纪的灵魂。</span><span class="english">Storytelling was deep in the nineteenth-century soul.</span></p>

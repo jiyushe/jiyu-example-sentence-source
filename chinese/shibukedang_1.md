@@ -1,5 +1,7 @@
 # 势不可当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibukedang_1.md)
+
 <p><span class="chinese">势不可当和喜怒无常是革新者盖茨的两大标志。</span><span class="english">Inevitability and temperament are two hallmarks of Gates the innovator.</span></p>
 
 <p><span class="chinese">其他的人透一口气，又一次围拢来，毫不留情，势不可当，狰狞残忍。</span><span class="english">The others, drawing a second's breath, closed in again, implacable, unconquerable, ferocious.</span></p>

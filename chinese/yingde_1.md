@@ -1,5 +1,7 @@
 # 赢得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingde_1.md)
+
 <p><span class="chinese">参加比赛并赢得胜利。</span><span class="english">Go in and win.</span></p>
 
 <p><span class="chinese">它能赢得尊重。</span><span class="english">It earns respect.</span></p>

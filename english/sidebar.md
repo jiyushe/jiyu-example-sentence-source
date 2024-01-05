@@ -1,5 +1,7 @@
 # sidebar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sidebar.md)
+
 <p><span class="chinese">如果这个栏宽度是固定的，可能会与工具栏交迭。</span><span class="english">If they are fixed, they may overlap the sidebar.</span></p>
 
 <p><span class="chinese">然后便可以将该信息加入到侧栏中。</span><span class="english">You can then add that information to the sidebar.</span></p>

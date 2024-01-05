@@ -1,5 +1,7 @@
 # ascendant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascendant.md)
+
 <p><span class="chinese">但是随着伊朗实力的不断上升，以色列变得越来越敏感。</span><span class="english">But, with an ascendant Iran, Israelis are skittish.</span></p>
 
 <p><span class="chinese">这种飞腾型星座给身边的暖和、激昂大方和有趣的感触。</span><span class="english">This Ascendant is warm, generous and fun to be around.</span></p>

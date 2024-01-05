@@ -1,5 +1,7 @@
 # epicenter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epicenter.md)
+
 <p><span class="chinese">这次地震的震央是在南澳东方十九点六公里处。</span><span class="english">Its epicenter was 19.6 km east of Nanao.</span></p>
 
 <p><span class="chinese">震中距克赖斯特彻奇市56公里。</span><span class="english">The epicenter was 56 km from Christchurch.</span></p>

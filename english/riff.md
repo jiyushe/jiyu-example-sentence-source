@@ -1,5 +1,7 @@
 # riff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riff.md)
+
 <p><span class="chinese">是的，我们喜欢即兴表演。</span><span class="english">Yeah, we like to riff.</span></p>
 
 <p><span class="chinese">强类型的即兴重复。</span><span class="english">A riff on strongly-typed.</span></p>

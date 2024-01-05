@@ -1,5 +1,7 @@
 # reprocess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reprocess.md)
+
 <p><span class="chinese">有好几种原因可导致订单处于重新处理状态。</span><span class="english">An order can be in the reprocess status for a couple of reasons.</span></p>
 
 <p><span class="chinese">对二战时期生产的过期血浆进行再加工。</span><span class="english">To reprocess outdated stocks of plasma produced in World War II.</span></p>

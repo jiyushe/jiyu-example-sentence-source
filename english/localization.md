@@ -1,5 +1,7 @@
 # localization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/localization.md)
+
 <p><span class="chinese">它支持本地化而不需要费多大力。</span><span class="english">It supports localization without much effort.</span></p>
 
 <p><span class="chinese">持续改善并分析国产化工作。</span><span class="english">Continuously improve and analysis Localization work.</span></p>

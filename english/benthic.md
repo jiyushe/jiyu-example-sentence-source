@@ -1,5 +1,7 @@
 # benthic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benthic.md)
+
 <p><span class="chinese">这些水底恶霸很容易被激怒。</span><span class="english">These benthic bullies need little provocation.</span></p>
 
 <p><span class="chinese">塘鳢有底栖穴居的习性。</span><span class="english">Tong snakehead has the habits of benthic cave dwellers.</span></p>

@@ -1,5 +1,7 @@
 # hardener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardener.md)
+
 <p><span class="chinese">制出一种叫做“中间合金”的东西。</span><span class="english">Something called a ' hardener alloy 'is made.</span></p>
 
 <p><span class="chinese">先将主剂与稀释剂混合，再加入固化剂。</span><span class="english">Mix base with thinner first, then add hardener.</span></p>

@@ -1,5 +1,7 @@
 # processing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/processing.md)
+
 <p><span class="chinese">对于硅处理。</span><span class="english">For processing silicon.</span></p>
 
 <p><span class="chinese">什么是批处理？</span><span class="english">What is batch processing?</span></p>

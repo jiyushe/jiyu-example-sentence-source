@@ -1,5 +1,7 @@
 # bulwark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulwark.md)
+
 <p><span class="chinese">它是资本主义最坚强的支柱。</span><span class="english">It is the strongest bulwark of capitalism.</span></p>
 
 <p><span class="chinese">绿色贸易不同于绿色壁垒。</span><span class="english">Green trade differs from green bulwark in nature.</span></p>

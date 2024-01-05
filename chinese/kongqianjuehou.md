@@ -1,5 +1,7 @@
 # 空前绝后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongqianjuehou.md)
+
 <p><span class="chinese">这最糟糕的八分钟是似乎是空前绝后的”。</span><span class="english">This fiasco was worse than any of them, and seemed interminable.</span></p>
 
 <p><span class="chinese">团长蹦蹦跳先生，是世界上绝无仅有、空前绝后的跳蚤大师。</span><span class="english">Head Mr. Beng Bengtiao, is unique in the world, unprecedented flea master.</span></p>

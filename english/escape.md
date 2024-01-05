@@ -1,5 +1,7 @@
 # escape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escape.md)
+
 <p><span class="chinese">我如何能逃脱？</span><span class="english">How can I escape?</span></p>
 
 <p><span class="chinese">甜蜜大逃亡。</span><span class="english">The sweet escape.</span></p>

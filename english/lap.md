@@ -1,5 +1,7 @@
 # lap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lap.md)
+
 <p><span class="chinese">＂过来，坐到我的膝上来。＂。</span><span class="english">Come and sit on my lap.</span></p>
 
 <p><span class="chinese">一只小鸟在她腿上拉屎。</span><span class="english">A bird poops in her lap.</span></p>

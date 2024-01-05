@@ -1,5 +1,7 @@
 # naively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naively.md)
+
 <p><span class="chinese">终于来了，一群傻里傻气的志愿者。</span><span class="english">At last, a group of people naively offer themselves for the job.</span></p>
 
 <p><span class="chinese">在1980年版，天文天真地签署了自己的马戏团老板。</span><span class="english">In the 1980 edition, Astro naïvely signed himself away to the circus owner.</span></p>

@@ -1,5 +1,7 @@
 # 任满
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renman.md)
+
 <p><span class="chinese">纳扎尔巴耶夫先生将于2012年底任满。</span><span class="english">The term of Mr Nazarbayev was due to end in late 2012.</span></p>
 
 <p><span class="chinese">奥巴马已经与皇冠出版集团签约，将在总统任满后再写第三本纪实作品。</span><span class="english">Obama already has a contract to write a third nonfiction book for Crown when he leaves office.</span></p>

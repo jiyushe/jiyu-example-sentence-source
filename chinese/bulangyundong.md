@@ -1,5 +1,7 @@
 # 布朗运动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bulangyundong.md)
+
 <p><span class="chinese">还利用少体硬球系统模拟布朗运动。</span><span class="english">Brownian motion is simulated by using hard-ball systems.</span></p>
 
 <p><span class="chinese">在B-S模型中，股票价格过程是由布朗运动驱动的。</span><span class="english">In B-S model, the stock price process is driven by Brown motion.</span></p>

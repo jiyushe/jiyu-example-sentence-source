@@ -1,5 +1,7 @@
 # gotten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gotten.md)
+
 <p><span class="chinese">我已经拼得差不多了。</span><span class="english">I've gotten pretty far.</span></p>
 
 <p><span class="chinese">怒气得到了一个坏拍击!</span><span class="english">Anger has gotten a bad rap!</span></p>

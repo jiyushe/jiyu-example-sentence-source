@@ -1,5 +1,7 @@
 # lousy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lousy.md)
+
 <p><span class="chinese">那部电影好烂。</span><span class="english">That was a lousy movie.</span></p>
 
 <p><span class="chinese">少年懒惰，老来贫苦。</span><span class="english">A lazy youth, a lousy age.</span></p>

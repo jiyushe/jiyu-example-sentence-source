@@ -1,5 +1,7 @@
 # tet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tet.md)
+
 <p><span class="chinese">让我们过个越南新年！</span><span class="english">Let's go freaking Tet here!</span></p>
 
 <p><span class="chinese">打过两个电话后，她到厨房做年夜饭去了。</span><span class="english">After two phone calls, she got to the kitchen to prepare a Tet feast.</span></p>

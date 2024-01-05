@@ -1,5 +1,7 @@
 # 懂行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donghang.md)
+
 <p><span class="chinese">我了解行情，走进车行时已是一个懂行的买主了。</span><span class="english">I went in. I was an informed buyer.</span></p>
 
 <p><span class="chinese">“我比训练师更懂行。”穆酋长曾经这么说过。</span><span class="english">"I know more than any trainer, " he once told me.</span></p>

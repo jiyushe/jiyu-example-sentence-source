@@ -1,5 +1,7 @@
 # increment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/increment.md)
+
 <p><span class="chinese">函数增长的隐式说明。</span><span class="english">Implicit declaration of function increment.</span></p>
 
 <p><span class="chinese">蔬菜的播种面积增加迅速。</span><span class="english">Vegetable of sow seeds area increment quick.</span></p>

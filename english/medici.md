@@ -1,5 +1,7 @@
 # medici
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medici.md)
+
 <p><span class="chinese">他生长在梅迪西统治的年代。</span><span class="english">He grew up under the rule of the Medici.</span></p>
 
 <p><span class="chinese">在佛罗伦萨，美第奇家宅的花园就是15世纪的典型代表。</span><span class="english">A 15th-century example is the garden of the Medici Villa, in Florence.</span></p>

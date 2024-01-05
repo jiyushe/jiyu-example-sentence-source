@@ -1,5 +1,7 @@
 # 定金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingjin.md)
+
 <p><span class="chinese">预付定金是多少？</span><span class="english">How much is it per month?</span></p>
 
 <p><span class="chinese">我要交20元的定金。</span><span class="english">We need 20 dollars in advance.</span></p>

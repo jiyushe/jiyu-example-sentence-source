@@ -1,5 +1,7 @@
 # 漏洞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/loudong.md)
+
 <p><span class="chinese">每部法律都有漏洞。</span><span class="english">Each law has its loophole.</span></p>
 
 <p><span class="chinese">小漏洞会使一条船沉没。</span><span class="english">Little leaks sink the ship.</span></p>

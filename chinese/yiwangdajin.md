@@ -1,5 +1,7 @@
 # 一网打尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwangdajin.md)
+
 <p><span class="chinese">我把十只动物一网打尽。</span><span class="english">Ten animals I slam in a net.</span></p>
 
 <p><span class="chinese">和一网打尽的声音非常清楚。</span><span class="english">And the sound DADA was very clear.</span></p>

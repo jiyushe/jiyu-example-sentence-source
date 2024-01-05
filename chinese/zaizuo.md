@@ -1,5 +1,7 @@
 # 在座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaizuo.md)
+
 <p><span class="chinese">我向您介绍一下在座的各位。</span><span class="english">Le present a todos los presentes.</span></p>
 
 <p><span class="chinese">在座的有没有学数学的？</span><span class="english">are there any mathematicians here?</span></p>

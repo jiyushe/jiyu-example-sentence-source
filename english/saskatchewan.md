@@ -1,5 +1,7 @@
 # saskatchewan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saskatchewan.md)
+
 <p><span class="chinese">加拿大一半的小麦产于萨斯喀切温省。</span><span class="english">One-half of Canada's wheat is grown in Saskatchewan.</span></p>
 
 <p><span class="chinese">但萨斯喀彻温省大的故事，是关于天然资源。</span><span class="english">But the big story in Saskatchewan is about natural resources.</span></p>

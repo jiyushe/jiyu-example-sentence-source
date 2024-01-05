@@ -1,5 +1,7 @@
 # 水轮机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilunji.md)
+
 <p><span class="chinese">空化理论不属于水斗式水轮机。</span><span class="english">Cavitation theory does not belong to Pelton turbine.</span></p>
 
 <p><span class="chinese">安装水轮机工作轮。</span><span class="english">Installation of a working wheel of the hydraulic turbine.</span></p>

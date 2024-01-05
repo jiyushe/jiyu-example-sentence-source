@@ -1,5 +1,7 @@
 # arabica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arabica.md)
+
 <p><span class="chinese">泰国咖啡，我的初恋情人。</span><span class="english">Thai Arabica Coffee is my first lover.</span></p>
 
 <p><span class="chinese">阿拉伯咖啡是咖啡豆的一种。</span><span class="english">Arabica is one species within the genus of coffee.</span></p>

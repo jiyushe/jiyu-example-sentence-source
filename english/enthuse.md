@@ -1,5 +1,7 @@
 # enthuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enthuse.md)
+
 <p><span class="chinese">我对工作不像以前那样热心了。</span><span class="english">I'm not enthuse over my job any more than before.</span></p>
 
 <p><span class="chinese">引导企业每一个成员“思考客户”意识。</span><span class="english">Enthuse everybody in your company to "Think Customer".</span></p>

@@ -1,5 +1,7 @@
 # ironside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ironside.md)
+
 <p><span class="chinese">他著名的铁骑军和新模范军击败了国王。</span><span class="english">His famous "Ironside" cavalry and New Model Army defeated the king.</span></p>
 
 <p><span class="chinese">爷爷依然坚持，他把钱放在桌子上。</span><span class="english">"Go on! "Grandda insisted, pushing some money across the table at Ironside.</span></p>

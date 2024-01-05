@@ -1,5 +1,7 @@
 # 忘年交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangnianjiao.md)
+
 <p><span class="chinese">他和孩子是忘年交。</span><span class="english">He is a friend and children.</span></p>
 
 <p><span class="chinese">他成了我的忘年交也为我带来启发。</span><span class="english">He inspires me and becomes a good friend of mine.</span></p>

@@ -1,5 +1,7 @@
 # 战法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanfa.md)
+
 <p><span class="chinese">野战没什么说的，可以放战法就放。</span><span class="english">Field say no, you can put on the release tactics.</span></p>
 
 <p><span class="chinese">他是高度智能化和专家在战术和战法。</span><span class="english">He is highly intelligent and expert in tactics and warfare.</span></p>

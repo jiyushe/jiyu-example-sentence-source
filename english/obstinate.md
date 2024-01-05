@@ -1,5 +1,7 @@
 # obstinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obstinate.md)
+
 <p><span class="chinese">他只不过是在耍牛脾气。</span><span class="english">He was just being obstinate.</span></p>
 
 <p><span class="chinese">你怎么能够这样固执呢？</span><span class="english">How could you be so obstinate?</span></p>

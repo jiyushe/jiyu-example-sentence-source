@@ -1,5 +1,7 @@
 # 经济
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingji_1.md)
+
 <p><span class="chinese">谁是你的经济担保人？</span><span class="english">Who is your sponsor ?</span></p>
 
 <p><span class="chinese">到纽约票一张，经济座。</span><span class="english">One New York, economy.</span></p>

@@ -1,5 +1,7 @@
 # blastocyst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blastocyst.md)
+
 <p><span class="chinese">这时期的胚胎称为囊胚。</span><span class="english">An embryo at this stage is called a blastocyst.</span></p>
 
 <p><span class="chinese">这一周，囊胚将会分成两个部分。</span><span class="english">The blastocyst will divide into two parts this week.</span></p>

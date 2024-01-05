@@ -1,5 +1,7 @@
 # 养心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangxin.md)
+
 <p><span class="chinese">修身养心，瑜伽是运动，更是生活态度。</span><span class="english">Back to Yoga, Back to my True Life. Namaste!</span></p>
 
 <p><span class="chinese">这种名为"太空养心丸"的中药可更好地防治空间运动病。</span><span class="english">It can be used to treat motion sickness during the space flight.</span></p>

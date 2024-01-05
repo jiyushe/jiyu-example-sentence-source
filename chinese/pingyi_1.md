@@ -1,5 +1,7 @@
 # 平易
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingyi_1.md)
+
 <p><span class="chinese">它在人平易近影剧场隔邻。</span><span class="english">It's next to the People's Cinema.</span></p>
 
 <p><span class="chinese">他为人平易近谋幸福，呼儿咳哟。</span><span class="english">He works for the people's welfare.</span></p>

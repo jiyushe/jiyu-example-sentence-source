@@ -1,5 +1,7 @@
 # desperately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desperately.md)
+
 <p><span class="chinese">法希太需要拘捕这个家伙了。</span><span class="english">Fache needs this arrest desperately.</span></p>
 
 <p><span class="chinese">但我急切需要看到结果。</span><span class="english">I desperately needed to see results.</span></p>

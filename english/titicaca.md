@@ -1,5 +1,7 @@
 # titicaca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titicaca.md)
+
 <p><span class="chinese">和先辈一样，提提卡卡湖附近的女性还是用手扬谷子。</span><span class="english">Like their ancestors, women winnow grain by hand near Lake Titicaca.</span></p>
 
 <p><span class="chinese">的的喀喀湖是南美洲印第安人文化的发源地之一。</span><span class="english">The Lake Titicaca is one of South America, the birthplace of Indian culture.</span></p>

@@ -1,5 +1,7 @@
 # cosmically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmically.md)
+
 <p><span class="chinese">对于大规模杀伤流浪动物的行为，我还是不赞同的。</span><span class="english">To the cosmically behavior to kill the stray animals, I do not agree.</span></p>
 
 <p><span class="chinese">但这些探索模式或被淘汰，或无法大规模推广。</span><span class="english">But all these reform modes were washed out or could not be extended cosmically.</span></p>

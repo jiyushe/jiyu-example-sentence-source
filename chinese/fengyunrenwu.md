@@ -1,5 +1,7 @@
 # 风云人物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyunrenwu.md)
+
 <p><span class="chinese">他是一个风云人物。</span><span class="english">He is a man.</span></p>
 
 <p><span class="chinese">他是吮下的风云人物。</span><span class="english">He is the man of day.</span></p>

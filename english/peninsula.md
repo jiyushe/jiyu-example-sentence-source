@@ -1,5 +1,7 @@
 # peninsula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peninsula.md)
+
 <p><span class="chinese">大石？半岛抑是岛？</span><span class="english">Rock? peninsula or island?</span></p>
 
 <p><span class="chinese">这辆公交车会到半岛酒店吗？</span><span class="english">Does this bus go to The Peninsula?</span></p>

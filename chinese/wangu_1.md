@@ -1,5 +1,7 @@
 # 腕骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangu_1.md)
+
 <p><span class="chinese">豌豆骨连接尺骨和腕骨的小骨头。</span><span class="english">A small boneat the junction of the ulna and the carpus.</span></p>
 
 <p><span class="chinese">腕骨的骨量充足，前面比侧面宽。</span><span class="english">Carpus is heavy-boned, wider in front than at the side.</span></p>

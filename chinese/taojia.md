@@ -1,5 +1,7 @@
 # 讨价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taojia.md)
+
 <p><span class="chinese">我可以帮您讨价。</span><span class="english">I can negotiate for you.</span></p>
 
 <p><span class="chinese">这是KEC讨价讨价地一年夜本钱。</span><span class="english">This is a great bargain KEC capital.</span></p>

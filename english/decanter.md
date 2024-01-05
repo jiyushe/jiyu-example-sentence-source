@@ -1,5 +1,7 @@
 # decanter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decanter.md)
+
 <p><span class="chinese">玻璃杯和玻璃瓶怎么会空？</span><span class="english">Why are the glass and decanter empty?</span></p>
 
 <p><span class="chinese">真相隐藏在表象之底。</span><span class="english">Truth lies the bottom of the decanter.</span></p>

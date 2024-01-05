@@ -1,5 +1,7 @@
 # newsroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newsroom.md)
+
 <p><span class="chinese">整个新闻室都是乱飞的玻璃碎片。</span><span class="english">There was glass flying through the newsroom.</span></p>
 
 <p><span class="chinese">文采飞扬的美国哥伦比亚广播公司新闻编辑室的一半员工被裁掉的一天。</span><span class="english">Literarily half of the CBS newsroom got laid off one day.</span></p>

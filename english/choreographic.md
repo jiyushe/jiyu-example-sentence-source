@@ -1,5 +1,7 @@
 # choreographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choreographic.md)
+
 <p><span class="chinese">水是成立既是一个大气和舞蹈元素。</span><span class="english">Water is incorporated as both an atmospheric and a choreographic element.</span></p>
 
 <p><span class="chinese">一出简短的舞蹈表演能为任何节目增添美感和激情。</span><span class="english">A brief choreographic presentation can add beauty and excitement to any show.</span></p>

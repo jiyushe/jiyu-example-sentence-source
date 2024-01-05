@@ -1,5 +1,7 @@
 # interpretative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpretative.md)
+
 <p><span class="chinese">他称他现在所使用的方法为「解释疗法」。</span><span class="english">He called what he now practiced the " interpretative method".</span></p>
 
 <p><span class="chinese">此计量成本模式具有良好的解释能力。</span><span class="english">The quantitative cost model had a high interpretative ability.</span></p>

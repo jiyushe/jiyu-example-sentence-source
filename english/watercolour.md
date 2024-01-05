@@ -1,5 +1,7 @@
 # watercolour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watercolour.md)
+
 <p><span class="chinese">这是一幅水彩画吗？</span><span class="english">Is it a picture of watercolour?</span></p>
 
 <p><span class="chinese">就象一幅水彩画的构成。</span><span class="english">It's like a watercolour forming.</span></p>

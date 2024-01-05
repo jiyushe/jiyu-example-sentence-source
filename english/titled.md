@@ -1,5 +1,7 @@
 # titled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titled.md)
+
 <p><span class="chinese">她还没给自己的文章加标题。</span><span class="english">She hasn't titled her article.</span></p>
 
 <p><span class="chinese">能无所不能告诉他大卫来过手机？</span><span class="english">Could you only say him David titled?</span></p>

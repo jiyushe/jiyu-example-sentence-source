@@ -1,5 +1,7 @@
 # eyelashes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyelashes.md)
+
 <p><span class="chinese">我想要把我的睫毛刷得浓密点。</span><span class="english">I want my eyelashes to be thicker.</span></p>
 
 <p><span class="chinese">她向他递了一个眼色。</span><span class="english">She fluttered her eyelashes at him.</span></p>

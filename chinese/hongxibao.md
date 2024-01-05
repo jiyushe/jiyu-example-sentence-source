@@ -1,5 +1,7 @@
 # 红细胞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongxibao.md)
+
 <p><span class="chinese">红细胞有没有细胞核？</span><span class="english">Does red blood cell have nucleolus?</span></p>
 
 <p><span class="chinese">马血涂片，红细胞缗钱状形成</span><span class="english">Equine blood smear, rouleau formation</span></p>

@@ -1,5 +1,7 @@
 # eucalyptus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eucalyptus.md)
+
 <p><span class="chinese">用桉树精油按摩肌肉。</span><span class="english">Use eucalyptus for a muscle rub.</span></p>
 
 <p><span class="chinese">肉豆蔻油，桉叶油，薰衣草油。</span><span class="english">Nutmeg Oil, Eucalyptus Oil, Lavender Oil.</span></p>

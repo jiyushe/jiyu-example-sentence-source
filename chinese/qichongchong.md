@@ -1,5 +1,7 @@
 # 气冲冲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qichongchong.md)
+
 <p><span class="chinese">亚哈王气冲冲地问。</span><span class="english">Ahab asked angrily.</span></p>
 
 <p><span class="chinese">他气冲冲地走出了房间。</span><span class="english">He stormed out of the room.</span></p>

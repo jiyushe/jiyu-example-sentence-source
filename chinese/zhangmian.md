@@ -1,5 +1,7 @@
 # 账面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangmian.md)
+
 <p><span class="chinese">而其余大量的贷款还没有降低账面价值。</span><span class="english">But the vast majority of loans have not.</span></p>
 
 <p><span class="chinese">账面上的金额都是虚的了。</span><span class="english">Are carrying on the amount of the virtual.</span></p>

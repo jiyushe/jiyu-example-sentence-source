@@ -1,5 +1,7 @@
 # pluton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pluton.md)
+
 <p><span class="chinese">产出于岩石圈伸展拉张环境。</span><span class="english">It is suggested that the pluton formed in lithosphere extension environment.</span></p>
 
 <p><span class="chinese">岛弧深成岩成分变化较大，由闪长岩变化到花岗岩，成岩时代为奥陶纪。</span><span class="english">Island-arc pluton consists of diorite to granite, which formed in Ordovician.</span></p>

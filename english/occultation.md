@@ -1,5 +1,7 @@
 # occultation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occultation.md)
+
 <p><span class="chinese">CHAMP地面跟踪站，重力场，大气，GPS掩星。</span><span class="english">CHAMP tracking station, gravity field, atmosphere, GPS occultation.</span></p>
 
 <p><span class="chinese">我国古代有相当丰富的月掩星观测记录。</span><span class="english">There are an abundance of the lunar occultation records in ancient China.</span></p>

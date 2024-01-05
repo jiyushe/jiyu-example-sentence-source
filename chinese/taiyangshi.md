@@ -1,5 +1,7 @@
 # 太阳时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyangshi.md)
+
 <p><span class="chinese">当你看太阳时，你得眯缝眼看。</span><span class="english">When you look at the sun, you have to squint at it.</span></p>
 
 <p><span class="chinese">如果错失太阳时你流泪了，那么你也要错过群星了。</span><span class="english">If you cry for missing the sun , you will miss the stars.</span></p>

@@ -1,5 +1,7 @@
 # reminiscent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reminiscent.md)
+
 <p><span class="chinese">使人回想到什么？</span><span class="english">This is reminiscent of what?</span></p>
 
 <p><span class="chinese">再次地，这是关于沙堆的提醒。</span><span class="english">This, again, is reminiscent of a sand pile.</span></p>

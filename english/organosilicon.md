@@ -1,5 +1,7 @@
 # organosilicon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organosilicon.md)
+
 <p><span class="chinese">实际上，它是有机硅化学的一个新的分支。</span><span class="english">In fact, it has formed a new branch of organosilicon chemistry.</span></p>
 
 <p><span class="chinese">有机硅能改性丙烯酸酯乳液的综合性能。</span><span class="english">The properties of acrylate emulsion can be modified by organosilicon.</span></p>

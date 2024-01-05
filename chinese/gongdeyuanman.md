@@ -1,5 +1,7 @@
 # 功德圆满
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongdeyuanman.md)
+
 <p><span class="chinese">本着这个原则如果你受力分析画对了,那就功德圆满了</span><span class="english">Okay, so with that, if you write the right forces, you will be just fine.</span></p>
 
 <p><span class="chinese">精神伟人最需要的，并非世俗的功德圆满，而是被人民所理解。</span><span class="english">What great humanists need most are not honours and accolades but being understood by the people.</span></p>

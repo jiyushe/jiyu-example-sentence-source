@@ -1,5 +1,7 @@
 # morphologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morphologic.md)
+
 <p><span class="chinese">用倒置相差显微镜观察细胞形态变化。</span><span class="english">Morphologic changes were observed using phase-contrast microscopy.</span></p>
 
 <p><span class="chinese">过去有许多研究探讨开咬病患的特殊颅颜型态。</span><span class="english">The morphologic features of open bite were documented by previous researches.</span></p>

@@ -1,5 +1,7 @@
 # apache
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apache.md)
+
 <p><span class="chinese">它比美国的阿帕奇AH-64要好。</span><span class="english">It is superior to the American Apache AH-64.</span></p>
 
 <p><span class="chinese">HBase是Apache的Hadoop项目的子项目。</span><span class="english">HBase is a subproject of Hadoop with its home at Apache.</span></p>

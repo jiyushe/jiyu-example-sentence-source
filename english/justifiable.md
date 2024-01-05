@@ -1,5 +1,7 @@
 # justifiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/justifiable.md)
+
 <p><span class="chinese">它假定上帝的做法是可以证明的。</span><span class="english">It assumes that the ways of God are in fact justifiable.</span></p>
 
 <p><span class="chinese">第二部分，一般正当防卫的成立条件。</span><span class="english">Second part, general justifiable defense tenable condition.</span></p>

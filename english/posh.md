@@ -1,5 +1,7 @@
 # posh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posh.md)
+
 <p><span class="chinese">奢侈的中产阶级家庭时髦小美女。</span><span class="english">Posh middle-class child chic.</span></p>
 
 <p><span class="chinese">佩柏丝也不会喜欢住在豪华的地方。</span><span class="english">Pebbles would hate to live anywhere posh.</span></p>

@@ -1,5 +1,7 @@
 # 干活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganhuo.md)
+
 <p><span class="chinese">今天下地干活要用铁耙了。</span><span class="english">A rake made of iron.</span></p>
 
 <p><span class="chinese">我操…还不像干活的呢？</span><span class="english">Fuck. I do like that.</span></p>

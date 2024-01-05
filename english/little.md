@@ -1,5 +1,7 @@
 # little 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/little.md)
+
 <p><span class="chinese">小白鹭。</span><span class="english">Little Egret.</span></p>
 
 <p><span class="chinese">还有小拐杖。</span><span class="english">A little cane.</span></p>

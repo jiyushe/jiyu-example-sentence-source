@@ -1,5 +1,7 @@
 # 珍惜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenxi.md)
+
 <p><span class="chinese">爱护动物，珍惜生命。</span><span class="english">Love animals, cherish life.</span></p>
 
 <p><span class="chinese">珍惜青春年华！</span><span class="english">Do treasure your spring age.</span></p>

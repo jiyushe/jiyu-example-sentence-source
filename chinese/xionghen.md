@@ -1,5 +1,7 @@
 # 凶狠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xionghen.md)
+
 <p><span class="chinese">她非常凶狠。</span><span class="english">She's quite fierce.</span></p>
 
 <p><span class="chinese">脚步像蝴蝶一样飘逸，出拳如蜂刺一般凶狠。</span><span class="english">Float like a butterfly, sting like a bee.</span></p>

@@ -1,5 +1,7 @@
 # 再生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaisheng.md)
+
 <p><span class="chinese">对于再生障碍性贫血。</span><span class="english">Aplastic anemia.</span></p>
 
 <p><span class="chinese">利用再生纸。</span><span class="english">Use recycled paper.</span></p>

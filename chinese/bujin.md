@@ -1,5 +1,7 @@
 # 不仅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujin.md)
+
 <p><span class="chinese">不仅是索尔。</span><span class="english">It was not only Sol.</span></p>
 
 <p><span class="chinese">当然啦，这不仅限于橄榄球。</span><span class="english">And it’s not just football.</span></p>

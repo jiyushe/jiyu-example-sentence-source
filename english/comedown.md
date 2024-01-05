@@ -1,5 +1,7 @@
 # comedown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comedown.md)
+
 <p><span class="chinese">多么落魄的一个运动。</span><span class="english">What a comedown for the movement.</span></p>
 
 <p><span class="chinese">她觉得要听她以前部下的指挥很降格。</span><span class="english">She find it a comedown to listen to her former subordinate.</span></p>

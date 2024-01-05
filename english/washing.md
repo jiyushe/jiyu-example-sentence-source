@@ -1,5 +1,7 @@
 # washing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washing.md)
+
 <p><span class="chinese">洗头发太花时间了。</span><span class="english">Washing took time.</span></p>
 
 <p><span class="chinese">沐浴和洗涤区。</span><span class="english">Bathing and washing areas.</span></p>

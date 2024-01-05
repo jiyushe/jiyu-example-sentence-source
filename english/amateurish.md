@@ -1,5 +1,7 @@
 # amateurish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amateurish.md)
+
 <p><span class="chinese">与她相比，其他运动员似乎都是业余的。</span><span class="english">Beside her other players seem amateurish.</span></p>
 
 <p><span class="chinese">而我们在电话会议时，则用一些简单的密码。</span><span class="english">On conference calls we spoke in amateurish code.</span></p>

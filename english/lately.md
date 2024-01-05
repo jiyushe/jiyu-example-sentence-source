@@ -1,5 +1,7 @@
 # lately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lately.md)
+
 <p><span class="chinese">她近来情绪急躁。</span><span class="english">She's be edgy lately.</span></p>
 
 <p><span class="chinese">最近感觉易怒吗？</span><span class="english">Feeling crabby lately?</span></p>

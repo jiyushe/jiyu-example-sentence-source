@@ -1,5 +1,7 @@
 # baltic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baltic.md)
+
 <p><span class="chinese">波罗的海5月时仍然处在封冻状态。</span><span class="english">The Baltic was still frozen in May.</span></p>
 
 <p><span class="chinese">荷兰人控制了波罗的海的贸易往来</span><span class="english">The Dutch dominate the Baltic trade.</span></p>

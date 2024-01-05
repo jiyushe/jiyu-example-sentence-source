@@ -1,5 +1,7 @@
 # 迸溅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bengjian.md)
+
 <p><span class="chinese">火星迸溅。</span><span class="english">Sparks flew in all directions.</span></p>
 
 <p><span class="chinese">波浪拍击在岩石上四下迸溅。</span><span class="english">The waves broke against the rocks.</span></p>

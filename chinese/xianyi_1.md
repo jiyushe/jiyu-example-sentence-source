@@ -1,5 +1,7 @@
 # 献艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyi_1.md)
+
 <p><span class="chinese">这场献艺应当是相当好的。</span><span class="english">The show is supposed to do well.</span></p>
 
 <p><span class="chinese">这场献艺应该是相当好的。</span><span class="english">The show is supposed to work well.</span></p>

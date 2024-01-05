@@ -1,5 +1,7 @@
 # remainder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remainder.md)
+
 <p><span class="chinese">永佳得余下的。</span><span class="english">Angah gets of the remainder.</span></p>
 
 <p><span class="chinese">9减4，余数为5。</span><span class="english">Take 4 from 9 and the remainder is 5.</span></p>

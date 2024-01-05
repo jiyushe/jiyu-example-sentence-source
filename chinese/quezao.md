@@ -1,5 +1,7 @@
 # 确凿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quezao.md)
+
 <p><span class="chinese">他讲的是确凿不移的实情。</span><span class="english">He told the strict truth.</span></p>
 
 <p><span class="chinese">但是证据是确凿的。</span><span class="english">But the evidence is unmistakable.</span></p>

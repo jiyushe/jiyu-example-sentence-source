@@ -1,5 +1,7 @@
 # six
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/six.md)
+
 <p><span class="chinese">六尺。</span><span class="english">Six feet.</span></p>
 
 <p><span class="chinese">六张卡？</span><span class="english">Six cards?</span></p>

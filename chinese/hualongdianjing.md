@@ -1,5 +1,7 @@
 # 画龙点睛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hualongdianjing.md)
+
 <p><span class="chinese">我想这是游戏的画龙点睛之处。</span><span class="english">I think that got a lot of press for the game.</span></p>
 
 <p><span class="chinese">在英汉语言中，明喻都起到了画龙点睛的作用。</span><span class="english">Simile makes the finishing point in Chinese and English.</span></p>

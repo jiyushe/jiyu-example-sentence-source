@@ -1,5 +1,7 @@
 # aftersales
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aftersales.md)
+
 <p><span class="chinese">不过我们想问问有关售后服务的情况。</span><span class="english">But we have SOme questions about aftersales Service.</span></p>
 
 <p><span class="chinese">请阐述对销售人员及售后服务人员的培训制度。</span><span class="english">Please describe the training system for the sales and aftersales service employees.</span></p>

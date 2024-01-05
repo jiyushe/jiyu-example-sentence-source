@@ -1,5 +1,7 @@
 # 通宵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxiao.md)
+
 <p><span class="chinese">他通宵未眠。</span><span class="english">He was up all night.</span></p>
 
 <p><span class="chinese">通宵放出大量的放屁。</span><span class="english">A LOT of farts escape overnight.</span></p>

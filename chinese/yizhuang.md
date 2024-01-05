@@ -1,5 +1,7 @@
 # 衣装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhuang.md)
+
 <p><span class="chinese">衣装有很多的自豪感。</span><span class="english">Westies have a lot of pride.</span></p>
 
 <p><span class="chinese">衣装是十分光明的狗。</span><span class="english">Westies are very bright dogs.</span></p>

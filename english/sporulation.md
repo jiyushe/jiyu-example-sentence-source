@@ -1,5 +1,7 @@
 # sporulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sporulation.md)
+
 <p><span class="chinese">氮源对孢子产生的影响较为复杂。</span><span class="english">The effect of nitrogen source on the sporulation was complex.</span></p>
 
 <p><span class="chinese">适于番茄早疫病菌生长及产孢的PH值都为7。</span><span class="english">PH7 was the most suitable for the growth and sporulation of A.</span></p>

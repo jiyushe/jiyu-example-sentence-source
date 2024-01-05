@@ -1,5 +1,7 @@
 # ambulance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambulance.md)
+
 <p><span class="chinese">他是一个救护员。</span><span class="english">He is an ambulance man.</span></p>
 
 <p><span class="chinese">我会打电话叫救护车。</span><span class="english">I'll call an ambulance.</span></p>

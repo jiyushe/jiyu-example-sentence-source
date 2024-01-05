@@ -1,5 +1,7 @@
 # w
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/w.md)
+
 <p><span class="chinese">你的朋友，W，B，叶芝“</span><span class="english">Yours, W.B. Yeats."</span></p>
 
 <p><span class="chinese">我们只负责投保水渍险。</span><span class="english">We'll only insure W.P.A.</span></p>

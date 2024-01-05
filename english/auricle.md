@@ -1,5 +1,7 @@
 # auricle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auricle.md)
+
 <p><span class="chinese">同时也发现四逆散还能扩张小白鼠耳廓血管。</span><span class="english">Sinisan also dilatate vessel in auricle of mice.</span></p>
 
 <p><span class="chinese">检查耳廓布局、大小、对称性和颜色。</span><span class="english">A. i ect auricle for placement size symmetry and color.</span></p>

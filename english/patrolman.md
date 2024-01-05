@@ -1,5 +1,7 @@
 # patrolman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patrolman.md)
+
 <p><span class="chinese">公路巡逻人员挥手让我们停车。</span><span class="english">The highway patrolman waved us to stop.</span></p>
 
 <p><span class="chinese">巡警琼斯曾在出事现场。</span><span class="english">Patrolman Jones is at the scene of the accident.</span></p>

@@ -1,5 +1,7 @@
 # tetraploid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetraploid.md)
+
 <p><span class="chinese">卵母细胞是有效的四倍体细胞。</span><span class="english">The oocyte is effectively a tetraploid cell.</span></p>
 
 <p><span class="chinese">卵母细胞是有效的四信体细胞。</span><span class="english">The oocyte is effectively a tetraploid cell.</span></p>

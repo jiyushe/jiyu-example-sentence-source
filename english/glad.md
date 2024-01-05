@@ -1,5 +1,7 @@
 # glad 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glad.md)
+
 <p><span class="chinese">很高兴见到你。</span><span class="english">Glad to meet you.</span></p>
 
 <p><span class="chinese">我真是为你高兴。</span><span class="english">I am glad for you.</span></p>

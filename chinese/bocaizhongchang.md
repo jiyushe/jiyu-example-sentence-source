@@ -1,5 +1,7 @@
 # 博采众长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bocaizhongchang.md)
+
 <p><span class="chinese">博采众长，体系开放。</span><span class="english">Abundantly picks the audiences long, the system is open.</span></p>
 
 <p><span class="chinese">我们心悦诚服地赞赏其他国家，民族的先进文化，并以博大的胸怀博采众长。</span><span class="english">We admire the advanced cultures of other nations and would like to learn from them openheartedly.</span></p>

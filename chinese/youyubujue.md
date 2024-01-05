@@ -1,5 +1,7 @@
 # 犹豫不决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyubujue.md)
+
 <p><span class="chinese">她对这价格犹豫不决。</span><span class="english">She balked at the price.</span></p>
 
 <p><span class="chinese">这时，你会变得犹豫不决。</span><span class="english">You then become indecisive.</span></p>

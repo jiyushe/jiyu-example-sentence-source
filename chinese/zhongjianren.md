@@ -1,5 +1,7 @@
 # 中间人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjianren.md)
+
 <p><span class="chinese">还有，谁是那名中间人？</span><span class="english">And who was the inside man?</span></p>
 
 <p><span class="chinese">他们中的三个是中间人。</span><span class="english">Three of them are go-between.</span></p>

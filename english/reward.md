@@ -1,5 +1,7 @@
 # reward 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reward.md)
+
 <p><span class="chinese">没有奖励。</span><span class="english">No reward.</span></p>
 
 <p><span class="chinese">既是这样，我的赏赐是什么呢。</span><span class="english">What is my reward then?</span></p>

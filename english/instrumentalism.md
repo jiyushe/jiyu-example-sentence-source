@@ -1,5 +1,7 @@
 # instrumentalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instrumentalism.md)
+
 <p><span class="chinese">那便是工具主义。</span><span class="english">That's instrumentalism.</span></p>
 
 <p><span class="chinese">我把它称作工具主义方法论。</span><span class="english">Well I have called this methodological instrumentalism.</span></p>

@@ -1,5 +1,7 @@
 # 可以
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keyi_1.md)
+
 <p><span class="chinese">它可以滚！</span><span class="english">It rolls!</span></p>
 
 <p><span class="chinese">我可以去试一试。</span><span class="english">I could go.</span></p>

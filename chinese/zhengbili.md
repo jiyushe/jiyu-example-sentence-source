@@ -1,5 +1,7 @@
 # 正比例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengbili.md)
+
 <p><span class="chinese">压力随温度成正比例变化，与容积成反比例变化。</span><span class="english">Pressure varies directly with temperature and inversely with volume.</span></p>
 
 <p><span class="chinese">伟大的成绩和辛勤的劳动是成正比例的，有一分劳动就有一分收获。</span><span class="english">The great achievements are directly proportional to hard work, no pain, no gain.</span></p>

@@ -1,5 +1,7 @@
 # economization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/economization.md)
+
 <p><span class="chinese">全球经济化的概念及目前状况与标志。</span><span class="english">The concept of global economization and at present state and mark.</span></p>
 
 <p><span class="chinese">语言的经济化是社会发展的一种现象，其典型文体就是名词体。</span><span class="english">The economization of language is a natural phenomenon of social development.</span></p>

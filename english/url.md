@@ -1,5 +1,7 @@
 # url
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/url.md)
+
 <p><span class="chinese">你的问题和哪个网页或URL有关？</span><span class="english">What page or URL were you on?</span></p>
 
 <p><span class="chinese">文件的网络访问网址。</span><span class="english">The web-accessible URL for the file.</span></p>

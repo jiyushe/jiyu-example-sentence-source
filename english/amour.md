@@ -1,5 +1,7 @@
 # amour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amour.md)
+
 <p><span class="chinese">那个棒球投手和她有段短暂恋情。</span><span class="english">The moundsman has a transitory amour.</span></p>
 
 <p><span class="chinese">你听说他最近偷情的事了吗?。</span><span class="english">Have you heard about his latest amour?</span></p>

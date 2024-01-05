@@ -1,5 +1,7 @@
 # gassy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gassy.md)
+
 <p><span class="chinese">他是一个夸夸其谈的人，我不喜欢他。</span><span class="english">He is a gassy man. I don't like him.</span></p>
 
 <p><span class="chinese">你能理解他那长篇大论夸夸其谈的讲话的意义吗？</span><span class="english">Can you make out the significance of the gassy speech which he harangued ?</span></p>

@@ -1,5 +1,7 @@
 # palatial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palatial.md)
+
 <p><span class="chinese">我们住在豪宅里，也有了仆人。</span><span class="english">We lived in a palatial house with maids.</span></p>
 
 <p><span class="chinese">离职以后，沈先生买了一座宫殿式的别墅。</span><span class="english">After he retired, Shen bought a palatial mansion.</span></p>

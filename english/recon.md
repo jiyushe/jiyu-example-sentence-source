@@ -1,5 +1,7 @@
 # recon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recon.md)
+
 <p><span class="chinese">你怎么评价这个事件？</span><span class="english">What do you recon this event?</span></p>
 
 <p><span class="chinese">侦察的第一步是找到敌方据点。</span><span class="english">Your first recon task is to find the enemy.</span></p>

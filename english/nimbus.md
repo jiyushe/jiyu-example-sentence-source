@@ -1,5 +1,7 @@
 # nimbus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nimbus.md)
+
 <p><span class="chinese">哇，快看那个！最新型的光轮2000！</span><span class="english">Wow, look at it. The new Nimbus 2000!</span></p>
 
 <p><span class="chinese">想法周围的光环让我们相形见绌。</span><span class="english">We are overshadowed by a nimbus of ideas.</span></p>

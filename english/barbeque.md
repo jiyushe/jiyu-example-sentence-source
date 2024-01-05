@@ -1,5 +1,7 @@
 # barbeque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbeque.md)
+
 <p><span class="chinese">燃气炉在后院为烧烤而设。</span><span class="english">Gas stub for Barbeque in Backyard.</span></p>
 
 <p><span class="chinese">每个竞选帐篷都免费提供烤肉餐。</span><span class="english">Free barbeque meals are in every campaign tent.</span></p>

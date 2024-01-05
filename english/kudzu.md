@@ -1,5 +1,7 @@
 # kudzu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kudzu.md)
+
 <p><span class="chinese">其中含量较多的是葛根素。</span><span class="english">In which content many is Kudzu root element.</span></p>
 
 <p><span class="chinese">按摩加多吃写木瓜牛奶，葛根是最好的。</span><span class="english">Written by Mogadishu eat more papaya milk, Kudzu is the best.</span></p>

@@ -1,5 +1,7 @@
 # 醉汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuihan.md)
+
 <p><span class="chinese">但是醉汉摔倒？</span><span class="english">But drunks falling over?</span></p>
 
 <p><span class="chinese">他说起话来就像个醉汉。</span><span class="english">He speaks like a drunken man.</span></p>

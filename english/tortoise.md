@@ -1,5 +1,7 @@
 # tortoise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tortoise.md)
+
 <p><span class="chinese">像乌龟一样慢慢跑。</span><span class="english">Run like a tortoise.</span></p>
 
 <p><span class="chinese">我看见过一个大海龟。</span><span class="english">I saw a big sea tortoise.</span></p>

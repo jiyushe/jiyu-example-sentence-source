@@ -1,5 +1,7 @@
 # 国民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guomin_1.md)
+
 <p><span class="chinese">我在国民银行存钱。</span><span class="english">I bank at the National Bank.</span></p>
 
 <p><span class="chinese">我在第一国民银行有账户。</span><span class="english">I bank at the First National.</span></p>

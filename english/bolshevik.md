@@ -1,5 +1,7 @@
 # bolshevik
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolshevik.md)
+
 <p><span class="chinese">你可以把我看作是党外布尔什维克吧。</span><span class="english">You can call me a non-party Bolshevik.</span></p>
 
 <p><span class="chinese">布尔什维克统治的俄罗斯不需要布尔加科夫这样的思想家。</span><span class="english">Bolshevik Russia had no need for reflective thinkers like Bulgakov.</span></p>

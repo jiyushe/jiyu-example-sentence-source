@@ -1,5 +1,7 @@
 # 地理信息系统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dilixinxixitong.md)
+
 <p><span class="chinese">地理空间数据是地理信息系统的基础。</span><span class="english">Geo -spatial data is the basis of GIS.</span></p>
 
 <p><span class="chinese">地名信息系统是城市地理信息系统的一个组成部分。</span><span class="english">Toponym Geographic Information System is a part of urban GIS.</span></p>

@@ -1,5 +1,7 @@
 # amain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amain.md)
+
 <p><span class="chinese">在躯体内，血液日夜沸腾。</span><span class="english">Make my blood day and night boil amain.</span></p>
 
 <p><span class="chinese">我的心没底止的跟着风吹。</span><span class="english">My heart follows the wind that blows amain.</span></p>

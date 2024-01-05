@@ -1,5 +1,7 @@
 # 刷子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuazi.md)
+
 <p><span class="chinese">昨天他买了两把刷子。</span><span class="english">He buy two brush yesterday.</span></p>
 
 <p><span class="chinese">他用刷子轻拍他的腿。</span><span class="english">He dabs his leg with a brush.</span></p>

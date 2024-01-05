@@ -1,5 +1,7 @@
 # setter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/setter.md)
+
 <p><span class="chinese">二传手是一个目标和学业成绩。</span><span class="english">Be a goal setter and a achiever.</span></p>
 
 <p><span class="chinese">中国何必猴子屁股一样总是红彤彤的呢？</span><span class="english">China is always the price taker not price setter.</span></p>

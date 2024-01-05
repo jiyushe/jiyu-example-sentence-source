@@ -1,5 +1,7 @@
 # 袭击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiji_1.md)
+
 <p><span class="chinese">我袭击了上司。</span><span class="english">I assaulted my C. O.</span></p>
 
 <p><span class="chinese">但这是一次精确的袭击。</span><span class="english">But it was a precise raid.</span></p>

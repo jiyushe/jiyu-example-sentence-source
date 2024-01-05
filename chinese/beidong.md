@@ -1,5 +1,7 @@
 # 被动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beidong.md)
+
 <p><span class="chinese">而是被动地知道的。</span><span class="english">I know it negatively.</span></p>
 
 <p><span class="chinese">他的反应是被动的。</span><span class="english">His response was passive.</span></p>

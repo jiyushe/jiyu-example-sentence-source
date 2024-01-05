@@ -1,5 +1,7 @@
 # saith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saith.md)
+
 <p><span class="chinese">耶和华说，我曾爱你们。</span><span class="english">I have loved you, saith the LORD.</span></p>
 
 <p><span class="chinese">耶和华说，我要撇弃你们。</span><span class="english">I will even forsake you, saith the LORD.</span></p>

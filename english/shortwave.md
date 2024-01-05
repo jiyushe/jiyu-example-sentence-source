@@ -1,5 +1,7 @@
 # shortwave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortwave.md)
+
 <p><span class="chinese">但是他们有短波接收器。</span><span class="english">But they do have shortwave receivers.</span></p>
 
 <p><span class="chinese">本文主要研究了短波多音并行调制解调器。</span><span class="english">This paper investigates the shortwave multitone parallel modem.</span></p>

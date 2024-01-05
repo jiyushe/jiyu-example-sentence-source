@@ -1,5 +1,7 @@
 # burundi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burundi.md)
+
 <p><span class="chinese">布隆迪年独立后乌松布拉改名为布琼布拉。</span><span class="english">Usumbura was renamed Bujumbura when Burundi became independent in 1962.</span></p>
 
 <p><span class="chinese">中非国家布隆迪是新进榜者，排名前十名榜单尾部。</span><span class="english">The central African nation of Burundi is a new arrival to the bottom 10.</span></p>

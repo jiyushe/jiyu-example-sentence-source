@@ -1,5 +1,7 @@
 # 圆融
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanrong.md)
+
 <p><span class="chinese">这个问题是有关我提出的「大圆融」的心旨。</span><span class="english">The question was on the essential point of Great Harmony as I propounded.</span></p>
 
 <p><span class="chinese">“圆融”与“方合”是体现于中国艺术结构中，最具文化蕴涵的构制规则之一。</span><span class="english">This paper discusses the characteristics of Chinese art structure from this rule.</span></p>

@@ -1,5 +1,7 @@
 # 孝子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozi.md)
+
 <p><span class="chinese">棒头出孝子的儿童。</span><span class="english">Spare the rod, spoil the child.</span></p>
 
 <p><span class="chinese">首先，他必须是一位孝子。</span><span class="english">Firstly, he must be a dutiful son.</span></p>

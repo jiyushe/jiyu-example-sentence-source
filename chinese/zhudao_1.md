@@ -1,5 +1,7 @@
 # 主导
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhudao_1.md)
+
 <p><span class="chinese">欲望主导生活。</span><span class="english">Desire dominants life.</span></p>
 
 <p><span class="chinese">农业是当时的主导产业。</span><span class="english">Agriculture was dominant.</span></p>

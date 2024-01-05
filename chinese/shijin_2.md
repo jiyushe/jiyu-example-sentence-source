@@ -1,5 +1,7 @@
 # 失禁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijin_2.md)
+
 <p><span class="chinese">前列腺切除后小便失禁咋办？</span><span class="english">Incontinence after prostatectomy?</span></p>
 
 <p><span class="chinese">刚开始时甚至大小便失禁，但是现在已经不会了。</span><span class="english">At first she was doubly incontinent, not now.</span></p>

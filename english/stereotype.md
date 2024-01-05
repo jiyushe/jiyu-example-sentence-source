@@ -1,5 +1,7 @@
 # stereotype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stereotype.md)
+
 <p><span class="chinese">这是一种错误的刻板印象。</span><span class="english">This is a false stereotype.</span></p>
 
 <p><span class="chinese">根据构造型属性值来着色</span><span class="english">Color by stereotype attribute value</span></p>

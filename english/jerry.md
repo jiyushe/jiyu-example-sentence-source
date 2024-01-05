@@ -1,5 +1,7 @@
 # jerry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jerry.md)
+
 <p><span class="chinese">叫我杰利.</span><span class="english">Call me Jerry.</span></p>
 
 <p><span class="chinese">我的名儿叫杰瑞。</span><span class="english">My name is Jerry.</span></p>

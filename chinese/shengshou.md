@@ -1,5 +1,7 @@
 # 圣手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshou.md)
+
 <p><span class="chinese">双子座真的是黄道带上的调情圣手吗？</span><span class="english">But the Gemini are really the flirts of the zodiac?</span></p>
 
 <p><span class="chinese">如果你真是个调情圣手，你就该知道如何取悦每一个人。</span><span class="english">If you're a truly great lover, you should know how to please anyone.</span></p>

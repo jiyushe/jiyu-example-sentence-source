@@ -1,5 +1,7 @@
 # rewinder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rewinder.md)
+
 <p><span class="chinese">我们为转换工业生产切条机和复卷机。</span><span class="english">Converting Systems has been designing slitter and rewinder machines for the converting industry.</span></p>
 
 <p><span class="chinese">造纸行业大型分切机、复卷机使用。</span><span class="english">Mainly be suited for big dividing and cutting machine or rewinder in the industry of papermaking.</span></p>

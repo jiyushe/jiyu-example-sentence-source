@@ -1,5 +1,7 @@
 # spline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spline.md)
+
 <p><span class="chinese">我公司用各种拉床生产齿轮内花键。</span><span class="english">We produce gear spline with various broachers.</span></p>
 
 <p><span class="chinese">花键轴是机械中广泛使用的重要零件之一。</span><span class="english">The spline shafts is a important part of the machine.</span></p>

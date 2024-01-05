@@ -1,5 +1,7 @@
 # balding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balding.md)
+
 <p><span class="chinese">他年龄并不老，可是已经歇顶了。</span><span class="english">He is not old but is already balding.</span></p>
 
 <p><span class="chinese">克里斯托夫·包定在北京大学任教。</span><span class="english">Christopher Balding teaches at Peking University.</span></p>

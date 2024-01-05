@@ -1,5 +1,7 @@
 # minnesota
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minnesota.md)
+
 <p><span class="chinese">明尼苏达州的红湖保护区</span><span class="english">Red Lake Reservation, Minnesota</span></p>
 
 <p><span class="chinese">我住在明尼苏达州的明尼阿波利斯市，这可是美国中部最北边的一个州。</span><span class="english">I live in Minneapolis, Minnesota.</span></p>

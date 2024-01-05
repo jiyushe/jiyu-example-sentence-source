@@ -1,5 +1,7 @@
 # 面红耳赤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianhongerchi.md)
+
 <p><span class="chinese">霍罗汉变得面红耳赤，激动极了。</span><span class="english">Mr. holohan became very red and excited.</span></p>
 
 <p><span class="chinese">他和老板争得面红耳赤。</span><span class="english">He has a competive quarrel with his boss.</span></p>

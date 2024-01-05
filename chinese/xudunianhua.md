@@ -1,5 +1,7 @@
 # 虚度年华
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xudunianhua.md)
+
 <p><span class="chinese">小小的蝉儿尚且如此，人又启能无所事事虚度年华？</span><span class="english">Small Chaner like this, people are able to idle idle away Kai?</span></p>
 
 <p><span class="chinese">最好的节约是珍惜时间，最大的浪费是虚度年华。</span><span class="english">The best save is to cherish the time, is the biggest waste of time.</span></p>

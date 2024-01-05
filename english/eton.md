@@ -1,5 +1,7 @@
 # eton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eton.md)
+
 <p><span class="chinese">伊顿学院由亨利六世于1440年创建。</span><span class="english">Eton College was founded by Henry VI in 1440.</span></p>
 
 <p><span class="chinese">伊顿公学是亨利六世于1440年创建的。</span><span class="english">Eton College was founded in 1440 by King Henry VI.</span></p>

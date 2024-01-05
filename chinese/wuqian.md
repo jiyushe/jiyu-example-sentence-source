@@ -1,5 +1,7 @@
 # 午前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuqian.md)
+
 <p><span class="chinese">我必须在明天午前做出决定。</span><span class="english">I am required to act before noon tomorrow.</span></p>
 
 <p><span class="chinese">我认为我午前不可能赶回来。</span><span class="english">I couldn't see myself coming back before noon.</span></p>

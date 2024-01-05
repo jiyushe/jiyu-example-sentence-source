@@ -1,5 +1,7 @@
 # hickory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hickory.md)
+
 <p><span class="chinese">这些火腿是在山核桃木的火上薰制的。</span><span class="english">The hams were cured over a hickory fire.</span></p>
 
 <p><span class="chinese">橡子和山胡桃成熟了。</span><span class="english">The acorn ripens and the hickory nut matures.</span></p>

@@ -1,5 +1,7 @@
 # 谦卑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianbei_1.md)
+
 <p><span class="chinese">以谦卑的心敬拜。</span><span class="english">Worship with humility.</span></p>
 
 <p><span class="chinese">谦卑是他的人生座右铭.</span><span class="english">Humility is his life's motto.</span></p>

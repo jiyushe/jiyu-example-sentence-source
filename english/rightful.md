@@ -1,5 +1,7 @@
 # rightful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rightful.md)
+
 <p><span class="chinese">谁是其合法拥有者？</span><span class="english">And who are their rightful owners?</span></p>
 
 <p><span class="chinese">他要求做合法的继承人。</span><span class="english">He claims to be the rightful heir.</span></p>

@@ -1,5 +1,7 @@
 # archaism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archaism.md)
+
 <p><span class="chinese">“靓”本是一个古语词和方言词，曾一度消失于汉语普通话中。</span><span class="english">Secondly, she uses a series of archaism and dialect words, which increase reading delight.</span></p>
 
 <p><span class="chinese">对他来说，在被帝制支配数千年之久的中国，古汉语是统治者们为限制未受教育的大多数人的话语权蓄意扶植的。</span><span class="english">To him, imperial China's archaism was a grand conspiracy to silence the uneducated majority.</span></p>

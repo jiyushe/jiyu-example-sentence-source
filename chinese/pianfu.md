@@ -1,5 +1,7 @@
 # 篇幅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianfu.md)
+
 <p><span class="chinese">这篇论文篇幅太长。</span><span class="english">This paper is too long.</span></p>
 
 <p><span class="chinese">将内容控制在一页篇幅以内。</span><span class="english">Keep it to one page in length.</span></p>

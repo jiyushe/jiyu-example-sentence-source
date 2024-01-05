@@ -1,5 +1,7 @@
 # 错落有致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuoluoyouzhi.md)
+
 <p><span class="chinese">一个幻想的无缝错落有致。</span><span class="english">A Seamless Patchwork Of Fantasy.</span></p>
 
 <p><span class="chinese">整体排列错落有致缝隙宽窄适中。</span><span class="english">Moderate the overall arrangement of patchwork gap width.</span></p>

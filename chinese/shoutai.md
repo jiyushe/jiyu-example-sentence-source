@@ -1,5 +1,7 @@
 # 受胎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoutai.md)
+
 <p><span class="chinese">怀孕时是否接受受胎治疗？</span><span class="english">Was a fertility treatment used for this pregnancy?</span></p>
 
 <p><span class="chinese">对人类自其生命受胎之时始，就给予至高无上的尊重。</span><span class="english">I will maintain the utmost respect for human life, from the time of conception.</span></p>

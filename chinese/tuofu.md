@@ -1,5 +1,7 @@
 # 托付
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuofu.md)
+
 <p><span class="chinese">你是一位托付者吗？</span><span class="english">Are you a delegator?</span></p>
 
 <p><span class="chinese">她们把他托付给了上帝。</span><span class="english">They confided him to God.</span></p>

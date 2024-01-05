@@ -1,5 +1,7 @@
 # 不由自主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyouzizhu.md)
+
 <p><span class="chinese">我不由自主地爱这个世界。</span><span class="english">I loved the world despite myself.</span></p>
 
 <p><span class="chinese">呵呵，想到这里又不由自主的兴奋起来。</span><span class="english">I get exciting by bethink of this.</span></p>

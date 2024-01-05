@@ -1,5 +1,7 @@
 # realistically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realistically.md)
+
 <p><span class="chinese">我们应以现实主义的手法表现这一主题。</span><span class="english">We should treat the theme realistically.</span></p>
 
 <p><span class="chinese">实际上，我认为我们能攀到更高的位置。</span><span class="english">I think realistically we can finish higher.</span></p>

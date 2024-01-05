@@ -1,5 +1,7 @@
 # 齐心协力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixinxieli.md)
+
 <p><span class="chinese">我们可以齐心协力制止他.</span><span class="english">We can work together to stop him.</span></p>
 
 <p><span class="chinese">防艾与禁毒必须齐心协力、齐抓共管。</span><span class="english">AIDS drug must work together, together.</span></p>

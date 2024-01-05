@@ -1,5 +1,7 @@
 # 雷霆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiting.md)
+
 <p><span class="chinese">淘汰雷霆吗？抱歉，继续做梦吧。</span><span class="english">Against OKC? Sorry, but dream on.</span></p>
 
 <p><span class="chinese">啊竖琴与祭坛，为雷霆融合</span><span class="english">O harp and altar, of the fury fused</span></p>

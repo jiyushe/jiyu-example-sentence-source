@@ -1,5 +1,7 @@
 # lee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lee.md)
+
 <p><span class="chinese">李杰克。</span><span class="english">Jack Lee.</span></p>
 
 <p><span class="chinese">李锡旻这样说。</span><span class="english">Lee Ximin said.</span></p>

@@ -1,5 +1,7 @@
 # 水波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuibo.md)
+
 <p><span class="chinese">一块块石头中漾着水波</span><span class="english">Upon the brimming water among the stones</span></p>
 
 <p><span class="chinese">水波蛋是西式早餐的常客。</span><span class="english">Poached egg is usually seen in western breakfast.</span></p>

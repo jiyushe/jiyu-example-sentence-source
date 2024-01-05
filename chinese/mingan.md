@@ -1,5 +1,7 @@
 # 命案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingan.md)
+
 <p><span class="chinese">检察官说，他已经承认这些命案。</span><span class="english">Prosecutors said he had confessed to those slayings.</span></p>
 
 <p><span class="chinese">霍先生，我是为了一件命案来请教你的。你怎。</span><span class="english">Mr. Huo, I ask yours for the sake of a homicide case. You how.</span></p>

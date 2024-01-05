@@ -1,5 +1,7 @@
 # informer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/informer.md)
+
 <p><span class="chinese">告密者把他们出卖给了警察。</span><span class="english">The informer betrayed them to the police.</span></p>
 
 <p><span class="chinese">我们的任何一位雇员都有可能成为告密者。</span><span class="english">Any one of our employees could be the informer.</span></p>

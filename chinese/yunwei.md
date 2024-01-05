@@ -1,5 +1,7 @@
 # 韵味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunwei.md)
+
 <p><span class="chinese">这四个T头韵押得有韵味。</span><span class="english">The four T's alliterate  well.</span></p>
 
 <p><span class="chinese">奇妙的味道中带着中国韵味。</span><span class="english">Amazing taste with Chinese atomosphere. P. S.</span></p>

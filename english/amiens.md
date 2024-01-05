@@ -1,5 +1,7 @@
 # amiens
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amiens.md)
+
 <p><span class="chinese">法国北部亚眠城东北一小镇。</span><span class="english">A town of northern France northeast of Amiens.</span></p>
 
 <p><span class="chinese">盟国发射成功反攻在马恩和亚眠。</span><span class="english">Allies launch successful counter-offensives at the Marne and Amiens.</span></p>

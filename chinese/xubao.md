@@ -1,5 +1,7 @@
 # 虚报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xubao.md)
+
 <p><span class="chinese">他虚报所得税申报书。</span><span class="english">He fiddled an income-tax return.</span></p>
 
 <p><span class="chinese">女人总是会虚报年龄。</span><span class="english">Women often lie about their age.</span></p>

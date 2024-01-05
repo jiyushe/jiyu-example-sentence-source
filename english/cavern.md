@@ -1,5 +1,7 @@
 # cavern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cavern.md)
+
 <p><span class="chinese">小洞不补，大洞难堵。</span><span class="english">A small cave or cavern.</span></p>
 
 <p><span class="chinese">看真理闪躲，万劫不复。</span><span class="english">See skulking Truth to her old cavern fled.</span></p>

@@ -1,5 +1,7 @@
 # shopkeeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shopkeeper.md)
+
 <p><span class="chinese">一位名叫贾韦德.艾哈迈德的店主目睹了那次袭击。</span><span class="english">Shopkeeper Jawed Ahmad was nearby.</span></p>
 
 <p><span class="chinese">他是个小本经营的店主。</span><span class="english">He was a shopkeeper in a small way.</span></p>

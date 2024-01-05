@@ -1,5 +1,7 @@
 # hanukkah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hanukkah.md)
+
 <p><span class="chinese">嗨，吉姆。你知道光明节吗？</span><span class="english">Hi, Jim. Do you know about Hanukkah ?</span></p>
 
 <p><span class="chinese">给我讲讲光明节吧。</span><span class="english">Can you tell me something about Hanukkah?</span></p>

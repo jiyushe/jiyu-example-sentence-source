@@ -1,5 +1,7 @@
 # thomson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thomson.md)
+
 <p><span class="chinese">汤姆森挠挠头皮。</span><span class="english">Thomson scratched his head.</span></p>
 
 <p><span class="chinese">其他人之前也提出过这种说法。</span><span class="english">And that's what Thomson did.</span></p>

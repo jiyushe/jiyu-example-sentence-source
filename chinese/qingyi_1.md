@@ -1,5 +1,7 @@
 # 情意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyi_1.md)
+
 <p><span class="chinese">不用针线就用情意密密缝。</span><span class="english">Without no seams nor needle work.</span></p>
 
 <p><span class="chinese">作为女人，她也有情意缠绵，柔情似水的一面。</span><span class="english">As a woman, she is as sweet as honey too.</span></p>

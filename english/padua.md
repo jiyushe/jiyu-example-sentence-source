@@ -1,5 +1,7 @@
 # padua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/padua.md)
+
 <p><span class="chinese">第二年，他取道威尼西亚进入意大利，焚毁阿基利亚和帕多瓦，洗劫米兰。</span><span class="english">Next year he came into Italy by way of Venetia, burned Aquileia and Padua and looted Milan.</span></p>
 
 <p><span class="chinese">现在，这座古堡的房间被一位叫丽莎贝塔的老妇人出租给帕多瓦大学的学生们。</span><span class="english">Now, an old woman, Signora Lisabetta, rented its rooms to students at the University of Padua.</span></p>

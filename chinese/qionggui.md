@@ -1,5 +1,7 @@
 # 穷鬼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qionggui.md)
+
 <p><span class="chinese">你怎么说你是穷鬼啊？</span><span class="english">Why did you tell me you were poor?</span></p>
 
 <p><span class="chinese">我宁愿死，也不愿做一个穷鬼…</span><span class="english">I'd rather b dead than a po' nigga.</span></p>

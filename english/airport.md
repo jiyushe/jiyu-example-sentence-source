@@ -1,5 +1,7 @@
 # airport 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airport.md)
+
 <p><span class="chinese">哪个机场？</span><span class="english">Which airport?</span></p>
 
 <p><span class="chinese">城市还是机场？</span><span class="english">City or airport?</span></p>

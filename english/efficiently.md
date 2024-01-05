@@ -1,5 +1,7 @@
 # efficiently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/efficiently.md)
+
 <p><span class="chinese">他干事很有用率。</span><span class="english">He gets things done efficiently.</span></p>
 
 <p><span class="chinese">这油能有效地起润滑作用。</span><span class="english">This oil lubricates efficiently.</span></p>

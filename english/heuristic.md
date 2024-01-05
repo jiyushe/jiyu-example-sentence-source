@@ -1,5 +1,7 @@
 # heuristic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heuristic.md)
+
 <p><span class="chinese">选择启发式分支。</span><span class="english">Pick a branch heuristic.</span></p>
 
 <p><span class="chinese">要求客户进行启发式的界面复审。</span><span class="english">Ask customers to do heuristic UI reviews.</span></p>

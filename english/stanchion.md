@@ -1,5 +1,7 @@
 # stanchion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stanchion.md)
+
 <p><span class="chinese">父母是我们家的支柱。</span><span class="english">My parent are the stanchion of our family.</span></p>
 
 <p><span class="chinese">文中也提出了设计金属支柱线圈系的一系列原则。</span><span class="english">A series of principals of designing coil array with metal stanchion is put forward.</span></p>

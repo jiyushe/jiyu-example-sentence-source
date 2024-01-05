@@ -1,5 +1,7 @@
 # crinkly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crinkly.md)
+
 <p><span class="chinese">她的紧身马甲是用起皱的料子做的。</span><span class="english">Her bodice was made of crinkly material.</span></p>
 
 <p><span class="chinese">仔细检查“血疱”，发现其为一只卷缩肢体，吞食鼓膜的蜱。</span><span class="english">Microscope " hematic blister " , discover its are a crinkly limbs, devour tympanic tick.</span></p>

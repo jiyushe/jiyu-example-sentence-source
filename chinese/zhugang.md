@@ -1,5 +1,7 @@
 # 竹杠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhugang.md)
+
 <p><span class="chinese">他被侍者敲了一笔竹杠。</span><span class="english">He was soaked by the waiter.</span></p>
 
 <p><span class="chinese">是啊！那家伙敲我竹杠。</span><span class="english">Yeah, that guy ripped me off.</span></p>

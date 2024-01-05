@@ -1,5 +1,7 @@
 # 怯弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieruo.md)
+
 <p><span class="chinese">怯弱是通向消沉的桥。</span><span class="english">Timidity is the bridge to dejection.</span></p>
 
 <p><span class="chinese">我们不敢以怯弱来引诱他们。</span><span class="english">We dare not tempt them with weakness.</span></p>

@@ -1,5 +1,7 @@
 # aground
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aground.md)
+
 <p><span class="chinese">他们把船开到滩上去了。</span><span class="english">They ran the ship aground.</span></p>
 
 <p><span class="chinese">是的，搁浅在硬底质上。</span><span class="english">Yes, aground on rocky bottom.</span></p>

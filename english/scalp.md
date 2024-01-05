@@ -1,5 +1,7 @@
 # scalp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scalp.md)
+
 <p><span class="chinese">你的头皮发干么？</span><span class="english">Is your scalp dry?</span></p>
 
 <p><span class="chinese">Neal觉得头皮发麻。</span><span class="english">Neal’s scalp felt strange.</span></p>

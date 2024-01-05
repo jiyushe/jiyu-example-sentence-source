@@ -1,5 +1,7 @@
 # 乡土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangtu.md)
+
 <p><span class="chinese">和政治相仿，所有的医疗都是和乡土相结合的。</span><span class="english">Like politics, all medicine is local.</span></p>
 
 <p><span class="chinese">人们的乡土观念受到威胁。</span><span class="english">People's sense of turf has been threatened.</span></p>

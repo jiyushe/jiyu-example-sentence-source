@@ -1,5 +1,7 @@
 # 本性难移
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benxingnanyi.md)
+
 <p><span class="chinese">现在你知道他本性难移了吧。</span><span class="english">Now you know he won't change.</span></p>
 
 <p><span class="chinese">人的本性难移。</span><span class="english">You can't change human nature.</span></p>

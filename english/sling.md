@@ -1,5 +1,7 @@
 # sling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sling.md)
+
 <p><span class="chinese">吊索具是一种起重工具。</span><span class="english">Sling with a lifting gear.</span></p>
 
 <p><span class="chinese">吊索具是起重工具的一种。</span><span class="english">Sling with a lifting gear kind.</span></p>

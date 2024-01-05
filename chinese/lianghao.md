@@ -1,5 +1,7 @@
 # 良好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianghao.md)
+
 <p><span class="chinese">你感觉良好。</span><span class="english">You feel good.</span></p>
 
 <p><span class="chinese">但它或许会表现良好。</span><span class="english">It may do well.</span></p>

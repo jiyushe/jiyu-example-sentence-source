@@ -1,5 +1,7 @@
 # accentuate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accentuate.md)
+
 <p><span class="chinese">对于积极的方面，且让我强调一下。</span><span class="english">Let me accentuate the positive.</span></p>
 
 <p><span class="chinese">幸福伴侣总是强调积极的一面。</span><span class="english">Happy couples accentuate the positive.</span></p>

@@ -1,5 +1,7 @@
 # unleash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unleash.md)
+
 <p><span class="chinese">释放你的潜力！</span><span class="english">Unleash your Potential!</span></p>
 
 <p><span class="chinese">我们需要放开数以百万计企业家的手脚。</span><span class="english">We need to unleash millions of entrepreneurs.</span></p>

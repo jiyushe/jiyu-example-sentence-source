@@ -1,5 +1,7 @@
 # 膀胱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangguang.md)
+
 <p><span class="chinese">狗的膀胱并不很大。</span><span class="english">Dog bladders are not large.</span></p>
 
 <p><span class="chinese">膀胱鳞癌可以治愈吗？</span><span class="english">Can be cystic scale cancer cured?</span></p>

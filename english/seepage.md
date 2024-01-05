@@ -1,5 +1,7 @@
 # seepage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seepage.md)
+
 <p><span class="chinese">兼有密实及良好的防水防渗性。</span><span class="english">Both dense and good nature of water seepage.</span></p>
 
 <p><span class="chinese">在钟乳石溶洞里，可以见到渗流现象。</span><span class="english">Seepage flow can be observed in stalactite caves.</span></p>

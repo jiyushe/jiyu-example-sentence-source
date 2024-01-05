@@ -1,5 +1,7 @@
 # eyesore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyesore.md)
+
 <p><span class="chinese">我觉得它简直难看至极。</span><span class="english">I think it is an eyesore.</span></p>
 
 <p><span class="chinese">她是团体中的眼中钉。</span><span class="english">She is a real eyesore in the group.</span></p>

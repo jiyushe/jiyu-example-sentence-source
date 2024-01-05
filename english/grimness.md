@@ -1,5 +1,7 @@
 # grimness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grimness.md)
+
 <p><span class="chinese">啊，这个计划多么狰狞可怕啊！他真能实现吗?。</span><span class="english">Oh, the grimness and the terror of this plan! Could he really execute it?</span></p>
 
 <p><span class="chinese">我国水库移民事业仍然面临着巨大的挑战。</span><span class="english">Reservoir resettlement is still facing grimness challenges in our country.</span></p>

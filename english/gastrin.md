@@ -1,5 +1,7 @@
 # gastrin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastrin.md)
+
 <p><span class="chinese">研究促胃液素的生物化学时代开始了。</span><span class="english">The biochemical era in the study of gastrin was initiated.</span></p>
 
 <p><span class="chinese">癌细胞形成分泌颗粒释放胃泌素。</span><span class="english">Cancer cells release gastrin mainly with secretion granules.</span></p>

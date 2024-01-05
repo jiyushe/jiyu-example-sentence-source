@@ -1,5 +1,7 @@
 # 粗布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cubu.md)
+
 <p><span class="chinese">这件粗布衬衫刺得我皮肤发痛。</span><span class="english">This rough shirt prickles my skin.</span></p>
 
 <p><span class="chinese">请她为我做一件粗布衫。</span><span class="english">Tell her to make me a cambric shirt.</span></p>

@@ -1,5 +1,7 @@
 # sid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sid.md)
+
 <p><span class="chinese">席德讽刺地问道。</span><span class="english">Sid asked sarcastically.</span></p>
 
 <p><span class="chinese">但是我们不能命令席德。</span><span class="english">We couldn't command Sid.</span></p>

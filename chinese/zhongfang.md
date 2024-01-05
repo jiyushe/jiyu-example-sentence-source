@@ -1,5 +1,7 @@
 # 中方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongfang.md)
+
 <p><span class="chinese">中方哪些官员与他会见？</span><span class="english">Who did he meet with?</span></p>
 
 <p><span class="chinese">请问中方对此有何评论？</span><span class="english">Do you have any comment?</span></p>

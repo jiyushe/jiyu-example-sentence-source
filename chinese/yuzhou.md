@@ -1,5 +1,7 @@
 # 宇宙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhou.md)
+
 <p><span class="chinese">纸张背面的宇宙韵文在宇宙大学很受欢迎。</span><span class="english">Universe University.</span></p>
 
 <p><span class="chinese">巡行在空旷的宇宙。</span><span class="english">Traveling in empty space.</span></p>

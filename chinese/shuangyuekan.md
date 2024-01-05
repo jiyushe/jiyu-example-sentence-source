@@ -1,5 +1,7 @@
 # 双月刊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangyuekan.md)
+
 <p><span class="chinese">这是一本双月刊杂志。</span><span class="english">This is a bimonthly magazine.</span></p>
 
 <p><span class="chinese">我们同时也有中英对照双月刊的小册子要送给你。</span><span class="english">We also have a bilingual, bimonthly booklet we would like to give you.</span></p>

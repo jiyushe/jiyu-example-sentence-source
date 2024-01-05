@@ -1,5 +1,7 @@
 # medicinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medicinal.md)
+
 <p><span class="chinese">把药面均等称开。</span><span class="english">To scale medicinal powder.</span></p>
 
 <p><span class="chinese">这是为了医学用途。</span><span class="english">This is for medicinal purposes.</span></p>

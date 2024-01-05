@@ -1,5 +1,7 @@
 # 酣畅淋漓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanchanglinli.md)
+
 <p><span class="chinese">酣畅淋漓的射击体验！</span><span class="english">Experience the sensation of firing wildly!</span></p>
 
 <p><span class="chinese">真是一场酣畅淋漓的胜利。我很少看到50分大胜的比赛。</span><span class="english">Great win. I rarely saw a blow out by 50 pts.</span></p>

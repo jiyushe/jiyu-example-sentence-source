@@ -1,5 +1,7 @@
 # frilly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frilly.md)
+
 <p><span class="chinese">那个小女孩穿着一件有饰边的社交礼服。</span><span class="english">The little girl wore a frilly party dress.</span></p>
 
 <p><span class="chinese">我应该大力支持她穿百褶裙还是禁止她玩芭比娃娃？</span><span class="english">Would I embrace frilly dresses or ban Barbies?</span></p>

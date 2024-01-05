@@ -1,5 +1,7 @@
 # isoleucine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isoleucine.md)
+
 <p><span class="chinese">例如，米饭中的异亮氨酸和赖氨酸就非常少。</span><span class="english">For example rice is low in isoleucine and lysine.</span></p>
 
 <p><span class="chinese">画出异亮氨酸异构体的透视式。</span><span class="english">Draw perspective formulas for the isomers of isoleucine.</span></p>

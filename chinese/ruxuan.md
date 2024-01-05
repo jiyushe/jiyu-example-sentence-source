@@ -1,5 +1,7 @@
 # 入选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruxuan.md)
+
 <p><span class="chinese">她成功地入选了，</span><span class="english">And she was successful enough to get in</span></p>
 
 <p><span class="chinese">方法入选56例患者均在CCU接受治疗。</span><span class="english">Methods 56 cases were treated with CCU.</span></p>

@@ -1,5 +1,7 @@
 # horsetail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horsetail.md)
+
 <p><span class="chinese">我经常把它们扎成马尾辫。</span><span class="english">I usually tie them a horsetail plait.</span></p>
 
 <p><span class="chinese">史前的木贼灯芯草长得很大。</span><span class="english">Horsetail rushes in prehistoric times grew to immense size.</span></p>

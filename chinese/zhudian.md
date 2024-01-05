@@ -1,5 +1,7 @@
 # 住店
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhudian.md)
+
 <p><span class="chinese">你们是住店客人吗？</span><span class="english">Are you in ?house guests?</span></p>
 
 <p><span class="chinese">非住店客人是否可以使用健身中心？</span><span class="english">Can non-in-house guests use Fitness Center?</span></p>

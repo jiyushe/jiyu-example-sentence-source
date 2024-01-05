@@ -1,5 +1,7 @@
 # 神童
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shentong.md)
+
 <p><span class="chinese">约翰·斯图尔特·穆勒是一个神童。</span><span class="english">He was a child protege, John Stuart Mill.</span></p>
 
 <p><span class="chinese">在法国，他却是“五十亿天才神童”。</span><span class="english">In France, he's the " five billion whizz-kid".</span></p>

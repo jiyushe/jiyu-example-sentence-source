@@ -1,5 +1,7 @@
 # smelly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smelly.md)
+
 <p><span class="chinese">还有你的臭脚。</span><span class="english">And your smelly feet.</span></p>
 
 <p><span class="chinese">您喜欢臭的食物？</span><span class="english">You love smelly food?</span></p>

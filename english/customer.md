@@ -1,5 +1,7 @@
 # customer 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/customer.md)
+
 <p><span class="chinese">我们的客户是谁？</span><span class="english">Who is our customer?</span></p>
 
 <p><span class="chinese">谁是你的客户？</span><span class="english">Who is your customer?</span></p>

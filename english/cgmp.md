@@ -1,5 +1,7 @@
 # cgmp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cgmp.md)
+
 <p><span class="chinese">高剂量照射组节律不复存在。</span><span class="english">The rhythm of cGMP disappeared in high-does group.</span></p>
 
 <p><span class="chinese">CGMP文件记录没有经过质量部门评估就被丢弃了。</span><span class="english">CGMP documentation was discarded without being assessed by your quality unit.</span></p>

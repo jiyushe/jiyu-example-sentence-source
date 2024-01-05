@@ -1,5 +1,7 @@
 # 油锯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youju_2.md)
+
 <p><span class="chinese">我们已经有了几款专业型号油锯。</span><span class="english">We have several saws for professional users.</span></p>
 
 <p><span class="chinese">油锯锯链制动器测试装置，它涉及一种测试装置。</span><span class="english">Disclosed is a chainsaw arrester test device relating to a test device.</span></p>

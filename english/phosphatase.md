@@ -1,5 +1,7 @@
 # phosphatase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphatase.md)
+
 <p><span class="chinese">这酶是酸性磷酸酶。</span><span class="english">The enzyme was acid phosphatase.</span></p>
 
 <p><span class="chinese">硝酸还原酶是短寿酶。</span><span class="english">The enzyme was acid phosphatase.</span></p>

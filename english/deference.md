@@ -1,5 +1,7 @@
 # deference
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deference.md)
+
 <p><span class="chinese">但这样的守势不会持续太久。</span><span class="english">But this deference may not last.</span></p>
 
 <p><span class="chinese">他一边向后退，一边鞠着躬，真是一种讽刺的谦恭。</span><span class="english">He bowed in sarcastic deference.</span></p>

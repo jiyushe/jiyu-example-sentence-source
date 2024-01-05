@@ -1,5 +1,7 @@
 # scathing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scathing.md)
+
 <p><span class="chinese">对亲爱的老父亲的严厉指控。</span><span class="english">A scathing indictment of dear old dad.</span></p>
 
 <p><span class="chinese">Redfield在星期六撰博一篇对此事予以严厉抨击。</span><span class="english">Redfield blogged a scathing attack on Saturday.</span></p>

@@ -1,5 +1,7 @@
 # redness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redness.md)
+
 <p><span class="chinese">用绿色打出阴影来掩盖皮肤发红。</span><span class="english">Reduce redness by using a green shades.</span></p>
 
 <p><span class="chinese">所以,你会出皮疹,或者皮肤变红</span><span class="english">So, you get a rash, or a redness of the skin.</span></p>

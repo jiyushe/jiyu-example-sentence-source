@@ -1,5 +1,7 @@
 # dithering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dithering.md)
+
 <p><span class="chinese">他们的确一直在原地打转。</span><span class="english">They certainly have been dithering.</span></p>
 
 <p><span class="chinese">当竞赛开始时，参赛者紧张不安。</span><span class="english">The racers were dithering when the race started.</span></p>

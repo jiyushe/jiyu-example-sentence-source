@@ -1,5 +1,7 @@
 # carnage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carnage.md)
+
 <p><span class="chinese">如此教唆残杀，直到气喘咻咻。</span><span class="english">And thus for wider carnage taught to pant.</span></p>
 
 <p><span class="chinese">这个战场曾尸横遍地。</span><span class="english">The battlefield was a scene of great carnage.</span></p>

@@ -1,5 +1,7 @@
 # 世代相传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidaixiangchuan.md)
+
 <p><span class="chinese">卷发在这家是世代相传的。</span><span class="english">Curly hair runs in the blood.</span></p>
 
 <p><span class="chinese">个人的生活史首先是适应他的社团世代相传形成的生活方式和准则。</span><span class="english">The life history handed down in his community.</span></p>

@@ -1,5 +1,7 @@
 # entail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entail.md)
+
 <p><span class="chinese">这两个项目都为SIDBI提供了贷款。</span><span class="english">Both projects entail loans to SIDBI.</span></p>
 
 <p><span class="chinese">它们如何彼此导引与承继？</span><span class="english">Why does one lead to or entail the other?</span></p>

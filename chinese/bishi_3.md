@@ -1,5 +1,7 @@
 # 笔试
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bishi_3.md)
+
 <p><span class="chinese">我想在笔试的时候我答得很好。</span><span class="english">I think I did well in the paper exams.</span></p>
 
 <p><span class="chinese">之后，她转成了普通的笔试考试。</span><span class="english">Later, she switched to the normal test.</span></p>

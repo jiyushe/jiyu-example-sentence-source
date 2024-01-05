@@ -1,5 +1,7 @@
 # 礼制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizhi_1.md)
+
 <p><span class="chinese">平遥明清古城以“礼制“为本的历史特征，一在古城方三里。</span><span class="english">There are two historical features of Ming and Qing cities.</span></p>
 
 <p><span class="chinese">商晚期后，形制趋同，体现了礼制的规范与完善。</span><span class="english">In the later stage of Shang dynasty and later, the structure was convergent.</span></p>

@@ -1,5 +1,7 @@
 # 山径
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanjing.md)
+
 <p><span class="chinese">在河边，在海滩，在山径</span><span class="english">By stream, or sea, or mountain path</span></p>
 
 <p><span class="chinese">我还记得那样的场景，我看着他们在山径上走远。</span><span class="english">I remembered them across miles in the mountain.</span></p>

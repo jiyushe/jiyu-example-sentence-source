@@ -1,5 +1,7 @@
 # somaliland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somaliland.md)
+
 <p><span class="chinese">上图，索马里兰可以眺望到难民营的一个房顶上，男孩们在玩耍。</span><span class="english">Here, boys play on a roof overlooking a camp in Somaliland.</span></p>
 
 <p><span class="chinese">但这里的索马里没有现代节育手术。</span><span class="english">But modern contraception doesn't exist in this part of Somaliland.</span></p>

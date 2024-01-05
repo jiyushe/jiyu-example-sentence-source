@@ -1,5 +1,7 @@
 # 万一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanyi.md)
+
 <p><span class="chinese">万一你真说对了怎么办？</span><span class="english">What if you're right?</span></p>
 
 <p><span class="chinese">万一你失败了。</span><span class="english">If peradventure you fail.</span></p>

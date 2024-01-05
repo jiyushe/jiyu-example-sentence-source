@@ -1,5 +1,7 @@
 # predispose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predispose.md)
+
 <p><span class="chinese">早期对咖啡因的接触会导致一个人更易吸毒么？</span><span class="english">Does early exposure to caffeine predispose a person toward drug abuse?</span></p>
 
 <p><span class="chinese">事实正是这种创伤让人容易出现精神问题。</span><span class="english">And the trauma may, in fact, predispose people to having mental illness.</span></p>

@@ -1,5 +1,7 @@
 # 雨衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyi_7.md)
+
 <p><span class="chinese">你们有雨衣存货吗？</span><span class="english">Do you stock raincoats?</span></p>
 
 <p><span class="chinese">穿上你的雨衣。</span><span class="english">Put on your waterproofs.</span></p>

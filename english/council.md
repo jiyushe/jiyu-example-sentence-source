@@ -1,5 +1,7 @@
 # council
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/council.md)
+
 <p><span class="chinese">投入到产品理事会中。</span><span class="english">Invest in a product council.</span></p>
 
 <p><span class="chinese">您是如何看待这个委员会的？</span><span class="english">How do you view that council?</span></p>

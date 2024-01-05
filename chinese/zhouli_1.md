@@ -1,5 +1,7 @@
 # 州里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouli_1.md)
+
 <p><span class="chinese">在提前进行投票的州里，官员们报告的投票人数创下记录。</span><span class="english">Officials in early voting states are reporting record turnouts.</span></p>
 
 <p><span class="chinese">州里似乎有关于稀树大草原多种花色鲜明植物的早期记录。</span><span class="english">Seems like there were early records of savanna blazing star in the state.</span></p>

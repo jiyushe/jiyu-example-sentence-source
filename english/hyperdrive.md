@@ -1,5 +1,7 @@
 # hyperdrive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperdrive.md)
+
 <p><span class="chinese">超空间跳跃准备好了。</span><span class="english">Hyperdrive jump is ready.</span></p>
 
 <p><span class="chinese">该飞船有二级超光速推进器。</span><span class="english">The ship has a class two hyperdrive.</span></p>

@@ -1,5 +1,7 @@
 # patent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patent.md)
+
 <p><span class="chinese">那是我的专利发明。</span><span class="english">It's my patent.</span></p>
 
 <p><span class="chinese">这是他的专利发明。</span><span class="english">It is his patent device.</span></p>

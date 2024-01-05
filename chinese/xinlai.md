@@ -1,5 +1,7 @@
 # 信赖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinlai.md)
+
 <p><span class="chinese">向她显示你是一个值得信赖的人。</span><span class="english">Show her you’re trust worthy.</span></p>
 
 <p><span class="chinese">这么说，我们能信赖这些数据？</span><span class="english">Q. So we can trust the numbers?</span></p>

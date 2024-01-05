@@ -1,5 +1,7 @@
 # 图式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tushi.md)
+
 <p><span class="chinese">图式是为了演绎而设计的。</span><span class="english">And a schema is designed to evolve.</span></p>
 
 <p><span class="chinese">图式自身常常是想象力的产物。</span><span class="english">Schema is itself a product of imagination.</span></p>

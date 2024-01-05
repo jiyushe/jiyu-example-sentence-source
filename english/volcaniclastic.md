@@ -1,5 +1,7 @@
 # volcaniclastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volcaniclastic.md)
+
 <p><span class="chinese">风城组的白云岩及火山碎屑岩的分布部位也为良好的储层。</span><span class="english">Dolomite and volcaniclastic rocks of Fengcheng formation are also good reservoirs.</span></p>
 
 <p><span class="chinese">火山碎屑岩可见熔集块岩、熔角砾岩和熔结凝灰岩。</span><span class="english">The volcaniclastic rocks can be seen as fused lumps, fused breccias and fused tuffs.</span></p>

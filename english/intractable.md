@@ -1,5 +1,7 @@
 # intractable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intractable.md)
+
 <p><span class="chinese">我们还有很多的疑难杂症。</span><span class="english">We still have a lot of intractable diseases.</span></p>
 
 <p><span class="chinese">与此同时，这些严俊的问题还相当棘手。</span><span class="english">Meanwhile, the biggest problems are intractable.</span></p>

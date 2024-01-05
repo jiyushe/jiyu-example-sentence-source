@@ -1,5 +1,7 @@
 # kingdom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kingdom.md)
+
 <p><span class="chinese">在爱的幸福国都。</span><span class="english">In thm kingdom of love.</span></p>
 
 <p><span class="chinese">没有永垂不朽的王国。</span><span class="english">No kingdom lasts forever.</span></p>

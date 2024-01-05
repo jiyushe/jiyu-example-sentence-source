@@ -1,5 +1,7 @@
 # internal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internal.md)
+
 <p><span class="chinese">不要使用内部隐语。</span><span class="english">Don't use internal lingo.</span></p>
 
 <p><span class="chinese">这是内服药。</span><span class="english">This is for internal use.</span></p>

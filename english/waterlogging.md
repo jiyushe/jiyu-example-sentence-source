@@ -1,5 +1,7 @@
 # waterlogging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterlogging.md)
+
 <p><span class="chinese">喜鹊搭窝高，当年雨水涝。</span><span class="english">The magpies nest year high, waterlogging rain.</span></p>
 
 <p><span class="chinese">城市内涝在中国较为普遍。</span><span class="english">Urban waterlogging is relatively common in China.</span></p>

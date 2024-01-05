@@ -1,5 +1,7 @@
 # 老板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoban.md)
+
 <p><span class="chinese">老板哼一声。</span><span class="english">Boss humph.</span></p>
 
 <p><span class="chinese">你能够想象在22岁的时候就自己当老板并且财政独立么？</span><span class="english">Could you imagine?</span></p>

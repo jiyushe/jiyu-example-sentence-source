@@ -1,5 +1,7 @@
 # 羽绒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yurong.md)
+
 <p><span class="chinese">来显示自己震颤的羽绒？</span><span class="english">To show its tremulous plumes?</span></p>
 
 <p><span class="chinese">皮革。毛皮。羽绒及其制品业。</span><span class="english">Leather, Furs, Down and Related Products.</span></p>

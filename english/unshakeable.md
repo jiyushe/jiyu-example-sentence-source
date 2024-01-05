@@ -1,5 +1,7 @@
 # unshakeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unshakeable.md)
+
 <p><span class="chinese">更多的关于挖掘自信心的方法.</span><span class="english">More ways to unearth unshakeable confidence.</span></p>
 
 <p><span class="chinese">我们对宗教自由的承诺必须坚定不移。</span><span class="english">And our commitment to religious freedom must be unshakeable.</span></p>

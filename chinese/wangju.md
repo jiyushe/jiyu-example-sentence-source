@@ -1,5 +1,7 @@
 # 网具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangju.md)
+
 <p><span class="chinese">利用本软件设计的网具，具有良好的渔获效果。</span><span class="english">Net designed by the software has good fishing efficiency.</span></p>
 
 <p><span class="chinese">总之，剩下的钱我合部用来买燃料，绳索和网具。</span><span class="english">So anyway, I'm putting all those on gas, ropes, and new nets.</span></p>

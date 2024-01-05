@@ -1,5 +1,7 @@
 # 会心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huixin.md)
+
 <p><span class="chinese">我会心一笑。</span><span class="english">I smile.</span></p>
 
 <p><span class="chinese">发出会心的微笑。</span><span class="english">Smile with your heart.</span></p>

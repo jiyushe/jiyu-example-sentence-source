@@ -1,5 +1,7 @@
 # entrap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entrap.md)
+
 <p><span class="chinese">大话西游坑害了我们多少钱？</span><span class="english">All About West entrap us how much money ?</span></p>
 
 <p><span class="chinese">猎人们以罗网诱捕狮子。</span><span class="english">The hunters used nets to entrap the lion.</span></p>

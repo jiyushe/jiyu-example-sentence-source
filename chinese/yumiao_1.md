@@ -1,5 +1,7 @@
 # 鱼苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yumiao_1.md)
+
 <p><span class="chinese">在孵化网箱内进行鱼苗培育。</span><span class="english">Culture the fry in the hatchery cages.</span></p>
 
 <p><span class="chinese">暂停捕捞，散放了鼓眼鱼的鱼苗。</span><span class="english">Fishing was suspended. Walleye fry were stocked.</span></p>

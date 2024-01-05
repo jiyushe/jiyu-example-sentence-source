@@ -1,5 +1,7 @@
 # hazardous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hazardous.md)
+
 <p><span class="chinese">那是个危险的旅程。</span><span class="english">That was a hazardous journey.</span></p>
 
 <p><span class="chinese">神经衰弱者身临高处有危险。</span><span class="english">Great height is hazardous to the weak head.</span></p>

@@ -1,5 +1,7 @@
 # 压条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yatiao.md)
+
 <p><span class="chinese">压条是粮食增产的一种方式。</span><span class="english">Layer is a method for propagating crops.</span></p>
 
 <p><span class="chinese">骨架中配以橡胶压条。</span><span class="english">Rubber trim strip is equipped in the bone.</span></p>

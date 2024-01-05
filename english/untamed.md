@@ -1,5 +1,7 @@
 # untamed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untamed.md)
+
 <p><span class="chinese">处于野性或未驯服的状态。</span><span class="english">The state of being wild or untamed.</span></p>
 
 <p><span class="chinese">因此，网络空间是在许多方面，一个蛮荒的边界。</span><span class="english">Therefore, the cyberspace is in many ways, an untamed frontier.</span></p>

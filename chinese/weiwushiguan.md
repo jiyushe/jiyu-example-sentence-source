@@ -1,5 +1,7 @@
 # 唯物史观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiwushiguan.md)
+
 <p><span class="chinese">唯物史观是马克思的伟大发现。</span><span class="english">Historical materialism is a great finding of Mark.</span></p>
 
 <p><span class="chinese">拉布里奥拉对唯物史观的阐发是富有创造性的。</span><span class="english">Antonio Labriola expounded on the historical materialism is creative.</span></p>

@@ -1,5 +1,7 @@
 # affiliate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affiliate.md)
+
 <p><span class="chinese">什么是代销商认证？</span><span class="english">What is Affiliate Certification?</span></p>
 
 <p><span class="chinese">与推广的图像和更多的加盟页。</span><span class="english">Affiliate Page with Promo Images and More.</span></p>

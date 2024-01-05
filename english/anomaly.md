@@ -1,5 +1,7 @@
 # anomaly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anomaly.md)
+
 <p><span class="chinese">石敢当欣喜异常照做。</span><span class="english">Stone do I dare joy anomaly.</span></p>
 
 <p><span class="chinese">该数据不包含异常情况。</span><span class="english">The data did contain an anomaly.</span></p>

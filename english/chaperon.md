@@ -1,5 +1,7 @@
 # chaperon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chaperon.md)
+
 <p><span class="chinese">我想我们不需要监护人。</span><span class="english">I don't think we need a chaperon.</span></p>
 
 <p><span class="chinese">我明天得在一场晚会上帮忙照应。</span><span class="english">I have to chaperon a party tomorrow.</span></p>

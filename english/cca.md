@@ -1,5 +1,7 @@
 # cca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cca.md)
+
 <p><span class="chinese">我们保证到文建会10页每一个月。</span><span class="english">We guarantee up to cca 10 pages every month.</span></p>
 
 <p><span class="chinese">中国消费者协会的经费由政府资助和社会赞助。</span><span class="english">CCA is funded by Government subvention and social donations.</span></p>

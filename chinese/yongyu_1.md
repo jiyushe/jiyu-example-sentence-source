@@ -1,5 +1,7 @@
 # 用语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongyu_1.md)
+
 <p><span class="chinese">这是吉姆的常用语手册吗?。</span><span class="english">Is this Jim's phrasebook?</span></p>
 
 <p><span class="chinese">这是很忌讳的用语,非常地不礼貌</span><span class="english">Those are fighting words.</span></p>

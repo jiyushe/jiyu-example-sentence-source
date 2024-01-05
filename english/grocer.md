@@ -1,5 +1,7 @@
 # grocer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grocer.md)
+
 <p><span class="chinese">杂货商笑了。</span><span class="english">The grocer smiled.</span></p>
 
 <p><span class="chinese">那杂货商从不多要价。</span><span class="english">That grocer never overcharges.</span></p>

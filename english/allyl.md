@@ -1,5 +1,7 @@
 # allyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allyl.md)
+
 <p><span class="chinese">这种烯丙基型的树脂是一种高度透明的、无色材料。</span><span class="english">This allyl type resin is a highly transparent, colourless material.</span></p>
 
 <p><span class="chinese">采用液氨为氨化试剂，在乙醇中氨解烯丙基氯，得到了烯丙基胺。</span><span class="english">Allylamine was prepared from the ammonolysis of allyl chloride in ethanol.</span></p>

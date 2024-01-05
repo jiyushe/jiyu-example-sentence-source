@@ -1,5 +1,7 @@
 # 别有风味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bieyoufengwei.md)
+
 <p><span class="chinese">新西兰圣诞同样因为炎热而别有风味。</span><span class="english">There is twice Christmas in a year in New Zealand.</span></p>
 
 <p><span class="chinese">过滤倒入杯子里，加冰块。就好啦！热饮也别有风味。</span><span class="english">Pour the tea into a cup, it could be serve hot too.</span></p>

@@ -1,5 +1,7 @@
 # afghani
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afghani.md)
+
 <p><span class="chinese">在阿富汗社会，敌人之间进行直接对话是不可能的。</span><span class="english">In Afghani communities, it is impossible to talk direct enemy to enemy.</span></p>
 
 <p><span class="chinese">我们呼吁阿富汗媒体停止传播谎言，不要成为仇视伊斯兰的西方媒体的传声筒。</span><span class="english">We also call on Afghani media to stop spreading the lies of Islam hating western media by becoming their translators.</span></p>

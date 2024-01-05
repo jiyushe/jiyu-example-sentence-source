@@ -1,5 +1,7 @@
 # 良民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangmin.md)
+
 <p><span class="chinese">如题。咋们可是良民。</span><span class="english">If topic. how, but common people.</span></p>
 
 <p><span class="chinese">美国朋友，我是良民。</span><span class="english">SIR, I am a pro-american Chinese.</span></p>

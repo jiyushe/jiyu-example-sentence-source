@@ -1,5 +1,7 @@
 # swoop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swoop.md)
+
 <p><span class="chinese">告诉他，飞标，生病。</span><span class="english">Tell him Swoop sick.</span></p>
 
 <p><span class="chinese">使俺，钢索，看你们，没看飞标。</span><span class="english">Make me, Grimlock, watch you and not Swoop.</span></p>

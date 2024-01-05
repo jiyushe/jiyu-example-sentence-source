@@ -1,5 +1,7 @@
 # sooty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sooty.md)
+
 <p><span class="chinese">我们透过满是煤烟的窗户往外看。</span><span class="english">We looked out through the sooty windows.</span></p>
 
 <p><span class="chinese">在阳光笼罩下了一只黑色信天翁俯视着金港。</span><span class="english">A light- mantled sooty albatross looks down on Gold Harbour.</span></p>

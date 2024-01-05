@@ -1,5 +1,7 @@
 # 阴极射线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinjishexian.md)
+
 <p><span class="chinese">阴极射线被正电荷所吸引。</span><span class="english">Cathode rays are attracted by a positive charge.</span></p>
 
 <p><span class="chinese">现将阴极射线的一些特性开列如下。</span><span class="english">Some of the properties of cathode rays listed below.</span></p>

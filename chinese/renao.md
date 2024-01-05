@@ -1,5 +1,7 @@
 # 惹恼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renao.md)
+
 <p><span class="chinese">他的嘲笑惹恼了她。</span><span class="english">His ridicule chafed her.</span></p>
 
 <p><span class="chinese">嘈吵的噪音惹恼牡蛎。</span><span class="english">A noisy noise annoys an oyster.</span></p>

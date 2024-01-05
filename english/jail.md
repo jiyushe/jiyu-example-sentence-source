@@ -1,5 +1,7 @@
 # jail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jail.md)
+
 <p><span class="chinese">它的监狱。</span><span class="english">Its jail.</span></p>
 
 <p><span class="chinese">你们锁在监狱里了。</span><span class="english">You’re in jail.</span></p>

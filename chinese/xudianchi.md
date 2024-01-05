@@ -1,5 +1,7 @@
 # 蓄电池
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xudianchi.md)
+
 <p><span class="chinese">蓄电池正在充电。</span><span class="english">The storage battery is bng charged.</span></p>
 
 <p><span class="chinese">他答应给我车上的蓄电池充电。</span><span class="english">He promised to charge up my car battery.</span></p>

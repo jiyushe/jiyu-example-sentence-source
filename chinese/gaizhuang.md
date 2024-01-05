@@ -1,5 +1,7 @@
 # 改装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaizhuang.md)
+
 <p><span class="chinese">一名男子，驾驶着一辆已被改装成炸弹的汽车。</span><span class="english">A man with a car fashioned into a bomb.</span></p>
 
 <p><span class="chinese">我可以改装让炸弹立即引爆。</span><span class="english">I can rig it so it detonates on impact.</span></p>

@@ -1,5 +1,7 @@
 # 开头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaitou.md)
+
 <p><span class="chinese">竹屋的开头字母是「B」。</span><span class="english">B is for bamboo hut.</span></p>
 
 <p><span class="chinese">索利斯有个好开头。</span><span class="english">Solis had a good start.</span></p>

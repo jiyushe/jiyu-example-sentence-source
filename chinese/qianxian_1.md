@@ -1,5 +1,7 @@
 # 前贤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianxian_1.md)
+
 <p><span class="chinese">前贤今人的著作每每提及，但却往往浅尝辄止，甚至陈陈相因。</span><span class="english">Many scholar often mentioned, but often superficial, and even copy the former.</span></p>
 
 <p><span class="chinese">也是他对前贤山水田园审美精神的踵武。</span><span class="english">It was also an acceptance of aesthetics spirit to mountains and rivers of the old people.</span></p>

@@ -1,5 +1,7 @@
 # diplomatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diplomatic.md)
+
 <p><span class="chinese">李导游对此倒是一副外交辞令。</span><span class="english">Li was diplomatic.</span></p>
 
 <p><span class="chinese">他享有外交特权。</span><span class="english">He enjoys diplomatic privileges.</span></p>

@@ -1,5 +1,7 @@
 # appeared
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appeared.md)
+
 <p><span class="chinese">然后你出现了。</span><span class="english">Then you appeared.</span></p>
 
 <p><span class="chinese">但你出现了。</span><span class="english">But then you appeared.</span></p>

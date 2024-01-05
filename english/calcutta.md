@@ -1,5 +1,7 @@
 # calcutta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calcutta.md)
+
 <p><span class="chinese">果然，我们找到了二个在加尔各达的NGO。</span><span class="english">We did find two NGOs in Calcutta.</span></p>
 
 <p><span class="chinese">加尔各达的一个小男孩要庆祝他的生日。</span><span class="english">A little boy in Calcutta was celebrating his birthday.</span></p>

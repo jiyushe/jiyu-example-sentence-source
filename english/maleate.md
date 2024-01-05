@@ -1,5 +1,7 @@
 # maleate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maleate.md)
+
 <p><span class="chinese">顺丁烯二酸乙酯为反应中间产物。</span><span class="english">The intermediate of reaction is monoethyl maleate.</span></p>
 
 <p><span class="chinese">目的研究抗抑郁新药马来酸氟伏沙明的合成。</span><span class="english">Aim To study on the synthesis of fluvoxamine maleate.</span></p>

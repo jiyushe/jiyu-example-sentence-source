@@ -1,5 +1,7 @@
 # hail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hail.md)
+
 <p><span class="chinese">向我们的敌人致敬。</span><span class="english">Hail to our emeny.</span></p>
 
 <p><span class="chinese">贝奥武甫王万岁！</span><span class="english">All hail King Beowulf.</span></p>

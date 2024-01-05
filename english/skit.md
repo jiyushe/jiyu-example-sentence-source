@@ -1,5 +1,7 @@
 # skit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skit.md)
+
 <p><span class="chinese">这是我最喜欢的滑稽短剧。</span><span class="english">That was one of my favorite skit.</span></p>
 
 <p><span class="chinese">虽然还是个孩子，但是在一个滑稽短剧中却可以看到他拥有着惊人的小弟弟。</span><span class="english">Child with an extraordinary penis from a comedy skit</span></p>

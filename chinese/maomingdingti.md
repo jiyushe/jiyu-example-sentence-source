@@ -1,5 +1,7 @@
 # 冒名顶替
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maomingdingti.md)
+
 <p><span class="chinese">小右是冒名顶替的。</span><span class="english">Righty is an imposter.</span></p>
 
 <p><span class="chinese">那他们就都是冒名顶替者了。</span><span class="english">Then they're both imposters.</span></p>

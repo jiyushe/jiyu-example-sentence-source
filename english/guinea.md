@@ -1,5 +1,7 @@
 # guinea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guinea.md)
+
 <p><span class="chinese">熏制的珍珠鸡。</span><span class="english">Smoked guinea fowl.</span></p>
 
 <p><span class="chinese">它只是你的豚鼠！</span><span class="english">It is just your guinea pig!</span></p>

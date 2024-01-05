@@ -1,5 +1,7 @@
 # 鸡皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jipi.md)
+
 <p><span class="chinese">怎样祛除天生的鸡皮身子？</span><span class="english">How the gallinaceous skin body with inherent dispel?</span></p>
 
 <p><span class="chinese">对菏泽鸡皮山药营养成分进行了系统分析。</span><span class="english">The nutrient content was analysed in Jipi Chinese Yam.</span></p>

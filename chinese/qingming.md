@@ -1,5 +1,7 @@
 # 清明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingming.md)
+
 <p><span class="chinese">艺术经过陶冶才能变得清明。</span><span class="english">Art will become clear after being edified.</span></p>
 
 <p><span class="chinese">对于那些弥足珍贵的清明时刻。</span><span class="english">When you get those rare moments of clarity.</span></p>

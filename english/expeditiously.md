@@ -1,5 +1,7 @@
 # expeditiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expeditiously.md)
+
 <p><span class="chinese">必须尽快制订措施拯救曲阳石雕这一古老的手工技艺。</span><span class="english">Quyang to expeditiously formulate measures to save the ancient stone craftsmanship.</span></p>
 
 <p><span class="chinese">中方将在履行完国内手续后，尽快实施。</span><span class="english">This measure will come into effect expeditiously once the domestic review process is completed.</span></p>

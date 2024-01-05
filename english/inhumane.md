@@ -1,5 +1,7 @@
 # inhumane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhumane.md)
+
 <p><span class="chinese">那将是不道德的，没有人性的。</span><span class="english">That would be immoral and inhumane.</span></p>
 
 <p><span class="chinese">这种新式武器太惨无人道而不宜使用。</span><span class="english">The new weapon was too inhumane to be used.</span></p>

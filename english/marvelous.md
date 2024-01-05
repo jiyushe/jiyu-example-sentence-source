@@ -1,5 +1,7 @@
 # marvelous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marvelous.md)
+
 <p><span class="chinese">最令人惊叹同时也是</span><span class="english">Here's the marvelous thing.</span></p>
 
 <p><span class="chinese">这儿的秋天真美。</span><span class="english">The autumn's marvelous here.</span></p>

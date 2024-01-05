@@ -1,5 +1,7 @@
 # 知根知底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhigenzhidi.md)
+
 <p><span class="chinese">你可以采取同样的策略来击败那些对你知根知底的家伙。</span><span class="english">You can take a similar approach to beating the player who has your number.</span></p>
 
 <p><span class="chinese">目前东芝公司一个可能的亮点就是新首席执行长对公司业务知根知底。</span><span class="english">A possible bright spot for Toshiba is the business that the new CEO knows best.</span></p>

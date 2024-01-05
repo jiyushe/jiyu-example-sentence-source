@@ -1,5 +1,7 @@
 # biogeochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biogeochemistry.md)
+
 <p><span class="chinese">本文简述了华南酸性岩类风化壳稀土元素生物地球化学研究现状。</span><span class="english">The REE biogeochemistry of the weathering crust of acid rocks in south China was reviewed.</span></p>
 
 <p><span class="chinese">综述了1998年以来中国海洋生物地球化学研究的主要进展。</span><span class="english">The advances in marine biogeochemistry studies in China since 1998 are reviewed in this paper.</span></p>

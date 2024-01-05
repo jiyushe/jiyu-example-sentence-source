@@ -1,5 +1,7 @@
 # 前列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianlie.md)
+
 <p><span class="chinese">我还知道伊朗妇女站在运动的前列。</span><span class="english">Iran’s women stand in the vanguard.</span></p>
 
 <p><span class="chinese">甲氨蝶呤和米索前列醇使用是一个分两步走的方法。</span><span class="english">Methotrexate and misoprostol use is a two-step method.</span></p>

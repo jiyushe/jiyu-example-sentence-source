@@ -1,5 +1,7 @@
 # luxation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luxation.md)
+
 <p><span class="chinese">牙齿移位是最常见的外伤类型。</span><span class="english">The most common injuries were luxation.</span></p>
 
 <p><span class="chinese">平托的这种能力通常被称做“眼球脱臼”。</span><span class="english">Pinto's ability is called "globe luxation.</span></p>

@@ -1,5 +1,7 @@
 # 有恃无恐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshiwukong.md)
+
 <p><span class="chinese">⊙、瘦不了的永远在骚动，吃不胖的都有恃无恐。</span><span class="english">Thin not forever in the commotion, eat not fat are operated.</span></p>
 
 <p><span class="chinese">拿破仑自以为兵员充足，有恃无恐。</span><span class="english">Nepoleon from think the soldier is ample, there is Shi have no perhaps.</span></p>

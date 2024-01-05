@@ -1,5 +1,7 @@
 # lysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lysis.md)
+
 <p><span class="chinese">碱裂解法提取质粒。</span><span class="english">Plasmid DNA was extracted by alkaline lysis method.</span></p>
 
 <p><span class="chinese">在钙离子浓度高时，他们融合而不解体。</span><span class="english">At high calcium concentration they fuse without lysis.</span></p>

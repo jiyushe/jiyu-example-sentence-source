@@ -1,5 +1,7 @@
 # 如获至宝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruhuozhibao.md)
+
 <p><span class="chinese">弄到这本书，他如获至宝。</span><span class="english">Li Ping did. He wanted his book back.</span></p>
 
 <p><span class="chinese">警戒委员会自然是如获至宝，还围绕着这份信设下了一个圈套。</span><span class="english">The Committee of Vigilance pounced on the letter.</span></p>

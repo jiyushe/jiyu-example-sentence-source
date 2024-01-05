@@ -1,5 +1,7 @@
 # polluting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polluting.md)
+
 <p><span class="chinese">我们正在污染空气。</span><span class="english">We are polluting the air.</span></p>
 
 <p><span class="chinese">我们正在污染水资源。</span><span class="english">We are polluting the water.</span></p>

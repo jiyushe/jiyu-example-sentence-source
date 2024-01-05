@@ -1,5 +1,7 @@
 # 无恶不作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuebuzuo.md)
+
 <p><span class="chinese">那个阴险的家伙心如蛇蝎，无恶不作。</span><span class="english">AS a viper, stopped at no evils.</span></p>
 
 <p><span class="chinese">去年那些暴徒在街上横行霸道，无恶不作。</span><span class="english">The street was overrun by the bullies last year.</span></p>

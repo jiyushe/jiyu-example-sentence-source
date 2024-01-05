@@ -1,5 +1,7 @@
 # equable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equable.md)
+
 <p><span class="chinese">这是一部比较温和的电影。</span><span class="english">It is a very equable film.</span></p>
 
 <p><span class="chinese">他是一个性情平静的人。</span><span class="english">He is a man of equable temper.</span></p>

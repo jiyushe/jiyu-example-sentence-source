@@ -1,5 +1,7 @@
 # pastiche
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pastiche.md)
+
 <p><span class="chinese">这是一张模仿画。</span><span class="english">This is a pastiche.</span></p>
 
 <p><span class="chinese">娜拉有唱歌的天赋。</span><span class="english">He has a gift for pastiche.</span></p>

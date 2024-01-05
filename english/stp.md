@@ -1,5 +1,7 @@
 # stp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stp.md)
+
 <p><span class="chinese">失效-端口未激活或没有参与STP。</span><span class="english">Disabled-The port is inactive and does not participate in STP.</span></p>
 
 <p><span class="chinese">透明桥通过交换BPDU来完成STP通讯。</span><span class="english">Transparent bridges performing STP communicate by exchanging BPDUs.</span></p>

@@ -1,5 +1,7 @@
 # meekness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meekness.md)
+
 <p><span class="chinese">节制是得胜的爱。</span><span class="english">Meekness is love's comeliness.</span></p>
 
 <p><span class="chinese">神也在培育种植提升他的温文。</span><span class="english">God was cultivating meekness in Moses.</span></p>

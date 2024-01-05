@@ -1,5 +1,7 @@
 # entrails
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entrails.md)
+
 <p><span class="chinese">还是鸡内脏？</span><span class="english">Chicken entrails?</span></p>
 
 <p><span class="chinese">绿色内脏。</span><span class="english">Entrails of greenness.</span></p>

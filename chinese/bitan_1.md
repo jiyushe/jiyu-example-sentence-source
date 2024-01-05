@@ -1,5 +1,7 @@
 # 笔谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bitan_1.md)
+
 <p><span class="chinese">即使在他们自己的寝宫里，他们也用笔谈。</span><span class="english">Even in their own palaces they write to each other.</span></p>
 
 <p><span class="chinese">这里发表的是15位与会学者的笔谈。</span><span class="english">Collected here are papers of 15 of the participants.</span></p>

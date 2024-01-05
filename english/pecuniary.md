@@ -1,5 +1,7 @@
 # pecuniary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pecuniary.md)
+
 <p><span class="chinese">她似乎不愿在经济上仰人鼻息。</span><span class="english">She seemed averse to being under pecuniary obligations.</span></p>
 
 <p><span class="chinese">她很，所以拒绝一切金钱上的资助。</span><span class="english">She is so independent that she refused all pecuniary aid.</span></p>

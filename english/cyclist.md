@@ -1,5 +1,7 @@
 # cyclist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclist.md)
+
 <p><span class="chinese">骑车的人使劲儿按车铃。</span><span class="english">The cyclist rang his bell loudly.</span></p>
 
 <p><span class="chinese">给郁金香园地拍照的的骑车人。</span><span class="english">Cyclist taking photo of tulip field.</span></p>

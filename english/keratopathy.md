@@ -1,5 +1,7 @@
 # keratopathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keratopathy.md)
+
 <p><span class="chinese">左眼有暴露性角膜炎及视神经苍白。</span><span class="english">There were exposure keratopathy and pallor disc in the left eye.</span></p>
 
 <p><span class="chinese">目的探讨药物毒性角膜病变的发病机理及治疗。</span><span class="english">Objective To discuss the mechanism and therapy of drug toxic keratopathy.</span></p>

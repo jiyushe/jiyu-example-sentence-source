@@ -1,5 +1,7 @@
 # 理由
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liyou_1.md)
+
 <p><span class="chinese">什么理由?</span><span class="english">What reason?</span></p>
 
 <p><span class="chinese">这是有好理由的。</span><span class="english">And for good reason.</span></p>

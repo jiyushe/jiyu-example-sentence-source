@@ -1,5 +1,7 @@
 # rubbings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rubbings.md)
+
 <p><span class="chinese">然而不幸中的大幸是，它的拓本一直在民间流传。</span><span class="english">Rubbings in the spread of civil cases.</span></p>
 
 <p><span class="chinese">用剪刀将叶子拓片剪下。</span><span class="english">Cut out the leaf rubbings with scissors.</span></p>

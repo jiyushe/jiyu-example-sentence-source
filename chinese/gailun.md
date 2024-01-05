@@ -1,5 +1,7 @@
 # 概论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gailun.md)
+
 <p><span class="chinese">你不能教概论。</span><span class="english">You can't teach a survey.</span></p>
 
 <p><span class="chinese">第一章阐述唱名法的概论。</span><span class="english">Chapter I The introduction of solmization.</span></p>

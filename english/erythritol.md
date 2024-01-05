@@ -1,5 +1,7 @@
 # erythritol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erythritol.md)
+
 <p><span class="chinese">初步探索其机制，发现赤藓糖醇并没有破坏变异链球菌细胞壁结构的完整性。</span><span class="english">To study the mechanism of it, we found that erythritol didn't decompose the cell wall.</span></p>
 
 <p><span class="chinese">赤藓糖醇属于填充型甜味剂，口感清凉，热量低，安全性高。</span><span class="english">Erythritol is a kind of adding sweetener, with lower heat, cool feeling and food safety.</span></p>

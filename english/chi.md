@@ -1,5 +1,7 @@
 # chi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chi.md)
+
 <p><span class="chinese">吴起镇赢得了我的欢心。</span><span class="english">Wu chi chen had won my heart.</span></p>
 
 <p><span class="chinese">来段日常的太极练习。</span><span class="english">Begin a daily tai chi practice.</span></p>

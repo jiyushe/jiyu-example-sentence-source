@@ -1,5 +1,7 @@
 # 成心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengxin.md)
+
 <p><span class="chinese">他成心让我难堪。</span><span class="english">He purposely embarrassed me.</span></p>
 
 <p><span class="chinese">用红纸折成心形的贺卡</span><span class="english">Accompanied by red paper hearts</span></p>

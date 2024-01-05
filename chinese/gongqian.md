@@ -1,5 +1,7 @@
 # 工钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongqian.md)
+
 <p><span class="chinese">更何况，有些工人根本拿不到工钱。</span><span class="english">Some are not being paid at all.</span></p>
 
 <p><span class="chinese">乔.安奎尔付了他们工钱，没说太多。</span><span class="english">Joe Aguirre paid them, said little.</span></p>

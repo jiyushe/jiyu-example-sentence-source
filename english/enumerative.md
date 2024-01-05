@@ -1,5 +1,7 @@
 # enumerative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enumerative.md)
+
 <p><span class="chinese">提出了一种求解整数线性规划的新的隐数算法。</span><span class="english">This paper presents a new implicit enumerative algorithm for integer linear programs.</span></p>
 
 <p><span class="chinese">六西格玛黑带应该了解什么时候用计数性统计方法、什么时候不用。</span><span class="english">The Six Sigma Black Belt should know when to apply enumerative statistical methods, and when not to.</span></p>

@@ -1,5 +1,7 @@
 # handkerchief
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handkerchief.md)
+
 <p><span class="chinese">注意他的手帕。</span><span class="english">Notice the handkerchief.</span></p>
 
 <p><span class="chinese">这是他的手帕。</span><span class="english">There's the handkerchief.</span></p>

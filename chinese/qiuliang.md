@@ -1,5 +1,7 @@
 # 秋凉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuliang.md)
+
 <p><span class="chinese">秋凉的时候，夜里要盖被子了，可是白天却依然很热。</span><span class="english">The cool night time, will cover the quilt, but during the day but still very hot.</span></p>
 
 <p><span class="chinese">黑色平底的山羊皮长靴和羊毛衫让秋凉望而却步。</span><span class="english">Her flat black suede boots and cardigan help make this cooler weather appropriate.</span></p>

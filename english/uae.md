@@ -1,5 +1,7 @@
 # uae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uae.md)
+
 <p><span class="chinese">明天越南队也将对阵阿联酋队。</span><span class="english">VN will vs UAE team tmrrow , too.</span></p>
 
 <p><span class="chinese">所有的建筑材料都将采自阿联酋本国。</span><span class="english">All materials will be quarried in the UAE.</span></p>

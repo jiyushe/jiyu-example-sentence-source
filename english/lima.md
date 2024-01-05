@@ -1,5 +1,7 @@
 # lima
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lima.md)
+
 <p><span class="chinese">利马出现在1535年。</span><span class="english">Lima appeared in 1535.</span></p>
 
 <p><span class="chinese">葫豆？还真是第一次听说。</span><span class="english">Lima beans? My first time to hear it.</span></p>

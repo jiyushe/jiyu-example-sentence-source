@@ -1,5 +1,7 @@
 # fascinating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fascinating.md)
+
 <p><span class="chinese">令人着迷。</span><span class="english">Fascinating.</span></p>
 
 <p><span class="chinese">吸引人的课题。</span><span class="english">Fascinating subjects.</span></p>

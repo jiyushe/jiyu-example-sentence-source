@@ -1,5 +1,7 @@
 # 听神经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingshenjing.md)
+
 <p><span class="chinese">这些肿瘤被称为听神经瘤。</span><span class="english">These tumors are called acoustic neuromas.</span></p>
 
 <p><span class="chinese">听神经瘤的影响中只有不到一个十万人一年。</span><span class="english">Acoustic neuromas affect fewer than one in one hundred thousand people a year.</span></p>

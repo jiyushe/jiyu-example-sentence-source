@@ -1,5 +1,7 @@
 # 开动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaidong.md)
+
 <p><span class="chinese">说着又开动牙钻钻了起来。</span><span class="english">He operated the drill again.</span></p>
 
 <p><span class="chinese">他按下按钮开动了机器。</span><span class="english">And click on the order button.</span></p>

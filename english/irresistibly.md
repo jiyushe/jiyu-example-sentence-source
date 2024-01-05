@@ -1,5 +1,7 @@
 # irresistibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irresistibly.md)
+
 <p><span class="chinese">搞创造对他有无法抗拒的吸引力。</span><span class="english">Creative work appealed to him irresistibly.</span></p>
 
 <p><span class="chinese">那画很美，它无可抗拒地吸引了他。</span><span class="english">There was beauty, and it drew him irresistibly.</span></p>

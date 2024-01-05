@@ -1,5 +1,7 @@
 # 腾云驾雾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tengyunjiawu.md)
+
 <p><span class="chinese">那天晚上，他们就如腾云驾雾一般。</span><span class="english">She and Sally were in the clouds that evening.</span></p>
 
 <p><span class="chinese">现在是时候让你自己在大峡谷上腾云驾雾70英尺了。</span><span class="english">Now it is time for you to walk on air for 70 feet over the Grand Canyon.</span></p>

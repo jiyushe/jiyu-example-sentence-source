@@ -1,5 +1,7 @@
 # evangelization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evangelization.md)
+
 <p><span class="chinese">传播福音是基督徒的责任。</span><span class="english">Evangelization is the responsibility of all Christians.</span></p>
 
 <p><span class="chinese">在担任教皇期间，约翰·保罗倡导欧洲进行第二次基督教化。</span><span class="english">John Paul has called for a second evangelization of Europe.</span></p>

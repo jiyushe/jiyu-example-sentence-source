@@ -1,5 +1,7 @@
 # fy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fy.md)
+
 <p><span class="chinese">完成07财年年度计划并通过安全执行局审批</span><span class="english">Complete the FY 07 Annual Plan and secure Board approval.</span></p>
 
 <p><span class="chinese">据国务院提供的数字，在2009财政年度，领养人数不到13,000人。</span><span class="english">In FY 2009 fewer than 13,000 were adopted, according to State Department figures.</span></p>

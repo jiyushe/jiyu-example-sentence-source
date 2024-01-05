@@ -1,5 +1,7 @@
 # pointed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pointed.md)
+
 <p><span class="chinese">我指了指那条狗。</span><span class="english">I pointed to the dog.</span></p>
 
 <p><span class="chinese">他指着楼下的大厅。</span><span class="english">He pointed down the hall.</span></p>

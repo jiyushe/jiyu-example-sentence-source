@@ -1,5 +1,7 @@
 # humanistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanistic.md)
+
 <p><span class="chinese">这就是人性的方法。</span><span class="english">It's the humanistic approach.</span></p>
 
 <p><span class="chinese">本课程将采用一种人性的方法。</span><span class="english">This class will take a humanistic approach.</span></p>

@@ -1,5 +1,7 @@
 # speeding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speeding.md)
+
 <p><span class="chinese">他因超速行车被捕。</span><span class="english">He was copped for speeding.</span></p>
 
 <p><span class="chinese">他们因超速行驶而受到罚款。</span><span class="english">They were fined for speeding.</span></p>

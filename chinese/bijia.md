@@ -1,5 +1,7 @@
 # 比价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bijia.md)
+
 <p><span class="chinese">欢迎问价，比价，自定价！</span><span class="english">Welcome to ask price , parity , since the price !</span></p>
 
 <p><span class="chinese">对人们来说，那就是个比价器，确保东西卖得出去，</span><span class="english">it's Shopbot for people, you know, make sure things sell,</span></p>

@@ -1,5 +1,7 @@
 # 拉开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lakai.md)
+
 <p><span class="chinese">门被拉开了。</span><span class="english">The door pulled open.</span></p>
 
 <p><span class="chinese">他拉开夹克衫的拉链。</span><span class="english">He unzipped his jacket.</span></p>

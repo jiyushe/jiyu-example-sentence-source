@@ -1,5 +1,7 @@
 # 撒播
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sabo.md)
+
 <p><span class="chinese">这种子用撒播法下种。</span><span class="english">The seeds were sown broadcast.</span></p>
 
 <p><span class="chinese">种子被撒播在耕过的土地上。</span><span class="english">The seeds were dispersed on the plowed lands.</span></p>

@@ -1,5 +1,7 @@
 # inauthentic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inauthentic.md)
+
 <p><span class="chinese">但是它是“真正的音乐”，或是不真实的、人造音乐？</span><span class="english">But is it "real music," or something inauthentic and artificial?</span></p>
 
 <p><span class="chinese">当你集中注意力在我的同在上，表现不真实是不可能的。</span><span class="english">It is impossible to be inauthentic while you are focusing on My Presence.</span></p>

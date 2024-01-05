@@ -1,5 +1,7 @@
 # 动向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongxiang_1.md)
+
 <p><span class="chinese">所以他们能看到我的最新动向。</span><span class="english">so they can see what I'm up to.</span></p>
 
 <p><span class="chinese">自动向量化的汇编器选项</span><span class="english">Compiler options for auto-vectorization</span></p>

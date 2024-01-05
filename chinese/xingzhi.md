@@ -1,5 +1,7 @@
 # 兴致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzhi.md)
+
 <p><span class="chinese">赵文王兴致更高了。</span><span class="english">The king was more delighted.</span></p>
 
 <p><span class="chinese">我一整天的兴致都让他给破坏了。</span><span class="english">He really put a dampener on my day.</span></p>

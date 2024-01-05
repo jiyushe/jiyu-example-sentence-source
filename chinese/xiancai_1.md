@@ -1,5 +1,7 @@
 # 线材
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiancai_1.md)
+
 <p><span class="chinese">“蓝天堂第二代线材是极妙的一款线材”。</span><span class="english">Blue Heaven Rev2 is a fantastic cable.</span></p>
 
 <p><span class="chinese">电源线、护套线等线材的剥口及剥皮。</span><span class="english">It is suitable for peeling the power line and sheath line.</span></p>

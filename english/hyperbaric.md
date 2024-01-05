@@ -1,5 +1,7 @@
 # hyperbaric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperbaric.md)
+
 <p><span class="chinese">不知道医生给你开的高压氧有几个疗程。</span><span class="english">Doctors do not know if you open a number of hyperbaric oxygen treatment.</span></p>
 
 <p><span class="chinese">他被带到当地的医疗机构接受抢救。</span><span class="english">He was taken to a local medical facility and recompressed in a hyperbaric chamber.</span></p>

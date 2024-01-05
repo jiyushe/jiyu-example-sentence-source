@@ -1,5 +1,7 @@
 # 助听器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhutingqi.md)
+
 <p><span class="chinese">入声吕雷克医用助听器</span><span class="english">InSound Medical Lyric Hearing Aid</span></p>
 
 <p><span class="chinese">驾驶时须戴助听器。</span><span class="english">To wear hearing aids when driving.</span></p>

@@ -1,5 +1,7 @@
 # orissa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orissa.md)
+
 <p><span class="chinese">我们在比哈尔、北方邦、孟加拉邦和奥里萨邦难道没有最穷的劳动力吗？</span><span class="english">Dont we have the poorest raw labor in bihar, up, bengal and orissa.</span></p>
 
 <p><span class="chinese">这次试射于2010年12月3日进行，地点是奥里萨邦的临时测试靶场。</span><span class="english">This was test-fired on 3 December 2010 at the Interim Test Range in Orissa.</span></p>

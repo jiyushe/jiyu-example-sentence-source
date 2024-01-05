@@ -1,5 +1,7 @@
 # 松鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songji.md)
+
 <p><span class="chinese">上星期天他猎到了三只松鸡。</span><span class="english">He hunt three grouses last Sunday.</span></p>
 
 <p><span class="chinese">上星期天他猎获了三只松鸡。</span><span class="english">He hunted three grouse last Sunday.</span></p>

@@ -1,5 +1,7 @@
 # 武人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuren_1.md)
+
 <p><span class="chinese">以前的武人，如今的自由作家。</span><span class="english">Before he, now free of the writer.</span></p>
 
 <p><span class="chinese">我们住在武人街。</span><span class="english">We live in the Rue de l'Homme Arme.</span></p>

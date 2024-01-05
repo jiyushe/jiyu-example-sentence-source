@@ -1,5 +1,7 @@
 # 族人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuren.md)
+
 <p><span class="chinese">他的族人都热爱他。</span><span class="english">All his people loved him.</span></p>
 
 <p><span class="chinese">东北德克萨斯州的喀多族人。</span><span class="english">Caddo people of NE Texas.</span></p>

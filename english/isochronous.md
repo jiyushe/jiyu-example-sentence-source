@@ -1,5 +1,7 @@
 # isochronous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isochronous.md)
+
 <p><span class="chinese">双方同步和下垂的管制。</span><span class="english">Both isochronous and droop controls are available.</span></p>
 
 <p><span class="chinese">描述了一种新的消色差等时性磁偏转系统。</span><span class="english">A new achromatic isochronous deflection system is described.</span></p>

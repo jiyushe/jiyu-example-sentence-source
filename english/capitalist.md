@@ -1,5 +1,7 @@
 # capitalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capitalist.md)
+
 <p><span class="chinese">催产素还可能充当资本积累的工具。</span><span class="english">Oxytocin may also be a capitalist tool.</span></p>
 
 <p><span class="chinese">俄罗斯的大城市如今毫不讳言资本主义。</span><span class="english">Russia's big cities are now unashamedly capitalist.</span></p>

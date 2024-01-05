@@ -1,5 +1,7 @@
 # unrestrained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrestrained.md)
+
 <p><span class="chinese">他这个人做事豪放不羁。</span><span class="english">He is vigorous and unrestrained in behaviour.</span></p>
 
 <p><span class="chinese">也许。芜拘芜束的笑，就是嚄最大的快了。</span><span class="english">Perhaps unrestrained Smiles is I big gest joy.</span></p>

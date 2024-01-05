@@ -1,5 +1,7 @@
 # 婆家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pojia.md)
+
 <p><span class="chinese">丈夫带着女儿去了婆婆家，说好，在婆家玩一天。</span><span class="english">Her husband took her to her home, say, in her day.</span></p>
 
 <p><span class="chinese">教育是人才的娘家，社会是人才的婆家。</span><span class="english">Education nis the talent 's family, society is her talent.</span></p>

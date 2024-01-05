@@ -1,5 +1,7 @@
 # reformulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reformulate.md)
+
 <p><span class="chinese">重订目标决不会为时过晚。</span><span class="english">It is never too late to reformulate your goals.</span></p>
 
 <p><span class="chinese">我们可以用,矩阵乘法或矩阵乘积的形式来表述这些式子。</span><span class="english">And we can reformulate this in terms of matrix multiplication or matrix product.</span></p>

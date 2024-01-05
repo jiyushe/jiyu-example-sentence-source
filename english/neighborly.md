@@ -1,5 +1,7 @@
 # neighborly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neighborly.md)
+
 <p><span class="chinese">年轻姑娘向我友好地挥了挥手。</span><span class="english">The young lady gave me a neighborly wave.</span></p>
 
 <p><span class="chinese">第一，以必要的睦邻友好关系是界定前线。</span><span class="english">The first requisite to good- neighborly relations is a defined front line.</span></p>

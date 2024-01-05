@@ -1,5 +1,7 @@
 # lyons
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lyons.md)
+
 <p><span class="chinese">该公司在李昂也有一家面粉厂。</span><span class="english">The firm also had a flouring mill in Lyons.</span></p>
 
 <p><span class="chinese">丹尼称这种现象为“新的明星宝宝热”。</span><span class="english">Darryn Lyons calls it "the new celebrity baby boom".</span></p>

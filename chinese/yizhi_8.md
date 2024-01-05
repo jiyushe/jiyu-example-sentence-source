@@ -1,5 +1,7 @@
 # 意旨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhi_8.md)
+
 <p><span class="chinese">我们必须选择每天按神的意旨行事。</span><span class="english">We must choose to do God’s will everyday.</span></p>
 
 <p><span class="chinese">在一个被赐予选择自由的世界上，神的意旨几乎就没有被执行过！</span><span class="english">In a world of free choices, God’s will is rarely done!</span></p>

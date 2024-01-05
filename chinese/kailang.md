@@ -1,5 +1,7 @@
 # 开朗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kailang.md)
+
 <p><span class="chinese">他胸怀开朗。</span><span class="english">His bosom is clear.</span></p>
 
 <p><span class="chinese">心情开朗寿命长！</span><span class="english">A light heart live long!</span></p>

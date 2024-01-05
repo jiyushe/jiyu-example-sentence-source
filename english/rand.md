@@ -1,5 +1,7 @@
 # rand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rand.md)
+
 <p><span class="chinese">兰德·保罗也在做着同样的准备。</span><span class="english">Rand Paul is doing the same thing.</span></p>
 
 <p><span class="chinese">兰德·保罗带着爽朗的欢呼声走上了讲台。</span><span class="english">Rand Paul took the stage to hearty cheers.</span></p>

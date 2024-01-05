@@ -1,5 +1,7 @@
 # 总路线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongluxian.md)
+
 <p><span class="chinese">总路线就是逐步改变生产关系。</span><span class="english">The general line means a gradual change in the relations of production.</span></p>
 
 <p><span class="chinese">而且，所有的代理人必须服从总路线的所有命令保证缓存一致性。</span><span class="english">Moreover, all agents must listen to all transactions in order to maintain cache coherence.</span></p>

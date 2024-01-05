@@ -1,5 +1,7 @@
 # collectivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collectivity.md)
+
 <p><span class="chinese">其次，要准确把握节奏，演奏中要有集体的节奏感。</span><span class="english">Secondly, we should grasp rhythm correctly with the sense of collectivity.</span></p>
 
 <p><span class="chinese">第五是个体性与集体性相结合的劳动特点。</span><span class="english">The fifth is the laboring characteristic of individuality and collectivity.</span></p>

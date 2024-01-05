@@ -1,5 +1,7 @@
 # malabar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malabar.md)
+
 <p><span class="chinese">他说的马拉巴尔是什么意思？</span><span class="english">What does he mean by Malabar?</span></p>
 
 <p><span class="chinese">现在收到马拉巴前线发来的报道。</span><span class="english">A newsflash has this moment arrived from the Malabar front.</span></p>

@@ -1,5 +1,7 @@
 # stringy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stringy.md)
+
 <p><span class="chinese">这个黏糊糊的物质被称为海洋黏液。</span><span class="english">This stringy mess is known as marine mucilage.</span></p>
 
 <p><span class="chinese">头发的纠结与暗淡同样辅助了这种效果。</span><span class="english">That the hair is stringy and matted also helps here.</span></p>

@@ -1,5 +1,7 @@
 # 眉宇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiyu_1.md)
+
 <p><span class="chinese">他眉宇之间怒气横生。</span><span class="english">His brow clouded with anger.</span></p>
 
 <p><span class="chinese">在面颊上与眉宇间的美。</span><span class="english">And on that cheek, and o'er that brow.</span></p>

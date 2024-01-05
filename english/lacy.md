@@ -1,5 +1,7 @@
 # lacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacy.md)
+
 <p><span class="chinese">记住把你的棉衬裤换成蕾丝。</span><span class="english">Change out of your cotton panties into a lacy thong.</span></p>
 
 <p><span class="chinese">我把我的肉体涌进漩涡，让它漂浮在花边状的裂缝中。</span><span class="english">I effuse my flesh in eddies, and drift it in lacy jags.</span></p>

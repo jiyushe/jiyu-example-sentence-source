@@ -1,5 +1,7 @@
 # angstrom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angstrom.md)
+
 <p><span class="chinese">取整数是一埃。</span><span class="english">Round numbers, this is one angstrom.</span></p>
 
 <p><span class="chinese">每次到站的时候埃斯顿先生都会把她叫醒。</span><span class="english">Angstrom. He always woke her up before her stop.</span></p>

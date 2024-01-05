@@ -1,5 +1,7 @@
 # 学子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuezi.md)
+
 <p><span class="chinese">麦田守望者与西京学子们一起成长！</span><span class="english">Xijing wheat fields and watch students grow up!</span></p>
 
 <p><span class="chinese">学用结合，学以致用，是一个学子不懈的追求。</span><span class="english">Learning to use and using to learn is our pursues.</span></p>

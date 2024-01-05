@@ -1,5 +1,7 @@
 # telephoto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telephoto.md)
+
 <p><span class="chinese">长焦镜头和广角镜头都要试试。</span><span class="english">Try both wide and telephoto lenses.</span></p>
 
 <p><span class="chinese">一整排的远摄镜头都对准了他。</span><span class="english">A bank of telephoto lenses homed in on him.</span></p>

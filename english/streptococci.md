@@ -1,5 +1,7 @@
 # streptococci
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streptococci.md)
+
 <p><span class="chinese">它并不能防止溶血性链球菌的感染。</span><span class="english">It does not prevent infection by hemolytic streptococci.</span></p>
 
 <p><span class="chinese">在许多情况下，这些生物体是链球菌或葡萄球菌等病菌。</span><span class="english">In many cases, these organisms are streptococci or staphylococci bacteria.</span></p>

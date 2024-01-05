@@ -1,5 +1,7 @@
 # trifoliate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trifoliate.md)
+
 <p><span class="chinese">再生植株根系发达，叶片具三叶特征。</span><span class="english">The regenerated plants were trifoliate with well developed root systems.</span></p>
 
 <p><span class="chinese">亚非蔓生三叶草本植物，钴蓝色花。</span><span class="english">Trailing trifoliate asiatic and african herb having cobalt blue flowers.</span></p>

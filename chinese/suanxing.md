@@ -1,5 +1,7 @@
 # 酸性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanxing.md)
+
 <p><span class="chinese">一种酸性成分。</span><span class="english">An acidic ingredient.</span></p>
 
 <p><span class="chinese">这种酸性物质对金属发生作用。</span><span class="english">This acid acts on metal.</span></p>

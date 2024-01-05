@@ -1,5 +1,7 @@
 # unbending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbending.md)
+
 <p><span class="chinese">他受尽酷刑，仍然坚贞不屈。</span><span class="english">He remained unbending under the severest of tortures.</span></p>
 
 <p><span class="chinese">也许这就是一个北方大男孩的那种倔强吧？</span><span class="english">Perhaps, this is the unbending youth from northeast of China.</span></p>

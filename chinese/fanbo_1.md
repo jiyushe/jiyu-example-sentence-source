@@ -1,5 +1,7 @@
 # 反驳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanbo_1.md)
+
 <p><span class="chinese">这是他的反驳。</span><span class="english">This he refutes.</span></p>
 
 <p><span class="chinese">这是这位女士的反驳。</span><span class="english">This is the Lady's retort.</span></p>

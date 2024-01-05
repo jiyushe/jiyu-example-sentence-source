@@ -1,5 +1,7 @@
 # 古稀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guxi.md)
+
 <p><span class="chinese">没有人相信她已年过古稀。</span><span class="english">Nobody believes she is in her later years.</span></p>
 
 <p><span class="chinese">没有人相信她已年过古稀。</span><span class="english">Nobody is gonna believe that she is that old.</span></p>

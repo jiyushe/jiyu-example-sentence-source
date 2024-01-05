@@ -1,5 +1,7 @@
 # quire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quire.md)
+
 <p><span class="chinese">这些年它已成了一种挺体面的类型小说。</span><span class="english">As a genre it has become quire respectable in recent years.</span></p>
 
 <p><span class="chinese">第二部分，探究性学习研究的文献综述。</span><span class="english">The second part, literature summary. On in quire learning research.</span></p>

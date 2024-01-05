@@ -1,5 +1,7 @@
 # 考点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaodian.md)
+
 <p><span class="chinese">在此你可以找到考点信息。</span><span class="english">You can find all the details here.</span></p>
 
 <p><span class="chinese">在中国有六十九个考点，考生可以在这些考点参加我们的考试…</span><span class="english">There are 69 Centres in Chinaswheresyou can take our exams.</span></p>

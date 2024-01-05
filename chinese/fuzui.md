@@ -1,5 +1,7 @@
 # 负罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzui.md)
+
 <p><span class="chinese">警察逮捕了那些年轻人，并进行搜身寻找使他们负罪的东西。</span><span class="english">The youths were arrested and searched for anything that would incriminate them.</span></p>
 
 <p><span class="chinese">如果他们同意加入你的计划，你就没理由感到负罪，对吧？</span><span class="english">If they agreed to participate in your project, there is no reason to feel guilty, right?</span></p>

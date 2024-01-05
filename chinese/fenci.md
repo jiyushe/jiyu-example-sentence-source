@@ -1,5 +1,7 @@
 # 粉刺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenci.md)
+
 <p><span class="chinese">痤疮、青春痘、粉刺、结痂斑点。</span><span class="english">Acne. Zits.</span></p>
 
 <p><span class="chinese">年青人通常都长有很多粉刺。</span><span class="english">Teens often have a lot of zits.</span></p>

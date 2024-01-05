@@ -1,5 +1,7 @@
 # seacoast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seacoast.md)
+
 <p><span class="chinese">海军防守海岸。</span><span class="english">The navy defends our seacoast.</span></p>
 
 <p><span class="chinese">亚美尼亚没有海岸和港口。</span><span class="english">Armenia lacks a seacoast or a port.</span></p>

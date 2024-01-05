@@ -1,5 +1,7 @@
 # 老家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laojia.md)
+
 <p><span class="chinese">你的老家是哪里？</span><span class="english">What  is your hometown?</span></p>
 
 <p><span class="chinese">我也是我老家和我国家的武术队的人。</span><span class="english">You are also in the national team?</span></p>

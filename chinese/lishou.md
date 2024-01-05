@@ -1,5 +1,7 @@
 # 里手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lishou.md)
+
 <p><span class="chinese">想象一下在百战天龙里手握着它！</span><span class="english">Imagine this in the hands of McGyver!</span></p>
 
 <p><span class="chinese">“知识里手”之所以可笑，原因就是在这个地方。</span><span class="english">That is why the "know-all" is ridiculous.</span></p>

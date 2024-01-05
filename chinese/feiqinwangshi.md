@@ -1,5 +1,7 @@
 # 废寝忘食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiqinwangshi.md)
+
 <p><span class="chinese">制作模型火车是他废寝忘食的爱好。</span><span class="english">Building model trains is his consuming passion.</span></p>
 
 <p><span class="chinese">她废寝忘食地在三个月内学会了拉丁语。</span><span class="english">She learns to speak Latin by osmosis within three months.</span></p>

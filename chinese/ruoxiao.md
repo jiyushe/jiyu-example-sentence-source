@@ -1,5 +1,7 @@
 # 弱小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruoxiao.md)
+
 <p><span class="chinese">动物会丢弃最弱小的幼仔。</span><span class="english">Animals reject the runt of the litter.</span></p>
 
 <p><span class="chinese">我们是弱小的羊，而你们是狼。</span><span class="english">We are the sheep and you are the wolves.</span></p>

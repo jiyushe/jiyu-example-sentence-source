@@ -1,5 +1,7 @@
 # anthracnose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthracnose.md)
+
 <p><span class="chinese">抗蔓割病和炭疽病。</span><span class="english">Tolerant to fusarium wilt and anthracnose.</span></p>
 
 <p><span class="chinese">炭疽病严重的地块酸腐病也严重。</span><span class="english">The anthracnose infected soil also had severe acid rot.</span></p>

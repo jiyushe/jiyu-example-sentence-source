@@ -1,5 +1,7 @@
 # 太阳系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyangxi.md)
+
 <p><span class="chinese">太阳系从此有了九大行星。</span><span class="english">The Solar System now had 9 planets.</span></p>
 
 <p><span class="chinese">但是我们不能对太阳系外行星做到这一点。</span><span class="english">But we can't do this for exoplanets.</span></p>

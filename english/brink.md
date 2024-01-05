@@ -1,5 +1,7 @@
 # brink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brink.md)
+
 <p><span class="chinese">洞穴边缘，朝露盈盈。</span><span class="english">And the brink of the dewy caves.</span></p>
 
 <p><span class="chinese">你的一生在转眼之间就毁掉了。</span><span class="english">Whole life blown away in the brink of eye.</span></p>

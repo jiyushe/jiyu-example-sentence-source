@@ -1,5 +1,7 @@
 # blatantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blatantly.md)
+
 <p><span class="chinese">公然无视他？</span><span class="english">Blatantly ignore him?</span></p>
 
 <p><span class="chinese">完全就是吃果果的令人发指的懒惰和疲乏。</span><span class="english">It is just blatantly and brutally LAZY and TIRED.</span></p>

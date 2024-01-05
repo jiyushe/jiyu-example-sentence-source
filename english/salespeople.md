@@ -1,5 +1,7 @@
 # salespeople
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salespeople.md)
+
 <p><span class="chinese">不会有人拿星级的营销员开刀的。</span><span class="english">Nobody will be laying off star salespeople.</span></p>
 
 <p><span class="chinese">这时销售人员一个一个地向大客户销售广告。</span><span class="english">Salespeople sold the ads to big accounts, one by one.</span></p>

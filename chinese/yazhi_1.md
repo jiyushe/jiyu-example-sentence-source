@@ -1,5 +1,7 @@
 # 雅致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yazhi_1.md)
+
 <p><span class="chinese">闲情雅致是会传染的。</span><span class="english">The spirit is contagious.</span></p>
 
 <p><span class="chinese">她戴着一顶雅致的小帽子。</span><span class="english">She wore apert little hat.</span></p>

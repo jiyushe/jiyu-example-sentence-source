@@ -1,5 +1,7 @@
 # zonation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zonation.md)
+
 <p><span class="chinese">提出一种新的分层方法——零通小波分层法。</span><span class="english">A new zonation methodzerocrossing wavelet zonation method is proposed.</span></p>
 
 <p><span class="chinese">在一个简单的“盐盒”中，分离作用表现为盐类矿物的带状分布。</span><span class="english">In a simple "salt pan" the segregation is expressed by the zonation of saline minerals.</span></p>

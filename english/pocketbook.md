@@ -1,5 +1,7 @@
 # pocketbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pocketbook.md)
+
 <p><span class="chinese">他吃了面包，把笔记本打开。</span><span class="english">He ate the roll and opened the pocketbook.</span></p>
 
 <p><span class="chinese">岛居生活很少有诱人解囊的刺激。</span><span class="english">Island life promised few temptations to the pocketbook.</span></p>

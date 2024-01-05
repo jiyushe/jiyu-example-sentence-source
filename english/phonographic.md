@@ -1,5 +1,7 @@
 # phonographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phonographic.md)
+
 <p><span class="chinese">全英音乐奖是英国唱片产业协会的年度流行音乐盛典。</span><span class="english">The BRIT Awards are the British Phonographic Industry's annual pop music awards.</span></p>
 
 <p><span class="chinese">在收音机和留声机唱片出现之前，钢琴是整个家庭的娱乐中心。</span><span class="english">It was the home entertainment center before radio and phonographic records came along.</span></p>

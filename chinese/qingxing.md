@@ -1,5 +1,7 @@
 # 情形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxing.md)
+
 <p><span class="chinese">想想早晨的情形。</span><span class="english">Think about your mornings.</span></p>
 
 <p><span class="chinese">那是一种令人神往的情形。</span><span class="english">It's a beautiful situation.</span></p>

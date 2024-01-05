@@ -1,5 +1,7 @@
 # 卷扬机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanyangji.md)
+
 <p><span class="chinese">检查卷扬机工作是否正常。</span><span class="english">Test if the hoisting machine is normal or not.</span></p>
 
 <p><span class="chinese">具有电动葫芦和卷扬机的主要功能。</span><span class="english">Has the electric hoist and hoist's major function.</span></p>

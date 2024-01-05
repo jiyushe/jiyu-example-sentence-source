@@ -1,5 +1,7 @@
 # 太阳能电池
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyangnengdianchi.md)
+
 <p><span class="chinese">还是太阳能电池板制造商？</span><span class="english">Solar-panel maker?</span></p>
 
 <p><span class="chinese">太阳能电池板将会出现在较高端的车款上。</span><span class="english">Solar panels would appear on higher-end models.</span></p>

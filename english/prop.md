@@ -1,5 +1,7 @@
 # prop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prop.md)
+
 <p><span class="chinese">这一支柱将会消逝。</span><span class="english">That prop will go.</span></p>
 
 <p><span class="chinese">不要把脚翘那么高。</span><span class="english">Don't prop your feet up.</span></p>

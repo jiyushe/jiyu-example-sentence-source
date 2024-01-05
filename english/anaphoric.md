@@ -1,5 +1,7 @@
 # anaphoric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaphoric.md)
+
 <p><span class="chinese">省略在两种语言中基本都表现为回指衔接。</span><span class="english">The cohesion of ellipsis is usually anaphoric in both English and Chinese.</span></p>
 
 <p><span class="chinese">灯光的照应，使河水泛起了点点光亮，波光粼粼。</span><span class="english">Anaphoric lights, so that the water thrown up a little bit of bright, sparkling.</span></p>

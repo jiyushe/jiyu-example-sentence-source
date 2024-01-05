@@ -1,5 +1,7 @@
 # thalamus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thalamus.md)
+
 <p><span class="chinese">避免额叶及间脑受损问题。</span><span class="english">However, avoiding trauma of frontal lobe and thalamus was noted.</span></p>
 
 <p><span class="chinese">这些纺锤波出现在丘脑，大脑的意识中继站中。</span><span class="english">The spindles arise in the brain's sensory relay centre in the thalamus.</span></p>

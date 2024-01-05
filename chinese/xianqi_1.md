@@ -1,5 +1,7 @@
 # 嫌弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianqi_1.md)
+
 <p><span class="chinese">我老爸嫌弃我，现在泰勒也丢下了我。</span><span class="english">Because my father dumped me.</span></p>
 
 <p><span class="chinese">礼物送到，不要嫌弃。</span><span class="english">Gifts sent to, don't abandon.</span></p>

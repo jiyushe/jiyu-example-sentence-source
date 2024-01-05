@@ -1,5 +1,7 @@
 # madhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madhouse.md)
+
 <p><span class="chinese">这简直是疯人院。</span><span class="english">This is a madhouse.</span></p>
 
 <p><span class="chinese">那里一如既往的疯狂。</span><span class="english">It was a madhouse as usual.</span></p>

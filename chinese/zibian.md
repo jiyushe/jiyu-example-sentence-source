@@ -1,5 +1,7 @@
 # 自便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zibian.md)
+
 <p><span class="chinese">是否穿礼服自便。</span><span class="english">Formal dress is optional.</span></p>
 
 <p><span class="chinese">自便哦，希望您能吃得开心。</span><span class="english">Help yourself, I hope you enjoy it.</span></p>

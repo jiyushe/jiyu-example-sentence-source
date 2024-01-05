@@ -1,5 +1,7 @@
 # mindful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mindful.md)
+
 <p><span class="chinese">以正念明觉，为佛陀的法的继承人。</span><span class="english">The Buddha's heir, aware and mindful.</span></p>
 
 <p><span class="chinese">接着，比丘，是怎样的比丘心理呢？</span><span class="english">And how, bhikkhus, is a bhikkhu mindful?</span></p>

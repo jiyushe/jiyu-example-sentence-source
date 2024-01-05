@@ -1,5 +1,7 @@
 # cyanide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyanide.md)
+
 <p><span class="chinese">她说，氰化物也是天然的。</span><span class="english">She says, Cyanide is natural.</span></p>
 
 <p><span class="chinese">人们发现香烟中含有氰化氢。</span><span class="english">Hydrogen cyanide is found in cigarettes.</span></p>

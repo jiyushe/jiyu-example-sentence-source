@@ -1,5 +1,7 @@
 # supervision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supervision.md)
+
 <p><span class="chinese">海关监管。</span><span class="english">Customs Supervision.</span></p>
 
 <p><span class="chinese">没有监督，没有条令。</span><span class="english">No supervision. No discipline.</span></p>

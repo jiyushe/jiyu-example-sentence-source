@@ -1,5 +1,7 @@
 # 眉清目秀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiqingmuxiu.md)
+
 <p><span class="chinese">那个男孩比他父亲稍高，长得眉清目秀。</span><span class="english">The boy was slightly taller than his father.</span></p>
 
 <p><span class="chinese">他这时已是将近六旬的人，一表人才，高个儿，眉清目秀，头发又多。</span><span class="english">He was at this time in his late fifties, a tall, elegant man with good features and.</span></p>

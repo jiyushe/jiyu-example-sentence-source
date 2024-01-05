@@ -1,5 +1,7 @@
 # rss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rss.md)
+
 <p><span class="chinese">内置的RSS饲料选项的博客。</span><span class="english">Blog with built-in RSS feed option.</span></p>
 
 <p><span class="chinese">不不不，我确实需要整理下我的RSS订阅链接了。</span><span class="english">Nah, I really need to re-sort my RSS feeds.</span></p>

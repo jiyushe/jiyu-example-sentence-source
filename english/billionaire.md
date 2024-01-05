@@ -1,5 +1,7 @@
 # billionaire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billionaire.md)
+
 <p><span class="chinese">比尔盖兹是个亿万富翁。</span><span class="english">Bill Gates is a billionaire.</span></p>
 
 <p><span class="chinese">我压根儿就成不了亿万富翁。</span><span class="english">I’ll never be a billionaire.</span></p>

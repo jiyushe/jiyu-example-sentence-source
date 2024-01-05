@@ -1,5 +1,7 @@
 # kea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kea.md)
+
 <p><span class="chinese">同样地，KEA中国在这一进程中也扮演了一个举足轻重的角色。</span><span class="english">Equally, KEA China has an important role to play in this process.</span></p>
 
 <p><span class="chinese">今天，很高兴在北京和KEA中国的会员以及嘉宾共进早餐。</span><span class="english">I am delighted to join KEA China and your guests here in Beijing this morning.</span></p>

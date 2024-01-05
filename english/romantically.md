@@ -1,5 +1,7 @@
 # romantically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romantically.md)
+
 <p><span class="chinese">咒骂无助于你找到好工作、获得晋升加薪或拥有一段美好的恋情。</span><span class="english">Swearing doesn't get you hired, promoted, or romantically connected.</span></p>
 
 <p><span class="chinese">在让大多数男人有想发展恋爱关系的女人周围，他们如何表现呢？</span><span class="english">How do most guys behave around women that they're "romantically" interested in?</span></p>

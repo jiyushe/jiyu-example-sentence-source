@@ -1,5 +1,7 @@
 # 胆小怕事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danxiaopashi.md)
+
 <p><span class="chinese">精神上他倒并非胆小怕事。</span><span class="english">He was no coward in spirit.</span></p>
 
 <p><span class="chinese">所以胆小怕事是我生存的主要武器。</span><span class="english">So cowardice is my main weapon of survival.</span></p>

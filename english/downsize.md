@@ -1,5 +1,7 @@
 # downsize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downsize.md)
+
 <p><span class="chinese">缩小你的梦想！</span><span class="english">Downsize your dreams!</span></p>
 
 <p><span class="chinese">裁员是否道德"而是"公司怎样做使得裁员更为人道？</span><span class="english">" but "How can companies downsize ethically?</span></p>

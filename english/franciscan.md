@@ -1,5 +1,7 @@
 # franciscan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/franciscan.md)
+
 <p><span class="chinese">我是旧金山人，同时也是全球社会的一员。</span><span class="english">I am both a San Franciscan and a citizen of a global society.</span></p>
 
 <p><span class="chinese">离我们不远的地方有古老的圣芳济会教堂，现在被称为格雷弗利尔斯教堂。</span><span class="english">Not too far from us we have the Old Franciscan Church, which is called the Grey Friars Church.</span></p>

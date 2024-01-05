@@ -1,5 +1,7 @@
 # trias
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trias.md)
+
 <p><span class="chinese">到暴风要塞的花园中找「泰里恩」还“潜入城堡”并接后续任务“必备物品”。</span><span class="english">Go to Elling Trias and hand it in, get the follow up "Infiltrating the Castle".</span></p>
 
 <p><span class="chinese">当前Tria水域的很多种鱼类数量都在下降，这种现象被认为是污染造成的。</span><span class="english">Currently many fish populations in Trias waters are declining, a situation blamed on pollution.</span></p>

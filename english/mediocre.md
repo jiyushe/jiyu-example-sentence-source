@@ -1,5 +1,7 @@
 # mediocre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mediocre.md)
+
 <p><span class="chinese">他是个初出茅庐的作家。</span><span class="english">He was a mediocre writer.</span></p>
 
 <p><span class="chinese">你把自己看做是一个平庸的人。</span><span class="english">You see yourself as a mediocre person.</span></p>

@@ -1,5 +1,7 @@
 # vault
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vault.md)
+
 <p><span class="chinese">她夺得了女子跳马金牌了吗？</span><span class="english">Did she win the women's vault ?</span></p>
 
 <p><span class="chinese">这窟窖的顶是无知构成的。</span><span class="english">Its vault is formed of ignorance.</span></p>

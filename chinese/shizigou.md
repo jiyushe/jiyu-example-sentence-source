@@ -1,5 +1,7 @@
 # 狮子狗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizigou.md)
+
 <p><span class="chinese">一只小狮子狗。</span><span class="english">A tiny, tiny little poodle.</span></p>
 
 <p><span class="chinese">狮子狗，博美狗，阿尔萨斯。</span><span class="english">The Poodle, the Pom, the Alsatian.</span></p>

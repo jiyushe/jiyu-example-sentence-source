@@ -1,5 +1,7 @@
 # vagus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vagus.md)
+
 <p><span class="chinese">迷走神经能通过呼吸来控制心率。</span><span class="english">Vagus nerve to control heart rate through breathing.</span></p>
 
 <p><span class="chinese">安装心脏起搏器，可能损害到迷走神经吗？</span><span class="english">Could getting a pacemaker have damaged my vagus nerve?</span></p>

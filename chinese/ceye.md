@@ -1,5 +1,7 @@
 # 册页
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ceye.md)
+
 <p><span class="chinese">她在斥责和软的岩石册页发布了。</span><span class="english">She's released on album of rap and soft rock.</span></p>
 
 <p><span class="chinese">没有你得日子就像一本没有册页得书。</span><span class="english">Every day after you is like a book after pages.</span></p>

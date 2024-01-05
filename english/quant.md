@@ -1,5 +1,7 @@
 # quant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quant.md)
+
 <p><span class="chinese">求列表极小值的算法具有广泛的应用。</span><span class="english">The Quant um algorithm for finding minim um has widely application.</span></p>
 
 <p><span class="chinese">阿奎特将通过巨魔吨和数据吨，模式来看</span><span class="english">A quant will troll through tons and tons of data, looking for patterns</span></p>

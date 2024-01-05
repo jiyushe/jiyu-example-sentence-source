@@ -1,5 +1,7 @@
 # interferential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interferential.md)
+
 <p><span class="chinese">高等院校光学实验中，迈克尔逊干涉仪是一种常用仪器。</span><span class="english">In the optical experiments of college, Michelson interferential apparatus is a common apparatus.</span></p>
 
 <p><span class="chinese">结果表明，上述干扰模型对于脉压雷达而言具有较理想的干扰效果。</span><span class="english">The results show the interference models have ideal interferential effect to pulse compression radar.</span></p>

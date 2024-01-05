@@ -1,5 +1,7 @@
 # wherewith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wherewith.md)
+
 <p><span class="chinese">这应季的月份赋予那小草、</span><span class="english">Wherewith the seasonable month endows</span></p>
 
 <p><span class="chinese">知识乃人类借以飞向天堂的翅膀。</span><span class="english">Knowledge the wing wherewith we fly to heaven.</span></p>

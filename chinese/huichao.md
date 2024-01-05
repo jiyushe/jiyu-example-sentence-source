@@ -1,5 +1,7 @@
 # 回潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huichao.md)
+
 <p><span class="chinese">而最近这些年，纳妾之风似乎有回潮的趋势。</span><span class="english">Concubinage has made a come back in recent years.</span></p>
 
 <p><span class="chinese">她也注意到了碎花裙的回潮。</span><span class="english">But she has noticed the return of the floral skirt.</span></p>

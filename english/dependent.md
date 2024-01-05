@@ -1,5 +1,7 @@
 # dependent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dependent.md)
+
 <p><span class="chinese">如果是某人所依赖的呢？</span><span class="english">What about if someone is dependent?</span></p>
 
 <p><span class="chinese">他的行为全视其心情如何而定。</span><span class="english">His acts were dependent on his moods.</span></p>

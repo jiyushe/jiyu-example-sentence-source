@@ -1,5 +1,7 @@
 # seder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seder.md)
+
 <p><span class="chinese">她的父母从来没有进行过逾越节晚餐。</span><span class="english">Her parents never had a Seder.</span></p>
 
 <p><span class="chinese">现在他在mvslive.com联合主持每日视频节目“马龙V赛德”。</span><span class="english">He now co-hosts the daily video show Maron v Seder at mvslive.com.</span></p>

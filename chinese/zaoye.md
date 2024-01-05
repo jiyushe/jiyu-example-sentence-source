@@ -1,5 +1,7 @@
 # 枣椰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoye.md)
+
 <p><span class="chinese">鹿没有吃生面团，尽管母鹿吃了枣椰子。</span><span class="english">The deer dined on dough, though the doe dined on dates.</span></p>
 
 <p><span class="chinese">他们把枣椰树画在他们的石头建筑上。</span><span class="english">They made pictures of date palms on their stone buildings.</span></p>

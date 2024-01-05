@@ -1,5 +1,7 @@
 # congregation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congregation.md)
+
 <p><span class="chinese">钟声召唤会众去教堂。</span><span class="english">Bells tolled the congregation to church.</span></p>
 
 <p><span class="chinese">于上帝及会众面前宣。</span><span class="english">God and the congregation before the sun.</span></p>

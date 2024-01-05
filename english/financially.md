@@ -1,5 +1,7 @@
 # financially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/financially.md)
+
 <p><span class="chinese">他经济受窘。</span><span class="english">He is embarrassed financially.</span></p>
 
 <p><span class="chinese">许多网络公司陷入财务困境。</span><span class="english">Many dot-coms are financially strapped.</span></p>

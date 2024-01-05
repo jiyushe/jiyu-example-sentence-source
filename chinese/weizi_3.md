@@ -1,5 +1,7 @@
 # 苇子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizi_3.md)
+
 <p><span class="chinese">又吐唾沫在他脸上，拿苇子打他的头。</span><span class="english">And they spit upon him, and took the reed, and smote him on the head.</span></p>
 
 <p><span class="chinese">他等在那里，以为她会招呼他把苇子给她拿进屋去。</span><span class="english">He waited, expecting that she would call out to him to bring it in to her.</span></p>

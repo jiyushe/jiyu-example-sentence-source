@@ -1,5 +1,7 @@
 # drink 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drink.md)
+
 <p><span class="chinese">喝下去吧！</span><span class="english">Drink it!</span></p>
 
 <p><span class="chinese">你喝酒吗？</span><span class="english">Do you drink?</span></p>

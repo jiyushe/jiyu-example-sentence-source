@@ -1,5 +1,7 @@
 # prevalent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prevalent.md)
+
 <p><span class="chinese">多义词是语言中的普遍现象。</span><span class="english">Polysemy is prevalent in language.</span></p>
 
 <p><span class="chinese">寻常型痤疮是皮肤科常见病、多发病。</span><span class="english">Acne vulgaris is a common and prevalent skin disease.</span></p>

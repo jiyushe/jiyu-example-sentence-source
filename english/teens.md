@@ -1,5 +1,7 @@
 # teens
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teens.md)
+
 <p><span class="chinese">但他特别偏爱两个少年。</span><span class="english">But he dotes on the teens.</span></p>
 
 <p><span class="chinese">年青人通常都长有很多粉刺。</span><span class="english">Teens often have a lot of zits.</span></p>

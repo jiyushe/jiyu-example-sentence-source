@@ -1,5 +1,7 @@
 # optics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optics.md)
+
 <p><span class="chinese">它就是X光。</span><span class="english">This is ray optics.</span></p>
 
 <p><span class="chinese">光学是物理学的一个分科。</span><span class="english">Optics is a branch of physics.</span></p>

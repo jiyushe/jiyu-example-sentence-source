@@ -1,5 +1,7 @@
 # monetary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monetary.md)
+
 <p><span class="chinese">通货膨胀使物价节节上涨。</span><span class="english">Monetary inflation spirals inexorably on.</span></p>
 
 <p><span class="chinese">中国反对将货币政策政治化。</span><span class="english">China opposes politicizing monetary issues.</span></p>

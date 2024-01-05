@@ -1,5 +1,7 @@
 # multilocular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multilocular.md)
+
 <p><span class="chinese">囊肿常常是单发的，可以是单房或多房。</span><span class="english">Cysts are usually single and may be unilocular or multilocular.</span></p>
 
 <p><span class="chinese">多房性囊肿肾瘤是肾脏的一种罕见肿瘤。</span><span class="english">Multilocular cystic nephroma is an uncommon neoplasm of the kidneys.</span></p>

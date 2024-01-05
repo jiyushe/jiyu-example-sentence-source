@@ -1,5 +1,7 @@
 # lachrymal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lachrymal.md)
+
 <p><span class="chinese">脸上的泪痔可以点掉吗？</span><span class="english">Can be the lachrymal naevus on the face nodded?</span></p>
 
 <p><span class="chinese">请问啊有人工泪腺的啊？</span><span class="english">Excuse me ah there is artificial lachrymal gland ah?</span></p>

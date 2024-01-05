@@ -1,5 +1,7 @@
 # matchstick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matchstick.md)
+
 <p><span class="chinese">花言巧语的家伙，火柴人，窝囊废。</span><span class="english">A flimflam man, matchstick man, loser.</span></p>
 
 <p><span class="chinese">我会把你们那火柴般的家烧尽！</span><span class="english">I'll set your matchstick homes aflame!</span></p>

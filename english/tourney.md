@@ -1,5 +1,7 @@
 # tourney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tourney.md)
+
 <p><span class="chinese">山姆小萝，妳在锦标赛中的表现很不错。</span><span class="english">Sam Nice work at the tourney , Roxy.</span></p>
 
 <p><span class="chinese">星光灿烂的比赛马上就要开始了。</span><span class="english">The Tourney of Talent is about to begin.</span></p>

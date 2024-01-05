@@ -1,5 +1,7 @@
 # essentialist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/essentialist.md)
+
 <p><span class="chinese">这里有一个我称之为“实有执”的谬论。</span><span class="english">There is a fallacy which I shall call the ' essentialist fallacy'.</span></p>
 
 <p><span class="chinese">佛教哲学从它的一开始就表达了一种对于“实有执”的持续的批评。</span><span class="english">Buddhist philosophy from its conception embodied a sustained criticism of this essentialist fallacy.</span></p>

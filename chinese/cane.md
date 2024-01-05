@@ -1,5 +1,7 @@
 # 蚕蛾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cane.md)
+
 <p><span class="chinese">当它破茧而出的时候，它就变成了一只蚕蛾。</span><span class="english">Once as it breaks the cocoon, it become a silk moth.</span></p>
 
 <p><span class="chinese">刚孵出的石蚕蛾吸引它们到这里饱餐一顿。</span><span class="english">They're here to feed on a glut of newly hatched cadis flies.</span></p>

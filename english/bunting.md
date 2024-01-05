@@ -1,5 +1,7 @@
 # bunting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bunting.md)
+
 <p><span class="chinese">街上装饰著红、白、蓝三色彩旗。</span><span class="english">The streets were decorated with bunting.</span></p>
 
 <p><span class="chinese">其他学校也一口许诺会有“彩旗飘飘”。</span><span class="english">Another school promises "bunting and flags".</span></p>

@@ -1,5 +1,7 @@
 # airspace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airspace.md)
+
 <p><span class="chinese">古巴声称飞机是在古巴领空被击落的。</span><span class="english">Cuba claimed the planes were shot in its airspace.</span></p>
 
 <p><span class="chinese">它的使用将会使陆军的空域指挥与控制复杂化。</span><span class="english">Its use will complicate Army airspace command and control.</span></p>

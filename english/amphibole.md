@@ -1,5 +1,7 @@
 # amphibole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amphibole.md)
+
 <p><span class="chinese">翡翠由辉石族、角闪石族、长石族矿物组成。</span><span class="english">Jadeite jade consists of minerals of pyroxene, amphibole and feldspar groups.</span></p>
 
 <p><span class="chinese">主要岩石类型为二云石英片岩和斜长角闪片岩。</span><span class="english">The main rock types are two-mica quartz schist and plagioclase amphibole schist.</span></p>

@@ -1,5 +1,7 @@
 # 顶替
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingti.md)
+
 <p><span class="chinese">我们得去请张丽顶替了。</span><span class="english">We'll have to ask Zhang Li instead.</span></p>
 
 <p><span class="chinese">她被她的下级职员顶替。</span><span class="english">She was displaced by her junior clerk.</span></p>

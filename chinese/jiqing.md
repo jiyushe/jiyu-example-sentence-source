@@ -1,5 +1,7 @@
 # 吉庆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiqing.md)
+
 <p><span class="chinese">如果你想要同时获得两世的吉庆美好。</span><span class="english">If you want to acquire the possession of both worlds.</span></p>
 
 <p><span class="chinese">亲爱的兄弟，斋月幸福吉庆！</span><span class="english">Dear brother, may you have a happy and blessed Ramadan!</span></p>

@@ -1,5 +1,7 @@
 # 步调一致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budiaoyizhi.md)
+
 <p><span class="chinese">它就像部队行军，每个人都步调一致。</span><span class="english">It's like a military march- every one in step.</span></p>
 
 <p><span class="chinese">然而最近这六国却试图言行统一，步调一致。</span><span class="english">Yet the six have nonetheless managed to keep in step.</span></p>

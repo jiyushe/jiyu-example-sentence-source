@@ -1,5 +1,7 @@
 # 暴发户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baofahu.md)
+
 <p><span class="chinese">你看他财大气粗，就知道他是个暴发户。</span><span class="english">You can tell he is a parvenu.</span></p>
 
 <p><span class="chinese">这个雇主只是个恶劣地土暴发户而已。</span><span class="english">The employer is a bad parvenu only.</span></p>

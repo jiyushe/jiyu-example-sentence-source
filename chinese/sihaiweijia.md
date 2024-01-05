@@ -1,5 +1,7 @@
 # 四海为家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihaiweijia.md)
+
 <p><span class="chinese">能给我来一杯四海为家吗？</span><span class="english">Can I get a cosmopolitan?</span></p>
 
 <p><span class="chinese">我去拿，四海为家，对吗？</span><span class="english">I'll get it. Cosmopolitan , right?</span></p>

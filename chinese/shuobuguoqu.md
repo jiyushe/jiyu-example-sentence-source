@@ -1,5 +1,7 @@
 # 说不过去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuobuguoqu.md)
+
 <p><span class="chinese">这可说不过去——我们有新扫帚。</span><span class="english">There was no excuse----we have new brooms.</span></p>
 
 <p><span class="chinese">不管说不过去，管又要生烦恼。</span><span class="english">Whether justified, the management but also health troubles.</span></p>

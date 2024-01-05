@@ -1,5 +1,7 @@
 # 中保
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongbao.md)
+
 <p><span class="chinese">那么中保指谁？是摩西吧？</span><span class="english">Well who was the mediator? Moses right?</span></p>
 
 <p><span class="chinese">祂是神与人中间的唯一中保。</span><span class="english">He is the only mediator between God and men.</span></p>

@@ -1,5 +1,7 @@
 # 并轨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binggui.md)
+
 <p><span class="chinese">逐步实现廉租房与公租房统筹建设、并轨运行。</span><span class="english">Gradually merger the construction of low-rent public housing and public rentals.</span></p>
 
 <p><span class="chinese">其次在薪酬福利方面，实现现有的双薪酬体系并轨。</span><span class="english">Second, the pay and benefits, the realization of the merger of the existing dual pay system.</span></p>

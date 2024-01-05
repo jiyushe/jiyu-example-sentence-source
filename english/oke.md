@@ -1,5 +1,7 @@
 # oke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oke.md)
+
 <p><span class="chinese">他说得太快了，使我们不能了解他的意思。</span><span class="english">He oke so rapidly that we could not clearly understand him.</span></p>
 
 <p><span class="chinese">她说话的口吻似乎表明她不想再给他添更多的麻烦。</span><span class="english">She oke as if she did not want to cause him any more trouble.</span></p>

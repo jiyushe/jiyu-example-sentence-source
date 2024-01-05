@@ -1,5 +1,7 @@
 # 凝练
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ninglian_1.md)
+
 <p><span class="chinese">另外，经过不断地整理与凝练，我的思想已经不再是“妄想”了。</span><span class="english">Besides my thoughts were no longer “delusion”.</span></p>
 
 <p><span class="chinese">罗密欧与朱丽叶的爱情故事在威尼托上演，炽热深情一如阿玛罗尼的凝练醇厚。</span><span class="english">The love story of Romeo and Juliet never fades, as with the passion of Amarone.</span></p>

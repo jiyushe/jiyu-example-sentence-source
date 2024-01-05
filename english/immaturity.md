@@ -1,5 +1,7 @@
 # immaturity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immaturity.md)
+
 <p><span class="chinese">建设市场主体不够成熟。</span><span class="english">The subject of construction market is immaturity.</span></p>
 
 <p><span class="chinese">所谓启蒙，就是人类抛弃自身设定的幼稚。</span><span class="english">Enlightenment is man's leaving his self-caused immaturity.</span></p>

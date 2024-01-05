@@ -1,5 +1,7 @@
 # charmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charmer.md)
+
 <p><span class="chinese">两次迷路，没有行李。等待仙女救援。</span><span class="english">Lost twice, no baggage, awaiting charmer.</span></p>
 
 <p><span class="chinese">如果耍蛇者被蛇咬，那也是自找的！</span><span class="english">If the snake charmer gets bitten, it is what he deserves!</span></p>

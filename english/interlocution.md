@@ -1,5 +1,7 @@
 # interlocution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlocution.md)
+
 <p><span class="chinese">急需药理问答答案。</span><span class="english">Be badly in need of pharmacodynamics interlocution answer.</span></p>
 
 <p><span class="chinese">昨天，该网站已经删除该问答内容。</span><span class="english">Yesterday, this website has deleted this interlocution content.</span></p>

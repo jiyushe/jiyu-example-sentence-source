@@ -1,5 +1,7 @@
 # 大功告成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dagonggaocheng.md)
+
 <p><span class="chinese">水坝已大功告成。</span><span class="english">The dam is accomplished.</span></p>
 
 <p><span class="chinese">大功告成，有劳大家，我们来高兴一下！</span><span class="english">Cheers to everybody for a job well done!</span></p>

@@ -1,5 +1,7 @@
 # electricity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electricity.md)
+
 <p><span class="chinese">节约用电。</span><span class="english">Save electricity.</span></p>
 
 <p><span class="chinese">煤气和电费。</span><span class="english">Gas and electricity.</span></p>

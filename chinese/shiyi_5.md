@@ -1,5 +1,7 @@
 # 诗意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyi_5.md)
+
 <p><span class="chinese">诗意的流泪，空城，一个男人。</span><span class="english">Poetry tears, empty city, a man.</span></p>
 
 <p><span class="chinese">温暖才是诗意的本质。</span><span class="english">That warmth’s the very stuff of poesy.</span></p>

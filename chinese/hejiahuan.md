@@ -1,5 +1,7 @@
 # 合家欢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hejiahuan.md)
+
 <p><span class="chinese">他给我看一张合家欢的照片。</span><span class="english">He showed me a photo of a family group.</span></p>
 
 <p><span class="chinese">麝香自己是在出席国际综艺合家欢也去看看吧。</span><span class="english">Musk himself was in attendance at IAC to watch, too.</span></p>

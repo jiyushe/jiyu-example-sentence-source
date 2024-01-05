@@ -1,5 +1,7 @@
 # 逃之夭夭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taozhiyaoyao.md)
+
 <p><span class="chinese">不过，他逃之夭夭，没有受到惩罚。</span><span class="english">But he escaped and got off scot-free.</span></p>
 
 <p><span class="chinese">一辆卡车从简的猫咪身上碾过后逃之夭夭。</span><span class="english">A lorry ran over Jane's cat and sped away.</span></p>

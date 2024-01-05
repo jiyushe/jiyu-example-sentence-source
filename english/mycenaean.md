@@ -1,5 +1,7 @@
 # mycenaean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mycenaean.md)
+
 <p><span class="chinese">这把迈锡尼匕首已有3000多年的历史。</span><span class="english">This Mycenaean dagger is over 3000 years old.</span></p>
 
 <p><span class="chinese">是迈锡尼的青铜时代吗</span><span class="english">Was it the world of the Mycenaean Bronze Age?</span></p>

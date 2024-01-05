@@ -1,5 +1,7 @@
 # cote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cote.md)
+
 <p><span class="chinese">Cote本周在佛罗里达的一次会议上说到.</span><span class="english">Cote said at a conference in Florida this week.</span></p>
 
 <p><span class="chinese">古德补充道，路线图也应该是公开的。</span><span class="english">Coté adds that roadmaps should be publicly available.</span></p>

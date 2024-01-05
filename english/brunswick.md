@@ -1,5 +1,7 @@
 # brunswick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brunswick.md)
+
 <p><span class="chinese">新不伦瑞克大学</span><span class="english">University of New Brunswick, New Brunswick</span></p>
 
 <p><span class="chinese">离布伦斯威克只有十英里了，只有五英里了。</span><span class="english">Then Brunswick was 10 miles, and then five.</span></p>

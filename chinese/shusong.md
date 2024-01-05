@@ -1,5 +1,7 @@
 # 疏松
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shusong.md)
+
 <p><span class="chinese">要求生活在肥沃、疏松的沙质土壤里。</span><span class="english">The requirement lives in fecund, loose sandiness soil.</span></p>
 
 <p><span class="chinese">退火态的膜层结构比沉积态的疏松。</span><span class="english">Annealed film structure is looser than as-deposited one.</span></p>

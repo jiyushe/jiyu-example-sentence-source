@@ -1,5 +1,7 @@
 # occlusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occlusive.md)
+
 <p><span class="chinese">胆管癌以阻塞型和闭塞型狭窄多见。</span><span class="english">The obstruction type and occlusive stenosis type were more common.</span></p>
 
 <p><span class="chinese">这证实了家长对阻塞治疗重要性的理解较差。</span><span class="english">This confirms poor understanding of the importance of occlusive therapy among parents.</span></p>

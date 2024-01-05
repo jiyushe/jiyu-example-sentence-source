@@ -1,5 +1,7 @@
 # propertied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propertied.md)
+
 <p><span class="chinese">该税项仅影响有房地产的阶层。</span><span class="english">The tax will affect only the propertied classes.</span></p>
 
 <p><span class="chinese">传说他是一个有产阶级的独子，在一次欢庆的人群中走失。</span><span class="english">He is a legend propertied class's only son, in a celebration of the population lost.</span></p>

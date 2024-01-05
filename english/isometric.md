@@ -1,5 +1,7 @@
 # isometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isometric.md)
+
 <p><span class="chinese">做10分钟静力锻炼。</span><span class="english">Take 10 minutes for isometric exercises.</span></p>
 
 <p><span class="chinese">病毒颗粒呈等轴多面体，直径为33毫微米。</span><span class="english">Diameter of the isometric particle is 33 nm.</span></p>

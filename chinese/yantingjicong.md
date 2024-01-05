@@ -1,5 +1,7 @@
 # 言听计从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yantingjicong.md)
+
 <p><span class="chinese">你应该总是对别人言听计从吗?。</span><span class="english">Should you always do what others tell you to do?</span></p>
 
 <p><span class="chinese">秘书们对老板是言听计从。</span><span class="english">The secretaries were all things to their bosses.</span></p>

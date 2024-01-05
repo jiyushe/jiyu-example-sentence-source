@@ -1,5 +1,7 @@
 # egyptian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egyptian.md)
+
 <p><span class="chinese">宏正自动科技是埃及为太阳。</span><span class="english">Aten is Egyptian for Sun.</span></p>
 
 <p><span class="chinese">杀光埃及的希腊人！</span><span class="english">Kill all the Egyptian Grecians !</span></p>

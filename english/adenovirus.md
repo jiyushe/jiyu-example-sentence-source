@@ -1,5 +1,7 @@
 # adenovirus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adenovirus.md)
+
 <p><span class="chinese">但是，腺病毒产生了一个问题。</span><span class="english">The adenovirus presented a problem, however.</span></p>
 
 <p><span class="chinese">人IL-2基因腺病毒载体的构建和包装。</span><span class="english">Established the IL-2 gene recombinant adenovirus vector.</span></p>

@@ -1,5 +1,7 @@
 # windmill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windmill.md)
+
 <p><span class="chinese">做风车式。</span><span class="english">Do the windmill.</span></p>
 
 <p><span class="chinese">我们将另建一座。</span><span class="english">We will build another windmill.</span></p>

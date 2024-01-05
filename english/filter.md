@@ -1,5 +1,7 @@
 # filter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filter.md)
+
 <p><span class="chinese">查找“webgl”</span><span class="english">Filter for “webgl”</span></p>
 
 <p><span class="chinese">组搜索过滤器。</span><span class="english">Group search filter.</span></p>

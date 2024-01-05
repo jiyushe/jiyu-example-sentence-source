@@ -1,5 +1,7 @@
 # shipshape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shipshape.md)
+
 <p><span class="chinese">连畜棚都井然有序。</span><span class="english">Even the barn was shipshape.</span></p>
 
 <p><span class="chinese">我们尽量保持船井井有条。</span><span class="english">We try to keep the ship shipshape.</span></p>

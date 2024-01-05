@@ -1,5 +1,7 @@
 # 药膳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoshan_1.md)
+
 <p><span class="chinese">在很多药膳中都冰糖的身影。</span><span class="english">Many in the Diet have seen crystal sugar.</span></p>
 
 <p><span class="chinese">晚宴著名的药膳。</span><span class="english">Enjoy the famous Medicinal Food for dinner tonight.</span></p>

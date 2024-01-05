@@ -1,5 +1,7 @@
 # 思忖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sicun.md)
+
 <p><span class="chinese">他思忖，这是时代的趋势。</span><span class="english">It was a sign of the times, he thought.</span></p>
 
 <p><span class="chinese">面对死神谁都会害怕的,我暗自思忖。</span><span class="english">No one faces death without fear, I thought.</span></p>

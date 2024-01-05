@@ -1,5 +1,7 @@
 # geomancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geomancy.md)
+
 <p><span class="chinese">你还懂风水啊？</span><span class="english">You understand geomancy?</span></p>
 
 <p><span class="chinese">风水学是我国传统文化的一朵奇葩。</span><span class="english">Geomancy is an exotic flower of Chinese traditional culture.</span></p>

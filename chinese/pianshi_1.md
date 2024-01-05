@@ -1,5 +1,7 @@
 # 片时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianshi_1.md)
+
 <p><span class="chinese">我会再下次放幻灯片时重播</span><span class="english">And I will back the other slides.</span></p>
 
 <p><span class="chinese">你第一次看到这张照片时什么情形？</span><span class="english">How did you first see this picture?</span></p>

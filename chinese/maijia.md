@@ -1,5 +1,7 @@
 # 买价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maijia.md)
+
 <p><span class="chinese">索赔额不得超过购买价。</span><span class="english">The compensation shall not exceed the agreed purchase price.</span></p>
 
 <p><span class="chinese">要尽量避免这种情况，做法就是坚持把你的注意力集中到买价上。</span><span class="english">Avoid this by insisting that you focus only on the purchase price.</span></p>

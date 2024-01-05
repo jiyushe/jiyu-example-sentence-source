@@ -1,5 +1,7 @@
 # coloration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coloration.md)
+
 <p><span class="chinese">其不隐色介质均搁置固体不朱。</span><span class="english">Its coloration media use liquid ink.</span></p>
 
 <p><span class="chinese">不同鱼种的行为和颜色各不相同。</span><span class="english">The species differ in their behavior and coloration.</span></p>

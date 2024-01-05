@@ -1,5 +1,7 @@
 # 惊吓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxia.md)
+
 <p><span class="chinese">鹿很容易受到惊吓。</span><span class="english">The deer startle easily.</span></p>
 
 <p><span class="chinese">弗雷多会被惊吓。</span><span class="english">Fredo would have been cowed.</span></p>

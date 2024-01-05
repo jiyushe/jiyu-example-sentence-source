@@ -1,5 +1,7 @@
 # rotifer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotifer.md)
+
 <p><span class="chinese">综述了近年来国内外对轮虫休眠卵的研究概况。</span><span class="english">Progress in the study of rotifer resting eggs is reviewed.</span></p>
 
 <p><span class="chinese">轮虫对水体营养水平的响应相对比较显著。</span><span class="english">Compared with crustacean zooplankton, rotifer responded to trophic status more distinctly.</span></p>

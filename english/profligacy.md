@@ -1,5 +1,7 @@
 # profligacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profligacy.md)
+
 <p><span class="chinese">现在，为我们过去穷奢极侈的行为买单的时刻终于到了。</span><span class="english">The bill for our past profligacy has finally come due.</span></p>
 
 <p><span class="chinese">那么，为什么要求他们不生孩子来为我们的挥霍买单？</span><span class="english">So why ask them to pay in unborn children for our profligacy?</span></p>

@@ -1,5 +1,7 @@
 # illuminative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illuminative.md)
+
 <p><span class="chinese">李叔同是我国近代著名的启蒙音乐教育家。</span><span class="english">Li Shutong is an illuminative music educator in modern China.</span></p>
 
 <p><span class="chinese">一是家具已成为家居装饰的主体。</span><span class="english">It is furniture already made household illuminative principal part.</span></p>

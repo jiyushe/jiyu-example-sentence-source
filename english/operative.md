@@ -1,5 +1,7 @@
 # operative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/operative.md)
+
 <p><span class="chinese">这就是操作性条件反射。</span><span class="english">That's how operative conditioning works.</span></p>
 
 <p><span class="chinese">放松似乎是个很妥当的词。</span><span class="english">Relaxation seems to be the operative word.</span></p>

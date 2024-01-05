@@ -1,5 +1,7 @@
 # razor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/razor.md)
+
 <p><span class="chinese">只是这一次拿着一把剃刀。</span><span class="english">This time with a razor.</span></p>
 
 <p><span class="chinese">刚看到时那造型真像剃刀！</span><span class="english">It likes a razor at sight!</span></p>

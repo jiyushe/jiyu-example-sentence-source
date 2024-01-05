@@ -1,5 +1,7 @@
 # 羚羊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingyang.md)
+
 <p><span class="chinese">母羚羊的寿命是12年。</span><span class="english">Lechwe live for up to 12 years.</span></p>
 
 <p><span class="chinese">一只羚羊需要几双新鞋子。</span><span class="english">A wildebeest needed some new shoes.</span></p>

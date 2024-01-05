@@ -1,5 +1,7 @@
 # grin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grin.md)
+
 <p><span class="chinese">那么，为什么不咧嘴微笑呢？</span><span class="english">So why not grin?</span></p>
 
 <p><span class="chinese">阿纳金藏起了他的笑容。</span><span class="english">Anakin hid his grin.</span></p>

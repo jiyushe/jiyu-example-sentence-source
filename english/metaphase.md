@@ -1,5 +1,7 @@
 # metaphase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metaphase.md)
+
 <p><span class="chinese">它是中期。你想要检查它？</span><span class="english">It's Metaphase. You wanna check it?</span></p>
 
 <p><span class="chinese">广东目前已经进入工业化中期阶段。</span><span class="english">Guangdong has entered industrialized metaphase phase at present.</span></p>

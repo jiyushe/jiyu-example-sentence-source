@@ -1,5 +1,7 @@
 # budget 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/budget.md)
+
 <p><span class="chinese">我的预算是多少?</span><span class="english">What is my budget?</span></p>
 
 <p><span class="chinese">你们就是我的经费。</span><span class="english">You are my budget.</span></p>

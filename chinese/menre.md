@@ -1,5 +1,7 @@
 # 闷热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menre.md)
+
 <p><span class="chinese">这里太闷热了！</span><span class="english">It's sweltering here!</span></p>
 
 <p><span class="chinese">这是个漆黑闷热的夜晚。</span><span class="english">It was a dark,hot night.</span></p>

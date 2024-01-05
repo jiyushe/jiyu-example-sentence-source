@@ -1,5 +1,7 @@
 # 茅塞顿开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maosedunkai.md)
+
 <p><span class="chinese">茅塞顿开，回归自然。</span><span class="english">Has a return to nature.</span></p>
 
 <p><span class="chinese">那真是让人茅塞顿开。</span><span class="english">That really was illuminating.</span></p>

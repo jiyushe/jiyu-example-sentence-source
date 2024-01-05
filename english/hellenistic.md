@@ -1,5 +1,7 @@
 # hellenistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hellenistic.md)
+
 <p><span class="chinese">后来，在希腊跟罗马时期，这种优位才倒转过来。</span><span class="english">Later, in the Hellenistic and Greco-Roman periods, this is reversed.</span></p>
 
 <p><span class="chinese">基督教的音乐文化源于两希文化。</span><span class="english">Christian music culture originated from Hebrew and Hellenistic Culture.</span></p>

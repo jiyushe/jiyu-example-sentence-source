@@ -1,5 +1,7 @@
 # 添补
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianbu_1.md)
+
 <p><span class="chinese">最后，我决定为她的奖学金添补资金。</span><span class="english">Eventually I plan to add to her scholarship fund.</span></p>
 
 <p><span class="chinese">一块钱，对她们肯定不能添补什么？</span><span class="english">A piece of money, they certainly should not fill up on what?</span></p>

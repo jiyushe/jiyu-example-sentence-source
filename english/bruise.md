@@ -1,5 +1,7 @@
 # bruise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bruise.md)
+
 <p><span class="chinese">桃子容易碰伤。</span><span class="english">The peaches bruise easily.</span></p>
 
 <p><span class="chinese">我们两人都太易受伤害。</span><span class="english">We both bruise too easily.</span></p>

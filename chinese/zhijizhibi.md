@@ -1,5 +1,7 @@
 # 知己知彼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijizhibi.md)
+
 <p><span class="chinese">有句谚语，“知己知彼”就是这个道理吧。</span><span class="english">The old adage 'know you enemy' is an appropriate analogy here.</span></p>
 
 <p><span class="chinese">兩人为相差二十二岁之表兄弟，情真意切，知己知彼。</span><span class="english">Su and Wen are cousins with an age difference of twenty-two years.</span></p>

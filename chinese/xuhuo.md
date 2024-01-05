@@ -1,5 +1,7 @@
 # 虚火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuhuo.md)
+
 <p><span class="chinese">对症下药治虚火广州“五一”黄金周楼市无悬念！</span><span class="english">Case in Guangzhou but fire "51" Golden Week property without apprehensively !</span></p>
 
 <p><span class="chinese">概述了虚火花放电的特性，如工作气压和击穿电压等。</span><span class="english">Outlining the characteristics of pseudospark, such as pressure and breakdown voltage.</span></p>

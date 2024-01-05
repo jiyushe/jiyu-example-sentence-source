@@ -1,5 +1,7 @@
 # shove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shove.md)
+
 <p><span class="chinese">变戏法的人讨厌推搡。</span><span class="english">Or a juggler hates a shove.</span></p>
 
 <p><span class="chinese">你可以选择推他一把。</span><span class="english">And you could give him a shove.</span></p>

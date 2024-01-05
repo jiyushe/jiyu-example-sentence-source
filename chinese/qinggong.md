@@ -1,5 +1,7 @@
 # 庆功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinggong.md)
+
 <p><span class="chinese">何维健将在新加坡e乐大赏2011庆功派对上演出！</span><span class="english">Derrick Hoh will perform in Singapore e-Awards 2011!</span></p>
 
 <p><span class="chinese">因此，我们的领导今天晚上举行了一场庆功晚宴。</span><span class="english">So our leaders hold a celebratory dinner this evening.</span></p>

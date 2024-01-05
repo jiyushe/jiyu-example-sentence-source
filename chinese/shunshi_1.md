@@ -1,5 +1,7 @@
 # 顺势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunshi_1.md)
+
 <p><span class="chinese">水顺势而行，你也应该如此。</span><span class="english">Water flows and so must you.</span></p>
 
 <p><span class="chinese">怎样使用顺势疗法药物</span><span class="english">How to Use Homeopathic Medicine</span></p>

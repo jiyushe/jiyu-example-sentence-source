@@ -1,5 +1,7 @@
 # evidentiary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evidentiary.md)
+
 <p><span class="chinese">务必要记得，在引用不同论点和证据时，要加上。</span><span class="english">Be sure to footnote both argument and evidentiary citations.</span></p>
 
 <p><span class="chinese">务必要记得，在引用不同论点和证据时，要加上注脚。</span><span class="english">Be sure to footnote both argument and evidentiary citations.</span></p>

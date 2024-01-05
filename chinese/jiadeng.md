@@ -1,5 +1,7 @@
 # 甲等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiadeng.md)
+
 <p><span class="chinese">我想订甲等舱的机票。多少钱?。</span><span class="english">I prefer first class. What the fare?</span></p>
 
 <p><span class="chinese">趁他朝别处看是，她溜进了甲等舱船面。</span><span class="english">While he looks away, she sneaks onto the first class deck.</span></p>

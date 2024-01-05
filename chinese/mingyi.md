@@ -1,5 +1,7 @@
 # 名医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingyi.md)
+
 <p><span class="chinese">王大夫是一位名医。</span><span class="english">Mr. Wang is a famous doctor.</span></p>
 
 <p><span class="chinese">我相信露西会成为名医。</span><span class="english">I believe Lucy will become a famous doctor.</span></p>

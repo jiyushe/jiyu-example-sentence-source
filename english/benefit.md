@@ -1,5 +1,7 @@
 # benefit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benefit.md)
+
 <p><span class="chinese">对欧宝有什么好处？</span><span class="english">What Benefit to Opel?</span></p>
 
 <p><span class="chinese">第一，互惠互利是根本。</span><span class="english">First, mutual benefit.</span></p>

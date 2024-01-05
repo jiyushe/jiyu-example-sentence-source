@@ -1,5 +1,7 @@
 # faint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faint.md)
+
 <p><span class="chinese">你的照片色彩很淡。</span><span class="english">Your photos are faint.</span></p>
 
 <p><span class="chinese">他努力露出了一丝笑容。</span><span class="english">He essayed a faint smile.</span></p>

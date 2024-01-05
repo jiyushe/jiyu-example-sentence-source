@@ -1,5 +1,7 @@
 # adaptation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adaptation.md)
+
 <p><span class="chinese">为了方便取食水果？</span><span class="english">An adaptation for fruit foraging?</span></p>
 
 <p><span class="chinese">适应问题的核心是资金。</span><span class="english">The core of adaptation is funding.</span></p>

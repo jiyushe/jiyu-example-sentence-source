@@ -1,5 +1,7 @@
 # breastbone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breastbone.md)
+
 <p><span class="chinese">胸骨、肋骨亦分别切开。</span><span class="english">Breastbone and ribs were cut respectively.</span></p>
 
 <p><span class="chinese">躯干骨包括脊柱骨、肋和胸骨。</span><span class="english">Trunk bones included spine, rib and breastbone.</span></p>

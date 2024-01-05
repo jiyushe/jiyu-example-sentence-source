@@ -1,5 +1,7 @@
 # malady
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malady.md)
+
 <p><span class="chinese">这疾病是普遍性的。</span><span class="english">The malady is universal.</span></p>
 
 <p><span class="chinese">可叹的是我的病痛却找不到香膏来治愈。</span><span class="english">I suffer a malady that no balm can cure !</span></p>

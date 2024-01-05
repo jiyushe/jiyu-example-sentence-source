@@ -1,5 +1,7 @@
 # knowledgeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knowledgeable.md)
+
 <p><span class="chinese">要假设合同的读者是一个受过教育的外行。</span><span class="english">A ume the reader is a knowledgeable layman.</span></p>
 
 <p><span class="chinese">我是世界上最博学多闻的人！</span><span class="english">I'm the most knowledgeable person in the world.</span></p>

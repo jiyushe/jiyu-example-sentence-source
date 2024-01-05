@@ -1,5 +1,7 @@
 # 林区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linqu.md)
+
 <p><span class="chinese">他们砍伐了部分林区的树木。</span><span class="english">They logged part of the area.</span></p>
 
 <p><span class="chinese">消防队员扑灭了一场林区大火。</span><span class="english">Fire fighters hosed down a bushfire.</span></p>

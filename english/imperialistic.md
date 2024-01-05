@@ -1,5 +1,7 @@
 # imperialistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperialistic.md)
+
 <p><span class="chinese">它是具有侵略性和帝国主义性质的。</span><span class="english">It is aggressive and imperialistic.</span></p>
 
 <p><span class="chinese">这种冲击削弱了这个帝国主义国家的实力。</span><span class="english">The impact impaired the power of the imperialistic country.</span></p>

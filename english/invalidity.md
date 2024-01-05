@@ -1,5 +1,7 @@
 # invalidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invalidity.md)
+
 <p><span class="chinese">产品质量存瑕疵免责条款判无效。</span><span class="english">Flaws in the goods, Invalidity of impunity clauses.</span></p>
 
 <p><span class="chinese">第三部分是公司章程的无效及法律救济。</span><span class="english">The third part is the company's charter and the invalidity of Legal Remedy.</span></p>

@@ -1,5 +1,7 @@
 # 亲缘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinyuan.md)
+
 <p><span class="chinese">第一个答案是亲缘选择。</span><span class="english">One answer is kin selection.</span></p>
 
 <p><span class="chinese">这都是先天注定的亲缘。</span><span class="english">This is all the inborn to destine relative.</span></p>

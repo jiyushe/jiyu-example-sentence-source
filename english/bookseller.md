@@ -1,5 +1,7 @@
 # bookseller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookseller.md)
+
 <p><span class="chinese">他本来是住在城里的大书商。</span><span class="english">McConnell was a big city bookseller.</span></p>
 
 <p><span class="chinese">老客户现在做图书生意。你说，她已创业成为书商。</span><span class="english">She has set up. in business as a bookseller.</span></p>

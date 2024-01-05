@@ -1,5 +1,7 @@
 # 主动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhudong.md)
+
 <p><span class="chinese">主动精神。</span><span class="english">Initiative.</span></p>
 
 <p><span class="chinese">采取主动。</span><span class="english">Take initiative.</span></p>

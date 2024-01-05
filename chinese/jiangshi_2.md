@@ -1,5 +1,7 @@
 # 讲师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangshi_2.md)
+
 <p><span class="chinese">她已获得牛津大学讲师的职位。</span><span class="english">She's got a lectureship at Oxford.</span></p>
 
 <p><span class="chinese">另一个职位是讲师。</span><span class="english">Another position is that of lecturer.</span></p>

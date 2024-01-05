@@ -1,5 +1,7 @@
 # impel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impel.md)
+
 <p><span class="chinese">我愿精神把不同肤色民族感召。</span><span class="english">I wish spirit impel the different colors of skin.</span></p>
 
 <p><span class="chinese">推动妇幼用品事业的发展。</span><span class="english">Impel the women and children thing enterprise the development.</span></p>

@@ -1,5 +1,7 @@
 # blinkers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blinkers.md)
+
 <p><span class="chinese">那匹马不喜欢带眼罩。</span><span class="english">The horse dislike wearing blinkers.</span></p>
 
 <p><span class="chinese">我睁开眼睛时，你猜我看到了谁？</span><span class="english">As I opened my blinkers , guess who I saw?</span></p>

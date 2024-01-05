@@ -1,5 +1,7 @@
 # hcs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hcs.md)
+
 <p><span class="chinese">含HCS亮白配方，有助洁白牙齿，祛除牙垢。</span><span class="english">With HCS white formula will help clean teeth, eliminate the tartar.</span></p>
 
 <p><span class="chinese">本论文的第三部分研究了高取代度阳离子淀粉在造纸湿部的应用。</span><span class="english">Thirdly, the application of HCS in the wet-end of papermaking was studied.</span></p>

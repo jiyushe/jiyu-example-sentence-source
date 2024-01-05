@@ -1,5 +1,7 @@
 # consulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consulate.md)
+
 <p><span class="chinese">你可以打电话给领事馆吗？</span><span class="english">Could you call the consulate?</span></p>
 
 <p><span class="chinese">领事馆的电话号码是多少？</span><span class="english">What is the phone-number of the consulate?</span></p>

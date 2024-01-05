@@ -1,5 +1,7 @@
 # iconic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iconic.md)
+
 <p><span class="chinese">柯南道尔创作了这个有史以来最经典的侦探形象。</span><span class="english">Doyle created the most iconic detective of all time.</span></p>
 
 <p><span class="chinese">这些充满烟雾的房间是土耳其代表性的景象。</span><span class="english">These smoke-filled rooms are iconic images of Turkey.</span></p>

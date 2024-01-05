@@ -1,5 +1,7 @@
 # 编造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzao.md)
+
 <p><span class="chinese">有警察是我编造的谎言。</span><span class="english">I lied about the policeman.</span></p>
 
 <p><span class="chinese">铝门是编造的。</span><span class="english">Aluminum Doors are fabricated.</span></p>

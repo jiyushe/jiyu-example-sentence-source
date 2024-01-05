@@ -1,5 +1,7 @@
 # 龙胆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longdan.md)
+
 <p><span class="chinese">我可没办法弄到龙胆酒啊！</span><span class="english">I can not be procuring liquor gentian ah!</span></p>
 
 <p><span class="chinese">东北龙胆的胚囊发育属于蓼型。</span><span class="english">The development of embryo sac belongs to polygonum type.</span></p>

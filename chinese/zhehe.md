@@ -1,5 +1,7 @@
 # 折合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhehe.md)
+
 <p><span class="chinese">省道必须先折合剪。</span><span class="english">Darts must be folded out and cut.</span></p>
 
 <p><span class="chinese">二十市斤折合十公斤。</span><span class="english">This wool costs twenty yuan a Jin.</span></p>

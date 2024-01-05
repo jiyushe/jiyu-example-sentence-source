@@ -1,5 +1,7 @@
 # 墨黑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mohei.md)
+
 <p><span class="chinese">然后他墨黑的眼睛变得狡黠。</span><span class="english">Then his coal-black eyes became sly.</span></p>
 
 <p><span class="chinese">它全身墨黑，棱角分明，带浓浓的工业气息。</span><span class="english">It’s jet black, all sharp angles and industrial-looking edges.</span></p>

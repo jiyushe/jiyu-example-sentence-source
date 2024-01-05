@@ -1,5 +1,7 @@
 # layoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/layoff.md)
+
 <p><span class="chinese">暂时解雇不久后，工人们又再度受聘。</span><span class="english">Workers were re-employed after the layoff.</span></p>
 
 <p><span class="chinese">长期没碰之后，他保龄球打得真差。</span><span class="english">He was bowling badly after his long layoff.</span></p>

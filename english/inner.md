@@ -1,5 +1,7 @@
 # inner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inner.md)
+
 <p><span class="chinese">人性讲堂</span><span class="english">Inner Core</span></p>
 
 <p><span class="chinese">放松腹股沟。</span><span class="english">Release inner groins.</span></p>

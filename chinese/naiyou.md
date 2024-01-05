@@ -1,5 +1,7 @@
 # 奶油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naiyou.md)
+
 <p><span class="chinese">你喜欢奶油软糖吗？</span><span class="english">Do you like fudge?</span></p>
 
 <p><span class="chinese">那种奶油搅拌不成糊状。</span><span class="english">That cream won't beat.</span></p>

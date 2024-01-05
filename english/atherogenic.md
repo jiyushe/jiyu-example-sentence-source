@@ -1,5 +1,7 @@
 # atherogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atherogenic.md)
+
 <p><span class="chinese">所有实验小鼠自3周龄断奶后高脂饲喂。</span><span class="english">All mice were fed an "atherogenic diet" from the age of 3 weeks after being weaned.</span></p>
 
 <p><span class="chinese">氧化修饰则从各个方面削弱高密度脂蛋白的抗动脉硬化效应。</span><span class="english">Whereas the oxidative modification of HDL may impair its anti atherogenic function.</span></p>

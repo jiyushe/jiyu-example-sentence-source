@@ -1,5 +1,7 @@
 # symbolism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbolism.md)
+
 <p><span class="chinese">梦具有象征意义。</span><span class="english">Dreams had symbolism.</span></p>
 
 <p><span class="chinese">你可以将阿卡西象征符号作为一个索引。</span><span class="english">You can use the Akashic symbolism as an index.</span></p>

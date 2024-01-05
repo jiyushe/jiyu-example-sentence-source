@@ -1,5 +1,7 @@
 # actin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actin.md)
+
 <p><span class="chinese">其实动环密封圈过紧有害无益。</span><span class="english">In fact, actin ring seals tight unhelpful.</span></p>
 
 <p><span class="chinese">在体外能显著抑制肌动蛋白聚合。</span><span class="english">It could inhibit actin polymerization in Vitro.</span></p>

@@ -1,5 +1,7 @@
 # 英武
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingwu.md)
+
 <p><span class="chinese">看看人家这位，多英武！</span><span class="english">Look at this guy.</span></p>
 
 <p><span class="chinese">你英武的名字应传颂。</span><span class="english">Your mighty names shall sound.</span></p>

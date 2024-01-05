@@ -1,5 +1,7 @@
 # 危难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weinan_1.md)
+
 <p><span class="chinese">蝙蝠侠和罗宾救民于危难……</span><span class="english">Batman and Robin to the rescue.</span></p>
 
 <p><span class="chinese">可怜的西而维亚在危难中被人遗弃了。</span><span class="english">Poor Sylvia got left in the lurch.</span></p>

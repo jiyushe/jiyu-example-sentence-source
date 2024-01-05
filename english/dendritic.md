@@ -1,5 +1,7 @@
 # dendritic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dendritic.md)
+
 <p><span class="chinese">关键的差异涉及到某些树突状细胞。</span><span class="english">The key difference involves something known as dendritic cells.</span></p>
 
 <p><span class="chinese">但是昏暗光是如何引起树突棘数量变化的呢？</span><span class="english">But how might dim light have brought about dendritic spine changes?</span></p>

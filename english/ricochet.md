@@ -1,5 +1,7 @@
 # ricochet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ricochet.md)
+
 <p><span class="chinese">跳弹和“无渗透”。</span><span class="english">Ricochet and "no penetration".</span></p>
 
 <p><span class="chinese">那你怎么解释这颗跳弹？</span><span class="english">How do you explain this ricochet ?</span></p>

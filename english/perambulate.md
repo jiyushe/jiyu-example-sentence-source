@@ -1,5 +1,7 @@
 # perambulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perambulate.md)
+
 <p><span class="chinese">每天晚上，当地居民常在这公园里散步。</span><span class="english">Every evening the local people perambulate around the park.</span></p>
 
 <p><span class="chinese">现场勘查中，发现了类似着袜的足迹。</span><span class="english">In spot perambulate , discovered the footmark of similar socks.</span></p>

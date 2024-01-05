@@ -1,5 +1,7 @@
 # 催眠术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuimianshu.md)
+
 <p><span class="chinese">玛丽知道如何施催眠术。</span><span class="english">Mary knows how to hypnotize people.</span></p>
 
 <p><span class="chinese">他对这个病人采用了催眠术疗法。</span><span class="english">He performed hypnotism on this patient.</span></p>

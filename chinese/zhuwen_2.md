@@ -1,5 +1,7 @@
 # 注文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuwen_2.md)
+
 <p><span class="chinese">注文及十九、二十两卷是陶弘景所作。</span><span class="english">Annotations and the last two volumes were written by Tao Hongjing.</span></p>
 
 <p><span class="chinese">其对于道学义理之发扬，则是存乎注文、传文当中，未尝敢凌驾于经典圣言之上。</span><span class="english">He propagates the truth in the annotated text, doesn't dare to surmount the classics.</span></p>

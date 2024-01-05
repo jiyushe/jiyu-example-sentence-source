@@ -1,5 +1,7 @@
 # pancreatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pancreatic.md)
+
 <p><span class="chinese">王某某，女，胰腺癌。</span><span class="english">Wang XX, Female, Pancreatic carcinoma.</span></p>
 
 <p><span class="chinese">我们发现他患了胰腺癌。</span><span class="english">We found out he had pancreatic cancer.</span></p>

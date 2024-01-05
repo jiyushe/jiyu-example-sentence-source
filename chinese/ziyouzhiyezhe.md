@@ -1,5 +1,7 @@
 # 自由职业者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyouzhiyezhe.md)
+
 <p><span class="chinese">自由职业者需要提供DNN皮肤。</span><span class="english">Freelancer needs to provide the DNN skin.</span></p>
 
 <p><span class="chinese">许多人愿意在家当自由职业者。</span><span class="english">Many people prefer to freelance from home.</span></p>

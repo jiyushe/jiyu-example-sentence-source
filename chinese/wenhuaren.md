@@ -1,5 +1,7 @@
 # 文化人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhuaren.md)
+
 <p><span class="chinese">我可是个文化人。</span><span class="english">I'm all about culture.</span></p>
 
 <p><span class="chinese">她是个文化人。</span><span class="english">She is a woman of culture.</span></p>

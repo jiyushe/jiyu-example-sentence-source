@@ -1,5 +1,7 @@
 # vodka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vodka.md)
+
 <p><span class="chinese">茴香家酿伏特加。</span><span class="english">Anise home-distilled vodka.</span></p>
 
 <p><span class="chinese">莫斯科人善饮伏特加酒。</span><span class="english">Muscovite kind drink vodka.</span></p>

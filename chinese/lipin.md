@@ -1,5 +1,7 @@
 # 礼品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lipin.md)
+
 <p><span class="chinese">你能否礼品包装吗？</span><span class="english">Could you gift-wrap it?</span></p>
 
 <p><span class="chinese">我替您包装成礼品吗？</span><span class="english">Shall I gift-wrap them?</span></p>

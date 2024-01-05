@@ -1,5 +1,7 @@
 # 开源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiyuan_1.md)
+
 <p><span class="chinese">CakePHP是免费的开源PHP框架</span><span class="english">CakePHP is Free and Open Source</span></p>
 
 <p><span class="chinese">但是今天，开源模式是一种手段。</span><span class="english">But today, open source is the means.</span></p>

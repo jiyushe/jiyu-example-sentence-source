@@ -1,5 +1,7 @@
 # bergson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bergson.md)
+
 <p><span class="chinese">绵延是柏格森生命哲学的核心概念。</span><span class="english">Duration is the central conception in bergson ism.</span></p>
 
 <p><span class="chinese">弗洛伊德和伯格森是两位伟大的哲学家。</span><span class="english">Sigmund Freud and Henri Bergson are two great philosophers.</span></p>

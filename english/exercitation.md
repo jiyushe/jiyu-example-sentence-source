@@ -1,5 +1,7 @@
 # exercitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exercitation.md)
+
 <p><span class="chinese">至少有护校实习。</span><span class="english">Have at least protect school exercitation.</span></p>
 
 <p><span class="chinese">损伤发生与其专项运动特点及训练周期较长等因素有密切的关系。</span><span class="english">The injury is related to specific sport peculiarity and length of exercitation.</span></p>

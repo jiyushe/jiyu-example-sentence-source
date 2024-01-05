@@ -1,5 +1,7 @@
 # uncooked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncooked.md)
+
 <p><span class="chinese">这些饺子是一些黏糊糊的生面团块。</span><span class="english">The dumplings were chunky pieces of uncooked dough.</span></p>
 
 <p><span class="chinese">蛋制品能作为未煮熟食品中的一种成分吗？</span><span class="english">Can Egg Products Be Used As An Ingredient In Uncooked Foods?</span></p>

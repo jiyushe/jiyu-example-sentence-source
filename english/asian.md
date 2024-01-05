@@ -1,5 +1,7 @@
 # asian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asian.md)
+
 <p><span class="chinese">也许托尼就是亚洲人。</span><span class="english">Maybe Tony is Asian.</span></p>
 
 <p><span class="chinese">我没有刻亚洲文身。</span><span class="english">I don't have Asian tattoos.</span></p>

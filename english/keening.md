@@ -1,5 +1,7 @@
 # keening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keening.md)
+
 <p><span class="chinese">像动物般的哀嚎，恸哭。</span><span class="english">Keening like an animal.</span></p>
 
 <p><span class="chinese">他热衷于体育运动。</span><span class="english">He is keening on sports.</span></p>

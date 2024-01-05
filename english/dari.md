@@ -1,5 +1,7 @@
 # dari
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dari.md)
+
 <p><span class="chinese">从四月到九月。</span><span class="english">Dari bulan April sampai bulan September.</span></p>
 
 <p><span class="chinese">这本书中使用了很多明喻。</span><span class="english">There are many dari ng similes in this book.</span></p>

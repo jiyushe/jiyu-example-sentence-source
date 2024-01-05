@@ -1,5 +1,7 @@
 # hamlet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hamlet.md)
+
 <p><span class="chinese">他正在练习演“哈姆雷特”以便临时代替别人。</span><span class="english">He is understudying Hamlet.</span></p>
 
 <p><span class="chinese">奥利佛演出的哈姆雷特。</span><span class="english">Oliver's version of Hamlet.</span></p>

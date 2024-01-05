@@ -1,5 +1,7 @@
 # disapproval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disapproval.md)
+
 <p><span class="chinese">他皱眉蹙额表示不赞同。</span><span class="english">He frowned his disapproval.</span></p>
 
 <p><span class="chinese">他皱眉表示不赞成。</span><span class="english">He scowled his disapproval.</span></p>

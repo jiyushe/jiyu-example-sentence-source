@@ -1,5 +1,7 @@
 # 汪洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangyang.md)
+
 <p><span class="chinese">日没于汪洋之中。</span><span class="english">The sun dips into the ocean.</span></p>
 
 <p><span class="chinese">因为徬徨犹豫，我像汪洋中的一条船。</span><span class="english">Being indecisive and hesitating, I'm like a ship in the ocean.</span></p>

@@ -1,5 +1,7 @@
 # 点头之交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diantouzhijiao.md)
+
 <p><span class="chinese">我与他仅仅是点头之交。</span><span class="english">I barely know him.</span></p>
 
 <p><span class="chinese">我与他有点头之交。</span><span class="english">I am on nodding terms with him.</span></p>

@@ -1,5 +1,7 @@
 # 脑积水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naojishui.md)
+
 <p><span class="chinese">这可以导致梗阻性脑积水。</span><span class="english">This can result in obstructive hydrocephalus.</span></p>
 
 <p><span class="chinese">头痛是会引起脑积水的原因吗？</span><span class="english">Is having a headache the cause that can you cause hydrocephalus?</span></p>

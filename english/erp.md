@@ -1,5 +1,7 @@
 # erp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erp.md)
+
 <p><span class="chinese">确保订单及出库单信息准确输入到ERP系统。</span><span class="english">Order and stock out sheet input in ERP.</span></p>
 
 <p><span class="chinese">增强塑料表面用砂纸打磨、拉毛。</span><span class="english">ERP surfaces by brushing with a sandpaper.</span></p>

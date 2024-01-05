@@ -1,5 +1,7 @@
 # 未知数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizhishu.md)
+
 <p><span class="chinese">一个方程两未知数。</span><span class="english">One equation with two unknowns.</span></p>
 
 <p><span class="chinese">佩林和赫卡比还是未知数。</span><span class="english">Palin and Huckabee are the unknowns.</span></p>

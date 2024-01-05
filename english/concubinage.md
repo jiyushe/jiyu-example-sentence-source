@@ -1,5 +1,7 @@
 # concubinage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concubinage.md)
+
 <p><span class="chinese">上帝发明同居，撒旦发明婚姻。</span><span class="english">God invented concubinage , Satan marriage.</span></p>
 
 <p><span class="chinese">而最近这些年，纳妾之风似乎有回潮的趋势。</span><span class="english">Concubinage has made a come back in recent years.</span></p>

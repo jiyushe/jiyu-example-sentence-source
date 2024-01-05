@@ -1,5 +1,7 @@
 # acquiescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquiescent.md)
+
 <p><span class="chinese">请注意这个词“默认的”。</span><span class="english">Note this term please " acquiescent ".</span></p>
 
 <p><span class="chinese">爱好音乐的人是心情平和又守法的国民。</span><span class="english">They are too law-abiding and to acquiescent.</span></p>

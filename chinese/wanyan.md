@@ -1,5 +1,7 @@
 # 婉言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanyan.md)
+
 <p><span class="chinese">起初她婉言拒绝。</span><span class="english">At first she declined.</span></p>
 
 <p><span class="chinese">他婉言拒绝了。</span><span class="english">He declined with thanks.</span></p>

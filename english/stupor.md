@@ -1,5 +1,7 @@
 # stupor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stupor.md)
+
 <p><span class="chinese">罗斯在可怕的昏迷中嚎叫。</span><span class="english">Los howl'd in a dismal stupor.</span></p>
 
 <p><span class="chinese">这个醉鬼昏迷不醒，倒在地上。</span><span class="english">The druken man fell to the floor in a stupor.</span></p>

@@ -1,5 +1,7 @@
 # collimation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collimation.md)
+
 <p><span class="chinese">电子瞄准镜是单兵导弹雷达指挥系统的一部分。</span><span class="english">The electronic collimation device is a part of radar command system.</span></p>
 
 <p><span class="chinese">利用图像处理软件实现瞄准的自动化。</span><span class="english">Image processing was used to realize automatic collimation of missile.</span></p>

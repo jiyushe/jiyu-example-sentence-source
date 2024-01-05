@@ -1,5 +1,7 @@
 # polymer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polymer.md)
+
 <p><span class="chinese">可以用聚合物来做。</span><span class="english">I could make this out of polymer.</span></p>
 
 <p><span class="chinese">而氨基酸聚合物就是蛋白质</span><span class="english">A polymer of amino acids is a protein.</span></p>

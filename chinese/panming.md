@@ -1,5 +1,7 @@
 # 判明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panming.md)
+
 <p><span class="chinese">枪上发现的指纹被用来判明她有罪。</span><span class="english">The fingerprints found on the gun were used to convict her.</span></p>
 
 <p><span class="chinese">他在一棵树下面停了下来，以便判明自己的方位。</span><span class="english">He pauses a moment at the foot of a tree to take his bearings.</span></p>

@@ -1,5 +1,7 @@
 # 生长期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzhangqi.md)
+
 <p><span class="chinese">生长期有霜实属罕见。</span><span class="english">Growing season frosts are uncommon.</span></p>
 
 <p><span class="chinese">霜期长则作物的生长期也长。</span><span class="english">Is a long frost season crops grow long.</span></p>

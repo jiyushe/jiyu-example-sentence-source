@@ -1,5 +1,7 @@
 # 修复
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiufu.md)
+
 <p><span class="chinese">第一，修复。</span><span class="english">First, repair.</span></p>
 
 <p><span class="chinese">他们修复牙齿。</span><span class="english">They fis teeth.</span></p>

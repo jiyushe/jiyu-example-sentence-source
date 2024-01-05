@@ -1,5 +1,7 @@
 # 茹毛饮血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rumaoyinxue.md)
+
 <p><span class="chinese">人们不再茹毛饮血,而是会处理食材</span><span class="english">Instead of just eating them at the time there would be processing of it.</span></p>
 
 <p><span class="chinese">天人合一，难道生活在茹毛饮血的原始时代才是最好？</span><span class="english">Don't tell me that eating raw meat like a primitive person is the best way to be.</span></p>

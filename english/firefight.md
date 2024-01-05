@@ -1,5 +1,7 @@
 # firefight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firefight.md)
+
 <p><span class="chinese">拉登的尸体在一次简单的交火后便被美军获取。</span><span class="english">Bin Laden's body was retrieved after a brief firefight.</span></p>
 
 <p><span class="chinese">我差点在苏伊士运河以内的一场交火中丧生。</span><span class="english">I was nearly killed in a firefight inside the Suez Canal.</span></p>

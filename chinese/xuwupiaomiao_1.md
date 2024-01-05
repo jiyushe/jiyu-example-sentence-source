@@ -1,5 +1,7 @@
 # 虚无飘渺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuwupiaomiao_1.md)
+
 <p><span class="chinese">但是他的理想却是虚无飘渺的。</span><span class="english">But his ideal is in air.</span></p>
 
 <p><span class="chinese">具有了一种虚无飘渺的模糊美。</span><span class="english">Have a kind of fuzzy beauty though.</span></p>

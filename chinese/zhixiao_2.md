@@ -1,5 +1,7 @@
 # 知晓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixiao_2.md)
+
 <p><span class="chinese">在无人知晓的时候。</span><span class="english">When none will know.</span></p>
 
 <p><span class="chinese">知晓自己的学号。</span><span class="english">Know your student number.</span></p>

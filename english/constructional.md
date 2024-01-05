@@ -1,5 +1,7 @@
 # constructional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constructional.md)
+
 <p><span class="chinese">介绍了球磨机负荷智能监控系统的整体结构设计。</span><span class="english">This paper introduces the constructional design of bowl mill.</span></p>
 
 <p><span class="chinese">上海永业企业集团建筑材料有限公司。</span><span class="english">Shanghai Yongye Enterprise Group Constructional Material Co. , Ltd.</span></p>

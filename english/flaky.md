@@ -1,5 +1,7 @@
 # flaky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flaky.md)
+
 <p><span class="chinese">牛角面包很新鲜又薄而易剥。</span><span class="english">The croissants were fresh and flaky.</span></p>
 
 <p><span class="chinese">菲利普巳经48岁，而且受头皮屑的困扰。</span><span class="english">Philip's 48 and has a flaky scalp problem.</span></p>

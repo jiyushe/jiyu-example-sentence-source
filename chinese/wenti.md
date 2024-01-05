@@ -1,5 +1,7 @@
 # 文体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenti.md)
+
 <p><span class="chinese">他非常喜欢文体活动。</span><span class="english">He's very fond of sport.</span></p>
 
 <p><span class="chinese">他的文体很明畅。</span><span class="english">His style is very lucid.</span></p>

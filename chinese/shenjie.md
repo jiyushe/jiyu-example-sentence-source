@@ -1,5 +1,7 @@
 # 审结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjie.md)
+
 <p><span class="chinese">法院共审理知识产权民事案件2460件，审结1985件。</span><span class="english">Courts tried 2460 civil cases about IPR, and resolved 1985 cases.</span></p>
 
 <p><span class="chinese">已审结之案件，自收受案件样品至最终审结日止，每件平均工作日数为19.2日。</span><span class="english">The average processing time to conclude a case was 19.2 business days.</span></p>

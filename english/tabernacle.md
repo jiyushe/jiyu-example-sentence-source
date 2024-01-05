@@ -1,5 +1,7 @@
 # tabernacle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tabernacle.md)
+
 <p><span class="chinese">这是张犹太神堂的画。</span><span class="english">This is a painting of the Tabernacle.</span></p>
 
 <p><span class="chinese">但如今，以色列民却要将会幕固定地设立在示罗。</span><span class="english">But now the Tabernacle was to be set up.</span></p>

@@ -1,5 +1,7 @@
 # hawser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hawser.md)
+
 <p><span class="chinese">缆绳既可以指粗重的绳子。</span><span class="english">The hawser can either be thick, heavy ropes.</span></p>
 
 <p><span class="chinese">在钢缆的那一边，是一伙满怀敌意的码头工人。</span><span class="english">On the other side of the hawser was a hostile knot of young dockers.</span></p>

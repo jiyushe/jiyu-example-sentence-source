@@ -1,5 +1,7 @@
 # 天色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianse.md)
+
 <p><span class="chinese">这是天色已晚。</span><span class="english">It is getting late.</span></p>
 
 <p><span class="chinese">天色灰蒙蒙的。</span><span class="english">The sky was overcast.</span></p>

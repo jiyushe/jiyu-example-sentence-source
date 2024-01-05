@@ -1,5 +1,7 @@
 # policymaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/policymaker.md)
+
 <p><span class="chinese">普雷维什更多地是一个政策制定者和经济外交家，而非理论家。</span><span class="english">Prebisch was more of a policymaker and economic diplomat than a theorist.</span></p>
 
 <p><span class="chinese">共产国际用来指导中国革命的东方战略，其核心内容是强调反帝革命。</span><span class="english">Couplet in all override on Comintern, it is the highest policymaker of world revolution.</span></p>

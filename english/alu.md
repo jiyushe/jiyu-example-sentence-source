@@ -1,5 +1,7 @@
 # alu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alu.md)
+
 <p><span class="chinese">超轻7005铝合金双抽管车架。</span><span class="english">Alu Superlite 7005 Crossroad Double Butted.</span></p>
 
 <p><span class="chinese">微型计算机ALU部件包括在CPU中。</span><span class="english">Microcomputer ALU components include the CPU.</span></p>

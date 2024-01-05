@@ -1,5 +1,7 @@
 # 二毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ermao.md)
+
 <p><span class="chinese">二毛却见在人多之时悄然而退。</span><span class="english">Two hairs but see in February when the back.</span></p>
 
 <p><span class="chinese">“七磅半咸肉，二毛钱一磅的。”。</span><span class="english">Seven and a half pounds of bacon at 20 cents.</span></p>

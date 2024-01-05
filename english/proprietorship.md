@@ -1,5 +1,7 @@
 # proprietorship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proprietorship.md)
+
 <p><span class="chinese">这是一种个人专用所有权的观念。</span><span class="english">In this word there is the idea of proprietorship.</span></p>
 
 <p><span class="chinese">他愉快地觉得他独占了她。</span><span class="english">He had such a pleasant sense of proprietorship in her!</span></p>

@@ -1,5 +1,7 @@
 # 诗书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishu_2.md)
+
 <p><span class="chinese">我寄诗书盼月明。</span><span class="english">I send you poems for moonlight.</span></p>
 
 <p><span class="chinese">且看他，斜倚沙发手当枕，一卷诗书一杯茶。</span><span class="english">Thinking on the pillow of his hand, with poem and tea.</span></p>

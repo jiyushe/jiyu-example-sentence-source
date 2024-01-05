@@ -1,5 +1,7 @@
 # 时而
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shier.md)
+
 <p><span class="chinese">时而与人相伴跑步，时而独自跑步，不要长期一个人跑或是搭伴一起跑。</span><span class="english">Run with a group, or run alone.</span></p>
 
 <p><span class="chinese">时而一群少女嬉戏。</span><span class="english">Sometimes a troop of damsels glad.</span></p>

@@ -1,5 +1,7 @@
 # 自命不凡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zimingbufan.md)
+
 <p><span class="chinese">一部自命不凡的杂凑，不可能真正成功。</span><span class="english">A portentous soufflé that never truly rises.</span></p>
 
 <p><span class="chinese">他是一个有才华但自命不凡的作家。</span><span class="english">He is talented , and venturesome, and resolute.</span></p>

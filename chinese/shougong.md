@@ -1,5 +1,7 @@
 # 手工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shougong.md)
+
 <p><span class="chinese">象折纸手工？</span><span class="english">Like origami?</span></p>
 
 <p><span class="chinese">我喜欢做手工。</span><span class="english">I like handwork.</span></p>

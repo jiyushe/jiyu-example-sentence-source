@@ -1,5 +1,7 @@
 # 贵处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guichu.md)
+
 <p><span class="chinese">同时，请调查贵处同行的动态。</span><span class="english">Meanwhile check competitor move where you are siting.</span></p>
 
 <p><span class="chinese">我很高兴在报上看到贵处的广告。</span><span class="english">I'm very glad when I read your advertisement in the newspaper.</span></p>

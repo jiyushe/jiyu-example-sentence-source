@@ -1,5 +1,7 @@
 # interdepartmental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interdepartmental.md)
+
 <p><span class="chinese">这个跨部的委员会如何运作？</span><span class="english">How will the interdepartmental council work?</span></p>
 
 <p><span class="chinese">我们正准备设一个跨部的委员会。</span><span class="english">We are now preparing an interdepartmental council.</span></p>

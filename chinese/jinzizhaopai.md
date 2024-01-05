@@ -1,5 +1,7 @@
 # 金字招牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzizhaopai.md)
+
 <p><span class="chinese">全心全意为人民服务是最好的金字招牌。</span><span class="english">He set an example of wholehearted service to the people.</span></p>
 
 <p><span class="chinese">他是王家卫即兴创作式电影的金字招牌。</span><span class="english">And he chalks it all up to Mr. Wong's serendipitous brand of filmmaking.</span></p>

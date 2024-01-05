@@ -1,5 +1,7 @@
 # guitarist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guitarist.md)
+
 <p><span class="chinese">小吉他手。</span><span class="english">A little guitarist.</span></p>
 
 <p><span class="chinese">吉他手和作曲家巴登鲍威尔是他的门徒。</span><span class="english">The guitarist and composer Baden Powell was his protege.</span></p>

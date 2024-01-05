@@ -1,5 +1,7 @@
 # 石钟乳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhongru.md)
+
 <p><span class="chinese">岩内多石钟乳、石柱、石笋、石幔、石花，多彩多姿，琳琅满目。</span><span class="english">Rock, rocky Zhongru, columns, stalagmites , Shiman, stone flower, diverse, range.</span></p>
 
 <p><span class="chinese">论形态，石钟乳、石笋、石花、石芝、石柱、石床……众体皆备。</span><span class="english">On the aspect of forms, there are stalagmite, stalactite, lime-flower, stone-bar, stone-bed etc.</span></p>

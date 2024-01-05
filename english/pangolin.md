@@ -1,5 +1,7 @@
 # pangolin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pangolin.md)
+
 <p><span class="chinese">悲伤的穿山甲为什么总是觅不到脱山乙。</span><span class="english">Sad pangolin why always find wear mountain b.</span></p>
 
 <p><span class="chinese">坦桑尼亚塞卢斯野生动物保护区里，一头狮子在吞食一只穿山甲。</span><span class="english">A lion attacks a pangolin in the Selous Game Reserve in in Tanzania.</span></p>

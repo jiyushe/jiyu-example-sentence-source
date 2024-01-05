@@ -1,5 +1,7 @@
 # towline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/towline.md)
+
 <p><span class="chinese">松出拖缆。</span><span class="english">Pay out towline.</span></p>
 
 <p><span class="chinese">保持缆绳松弛。</span><span class="english">Keep towline slack.</span></p>

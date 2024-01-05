@@ -1,5 +1,7 @@
 # 上供
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanggong.md)
+
 <p><span class="chinese">而一个测试版已经挂在Grindr网站上供下载了。</span><span class="english">A test version is already available from Grindr's website.</span></p>
 
 <p><span class="chinese">在道路上供市民乘搭的非预约的的士可能会减少。</span><span class="english">The availability of non-booked taxis on the road may be reduced.</span></p>

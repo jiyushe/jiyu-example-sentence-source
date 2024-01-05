@@ -1,5 +1,7 @@
 # 如影随形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruyingsuixing.md)
+
 <p><span class="chinese">可惜成功总是与失败如影随形。</span><span class="english">But for every success, there are dozens of failures.</span></p>
 
 <p><span class="chinese">对于很多受害者来说，生活还要继续——只是多了病痛如影随形。</span><span class="english">For many victims, life goes on—but with complications.</span></p>

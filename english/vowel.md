@@ -1,5 +1,7 @@
 # vowel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vowel.md)
+
 <p><span class="chinese">啧，啧，啧，我们需要一个元音。</span><span class="english">Tut, tut, tut, we need a vowel.</span></p>
 
 <p><span class="chinese">这是一个长元音还是一个短元音？</span><span class="english">Is this a long vowel or a short vowel?</span></p>

@@ -1,5 +1,7 @@
 # 枷锁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiasuo.md)
+
 <p><span class="chinese">双点背的枷锁。</span><span class="english">Two-point back yoke.</span></p>
 
 <p><span class="chinese">他们被套上了婚姻的枷锁。</span><span class="english">They are yoked in marriage.</span></p>

@@ -1,5 +1,7 @@
 # html
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/html.md)
+
 <p><span class="chinese">不要在邮件中发送HTML网页或者图片。</span><span class="english">Don't send HTML or pictures.</span></p>
 
 <p><span class="chinese">此站点允许HTML内容。</span><span class="english">This site allows HTML content.</span></p>

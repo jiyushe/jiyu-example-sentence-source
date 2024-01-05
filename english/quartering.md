@@ -1,5 +1,7 @@
 # quartering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quartering.md)
+
 <p><span class="chinese">他向上游游去。</span><span class="english">He swam quartering upstream.</span></p>
 
 <p><span class="chinese">这只猎犬在树林中四处搜寻猎物。</span><span class="english">The hound was quartering the woods.</span></p>

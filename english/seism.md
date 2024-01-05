@@ -1,5 +1,7 @@
 # seism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seism.md)
+
 <p><span class="chinese">大跨度地下结构中柱是抗震薄弱环节。</span><span class="english">Middle column of large underground structures is the weak link in seism.</span></p>
 
 <p><span class="chinese">地震勘探工作中，地震仪通过地震检波器采集信号。</span><span class="english">The acquisition system obtains the geological information through the geophone in seism prospecting.</span></p>

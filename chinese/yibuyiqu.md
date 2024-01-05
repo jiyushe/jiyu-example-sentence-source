@@ -1,5 +1,7 @@
 # 亦步亦趋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibuyiqu.md)
+
 <p><span class="chinese">事实上，贝德格勒特对主人亦步亦趋。</span><span class="english">In fact, Beddgelert would follow his master's every move.</span></p>
 
 <p><span class="chinese">这些企业不再满足于亦步亦趋。</span><span class="english">These companies are no longer content to be mere followers.</span></p>

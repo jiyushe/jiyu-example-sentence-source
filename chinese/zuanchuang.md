@@ -1,5 +1,7 @@
 # 钻床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuanchuang.md)
+
 <p><span class="chinese">例如，这个，一个钻床，巨型的。</span><span class="english">This one, for example, is a drill. A big one.</span></p>
 
 <p><span class="chinese">阿钻床使钻井垂直容易。</span><span class="english">A drill press makes drilling perpendicular easy.</span></p>

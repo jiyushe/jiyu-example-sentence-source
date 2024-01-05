@@ -1,5 +1,7 @@
 # tops
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tops.md)
+
 <p><span class="chinese">他身高7英尺。</span><span class="english">He tops 7 feet.</span></p>
 
 <p><span class="chinese">在我的心目中，利萨比谁都强。</span><span class="english">To my mind, Lisa is tops.</span></p>

@@ -1,5 +1,7 @@
 # meandering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meandering.md)
+
 <p><span class="chinese">这是在针叶林中蜿蜒的小路。</span><span class="english">This one is just a meandering in the woods path.</span></p>
 
 <p><span class="chinese">那地方尽是弯弯的河水跟绿绿的草原。</span><span class="english">The place offers meandering rivers and green meadows.</span></p>

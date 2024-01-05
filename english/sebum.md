@@ -1,5 +1,7 @@
 # sebum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sebum.md)
+
 <p><span class="chinese">为使更多的皮脂流体所以较易排水。</span><span class="english">To make the sebum more fluid so it drains more easily.</span></p>
 
 <p><span class="chinese">但下而的一些因素会破坏皮脂膜。</span><span class="english">But while some of the factors under the sebum membrane damage.</span></p>

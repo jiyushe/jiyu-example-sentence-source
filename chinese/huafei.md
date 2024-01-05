@@ -1,5 +1,7 @@
 # 花费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huafei.md)
+
 <p><span class="chinese">当然，这花费时间。</span><span class="english">Yes, this takes time.</span></p>
 
 <p><span class="chinese">这又花费了我们30分钟。</span><span class="english">That takes us 30 mins.</span></p>

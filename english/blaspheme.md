@@ -1,5 +1,7 @@
 # blaspheme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blaspheme.md)
+
 <p><span class="chinese">还有，不要亵渎我的电影！</span><span class="english">Plus, do not blaspheme my film!</span></p>
 
 <p><span class="chinese">不要亵渎别人的宗教。</span><span class="english">Don't blaspheme others' religion.</span></p>

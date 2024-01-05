@@ -1,5 +1,7 @@
 # 棉被
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianbei.md)
+
 <p><span class="chinese">画一个有三十个补丁的棉被。</span><span class="english">Draw a quilt with 30 patches.</span></p>
 
 <p><span class="chinese">是那有衬里的舒适棉被吗？</span><span class="english">The cozy bedsheet with lining?</span></p>

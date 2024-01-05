@@ -1,5 +1,7 @@
 # 股本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guben.md)
+
 <p><span class="chinese">F10股本资料智能更新。</span><span class="english">F10 equity intelligent update the information.</span></p>
 
 <p><span class="chinese">一个最好的是股本贷款扣税。</span><span class="english">One of the best is the equity loan tax deduction.</span></p>

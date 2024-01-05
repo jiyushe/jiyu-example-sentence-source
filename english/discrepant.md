@@ -1,5 +1,7 @@
 # discrepant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discrepant.md)
+
 <p><span class="chinese">对于第一个质疑，我们的看法是单据不符。</span><span class="english">With regard to first query, our opinion is that the document is discrepant.</span></p>
 
 <p><span class="chinese">指出实验结果与汤生放电模型的偏离。</span><span class="english">The main experimental results are discrepant from the Townsend discharge model.</span></p>

@@ -1,5 +1,7 @@
 # virginal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virginal.md)
+
 <p><span class="chinese">她穿了一身洁白无瑕的衣服。</span><span class="english">She was dressed in virginal white.</span></p>
 
 <p><span class="chinese">男人曾经规定，他们的女人必须是纯洁的处女。</span><span class="english">As a young lady she had been harmed, and this virginal.</span></p>

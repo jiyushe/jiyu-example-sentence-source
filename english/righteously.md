@@ -1,5 +1,7 @@
 # righteously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/righteously.md)
+
 <p><span class="chinese">我是否会追随他的榜样，我是否会活得更正直。</span><span class="english">Would I follow His example, Would I live more righteously.</span></p>
 
 <p><span class="chinese">其中一位女人正义凛然地点头说。</span><span class="english">"You see, Joan, " said one of the women, nodding righteously.</span></p>

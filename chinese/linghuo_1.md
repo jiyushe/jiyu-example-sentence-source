@@ -1,5 +1,7 @@
 # 零活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linghuo_1.md)
+
 <p><span class="chinese">我找到了一部分零活。</span><span class="english">I get search some jobs.</span></p>
 
 <p><span class="chinese">我找到了一些零活。</span><span class="english">I have found some jobs.</span></p>

@@ -1,5 +1,7 @@
 # move
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/move.md)
+
 <p><span class="chinese">移开。</span><span class="english">Move away.</span></p>
 
 <p><span class="chinese">他不能动弹。</span><span class="english">He cannot move.</span></p>

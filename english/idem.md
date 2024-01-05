@@ -1,5 +1,7 @@
 # idem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idem.md)
+
 <p><span class="chinese">第四部分介绍了既判力和一事不再理。</span><span class="english">The forth part introduces the res judicata and principle of non bis idem.</span></p>
 
 <p><span class="chinese">我认为你的评论不公平，我要求立即道歉。</span><span class="english">Your allegations are completely untrue, and Idem and an immediate apology.</span></p>

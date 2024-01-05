@@ -1,5 +1,7 @@
 # pennsylvania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pennsylvania.md)
+
 <p><span class="chinese">他们住在新坎伯兰，宾夕法尼亚州。</span><span class="english">They live in New Cumberland, Pennsylvania.</span></p>
 
 <p><span class="chinese">尽管如此，我对宾夕法尼亚州一直感受尚佳。</span><span class="english">Still, I always felt good about Pennsylvania.</span></p>

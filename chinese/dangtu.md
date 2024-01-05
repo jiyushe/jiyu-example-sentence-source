@@ -1,5 +1,7 @@
 # 党徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangtu.md)
+
 <p><span class="chinese">这对布宛纳巴的党徒是一种教训！</span><span class="english">It will be a lesson to the Bonapartists!</span></p>
 
 <p><span class="chinese">她们被像危险的黑手党徒那样对待，这完全违反了国家法律”。</span><span class="english">They were like the only way to treat a dangerous mafia, which is totally in violation of state law.</span></p>

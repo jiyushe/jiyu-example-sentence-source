@@ -1,5 +1,7 @@
 # Paris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paris.md)
+
 <p><span class="chinese">我喜欢巴黎。</span><span class="english">I love Paris.</span></p>
 
 <p><span class="chinese">巴黎适合我。</span><span class="english">Paris suited me.</span></p>

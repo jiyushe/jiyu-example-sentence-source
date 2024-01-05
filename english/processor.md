@@ -1,5 +1,7 @@
 # processor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/processor.md)
+
 <p><span class="chinese">处理器重试。</span><span class="english">Processor retries.</span></p>
 
 <p><span class="chinese">视频数据处理器?。</span><span class="english">VDP? Video Data Processor?</span></p>

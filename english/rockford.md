@@ -1,5 +1,7 @@
 # rockford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rockford.md)
+
 <p><span class="chinese">她每天通勤于芝加哥和罗克福德之间。</span><span class="english">She commutes between Chicago and Rockford every day.</span></p>
 
 <p><span class="chinese">他扮演一个在罗克福德体能训练约翰尼马修斯教授。</span><span class="english">He played a physical training professor Johnny Matthews in Rockford.</span></p>

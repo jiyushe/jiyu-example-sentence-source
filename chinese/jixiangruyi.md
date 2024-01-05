@@ -1,5 +1,7 @@
 # 吉祥如意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixiangruyi.md)
+
 <p><span class="chinese">祝您吉祥如意。</span><span class="english">I wish you luck.</span></p>
 
 <p><span class="chinese">踢踢兔脚，吉祥如意。</span><span class="english">Playing rabbit feet, good luck.</span></p>

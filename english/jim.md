@@ -1,5 +1,7 @@
 # jim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jim.md)
+
 <p><span class="chinese">吉姆一脸茫然的问到。</span><span class="english">Jim asked.</span></p>
 
 <p><span class="chinese">我的名字叫吉姆•米乐。</span><span class="english">I’m Jim Miller.</span></p>

@@ -1,5 +1,7 @@
 # consequentially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consequentially.md)
+
 <p><span class="chinese">边坡开挖爆破必然造成边坡岩体的损伤。</span><span class="english">The blasting of slope excavation results in the damage of rock mass consequentially.</span></p>
 
 <p><span class="chinese">正如其他经济理论一样，比较优势理论必然存在缺陷。</span><span class="english">Just like other economic theory, the theory of comparative advantage has deficiencies consequentially.</span></p>

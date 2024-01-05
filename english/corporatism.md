@@ -1,5 +1,7 @@
 # corporatism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corporatism.md)
+
 <p><span class="chinese">法团主义是一种新的市民社会理论。</span><span class="english">Corporatism is a new kind of theory on civil society.</span></p>
 
 <p><span class="chinese">现在民族主义、社团主义和民众的不满令我们担忧。</span><span class="english">We are worried about today's mix of nationalism, corporatism and popular discontent.</span></p>

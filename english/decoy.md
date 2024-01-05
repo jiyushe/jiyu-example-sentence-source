@@ -1,5 +1,7 @@
 # decoy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decoy.md)
+
 <p><span class="chinese">可能是一个诱敌机场。</span><span class="english">Perhaps a decoy?</span></p>
 
 <p><span class="chinese">这只是个该死的诱饵。</span><span class="english">This is just a motherfucking decoy.</span></p>

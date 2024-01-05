@@ -1,5 +1,7 @@
 # 行距
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangju.md)
+
 <p><span class="chinese">请用12号字体、双倍行距的名目。</span><span class="english">Be double-spaced in 12 point font.</span></p>
 
 <p><span class="chinese">这份报告长达100多页，而且还是单行行距。</span><span class="english">It runs more than 100 pages, single-spaced.</span></p>

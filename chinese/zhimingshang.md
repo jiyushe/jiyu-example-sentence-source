@@ -1,5 +1,7 @@
 # 致命伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhimingshang.md)
+
 <p><span class="chinese">间谍软件是家庭电脑用户的致命伤害。</span><span class="english">Spyware is the bane of the home computer user.</span></p>
 
 <p><span class="chinese">罪的致命伤祸及全人类，无一幸免。</span><span class="english">The fatal flaw of sin affects every single human being.</span></p>

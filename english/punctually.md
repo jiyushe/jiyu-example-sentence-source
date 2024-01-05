@@ -1,5 +1,7 @@
 # punctually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punctually.md)
+
 <p><span class="chinese">他们设法准时到了那儿。</span><span class="english">They managed to get there punctually.</span></p>
 
 <p><span class="chinese">明天我会准时交论文的。</span><span class="english">I’ll hand in the paper punctually tomorrow.</span></p>

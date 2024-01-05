@@ -1,5 +1,7 @@
 # 警句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingju_2.md)
+
 <p><span class="chinese">警句是最好的东西！</span><span class="english">Epigram is the best!</span></p>
 
 <p><span class="chinese">他不追求夸张的警句。</span><span class="english">He fashioned no stilted epigram.</span></p>

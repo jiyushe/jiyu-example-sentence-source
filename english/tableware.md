@@ -1,5 +1,7 @@
 # tableware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tableware.md)
+
 <p><span class="chinese">一套餐具。</span><span class="english">A set of tableware.</span></p>
 
 <p><span class="chinese">木制餐具及厨房用具。</span><span class="english">Tableware and kitchenware, of wood.</span></p>

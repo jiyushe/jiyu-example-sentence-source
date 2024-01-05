@@ -1,5 +1,7 @@
 # 颓靡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuimi.md)
+
 <p><span class="chinese">灵魂？还是颓靡？</span><span class="english">Your soul? or your dismay?</span></p>
 
 <p><span class="chinese">⊙、以嘲弄的眼光看待人生，是最颓靡的。</span><span class="english">With mock view of life, is the most swooning.</span></p>

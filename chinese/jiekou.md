@@ -1,5 +1,7 @@
 # 借口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiekou.md)
+
 <p><span class="chinese">不再有借口或疑虑。</span><span class="english">No buts or maybes.</span></p>
 
 <p><span class="chinese">这是一个借口。</span><span class="english">That is an excuse.</span></p>

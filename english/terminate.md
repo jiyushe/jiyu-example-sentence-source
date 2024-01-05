@@ -1,5 +1,7 @@
 # terminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terminate.md)
+
 <p><span class="chinese">这会不会终结？有人知道么。</span><span class="english">Does this terminate? Somebody.</span></p>
 
 <p><span class="chinese">分号标志一行的结尾。</span><span class="english">The semicolons to terminate lines.</span></p>

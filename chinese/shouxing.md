@@ -1,5 +1,7 @@
 # 兽性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxing.md)
+
 <p><span class="chinese">他兽性大发。</span><span class="english">The beast in him came up.</span></p>
 
 <p><span class="chinese">力比多的是兽性的那部分。</span><span class="english">The libidinal is the animal part.</span></p>

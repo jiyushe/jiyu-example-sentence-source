@@ -1,5 +1,7 @@
 # waggon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waggon.md)
+
 <p><span class="chinese">敌人袭击了我们的运货马车队。</span><span class="english">The enemy attacked our waggon train.</span></p>
 
 <p><span class="chinese">这名士兵也跟随大车走过去了。</span><span class="english">And he too passed on with the waggon.</span></p>

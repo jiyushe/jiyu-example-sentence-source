@@ -1,5 +1,7 @@
 # 预示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushi_5.md)
+
 <p><span class="chinese">阴云预示有雨。</span><span class="english">The clouds promise rain.</span></p>
 
 <p><span class="chinese">乌云预示着要下雪。</span><span class="english">The clouds threaten snow.</span></p>

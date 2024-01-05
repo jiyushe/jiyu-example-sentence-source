@@ -1,5 +1,7 @@
 # northerly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northerly.md)
+
 <p><span class="chinese">队伍到达开阔地便成扇形摆开阵势。</span><span class="english">The troops fanned out in a northerly direction.</span></p>
 
 <p><span class="chinese">我想走一条穿过蒙大拿州的更靠北的路线。</span><span class="english">I wanted to go a more northerly route across Montana.</span></p>

@@ -1,5 +1,7 @@
 # sass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sass.md)
+
 <p><span class="chinese">学生对校长出言不逊是粗鲁无礼的。</span><span class="english">It was rude of a student to sass to the master.</span></p>
 
 <p><span class="chinese">SASS语法仍旧在审核当中，在正式版发布前可能会有一些变化</span><span class="english">SASS syntax is still under review and may change before release</span></p>

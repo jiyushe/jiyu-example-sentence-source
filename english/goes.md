@@ -1,5 +1,7 @@
 # goes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goes.md)
+
 <p><span class="chinese">贝勒挂掉了。</span><span class="english">Baylor goes down.</span></p>
 
 <p><span class="chinese">传说如此。</span><span class="english">So the story goes.</span></p>

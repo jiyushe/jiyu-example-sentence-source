@@ -1,5 +1,7 @@
 # abet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abet.md)
+
 <p><span class="chinese">工作上缺乏同事的支持。</span><span class="english">Absence of abet from colleagues in your work.</span></p>
 
 <p><span class="chinese">我们要毫不退缩地严厉打击恐怖分子及其帮凶。</span><span class="english">We shall strike hard, without flinching, at terrorists and those who abet them.</span></p>

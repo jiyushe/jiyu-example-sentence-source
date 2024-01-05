@@ -1,5 +1,7 @@
 # 面熟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianshu.md)
+
 <p><span class="chinese">他看起来不面熟。</span><span class="english">He doesn’t look familiar.</span></p>
 
 <p><span class="chinese">您看起来很面熟。</span><span class="english">You look a little familiar.</span></p>

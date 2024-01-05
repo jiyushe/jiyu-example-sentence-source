@@ -1,5 +1,7 @@
 # 不啻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buchi.md)
+
 <p><span class="chinese">比你早几年，有可能还不啻。</span><span class="english">Few years ahead of you, well maybe more than a few.</span></p>
 
 <p><span class="chinese">金融危机不啻是对这两个假设的无情嘲笑。</span><span class="english">The financial crisis made a mockery of both assumptions.</span></p>

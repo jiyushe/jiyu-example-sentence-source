@@ -1,5 +1,7 @@
 # 添置
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzhi_1.md)
+
 <p><span class="chinese">我们还打算添置一些新家具。</span><span class="english">We're going to put in some new furniture.</span></p>
 
 <p><span class="chinese">再添置一套发烧级的音响。</span><span class="english">And then purchase a set of audio enthusiast.</span></p>

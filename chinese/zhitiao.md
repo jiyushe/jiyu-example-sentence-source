@@ -1,5 +1,7 @@
 # 枝条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhitiao.md)
+
 <p><span class="chinese">用蓝色柔韧的枝条？</span><span class="english">By withes of supple blue?</span></p>
 
 <p><span class="chinese">冷杉的枝条平衡着雪。</span><span class="english">Fir branches balance the snow.</span></p>

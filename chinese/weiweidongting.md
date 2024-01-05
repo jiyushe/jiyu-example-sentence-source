@@ -1,5 +1,7 @@
 # 娓娓动听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiweidongting.md)
+
 <p><span class="chinese">她能幽默地把这故事讲得娓娓动听。</span><span class="english">She can dish up the story in a humorous way.</span></p>
 
 <p><span class="chinese">老师以幽默风趣的语调，把故事讲得娓娓动听。</span><span class="english">The teacher dished up the story in a humorous way.</span></p>

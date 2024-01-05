@@ -1,5 +1,7 @@
 # kent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kent.md)
+
 <p><span class="chinese">肯特是英格兰的一个郡。</span><span class="english">Kent is an English county.</span></p>
 
 <p><span class="chinese">狗项圈博物馆，利兹城堡，肯特郡，英国。</span><span class="english">Dog Collar Museum, Leeds Castle, Kent.</span></p>

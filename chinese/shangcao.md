@@ -1,5 +1,7 @@
 # 上操
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangcao.md)
+
 <p><span class="chinese">他就喜欢在小事儿上操心。</span><span class="english">It's difficult for him not to niggle.</span></p>
 
 <p><span class="chinese">史蒂文，你在小事上操的心太多了。</span><span class="english">Steven, you worry too much about small things.</span></p>

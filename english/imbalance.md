@@ -1,5 +1,7 @@
 # imbalance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imbalance.md)
+
 <p><span class="chinese">我们需要解决这种不平衡。</span><span class="english">We need to address this imbalance.</span></p>
 
 <p><span class="chinese">我们需要修正这一失衡。</span><span class="english">We need to redress that imbalance.</span></p>

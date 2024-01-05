@@ -1,5 +1,7 @@
 # northern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northern.md)
+
 <p><span class="chinese">北方人的主食是面条。</span><span class="english">Northern peoples staple fo.</span></p>
 
 <p><span class="chinese">都飞到北海遥远的上空。</span><span class="english">Far beyond the northern sea.</span></p>

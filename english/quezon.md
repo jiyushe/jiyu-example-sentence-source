@@ -1,5 +1,7 @@
 # quezon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quezon.md)
+
 <p><span class="chinese">巴海托罗位于马尼拉以北的奎松市郊外。</span><span class="english">Pakistani Toro is located in suburban Quezon City north of Manila.</span></p>
 
 <p><span class="chinese">我们去了北奎松市和经验又丰富温泉治疗。</span><span class="english">Let's go up north in Quezon City and experience another fabulous spa treat.</span></p>

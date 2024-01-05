@@ -1,5 +1,7 @@
 # bank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bank.md)
+
 <p><span class="chinese">那么银行结算单呢？</span><span class="english">Bank statement?</span></p>
 
 <p><span class="chinese">一旦银行抵债。</span><span class="english">Once the bank debt.</span></p>

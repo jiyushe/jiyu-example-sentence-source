@@ -1,5 +1,7 @@
 # 方程组
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangchengzu.md)
+
 <p><span class="chinese">这就是我们要解的方程组。</span><span class="english">Those are the equations we have to solve.</span></p>
 
 <p><span class="chinese">它所能做的就是解决这些方程组问题。</span><span class="english">All it could do, though, was solve those equations.</span></p>

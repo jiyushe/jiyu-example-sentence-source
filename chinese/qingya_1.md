@@ -1,5 +1,7 @@
 # 清雅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingya_1.md)
+
 <p><span class="chinese">你的美貌，你的清雅。</span><span class="english">By your beauty and grace.</span></p>
 
 <p><span class="chinese">哪一条恶龙曾经栖息在这清雅的洞府里？</span><span class="english">Did ever dragon keep so far a cave?</span></p>

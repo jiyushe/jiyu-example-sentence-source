@@ -1,5 +1,7 @@
 # revelation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revelation.md)
+
 <p><span class="chinese">我明白自己天生失聪因为某种原因，明白这是一种重要的启示。</span><span class="english">Knowing this was a major revelation.</span></p>
 
 <p><span class="chinese">流行摇滚歌曲，在今年的启示！</span><span class="english">Pop-rock song, revelation of the year!</span></p>

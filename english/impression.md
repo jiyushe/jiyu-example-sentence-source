@@ -1,5 +1,7 @@
 # impression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impression.md)
+
 <p><span class="chinese">这个印象只对了一半。</span><span class="english">That impression is half-right.</span></p>
 
 <p><span class="chinese">注意给人留个好印象。</span><span class="english">Try to make a good impression.</span></p>

@@ -1,5 +1,7 @@
 # dissolve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissolve.md)
+
 <p><span class="chinese">搅拌直到融解。</span><span class="english">Stir well to dissolve.</span></p>
 
 <p><span class="chinese">砂糖溶解于水。</span><span class="english">Dissolve the sugar in water.</span></p>

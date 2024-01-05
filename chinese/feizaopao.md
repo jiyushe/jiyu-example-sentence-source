@@ -1,5 +1,7 @@
 # 肥皂泡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feizaopao.md)
+
 <p><span class="chinese">这种肥皂泡沫很多。</span><span class="english">This soap lathers so nicely.</span></p>
 
 <p><span class="chinese">肥皂泡入眼会降低视力吗？</span><span class="english">Can lathery pleasant to see reduce vision?</span></p>

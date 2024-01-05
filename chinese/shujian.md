@@ -1,5 +1,7 @@
 # 书简
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujian.md)
+
 <p><span class="chinese">设计的构思源自中国汉代书简的启发，具有东方意象，融合古今。</span><span class="english">It has orient verve and combines ancient culture with modern design.</span></p>
 
 <p><span class="chinese">本文选取前四卷书简对其整理研究，分为五部分。</span><span class="english">This paper selected the former four-volume of letters to study, is divided into five parts.</span></p>

@@ -1,5 +1,7 @@
 # 表面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaomian.md)
+
 <p><span class="chinese">表面活性剂。</span><span class="english">Surfactant.</span></p>
 
 <p><span class="chinese">然而，表面现象是具有迷惑性的。</span><span class="english">But looks can be deceiving.</span></p>

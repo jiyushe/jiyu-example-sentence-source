@@ -1,5 +1,7 @@
 # archipelagic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archipelagic.md)
+
 <p><span class="chinese">陈一舫为乐施会东亚项目组职员。</span><span class="english">Holly Chan is a member of Oxfam's Archipelagic Southeast Asia team.</span></p>
 
 <p><span class="chinese">在1973年海底委员会上，群岛国家和英国提出草案。</span><span class="english">At the Ocean Flour Committee of 1973, Britain and other archipelagic countries proposed bills.</span></p>

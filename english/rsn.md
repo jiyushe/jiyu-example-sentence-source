@@ -1,5 +1,7 @@
 # rsn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rsn.md)
+
 <p><span class="chinese">我很快就干完，我会告诉你的。</span><span class="english">RSN. I'll let you know.</span></p>
 
 <p><span class="chinese">我很快就干完，我会告诉你的。</span><span class="english">I will be finished RSN. I'll let you know.</span></p>

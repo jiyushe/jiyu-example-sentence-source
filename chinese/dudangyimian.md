@@ -1,5 +1,7 @@
 # 独当一面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dudangyimian.md)
+
 <p><span class="chinese">毫无疑问，他可以独当一面。</span><span class="english">No question, because it can't be a democracy.</span></p>
 
 <p><span class="chinese">体育广告在所有形式的广告里都独当一面。</span><span class="english">Sports advertising dominates all other forms.</span></p>

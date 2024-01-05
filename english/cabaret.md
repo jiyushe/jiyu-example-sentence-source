@@ -1,5 +1,7 @@
 # cabaret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cabaret.md)
+
 <p><span class="chinese">五星级酒店设备齐全。</span><span class="english">Five-star cabaret have neat equipment.</span></p>
 
 <p><span class="chinese">无论街上黄包车里还是酒店里。</span><span class="english">In her rickshaw on the street or in a cabaret.</span></p>

@@ -1,5 +1,7 @@
 # minder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minder.md)
+
 <p><span class="chinese">我担心在我们和曼德的合作中，乔治·科尔会大吃苦头。</span><span class="english">I'm afraid George Cole came off worst from our partnership in Minder.</span></p>
 
 <p><span class="chinese">为了整合我们的保证金明德，输出系统，数字地图。</span><span class="english">To integrate our Margin Minder system with an output to a digital map.</span></p>

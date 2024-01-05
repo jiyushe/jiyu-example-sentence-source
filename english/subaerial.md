@@ -1,5 +1,7 @@
 # subaerial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subaerial.md)
+
 <p><span class="chinese">陆上侵蚀常夷平成准平原。</span><span class="english">Subaerial erosion occurs often with reduction to a peneplain.</span></p>
 
 <p><span class="chinese">松辽盆地营城组陆上、水下喷发火山岩均有发育。</span><span class="english">Both subaerial and subaqueous volcanic rocks can be found in Yiagcheng Formation of Songliau Basin.</span></p>

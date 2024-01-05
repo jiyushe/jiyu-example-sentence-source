@@ -1,5 +1,7 @@
 # appetite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appetite.md)
+
 <p><span class="chinese">吃饭也没有食欲。</span><span class="english">I had no appetite.</span></p>
 
 <p><span class="chinese">你的胃口怎么样？</span><span class="english">How's your appetite?</span></p>

@@ -1,5 +1,7 @@
 # acrylic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acrylic.md)
+
 <p><span class="chinese">需要帮您丙烯画？</span><span class="english">Need help with your acrylic painting?</span></p>
 
 <p><span class="chinese">丙烯酸莱茵石是由成型工艺。</span><span class="english">Acrylic rhinestones are made by molding.</span></p>

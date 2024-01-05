@@ -1,5 +1,7 @@
 # redolent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redolent.md)
+
 <p><span class="chinese">他们都富有深意。</span><span class="english">They are redolent of meaning.</span></p>
 
 <p><span class="chinese">在这座博物馆底下，游客可以在无人陪伴的情况下独自沿着一条气味浓烈的泄水道漫步。</span><span class="english">Underneath, visitors can stroll unaccompanied along a redolent sluiceway.</span></p>

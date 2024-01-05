@@ -1,5 +1,7 @@
 # 置信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixin_1.md)
+
 <p><span class="chinese">她难以感到置信地看着你。</span><span class="english">She looks at you incredulously.</span></p>
 
 <p><span class="chinese">这是一个无法置信的说法。</span><span class="english">That's an incredible statement.</span></p>

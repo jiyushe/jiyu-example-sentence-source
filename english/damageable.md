@@ -1,5 +1,7 @@
 # damageable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damageable.md)
+
 <p><span class="chinese">易损件通用性强。</span><span class="english">Damageable pieces have strong currency.</span></p>
 
 <p><span class="chinese">汽车制动鼓是汽车制动系的基础件和易损件。</span><span class="english">Brake drum is a key component and damageable part in motor vehicle brake system.</span></p>

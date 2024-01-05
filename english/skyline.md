@@ -1,5 +1,7 @@
 # skyline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skyline.md)
+
 <p><span class="chinese">田野在颤抖，地平线作出痛苦的表情</span><span class="english">The fields quivering, the skyline a grimace</span></p>
 
 <p><span class="chinese">从皇家山上看到的蒙特利尔。</span><span class="english">The Montreal skyline as seen from Mont Royal.</span></p>

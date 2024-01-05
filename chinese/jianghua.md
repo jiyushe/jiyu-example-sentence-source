@@ -1,5 +1,7 @@
 # 讲话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianghua.md)
+
 <p><span class="chinese">她没有讲话不清。</span><span class="english">She didn't slur.</span></p>
 
 <p><span class="chinese">我讲话，爱动。</span><span class="english">I do speak, move.</span></p>

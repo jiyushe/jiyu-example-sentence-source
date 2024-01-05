@@ -1,5 +1,7 @@
 # 出落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chula.md)
+
 <p><span class="chinese">小美已经出落成了大姑娘。</span><span class="english">Small US has become pretty girl.</span></p>
 
 <p><span class="chinese">那个女孩出落为了一个美人。</span><span class="english">The child blossomed into a beauty.</span></p>

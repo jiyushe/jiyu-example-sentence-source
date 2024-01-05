@@ -1,5 +1,7 @@
 # laureate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laureate.md)
+
 <p><span class="chinese">他自1984年起获封为「桂冠诗人」。</span><span class="english">He had been Poet Laureate since 1984.</span></p>
 
 <p><span class="chinese">巴拉克·奥巴马——美国现任总统、2009年诺贝尔和平奖得主。</span><span class="english">Barack Obama -- president and Nobel laureate.</span></p>

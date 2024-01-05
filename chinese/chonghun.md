@@ -1,5 +1,7 @@
 # 重婚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chonghun.md)
+
 <p><span class="chinese">我年长的那个儿子重婚了。</span><span class="english">My elder son remarried.</span></p>
 
 <p><span class="chinese">禁止重婚。</span><span class="english">Bigamy shall be prohibited.</span></p>

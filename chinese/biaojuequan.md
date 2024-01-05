@@ -1,5 +1,7 @@
 # 表决权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaojuequan.md)
+
 <p><span class="chinese">而寄生虫拥有表决权。</span><span class="english">And the parasites vote.</span></p>
 
 <p><span class="chinese">你可以将股份分为有表决权和无表决权两种。</span><span class="english">You can have voting and non-voting shares.</span></p>

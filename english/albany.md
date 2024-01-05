@@ -1,5 +1,7 @@
 # albany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albany.md)
+
 <p><span class="chinese">这篇访问发表后，州参议员比尔·拉金的办公室打电话邀请奎因去奥尔巴尼。</span><span class="english">After it ran, state senator Bill Larkin's office called to invite Quinn to Albany.</span></p>
 
 <p><span class="chinese">你在奥尔尼巴，那和接近,达拉斯。</span><span class="english">Oswego You're in Albany? Oswego, Oswego that's where it's near, Oswego Student Dallas.</span></p>

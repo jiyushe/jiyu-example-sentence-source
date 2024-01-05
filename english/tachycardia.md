@@ -1,5 +1,7 @@
 # tachycardia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tachycardia.md)
+
 <p><span class="chinese">好吧什么能解释发烧和持续的心动过速?。</span><span class="english">Fine, what explains the fever and persistent tachycardia?</span></p>
 
 <p><span class="chinese">也可以使用医疗设备来治疗心跳过速。</span><span class="english">Medical devices can also be used to deal with tachycardia.</span></p>

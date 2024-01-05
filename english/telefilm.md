@@ -1,5 +1,7 @@
 # telefilm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telefilm.md)
+
 <p><span class="chinese">我认为这电视片值得一看。</span><span class="english">I think it worthwhile watch this telefilm.</span></p>
 
 <p><span class="chinese">电视短片创作体系。</span><span class="english">Second, the short telefilm creation system.</span></p>

@@ -1,5 +1,7 @@
 # 满腹狐疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manfuhuyi.md)
+
 <p><span class="chinese">他满腹狐疑。</span><span class="english">His mind was invaded with doubts.</span></p>
 
 <p><span class="chinese">她瞪着眼，红着脸，满腹狐疑，闭口不响。</span><span class="english">She stared, colored, doubted, and was silent.</span></p>

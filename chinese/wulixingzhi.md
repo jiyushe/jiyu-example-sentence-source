@@ -1,5 +1,7 @@
 # 物理性质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wulixingzhi.md)
+
 <p><span class="chinese">到那时是否意识会具有物理性质呢？</span><span class="english">Would that then make consciousness a physical property?</span></p>
 
 <p><span class="chinese">我们现在正是在研究小且热的东西所具有的物理性质。</span><span class="english">And we are studying the properties of small, hot things.</span></p>

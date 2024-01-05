@@ -1,5 +1,7 @@
 # 合体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heti.md)
+
 <p><span class="chinese">易位杂合体是半不育的。</span><span class="english">Inversion heterozygotes are semi-sterile.</span></p>
 
 <p><span class="chinese">这类聚合体被称为热塑材料。</span><span class="english">These polymers are said to be thermoplastic.</span></p>

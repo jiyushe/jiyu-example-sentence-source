@@ -1,5 +1,7 @@
 # 挺拔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingba.md)
+
 <p><span class="chinese">让你旱也葱郁，寒也挺拔！</span><span class="english">You are lush drought, cold too tall!</span></p>
 
 <p><span class="chinese">你身子骨还如此挺拔啊！</span><span class="english">You are still as straight as an arrow.</span></p>

@@ -1,5 +1,7 @@
 # 漏网之鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/louwangzhiyu.md)
+
 <p><span class="chinese">这漏网之鱼般的光的精灵，和我们一起游戏。</span><span class="english">The fairy as the light of escape fish, play with us!</span></p>
 
 <p><span class="chinese">如果你认为你侥幸成为了漏网之鱼，别高兴得太早，时钟并未停止转动。</span><span class="english">If you think you haven't got caught, the clock is still ticking.</span></p>

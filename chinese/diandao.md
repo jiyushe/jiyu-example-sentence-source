@@ -1,5 +1,7 @@
 # 颠倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diandao.md)
+
 <p><span class="chinese">上下颠倒了。</span><span class="english">It's upside down.</span></p>
 
 <p><span class="chinese">“上下颠倒”排第三。</span><span class="english">“Upside-downy” is third.</span></p>

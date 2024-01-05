@@ -1,5 +1,7 @@
 # confectionery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confectionery.md)
+
 <p><span class="chinese">我找一家糕点店。</span><span class="english">I'm looking for a confectionery.</span></p>
 
 <p><span class="chinese">我找一家到糕点店，买一个圆形大蛋糕。</span><span class="english">I'm looking for a confectionery to buy a cake.</span></p>

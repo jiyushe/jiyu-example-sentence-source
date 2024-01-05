@@ -1,5 +1,7 @@
 # 好不
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haobu.md)
+
 <p><span class="chinese">夏绿蒂好不可怜！</span><span class="english">Poor Charlotte!</span></p>
 
 <p><span class="chinese">珂赛特听了好不心惊肉颤。</span><span class="english">And Cosette trembled.</span></p>

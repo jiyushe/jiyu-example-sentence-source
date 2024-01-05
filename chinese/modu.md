@@ -1,5 +1,7 @@
 # 默读
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/modu.md)
+
 <p><span class="chinese">不要默读，请读出声音来。</span><span class="english">Don't read to yourself. Please read aloud.</span></p>
 
 <p><span class="chinese">这是对懒人式的默读的测试结果。</span><span class="english">A result of "lazy reading" of words read silently.</span></p>

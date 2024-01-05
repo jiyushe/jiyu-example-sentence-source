@@ -1,5 +1,7 @@
 # intolerably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intolerably.md)
+
 <p><span class="chinese">她说她头疼得简直难以忍受。</span><span class="english">She complained that her head ached intolerably.</span></p>
 
 <p><span class="chinese">琼忽然觉得这个女孩子太没有种了，简直使人无法忍受。</span><span class="english">The girl seemed to june, suddenly, intolerably spiritless.</span></p>

@@ -1,5 +1,7 @@
 # planetary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planetary.md)
+
 <p><span class="chinese">这是一个行星模型。</span><span class="english">So, it's a planetary model.</span></p>
 
 <p><span class="chinese">开普勒的行星运动定律</span><span class="english">Kepler's Laws of Planetary Motion</span></p>

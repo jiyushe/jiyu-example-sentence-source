@@ -1,5 +1,7 @@
 # enormity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enormity.md)
+
 <p><span class="chinese">那时，我还不明白她所犯的“滔天罪恶”。</span><span class="english">I didn't understand the enormity of what she had done.</span></p>
 
 <p><span class="chinese">张伯伦意识到了癌症的残忍。</span><span class="english">Chamberlain realizes the enormity of a cancer diagnosis.</span></p>

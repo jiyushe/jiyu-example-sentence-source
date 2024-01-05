@@ -1,5 +1,7 @@
 # lausanne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lausanne.md)
+
 <p><span class="chinese">七岁受沙弥戒，法号称洛桑扎华。</span><span class="english">Seven years, the so-called law by shramanera precepts plunge in lausanne.</span></p>
 
 <p><span class="chinese">另外，我们还会近距离接触洛桑山城的奥林匹克博物馆。</span><span class="english">And we will also take a closer look at the Olympic Museum in the hilly city of Lausanne.</span></p>

@@ -1,5 +1,7 @@
 # 毕恭毕敬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bigongbijing.md)
+
 <p><span class="chinese">他对上司毕恭毕敬。</span><span class="english">He stands in awe of his superior.</span></p>
 
 <p><span class="chinese">“谢谢你，”嘉莉毕恭毕敬地说。</span><span class="english">"Thank you, " said Carrie, humbly.</span></p>

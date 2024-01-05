@@ -1,5 +1,7 @@
 # relevantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relevantly.md)
+
 <p><span class="chinese">而国内，有关这几个方面的研究甚少。</span><span class="english">But at home, the research is very few relevantly.</span></p>
 
 <p><span class="chinese">基于有限变形弹塑性的求解方法，提出相应的有限元算法。</span><span class="english">Based on the above methods, relevantly finite element method is putted forward.</span></p>

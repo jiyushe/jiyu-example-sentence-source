@@ -1,5 +1,7 @@
 # ane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ane.md)
+
 <p><span class="chinese">支流从高地往下流，与平原上的恒河汇合。</span><span class="english">Ane they tumble from this higher land to meet the Ganges on the plains.</span></p>
 
 <p><span class="chinese">在当前研究中我们在进行末次大冰期资料-模型比较时以年均温为例。</span><span class="english">In the present study we performed data-model comparison for LGM with ane.</span></p>

@@ -1,5 +1,7 @@
 # assuming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assuming.md)
+
 <p><span class="chinese">首先，什么是假设友好关系？</span><span class="english">Now, what is assuming rapport?</span></p>
 
 <p><span class="chinese">假设做好淘宝客？</span><span class="english">Assuming good Taobao customers?</span></p>

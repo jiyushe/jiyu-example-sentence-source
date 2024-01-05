@@ -1,5 +1,7 @@
 # drainage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drainage.md)
+
 <p><span class="chinese">网供排水。</span><span class="english">Mesh for drainage.</span></p>
 
 <p><span class="chinese">人工运河、排水渠、壕沟。</span><span class="english">Canals and drainage channels, ditches.</span></p>

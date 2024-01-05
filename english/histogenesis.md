@@ -1,5 +1,7 @@
 # histogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histogenesis.md)
+
 <p><span class="chinese">脑膜瘤的组织发生学还有争论。</span><span class="english">The histogenesis of meningioma is uncertain.</span></p>
 
 <p><span class="chinese">目的探讨肺胚母细胞瘤的临床病理特点及组织发生。</span><span class="english">Objective Detecting the pathological characteristics and histogenesis of pulmonary blastoma.</span></p>

@@ -1,5 +1,7 @@
 # antituberculosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antituberculosis.md)
+
 <p><span class="chinese">目的了解抗结核药物引起肺结核患者的肝损害。</span><span class="english">Aim To investigate the liver damages caused by antituberculosis drugs.</span></p>
 
 <p><span class="chinese">目的观察链霉素纳米粒的小鼠体内抗结核作用。</span><span class="english">Aim To explore the antituberculosis activity of streptomycin nanoparticles in vivo.</span></p>

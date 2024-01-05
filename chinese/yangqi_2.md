@@ -1,5 +1,7 @@
 # 氧气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangqi_2.md)
+
 <p><span class="chinese">你需要更多的氧气。</span><span class="english">You need more oxygen.</span></p>
 
 <p><span class="chinese">血液在肺中与氧气结合。</span><span class="english">Blood is aerated in the lungs.</span></p>

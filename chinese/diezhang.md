@@ -1,5 +1,7 @@
 # 叠嶂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diezhang.md)
+
 <p><span class="chinese">从这里可以望见叠嶂的群山。</span><span class="english">Layer upon layer of mountains can be seen from here.</span></p>
 
 <p><span class="chinese">或者，倘若我们攀登重岩叠嶂的峰巅。</span><span class="english">Or again if we but climb the serried mountain peaks.</span></p>

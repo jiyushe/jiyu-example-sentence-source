@@ -1,5 +1,7 @@
 # rupiah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rupiah.md)
+
 <p><span class="chinese">这些工人每天能挣2万卢比。</span><span class="english">These workers earn about 20,000 rupiah per day.</span></p>
 
 <p><span class="chinese">印度尼西亚的亿万富豪钱多得都没法准确计算了。</span><span class="english">Indonesia's rupiah trillionaires have so much money that it's difficult to count it.</span></p>

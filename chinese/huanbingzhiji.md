@@ -1,5 +1,7 @@
 # 缓兵之计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanbingzhiji.md)
+
 <p><span class="chinese">他的托辞只是缓兵之计。</span><span class="english">His excuse is for delay.</span></p>
 
 <p><span class="chinese">这不过是你的缓兵之计吧？</span><span class="english">You are slow-walking me, aren't you?</span></p>

@@ -1,5 +1,7 @@
 # 上馆子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangguanzi.md)
+
 <p><span class="chinese">你们在伦敦经常上馆子吃饭吗？</span><span class="english">Do you eat out a lot in London?</span></p>
 
 <p><span class="chinese">星期天他们通常上馆子吃饭。</span><span class="english">They usually eat out on Sundays.</span></p>

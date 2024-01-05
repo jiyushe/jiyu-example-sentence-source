@@ -1,5 +1,7 @@
 # 垂涎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuixian.md)
+
 <p><span class="chinese">它被收藏家们所垂涎。</span><span class="english">It is coveted by collectors.</span></p>
 
 <p><span class="chinese">她垂涎她姐姐的房子。</span><span class="english">She covets her sister's house.</span></p>

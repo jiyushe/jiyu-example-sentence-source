@@ -1,5 +1,7 @@
 # multilingual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multilingual.md)
+
 <p><span class="chinese">多语种索引与停止的话免职。</span><span class="english">Multilingual indexing with stop words removal.</span></p>
 
 <p><span class="chinese">当你还是婴儿的时候,你完全不懂多种语言</span><span class="english">When you were a baby you were a multilingual fool.</span></p>

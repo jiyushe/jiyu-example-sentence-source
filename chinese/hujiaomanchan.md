@@ -1,5 +1,7 @@
 # 胡搅蛮缠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hujiaomanchan.md)
+
 <p><span class="chinese">总之我不希望你胡搅蛮缠或妥协。</span><span class="english">Above all I do not wish to importune or compromise you.</span></p>
 
 <p><span class="chinese">这个赛季他胡搅蛮缠的时候渐渐减少。</span><span class="english">This season his trigger-happy days are becoming few and far between.</span></p>

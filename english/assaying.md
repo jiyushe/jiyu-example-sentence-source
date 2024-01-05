@@ -1,5 +1,7 @@
 # assaying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assaying.md)
+
 <p><span class="chinese">目前，对银币矿物成分的测试是由代表英国财政部的金史密斯家族旗下的Worshipful公司操作的。</span><span class="english">Assaying is now done by the Worshipful Company of Goldsmiths on behalf of HM Treasury.</span></p>
 
 <p><span class="chinese">在尿碘分析中，因高铈接触比色法具较多优点而广泛应用。</span><span class="english">In assaying of urine Iodine, the alkaline ashing method is widely used, asmore advantage.</span></p>

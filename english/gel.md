@@ -1,5 +1,7 @@
 # gel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gel.md)
+
 <p><span class="chinese">为轻柔狄综霜或啫喱。</span><span class="english">For the gentle eye cream or gel.</span></p>
 
 <p><span class="chinese">洗发精和沐浴乳都不够。</span><span class="english">I'm short of shampoo and bath gel.</span></p>

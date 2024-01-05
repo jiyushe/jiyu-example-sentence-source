@@ -1,5 +1,7 @@
 # notoriety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notoriety.md)
+
 <p><span class="chinese">声名狼藉常被误认为鼎鼎大名。</span><span class="english">Notoriety is often mistaken for fame.</span></p>
 
 <p><span class="chinese">但鉴于该条款通常不受欢迎，公司不太会动用。</span><span class="english">But their notoriety dissuades firms from using them.</span></p>

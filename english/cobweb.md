@@ -1,5 +1,7 @@
 # cobweb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cobweb.md)
+
 <p><span class="chinese">他拂去了头发上的蜘蛛丝。</span><span class="english">He brushed a cobweb out of his hair.</span></p>
 
 <p><span class="chinese">它们躺在透明的蜘蛛网里。</span><span class="english">They lies on the transparent cobweb.</span></p>

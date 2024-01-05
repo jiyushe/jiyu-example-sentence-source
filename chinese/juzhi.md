@@ -1,5 +1,7 @@
 # 举止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzhi.md)
+
 <p><span class="chinese">行为举止如何？</span><span class="english">How should you act?</span></p>
 
 <p><span class="chinese">她举止像位贵妇人。</span><span class="english">She behaves as a lady.</span></p>

@@ -1,5 +1,7 @@
 # 鱼饵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuer.md)
+
 <p><span class="chinese">我们能用它们当鱼饵吗？</span><span class="english">Can we use them as baits?</span></p>
 
 <p><span class="chinese">一条鱼在轻轻地啃鱼饵。</span><span class="english">A fish nibbles at the bait.</span></p>

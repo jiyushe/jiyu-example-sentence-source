@@ -1,5 +1,7 @@
 # equidistance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equidistance.md)
+
 <p><span class="chinese">用板材将凸角的两面包起来，等距离挖出深槽，刷墙漆。</span><span class="english">By plate will protrude Kok two bread together equidistance out Shencao, brush finishes.</span></p>
 
 <p><span class="chinese">本文是利用等距线间的关系，直接放出等距线。</span><span class="english">In this paper, by use of the relation of the equidistance lines, the equidistance lines can be directly set out.</span></p>

@@ -1,5 +1,7 @@
 # feeding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feeding.md)
+
 <p><span class="chinese">只在喂它的时候叫？</span><span class="english">Only at feeding time?</span></p>
 
 <p><span class="chinese">她正在喂狗。</span><span class="english">She is feeding the dog.</span></p>

@@ -1,5 +1,7 @@
 # eutectoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eutectoid.md)
+
 <p><span class="chinese">共析反应。</span><span class="english">Eutectoid reaction.</span></p>
 
 <p><span class="chinese">共析物的形成是非常缓慢的。</span><span class="english">The eutectoid compounds are very slow in forming.</span></p>

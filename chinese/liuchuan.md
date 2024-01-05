@@ -1,5 +1,7 @@
 # 流传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuchuan.md)
+
 <p><span class="chinese">这些画作流传了开来</span><span class="english">But these get around.</span></p>
 
 <p><span class="chinese">这是流传下来的信仰。</span><span class="english">It's a handed-down belief.</span></p>

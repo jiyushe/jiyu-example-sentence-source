@@ -1,5 +1,7 @@
 # draught
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/draught.md)
+
 <p><span class="chinese">我要一个扎啤。</span><span class="english">I want a draught beer.</span></p>
 
 <p><span class="chinese">风中之烛点的快。</span><span class="english">Candles spend fast in draught.</span></p>

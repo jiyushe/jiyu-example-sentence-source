@@ -1,5 +1,7 @@
 # 探察
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tancha.md)
+
 <p><span class="chinese">探察杂草丛生的寺院周围地区。</span><span class="english">Exploring the overgrown purlieus of the temple.</span></p>
 
 <p><span class="chinese">完成设备的所有焊接应无法探察。</span><span class="english">All welds shall be undetectable in finished work.</span></p>

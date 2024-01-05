@@ -1,5 +1,7 @@
 # 茶汤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chatang.md)
+
 <p><span class="chinese">茶汤染布，古色古香。</span><span class="english">The millet paste dyes the cloth, antique.</span></p>
 
 <p><span class="chinese">茶染即是用茶汤来染色。</span><span class="english">It is dyed with the millet paste that tea is dyed.</span></p>

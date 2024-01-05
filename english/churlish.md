@@ -1,5 +1,7 @@
 # churlish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/churlish.md)
+
 <p><span class="chinese">但是有点吹毛求疵了。</span><span class="english">But it is churlish to carp.</span></p>
 
 <p><span class="chinese">提出更多的要求就会失礼了。</span><span class="english">To ask more would be churlish.</span></p>

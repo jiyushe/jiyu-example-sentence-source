@@ -1,5 +1,7 @@
 # dealing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dealing.md)
+
 <p><span class="chinese">用第二手消息来源。</span><span class="english">Dealing with second-hand sources.</span></p>
 
 <p><span class="chinese">该部分的费用与915的做法一样。</span><span class="english">The same way as dealing with 915.</span></p>

@@ -1,5 +1,7 @@
 # exportable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exportable.md)
+
 <p><span class="chinese">我们想了解一下现在你们是自行车出口吗？</span><span class="english">We want to know whether your bicycle are exportable now.</span></p>
 
 <p><span class="chinese">这一系统完全可以被用到其他国家。</span><span class="english">And the system is absolutely exportable to other countries.</span></p>

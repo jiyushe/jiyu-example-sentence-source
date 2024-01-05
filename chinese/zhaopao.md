@@ -1,5 +1,7 @@
 # 罩袍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaopao.md)
+
 <p><span class="chinese">女性罩袍没有遮到脚踝也要被鞭抽。</span><span class="english">Whipping of women in public for having non-covered ankles.</span></p>
 
 <p><span class="chinese">来蓝色清真寺朝圣的身着罩袍的妇女和儿童。</span><span class="english">Women in burqas and child pilgrims at the Shrine of Hazrat Ali.</span></p>

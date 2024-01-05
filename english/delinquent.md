@@ -1,5 +1,7 @@
 # delinquent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delinquent.md)
+
 <p><span class="chinese">格斯，我可不想成为一名少年犯。</span><span class="english">Gus I don't wanna be a juvenile delinquent.</span></p>
 
 <p><span class="chinese">该少年违者被关进教养院改造。</span><span class="english">The juvenile delinquent was sent to the reformatory.</span></p>

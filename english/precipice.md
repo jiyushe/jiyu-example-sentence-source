@@ -1,5 +1,7 @@
 # precipice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precipice.md)
+
 <p><span class="chinese">小路等沿着悬崖。</span><span class="english">The path verges on a precipice.</span></p>
 
 <p><span class="chinese">我们正站在悬崖边。</span><span class="english">We are standing at a precipice.</span></p>

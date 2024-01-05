@@ -1,5 +1,7 @@
 # alizarin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alizarin.md)
+
 <p><span class="chinese">她的名字是雨茜。</span><span class="english">Her name is pluvial alizarin red.</span></p>
 
 <p><span class="chinese">茜素红S染色见钙结节形成。</span><span class="english">Alizarin red S staining verified the formation of mineralized nodules.</span></p>

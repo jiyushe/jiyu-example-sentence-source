@@ -1,5 +1,7 @@
 # 露馅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/louxian.md)
+
 <p><span class="chinese">对不起，你的年岁可露馅了！</span><span class="english">Pardon me, but your age is showing!</span></p>
 
 <p><span class="chinese">不过一定要把导线藏好，否则就露馅了。</span><span class="english">Just make sure to hide the wires, lest mess up the illusion.</span></p>

@@ -1,5 +1,7 @@
 # 日益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riyi.md)
+
 <p><span class="chinese">皆湮灭在时间日益僵滞的深渊中。</span><span class="english">In the petrifying abyss of Time.</span></p>
 
 <p><span class="chinese">我们变得日益坚强、更臻完善。</span><span class="english">We are stronger, and are better.</span></p>

@@ -1,5 +1,7 @@
 # lymphangioma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lymphangioma.md)
+
 <p><span class="chinese">目的探讨CT对囊性淋巴管瘤的诊断价值。</span><span class="english">Objective To study CT value in diagnosing cystic lymphangioma.</span></p>
 
 <p><span class="chinese">儿童的淋巴管瘤死于分岔癌栓。</span><span class="english">The child with the lymphangioma died from a bifurcation embolus.</span></p>

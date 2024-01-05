@@ -1,5 +1,7 @@
 # earring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earring.md)
+
 <p><span class="chinese">我对耳环一直情有独钟。</span><span class="english">I always wanted an earring.</span></p>
 
 <p><span class="chinese">她将她的耳环充当饰针。</span><span class="english">She served her earring as a pin.</span></p>

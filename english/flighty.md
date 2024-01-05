@@ -1,5 +1,7 @@
 # flighty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flighty.md)
+
 <p><span class="chinese">她从来不像你这样胡思乱想。</span><span class="english">She was never flighty like you.</span></p>
 
 <p><span class="chinese">一个好斗的同事这周要挑战你的神经。</span><span class="english">A flighty colleague is likely to work on your nerves this week.</span></p>

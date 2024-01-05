@@ -1,5 +1,7 @@
 # blotchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blotchy.md)
+
 <p><span class="chinese">红色斑疹。</span><span class="english">A red blotchy rash.</span></p>
 
 <p><span class="chinese">她满脸斑痕，眼睛肿胀。</span><span class="english">Her face was blotchy and her eyes swollen.</span></p>

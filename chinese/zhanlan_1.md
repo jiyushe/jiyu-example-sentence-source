@@ -1,5 +1,7 @@
 # 湛蓝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanlan_1.md)
+
 <p><span class="chinese">所以我非常喜欢湛蓝色。</span><span class="english">So I like blue very.</span></p>
 
 <p><span class="chinese">这里有蓝色的大海，湛蓝的天空。</span><span class="english">Green and the other is sky blue.</span></p>

@@ -1,5 +1,7 @@
 # countable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countable.md)
+
 <p><span class="chinese">person这个词是个可数名词。</span><span class="english">The word "person" is a countable noun.</span></p>
 
 <p><span class="chinese">它们是可数名词还是不可数名词?。</span><span class="english">Are they countable nouns or uncountable nouns?</span></p>

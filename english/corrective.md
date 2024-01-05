@@ -1,5 +1,7 @@
 # corrective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corrective.md)
+
 <p><span class="chinese">驾驶时须戴矫正视力的眼镜。</span><span class="english">To wear corrective lenses when driving.</span></p>
 
 <p><span class="chinese">驾驶时须戴眼镜或矫正视力的镜片。</span><span class="english">To wear glasses or corrective lenses when driving.</span></p>

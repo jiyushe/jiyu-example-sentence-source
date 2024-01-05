@@ -1,5 +1,7 @@
 # 自大狂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zidakuang.md)
+
 <p><span class="chinese">这是自大狂医生减肥法</span><span class="english">The egomaniac doctor diets.</span></p>
 
 <p><span class="chinese">这是自大狂者的一派胡话。</span><span class="english">These are the mere ravings of megalomaniacs.</span></p>

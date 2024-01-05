@@ -1,5 +1,7 @@
 # hungarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hungarian.md)
+
 <p><span class="chinese">我无法理解匈牙利语。</span><span class="english">I couldnot understand Hungarian.</span></p>
 
 <p><span class="chinese">匈牙利酒是由托考伊城产的葡萄做成的。</span><span class="english">Hungarian wine is made from Tokay grapes.</span></p>

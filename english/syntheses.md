@@ -1,5 +1,7 @@
 # syntheses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syntheses.md)
+
 <p><span class="chinese">又不知过了多少扇合成金属门。</span><span class="english">Also has not known how many leaf of syntheses metal door.</span></p>
 
 <p><span class="chinese">目的分析比较卡培他滨的几种基本的合成路线。</span><span class="english">Aim To analyze and compare different syntheses of capecitabine.</span></p>

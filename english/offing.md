@@ -1,5 +1,7 @@
 # offing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offing.md)
+
 <p><span class="chinese">同时更多的坏消息近在眉睫。</span><span class="english">And there is more bad news in the offing.</span></p>
 
 <p><span class="chinese">裁减人员的条件和程序。</span><span class="english">Conditions and procedures for lay offing employees.</span></p>

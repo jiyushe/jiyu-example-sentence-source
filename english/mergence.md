@@ -1,5 +1,7 @@
 # mergence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mergence.md)
+
 <p><span class="chinese">这会在你融入‘光’之后，在‘融合的时刻’之后发生。</span><span class="english">It occurs after you melt into the Light. After the Moment of Mergence.</span></p>
 
 <p><span class="chinese">重组后的中交集团，总部设在北京。</span><span class="english">The head office of the Group after its mergence is located in Beijing.</span></p>

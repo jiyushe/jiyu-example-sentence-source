@@ -1,5 +1,7 @@
 # 传媒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanmei.md)
+
 <p><span class="chinese">告诉传媒他病的有多严重。</span><span class="english">Tell the jackals how sick he is.</span></p>
 
 <p><span class="chinese">传媒业产值五年内将翻番。</span><span class="english">Media industry output doubled in five yrs.</span></p>

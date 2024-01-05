@@ -1,5 +1,7 @@
 # 干净
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjing.md)
+
 <p><span class="chinese">我绝对是干净的。</span><span class="english">I’m absolutely clean.</span></p>
 
 <p><span class="chinese">把它们洗干净晾干。</span><span class="english">Wash them and let dry.</span></p>

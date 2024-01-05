@@ -1,5 +1,7 @@
 # acceptant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acceptant.md)
+
 <p><span class="chinese">因而，接受理论与传播学研究之间有着某种内在的关联。</span><span class="english">So, there are some internal relationships between acceptant theory and communicational study.</span></p>
 
 <p><span class="chinese">2008年8月26日是民主党代表大会第三天，奥巴马在副手拜登接受提名演讲完毕之后惊喜登台。</span><span class="english">After the acceptant speech of Joe Biden, Obama showed up as a surprise on the third day of the DNC. Aug 26, 2008.</span></p>

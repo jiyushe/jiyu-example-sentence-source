@@ -1,5 +1,7 @@
 # enslavement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enslavement.md)
+
 <p><span class="chinese">奴役住族「制劳动」。</span><span class="english">Enslavement of Aborigines through forced labor.</span></p>
 
 <p><span class="chinese">她们必须设法从奴隶主人的角度反过来看待自身的遭遇。</span><span class="english">They must begin to see their enslavement from the point of view of the slaveholder.</span></p>

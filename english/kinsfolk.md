@@ -1,5 +1,7 @@
 # kinsfolk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinsfolk.md)
+
 <p><span class="chinese">在美国他没有亲属。</span><span class="english">He has no kinsfolk in America.</span></p>
 
 <p><span class="chinese">她的亲戚应该来看看她。</span><span class="english">Her kinsfolk should come to her.</span></p>

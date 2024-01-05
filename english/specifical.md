@@ -1,5 +1,7 @@
 # specifical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specifical.md)
+
 <p><span class="chinese">本文选择双轴挂车为具体研究对象。</span><span class="english">A two-shaft trailer is chosen as a specifical object of study.</span></p>
 
 <p><span class="chinese">对不锈钢椭圆封头，其压制工艺过程特殊。</span><span class="english">Hot forming of stainless steel elliptical head is specifical process.</span></p>

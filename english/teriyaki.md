@@ -1,5 +1,7 @@
 # teriyaki
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teriyaki.md)
+
 <p><span class="chinese">你们有照烧牛肉吗？</span><span class="english">Do you have beef teriyaki?</span></p>
 
 <p><span class="chinese">把酱油倒在弄好的鸡上。</span><span class="english">Pour the teriyaki sauce over the chicken.</span></p>

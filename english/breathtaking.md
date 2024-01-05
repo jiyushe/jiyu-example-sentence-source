@@ -1,5 +1,7 @@
 # breathtaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breathtaking.md)
+
 <p><span class="chinese">真的好极了。</span><span class="english">It's really breathtaking.</span></p>
 
 <p><span class="chinese">那是一场惊险的汽车比赛。</span><span class="english">It was a breathtaking car race.</span></p>

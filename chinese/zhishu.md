@@ -1,5 +1,7 @@
 # 指数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishu.md)
+
 <p><span class="chinese">忘记道琼斯指数36000点吧。</span><span class="english">Forget Dow 36000.</span></p>
 
 <p><span class="chinese">标准普尔500指数上升15点。</span><span class="english">S&P 500 up 15 points.</span></p>

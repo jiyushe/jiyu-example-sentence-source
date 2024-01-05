@@ -1,5 +1,7 @@
 # 低矮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diai.md)
+
 <p><span class="chinese">他在低矮的横梁下弯着腰。</span><span class="english">He stooped under the low beam.</span></p>
 
 <p><span class="chinese">在低矮的门拱下要低头。</span><span class="english">Dip your head under the low arch.</span></p>

@@ -1,5 +1,7 @@
 # 分界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenjie.md)
+
 <p><span class="chinese">在第一天，光明与黑暗分界。</span><span class="english">On day one, light and dark are separated.</span></p>
 
 <p><span class="chinese">两省以河流分界。</span><span class="english">The two provinces are demarcated by a river.</span></p>

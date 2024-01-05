@@ -1,5 +1,7 @@
 # 居安思危
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juansiwei.md)
+
 <p><span class="chinese">在山顶的时候就要像在山腰的时候。居安思危。</span><span class="english">Do on the hill as you would do in the hill.</span></p>
 
 <p><span class="chinese">那些不知道居安思危的人，他们的思想就是这样。</span><span class="english">This, then, thinking of those who do not know what is at stake.</span></p>

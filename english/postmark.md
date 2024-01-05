@@ -1,5 +1,7 @@
 # postmark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postmark.md)
+
 <p><span class="chinese">邮戳为凭。</span><span class="english">Postmark serves as a proof.</span></p>
 
 <p><span class="chinese">所有的信件上都盖有阿伯丁郡的邮戳。</span><span class="english">All the letters bore an Aberdeen postmark.</span></p>

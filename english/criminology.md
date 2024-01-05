@@ -1,5 +1,7 @@
 # criminology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/criminology.md)
+
 <p><span class="chinese">许多人还用传统的犯罪学思考问题。</span><span class="english">Many still think in terms of traditional criminology.</span></p>
 
 <p><span class="chinese">从广义上讲，犯罪学包括刑罚学。</span><span class="english">In a wide sense of the word, criminology includes penology.</span></p>

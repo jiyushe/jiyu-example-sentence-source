@@ -1,5 +1,7 @@
 # 冷若冰霜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengruobingshuang.md)
+
 <p><span class="chinese">我冷若冰霜。</span><span class="english">I'm like ice.</span></p>
 
 <p><span class="chinese">反之，则是冷若冰霜。</span><span class="english">Instead, it is cold-hearted.</span></p>

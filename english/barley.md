@@ -1,5 +1,7 @@
 # barley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barley.md)
+
 <p><span class="chinese">大麦粒在水中吸涨。</span><span class="english">Barley grains imbibe water.</span></p>
 
 <p><span class="chinese">我们将从麦芽讲起。</span><span class="english">We'll start with malted barley.</span></p>

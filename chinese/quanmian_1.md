@@ -1,5 +1,7 @@
 # 全面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanmian_1.md)
+
 <p><span class="chinese">你说得很全面</span><span class="english">That's the whole point.</span></p>
 
 <p><span class="chinese">全面地测试上层本体论。</span><span class="english">Test upper ontologies thoroughly</span></p>

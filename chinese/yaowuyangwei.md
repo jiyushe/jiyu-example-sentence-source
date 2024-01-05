@@ -1,5 +1,7 @@
 # 耀武扬威
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaowuyangwei.md)
+
 <p><span class="chinese">他们的军队耀武扬威的夺取了政权。</span><span class="english">Their troops goose-stepped into power.</span></p>
 
 <p><span class="chinese">而阿里巴巴能否在海外耀武扬威，那是另一回事。</span><span class="english">Whether Alibaba can thrive abroad is another matter.</span></p>

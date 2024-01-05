@@ -1,5 +1,7 @@
 # sweetheart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweetheart.md)
+
 <p><span class="chinese">来我身边岜，亲爱的。</span><span class="english">Come to me, my sweetheart.</span></p>
 
 <p><span class="chinese">请你别哭，心肝儿。</span><span class="english">Please don't cry, sweetheart.</span></p>

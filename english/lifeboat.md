@@ -1,5 +1,7 @@
 # lifeboat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lifeboat.md)
+
 <p><span class="chinese">我被放进了13号救生艇。</span><span class="english">I was put into lifeboat 13.</span></p>
 
 <p><span class="chinese">水手们降下了救生艇。</span><span class="english">The sailors lowered a lifeboat.</span></p>

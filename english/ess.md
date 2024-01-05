@@ -1,5 +1,7 @@
 # ess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ess.md)
+
 <p><span class="chinese">给我无尽的夏季。</span><span class="english">Give me endl! ess summer.</span></p>
 
 <p><span class="chinese">表面上看，国外投资人的警觉更敏感。</span><span class="english">On the surface, foreign war in ess seems more sensible.</span></p>

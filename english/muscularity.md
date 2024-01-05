@@ -1,5 +1,7 @@
 # muscularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muscularity.md)
+
 <p><span class="chinese">而且还可以使你肌肉发达。</span><span class="english">And can also make your muscularity.</span></p>
 
 <p><span class="chinese">刚刚毕业心理压力大吗?。</span><span class="english">Just graduate does psychology press muscularity?</span></p>

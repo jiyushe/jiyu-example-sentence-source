@@ -1,5 +1,7 @@
 # 栩栩如生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuxurusheng.md)
+
 <p><span class="chinese">这匹马看起来栩栩如生。</span><span class="english">The horse looks so life-like.</span></p>
 
 <p><span class="chinese">他把那匹马画得栩栩如生。</span><span class="english">He painted the horse to the life.</span></p>

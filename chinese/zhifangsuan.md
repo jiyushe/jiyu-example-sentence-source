@@ -1,5 +1,7 @@
 # 脂肪酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhifangsuan.md)
+
 <p><span class="chinese">含14克蛋白质和3毫克奥米茄3必须脂肪酸。</span><span class="english">With 14g protein and 3mg of Omega 3.</span></p>
 
 <p><span class="chinese">反式脂肪酸是好的还是坏的呢</span><span class="english">Are trans fats bad or trans fats good?</span></p>

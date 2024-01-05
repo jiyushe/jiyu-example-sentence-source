@@ -1,5 +1,7 @@
 # 中秋节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongqiujie.md)
+
 <p><span class="chinese">中秋节快乐.</span><span class="english">happy Mid-Autumn Festival.</span></p>
 
 <p><span class="chinese">中秋节是什么时候？</span><span class="english">When is mid-autumn festival?</span></p>

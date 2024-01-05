@@ -1,5 +1,7 @@
 # 外痔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waizhi.md)
+
 <p><span class="chinese">主要用于治疗内痔、外痔、混合痔、息肉等疾病。</span><span class="english">It can treat all kinds of piles and polyps.</span></p>
 
 <p><span class="chinese">什么是血栓性外痔嵌顿？</span><span class="english">What is thrombus sex external piles is embedded?</span></p>

@@ -1,5 +1,7 @@
 # steel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steel.md)
+
 <p><span class="chinese">淬硬工具钢。</span><span class="english">Hardened tool steel.</span></p>
 
 <p><span class="chinese">涌入它的钢铁之躯。</span><span class="english">Pours into its steel.</span></p>

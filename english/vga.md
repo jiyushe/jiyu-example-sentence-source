@@ -1,5 +1,7 @@
 # vga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vga.md)
+
 <p><span class="chinese">添加VGA温度保护功能。</span><span class="english">Add VGA temperature protect function.</span></p>
 
 <p><span class="chinese">为何不用VGA或者复合视频线？</span><span class="english">Why not VGA or Composite Video Cable?</span></p>

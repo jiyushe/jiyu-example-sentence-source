@@ -1,5 +1,7 @@
 # 叮当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingdang_1.md)
+
 <p><span class="chinese">这是小叮当！</span><span class="english">This is Tinker Bell!</span></p>
 
 <p><span class="chinese">火警铃叮当响起。</span><span class="english">The fire bells clanged.</span></p>

@@ -1,5 +1,7 @@
 # respectably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respectably.md)
+
 <p><span class="chinese">她的穿戴很高雅。</span><span class="english">She is respectably dressed.</span></p>
 
 <p><span class="chinese">我的问题是，我问最回复。</span><span class="english">My question is, and I ask most respectably.</span></p>

@@ -1,5 +1,7 @@
 # 退款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuikuan.md)
+
 <p><span class="chinese">她应得退款。</span><span class="english">She is due refund.</span></p>
 
 <p><span class="chinese">没有退款。</span><span class="english">There are no refunds.</span></p>

@@ -1,5 +1,7 @@
 # 改良主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gailiangzhuyi.md)
+
 <p><span class="chinese">民主社会主义实质就是一种社会改良主义。</span><span class="english">The democratic is one kind of reformism in essence.</span></p>
 
 <p><span class="chinese">陈炽是中国近代著名的资产阶级改良主义思想家。</span><span class="english">Chenchi was a famous bourgeois reformatory thinker of modern China.</span></p>

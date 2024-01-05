@@ -1,5 +1,7 @@
 # 全才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quancai.md)
+
 <p><span class="chinese">我大牛可是全才啊。</span><span class="english">I am a versatile man.</span></p>
 
 <p><span class="chinese">人才就是人才不会是全才！</span><span class="english">Talent is talent is not all-rounder!</span></p>

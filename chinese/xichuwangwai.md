@@ -1,5 +1,7 @@
 # 喜出望外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xichuwangwai.md)
+
 <p><span class="chinese">陈阿四喜出望外。</span><span class="english">O Chen four bonus.</span></p>
 
 <p><span class="chinese">他们说“喜出望外！</span><span class="english">And they said, "Ecstatic!</span></p>

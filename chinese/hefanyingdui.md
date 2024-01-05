@@ -1,5 +1,7 @@
 # 核反应堆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hefanyingdui.md)
+
 <p><span class="chinese">日本共有54个核反应堆，目前43个处于关闭状态。</span><span class="english">Of Japan's 54 nuclear reactors, 43 are currently offline.</span></p>
 
 <p><span class="chinese">为了未来的钍基熔盐核反应堆。</span><span class="english">Thorium-based molten salt nuclear reactors for the future!</span></p>

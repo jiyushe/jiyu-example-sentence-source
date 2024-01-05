@@ -1,5 +1,7 @@
 # 仙人掌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianrenzhang.md)
+
 <p><span class="chinese">行，仙人掌如何？</span><span class="english">Okay, how about cactus?</span></p>
 
 <p><span class="chinese">仙人掌是如何进化的？</span><span class="english">How did cactuses evolve?</span></p>

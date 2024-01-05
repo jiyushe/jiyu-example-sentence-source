@@ -1,5 +1,7 @@
 # uncivil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncivil.md)
+
 <p><span class="chinese">他对同事无礼。</span><span class="english">He is uncivil to his colleagues.</span></p>
 
 <p><span class="chinese">你说那种话很失礼。</span><span class="english">It was uncivil of you to say that.</span></p>

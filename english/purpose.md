@@ -1,5 +1,7 @@
 # purpose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purpose.md)
+
 <p><span class="chinese">此物适合我用。</span><span class="english">It serves my purpose.</span></p>
 
 <p><span class="chinese">每天定立目标。</span><span class="english">Have a purpose each day.</span></p>

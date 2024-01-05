@@ -1,5 +1,7 @@
 # 梗概
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/genggai.md)
+
 <p><span class="chinese">这是故事梗概。迷糊餐馆。</span><span class="english">This is the outline of the story.</span></p>
 
 <p><span class="chinese">请告诉我这项工作的梗概。</span><span class="english">Please give me a general idea of the work.</span></p>

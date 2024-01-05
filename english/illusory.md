@@ -1,5 +1,7 @@
 # illusory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illusory.md)
+
 <p><span class="chinese">然而，许多人担心，平静是虚幻的。</span><span class="english">Yet many fear that the calm is illusory.</span></p>
 
 <p><span class="chinese">什么药吃了会产生幻觉或幻听？</span><span class="english">What medicine ate can illusory or phonism?</span></p>

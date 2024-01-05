@@ -1,5 +1,7 @@
 # petrologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrologic.md)
+
 <p><span class="chinese">总结了四种不同成因的白云岩的岩石特征及地球化学特征。</span><span class="english">Petrologic and geochemical features of these four kinds of dolostone are generalized.</span></p>
 
 <p><span class="chinese">宁强陨石的岩石学、岩石化学及基质的化学成份。</span><span class="english">Petrology, petrologic Chemistry, and Matrix Chemical Compositions of the Ningqiang Chondrite.</span></p>

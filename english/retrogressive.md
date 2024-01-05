@@ -1,5 +1,7 @@
 # retrogressive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrogressive.md)
+
 <p><span class="chinese">没有退步的进步！</span><span class="english">No retrogressive progress!</span></p>
 
 <p><span class="chinese">这就是所谓日本战争的退步性。</span><span class="english">This is what we mean by the retrogressive nature of Japan's war.</span></p>

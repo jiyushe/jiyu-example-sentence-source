@@ -1,5 +1,7 @@
 # 精明强干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingmingqianggan.md)
+
 <p><span class="chinese">我们的班长精明强干，我们都很信任他。</span><span class="english">Our monitor is a very smart boy. We all believe in him.</span></p>
 
 <p><span class="chinese">这位新来的女书记很是精明强干。</span><span class="english">The new woman secretary was extremely clever and capable.</span></p>

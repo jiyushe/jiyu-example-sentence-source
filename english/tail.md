@@ -1,5 +1,7 @@
 # tail 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tail.md)
+
 <p><span class="chinese">猪尾汤。</span><span class="english">Pig tail soup.</span></p>
 
 <p><span class="chinese">猫咪有条长尾巴。</span><span class="english">A cat has a long tail.</span></p>

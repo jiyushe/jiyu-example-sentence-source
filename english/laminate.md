@@ -1,5 +1,7 @@
 # laminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laminate.md)
+
 <p><span class="chinese">很容易做硬板书签。</span><span class="english">Easy to laminate the bookmarks.</span></p>
 
 <p><span class="chinese">用于1540、1040和1030系列卫生间隔断的层压塑料。</span><span class="english">Plastic Laminate is used for 1540, 1040 and 1030 Series.</span></p>

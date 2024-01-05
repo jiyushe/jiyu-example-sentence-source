@@ -1,5 +1,7 @@
 # chasm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chasm.md)
+
 <p><span class="chinese">他们面前有个巨大的裂痕。</span><span class="english">A huge chasm gaped before them.</span></p>
 
 <p><span class="chinese">鸿沟的这场雪盲欺骗。</span><span class="english">Chasm of this snow-blind deceit.</span></p>

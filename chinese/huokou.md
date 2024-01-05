@@ -1,5 +1,7 @@
 # 活口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huokou.md)
+
 <p><span class="chinese">这教授很严格。他绝不留活口。</span><span class="english">The professor is tough. He takes no prisoner.</span></p>
 
 <p><span class="chinese">小桃，你在说什么？我说又来一个活口。</span><span class="english">Can't hear you, Peach. I said we got a live one.</span></p>

@@ -1,5 +1,7 @@
 # polygamist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polygamist.md)
+
 <p><span class="chinese">那位青少年逃离了某个一夫多妻的社区。</span><span class="english">The teen escaped from a polygamist community.</span></p>
 
 <p><span class="chinese">今天，德克萨斯州将对一夫多妻制宗派一名成员进行审判。</span><span class="english">Trial is set to get underway in Texas today for a member of polygamist sect.</span></p>

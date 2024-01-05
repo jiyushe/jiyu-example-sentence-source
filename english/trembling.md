@@ -1,5 +1,7 @@
 # trembling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trembling.md)
+
 <p><span class="chinese">病人开始发抖起来。</span><span class="english">The patient fell on trembling.</span></p>
 
 <p><span class="chinese">他们害怕得直发抖。</span><span class="english">They were trembling with fear.</span></p>

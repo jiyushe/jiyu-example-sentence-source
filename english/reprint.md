@@ -1,5 +1,7 @@
 # reprint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reprint.md)
+
 <p><span class="chinese">一九二九年二月再版。</span><span class="english">In February 1929 reprint.</span></p>
 
 <p><span class="chinese">您能不能给我一份抽印本？</span><span class="english">Would you please give me a reprint?</span></p>

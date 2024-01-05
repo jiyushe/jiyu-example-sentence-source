@@ -1,5 +1,7 @@
 # 债台高筑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaitaigaozhu.md)
+
 <p><span class="chinese">圣尼古拉得知，有个人因债台高筑而深感绝望。</span><span class="english">St. Nicholas learned about a man who was hopelessly in debt.</span></p>
 
 <p><span class="chinese">许多欧洲人担心，其他债台高筑的国家很快将步其后尘。</span><span class="english">Many Europeans worry other high debt countries could be next.</span></p>

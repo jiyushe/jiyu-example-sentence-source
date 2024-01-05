@@ -1,5 +1,7 @@
 # biscuit 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biscuit.md)
+
 <p><span class="chinese">让我们喂小绵羊吧，小饼干。</span><span class="english">Let's feed the sheep, Biscuit.</span></p>
 
 <p><span class="chinese">我们可以喂鸡，小饼干。</span><span class="english">We can feed the hens, Biscuit.</span></p>

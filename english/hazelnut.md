@@ -1,5 +1,7 @@
 # hazelnut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hazelnut.md)
+
 <p><span class="chinese">榛果拿铁咖啡是我的最爱。</span><span class="english">Hazelnut Lattes are my favorite.</span></p>
 
 <p><span class="chinese">榛果拿铁咖啡是我的最爱。</span><span class="english">Hazelnut Lattes are my favourite.</span></p>

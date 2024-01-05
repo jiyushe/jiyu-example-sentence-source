@@ -1,5 +1,7 @@
 # 墙布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangbu.md)
+
 <p><span class="chinese">所以，墙纸和墙布的维护和保养是关键。</span><span class="english">Therefore, wallpapers and Qiangbu maintenance and maintenance is the key.</span></p>
 
 <p><span class="chinese">对亚麻大提花墙布织物的开发和该类产品的设计要点进行探讨。</span><span class="english">Discussing about the design of linen jacquard pattern for wall furnishing fabric.</span></p>

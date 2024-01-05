@@ -1,5 +1,7 @@
 # 岬角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiajiao_2.md)
+
 <p><span class="chinese">船绕过了岬角。</span><span class="english">The ship rounded the point.</span></p>
 
 <p><span class="chinese">我们不能绕过岬角。</span><span class="english">We could not double the cape.</span></p>

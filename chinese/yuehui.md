@@ -1,5 +1,7 @@
 # 约会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuehui.md)
+
 <p><span class="chinese">直到约会？</span><span class="english">Till date?</span></p>
 
 <p><span class="chinese">我有一个约会。</span><span class="english">I have a date.</span></p>

@@ -1,5 +1,7 @@
 # 涉险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shexian_2.md)
+
 <p><span class="chinese">首轮比赛她涉险过关。</span><span class="english">She narrowly won the first race.</span></p>
 
 <p><span class="chinese">而到达这种思想境界，才是真正值得以身涉险的。</span><span class="english">Getting there would be worth the risks.</span></p>

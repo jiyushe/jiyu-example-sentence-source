@@ -1,5 +1,7 @@
 # smithy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smithy.md)
+
 <p><span class="chinese">这剑柄怎会流落到铁匠铺外如此遥远的地方。</span><span class="english">How the hilt of a sword wandered so far from the smithy.</span></p>
 
 <p><span class="chinese">威尔郡出现的麦田圈图案是令人震惊的。</span><span class="english">It was shocking when the Wayland's Smithy figure appeared.</span></p>

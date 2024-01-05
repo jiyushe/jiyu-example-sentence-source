@@ -1,5 +1,7 @@
 # earnings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earnings.md)
+
 <p><span class="chinese">还有调整后利润</span><span class="english">Adjusted earnings.</span></p>
 
 <p><span class="chinese">他喝酒喝掉了一半收入。</span><span class="english">He drinks half his earnings.</span></p>

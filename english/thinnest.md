@@ -1,5 +1,7 @@
 # thinnest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thinnest.md)
+
 <p><span class="chinese">构建尽可能瘦的JMS客户机</span><span class="english">Build the thinnest possible JMS client</span></p>
 
 <p><span class="chinese">这种腰带即便在最薄的衣衫下都看不出来。</span><span class="english">The belt is invisible even under the thinnest garments.</span></p>

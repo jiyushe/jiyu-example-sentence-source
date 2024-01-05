@@ -1,5 +1,7 @@
 # d
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/d.md)
+
 <p><span class="chinese">家庭史。</span><span class="english">D. Family history.</span></p>
 
 <p><span class="chinese">是，她很难辨别。，No，，she‘</span><span class="english">d be hard to tell.</span></p>

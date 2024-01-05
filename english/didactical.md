@@ -1,5 +1,7 @@
 # didactical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/didactical.md)
+
 <p><span class="chinese">多媒体教学是当前教学手段改革的重要趋势。</span><span class="english">Multimedia teaching is the important current of didactical instrument reformation.</span></p>
 
 <p><span class="chinese">教学功能是教科书获得自身存在合理性与必要性的根本依据。</span><span class="english">Didactical function is the foundation of rationality and necessity of textbook's existence.</span></p>

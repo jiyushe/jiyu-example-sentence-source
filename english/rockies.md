@@ -1,5 +1,7 @@
 # rockies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rockies.md)
+
 <p><span class="chinese">让自由从科罗拉多的顶部被雪所盖着的落矶山脉响！</span><span class="english">Let freedom ring from the snowcapped Rockies of Colorado!</span></p>
 
 <p><span class="chinese">这幅画完美地再现了洛矶山脉之美。</span><span class="english">The painting catches the beauty of the Rockies perfectly.</span></p>

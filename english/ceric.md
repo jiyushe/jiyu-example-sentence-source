@@ -1,5 +1,7 @@
 # ceric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceric.md)
+
 <p><span class="chinese">硫酸铈是合成丁酸戊酯的良好催化剂。</span><span class="english">Ceric sulfate is an excellent catalyst for synthesis of amyl butyrate.</span></p>
 
 <p><span class="chinese">硝酸铈铵是一种选择性良好，具有多方面用途的试剂。</span><span class="english">Ammonium ceric nitrate is a reagent with good selectivity and multiple uses.</span></p>

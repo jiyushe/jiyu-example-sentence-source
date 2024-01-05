@@ -1,5 +1,7 @@
 # isomerization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isomerization.md)
+
 <p><span class="chinese">晶体中的异构化反应。</span><span class="english">like an isomerization inside a crystalline solid.</span></p>
 
 <p><span class="chinese">对粗异戊烯的异构化工艺进行了研究。</span><span class="english">The isomerization process of crude isopentene was studied.</span></p>

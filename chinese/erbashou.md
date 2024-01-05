@@ -1,5 +1,7 @@
 # 二把手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erbashou.md)
+
 <p><span class="chinese">你现在是这个公司的第二把手了！</span><span class="english">Now you are the vice president of the company.</span></p>
 
 <p><span class="chinese">就在上个月基地组织新的第二把手也被杀死了。</span><span class="english">Its new second-in-command was killed just last month.</span></p>

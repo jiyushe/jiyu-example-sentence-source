@@ -1,5 +1,7 @@
 # 中计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongji_1.md)
+
 <p><span class="chinese">他中计而陷于死地。</span><span class="english">He was entrapped to destruction.</span></p>
 
 <p><span class="chinese">我中计了，把所有知道的一切全告诉了公安。</span><span class="english">I was trapped into telling the police all I knew.</span></p>

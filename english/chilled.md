@@ -1,5 +1,7 @@
 # chilled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chilled.md)
+
 <p><span class="chinese">注意不要让他受寒。</span><span class="english">Don't let him get chilled.</span></p>
 
 <p><span class="chinese">他觉得寒冷彻骨。</span><span class="english">He was chilled to the bone.</span></p>

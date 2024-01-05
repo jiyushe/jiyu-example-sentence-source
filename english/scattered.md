@@ -1,5 +1,7 @@
 # scattered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scattered.md)
+
 <p><span class="chinese">狗群四散离去。</span><span class="english">The dogs scattered and left.</span></p>
 
 <p><span class="chinese">沿途把冬日的道路撒满。</span><span class="english">Scattered along the winter way.</span></p>

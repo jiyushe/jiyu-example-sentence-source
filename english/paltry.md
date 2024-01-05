@@ -1,5 +1,7 @@
 # paltry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paltry.md)
+
 <p><span class="chinese">他会很高兴地接受一份微薄的奖金。</span><span class="english">He'll be happy to get a paltry bonus.</span></p>
 
 <p><span class="chinese">我怀疑罚款额太低也是一个原因。</span><span class="english">I suspect paltry pay was a big factor too.</span></p>

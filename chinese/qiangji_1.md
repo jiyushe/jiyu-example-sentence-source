@@ -1,5 +1,7 @@
 # 枪击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangji_1.md)
+
 <p><span class="chinese">对不起，比起枪击更多的人可是死于醉驾的。</span><span class="english">More folks are killed by dwi than guns.</span></p>
 
 <p><span class="chinese">一名小孩受到友军枪击？</span><span class="english">A child shot in a friendly-fire incident?</span></p>

@@ -1,5 +1,7 @@
 # 累犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leifan.md)
+
 <p><span class="chinese">你是可爱的累犯我从来没有看到的。</span><span class="english">You're the cutest jailbird I ever did see.</span></p>
 
 <p><span class="chinese">第五章是关于累犯制度的比较。</span><span class="english">The fifth part is the comparison about recidivism system.</span></p>

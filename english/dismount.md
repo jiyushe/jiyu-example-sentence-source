@@ -1,5 +1,7 @@
 # dismount
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dismount.md)
+
 <p><span class="chinese">骑自行车出入请下车。</span><span class="english">Cyclists please dismount at the gate.</span></p>
 
 <p><span class="chinese">汝若怕死，早下马受降！</span><span class="english">Ifyou fear death, dismount and surrender.</span></p>

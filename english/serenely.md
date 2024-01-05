@@ -1,5 +1,7 @@
 # serenely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serenely.md)
+
 <p><span class="chinese">那是一个宁静美丽的夜晚。</span><span class="english">It was a serenely beautiful night.</span></p>
 
 <p><span class="chinese">小船平稳地向着天水交接处驶去。</span><span class="english">The boat sailed serenely on towards the horizon.</span></p>

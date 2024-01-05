@@ -1,5 +1,7 @@
 # 蜻蜓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingting_1.md)
+
 <p><span class="chinese">小蜻蜓在我的头上。</span><span class="english">Dragonfly is on my head.</span></p>
 
 <p><span class="chinese">看，小蜻蜓能飞！</span><span class="english">Look! Dragonfly can fly!</span></p>

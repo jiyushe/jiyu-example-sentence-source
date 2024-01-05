@@ -1,5 +1,7 @@
 # 非议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiyi.md)
+
 <p><span class="chinese">这种行为在教室里肯定要遭到非议。</span><span class="english">Such behavior cannot pass in a schoolroom.</span></p>
 
 <p><span class="chinese">他悍然不顾公众非议。</span><span class="english">He flies in the face of public disapproval.</span></p>

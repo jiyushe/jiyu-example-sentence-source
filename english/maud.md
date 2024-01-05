@@ -1,5 +1,7 @@
 # maud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maud.md)
+
 <p><span class="chinese">莫德姑婆很正经地说她不喜欢我穿的衣服。</span><span class="english">Aunt Maud did not like my clothes and she said so, roundly.</span></p>
 
 <p><span class="chinese">此外挪威声称南极洲的毛德皇后地属于本国。</span><span class="english">Additionally, Norway has a claim for Dronning Maud Land in Antarctica.</span></p>

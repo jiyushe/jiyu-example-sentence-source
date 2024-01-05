@@ -1,5 +1,7 @@
 # perspicacity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perspicacity.md)
+
 <p><span class="chinese">真是费了不少的劲才发现我本来就不爱她。</span><span class="english">It was a marvellous effort of perspicacity to discover that I did not love her.</span></p>
 
 <p><span class="chinese">洞察力包括选择性编码、选择性比较、选择性联合。</span><span class="english">Perspicacity includes selective code, selective comparing and selective combining.</span></p>

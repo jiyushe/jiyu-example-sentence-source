@@ -1,5 +1,7 @@
 # fortify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortify.md)
+
 <p><span class="chinese">多加木条以强固围篱。</span><span class="english">Add more logs to fortify the fence.</span></p>
 
 <p><span class="chinese">他们决定加强海岸地区的防卫。</span><span class="english">They decided to fortify the coastal areas.</span></p>

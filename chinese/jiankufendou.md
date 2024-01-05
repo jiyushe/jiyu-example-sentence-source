@@ -1,5 +1,7 @@
 # 艰苦奋斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiankufendou.md)
+
 <p><span class="chinese">艰苦奋斗和勤俭节约均是美德。</span><span class="english">Working hard and frugal are both virtues.</span></p>
 
 <p><span class="chinese">艰苦奋斗是在事业上成功的唯一途径。</span><span class="english">Hard  graft is the only way to succeed in business.</span></p>

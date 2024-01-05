@@ -1,5 +1,7 @@
 # burton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burton.md)
+
 <p><span class="chinese">伯顿希望如此。</span><span class="english">Burton hopes so.</span></p>
 
 <p><span class="chinese">你喜欢蒂姆•波顿吗？</span><span class="english">Do you like Tim Burton?</span></p>

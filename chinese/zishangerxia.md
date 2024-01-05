@@ -1,5 +1,7 @@
 # 自上而下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishangerxia.md)
+
 <p><span class="chinese">第二，自上而下的思维方法。</span><span class="english">Two . Top-Down Thinking skills.</span></p>
 
 <p><span class="chinese">它在本质上属于中央控制和自上而下的模式。</span><span class="english">It is centrally controlled and top-down in nature.</span></p>

@@ -1,5 +1,7 @@
 # nationalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nationalist.md)
+
 <p><span class="chinese">他是个爱国者，却非民族主义分子。</span><span class="english">He was a patriot, but not a nationalist.</span></p>
 
 <p><span class="chinese">这是民族本位主义评论么？</span><span class="english">What is it with the egotistical nationalist comments?</span></p>

@@ -1,5 +1,7 @@
 # 自作聪明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizuocongming.md)
+
 <p><span class="chinese">那是自作聪明。</span><span class="english">That was smart.</span></p>
 
 <p><span class="chinese">别自作聪明。</span><span class="english">Don't look wise.</span></p>

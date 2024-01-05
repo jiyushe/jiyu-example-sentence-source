@@ -1,5 +1,7 @@
 # particle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/particle.md)
+
 <p><span class="chinese">这个物体运动状态如何</span><span class="english">What's this particle doing?</span></p>
 
 <p><span class="chinese">粒子加速器很酷。</span><span class="english">Particle accelerators are cool.</span></p>

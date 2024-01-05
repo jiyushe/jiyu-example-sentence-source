@@ -1,5 +1,7 @@
 # joyous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joyous.md)
+
 <p><span class="chinese">全部都是快乐的歌曲。</span><span class="english">One and all a joyous song.</span></p>
 
 <p><span class="chinese">可是这时，芳汀却正在欢乐中。</span><span class="english">But at that moment Fantine was joyous.</span></p>

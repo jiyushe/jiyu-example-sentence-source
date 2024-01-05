@@ -1,5 +1,7 @@
 # 山岭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanling.md)
+
 <p><span class="chinese">攀越每道山岭。</span><span class="english">Climb every mountain.</span></p>
 
 <p><span class="chinese">山岭在残阳的燃烧中走向夜晚。</span><span class="english">Set the mountain aflame to-night.</span></p>

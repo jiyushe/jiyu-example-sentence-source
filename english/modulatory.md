@@ -1,5 +1,7 @@
 # modulatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modulatory.md)
+
 <p><span class="chinese">同样，胰岛素样生长因子对神经元功能也有一定的调节作用。</span><span class="english">Insulin like growth factors also have a modulatory role in neuronal function.</span></p>
 
 <p><span class="chinese">宰相制度是君主制度的调节机制和必要补充。</span><span class="english">The system of prime minister was a modulatory mechanism and necessary supplementation of the monarchy.</span></p>

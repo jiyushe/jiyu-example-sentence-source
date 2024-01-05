@@ -1,5 +1,7 @@
 # striking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/striking.md)
+
 <p><span class="chinese">这是惹人注目的构想。</span><span class="english">A striking formulation.</span></p>
 
 <p><span class="chinese">将会有越来越多的人去追寻。</span><span class="english">This is quite striking.</span></p>

@@ -1,5 +1,7 @@
 # 茶具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaju.md)
+
 <p><span class="chinese">我喜欢这套茶具。</span><span class="english">I like this tea set.</span></p>
 
 <p><span class="chinese">这套茶具是以砂糖为原料做成的。</span><span class="english">A tea set made of sugar.</span></p>

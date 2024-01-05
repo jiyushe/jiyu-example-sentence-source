@@ -1,5 +1,7 @@
 # 酸痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suantong.md)
+
 <p><span class="chinese">我张开的双臂怎生的酸痛！</span><span class="english">How my open arms ache!</span></p>
 
 <p><span class="chinese">我两手两脚都很酸痛。</span><span class="english">Both my hands and feet ache.</span></p>

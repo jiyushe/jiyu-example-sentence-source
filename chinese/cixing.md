@@ -1,5 +1,7 @@
 # 磁性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cixing.md)
+
 <p><span class="chinese">液氧具有顺磁性。</span><span class="english">Liquid oxygen is paramagnetic.</span></p>
 
 <p><span class="chinese">与表带磁性按扣。</span><span class="english">Magnetic snap closure with strap.</span></p>

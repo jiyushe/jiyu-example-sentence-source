@@ -1,5 +1,7 @@
 # 攀高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangao.md)
+
 <p><span class="chinese">美国经济恶劣导致自杀率攀高。</span><span class="english">Bad economy blamed for high suicide rate in US.</span></p>
 
 <p><span class="chinese">但是收费时段只是费用节节攀高的部分原因所在。</span><span class="english">But billable hours explain only part of the run-up in costs.</span></p>

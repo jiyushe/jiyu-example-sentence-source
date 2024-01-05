@@ -1,5 +1,7 @@
 # soda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soda.md)
+
 <p><span class="chinese">忌饮汽水。</span><span class="english">Avoid soda.</span></p>
 
 <p><span class="chinese">是一种碳酸水。</span><span class="english">It's a kind of soda.</span></p>

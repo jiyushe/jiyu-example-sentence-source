@@ -1,5 +1,7 @@
 # medius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medius.md)
+
 <p><span class="chinese">前外侧入路利用了阔筋膜张肌和臀中肌之间的间隙。</span><span class="english">The anterolateral approach utilizes the interval between the tensor fascia and the gluteus medius.</span></p>
 
 <p><span class="chinese">外侧入路主要依赖于臀中肌和臀小肌止点的剥离。</span><span class="english">The lateral approach is essentially dependent upon elevation of the insertion of the gluteus medius and minimus.</span></p>

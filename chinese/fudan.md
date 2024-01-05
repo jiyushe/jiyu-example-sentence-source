@@ -1,5 +1,7 @@
 # 负担
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fudan.md)
+
 <p><span class="chinese">别为自己的记忆增加负担。</span><span class="english">Don't tax your memory.</span></p>
 
 <p><span class="chinese">负担在你身上。</span><span class="english">The burden is put on you.</span></p>

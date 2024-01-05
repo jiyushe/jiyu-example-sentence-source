@@ -1,5 +1,7 @@
 # covey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covey.md)
+
 <p><span class="chinese">斯蒂芬·科维会感到自豪的。</span><span class="english">Stephen Covey would be proud.</span></p>
 
 <p><span class="chinese">斯蒂棼·科卫称之为“先定目标后有行动”。</span><span class="english">Steven Covey calls this "Begin with the end in mind."</span></p>

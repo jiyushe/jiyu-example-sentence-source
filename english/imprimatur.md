@@ -1,5 +1,7 @@
 # imprimatur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imprimatur.md)
+
 <p><span class="chinese">最好的在于，这种效应可以持续好几年。</span><span class="english">Best of all, the imprimatur seems to last for years.</span></p>
 
 <p><span class="chinese">如果该规划能得到非洲各国的批准，将有助于推动二十国集团的工作进程。</span><span class="english">If it’s got an African imprimatur on it, that will help with the G20 process.</span></p>

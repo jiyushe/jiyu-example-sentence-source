@@ -1,5 +1,7 @@
 # 志愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyuan.md)
+
 <p><span class="chinese">志愿人员在受训。</span><span class="english">The volunteers are in training.</span></p>
 
 <p><span class="chinese">年轻人在志愿活动中的重要性</span><span class="english">IMPORTANCE OF YOUTH IN VOLUNTEERISM</span></p>

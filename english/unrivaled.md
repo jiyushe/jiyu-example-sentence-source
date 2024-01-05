@@ -1,5 +1,7 @@
 # unrivaled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrivaled.md)
+
 <p><span class="chinese">从世界历史上看，文化的力量无坚不摧。</span><span class="english">In the term of history, the power of culture is unrivaled.</span></p>
 
 <p><span class="chinese">清仓商品无论种类还是质量都无可挑剔。</span><span class="english">Stock to be cleared is unrivaled in both variety and quality.</span></p>

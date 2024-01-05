@@ -1,5 +1,7 @@
 # elliptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elliptic.md)
+
 <p><span class="chinese">冥王星的轨道是椭圆形的。</span><span class="english">Pluto has an elliptic orbit.</span></p>
 
 <p><span class="chinese">设R和S为两个超越椭圆黎曼曲面。</span><span class="english">Let R and S be transcendental elliptic Riemannian surfaces.</span></p>

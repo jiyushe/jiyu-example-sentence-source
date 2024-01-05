@@ -1,5 +1,7 @@
 # 经典
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdian_1.md)
+
 <p><span class="chinese">经典歌曲。</span><span class="english">Classic songs.</span></p>
 
 <p><span class="chinese">它是经典的比赛项目。</span><span class="english">It’s a classic race.</span></p>

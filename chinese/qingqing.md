@@ -1,5 +1,7 @@
 # 青青
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingqing.md)
+
 <p><span class="chinese">水仙花，青青的草地，繁星满天。</span><span class="english">Daffodils. Green meadows.</span></p>
 
 <p><span class="chinese">青青的小草正在唱。</span><span class="english">The green grass is singing to us.</span></p>

@@ -1,5 +1,7 @@
 # mediatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mediatory.md)
+
 <p><span class="chinese">摄影在其调解的角色中具有包容性。</span><span class="english">Photography is inclusive in its mediatory role.</span></p>
 
 <p><span class="chinese">中方是否会为解决利比亚当前危机发挥调停作用？</span><span class="english">Will China play a mediatory role in the current crisis in Libya?</span></p>

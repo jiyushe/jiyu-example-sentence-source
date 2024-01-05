@@ -1,5 +1,7 @@
 # chamomile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chamomile.md)
+
 <p><span class="chinese">甘菊花油则有使人镇定的功效。</span><span class="english">And chamomile can help calm you.</span></p>
 
 <p><span class="chinese">它是洋甘菊，可以防止过敏。</span><span class="english">Its chamomile , it can prevent allergy.</span></p>

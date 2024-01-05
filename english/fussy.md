@@ -1,5 +1,7 @@
 # fussy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fussy.md)
+
 <p><span class="chinese">我不喜欢忙乱地整理行装。</span><span class="english">I hate all this fussy packing.</span></p>
 
 <p><span class="chinese">这会显得你是个挑剔的人。</span><span class="english">You will appear as a fussy person.</span></p>

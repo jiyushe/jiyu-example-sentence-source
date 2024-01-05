@@ -1,5 +1,7 @@
 # gyroscopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gyroscopic.md)
+
 <p><span class="chinese">此陀螺运动叫做进动。</span><span class="english">This gyroscopic motion is called precession.</span></p>
 
 <p><span class="chinese">陀螺传感器测量的立方体的动作。</span><span class="english">Gyroscopic sensors measure the movements of the cubes.</span></p>

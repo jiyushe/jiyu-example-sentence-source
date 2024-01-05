@@ -1,5 +1,7 @@
 # 反击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanji.md)
+
 <p><span class="chinese">食物的反击！</span><span class="english">Food fights back.</span></p>
 
 <p><span class="chinese">我们可以反击。</span><span class="english">We can fight back.</span></p>

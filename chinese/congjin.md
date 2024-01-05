@@ -1,5 +1,7 @@
 # 从今
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congjin.md)
+
 <p><span class="chinese">从今往后，我成了无业游民。</span><span class="english">From now on, I became a hobo.</span></p>
 
 <p><span class="chinese">从今走向繁荣富强。</span><span class="english">From now on towards prosperity.</span></p>

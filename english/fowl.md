@@ -1,5 +1,7 @@
 # fowl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fowl.md)
+
 <p><span class="chinese">熏制的珍珠鸡。</span><span class="english">Smoked guinea fowl.</span></p>
 
 <p><span class="chinese">我喜欢牛肉胜过鱼或鸡肉。</span><span class="english">I prefer beef to fish or fowl.</span></p>

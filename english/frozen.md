@@ -1,5 +1,7 @@
 # frozen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frozen.md)
+
 <p><span class="chinese">冻结的整体。</span><span class="english">Frozen Wholes.</span></p>
 
 <p><span class="chinese">她像被冻僵了似的坐着。</span><span class="english">She sat as if frozen.</span></p>

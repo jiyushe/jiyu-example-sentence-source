@@ -1,5 +1,7 @@
 # 东奔西走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongbenxizou.md)
+
 <p><span class="chinese">他东奔西走寻找工作。</span><span class="english">He hunted high and law for a job.</span></p>
 
 <p><span class="chinese">在东奔西走的活动中寻觅一份安宁。</span><span class="english">Favor stillness over a buzz of activity.</span></p>

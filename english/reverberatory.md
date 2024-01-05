@@ -1,5 +1,7 @@
 # reverberatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reverberatory.md)
+
 <p><span class="chinese">本文介绍了一种反射炉用的电磁循环泵。</span><span class="english">This paper describes an electromagnetic circulator for reverberatory furnaces.</span></p>
 
 <p><span class="chinese">介绍了竖炉-反射炉联合作业工艺。</span><span class="english">The technics of the vertical furnace and reverberatory furnace is introduced in this paper.</span></p>

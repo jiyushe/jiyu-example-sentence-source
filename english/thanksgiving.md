@@ -1,5 +1,7 @@
 # thanksgiving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thanksgiving.md)
+
 <p><span class="chinese">本周四是戴德节。</span><span class="english">This Thursday is Thanksgiving Day.</span></p>
 
 <p><span class="chinese">感恩节祭品。</span><span class="english">You have the thanksgiving offering.</span></p>

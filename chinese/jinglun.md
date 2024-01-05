@@ -1,5 +1,7 @@
 # 经纶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinglun.md)
+
 <p><span class="chinese">剪下一段烛光，将经纶点亮。</span><span class="english">Cut a candlelight, will knowlage light.</span></p>
 
 <p><span class="chinese">是经纶，神的计画就是分赐。</span><span class="english">E is for Economy, God's plan is dispensing.</span></p>

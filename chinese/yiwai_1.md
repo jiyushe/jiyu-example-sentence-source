@@ -1,5 +1,7 @@
 # 意外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwai_1.md)
+
 <p><span class="chinese">我们很意外。</span><span class="english">So were we.</span></p>
 
 <p><span class="chinese">能让我意外的东西。</span><span class="english">Come on, surprise me.</span></p>

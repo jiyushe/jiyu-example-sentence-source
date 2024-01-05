@@ -1,5 +1,7 @@
 # 识字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizi_7.md)
+
 <p><span class="chinese">“识字阅读的方式再不断进化，”她告诉我。</span><span class="english">“Literacy evolves, ” she told me.</span></p>
 
 <p><span class="chinese">像不识字的牧师只知喊“阿门”</span><span class="english">And like unlettered clerk still cry Amen.</span></p>

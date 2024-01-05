@@ -1,5 +1,7 @@
 # catchphrase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catchphrase.md)
+
 <p><span class="chinese">“为日本微笑”正是这个手办的主题。</span><span class="english">"Smile for Japan" is the catchphrase for the figure!</span></p>
 
 <p><span class="chinese">后来在反全球化运动中一度成为热门词汇。</span><span class="english">The expression also became a catchphrase of the anti-globalization movement.</span></p>

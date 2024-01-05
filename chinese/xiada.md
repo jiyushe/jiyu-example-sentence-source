@@ -1,5 +1,7 @@
 # 下达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiada.md)
+
 <p><span class="chinese">下达了一条监狱大屠杀的命令。</span><span class="english">A huge prison battue was ordered.</span></p>
 
 <p><span class="chinese">未等下达她便执行我的每道命令。</span><span class="english">She anticipated each of my orders.</span></p>

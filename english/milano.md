@@ -1,5 +1,7 @@
 # milano
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milano.md)
+
 <p><span class="chinese">以阿利萨·米兰为例。</span><span class="english">Take Alyssa Milano.</span></p>
 
 <p><span class="chinese">米兰我爱你！</span><span class="english">Milano , I love you!</span></p>

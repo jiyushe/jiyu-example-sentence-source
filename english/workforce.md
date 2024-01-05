@@ -1,5 +1,7 @@
 # workforce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workforce.md)
+
 <p><span class="chinese">因为我们闲置的劳动力正在遗失着他们技能。</span><span class="english">And our idled workforce is losing its skills.</span></p>
 
 <p><span class="chinese">我们假定我们的生产力需要高文化素养。</span><span class="english">We make the assumption that we need it workforce.</span></p>

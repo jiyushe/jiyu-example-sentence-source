@@ -1,5 +1,7 @@
 # interlocutor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlocutor.md)
+
 <p><span class="chinese">每一个个案中，询问者都会问观看者，“这可能是什么呢？”</span><span class="english">In each case, the interlocutor inquires of the viewer, “What might this be?</span></p>
 
 <p><span class="chinese">奥巴马首先顺便拜访了卢拉，他亲切地称之为“拉丁爵士”，一位合作的半球对话者。</span><span class="english">Obama at first saw in Lula, whom he once amiably called "my man," a useful hemispheric interlocutor.</span></p>

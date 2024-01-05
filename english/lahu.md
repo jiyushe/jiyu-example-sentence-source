@@ -1,5 +1,7 @@
 # lahu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lahu.md)
+
 <p><span class="chinese">其中最隆重的节日是过拉祜年。</span><span class="english">One of the most solemn holiday is over in lahu.</span></p>
 
 <p><span class="chinese">拉祜文的应用曾对拉祜族产生重要影响。</span><span class="english">Its application once exerted great influence on the Lahu Nationality.</span></p>

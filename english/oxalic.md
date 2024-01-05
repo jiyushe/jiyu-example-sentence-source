@@ -1,5 +1,7 @@
 # oxalic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxalic.md)
+
 <p><span class="chinese">草酸形成的一种盐或酯。</span><span class="english">A salt or ester of oxalic acid.</span></p>
 
 <p><span class="chinese">与草酸洗是有效的。</span><span class="english">Wash with oxalic acid were effective.</span></p>

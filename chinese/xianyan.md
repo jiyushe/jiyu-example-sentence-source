@@ -1,5 +1,7 @@
 # 显眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyan.md)
+
 <p><span class="chinese">38“内页链接都够显眼吗？”</span><span class="english">How visible are links?</span></p>
 
 <p><span class="chinese">龙的血盆大口分外显眼，显然是一只凶险的野兽。</span><span class="english">A dangerous beast, this.</span></p>

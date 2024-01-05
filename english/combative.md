@@ -1,5 +1,7 @@
 # combative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combative.md)
+
 <p><span class="chinese">我是一个极端好战的人。</span><span class="english">I'm an extremely combative person.</span></p>
 
 <p><span class="chinese">很多的的对话都好像挺针锋相对的。</span><span class="english">A lot of the dialog seems to be combative.</span></p>

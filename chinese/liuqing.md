@@ -1,5 +1,7 @@
 # 留情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuqing.md)
+
 <p><span class="chinese">留情是强者才具有的品格。</span><span class="english">Forgiveness is the option of the strong.</span></p>
 
 <p><span class="chinese">手下留情花似锦，足下留情草如茵。</span><span class="english">Bright spent unsparing hand, foot criticism of grass.</span></p>

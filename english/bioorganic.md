@@ -1,5 +1,7 @@
 # bioorganic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioorganic.md)
+
 <p><span class="chinese">人工分子识别是生物有机化学前沿领域之一。</span><span class="english">The study on molecular recognition of artificial receptors is one the frontiers in Bioorganic Chemistry.</span></p>
 
 <p><span class="chinese">人工分子识别研究是生物有机化学前沿富有挑战性的领域之一。</span><span class="english">The study on molecular recognition of artificial receptors is one of the frontiers in bioorganic chemistry.</span></p>

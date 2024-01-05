@@ -1,5 +1,7 @@
 # icp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icp.md)
+
 <p><span class="chinese">因此，办理ICP证是企业网站合法经营的需要。</span><span class="english">Therefore, conduction ICP syndrome is enterprise's websites legitimate business needs.</span></p>
 
 <p><span class="chinese">为了能准确检测硬模下ICP，感应元件需面对皮质。</span><span class="english">To ensure accurate sub-dura ICP monitoring, the sensing element must be facing the cortex.</span></p>

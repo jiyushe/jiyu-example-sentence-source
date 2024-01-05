@@ -1,5 +1,7 @@
 # rotary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotary.md)
+
 <p><span class="chinese">奖学生能为扶轮社友做什麽？</span><span class="english">What we can do for rotary club?</span></p>
 
 <p><span class="chinese">旋转的鼓动者灌溉他。</span><span class="english">The rotary agitator irrigated him.</span></p>

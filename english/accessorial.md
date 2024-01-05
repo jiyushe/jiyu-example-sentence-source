@@ -1,5 +1,7 @@
 # accessorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accessorial.md)
+
 <p><span class="chinese">点“详细”的话，可以看到辅助性的附加内容。</span><span class="english">Accessorial content can be seen after "detailed" is clicked.</span></p>
 
 <p><span class="chinese">辅警，是警察的辅助力量。</span><span class="english">The assistant police are the accessorial power of the police.</span></p>

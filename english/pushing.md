@@ -1,5 +1,7 @@
 # pushing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pushing.md)
+
 <p><span class="chinese">那是在推动它。</span><span class="english">That is pushing it.</span></p>
 
 <p><span class="chinese">嗯地面推着我。</span><span class="english">This floor is pushing.</span></p>

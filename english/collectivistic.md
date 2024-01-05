@@ -1,5 +1,7 @@
 # collectivistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collectivistic.md)
+
 <p><span class="chinese">他是德国最早的集体主义的民族主义的传道者之一。</span><span class="english">He was one of the earliest apostles of collectivistic nationalism in Germany.</span></p>
 
 <p><span class="chinese">此外，西方人相对比较个人主义而东方人则更看重集体主义。</span><span class="english">Besides, the westerns are individualistic while the easterners are more collectivistic.</span></p>

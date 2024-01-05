@@ -1,5 +1,7 @@
 # criticise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/criticise.md)
+
 <p><span class="chinese">许多人批评乔治卡特林。</span><span class="english">Many people criticise George Catlin.</span></p>
 
 <p><span class="chinese">我们不会批评宗教或者宗教自由。</span><span class="english">We would not criticise religion or religious freedom.</span></p>

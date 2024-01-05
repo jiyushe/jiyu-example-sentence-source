@@ -1,5 +1,7 @@
 # pled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pled.md)
+
 <p><span class="chinese">抢匪辩称他是被迫去抢劫的。</span><span class="english">The robber pled that he was forced to do it.</span></p>
 
 <p><span class="chinese">他承认有罪，被判处五年徒刑。</span><span class="english">He pled guilty and received a five-year sentence.</span></p>

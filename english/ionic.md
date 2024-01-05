@@ -1,5 +1,7 @@
 # ionic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ionic.md)
+
 <p><span class="chinese">这是离子键。</span><span class="english">This is ionic bonding.</span></p>
 
 <p><span class="chinese">因此我们得到了离子键。</span><span class="english">And so we got to ionic bonding.</span></p>

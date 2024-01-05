@@ -1,5 +1,7 @@
 # thermic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermic.md)
+
 <p><span class="chinese">热效应取决于饮食的组成和数量。</span><span class="english">The thermic response depends on the composition of the meal and on its size.</span></p>
 
 <p><span class="chinese">爆炸释放的热辐射将她所着和服背后的花纹烧毁。</span><span class="english">The thermic rays emitted by the explosion burned the pattern of this woman's kimono upon her back.</span></p>

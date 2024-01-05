@@ -1,5 +1,7 @@
 # hifi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hifi.md)
+
 <p><span class="chinese">我终于搞清楚我的高保真音响出了什么毛病。</span><span class="english">In the end I found out what was wrong with my hifi.</span></p>
 
 <p><span class="chinese">邻居乐颠颠地开着音响修篱笆。</span><span class="english">The next door neighbour enjoys repairing his fence with his HiFi.</span></p>

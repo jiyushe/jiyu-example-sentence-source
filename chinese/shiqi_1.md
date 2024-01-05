@@ -1,5 +1,7 @@
 # 时期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqi_1.md)
+
 <p><span class="chinese">这是一个污秽的时期</span><span class="english">This was a nasty time.</span></p>
 
 <p><span class="chinese">在滴干成衣时期之前。</span><span class="english">Before the drip-dry era.</span></p>

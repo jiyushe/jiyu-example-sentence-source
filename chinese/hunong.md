@@ -1,5 +1,7 @@
 # 糊弄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunong.md)
+
 <p><span class="chinese">我还要糊弄糊弄他。</span><span class="english">I'll fool him yet.</span></p>
 
 <p><span class="chinese">她并没有被糊弄过去。</span><span class="english">She was not fooled.</span></p>

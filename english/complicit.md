@@ -1,5 +1,7 @@
 # complicit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complicit.md)
+
 <p><span class="chinese">也不知怎的，我们每人都是她毁容的帮凶。</span><span class="english">Somehow, we are all complicit in her ruination.</span></p>
 
 <p><span class="chinese">不过也有人认为，政府与这种丑恶沆瀣一气。</span><span class="english">But some have argued the government is complicit in the ugliness.</span></p>

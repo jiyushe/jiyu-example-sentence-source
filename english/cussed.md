@@ -1,5 +1,7 @@
 # cussed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cussed.md)
+
 <p><span class="chinese">医生，这该死的东西现在弄好了。</span><span class="english">Now the cussed thing's ready, Sawbones.</span></p>
 
 <p><span class="chinese">曾经的倔强，变成今天的执着。</span><span class="english">Once cuSsed. Into Today's DediCation . !</span></p>

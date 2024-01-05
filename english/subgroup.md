@@ -1,5 +1,7 @@
 # subgroup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subgroup.md)
+
 <p><span class="chinese">拜耳医药保健是拜耳集团的子公司。</span><span class="english">Bayer Healthcare is a subgroup of Bayer AG.</span></p>
 
 <p><span class="chinese">淋巴细胞亚群CD_4计数总体水平较低。</span><span class="english">CD4 count of T-lymphocyte subgroup is lower.</span></p>

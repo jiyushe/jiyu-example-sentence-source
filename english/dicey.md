@@ -1,5 +1,7 @@
 # dicey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dicey.md)
+
 <p><span class="chinese">但是兰伯特立即回复说，三层蛋糕运起来很困难，无法送货。</span><span class="english">But Lambert quickly replied that a three-tiered cake was too dicey to ship.</span></p>
 
 <p><span class="chinese">这些发现给丰田和交通运输部带来的都是无法预料的形势。</span><span class="english">The findings are dicey terrain for Toyota and Transportation Department officials.</span></p>

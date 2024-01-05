@@ -1,5 +1,7 @@
 # attired
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attired.md)
+
 <p><span class="chinese">她装扮成男人。</span><span class="english">She was attired as a man.</span></p>
 
 <p><span class="chinese">他穿着丝绸衣服。</span><span class="english">He attired himself in silk.</span></p>

@@ -1,5 +1,7 @@
 # syllabus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syllabus.md)
+
 <p><span class="chinese">哦，教学大纲？</span><span class="english">Oh, the syllabus?</span></p>
 
 <p><span class="chinese">你们都拿到教学大纲了吗</span><span class="english">Did you all get a syllabus?</span></p>

@@ -1,5 +1,7 @@
 # 凶相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongxiang.md)
+
 <p><span class="chinese">狗发怒，毛发倒竖，显出一副好斗的凶相。</span><span class="english">The dog was angry and bellicosely bristled up.</span></p>
 
 <p><span class="chinese">还是，你能预测到未来走向？你能看到风暴来袭的凶相？</span><span class="english">Can you predict the future? can you see storms, coming?</span></p>

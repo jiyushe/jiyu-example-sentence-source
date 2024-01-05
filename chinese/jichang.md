@@ -1,5 +1,7 @@
 # 鸡场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jichang.md)
+
 <p><span class="chinese">没有鸡能从崔迪鸡场逃出去！</span><span class="english">No chicken escapes from Tweedy's farm!</span></p>
 
 <p><span class="chinese">放眼望去，整个鸡场狼藉一片，触目惊心。</span><span class="english">Looking ahead, the whole chicken in a mess, shocking.</span></p>

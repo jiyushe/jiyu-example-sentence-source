@@ -1,5 +1,7 @@
 # logicality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logicality.md)
+
 <p><span class="chinese">评价模型的逻辑性。</span><span class="english">The logicality of models on evaluation.</span></p>
 
 <p><span class="chinese">数学是一门逻辑性极强的学科。</span><span class="english">Mathematics is a subject with logicality.</span></p>

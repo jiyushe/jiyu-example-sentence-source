@@ -1,5 +1,7 @@
 # vad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vad.md)
+
 <p><span class="chinese">重庆市某郊区学龄前儿童同时存在VAD和IDA的公共卫生问题。</span><span class="english">VAD and IDA are public health problems in suburb Chongqing.</span></p>
 
 <p><span class="chinese">语音检测算法是现在语音信号处理研究的一个热点。</span><span class="english">Nowadays the VAD is a hot spot in the speech signal processing field.</span></p>

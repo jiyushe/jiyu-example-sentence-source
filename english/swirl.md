@@ -1,5 +1,7 @@
 # swirl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swirl.md)
+
 <p><span class="chinese">长长的藤葛盘绕在树身上。</span><span class="english">Long vines swirl round the tree.</span></p>
 
 <p><span class="chinese">紫色的小鱼在他们的身边打着旋儿。</span><span class="english">Tiny purple fish swirl around them.</span></p>

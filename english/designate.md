@@ -1,5 +1,7 @@
 # designate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/designate.md)
+
 <p><span class="chinese">由你指定吧，哪一个该留下。</span><span class="english">Do you designate who is to remain.</span></p>
 
 <p><span class="chinese">在区内划设通风廊。</span><span class="english">Designate air corridors in the area.</span></p>

@@ -1,5 +1,7 @@
 # osteogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteogenesis.md)
+
 <p><span class="chinese">表明CHA有良好的成骨作用。</span><span class="english">It suggested that CHA had good osteogenesis.</span></p>
 
 <p><span class="chinese">大多数骨肉瘤患者的年龄在21岁以下。</span><span class="english">The bulk of people who get osteogenesis sarcoma are below age 21.</span></p>

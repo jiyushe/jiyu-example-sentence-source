@@ -1,5 +1,7 @@
 # 用场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongchang_2.md)
+
 <p><span class="chinese">在玩雪时它也能派上用场。</span><span class="english">It can work for snow, too.</span></p>
 
 <p><span class="chinese">这既简单，又非常派得上用场。</span><span class="english">It's very simple, very useful.</span></p>

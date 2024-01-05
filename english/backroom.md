@@ -1,5 +1,7 @@
 # backroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backroom.md)
+
 <p><span class="chinese">凯利家的后屋怎么样？</span><span class="english">How about the backroom at kelly's?</span></p>
 
 <p><span class="chinese">教练组成员会带给你非常丰富的信息。</span><span class="english">There's a wealth of information that your backroom staff will come to you with.</span></p>

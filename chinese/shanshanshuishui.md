@@ -1,5 +1,7 @@
 # 山山水水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanshanshuishui.md)
+
 <p><span class="chinese">他是山林之王，这里山山水水的主人。</span><span class="english">He is Master of wood, water, and hill.</span></p>
 
 <p><span class="chinese">中国的山山水水使很多老外着迷。</span><span class="english">China's landscape fascinates lots of foreigners.</span></p>

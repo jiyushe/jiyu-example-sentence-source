@@ -1,5 +1,7 @@
 # anarchic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anarchic.md)
+
 <p><span class="chinese">因为这个，在她心的深处，她是个虚无主义者，而且真的是无政府主义者。</span><span class="english">And somewhere deep in herself because of it , she was a nihilist , and really anarchic.</span></p>
 
 <p><span class="chinese">过去的假新闻都经过精心的编排，现在冒出的谎言则混乱无序。</span><span class="english">Instead of the carefully organized fake news of old, there is now an anarchic outflow of lies.</span></p>

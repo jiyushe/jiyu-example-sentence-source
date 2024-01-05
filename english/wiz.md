@@ -1,5 +1,7 @@
 # wiz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wiz.md)
+
 <p><span class="chinese">另外我的丈夫是一个数学奇才。</span><span class="english">My hubby is a math wiz.</span></p>
 
 <p><span class="chinese">我就多了个相当伤脑筋的问题。</span><span class="english">I found im having a problem wiz myself.</span></p>

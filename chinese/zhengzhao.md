@@ -1,5 +1,7 @@
 # 征兆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhao.md)
+
 <p><span class="chinese">征兆是有益的。</span><span class="english">Signs are helpful.</span></p>
 
 <p><span class="chinese">征兆就在那里。</span><span class="english">The signs are there.</span></p>

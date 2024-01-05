@@ -1,5 +1,7 @@
 # 事故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shigu.md)
+
 <p><span class="chinese">我要拿一份事故调查表，是吗？</span><span class="english">Sall I get a report?</span></p>
 
 <p><span class="chinese">事故发生后，一个后轮发生了爆胎。</span><span class="english">A rear tyre was flat.</span></p>

@@ -1,5 +1,7 @@
 # 燃眉之急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ranmeizhiji.md)
+
 <p><span class="chinese">有时，一个新的观点，或者刚刚参与此事的家长可能会解燃眉之急。</span><span class="english">Sometimes a fresh perspective, or parent, can be a lifesaver.</span></p>
 
 <p><span class="chinese">但今天连投资都可以了，不能用它来解救存户的燃眉之急显得说不过去。</span><span class="english">Today, we are even able to use our CPF savings for investments.</span></p>

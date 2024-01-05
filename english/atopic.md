@@ -1,5 +1,7 @@
 # atopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atopic.md)
+
 <p><span class="chinese">瘙痒是特应性皮炎的一个基本特征。</span><span class="english">Pruritus is an essential feature of atopic dermatitis.</span></p>
 
 <p><span class="chinese">她的特应性皮炎恶化，播散至全身。</span><span class="english">Her atopic dermatitis worsened and spread all over her body.</span></p>

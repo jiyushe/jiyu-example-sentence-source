@@ -1,5 +1,7 @@
 # thornbush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thornbush.md)
+
 <p><span class="chinese">在这两天之中，荆棘树拒绝开花。</span><span class="english">For two days the thornbush refused to bloom.</span></p>
 
 <p><span class="chinese">从来没有人曾经向荆棘树表现出如此的慈爱。</span><span class="english">No one had ever shown such kindness to the thornbush.</span></p>

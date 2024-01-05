@@ -1,5 +1,7 @@
 # tiny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiny.md)
+
 <p><span class="chinese">一握杨柳细腰？</span><span class="english">A tiny waist?</span></p>
 
 <p><span class="chinese">一个小头往外窥视。</span><span class="english">A tiny head peeked out.</span></p>

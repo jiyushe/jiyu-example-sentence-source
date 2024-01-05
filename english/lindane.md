@@ -1,5 +1,7 @@
 # lindane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lindane.md)
+
 <p><span class="chinese">我更希望可以有像林丹这样的体育明星。</span><span class="english">I more hope there can be like lindane such sports stars.</span></p>
 
 <p><span class="chinese">不要使用较多的时间比这林丹已经神经潜力。</span><span class="english">Do not use more often or longer than this as lindane has neurotoxicity potential.</span></p>

@@ -1,5 +1,7 @@
 # 石菖蒲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichangpu.md)
+
 <p><span class="chinese">目的制备石菖蒲双层片。</span><span class="english">Objective To prepare Shichangpu Double Layer Tablets.</span></p>
 
 <p><span class="chinese">由于石菖蒲主要含挥发油成分，故采用GC-MS检测其主要吸收成分。</span><span class="english">Using GC-MS, we detected the main absorbed compound in volatile oil from R. Acori.</span></p>

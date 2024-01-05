@@ -1,5 +1,7 @@
 # 动议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongyi_2.md)
+
 <p><span class="chinese">这项动议已经被搁置起来。</span><span class="english">The motion has been tabled.</span></p>
 
 <p><span class="chinese">该动议获得了迅速通过。</span><span class="english">The motion was shot through.</span></p>

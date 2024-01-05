@@ -1,5 +1,7 @@
 # introduce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/introduce.md)
+
 <p><span class="chinese">让我来介绍一下。</span><span class="english">Let me introduce him.</span></p>
 
 <p><span class="chinese">让我来介绍朱迪。</span><span class="english">Let me introduce Judy.</span></p>

@@ -1,5 +1,7 @@
 # 史诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_5.md)
+
 <p><span class="chinese">外袍是史诗等级！</span><span class="english">Tabard is Epic!</span></p>
 
 <p><span class="chinese">护腕是史诗等级！</span><span class="english">Bracers are Epic!</span></p>

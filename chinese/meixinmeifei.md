@@ -1,5 +1,7 @@
 # 没心没肺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meixinmeifei.md)
+
 <p><span class="chinese">我没心没肺的笑，还有你啊！</span><span class="english">I have to laugh, and you!</span></p>
 
 <p><span class="chinese">没心没肺，活着不累。</span><span class="english">Heartless, living not tired.</span></p>

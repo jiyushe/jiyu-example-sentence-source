@@ -1,5 +1,7 @@
 # 照明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoming.md)
+
 <p><span class="chinese">晚上的照明。</span><span class="english">Illumination at night.</span></p>
 
 <p><span class="chinese">米思照明，成就靓丽生活！</span><span class="english">Myth lighting, bright your life!</span></p>

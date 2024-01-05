@@ -1,5 +1,7 @@
 # brisket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brisket.md)
+
 <p><span class="chinese">胸肉可及肘部。</span><span class="english">Brisket reaching to just below elbows.</span></p>
 
 <p><span class="chinese">用盐和黑胡椒略腌牛肉。</span><span class="english">Season the brisket with the salt and pepper.</span></p>

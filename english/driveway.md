@@ -1,5 +1,7 @@
 # driveway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/driveway.md)
+
 <p><span class="chinese">那车道召唤她。</span><span class="english">The driveway called her.</span></p>
 
 <p><span class="chinese">这辆车在行车道上停着。</span><span class="english">The car idled in the driveway.</span></p>

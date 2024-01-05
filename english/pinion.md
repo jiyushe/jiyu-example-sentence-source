@@ -1,5 +1,7 @@
 # pinion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinion.md)
+
 <p><span class="chinese">驱动小齿轮轴承的端隙。</span><span class="english">End play in drive pinion bearings.</span></p>
 
 <p><span class="chinese">检查传动器驱动齿轮回位。</span><span class="english">Inspect the clutch pinion gear return.</span></p>

@@ -1,5 +1,7 @@
 # geometrically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geometrically.md)
+
 <p><span class="chinese">这一问题让人想起用几何学加以解答。</span><span class="english">The problem can be thought of geometrically.</span></p>
 
 <p><span class="chinese">初期的好日子里，他们的数量以几何级数增加。</span><span class="english">In early, fat times, their numbers grow geometrically.</span></p>

@@ -1,5 +1,7 @@
 # 独苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dumiao.md)
+
 <p><span class="chinese">可我尽管是“独苗苗”，爸爸、妈妈却一点儿不娇惯我。</span><span class="english">Can though I be "only seedling seedling", father, mother aren't some the Jiao spoil me.</span></p>
 
 <p><span class="chinese">徐汉元看到袁清拿自己的独苗要挟自己，渐渐地开始向袁清妥协。</span><span class="english">Xu Hanyuan see Yuan Qing take their only child to coerce, gradually began to Yuan Qing compromise.</span></p>

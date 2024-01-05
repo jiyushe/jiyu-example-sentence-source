@@ -1,5 +1,7 @@
 # 上级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangji.md)
+
 <p><span class="chinese">他是我的老上级。</span><span class="english">He is my old chief.</span></p>
 
 <p><span class="chinese">他是我曩昔的上级。</span><span class="english">He is my sometime boss.</span></p>

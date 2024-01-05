@@ -1,5 +1,7 @@
 # metacarpal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metacarpal.md)
+
 <p><span class="chinese">外固定针固定在2～3掌骨和桡骨干上。</span><span class="english">Fixation pins were placed in the 2 3 metacarpal and radial shaft.</span></p>
 
 <p><span class="chinese">目的探讨外伤性掌骨缺损的显微外科治疗。</span><span class="english">Objective To discuss the treatment of traumatic metacarpal defect.</span></p>

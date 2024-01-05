@@ -1,5 +1,7 @@
 # 人犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renfan.md)
+
 <p><span class="chinese">印度只有看了会让人犯傻的宝莱坞电影拿得出手。</span><span class="english">And here in India, we only have stupid Bollywood.</span></p>
 
 <p><span class="chinese">无知使人犯错，有错当惩前毖后。</span><span class="english">By ignorance we mistake, and by mistake we learn.</span></p>

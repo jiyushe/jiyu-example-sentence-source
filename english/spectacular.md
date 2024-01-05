@@ -1,5 +1,7 @@
 # spectacular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectacular.md)
+
 <p><span class="chinese">乌塞恩是惊人的。</span><span class="english">Usain is spectacular.</span></p>
 
 <p><span class="chinese">这是个宁人叹为观止的地方。</span><span class="english">It was just a spectacular place.</span></p>

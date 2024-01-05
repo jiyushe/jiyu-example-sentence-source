@@ -1,5 +1,7 @@
 # indigenization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indigenization.md)
+
 <p><span class="chinese">中国法制建设应重视法律的本土化问题。</span><span class="english">Indigenization of law should be emphasized in legal construction in China.</span></p>
 
 <p><span class="chinese">这一观点得到了在一些国家和地区非母语英语发生本土化现象的强有力的支持。</span><span class="english">Such a perspective has been strongly supported in some parts of the world by English indigenization.</span></p>

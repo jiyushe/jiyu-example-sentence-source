@@ -1,5 +1,7 @@
 # 装卸工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangxiegong.md)
+
 <p><span class="chinese">我们的装卸工人对装大米很有经验。</span><span class="english">Our stevedores are well experienced in loading rice.</span></p>
 
 <p><span class="chinese">装卸工已经上船了，让我们去看看。</span><span class="english">The stevedores are already on board. Let's go and have a look.</span></p>

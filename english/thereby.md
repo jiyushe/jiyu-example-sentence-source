@@ -1,5 +1,7 @@
 # thereby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thereby.md)
+
 <p><span class="chinese">因为多虑而很少采取行动。</span><span class="english">And thereby seldom taking action.</span></p>
 
 <p><span class="chinese">回也闻一以知十，赐也闻一以知二。</span><span class="english">Hui hears one thing and thereby knows ten.</span></p>

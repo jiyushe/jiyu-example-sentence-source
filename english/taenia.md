@@ -1,5 +1,7 @@
 # taenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taenia.md)
+
 <p><span class="chinese">结论该抗原对猪囊尾蚴病具有很好的免疫保护作用。</span><span class="english">Conclusion 45W-4B antigen of Taenia solium oncosphere induces good immune protection in pigs.</span></p>
 
 <p><span class="chinese">目的研究槟榔南瓜子合剂对猪带绦虫的杀虫机理。</span><span class="english">Objective To study the killing mechanism of decoction of areca and pumpkin seeds on Taenia solium.</span></p>

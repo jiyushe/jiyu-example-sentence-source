@@ -1,5 +1,7 @@
 # bronzing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronzing.md)
+
 <p><span class="chinese">多用途的实用设计，可当成蜜粉或腮红刷使用。</span><span class="english">Can also be used with Sheer Finish Powder, Blush, or Bronzing Powder.</span></p>
 
 <p><span class="chinese">用途本机可用于人造革、布料等的印刷、改色、涂布、烫金等处理。</span><span class="english">Printing, colour changing, laminating, bronzing for PU, PVC, or Fabric.</span></p>

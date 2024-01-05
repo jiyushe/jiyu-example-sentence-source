@@ -1,5 +1,7 @@
 # technology 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technology.md)
+
 <p><span class="chinese">技术就摆在那儿。</span><span class="english">Technology is there.</span></p>
 
 <p><span class="chinese">四要大力开展科技指导服务。</span><span class="english">technology services.</span></p>

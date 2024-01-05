@@ -1,5 +1,7 @@
 # 反之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanzhi.md)
+
 <p><span class="chinese">反之则不公平。</span><span class="english">And if not, it's unjust.</span></p>
 
 <p><span class="chinese">反之，则是冷若冰霜。</span><span class="english">Instead, it is cold-hearted.</span></p>

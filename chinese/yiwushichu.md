@@ -1,5 +1,7 @@
 # 一无是处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwushichu.md)
+
 <p><span class="chinese">初冬就一无是处了吗？</span><span class="english">Early winter on the merit it?</span></p>
 
 <p><span class="chinese">影评家把这部影片贬得一无是处。</span><span class="english">The film was rubbished by the critics.</span></p>

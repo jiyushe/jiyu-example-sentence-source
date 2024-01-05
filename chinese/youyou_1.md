@@ -1,5 +1,7 @@
 # 悠悠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyou_1.md)
+
 <p><span class="chinese">我有一个悠悠球。</span><span class="english">I have a yo-yo.</span></p>
 
 <p><span class="chinese">有多少个悠悠球？</span><span class="english">How many yo-yos?</span></p>

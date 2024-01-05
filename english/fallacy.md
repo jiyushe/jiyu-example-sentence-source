@@ -1,5 +1,7 @@
 # fallacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fallacy.md)
+
 <p><span class="chinese">这完全是个谬论。</span><span class="english">That's a complete fallacy.</span></p>
 
 <p><span class="chinese">这一条迷信也是能够完全破除的。</span><span class="english">This fallacy can also be exploded.</span></p>

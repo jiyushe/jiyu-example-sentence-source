@@ -1,5 +1,7 @@
 # doorpost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doorpost.md)
+
 <p><span class="chinese">我的头碰到了门柱上。</span><span class="english">I knocked my head on the doorpost.</span></p>
 
 <p><span class="chinese">这条阳台门柱上的恒温器？</span><span class="english">The thermostat on the balcony's doorpost?</span></p>

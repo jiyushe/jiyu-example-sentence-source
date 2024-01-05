@@ -1,5 +1,7 @@
 # 物体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuti.md)
+
 <p><span class="chinese">物体移走了</span><span class="english">It's moved.</span></p>
 
 <p><span class="chinese">在动物体上试验。</span><span class="english">Testing in Animals.</span></p>

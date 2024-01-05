@@ -1,5 +1,7 @@
 # 禀告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binggao.md)
+
 <p><span class="chinese">禀告夫人，我看到9527跟他们在一起。</span><span class="english">Madam, I have seen 9527 staying with these thieves.</span></p>
 
 <p><span class="chinese">阿拉丁的妈妈把她儿子的愿望向苏丹王禀告。</span><span class="english">Aladdin's mother told the sultan about her son's wish.</span></p>

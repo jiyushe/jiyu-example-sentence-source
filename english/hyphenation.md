@@ -1,5 +1,7 @@
 # hyphenation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyphenation.md)
+
 <p><span class="chinese">逗号非常难。连字符更是难如登天。</span><span class="english">Commas are hard. Hyphenation nearly impossible.</span></p>
 
 <p><span class="chinese">起始文件的手动断字，每次一行。</span><span class="english">Initiates manual hyphenation of a document, one line at a time.</span></p>

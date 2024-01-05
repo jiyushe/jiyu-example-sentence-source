@@ -1,5 +1,7 @@
 # specie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specie.md)
+
 <p><span class="chinese">通常要求用硬币支付。</span><span class="english">Payments were demanded in specie.</span></p>
 
 <p><span class="chinese">银行体系所持有的金银实际上减少了。</span><span class="english">The specie held by the banking system actually declined.</span></p>

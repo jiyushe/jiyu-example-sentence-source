@@ -1,5 +1,7 @@
 # 石灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihui_1.md)
+
 <p><span class="chinese">石灰可以在许多种土壤中找到。</span><span class="english">Lime exists in many soils.</span></p>
 
 <p><span class="chinese">农民给自己的土地施石灰肥料。</span><span class="english">The farmer limed his land.</span></p>

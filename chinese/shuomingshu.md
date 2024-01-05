@@ -1,5 +1,7 @@
 # 说明书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuomingshu.md)
+
 <p><span class="chinese">会有游戏说明书马？</span><span class="english">Will there be a SoG game manual?</span></p>
 
 <p><span class="chinese">这是这台录影机的说明书。</span><span class="english">Here is the instructions for the VCR.</span></p>

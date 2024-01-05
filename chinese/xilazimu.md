@@ -1,5 +1,7 @@
 # 希腊字母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xilazimu.md)
+
 <p><span class="chinese">其实λ就是希腊字母中的。</span><span class="english">L It is the Greek letter for L.</span></p>
 
 <p><span class="chinese">在大多数化学教材上，也有用希腊字母X表示的。</span><span class="english">But, in most chemistry texts, it's also chi.</span></p>

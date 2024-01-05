@@ -1,5 +1,7 @@
 # stairs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stairs.md)
+
 <p><span class="chinese">盖上新梯子。</span><span class="english">New stairs covering.</span></p>
 
 <p><span class="chinese">根本就没有楼梯！</span><span class="english">There were no stairs.</span></p>

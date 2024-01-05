@@ -1,5 +1,7 @@
 # packet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/packet.md)
+
 <p><span class="chinese">这是一小包混合配料。</span><span class="english">It was a packet mix.</span></p>
 
 <p><span class="chinese">那会花你一大笔钱。</span><span class="english">It'll cost you a packet.</span></p>

@@ -1,5 +1,7 @@
 # accrual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accrual.md)
+
 <p><span class="chinese">权责发生制核算法的一些事实</span><span class="english">Facts About Accrual Accounting Method</span></p>
 
 <p><span class="chinese">权责发生制或应计基础法</span><span class="english">Accrual accounting method or accrual basis</span></p>

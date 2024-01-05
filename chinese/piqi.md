@@ -1,5 +1,7 @@
 # 脾气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piqi.md)
+
 <p><span class="chinese">脾气也会暴躁。</span><span class="english">Tempers could fray.</span></p>
 
 <p><span class="chinese">哇，真是暴脾气。</span><span class="english">Wow, what a temper.</span></p>

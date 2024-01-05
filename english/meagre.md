@@ -1,5 +1,7 @@
 # meagre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meagre.md)
+
 <p><span class="chinese">寥寥数人的拉丁语班背诵时显得无比自豪。</span><span class="english">The meagre Latin class recited with honor.</span></p>
 
 <p><span class="chinese">我眼中，爸爸总是这样，对我的爱如此微少。</span><span class="english">My eyes, dad is always like that, for I love so meagre.</span></p>

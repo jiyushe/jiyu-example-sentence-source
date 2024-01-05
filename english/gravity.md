@@ -1,5 +1,7 @@
 # gravity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravity.md)
+
 <p><span class="chinese">没有重力。</span><span class="english">No gravity.</span></p>
 
 <p><span class="chinese">引力是一个常数。</span><span class="english">Gravity is a constant.</span></p>

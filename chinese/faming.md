@@ -1,5 +1,7 @@
 # 发明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/faming.md)
+
 <p><span class="chinese">那是我的专利发明。</span><span class="english">It's my patent.</span></p>
 
 <p><span class="chinese">汽车在1885年被发明。</span><span class="english">The car in 1885.</span></p>

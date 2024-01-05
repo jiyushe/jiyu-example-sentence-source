@@ -1,5 +1,7 @@
 # 暴乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoluan.md)
+
 <p><span class="chinese">昨晚爆发了一场暴乱。</span><span class="english">A riot irrupted last night.</span></p>
 
 <p><span class="chinese">是一次人民反对自己的暴乱。</span><span class="english">A revolt of the people against itself.</span></p>

@@ -1,5 +1,7 @@
 # judas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judas.md)
+
 <p><span class="chinese">它们像犹大树叶一样碧绿。</span><span class="english">with lizards green as Judas leaves.</span></p>
 
 <p><span class="chinese">卖他的犹大也同他们站在那里。</span><span class="english">And Judas the traitor was standing there with them.</span></p>

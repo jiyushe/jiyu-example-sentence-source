@@ -1,5 +1,7 @@
 # 难分难解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanfennanjie.md)
+
 <p><span class="chinese">那是一场难分难解的比赛。</span><span class="english">It was a close race.</span></p>
 
 <p><span class="chinese">这两头野兽打得难分难解。</span><span class="english">The two animals were locked in a fight.</span></p>

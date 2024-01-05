@@ -1,5 +1,7 @@
 # deli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deli.md)
+
 <p><span class="chinese">又及，请同时查收一些我在便利店找到的巧克力蚂蚁。</span><span class="english">Some chocolate-covered ants I found at the deli.</span></p>
 
 <p><span class="chinese">穿过街道，有一家年夜的意大利熟食店。</span><span class="english">There is a great Italian deli across the street.</span></p>

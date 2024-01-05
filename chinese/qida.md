@@ -1,5 +1,7 @@
 # 七大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qida.md)
+
 <p><span class="chinese">古埃及大金字塔是世界七大奇观之一。</span><span class="english">To assume the shape of a pyramid.</span></p>
 
 <p><span class="chinese">我们常说有七大洲。</span><span class="english">We often speak of seven continents.</span></p>

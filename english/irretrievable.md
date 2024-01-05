@@ -1,5 +1,7 @@
 # irretrievable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irretrievable.md)
+
 <p><span class="chinese">他俩婚姻破裂，已无法和好如初。</span><span class="english">The breakdown of their marriage was irretrievable.</span></p>
 
 <p><span class="chinese">蒋在满洲的败局明明是无法挽回的。</span><span class="english">For Chiang's position in Manchuria was irretrievable.</span></p>

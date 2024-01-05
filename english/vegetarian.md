@@ -1,5 +1,7 @@
 # vegetarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vegetarian.md)
+
 <p><span class="chinese">它是食草动物。</span><span class="english">It is a vegetarian.</span></p>
 
 <p><span class="chinese">我一定要变成了一个素食主义者？</span><span class="english">Do I have to Become a Vegetarian?</span></p>

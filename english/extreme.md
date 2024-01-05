@@ -1,5 +1,7 @@
 # extreme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extreme.md)
+
 <p><span class="chinese">不要走极端。</span><span class="english">Dont' go to extreme.</span></p>
 
 <p><span class="chinese">而且是极端的乌托邦。</span><span class="english">It is a kind of extreme.</span></p>

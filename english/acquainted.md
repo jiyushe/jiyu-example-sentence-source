@@ -1,5 +1,7 @@
 # acquainted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquainted.md)
+
 <p><span class="chinese">我已经和他相熟。</span><span class="english">I am already acquainted with him.</span></p>
 
 <p><span class="chinese">我就是这样和张全认识的。</span><span class="english">He brought me acquainted with her.</span></p>

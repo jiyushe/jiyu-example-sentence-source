@@ -1,5 +1,7 @@
 # 有差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youcha.md)
+
 <p><span class="chinese">你脑子有差池！</span><span class="english">You get out of your mind.</span></p>
 
 <p><span class="chinese">现在，这还是有差别的,我为什么要这么做呢？</span><span class="english">So you can access the values of the specific instance.</span></p>

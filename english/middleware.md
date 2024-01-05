@@ -1,5 +1,7 @@
 # middleware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/middleware.md)
+
 <p><span class="chinese">什么是面向消息的中间件？</span><span class="english">What is message-oriented middleware?</span></p>
 
 <p><span class="chinese">这正是中间件的用武之地。</span><span class="english">And this is where middleware comes in.</span></p>

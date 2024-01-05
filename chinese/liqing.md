@@ -1,5 +1,7 @@
 # 沥青
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liqing.md)
+
 <p><span class="chinese">沥青混凝土路?。</span><span class="english">Asphaltic concrete road?</span></p>
 
 <p><span class="chinese">有沥青的糖果厂?。</span><span class="english">A sweet factory with asphalt?</span></p>

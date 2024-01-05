@@ -1,5 +1,7 @@
 # 助长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhang_1.md)
+
 <p><span class="chinese">那么，是什么助长了升势？</span><span class="english">So what is fueling the surge?</span></p>
 
 <p><span class="chinese">贫穷往往助长犯罪。</span><span class="english">Poverty often encourages crime.</span></p>

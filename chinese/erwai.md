@@ -1,5 +1,7 @@
 # 而外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erwai.md)
+
 <p><span class="chinese">除我而外没有人回答。</span><span class="english">No one replied but me.</span></p>
 
 <p><span class="chinese">品尝由内而外真实的优雅。</span><span class="english">Find our true inner grace.</span></p>

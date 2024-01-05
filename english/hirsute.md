@@ -1,5 +1,7 @@
 # hirsute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hirsute.md)
+
 <p><span class="chinese">花丝筒具长硬毛。</span><span class="english">Filament tube hirsute.</span></p>
 
 <p><span class="chinese">黄葵直立生长，一年生或二年生多毛药草。</span><span class="english">A. moschatus is an erect, annual or biennial, hirsute herb.</span></p>

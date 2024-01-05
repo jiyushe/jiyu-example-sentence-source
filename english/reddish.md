@@ -1,5 +1,7 @@
 # reddish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reddish.md)
+
 <p><span class="chinese">我的狗的毛是红棕色的。</span><span class="english">My dog's hair is reddish brown.</span></p>
 
 <p><span class="chinese">这块玉是赭石色的。</span><span class="english">This jade is reddish brown in colour.</span></p>

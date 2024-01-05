@@ -1,5 +1,7 @@
 # reciprocate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reciprocate.md)
+
 <p><span class="chinese">不过他不会让希尔报答他。</span><span class="english">But he won't let Thiel reciprocate.</span></p>
 
 <p><span class="chinese">总有一天我会报答你对我的恩德。</span><span class="english">Some day I will reciprocate your kindness to me.</span></p>

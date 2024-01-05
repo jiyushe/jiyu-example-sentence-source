@@ -1,5 +1,7 @@
 # relaxant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relaxant.md)
+
 <p><span class="chinese">另一个实验是使得肌肉松弛。</span><span class="english">Another experiment creates a muscle relaxant.</span></p>
 
 <p><span class="chinese">眠尔通还可作为肌肉松驰剂。</span><span class="english">Meprobamate may be used as a muscle relaxant.</span></p>

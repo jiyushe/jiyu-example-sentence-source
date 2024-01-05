@@ -1,5 +1,7 @@
 # familial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/familial.md)
+
 <p><span class="chinese">这张专辑上对家庭的影射就此止步。</span><span class="english">The familial allusion was left off the album.</span></p>
 
 <p><span class="chinese">他给教会里每个人一个熟习的角色。</span><span class="english">Notice everybody in the church has some familial role.</span></p>

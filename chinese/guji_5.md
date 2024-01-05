@@ -1,5 +1,7 @@
 # 痼疾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guji_5.md)
+
 <p><span class="chinese">他身患痼疾，常年缠绵病榻。</span><span class="english">He's bedridden throughout the year with a lingering, obstinate disease.</span></p>
 
 <p><span class="chinese">积之既久，失眠成病，成了折磨我几十年的终生痼疾。</span><span class="english">Losing sleep became insomnia gradually, a chronic disease afflicting me in my life.</span></p>

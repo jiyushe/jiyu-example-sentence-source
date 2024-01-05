@@ -1,5 +1,7 @@
 # tissue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tissue.md)
+
 <p><span class="chinese">说着递给她一张纸巾。</span><span class="english">I hand her a tissue.</span></p>
 
 <p><span class="chinese">拿些面纸来。</span><span class="english">Get some tissue paper.</span></p>

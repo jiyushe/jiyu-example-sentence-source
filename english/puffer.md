@@ -1,5 +1,7 @@
 # puffer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puffer.md)
+
 <p><span class="chinese">河豚鱼有河豚毒素。</span><span class="english">The Puffer fish has Tetrodotoxin.</span></p>
 
 <p><span class="chinese">让我们从这条河豚鱼开始。</span><span class="english">Let's begin with this puffer fish.</span></p>

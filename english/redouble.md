@@ -1,5 +1,7 @@
 # redouble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redouble.md)
+
 <p><span class="chinese">我们还希望为此加倍努力。</span><span class="english">And we wish to redouble our efforts.</span></p>
 
 <p><span class="chinese">为了解救马汉，我们做了最大的努力。</span><span class="english">We redouble our efforts for Manhan's release.</span></p>

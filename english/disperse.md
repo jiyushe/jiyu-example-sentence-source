@@ -1,5 +1,7 @@
 # disperse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disperse.md)
+
 <p><span class="chinese">我不知道雾霾什么时候会散去。</span><span class="english">I have no idea when the haze will disperse.</span></p>
 
 <p><span class="chinese">分散蓝14皂洗变色现象。</span><span class="english">Disperse Blue 14 was observed in this paper.</span></p>

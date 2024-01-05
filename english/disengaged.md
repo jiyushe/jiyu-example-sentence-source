@@ -1,5 +1,7 @@
 # disengaged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disengaged.md)
+
 <p><span class="chinese">他把手臂从她牢牢抓住的手中抽出来。</span><span class="english">He disengaged his arm from her grip.</span></p>
 
 <p><span class="chinese">如果你不喜欢这项事业，你会最终弃之而去。</span><span class="english">If you don't love the cause, you'll end up disengaged.</span></p>

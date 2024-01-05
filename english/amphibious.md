@@ -1,5 +1,7 @@
 # amphibious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amphibious.md)
+
 <p><span class="chinese">两栖坦克T-38.</span><span class="english">The amphibious tank T-38.</span></p>
 
 <p><span class="chinese">这种交通工具是水陆两用的。</span><span class="english">This is an amphibious vehicle.</span></p>

@@ -1,5 +1,7 @@
 # brutish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brutish.md)
+
 <p><span class="chinese">底层社会的人们生活污秽肮脏、粗野鄙陋、一无所有。</span><span class="english">LIFE at the bottom is nasty, brutish and short.</span></p>
 
 <p><span class="chinese">一切迹象都表明了一场难以解决，危害性大，持续时间长的经济萧条的到来。</span><span class="english">All signs point to an economic slump that will be nasty, brutish — and long.</span></p>

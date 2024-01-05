@@ -1,5 +1,7 @@
 # 谢罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezui.md)
+
 <p><span class="chinese">隔了这么久，恐怕连谢罪自谴的有效期也早过了吧？</span><span class="english">With so long a time in between, it is too late even to apologize.</span></p>
 
 <p><span class="chinese">“我知道我应该割腕谢罪，而人们将为此庆祝，”他说道。</span><span class="english">"I know I could slit my wrists and people would cheer, " he says.</span></p>

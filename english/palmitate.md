@@ -1,5 +1,7 @@
 # palmitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palmitate.md)
+
 <p><span class="chinese">本产品包括视黄基棕榈促进肌肤持续生长。</span><span class="english">This product includes Retinyl Palmitate to promote continual rejuvenation.</span></p>
 
 <p><span class="chinese">本文对L-抗坏血酸棕榈酸酯的功能、合成及其应用进行了综述。</span><span class="english">The paper summarizes the role, synthesis process and application of L-ascorbyl palmitate.</span></p>

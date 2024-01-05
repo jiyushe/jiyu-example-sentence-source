@@ -1,5 +1,7 @@
 # meningioma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meningioma.md)
+
 <p><span class="chinese">病变特征与脑膜瘤一致。</span><span class="english">This is consistent with a meningioma.</span></p>
 
 <p><span class="chinese">脑膜瘤的组织发生学还有争论。</span><span class="english">The histogenesis of meningioma is uncertain.</span></p>

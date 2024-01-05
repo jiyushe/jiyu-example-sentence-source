@@ -1,5 +1,7 @@
 # methylamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methylamine.md)
+
 <p><span class="chinese">分析了在甲胺生产过程中，配料的组成、水含量、配比对甲胺生产的影响。</span><span class="english">Influences of feedstock ingredients and ratio, water content on methylamine production were analyzed.</span></p>
 
 <p><span class="chinese">以二氯乙醚、甲胺水溶液和液碱为主要原料合成了N甲基吗啉。</span><span class="english">Methyl morpholine is synthesized starting from dichloroethyl ether and methylamine and sodium hydroxide.</span></p>

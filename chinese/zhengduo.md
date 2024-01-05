@@ -1,5 +1,7 @@
 # 争夺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengduo.md)
+
 <p><span class="chinese">网上发生的任何事都像是一种争夺赛。</span><span class="english">Every thing on-line is a contest.</span></p>
 
 <p><span class="chinese">他们争夺最好的座席。</span><span class="english">They scrambled for the best seats.</span></p>

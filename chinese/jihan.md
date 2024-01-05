@@ -1,5 +1,7 @@
 # 饥寒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jihan.md)
+
 <p><span class="chinese">象狼一样去经受饥寒。</span><span class="english">Go hungry and cold like the wolf.</span></p>
 
 <p><span class="chinese">骄奢淫逸时，我想起过去的饥寒。</span><span class="english">If I overindulge I will think of past hungers.</span></p>

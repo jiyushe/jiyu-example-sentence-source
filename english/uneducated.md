@@ -1,5 +1,7 @@
 # uneducated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uneducated.md)
+
 <p><span class="chinese">她认为那看上去像没受过教育。</span><span class="english">She thought it looked uneducated.</span></p>
 
 <p><span class="chinese">与其说他不聪明，不如说他未受过教育。</span><span class="english">He is not so unintelligent as uneducated.</span></p>

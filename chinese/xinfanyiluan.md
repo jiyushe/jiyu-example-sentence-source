@@ -1,5 +1,7 @@
 # 心烦意乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfanyiluan.md)
+
 <p><span class="chinese">别那么心烦意乱的。</span><span class="english">Don't be so upset.</span></p>
 
 <p><span class="chinese">只能使大家心烦意乱。</span><span class="english">It's just a distraction.</span></p>

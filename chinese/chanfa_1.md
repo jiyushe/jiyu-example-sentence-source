@@ -1,5 +1,7 @@
 # 阐发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanfa_1.md)
+
 <p><span class="chinese">另外一些人还在热衷于阐发观点。</span><span class="english">Others remained keen to make a point.</span></p>
 
 <p><span class="chinese">她通过图画和数字进一步阐发她的话。</span><span class="english">She amplified on her remarks with drawings and figures.</span></p>

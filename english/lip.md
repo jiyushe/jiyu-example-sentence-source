@@ -1,5 +1,7 @@
 # lip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lip.md)
+
 <p><span class="chinese">他咬了一下嘴唇。</span><span class="english">He bit his lip.</span></p>
 
 <p><span class="chinese">你把我嘴唇弄出血了。</span><span class="english">You made my lip bleed.</span></p>

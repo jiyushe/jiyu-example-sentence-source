@@ -1,5 +1,7 @@
 # tizzy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tizzy.md)
+
 <p><span class="chinese">那事使全办公室的人都大为惊讶。</span><span class="english">That put the whole office in a tizzy.</span></p>
 
 <p><span class="chinese">因车发动不了，她心里着急起来。</span><span class="english">She got in a tizzy because the car wouldn't start.</span></p>

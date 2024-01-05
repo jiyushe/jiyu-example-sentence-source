@@ -1,5 +1,7 @@
 # site 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/site.md)
+
 <p><span class="chinese">我是兽行的场地。</span><span class="english">I am a brute site.</span></p>
 
 <p><span class="chinese">现场规划图。</span><span class="english">Site location plan.</span></p>

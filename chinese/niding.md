@@ -1,5 +1,7 @@
 # 拟定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niding.md)
+
 <p><span class="chinese">就我来说，我习惯为未来拟定计划。</span><span class="english">For me, I make plans for the future.</span></p>
 
 <p><span class="chinese">你拟定出最好的工作流程了吗？</span><span class="english">Have you mapped out your best workflow?</span></p>

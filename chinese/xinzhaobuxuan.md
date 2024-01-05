@@ -1,5 +1,7 @@
 # 心照不宣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzhaobuxuan.md)
+
 <p><span class="chinese">你来了！话说尽，心照不宣。</span><span class="english">Thou comest! all is said without a word.</span></p>
 
 <p><span class="chinese">在阿拉巴马州，新法甚至可能会受人们心照不宣的欢迎。</span><span class="english">In Alabama, it might even be tacitly welcome.</span></p>

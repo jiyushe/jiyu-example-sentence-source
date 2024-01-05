@@ -1,5 +1,7 @@
 # 挟带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiedai_1.md)
+
 <p><span class="chinese">山崩挟带下大量的碎岩石。</span><span class="english">A landslide brings down tons of debris.</span></p>
 
 <p><span class="chinese">火车上允许乘客把挟带的自行车放在行李车厢中。</span><span class="english">Trains allow bicycles to be carried in the baggage car.</span></p>

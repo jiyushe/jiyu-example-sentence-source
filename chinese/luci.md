@@ -1,5 +1,7 @@
 # 鸬鹚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luci.md)
+
 <p><span class="chinese">那些鸟是受过训练的鸬鹚。</span><span class="english">The birds are trained cormorants.</span></p>
 
 <p><span class="chinese">图为海湾战争之后，一群在沙特阿拉伯某处水池里痊愈的鸬鹚。</span><span class="english">Cormorants recover in a Saudi pool after the first gulf war.</span></p>

@@ -1,5 +1,7 @@
 # 档案馆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danganguan.md)
+
 <p><span class="chinese">她今天上午去了市档案馆。</span><span class="english">She went to the city archive this morning.</span></p>
 
 <p><span class="chinese">档案馆过去的获奖者和发问。</span><span class="english">Archives of the past winners and questioners.</span></p>

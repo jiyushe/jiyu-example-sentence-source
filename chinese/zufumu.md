@@ -1,5 +1,7 @@
 # 祖父母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zufumu.md)
+
 <p><span class="chinese">我祖父母也住在那里。</span><span class="english">My grandparents live there too.</span></p>
 
 <p><span class="chinese">我的祖父母仍旧健在。</span><span class="english">My grandparents are still living.</span></p>

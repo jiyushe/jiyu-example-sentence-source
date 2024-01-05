@@ -1,5 +1,7 @@
 # scrotal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrotal.md)
+
 <p><span class="chinese">阴囊温度提高会对精子生产有不良影响。</span><span class="english">Increased scrotal temperature can hurt sperm production.</span></p>
 
 <p><span class="chinese">目的确定闭合性阴囊损伤的CT诊断价值。</span><span class="english">Objective Evaluation of CT in the diagnosis of blunt scrotal trauma.</span></p>

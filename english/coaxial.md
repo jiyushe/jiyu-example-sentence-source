@@ -1,5 +1,7 @@
 # coaxial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coaxial.md)
+
 <p><span class="chinese">视频同轴连接器?。</span><span class="english">VCC? Video Coaxial Connector?</span></p>
 
 <p><span class="chinese">下一页描述同轴电缆。</span><span class="english">The next page describes coaxial cable.</span></p>

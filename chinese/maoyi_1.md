@@ -1,5 +1,7 @@
 # 贸易
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoyi_1.md)
+
 <p><span class="chinese">为什么要贸易自由化?</span><span class="english">Why Liberalize Trade?</span></p>
 
 <p><span class="chinese">但是它们之间不进行这样的贸易活动。</span><span class="english">but they're not traded.</span></p>

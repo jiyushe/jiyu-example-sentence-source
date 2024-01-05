@@ -1,5 +1,7 @@
 # 遍览
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianlan_1.md)
+
 <p><span class="chinese">幼小的她勤奋好学，遍览各种经典名著。</span><span class="english">She studied hard when she was young and read many books.</span></p>
 
 <p><span class="chinese">只要遍览下面的动画gif图像集即可。</span><span class="english">Just scroll down to the gallery of animated gif images below.</span></p>

@@ -1,5 +1,7 @@
 # surfeit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surfeit.md)
+
 <p><span class="chinese">暴饮暴食有妨你的健康。</span><span class="english">It's no good for your health to surfeit yourself.</span></p>
 
 <p><span class="chinese">消息出来之后引起了一阵一阵快乐的庆祝的枪声。</span><span class="english">News of its fall induced a surfeit of celebratory gunfire.</span></p>

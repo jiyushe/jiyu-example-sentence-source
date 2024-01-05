@@ -1,5 +1,7 @@
 # 试穿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichuan_1.md)
+
 <p><span class="chinese">试穿这件毛线衣。</span><span class="english">Try this sweater on.</span></p>
 
 <p><span class="chinese">我能试穿一下这件夹克吗？</span><span class="english">Can I try on this jacket?</span></p>

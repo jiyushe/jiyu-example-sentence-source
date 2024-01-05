@@ -1,5 +1,7 @@
 # 营业员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyeyuan.md)
+
 <p><span class="chinese">作为一名营业员，我遇见过各种各样的人。</span><span class="english">As a shop-assistant, I met all kinds of people.</span></p>
 
 <p><span class="chinese">到商店去，找一个漂亮的营业员，跟她聊几句。</span><span class="english">Go into a store and chat to a good-looking clerk</span></p>

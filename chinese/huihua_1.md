@@ -1,5 +1,7 @@
 # 回话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huihua_1.md)
+
 <p><span class="chinese">我等你的回话。</span><span class="english">I'll be waiting for your reply.</span></p>
 
 <p><span class="chinese">你多快能给我回话呢？</span><span class="english">How soon could you get back to me?</span></p>

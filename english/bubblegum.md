@@ -1,5 +1,7 @@
 # bubblegum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bubblegum.md)
+
 <p><span class="chinese">这张CD纯粹是“泡泡糖”流行音乐。</span><span class="english">This CD is pure bubblegum pop.</span></p>
 
 <p><span class="chinese">为什么口香糖过马路了?。</span><span class="english">Why did the bubblegum cross the road?</span></p>

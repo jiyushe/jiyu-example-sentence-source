@@ -1,5 +1,7 @@
 # 地幔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diman.md)
+
 <p><span class="chinese">地幔羽应称为氢羽。</span><span class="english">The mantle plume is really the hydrogen plume.</span></p>
 
 <p><span class="chinese">一个超大陆的形成使地幔绝热。</span><span class="english">The formation of a supercontinent insulates the mantle.</span></p>

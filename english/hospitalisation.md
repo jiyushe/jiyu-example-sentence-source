@@ -1,5 +1,7 @@
 # hospitalisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hospitalisation.md)
+
 <p><span class="chinese">这个数字是正常成年人感染后住院率的4倍。</span><span class="english">That's four times the hospitalisation rate for healthy adults.</span></p>
 
 <p><span class="chinese">体检结果发现72名工人中有68名严重中毒，他们需要住院治疗。</span><span class="english">The tests found 68 out of 72 workers were so badly poisoned they required hospitalisation.</span></p>

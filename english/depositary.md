@@ -1,5 +1,7 @@
 # depositary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depositary.md)
+
 <p><span class="chinese">他们走进那银行的储蓄所，让人家看到了。</span><span class="english">They were seen to enter the depositary of the bank.</span></p>
 
 <p><span class="chinese">这家银行在2000年发生了坍塌，现在只有储藏室还遗留着。</span><span class="english">The bank collapsed in 2000 and now only the depositary is left.</span></p>

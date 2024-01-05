@@ -1,5 +1,7 @@
 # 天马行空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianmaxingkong.md)
+
 <p><span class="chinese">我的想象力还不够天马行空。</span><span class="english">just being creative enough in my imagination.</span></p>
 
 <p><span class="chinese">这个一度天马行空的幻想已然成为事实。</span><span class="english">What was once wild fantasy had become reality.</span></p>

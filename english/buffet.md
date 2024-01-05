@@ -1,5 +1,7 @@
 # buffet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buffet.md)
+
 <p><span class="chinese">避免自助餐。</span><span class="english">Avoid the buffet.</span></p>
 
 <p><span class="chinese">我们发现摆出了一大堆冷餐食物。</span><span class="english">We found a huge buffet laid out.</span></p>

@@ -1,5 +1,7 @@
 # plaintiff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plaintiff.md)
+
 <p><span class="chinese">原告被判给损失赔偿费。</span><span class="english">The plaintiff was awarded damages.</span></p>
 
 <p><span class="chinese">布雷恩为原告作证。</span><span class="english">Brayne testified for the plaintiff.</span></p>

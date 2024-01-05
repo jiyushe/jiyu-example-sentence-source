@@ -1,5 +1,7 @@
 # 离队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lidui.md)
+
 <p><span class="chinese">如今他们离队史上第一枚奥运金牌已经不远了。</span><span class="english">Now they are after a first Olympic medal.</span></p>
 
 <p><span class="chinese">那个士兵未请假离队3个星期。</span><span class="english">The soldier absented himself without leave for three weeks.</span></p>

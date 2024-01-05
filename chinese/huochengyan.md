@@ -1,5 +1,7 @@
 # 火成岩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huochengyan.md)
+
 <p><span class="chinese">该城建立在火成岩与火山灰上。</span><span class="english">It’s built on volcanic rock and ash.</span></p>
 
 <p><span class="chinese">黄晶通常产于火成岩岩石纹。</span><span class="english">Topaz occurs in the igneous rock rhyolite.</span></p>

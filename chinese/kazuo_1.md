@@ -1,5 +1,7 @@
 # 咔唑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kazuo_1.md)
+
 <p><span class="chinese">介绍了咔唑紫商品化处理的一种方法。</span><span class="english">A treatment method for carbazole violet commercialization is presented.</span></p>
 
 <p><span class="chinese">用不同的方法合成了八种N-取代咔唑。</span><span class="english">Eight N-substituted carbazole compounds had been synthesized by different methods.</span></p>

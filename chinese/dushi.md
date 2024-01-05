@@ -1,5 +1,7 @@
 # 都市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dushi.md)
+
 <p><span class="chinese">这正是都市的午茶时光。</span><span class="english">It is teatime in the city.</span></p>
 
 <p><span class="chinese">但是，都市生活真的很好吗？</span><span class="english">But is the city life perfect?</span></p>

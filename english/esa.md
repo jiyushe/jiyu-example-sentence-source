@@ -1,5 +1,7 @@
 # esa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esa.md)
+
 <p><span class="chinese">你看的那本杂志我不喜欢。</span><span class="english">Esa revista que lees no me gusta.</span></p>
 
 <p><span class="chinese">照片由斯蒂芬妮·考娃雅，欧空局</span><span class="english">Photograph by Stephanie Corvaja, ESA</span></p>

@@ -1,5 +1,7 @@
 # 住宅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhai.md)
+
 <p><span class="chinese">这栋房子便是姚家的住宅。</span><span class="english">This was the Yao house.</span></p>
 
 <p><span class="chinese">住宅才是关键所在。</span><span class="english">Housing is the key driver.</span></p>

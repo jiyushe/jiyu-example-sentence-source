@@ -1,5 +1,7 @@
 # ware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ware.md)
+
 <p><span class="chinese">喇嘛教？莫非又是藏器。</span><span class="english">Lamaism ?Is it Tibetan ware?</span></p>
 
 <p><span class="chinese">货好销得快。</span><span class="english">Good ware makes quick markets.</span></p>

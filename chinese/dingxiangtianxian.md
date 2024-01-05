@@ -1,5 +1,7 @@
 # 定向天线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingxiangtianxian.md)
+
 <p><span class="chinese">我用的是三波段五单元定向天线。</span><span class="english">I am using a three-band five-element beam.</span></p>
 
 <p><span class="chinese">自己动手做2.4G无线网络定向天线！</span><span class="english">Do-It-Yourself 2.4G wireless networks to do directional antenna!</span></p>

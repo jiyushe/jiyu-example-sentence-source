@@ -1,5 +1,7 @@
 # maurice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maurice.md)
+
 <p><span class="chinese">莫里斯脸上露出了邪恶的奸笑。</span><span class="english">Maurice gave a satanic smile.</span></p>
 
 <p><span class="chinese">莫里斯.史密斯负责筹集竞选资金。</span><span class="english">Maurice Smith raised the money.</span></p>

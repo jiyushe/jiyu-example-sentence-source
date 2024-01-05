@@ -1,5 +1,7 @@
 # dignitary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dignitary.md)
+
 <p><span class="chinese">我在昨晚一个接待重要外宾的宴会里，觉得很不适应。</span><span class="english">I feel very much out-of-place in last night's reception for a foreign dignitary.</span></p>
 
 <p><span class="chinese">中国高官坐美国产飞机来，巴基斯坦用中国产飞机去接。</span><span class="english">Chinese dignitary comes in American made plane. Pakistan receives him with Chinese aircraft.</span></p>

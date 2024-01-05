@@ -1,5 +1,7 @@
 # 镶边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangbian.md)
+
 <p><span class="chinese">人造毛皮镶边的按钮关闭。</span><span class="english">Button off faux fur trim.</span></p>
 
 <p><span class="chinese">懒散麂皮镶边的牛仔桶形状。</span><span class="english">Slouchy denim bucket shape with suede trim.</span></p>

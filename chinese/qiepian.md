@@ -1,5 +1,7 @@
 # 切片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiepian.md)
+
 <p><span class="chinese">切片器是成员集。</span><span class="english">Slicers are member sets.</span></p>
 
 <p><span class="chinese">这就是所谓的切片。</span><span class="english">This is called sectioning.</span></p>

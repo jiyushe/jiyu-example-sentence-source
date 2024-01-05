@@ -1,5 +1,7 @@
 # 习惯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiguan.md)
+
 <p><span class="chinese">改变一个习惯。</span><span class="english">Change one habit.</span></p>
 
 <p><span class="chinese">保持良好的卫生习惯。</span><span class="english">Have good hygiene.</span></p>

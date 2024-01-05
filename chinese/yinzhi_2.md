@@ -1,5 +1,7 @@
 # 音质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzhi_2.md)
+
 <p><span class="chinese">崁入式音质调整钮。</span><span class="english">Hiding knob of tone adjustment.</span></p>
 
 <p><span class="chinese">是立体声，可惜音质麻麻。</span><span class="english">Is it mono sound or stereo sound?</span></p>

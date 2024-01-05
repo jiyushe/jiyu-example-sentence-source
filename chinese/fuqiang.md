@@ -1,5 +1,7 @@
 # 腹腔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuqiang.md)
+
 <p><span class="chinese">我们应该筛查腹腔疾病吗？</span><span class="english">Should we screen for coeliac disease?</span></p>
 
 <p><span class="chinese">患有腹腔疾病的人不能消化面筋。</span><span class="english">People with celiac disease cannot process gluten.</span></p>

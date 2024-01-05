@@ -1,5 +1,7 @@
 # persistency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persistency.md)
+
 <p><span class="chinese">我被她的固执惹恼了。</span><span class="english">I was nettled by her persistency.</span></p>
 
 <p><span class="chinese">我们应坚持和发扬坚忍不拔的传统。</span><span class="english">We should stick to and develop the heritage of persistency.</span></p>

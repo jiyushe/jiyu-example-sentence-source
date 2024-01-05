@@ -1,5 +1,7 @@
 # 庞然大物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangrandawu.md)
+
 <p><span class="chinese">突然，火车庞然大物般地驶进了火车站。</span><span class="english">Suddenly a train hulked up into the station.</span></p>
 
 <p><span class="chinese">但是，这样一个庞然大物的出现通常是一种错觉。</span><span class="english">But the existence of such a beast is often an illusion.</span></p>

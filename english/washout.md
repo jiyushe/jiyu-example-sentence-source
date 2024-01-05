@@ -1,5 +1,7 @@
 # washout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washout.md)
+
 <p><span class="chinese">优良的抗水冲刷。</span><span class="english">Excellent resistance to water washout.</span></p>
 
 <p><span class="chinese">她很难过地意识到自己是滑冰生涯的失败者。</span><span class="english">She was very upset to realize that her skating career was a washout.</span></p>

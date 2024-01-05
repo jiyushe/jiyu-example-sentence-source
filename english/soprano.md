@@ -1,5 +1,7 @@
 # soprano
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soprano.md)
+
 <p><span class="chinese">我的声部是女高音。</span><span class="english">My part is soprano.</span></p>
 
 <p><span class="chinese">托尼瑟普拉诺死了嘛?</span><span class="english">Did Tony Soprano die?</span></p>

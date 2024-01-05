@@ -1,5 +1,7 @@
 # self
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/self.md)
+
 <p><span class="chinese">是私心。</span><span class="english">It is self.</span></p>
 
 <p><span class="chinese">那是自卫。</span><span class="english">That's self defense.</span></p>

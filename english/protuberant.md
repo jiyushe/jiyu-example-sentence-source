@@ -1,5 +1,7 @@
 # protuberant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protuberant.md)
+
 <p><span class="chinese">卢娜那双向外突出的眼睛惊讶地转向了他。</span><span class="english">Luna turned her protuberant eyes upon him in surprise.</span></p>
 
 <p><span class="chinese">脸上起了，小红点点，没有突起，不痒，是什么原因？</span><span class="english">Rose on the face, little red place, not protuberant , not urticant, what reason be?</span></p>

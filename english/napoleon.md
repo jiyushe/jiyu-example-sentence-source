@@ -1,5 +1,7 @@
 # napoleon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/napoleon.md)
+
 <p><span class="chinese">拿破仑和龙。</span><span class="english">Napoleon with dragons.</span></p>
 
 <p><span class="chinese">我怎么变成拿破仑的？</span><span class="english">How did I become Napoleon?</span></p>

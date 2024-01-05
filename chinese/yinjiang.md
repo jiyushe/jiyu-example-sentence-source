@@ -1,5 +1,7 @@
 # 银匠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinjiang.md)
+
 <p><span class="chinese">杰出的银匠朱碧山的作品。</span><span class="english">This is the work of Zhu Bishan.</span></p>
 
 <p><span class="chinese">他跟银匠师傅拜师学艺。</span><span class="english">He was apprenticed to a master silversmith.</span></p>

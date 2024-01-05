@@ -1,5 +1,7 @@
 # context
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/context.md)
+
 <p><span class="chinese">修改上下文根。</span><span class="english">Modification of context root.</span></p>
 
 <p><span class="chinese">请试著从上下文猜测字义。</span><span class="english">Try to guess from the context.</span></p>

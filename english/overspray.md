@@ -1,5 +1,7 @@
 # overspray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overspray.md)
+
 <p><span class="chinese">过量喷漆需符合规定的粘合测试。</span><span class="english">Overspray shall conform to the specified adhesion tests.</span></p>
 
 <p><span class="chinese">这种方式，耦合液可以比较均匀散布在探轮之前，不致过多。</span><span class="english">This will apply more couplant in front of the wheel with less overspray.</span></p>

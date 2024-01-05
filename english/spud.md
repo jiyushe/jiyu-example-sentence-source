@@ -1,5 +1,7 @@
 # spud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spud.md)
+
 <p><span class="chinese">很好的逻辑嘛。</span><span class="english">Great logic from a spud.</span></p>
 
 <p><span class="chinese">我们开钻的时间到了。</span><span class="english">It's time for us to spud in.</span></p>

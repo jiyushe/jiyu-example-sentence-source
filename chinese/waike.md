@@ -1,5 +1,7 @@
 # 外科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waike.md)
+
 <p><span class="chinese">所以，她成了外科医生。</span><span class="english">So, she became a surgeon.</span></p>
 
 <p><span class="chinese">他住在外科病房。</span><span class="english">He is in the surgical ward.</span></p>

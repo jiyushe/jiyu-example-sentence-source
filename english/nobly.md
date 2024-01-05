@@ -1,5 +1,7 @@
 # nobly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nobly.md)
+
 <p><span class="chinese">如果我们终会死去，让我们死得高贵。</span><span class="english">If we must die, O let us nobly die.</span></p>
 
 <p><span class="chinese">他崇高的工作是为了和平事业。</span><span class="english">He worked nobly for the cause of peace.</span></p>

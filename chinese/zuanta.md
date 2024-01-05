@@ -1,5 +1,7 @@
 # 钻塔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuanta.md)
+
 <p><span class="chinese">妈妈说你在石油钻塔干活？</span><span class="english">Mom said you got a job on an oil rigger?</span></p>
 
 <p><span class="chinese">德拉赞一伙所乘坐的客货两用车停在了一处油田上，附近是一个石油钻塔。</span><span class="english">The Drazen van pulls up to a field with an oil rig.</span></p>

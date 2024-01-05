@@ -1,5 +1,7 @@
 # cardiff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardiff.md)
+
 <p><span class="chinese">卡尔地夫在伦敦的西边。</span><span class="english">Cardiff is to the west of London.</span></p>
 
 <p><span class="chinese">我叫安鸠·斯皮蒂，出生在英国加的夫。</span><span class="english">And I am Andrew Speedy, of cardiff.</span></p>

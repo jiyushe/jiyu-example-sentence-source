@@ -1,5 +1,7 @@
 # 孵化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuhua.md)
+
 <p><span class="chinese">野鸭孵化出的小天鹅</span><span class="english">A cygnet is hovered by a duck.</span></p>
 
 <p><span class="chinese">蝌蚪从卵中孵化出来。</span><span class="english">The tadpole hatches from the egg.</span></p>

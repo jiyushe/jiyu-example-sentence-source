@@ -1,5 +1,7 @@
 # 感人至深
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganrenzhishen.md)
+
 <p><span class="chinese">唱起歌来或是感人至深，或是十分轻快。</span><span class="english">The music could be deeply moving or very lively.</span></p>
 
 <p><span class="chinese">这封感人至深的书信，现已来到最后一章。</span><span class="english">This is the last chapter of a deeply moving letter.</span></p>

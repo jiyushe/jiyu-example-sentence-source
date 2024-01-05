@@ -1,5 +1,7 @@
 # soften
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soften.md)
+
 <p><span class="chinese">时间缓解一切哀痛。</span><span class="english">Time soften all griefs.</span></p>
 
 <p><span class="chinese">爱使冷硬的心变软。</span><span class="english">Love soften the icy hearts.</span></p>

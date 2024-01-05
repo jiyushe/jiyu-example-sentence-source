@@ -1,5 +1,7 @@
 # bereavement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bereavement.md)
+
 <p><span class="chinese">另一项研究显示狒狒能解忧。</span><span class="english">Another showed bereavement in baboons.</span></p>
 
 <p><span class="chinese">我们对你丧亲之痛表示同情。</span><span class="english">We all sympathize with you in your bereavement.</span></p>

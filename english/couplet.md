@@ -1,5 +1,7 @@
 # couplet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/couplet.md)
+
 <p><span class="chinese">撒谎那个脸，送一幅对联。</span><span class="english">Lie that the face, sending a couplet.</span></p>
 
 <p><span class="chinese">他灵光一动，一副对联就这样出来了。</span><span class="english">He Emmanuel a move, so out of a couplet.</span></p>

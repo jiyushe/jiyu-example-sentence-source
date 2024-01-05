@@ -1,5 +1,7 @@
 # hobbyist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hobbyist.md)
+
 <p><span class="chinese">对于玩的爱好者来说什么是一个安全的细菌？</span><span class="english">What is a safe bacterium for a hobbyist to play with?</span></p>
 
 <p><span class="chinese">这类型的网页要比兴趣爱好网和专业网站的范围大得多了。</span><span class="english">This is much bigger than the hobbyist web or the professional web.</span></p>

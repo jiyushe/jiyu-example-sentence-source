@@ -1,5 +1,7 @@
 # cornflower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornflower.md)
+
 <p><span class="chinese">蓝如矢车菊，如青钢，如冰蓝花。</span><span class="english">Cornflower blue, steel blue, ice blue.</span></p>
 
 <p><span class="chinese">太阳照耀着藏蓝色的天空。</span><span class="english">The sun shone out of a cornflower blue sky.</span></p>

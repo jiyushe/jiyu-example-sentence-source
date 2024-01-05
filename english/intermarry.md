@@ -1,5 +1,7 @@
 # intermarry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermarry.md)
+
 <p><span class="chinese">他们的成员互通婚姻，融合信仰与传统。</span><span class="english">Their members intermarry and combine beliefs and traditions.</span></p>
 
 <p><span class="chinese">他们未被禁止与当地人通婚。</span><span class="english">They were not forbidden to intermarry with the local people.</span></p>

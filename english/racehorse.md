@@ -1,5 +1,7 @@
 # racehorse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racehorse.md)
+
 <p><span class="chinese">我原来一直想的是投资赛马。</span><span class="english">I had been thinking about a racehorse.</span></p>
 
 <p><span class="chinese">一一是一只赛马，二二也是一只赛马。</span><span class="english">One-One was a racehorse. Two-Two was one, too.</span></p>

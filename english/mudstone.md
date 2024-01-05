@@ -1,5 +1,7 @@
 # mudstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mudstone.md)
+
 <p><span class="chinese">此泥岩提供了有效的封闭。</span><span class="english">The mudstone provide on effective seal.</span></p>
 
 <p><span class="chinese">盖层为湖相泥岩和含膏泥岩。</span><span class="english">The cap rocks are lacustrine mudstone and gypsiferous.</span></p>

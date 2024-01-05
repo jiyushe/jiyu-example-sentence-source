@@ -1,5 +1,7 @@
 # commerce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commerce.md)
+
 <p><span class="chinese">我主修商业专业。</span><span class="english">I majored in commerce.</span></p>
 
 <p><span class="chinese">他从事商业。</span><span class="english">He is engaged in commerce.</span></p>

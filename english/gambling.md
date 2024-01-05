@@ -1,5 +1,7 @@
 # gambling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gambling.md)
+
 <p><span class="chinese">她喜欢赌博.</span><span class="english">She likes gambling.</span></p>
 
 <p><span class="chinese">他堕落是因为好赌。</span><span class="english">Gambling was his ruin.</span></p>

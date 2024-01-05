@@ -1,5 +1,7 @@
 # 响度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangdu.md)
+
 <p><span class="chinese">莱昂内尔颤抖的频率和梅金话音的响度有一拼。</span><span class="english">Lionel shuddered as the sounds got louder and louder.</span></p>
 
 <p><span class="chinese">这个模型认为，响度对数的辨别阈不随信号强度变化。</span><span class="english">According to the model, limen of logarithm loudness is independent of intensity.</span></p>

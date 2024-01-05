@@ -1,5 +1,7 @@
 # 理事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lishi_3.md)
+
 <p><span class="chinese">中国长号大号协会理事。</span><span class="english">China trombone tuba Association.</span></p>
 
 <p><span class="chinese">但当天晚些时候，学校董事会理事投票决定解雇他。</span><span class="english">But later in the day the trustees voted to fire him.</span></p>

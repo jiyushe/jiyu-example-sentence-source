@@ -1,5 +1,7 @@
 # canine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canine.md)
+
 <p><span class="chinese">这真是一只酷狗！</span><span class="english">And this is one cool canine.</span></p>
 
 <p><span class="chinese">犬血涂片，嗜酸性粒细胞</span><span class="english">Canine blood smear, eosinophil</span></p>

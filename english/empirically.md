@@ -1,5 +1,7 @@
 # empirically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empirically.md)
+
 <p><span class="chinese">如果你想一下，那这经验性地是真的。</span><span class="english">And if you think about it, that is empirically true.</span></p>
 
 <p><span class="chinese">第二部分为上市公司财务会计报告欺诈的现状研究。</span><span class="english">Part two is to analyze financial reporting fraud of listed company empirically.</span></p>

@@ -1,5 +1,7 @@
 # sister 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sister_1.md)
+
 <p><span class="chinese">他的长姐。</span><span class="english">His older sister.</span></p>
 
 <p><span class="chinese">还有我的小妹。</span><span class="english">My little sister.</span></p>

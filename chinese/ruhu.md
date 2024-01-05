@@ -1,5 +1,7 @@
 # 入户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruhu.md)
+
 <p><span class="chinese">如果发生入户盗窃就给警方打电话。</span><span class="english">Ring the police if there is a burglary.</span></p>
 
 <p><span class="chinese">结论入户调查仍有一定困难。</span><span class="english">Conclusion In-home survey is rather difficult to conduct.</span></p>

@@ -1,5 +1,7 @@
 # bennett
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bennett.md)
+
 <p><span class="chinese">我喜欢他。杰夫.班纳特？</span><span class="english">I like him.Jeff Bennett.</span></p>
 
 <p><span class="chinese">亨德森咱们不防到贝特大街去。</span><span class="english">HENDERSON We could go over to Bennett Avenue.</span></p>

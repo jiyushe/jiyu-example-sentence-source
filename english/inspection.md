@@ -1,5 +1,7 @@
 # inspection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inspection.md)
+
 <p><span class="chinese">谢绝参观。</span><span class="english">Inspection declined.</span></p>
 
 <p><span class="chinese">检查门在筒仓屋顶。</span><span class="english">Inspection door on silo roof.</span></p>

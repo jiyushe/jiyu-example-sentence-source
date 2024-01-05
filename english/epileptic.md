@@ -1,5 +1,7 @@
 # epileptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epileptic.md)
+
 <p><span class="chinese">葆拉从没见过有人癫痫发作。</span><span class="english">Paula had never seen an epileptic seizure.</span></p>
 
 <p><span class="chinese">儿子癫痫一发作，全身就出血点。</span><span class="english">Epileptic son of an attack on the systemic bleeding.</span></p>

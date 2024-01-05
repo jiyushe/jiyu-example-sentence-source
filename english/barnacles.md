@@ -1,5 +1,7 @@
 # barnacles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barnacles.md)
+
 <p><span class="chinese">为什么附着甲壳动物和帽贝粘附在岩石上？</span><span class="english">Why do barnacles and limpets stick themselves to rocks?</span></p>
 
 <p><span class="chinese">他写了不少对以后发展有很大影响的书，关于兰花的，昆虫的，藤壶的以及珊瑚的。</span><span class="english">He wrote seminal books on orchids, insects, barnacles and corals.</span></p>

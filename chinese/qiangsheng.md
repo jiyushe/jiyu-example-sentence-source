@@ -1,5 +1,7 @@
 # 强盛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangsheng.md)
+
 <p><span class="chinese">妳们的王国将是强盛的。</span><span class="english">Thine Empire shall be strong.</span></p>
 
 <p><span class="chinese">他既强盛，就心高气傲。</span><span class="english">But when he became powerful, his heart became proud.</span></p>

@@ -1,5 +1,7 @@
 # 橡皮艇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpiting.md)
+
 <p><span class="chinese">套装包括消防船及橡皮艇！</span><span class="english">Set includes Fire Ship and dinghy!</span></p>
 
 <p><span class="chinese">他们用橡皮艇蓄积雨水。</span><span class="english">The men collected rain-water in the rubber dinghy.</span></p>

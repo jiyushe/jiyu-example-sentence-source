@@ -1,5 +1,7 @@
 # 东风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongfeng.md)
+
 <p><span class="chinese">似乎万事俱备只欠东风了。</span><span class="english">Everything seemed ready.</span></p>
 
 <p><span class="chinese">风由北风转成了东风。</span><span class="english">Is the wind north or south?</span></p>

@@ -1,5 +1,7 @@
 # 跑马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoma.md)
+
 <p><span class="chinese">他在跑马中赢了500美元。</span><span class="english">He won a monkey at the horse races.</span></p>
 
 <p><span class="chinese">乔柏斯太太想看看跑马比赛的结果。</span><span class="english">Mrs. Chambers wants to see the racing results.</span></p>

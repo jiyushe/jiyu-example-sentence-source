@@ -1,5 +1,7 @@
 # repose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repose.md)
+
 <p><span class="chinese">这就是安静时的rock先生。</span><span class="english">This is Mr. Rock in repose.</span></p>
 
 <p><span class="chinese">给他挣来了一夜的酣畅。</span><span class="english">Has as earned a night's repose.</span></p>

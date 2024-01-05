@@ -1,5 +1,7 @@
 # carcinosarcoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carcinosarcoma.md)
+
 <p><span class="chinese">探讨肾脏癌肉瘤的诊断和治疗。</span><span class="english">Three cases of renal carcinosarcoma were reviewed.</span></p>
 
 <p><span class="chinese">我们为病人实施了部份膀胱切除术，病理检验证实为癌肉瘤。</span><span class="english">Partial cystectomy was performed. Pathology proved it to be a carcinosarcoma.</span></p>

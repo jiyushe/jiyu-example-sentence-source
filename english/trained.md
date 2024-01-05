@@ -1,5 +1,7 @@
 # trained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trained.md)
+
 <p><span class="chinese">我乘火车到伦敦。</span><span class="english">I trained to London.</span></p>
 
 <p><span class="chinese">我训练，努力地训练。</span><span class="english">I trained. I trained hard.</span></p>

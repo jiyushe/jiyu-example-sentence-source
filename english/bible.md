@@ -1,5 +1,7 @@
 # bible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bible.md)
+
 <p><span class="chinese">为圣经展开的争战。</span><span class="english">The Battle for the Bible.</span></p>
 
 <p><span class="chinese">我圣经读得够多够好了吗？</span><span class="english">Did I read my Bible enough?</span></p>

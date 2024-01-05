@@ -1,5 +1,7 @@
 # 桃红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taohong.md)
+
 <p><span class="chinese">酒窖可酿造白葡萄酒、桃红葡萄酒和红葡萄酒。</span><span class="english">The bodega makes white, rosé, and red wines.</span></p>
 
 <p><span class="chinese">颜色的花朵是光明的，樱桃红。</span><span class="english">The color of the blooms is bright, cherry red.</span></p>

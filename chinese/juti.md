@@ -1,5 +1,7 @@
 # 具体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juti.md)
+
 <p><span class="chinese">好，由你定个具体日子吧。</span><span class="english">Ok, you name the day.</span></p>
 
 <p><span class="chinese">您要到的具体地址是什么？</span><span class="english">What is your address?</span></p>

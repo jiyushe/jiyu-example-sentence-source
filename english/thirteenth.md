@@ -1,5 +1,7 @@
 # thirteenth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thirteenth.md)
+
 <p><span class="chinese">车赛中她拿了第十三名。</span><span class="english">She came thirteenth in the car race.</span></p>
 
 <p><span class="chinese">美国宪法第13修订案废除了奴隶制。</span><span class="english">The addition of the Thirteenth Amendment ended slavery.</span></p>

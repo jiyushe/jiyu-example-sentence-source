@@ -1,5 +1,7 @@
 # radiobiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiobiology.md)
+
 <p><span class="chinese">过去十年已经看到分子辐射生物迅猛发展。</span><span class="english">The past decade has witnessed an almost explosive growth of molecular radiobiology.</span></p>
 
 <p><span class="chinese">线性二次模型是放射生物学应用于临床放射治疗的最大贡献。</span><span class="english">Linear quadratic model is one of the most important recent developments in radiobiology applied to radiotherapy.</span></p>

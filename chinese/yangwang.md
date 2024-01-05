@@ -1,5 +1,7 @@
 # 仰望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangwang.md)
+
 <p><span class="chinese">椰城仰望蓝天。</span><span class="english">Ocean′s blue, united the sky.</span></p>
 
 <p><span class="chinese">抬头仰望，满眼都是鲜润的蔚蓝色。</span><span class="english">Looked up, the eyeful are blue.</span></p>

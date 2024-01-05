@@ -1,5 +1,7 @@
 # 顽石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanshi_2.md)
+
 <p><span class="chinese">我踩上了沙子又踏上了顽石</span><span class="english">i stepped on sand then stone</span></p>
 
 <p><span class="chinese">我的足同走过的顽石倾谈。</span><span class="english">My foot talks with the stones it treads.</span></p>

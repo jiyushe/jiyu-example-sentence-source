@@ -1,5 +1,7 @@
 # 辖制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazhi_2.md)
+
 <p><span class="chinese">辖制他们的人呼叫，我的名整天受亵渎。</span><span class="english">And all day long my name is constantly blasphemed.</span></p>
 
 <p><span class="chinese">执政掌权的用何法辖制我们?。</span><span class="english">What do the principalities and powers use to enslave us?</span></p>

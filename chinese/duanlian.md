@@ -1,5 +1,7 @@
 # 锻炼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanlian.md)
+
 <p><span class="chinese">锻炼你的爱犬。</span><span class="english">Exercise your dog.</span></p>
 
 <p><span class="chinese">你经常锻炼身体吗？</span><span class="english">Do you often exercise?</span></p>

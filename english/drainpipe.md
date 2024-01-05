@@ -1,5 +1,7 @@
 # drainpipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drainpipe.md)
+
 <p><span class="chinese">雨水积聚在排水道里。</span><span class="english">Rain water collected in the drainpipe.</span></p>
 
 <p><span class="chinese">下水管被垃圾堵住。</span><span class="english">The drainpipe is choked up with rubbish.</span></p>

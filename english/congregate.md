@@ -1,5 +1,7 @@
 # congregate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congregate.md)
+
 <p><span class="chinese">大象可以聚集在这儿，或者到室外的活动场活动。</span><span class="english">The elephants can congregate here, or out in the adjacent paddocks.</span></p>
 
 <p><span class="chinese">一群孩子雀跃着玩耍时，卡莉不会参与进去。</span><span class="english">When groups of children congregate to play, Callie does not join them.</span></p>

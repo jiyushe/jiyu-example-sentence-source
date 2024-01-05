@@ -1,5 +1,7 @@
 # outdoorsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outdoorsy.md)
+
 <p><span class="chinese">她真是一个户外运动的热衷者。</span><span class="english">She's a real outdoorsy type.</span></p>
 
 <p><span class="chinese">他是一个喜爱户外活动类型的人。</span><span class="english">He is an outdoorsy type of person.</span></p>

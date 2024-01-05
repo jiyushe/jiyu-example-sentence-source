@@ -1,5 +1,7 @@
 # paperweight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paperweight.md)
+
 <p><span class="chinese">他的眼光落到了玻璃镇纸的碎片上。</span><span class="english">His eye fell on the fragments of the glass paperweight.</span></p>
 
 <p><span class="chinese">等一下，你以前有每次都看清楚书镇吗?。</span><span class="english">Wait, have you every really looked at a paperweight before?</span></p>

@@ -1,5 +1,7 @@
 # plagioclase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plagioclase.md)
+
 <p><span class="chinese">而且酸性斜长石也常呈肉红色。</span><span class="english">But also often acid plagioclase was red meat.</span></p>
 
 <p><span class="chinese">斜长石广泛出现在各类岩浆岩中。</span><span class="english">Plagioclase widely appear in all kinds of magmatite in.</span></p>

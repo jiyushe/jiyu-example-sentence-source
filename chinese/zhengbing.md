@@ -1,5 +1,7 @@
 # 征兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengbing.md)
+
 <p><span class="chinese">如果他首次担任国防部长，他必将恢复征兵服役。</span><span class="english">His first act as secretary? Reinstating the draft.</span></p>
 
 <p><span class="chinese">10月30日那天，征兵委员会把我重新登记为1-A类。</span><span class="english">On October 30, the draft board reclassified me 1-A.</span></p>

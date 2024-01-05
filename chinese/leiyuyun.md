@@ -1,5 +1,7 @@
 # 雷雨云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiyuyun.md)
+
 <p><span class="chinese">当雷雨云笼罩了风筝之后。</span><span class="english">When a thundercloud comes over the kite.</span></p>
 
 <p><span class="chinese">请求上升高度层，因雷雨云和颠簸。</span><span class="english">Request higher level due to CB and turbulence.</span></p>

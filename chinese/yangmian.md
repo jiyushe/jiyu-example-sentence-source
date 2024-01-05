@@ -1,5 +1,7 @@
 # 洋面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangmian.md)
+
 <p><span class="chinese">暴风雨会掠过洋面，堆起大浪。</span><span class="english">Storms sweep across it and pile up great waves.</span></p>
 
 <p><span class="chinese">海洋一号A卫星水色扫描仪探测的目标主要是海洋的洋面。</span><span class="english">The main detect object of COCTS on HY-1A Satellite is ocean surface.</span></p>

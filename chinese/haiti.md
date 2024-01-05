@@ -1,5 +1,7 @@
 # 孩提
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiti.md)
+
 <p><span class="chinese">您孩提时代的乳名是什么？</span><span class="english">What was your childhood nickname?</span></p>
 
 <p><span class="chinese">我在孩提时常常养羊。</span><span class="english">I used to keep sheep in my childhood.</span></p>

@@ -1,5 +1,7 @@
 # 本条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bentiao.md)
+
 <p><span class="chinese">本条不影响决定原则的适用</span><span class="english">Determination of application of doctrine not affected</span></p>
 
 <p><span class="chinese">本条之规定不适用于任何转口货品。</span><span class="english">This section shall not apply to any goods in transit.</span></p>

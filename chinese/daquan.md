@@ -1,5 +1,7 @@
 # 打拳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daquan.md)
+
 <p><span class="chinese">你会打拳吗?。</span><span class="english">Know Boxing?</span></p>
 
 <p><span class="chinese">噢，你是说打拳。</span><span class="english">Oh, you are talking shadow boxing.</span></p>

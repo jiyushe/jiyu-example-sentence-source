@@ -1,5 +1,7 @@
 # 卫生设备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishengshebei.md)
+
 <p><span class="chinese">他们不能上厕所，也没有其他卫生设备。</span><span class="english">They have no access to toilets or sanitary facilities.</span></p>
 
 <p><span class="chinese">在该项工程中我们分包了卫生设备的承建。</span><span class="english">We subcontracted  for sanitary-plumbing equipment in the project.</span></p>

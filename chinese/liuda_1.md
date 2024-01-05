@@ -1,5 +1,7 @@
 # 溜达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuda_1.md)
+
 <p><span class="chinese">他沿路溜溜达达地来了。</span><span class="english">He came ambling down the road.</span></p>
 
 <p><span class="chinese">后来，我们去道观溜达了一圈。</span><span class="english">Then we visited a Taoist temple.</span></p>

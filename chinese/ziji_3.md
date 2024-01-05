@@ -1,5 +1,7 @@
 # 自给
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziji_3.md)
+
 <p><span class="chinese">你对如此低的自给率有何评论？</span><span class="english">Do you have any comments on this low rate?</span></p>
 
 <p><span class="chinese">无背光。电池不能自给更换。</span><span class="english">No backlight. Battery not user replace-able.</span></p>

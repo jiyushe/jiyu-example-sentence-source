@@ -1,5 +1,7 @@
 # rudimentary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rudimentary.md)
+
 <p><span class="chinese">烤炉是很原始的。</span><span class="english">The oven is rudimentary.</span></p>
 
 <p><span class="chinese">我们已有一个初步了解。</span><span class="english">We have a rudimentary knowledge of it.</span></p>

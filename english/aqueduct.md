@@ -1,5 +1,7 @@
 # aqueduct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aqueduct.md)
+
 <p><span class="chinese">随后，我穿过下水管道，回了家。</span><span class="english">I walked home via the aqueduct.</span></p>
 
 <p><span class="chinese">渡槽支架采用空间梁单元进行模拟。</span><span class="english">The aqueduct braces are meshed into spatial beam element.</span></p>

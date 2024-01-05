@@ -1,5 +1,7 @@
 # renewable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renewable.md)
+
 <p><span class="chinese">使用可再生能源。</span><span class="english">Swtich to renewable sources of energy.</span></p>
 
 <p><span class="chinese">中国拟设立可再生能源发展基金。</span><span class="english">China mulls renewable energy development fund.</span></p>

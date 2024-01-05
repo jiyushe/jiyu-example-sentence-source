@@ -1,5 +1,7 @@
 # 真空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenkong.md)
+
 <p><span class="chinese">它们都是真空的。</span><span class="english">They are all vacuumed.</span></p>
 
 <p><span class="chinese">电离真空计。</span><span class="english">Ionization Vacuum Gauge.</span></p>

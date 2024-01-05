@@ -1,5 +1,7 @@
 # haemorrhoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haemorrhoid.md)
+
 <p><span class="chinese">怎样可以让痔疮出血停止？</span><span class="english">How can you let haemorrhoid haemorrhage stop?</span></p>
 
 <p><span class="chinese">痔疮在饮食方面应该注意什么啊？</span><span class="english">What should haemorrhoid notice in dietary respect?</span></p>

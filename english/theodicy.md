@@ -1,5 +1,7 @@
 # theodicy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theodicy.md)
+
 <p><span class="chinese">戏中哥哥的这段话是一个斯奥迪斯。</span><span class="english">The speech of the Elder Brothers is a theodicy.</span></p>
 
 <p><span class="chinese">斯奥迪斯就是对上帝的证明。</span><span class="english">The theodicy is an account of the justice  of God.</span></p>

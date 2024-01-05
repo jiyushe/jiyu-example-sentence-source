@@ -1,5 +1,7 @@
 # 传宗接代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanzongjiedai.md)
+
 <p><span class="chinese">女人是传宗接代的工具吗？</span><span class="english">Are the women a tool for reproduction?</span></p>
 
 <p><span class="chinese">人类的传宗接代如同落叶归根“</span><span class="english">Very like leaves upon this earth are the generations of men."</span></p>

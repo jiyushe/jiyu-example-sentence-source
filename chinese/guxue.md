@@ -1,5 +1,7 @@
 # 骨血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guxue.md)
+
 <p><span class="chinese">对颌骨血管瘤手术治疗是最有效的手段。</span><span class="english">Operation was the most effective therapy for jaw hemangiomas.</span></p>
 
 <p><span class="chinese">骨血管瘤是一种骨内的良性血管瘤。</span><span class="english">Hemangioma of the bone is a benign vascular tumor within the bone.</span></p>

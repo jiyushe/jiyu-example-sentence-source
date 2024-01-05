@@ -1,5 +1,7 @@
 # narrow 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narrow.md)
+
 <p><span class="chinese">好窄的路啊！</span><span class="english">Very Narrow road!</span></p>
 
 <p><span class="chinese">所以缩小你的焦点。</span><span class="english">So narrow your focus.</span></p>

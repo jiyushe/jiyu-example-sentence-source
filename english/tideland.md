@@ -1,5 +1,7 @@
 # tideland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tideland.md)
+
 <p><span class="chinese">红树林是一种生长在被海水周期性淹没的滩涂上的特殊森林类型。</span><span class="english">Mangrove is a kind of special forest in tideland what is immerged by sea water seasonally.</span></p>
 
 <p><span class="chinese">探讨了莱州市海涂资源开发的原则与农业生态模式。</span><span class="english">At last, principles of resources exploitation and the pattern of agriculture ecology of tideland are discussed.</span></p>

@@ -1,5 +1,7 @@
 # 定期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingqi.md)
+
 <p><span class="chinese">你们定期比赛吗？</span><span class="english">Do you have regular races?</span></p>
 
 <p><span class="chinese">定期检查你的生活。</span><span class="english">Examine your life regularly.</span></p>

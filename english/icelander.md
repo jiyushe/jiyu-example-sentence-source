@@ -1,5 +1,7 @@
 # icelander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icelander.md)
+
 <p><span class="chinese">他是冰岛人。</span><span class="english">He is an Icelander.</span></p>
 
 <p><span class="chinese">冰岛人烧了偶们的钱，又把灰给吹了回来。</span><span class="english">The icelander burned our cash, and blew the ash to us.</span></p>

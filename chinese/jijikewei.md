@@ -1,5 +1,7 @@
 # 岌岌可危
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijikewei.md)
+
 <p><span class="chinese">但是现在，这些计划似乎都岌岌可危。</span><span class="english">But now those plans appear to be in peril.</span></p>
 
 <p><span class="chinese">我抬头看着他的鼻子，发现有块鼻屎岌岌可危。</span><span class="english">Looking up at his nose, I saw snot dripping.</span></p>

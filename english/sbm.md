@@ -1,5 +1,7 @@
 # sbm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sbm.md)
+
 <p><span class="chinese">对新一代合成基钻井液体系的优点作了介绍。</span><span class="english">The advantages of new generation SBM are introduced.</span></p>
 
 <p><span class="chinese">从东昌路轮渡码头至正大广场步行只需10分钟。</span><span class="english">From Dong Chang Road Ferry Station to SBM will take only 10 minutes by walk.</span></p>

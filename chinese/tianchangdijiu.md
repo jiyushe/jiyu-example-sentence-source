@@ -1,5 +1,7 @@
 # 天长地久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianchangdijiu.md)
+
 <p><span class="chinese">你我的情义将天长地久。</span><span class="english">That I thought would last somehow.</span></p>
 
 <p><span class="chinese">两个人在一起不就是为了天长地久吗？</span><span class="english">Two people together is not to ever do?</span></p>

@@ -1,5 +1,7 @@
 # 深入人心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenrurenxin.md)
+
 <p><span class="chinese">妇女运动在这里还没有真正深入人心。</span><span class="english">Women's movement has not really penetrated here.</span></p>
 
 <p><span class="chinese">联合进化已经在发现者们中间深入人心。</span><span class="english">Co-evolution was on the minds of the discoverers.</span></p>

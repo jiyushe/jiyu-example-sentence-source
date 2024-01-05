@@ -1,5 +1,7 @@
 # lambda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lambda.md)
+
 <p><span class="chinese">委托、事件和lambda表达式</span><span class="english">Delegates, events, and lambda expressions</span></p>
 
 <p><span class="chinese">如果把λ等于2带进去，这个式子会得到什么呢？</span><span class="english">If I set lambda equals two, what does this equation become?</span></p>

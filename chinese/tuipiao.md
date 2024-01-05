@@ -1,5 +1,7 @@
 # 退票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuipiao.md)
+
 <p><span class="chinese">你的支票被退票了，我没拿到钱。</span><span class="english">I didn't get the money.</span></p>
 
 <p><span class="chinese">我想要求退票款。</span><span class="english">I want to give back my ticket.</span></p>

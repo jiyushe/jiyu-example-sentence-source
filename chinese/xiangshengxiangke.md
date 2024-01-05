@@ -1,5 +1,7 @@
 # 相生相克
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshengxiangke.md)
+
 <p><span class="chinese">⊙、相生相克，其实也是另一种意义上的，相依为命。</span><span class="english">Based on, also is another kind of sense, actually.</span></p>
 
 <p><span class="chinese">在中国，有个很古老的理论-----食物是相生相克的。</span><span class="english">There is an old theory in China that food mutually reinforces and counteracts each other.</span></p>

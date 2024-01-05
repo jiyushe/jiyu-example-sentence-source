@@ -1,5 +1,7 @@
 # 肉搏战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roubozhan.md)
+
 <p><span class="chinese">战士英勇地同敌人展开肉搏战。</span><span class="english">Our soldiers bravely fought hand to hand with the enemy.</span></p>
 
 <p><span class="chinese">杰克和夸里奇以肉搏战来决战到死。</span><span class="english">In hand to hand combat Josh and Quaritch fight to the death.</span></p>

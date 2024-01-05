@@ -1,5 +1,7 @@
 # sharply 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sharply_1.md)
+
 <p><span class="chinese">资金急剧增长。</span><span class="english">The funds rose sharply.</span></p>
 
 <p><span class="chinese">路突然向右转个弯。</span><span class="english">The road bends sharply.</span></p>

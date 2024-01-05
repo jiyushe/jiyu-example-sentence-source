@@ -1,5 +1,7 @@
 # irritating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irritating.md)
+
 <p><span class="chinese">都快烦死我了。</span><span class="english">It's really irritating.</span></p>
 
 <p><span class="chinese">我四倍伤心，因为你不再是我的谁谁谁。</span><span class="english">Yah , i'm fcuking irritating to you.</span></p>

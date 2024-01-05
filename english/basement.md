@@ -1,5 +1,7 @@
 # basement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basement.md)
+
 <p><span class="chinese">案发地点就在她家的地下室里。</span><span class="english">In her basement.</span></p>
 
 <p><span class="chinese">他把我藏在地下室里。</span><span class="english">He stationed me in the basement.</span></p>

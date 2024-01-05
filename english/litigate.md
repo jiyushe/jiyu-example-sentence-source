@@ -1,5 +1,7 @@
 # litigate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/litigate.md)
+
 <p><span class="chinese">她说再也没有精力和钱去打官司了。</span><span class="english">She said no more energy and money to litigate.</span></p>
 
 <p><span class="chinese">新法还赋予它们提出诉讼的权利。</span><span class="english">The new law also grants them the right to litigate.</span></p>

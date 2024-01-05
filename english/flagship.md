@@ -1,5 +1,7 @@
 # flagship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagship.md)
+
 <p><span class="chinese">泰昌官方旗舰店！</span><span class="english">Taichang official flagship store!</span></p>
 
 <p><span class="chinese">此款车型是目前四驱驱动的旗舰。</span><span class="english">It is currently Toyota's flagship 4WD.</span></p>

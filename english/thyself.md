@@ -1,5 +1,7 @@
 # thyself
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thyself.md)
+
 <p><span class="chinese">爱你的邻居就是爱你自己。</span><span class="english">Love thy neighbors thyself.</span></p>
 
 <p><span class="chinese">谁会像你自己那样经常欺骗你？</span><span class="english">Who had deceived thee so often as thyself?</span></p>

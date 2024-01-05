@@ -1,5 +1,7 @@
 # squalor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squalor.md)
+
 <p><span class="chinese">孩子们仍在肮脏的环境中生活。</span><span class="english">The children still live in squalor.</span></p>
 
 <p><span class="chinese">在这个肮脏破败的地方居住着不为人注意的城市下层阶级。</span><span class="english">An inconspicuous urban underclass lives in squalor.</span></p>

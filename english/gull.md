@@ -1,5 +1,7 @@
 # gull
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gull.md)
+
 <p><span class="chinese">海鸥科长翅、蹼足的水鸟。</span><span class="english">A gull skimmed the water.</span></p>
 
 <p><span class="chinese">也不跟随佛莱斯卡，亦不跟那只鸟仔“</span><span class="english">Nor Fresca. Nor that Gull."</span></p>

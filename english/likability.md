@@ -1,5 +1,7 @@
 # likability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/likability.md)
+
 <p><span class="chinese">亲和力在比赛中的影响会越来越小吗？</span><span class="english">Does likability mean less to the end of the competition?</span></p>
 
 <p><span class="chinese">因此，可爱程度可以深刻影响谁会获得一份工作。</span><span class="english">As a result, likability can have a profound influence over who gets a job.</span></p>

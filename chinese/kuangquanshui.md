@@ -1,5 +1,7 @@
 # 矿泉水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangquanshui.md)
+
 <p><span class="chinese">该死的锂盐矿泉水。</span><span class="english">Damn your lithia water.</span></p>
 
 <p><span class="chinese">我象矿泉水，肉肉象彩虹鱼．哦也！</span><span class="english">I like a spring water & a Rianbow Fish.</span></p>

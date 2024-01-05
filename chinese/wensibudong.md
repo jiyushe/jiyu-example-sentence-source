@@ -1,5 +1,7 @@
 # 纹丝不动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wensibudong.md)
+
 <p><span class="chinese">纹丝不动躺在松林中的敞篷车厢</span><span class="english">Not moving in the open car among the pines</span></p>
 
 <p><span class="chinese">在我前面，三只瞌睡虫纹丝不动。</span><span class="english">In front of me the three sleepers did not stir.</span></p>

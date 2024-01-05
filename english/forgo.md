@@ -1,5 +1,7 @@
 # forgo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forgo.md)
+
 <p><span class="chinese">禁止在后院放烟火。</span><span class="english">Forgo backyard fireworks.</span></p>
 
 <p><span class="chinese">多久才可以看破缠眷美梦。</span><span class="english">How long can forgo our twining veterans dreams.</span></p>

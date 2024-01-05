@@ -1,5 +1,7 @@
 # 行不通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingbutong.md)
+
 <p><span class="chinese">难道还是行不通吗？</span><span class="english">Wouldn't that do it?</span></p>
 
 <p><span class="chinese">长远来说行不通。</span><span class="english">Not in the long term.</span></p>

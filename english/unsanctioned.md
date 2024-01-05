@@ -1,5 +1,7 @@
 # unsanctioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsanctioned.md)
+
 <p><span class="chinese">但是如今，未被许可的产品补修匠比以往都要有更多的权利。</span><span class="english">But today, unsanctioned tinkerers have more power than ever.</span></p>
 
 <p><span class="chinese">朝鲜正在采取同样的方法其未经批准的市场。</span><span class="english">North Korea is taking the same approach to its unsanctioned markets.</span></p>

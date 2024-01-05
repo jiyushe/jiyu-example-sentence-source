@@ -1,5 +1,7 @@
 # 指名道姓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhimingdaoxing.md)
+
 <p><span class="chinese">意见相左时，不要怒目相向，也不要指名道姓争吵。</span><span class="english">In disagreements, fight fairly. Please No name calling.</span></p>
 
 <p><span class="chinese">任何朋友都讨厌背后诽谤和指名道姓的批评。</span><span class="english">Any friends will be tired of the backbiting and fin-ger-pointing.</span></p>

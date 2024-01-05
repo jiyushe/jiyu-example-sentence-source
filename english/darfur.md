@@ -1,5 +1,7 @@
 # darfur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darfur.md)
+
 <p><span class="chinese">苏丹西部达尔富尔地区是恐怖主义么？</span><span class="english">Is Darfur terrorism?</span></p>
 
 <p><span class="chinese">让我拿达尔福尔做例子。</span><span class="english">Let me use Darfur as an example.</span></p>

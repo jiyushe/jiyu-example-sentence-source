@@ -1,5 +1,7 @@
 # 冒头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maotou.md)
+
 <p><span class="chinese">大火很快就不再冒头。</span><span class="english">And soon the fire began to stop.</span></p>
 
 <p><span class="chinese">错误思想一冒头，就及时采取了措施。</span><span class="english">Proper measures were taken as soon as erroneous ideas cropped up.</span></p>

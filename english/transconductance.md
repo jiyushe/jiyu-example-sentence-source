@@ -1,5 +1,7 @@
 # transconductance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transconductance.md)
+
 <p><span class="chinese">高压跨导放大器。</span><span class="english">A high-voltage transconductance amplifier.</span></p>
 
 <p><span class="chinese">集成电路。双运算跨导放大器。</span><span class="english">Integrated circuit. Dual operational transconductance amp.</span></p>

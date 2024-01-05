@@ -1,5 +1,7 @@
 # godspeed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/godspeed.md)
+
 <p><span class="chinese">他祝福你成功。</span><span class="english">He wishes you Godspeed.</span></p>
 
 <p><span class="chinese">我们祝她一路顺风。</span><span class="english">We wished her godspeed.</span></p>

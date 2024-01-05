@@ -1,5 +1,7 @@
 # 挤占
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizhan.md)
+
 <p><span class="chinese">商店挤占了每一个可用的空间。</span><span class="english">Shops cram into every available space.</span></p>
 
 <p><span class="chinese">结果是其他物种的生存空间正被人类挤占殆尽。</span><span class="english">As a result, other species are running out of places to live.</span></p>

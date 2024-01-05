@@ -1,5 +1,7 @@
 # 环城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huancheng.md)
+
 <p><span class="chinese">新环城公路的建设正在向前推进。</span><span class="english">Progress is being made in building a new highway around the city.</span></p>
 
 <p><span class="chinese">我同学和我参加了一个为期一天的观光我们的城市次环城一日游。</span><span class="english">My clas i'amates and I took a one-day sightseeing around our city.</span></p>

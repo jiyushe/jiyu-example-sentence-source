@@ -1,5 +1,7 @@
 # cheerfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheerfully.md)
+
 <p><span class="chinese">他高高兴兴地上学去了。</span><span class="english">He cheerfully went off to school.</span></p>
 
 <p><span class="chinese">爱挑的担子，就愉快轻松。</span><span class="english">The burden on likes is cheerfully borne.</span></p>

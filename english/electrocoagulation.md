@@ -1,5 +1,7 @@
 # electrocoagulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrocoagulation.md)
+
 <p><span class="chinese">此外，文中还对电絮凝-O3氧化过程的作用机制进行了初步探讨。</span><span class="english">The mechanism of the electrocoagulation -O3 oxidation process is discussed briefly.</span></p>
 
 <p><span class="chinese">目的评价电凝法治疗下肢静脉曲张的方法及疗效。</span><span class="english">Objective To evaluate the electrocoagulation for varicose veins of the lower extremities.</span></p>

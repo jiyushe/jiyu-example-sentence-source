@@ -1,5 +1,7 @@
 # 判处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panchu.md)
+
 <p><span class="chinese">他被判处3年徒刑。</span><span class="english">He was given 3 years.</span></p>
 
 <p><span class="chinese">他被判处死刑。</span><span class="english">He was sentenced to death.</span></p>

@@ -1,5 +1,7 @@
 # 嫌疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyi.md)
+
 <p><span class="chinese">他有弄虚作假的嫌疑。</span><span class="english">He is suspected of employing trickery.</span></p>
 
 <p><span class="chinese">托克说，奥切斯比拉没有嫌疑。</span><span class="english">Ochsenbine is not a suspect, Toelke said.</span></p>

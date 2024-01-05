@@ -1,5 +1,7 @@
 # slugging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slugging.md)
+
 <p><span class="chinese">事实上，需要大约3周的时间才能形成一个新的习惯，所以刚开始时你要一点一点的战斗。</span><span class="english">In fact, it takes about 3 weeks to make a new habit, so you will be slugging it out a bit, at first.</span></p>
 
 <p><span class="chinese">发达国家常用组建国有企业的办法来克服经济生活中的市场失灵、分配不公等缺陷。</span><span class="english">Rebuilding and merging of the state-owned enterprises was used to overcome the slugging market and unfair distribution.</span></p>

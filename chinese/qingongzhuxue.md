@@ -1,5 +1,7 @@
 # 勤工助学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingongzhuxue.md)
+
 <p><span class="chinese">为什么我看到的实习或勤工助学经验对你的简历吗？</span><span class="english">Why don't I see internships or work-study experiences on your resume?</span></p>
 
 <p><span class="chinese">这是勤工助学工作者研究的一个永恒的主题。</span><span class="english">This is an eternal subject which the hard work to support study worker studies.</span></p>

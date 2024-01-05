@@ -1,5 +1,7 @@
 # canna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canna.md)
+
 <p><span class="chinese">卡纳一如既往的华美，丹丹具有他是多么幸运。</span><span class="english">Canna is as gorgeous as ever and Daniela is lucky to have him.</span></p>
 
 <p><span class="chinese">主要研究了美人蕉花红色素的提取及其稳定性。</span><span class="english">The characters of red pigment form canna flower were studied in this paper.</span></p>

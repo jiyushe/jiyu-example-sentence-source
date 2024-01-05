@@ -1,5 +1,7 @@
 # 工地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongdi_2.md)
+
 <p><span class="chinese">工地入口，请慢行。</span><span class="english">Slow down.Site entrance.</span></p>
 
 <p><span class="chinese">简直像个工地!</span><span class="english">It looks like a building-site!</span></p>

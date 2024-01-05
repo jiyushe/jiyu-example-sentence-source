@@ -1,5 +1,7 @@
 # 升压
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengya.md)
+
 <p><span class="chinese">电路结构运用了升压斩波电路。</span><span class="english">The structure of the circuit is the boost.</span></p>
 
 <p><span class="chinese">增压的量成为升压量。</span><span class="english">The amount of pressurization is called boost.</span></p>

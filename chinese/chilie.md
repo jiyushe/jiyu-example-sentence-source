@@ -1,5 +1,7 @@
 # 炽烈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chilie.md)
+
 <p><span class="chinese">炉火炽烈。</span><span class="english">The stove is burning fiercely.</span></p>
 
 <p><span class="chinese">他以炽烈的焦急心情倾耳细听。</span><span class="english">He listened with ardent anxiety.</span></p>

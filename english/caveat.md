@@ -1,5 +1,7 @@
 # caveat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caveat.md)
+
 <p><span class="chinese">这里的警告是适当的。</span><span class="english">A caveat here is appropriate.</span></p>
 
 <p><span class="chinese">真棒女士说买者自慎?。</span><span class="english">Did Ms. Awesome For Real just use caveat emptor?</span></p>

@@ -1,5 +1,7 @@
 # abiding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abiding.md)
+
 <p><span class="chinese">某些特征依然存在。</span><span class="english">Some features were abiding.</span></p>
 
 <p><span class="chinese">哀愁却是坚强而耐久。</span><span class="english">But sorrow is strong and abiding.</span></p>

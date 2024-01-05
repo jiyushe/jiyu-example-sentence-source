@@ -1,5 +1,7 @@
 # originative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/originative.md)
+
 <p><span class="chinese">灵感来自舞蹈的场景，我们相信每一个人体现创新精神。</span><span class="english">Inspired by the dance scene, we believe every individual embodies originative spirit.</span></p>
 
 <p><span class="chinese">新颖独到的栏目设置，是提高高校学报质量的重要途径。</span><span class="english">Originative column devising is an important approach to improving the journal quality.</span></p>

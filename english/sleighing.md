@@ -1,5 +1,7 @@
 # sleighing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleighing.md)
+
 <p><span class="chinese">把滑雪歌儿唱。哦！</span><span class="english">A sleighing song tonight! Oh!</span></p>
 
 <p><span class="chinese">今晚多快活！嘿！</span><span class="english">A sleighing song tonight! Hey!</span></p>

@@ -1,5 +1,7 @@
 # 总算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongsuan.md)
+
 <p><span class="chinese">总算让我松了一口气！</span><span class="english">What a relief!</span></p>
 
 <p><span class="chinese">这一天总算没白过。</span><span class="english">The day had finally not white.</span></p>

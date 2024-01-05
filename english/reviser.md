@@ -1,5 +1,7 @@
 # reviser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reviser.md)
+
 <p><span class="chinese">代办别人代理顾问建议校订者想出一个根除恶习的计策。</span><span class="english">The vice-adviser advised the reviser to devise advice for getting rid of vice.</span></p>
 
 <p><span class="chinese">代办参谋倡议校正者想出一个铲除恶习的计谋。</span><span class="english">The vice-adviser advised the reviser to devise a device forgetting rid of vice.</span></p>

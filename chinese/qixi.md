@@ -1,5 +1,7 @@
 # 奇袭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixi.md)
+
 <p><span class="chinese">那将会是个奇袭。</span><span class="english">It is going to be a surprise.</span></p>
 
 <p><span class="chinese">我的部队奇袭该城，并一举攻下。</span><span class="english">My troops swooped down on the city.</span></p>

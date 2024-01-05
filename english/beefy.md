@@ -1,5 +1,7 @@
 # beefy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beefy.md)
+
 <p><span class="chinese">他曾经拥有健壮的让别人妒忌的体魄。</span><span class="english">He once had a beefy body that others begrudged.</span></p>
 
 <p><span class="chinese">我喜欢高大强壮而又有统治力的精壮的中后卫。</span><span class="english">I love my centre backs to be big, beefy and dominant.</span></p>

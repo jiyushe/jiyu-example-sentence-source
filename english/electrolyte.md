@@ -1,5 +1,7 @@
 # electrolyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrolyte.md)
+
 <p><span class="chinese">水中的电解质饱和了。</span><span class="english">The water saturated with electrolyte.</span></p>
 
 <p><span class="chinese">需要有一种电解质作为导电介质。</span><span class="english">An electrolyte is necessary to act as a conducting medium.</span></p>

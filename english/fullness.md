@@ -1,5 +1,7 @@
 # fullness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fullness.md)
+
 <p><span class="chinese">你在充盈之前就安置了空洞。</span><span class="english">You put emptiness before fullness.</span></p>
 
 <p><span class="chinese">高纤维饮食让人有饱胀感。</span><span class="english">High fibre diets give the feeling of fullness.</span></p>

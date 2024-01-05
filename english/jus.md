@@ -1,5 +1,7 @@
 # jus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jus.md)
+
 <p><span class="chinese">她刚才吃了一个大苹果。</span><span class="english">She ate a big apple jus tnow.</span></p>
 
 <p><span class="chinese">强行法是国际法强制执行的规范基础。</span><span class="english">Jus cogens are the norm basis of EIL.</span></p>

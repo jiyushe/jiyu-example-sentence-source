@@ -1,5 +1,7 @@
 # 奇巧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqiao.md)
+
 <p><span class="chinese">对,奇巧威化,大家猜对了,再来一个</span><span class="english">Okay. Kit-Kat bar, you're right and one more.</span></p>
 
 <p><span class="chinese">石头里只有奇巧的“小脚”石派上了用处。</span><span class="english">Only “delicate” Small-Foot rocks were arrayed.</span></p>

@@ -1,5 +1,7 @@
 # garrison
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garrison.md)
+
 <p><span class="chinese">有半数卫戍部队在执勤。</span><span class="english">Half the garrison are on duty.</span></p>
 
 <p><span class="chinese">加里森本人受了轻伤。</span><span class="english">Garrison suffered minor injuries.</span></p>

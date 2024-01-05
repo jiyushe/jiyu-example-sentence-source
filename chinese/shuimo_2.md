@@ -1,5 +1,7 @@
 # 水磨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimo_2.md)
+
 <p><span class="chinese">之后，用水磨机对石板的边角进行抛光。</span><span class="english">After that, use water-mill machine to polish the edges and angles of the slate material.</span></p>
 
 <p><span class="chinese">在水磨头村，神头二电厂一个煤灰水坝上空的煤灰让人窒息。</span><span class="english">Ash chokes the sky above a coal ash dam owned by the Shentou number two power plant, in Shuimotou village.</span></p>

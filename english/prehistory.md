@@ -1,5 +1,7 @@
 # prehistory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prehistory.md)
+
 <p><span class="chinese">史前时期是父系氏族。</span><span class="english">Prehistory was strongly patriarchal.</span></p>
 
 <p><span class="chinese">语言史前史不需要扣留我们。</span><span class="english">The prehistory of languages need not detain us.</span></p>

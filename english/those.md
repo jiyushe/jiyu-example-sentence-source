@@ -1,5 +1,7 @@
 # those
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/those.md)
+
 <p><span class="chinese">那些男人。</span><span class="english">Those men.</span></p>
 
 <p><span class="chinese">剔除他它们</span><span class="english">Delete those.</span></p>

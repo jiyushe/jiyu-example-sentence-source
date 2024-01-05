@@ -1,5 +1,7 @@
 # obstinacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obstinacy.md)
+
 <p><span class="chinese">因为你的固执。</span><span class="english">Because of your obstinacy.</span></p>
 
 <p><span class="chinese">刚愎自用总是会刺伤耶稣基督。</span><span class="english">Obstinacy and self-will will always stab Jesus Christ.</span></p>

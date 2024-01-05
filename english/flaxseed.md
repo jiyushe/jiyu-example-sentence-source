@@ -1,5 +1,7 @@
 # flaxseed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flaxseed.md)
+
 <p><span class="chinese">坚果和种子—杏仁和亚麻籽</span><span class="english">Nuts and seeds – almonds and flaxseed</span></p>
 
 <p><span class="chinese">琼斯称当时格雷厄姆告诉她服用的是亚麻子油。</span><span class="english">Jones said that Graham told her it was flaxseed oil.</span></p>

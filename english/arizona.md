@@ -1,5 +1,7 @@
 # arizona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arizona.md)
+
 <p><span class="chinese">BNG坐落在阳光明媚的亚利桑那州。</span><span class="english">BNG is located in sunny Arizona.</span></p>
 
 <p><span class="chinese">亚利桑那州佩森附近的威洛火灾</span><span class="english">Willow Fire Near Payson, Arizona</span></p>

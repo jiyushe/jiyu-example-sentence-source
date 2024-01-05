@@ -1,5 +1,7 @@
 # gop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gop.md)
+
 <p><span class="chinese">大老党领导阶层拒绝了我的提议。</span><span class="english">The GOP leadership turned me down.</span></p>
 
 <p><span class="chinese">此问题上，不要指望大老党能有一点让步。</span><span class="english">On this matter, don't expect the GOP to budge much.</span></p>

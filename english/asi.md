@@ -1,5 +1,7 @@
 # asi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asi.md)
+
 <p><span class="chinese">的ASI是球在一个管式，以遏止有关。</span><span class="english">The ASI is the ball in a tube type to clamp on.</span></p>
 
 <p><span class="chinese">你现在才知道我是南苑人吗？</span><span class="english">You just know as long asI am a south Yuan person?</span></p>

@@ -1,5 +1,7 @@
 # 序数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xushu_1.md)
+
 <p><span class="chinese">用英语序数词表示以下数字。</span><span class="english">Write these ordinal numbers in words.</span></p>
 
 <p><span class="chinese">这个飞碟做起来随便，飞起来也很趣味。序数词。</span><span class="english">This UFO is easy to make a freed fun to fly.</span></p>

@@ -1,5 +1,7 @@
 # 注射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushe.md)
+
 <p><span class="chinese">注射毒针最终害死了他。</span><span class="english">The needle finally killed him.</span></p>
 
 <p><span class="chinese">为什么需要两次注射？</span><span class="english">Why are two injections needed?</span></p>

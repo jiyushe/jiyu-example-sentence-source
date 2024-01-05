@@ -1,5 +1,7 @@
 # freeway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freeway.md)
+
 <p><span class="chinese">我喜欢在高速公路上开车。</span><span class="english">I like to drive on freeway.</span></p>
 
 <p><span class="chinese">我们得离开高速公路。</span><span class="english">We must be off the freeway.</span></p>

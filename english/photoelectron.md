@@ -1,5 +1,7 @@
 # photoelectron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photoelectron.md)
+
 <p><span class="chinese">那么，我们开始讲光电子能谱。</span><span class="english">So, let's start with talking about photoelectron spectroscopy.</span></p>
 
 <p><span class="chinese">事实上光电子数密度是光电子速度的函数。</span><span class="english">Actually photoelectron density is the function of electron speed.</span></p>

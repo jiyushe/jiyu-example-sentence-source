@@ -1,5 +1,7 @@
 # warranted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warranted.md)
+
 <p><span class="chinese">事实证实了这些措施。</span><span class="english">The circumstances warranted these measures.</span></p>
 
 <p><span class="chinese">紧急行眼科会诊是十分必要的。</span><span class="english">Urgent ophthalmologic consultation is warranted.</span></p>

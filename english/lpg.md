@@ -1,5 +1,7 @@
 # lpg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lpg.md)
+
 <p><span class="chinese">液化石油气收瓶点。</span><span class="english">LPG collect bottles.</span></p>
 
 <p><span class="chinese">本文是液化气船风险评估的一个子系统。</span><span class="english">This thesis is a sub-system of the risk assessment of LPG carrier.</span></p>

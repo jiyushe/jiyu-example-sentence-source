@@ -1,5 +1,7 @@
 # subordinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subordinate.md)
+
 <p><span class="chinese">彼此不相统属。</span><span class="english">Neither is subordinate to the other.</span></p>
 
 <p><span class="chinese">安吉拉曾是她下属中一个快嘴的人。</span><span class="english">Angela was a fast subordinate of hers.</span></p>

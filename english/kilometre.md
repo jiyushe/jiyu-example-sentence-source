@@ -1,5 +1,7 @@
 # kilometre 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kilometre.md)
+
 <p><span class="chinese">1公里为2华里。</span><span class="english">One kilometre is equivalent to two li.</span></p>
 
 <p><span class="chinese">然后每行车一公里，加收12分。</span><span class="english">Then it's 12 cents for each additional kilometre.</span></p>

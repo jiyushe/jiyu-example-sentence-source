@@ -1,5 +1,7 @@
 # brinkmanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brinkmanship.md)
+
 <p><span class="chinese">这是一种边缘政策。</span><span class="english">It's a kind of brinkmanship.</span></p>
 
 <p><span class="chinese">当然，有一种外交边缘政策的论调。</span><span class="english">Of course, there's an argument for diplomatic brinkmanship.</span></p>

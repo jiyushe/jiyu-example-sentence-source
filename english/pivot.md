@@ -1,5 +1,7 @@
 # pivot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pivot.md)
+
 <p><span class="chinese">释放杆枢轴表面。</span><span class="english">Release lever pivot surfaces.</span></p>
 
 <p><span class="chinese">重唱是整合歌剧主题的纽带。</span><span class="english">He was the pivot of the opera.</span></p>

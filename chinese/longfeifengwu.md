@@ -1,5 +1,7 @@
 # 龙飞凤舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longfeifengwu.md)
+
 <p><span class="chinese">祝你们在新的一年里，龙飞凤舞，事业腾飞！也祝愿大家合家快乐，万事如意。</span><span class="english">Wish you and your family a happy life and successful career in the New Year.</span></p>
 
 <p><span class="chinese">“所以，”他一边龙飞凤舞一边说，“我在军团的职责是什么呢？”</span><span class="english">"So, " he said as he was scrawling, "what will be my duties with the company?</span></p>

@@ -1,5 +1,7 @@
 # epoch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epoch.md)
+
 <p><span class="chinese">我们处于世纪之末。</span><span class="english">We are clearly at the end of an epoch.</span></p>
 
 <p><span class="chinese">革命时代造就伟大的人物。</span><span class="english">The epoch of revolution creates great figures.</span></p>

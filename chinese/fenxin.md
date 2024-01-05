@@ -1,5 +1,7 @@
 # 分心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenxin.md)
+
 <p><span class="chinese">我才不要分心。</span><span class="english">I want no distractions.</span></p>
 
 <p><span class="chinese">限制你分心。</span><span class="english">Limit your distractions.</span></p>

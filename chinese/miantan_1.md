@@ -1,5 +1,7 @@
 # 面谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miantan_1.md)
+
 <p><span class="chinese">可以走过去与他面谈。</span><span class="english">Walk over and talk to him.</span></p>
 
 <p><span class="chinese">从前面谈到的我们可以总结出几点</span><span class="english">From all this we can conclude several things.</span></p>

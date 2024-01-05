@@ -1,5 +1,7 @@
 # gerard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gerard.md)
+
 <p><span class="chinese">喂，热拉尔团长在这儿吗？</span><span class="english">Tell me, is Colonel Gerard here?</span></p>
 
 <p><span class="chinese">杰勒德不再头晕，但非常烦躁。</span><span class="english">Gerard was no longer lightheaded, but very irritable.</span></p>

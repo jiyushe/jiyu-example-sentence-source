@@ -1,5 +1,7 @@
 # 掌舵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangduo.md)
+
 <p><span class="chinese">创始人重新掌舵才是王道.</span><span class="english">Founders are back in style at the helm.</span></p>
 
 <p><span class="chinese">所以你是你人生的掌舵者。</span><span class="english">You are the guy who'll decide where to go.</span></p>

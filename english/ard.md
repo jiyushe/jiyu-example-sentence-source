@@ -1,5 +1,7 @@
 # ard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ard.md)
+
 <p><span class="chinese">她是位好老师，但她很凶。</span><span class="english">She isa good teacher, but she ish ard.</span></p>
 
 <p><span class="chinese">他们的名字，我现在渐渐都想起来了。</span><span class="english">Their names ard all coming back to me now.</span></p>

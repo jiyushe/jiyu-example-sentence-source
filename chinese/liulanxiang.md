@@ -1,5 +1,7 @@
 # 留兰香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liulanxiang.md)
+
 <p><span class="chinese">留兰香是多年生草本芳香植物。</span><span class="english">Metha spicata L. is a perennial aromatic plant.</span></p>
 
 <p><span class="chinese">薄荷和留兰香为薄荷属多年生草本植物。</span><span class="english">The plants of Mentha haplocalyx Briq. and Mentha spicata L.</span></p>

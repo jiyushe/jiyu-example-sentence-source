@@ -1,5 +1,7 @@
 # 患者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanzhe.md)
+
 <p><span class="chinese">这位患者已到了帕金森病晚期，都已经无法行走了。</span><span class="english">He is unable to walk.</span></p>
 
 <p><span class="chinese">患者应该如何准备？</span><span class="english">How should I prepare?</span></p>

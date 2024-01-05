@@ -1,5 +1,7 @@
 # accompaniment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accompaniment.md)
+
 <p><span class="chinese">她在钢琴伴奏下演唱。</span><span class="english">He sang to a piano accompaniment.</span></p>
 
 <p><span class="chinese">时代乐乐队伴奏。</span><span class="english">Music accompaniment by The Stylers.</span></p>

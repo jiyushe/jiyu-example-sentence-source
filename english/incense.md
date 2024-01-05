@@ -1,5 +1,7 @@
 # incense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incense.md)
+
 <p><span class="chinese">香慢慢地燃着。</span><span class="english">Incense burning slowly.</span></p>
 
 <p><span class="chinese">心香一束寄盂兰。</span><span class="english">Incense from heart to send.</span></p>

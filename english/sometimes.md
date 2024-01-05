@@ -1,5 +1,7 @@
 # sometimes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sometimes.md)
+
 <p><span class="chinese">有时候还会抛起三次。</span><span class="english">Sometimes three.</span></p>
 
 <p><span class="chinese">有时我会担心。</span><span class="english">Sometimes I worry.</span></p>

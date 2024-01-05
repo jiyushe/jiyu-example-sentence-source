@@ -1,5 +1,7 @@
 # apprentice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apprentice.md)
+
 <p><span class="chinese">他是一名裁缝学徒。</span><span class="english">Ikey was a tailor's apprentice.</span></p>
 
 <p><span class="chinese">这个徒弟磨洋工。</span><span class="english">The apprentice lingered his work.</span></p>

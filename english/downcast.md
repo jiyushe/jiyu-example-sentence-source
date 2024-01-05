@@ -1,5 +1,7 @@
 # downcast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downcast.md)
+
 <p><span class="chinese">你为什么变了脸色呢？</span><span class="english">Why is your face downcast?</span></p>
 
 <p><span class="chinese">说出来吧，便说出口来，经忧伤的的双眼。</span><span class="english">Say it, now say it, the eye is downcast.</span></p>

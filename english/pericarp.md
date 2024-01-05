@@ -1,5 +1,7 @@
 # pericarp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pericarp.md)
+
 <p><span class="chinese">MJ可显著提高苹果果皮中LOX活性。</span><span class="english">MJ significantly increased LOX activity in apple pericarp.</span></p>
 
 <p><span class="chinese">果皮中粗脂肪的含量一直很低。</span><span class="english">The content of crude fat is always very low inthe pericarp.</span></p>

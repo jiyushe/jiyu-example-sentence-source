@@ -1,5 +1,7 @@
 # homonymous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homonymous.md)
+
 <p><span class="chinese">初步检验显示失语症，右同向偏盲，右侧偏瘫和偏身感觉缺失。</span><span class="english">Initial examination showed global aphasia, right homonymous hemianopia , right hemiplegia, and hemisensory loss.</span></p>
 
 <p><span class="chinese">本文就多义名词、同形异义名词以及单、复数名词的语义模糊性进行了分析和阐述。</span><span class="english">This paper deals with the semantic fuzziness of polysemous nouns, homonymous nouns, and singular and plural nouns.</span></p>

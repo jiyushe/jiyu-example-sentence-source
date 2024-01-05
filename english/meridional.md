@@ -1,5 +1,7 @@
 # meridional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meridional.md)
+
 <p><span class="chinese">经圈环流的分析结果也与此相吻合。</span><span class="english">The analysis on the meridional circulation also proves above view.</span></p>
 
 <p><span class="chinese">显然，这些子午面不一定是水平的和垂直的。</span><span class="english">Obviously these meridional planes need not be horizontal and vertical.</span></p>

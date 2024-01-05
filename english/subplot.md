@@ -1,5 +1,7 @@
 # subplot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subplot.md)
+
 <p><span class="chinese">完成选择史凯利杰统治者的支线剧情。</span><span class="english">Complete the subplot about choosing Skellige's ruler.</span></p>
 
 <p><span class="chinese">但是这里有一个我们不能忽视的政治陪衬情节。</span><span class="english">But there is a political subplot here that we simply can't ignore.</span></p>

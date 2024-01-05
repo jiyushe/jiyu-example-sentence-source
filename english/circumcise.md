@@ -1,5 +1,7 @@
 # circumcise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumcise.md)
+
 <p><span class="chinese">所以你们要将心里的污秽除掉，不可再硬着颈项。</span><span class="english">Circumcise your hearts, therefore, and do not be stiff-necked any longer.</span></p>
 
 <p><span class="chinese">所以你们要将心里的污秽除掉，不可再硬著颈项。</span><span class="english">Circumcise therefore the foreskin of your heart, and be no longer stubborn.</span></p>

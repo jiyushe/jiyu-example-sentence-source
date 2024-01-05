@@ -1,5 +1,7 @@
 # exoteric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exoteric.md)
+
 <p><span class="chinese">它具有真正开放的现代性。</span><span class="english">It is provided with the true exoteric modernity.</span></p>
 
 <p><span class="chinese">中学时读过一本通俗现代小说。</span><span class="english">I just read one exoteric modern novel in my high school.</span></p>

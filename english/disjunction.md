@@ -1,5 +1,7 @@
 # disjunction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disjunction.md)
+
 <p><span class="chinese">但这只是一个偏差。</span><span class="english">But it’s just a disjunction.</span></p>
 
 <p><span class="chinese">对两个表达式执行逻辑析取操作。</span><span class="english">Performs a logical disjunction on two expressions.</span></p>

@@ -1,5 +1,7 @@
 # retiring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retiring.md)
+
 <p><span class="chinese">你真是个不怕羞的淘气妞儿。</span><span class="english">She was a shy, retiring girl.</span></p>
 
 <p><span class="chinese">蝙蝠侠甚至想要退休。</span><span class="english">Batman even thinks of retiring.</span></p>

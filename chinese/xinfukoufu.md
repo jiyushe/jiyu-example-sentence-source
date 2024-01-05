@@ -1,5 +1,7 @@
 # 心服口服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfukoufu.md)
+
 <p><span class="chinese">我怎样才能让学生心服口服?。</span><span class="english">How can I get across to the students?</span></p>
 
 <p><span class="chinese">是啊，与其打嘴杖，不如凭实力对绝时让她心服口服！！</span><span class="english">Love Argentina, Maradona is the soccer in my heart!</span></p>

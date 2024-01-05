@@ -1,5 +1,7 @@
 # 恍如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangru.md)
+
 <p><span class="chinese">而他站在那里，恍如梦中。</span><span class="english">And he stood as one in a dream.</span></p>
 
 <p><span class="chinese">他们占据了舞台，他们恍如就在鸡尾酒会的接待入口。</span><span class="english">They took possession. As if they were at a cocktail reception.</span></p>

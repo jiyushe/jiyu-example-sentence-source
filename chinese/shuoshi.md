@@ -1,5 +1,7 @@
 # 说是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuoshi.md)
+
 <p><span class="chinese">向它说是。</span><span class="english">Say yes to it.</span></p>
 
 <p><span class="chinese">但是不管怎样，他既然说是有关爱情的，那就算是爱情的吧。</span><span class="english">Anyhow. About love.</span></p>

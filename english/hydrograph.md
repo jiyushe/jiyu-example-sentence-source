@@ -1,5 +1,7 @@
 # hydrograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrograph.md)
+
 <p><span class="chinese">具体分析了溃决洪水过程和冰湖溃决洪水泥石流演变过程。</span><span class="english">At last, the properties of hydrograph of the flood and debris flow are analyzed.</span></p>
 
 <p><span class="chinese">建立了基于线性动力波的地貌瞬时单位线模型。</span><span class="english">A geomorphic instantaneous unit hydrograph model is developed based on linear dynamic wave.</span></p>

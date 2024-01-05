@@ -1,5 +1,7 @@
 # brotherhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brotherhood.md)
+
 <p><span class="chinese">关于东盟的兄弟之谊就言尽于此。</span><span class="english">So much for ASEAN brotherhood.</span></p>
 
 <p><span class="chinese">天下一家是大自然的真相。</span><span class="english">Brotherhood is a fact in nature.</span></p>

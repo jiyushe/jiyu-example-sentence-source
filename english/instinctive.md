@@ -1,5 +1,7 @@
 # instinctive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instinctive.md)
+
 <p><span class="chinese">你伶俐、精明、直觉好。</span><span class="english">You're smart, cunning, instinctive.</span></p>
 
 <p><span class="chinese">这让人感到自然和发乎本性。</span><span class="english">It felt natural and instinctive. That's all.</span></p>

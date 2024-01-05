@@ -1,5 +1,7 @@
 # 石榴裙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiliuqun.md)
+
 <p><span class="chinese">有些人拜倒在她的石榴裙下。</span><span class="english">A few men succumbed to her charm.</span></p>
 
 <p><span class="chinese">有很多男人拜倒在她的石榴裙下。</span><span class="english">There are many men buried in her wake.</span></p>

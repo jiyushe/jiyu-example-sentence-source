@@ -1,5 +1,7 @@
 # greener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greener.md)
+
 <p><span class="chinese">这个选择也很环保。</span><span class="english">It's a greener choice to make.</span></p>
 
 <p><span class="chinese">比雅典要绿，当然。</span><span class="english">Greener than Athens, certainly.</span></p>

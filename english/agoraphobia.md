@@ -1,5 +1,7 @@
 # agoraphobia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agoraphobia.md)
+
 <p><span class="chinese">陌生环境的恐怖指的是外在的恐惧。</span><span class="english">Agoraphobia is the fear of being outside.</span></p>
 
 <p><span class="chinese">认识和理解广场恐怖症的真相是棘手的。</span><span class="english">Learning and understanding agoraphobia facts can be tricky.</span></p>

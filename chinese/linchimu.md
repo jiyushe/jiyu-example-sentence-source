@@ -1,5 +1,7 @@
 # 鳞翅目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linchimu.md)
+
 <p><span class="chinese">成、幼虫以多种鳞翅目幼虫为食。</span><span class="english">Adults and larva preyed on many kinds of Lepidoptera larvae.</span></p>
 
 <p><span class="chinese">而VIP3对鳞翅目昆虫具有较广谱的杀虫活性。</span><span class="english">VIP3 shows activity against many lepidopteran insect larvae.</span></p>

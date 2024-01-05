@@ -1,5 +1,7 @@
 # twinkle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twinkle.md)
+
 <p><span class="chinese">她朝我眨眨眼。</span><span class="english">Her eyes twinkle.</span></p>
 
 <p><span class="chinese">像银河中闪烁的星光点点。</span><span class="english">And twinkle on the milky way.</span></p>

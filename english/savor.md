@@ -1,5 +1,7 @@
 # savor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savor.md)
+
 <p><span class="chinese">要品尝食物，不能狼吞虎咽。</span><span class="english">Savor the food.</span></p>
 
 <p><span class="chinese">尽情享受简简单单的乐趣。</span><span class="english">Savor the joy of simple pleasures.</span></p>

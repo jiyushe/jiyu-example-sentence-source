@@ -1,5 +1,7 @@
 # 音叉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yincha.md)
+
 <p><span class="chinese">另一个比较形象的例子是调音叉。</span><span class="english">Another good example is that of a tuning fork.</span></p>
 
 <p><span class="chinese">那是音叉发出的声波的干涉的结果。</span><span class="english">That’s the interference of sound waves from the forks.</span></p>

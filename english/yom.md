@@ -1,5 +1,7 @@
 # yom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yom.md)
+
 <p><span class="chinese">我倒是想看看他们在赎罪日是否严格遵守绝食的规定。</span><span class="english">I'd like to see them do the black fast Yom Kippur.</span></p>
 
 <p><span class="chinese">1973年的赎罪日战争使这种变化板上钉钉。</span><span class="english">The 1973 Yom Kippur War put the seal on the shift.</span></p>

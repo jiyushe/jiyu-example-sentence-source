@@ -1,5 +1,7 @@
 # dissertation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissertation.md)
+
 <p><span class="chinese">这是你的论文吗？</span><span class="english">Is this you dissertation?</span></p>
 
 <p><span class="chinese">下个月交你的学位论文。</span><span class="english">Turn in your dissertation next month.</span></p>

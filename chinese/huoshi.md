@@ -1,5 +1,7 @@
 # 或是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshi.md)
+
 <p><span class="chinese">或是火、乾土。</span><span class="english">Or dry soils.</span></p>
 
 <p><span class="chinese">或是有点疲惫不堪吗</span><span class="english">Tired as can be?</span></p>

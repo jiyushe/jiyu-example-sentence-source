@@ -1,5 +1,7 @@
 # conformational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conformational.md)
+
 <p><span class="chinese">它们叫做构象异构体，也叫做异象体。</span><span class="english">They are said to be conformational isomers also called conformers.</span></p>
 
 <p><span class="chinese">在活化的过程中，血蓝蛋白复合物会产生构象上的全方位的转变。</span><span class="english">Upon activation, there is an overall conformational change of the complex.</span></p>

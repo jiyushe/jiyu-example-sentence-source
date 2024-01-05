@@ -1,5 +1,7 @@
 # 欣悦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyue_1.md)
+
 <p><span class="chinese">给观赏者以高山流水，归游自然的欣悦。</span><span class="english">For the viewer to fall, to swim natural pleasure.</span></p>
 
 <p><span class="chinese">让那些纯静的眼睛欣悦地凝望我从容的身姿吧。</span><span class="english">Let pure eyes stare at the posture of my freedom of nation.</span></p>

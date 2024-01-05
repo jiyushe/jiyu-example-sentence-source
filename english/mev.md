@@ -1,5 +1,7 @@
 # mev
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mev.md)
+
 <p><span class="chinese">他们获得2.1兆电子伏每个革命。</span><span class="english">They gain 2.1 MeV each revolution.</span></p>
 
 <p><span class="chinese">能量是相当大的，168兆伏，每裂变。</span><span class="english">And the energy is relatively large, 168 MEV per fission.</span></p>

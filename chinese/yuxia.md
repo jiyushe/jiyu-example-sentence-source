@@ -1,5 +1,7 @@
 # 余下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxia.md)
+
 <p><span class="chinese">余下的就都进了方的腰包。</span><span class="english">The rest went to Fang.</span></p>
 
 <p><span class="chinese">余下的就是蛔虫的研究。</span><span class="english">That left the roundworm.</span></p>

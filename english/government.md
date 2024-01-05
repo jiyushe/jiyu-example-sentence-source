@@ -1,5 +1,7 @@
 # government 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/government.md)
+
 <p><span class="chinese">有着一把公家的钥匙！</span><span class="english">A government key!</span></p>
 
 <p><span class="chinese">我在政府机关做事。</span><span class="english">I work for government.</span></p>

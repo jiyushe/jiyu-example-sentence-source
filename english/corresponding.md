@@ -1,5 +1,7 @@
 # corresponding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corresponding.md)
+
 <p><span class="chinese">每项权利都有与之相应的责任。</span><span class="english">Every right has a corresponding duty.</span></p>
 
 <p><span class="chinese">在每个格子里填写相应的事项。</span><span class="english">Ineach cell, put the corresponding story.</span></p>

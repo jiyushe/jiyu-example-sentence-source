@@ -1,5 +1,7 @@
 # granola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granola.md)
+
 <p><span class="chinese">自己做格兰诺拉麦片。</span><span class="english">Make your own granola.</span></p>
 
 <p><span class="chinese">一条格兰诺拉，一个苹果和一杯冷牛奶。</span><span class="english">A granola bar, an apple, and a cold glass of milk.</span></p>

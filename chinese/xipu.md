@@ -1,5 +1,7 @@
 # 系谱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xipu.md)
+
 <p><span class="chinese">户籍制不过是系谱专家的一个美好的梦想而已。</span><span class="english">The koseki is a genealogist's dream.</span></p>
 
 <p><span class="chinese">传家宝不再仅仅是二手的手工艺品，也包括了那些系谱古老的水果和蔬菜。</span><span class="english">Heirlooms aren’t just hand-me-down artifacts anymore.</span></p>

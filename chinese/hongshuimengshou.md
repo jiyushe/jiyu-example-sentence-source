@@ -1,5 +1,7 @@
 # 洪水猛兽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongshuimengshou.md)
+
 <p><span class="chinese">他们也是人，并非洪水猛兽和瘟神。</span><span class="english">They are human beings, not a scourge and the god of plague.</span></p>
 
 <p><span class="chinese">那么其中最常见的就是被视为洪水猛兽的性和毒品问题了。</span><span class="english">There are the familiar risks of unsafe sex and illegal drugs.</span></p>

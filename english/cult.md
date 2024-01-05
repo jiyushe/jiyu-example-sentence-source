@@ -1,5 +1,7 @@
 # cult
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cult.md)
+
 <p><span class="chinese">它呈现并且坚持宗教的集中化。</span><span class="english">It assumes and insists upon the centralization of the cult.</span></p>
 
 <p><span class="chinese">一个仪式系统，之后我们会讲到以色列祭仪。</span><span class="english">A system of rites, and we'll be looking at the Israelite cult later.</span></p>

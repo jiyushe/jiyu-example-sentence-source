@@ -1,5 +1,7 @@
 # bipolar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bipolar.md)
+
 <p><span class="chinese">胡佛留下的遗风毁誉参半。</span><span class="english">Hoover leaves a bipolar legacy.</span></p>
 
 <p><span class="chinese">双极性接面电晶体。</span><span class="english">The Bipolar Junction Transistor.</span></p>

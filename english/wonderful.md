@@ -1,5 +1,7 @@
 # wonderful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wonderful.md)
+
 <p><span class="chinese">那挺不错的啊</span><span class="english">That's wonderful.</span></p>
 
 <p><span class="chinese">不管是荒野还是浓雾，它都是美妙的！</span><span class="english">It’s all wonderful.</span></p>

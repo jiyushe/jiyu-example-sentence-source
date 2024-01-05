@@ -1,5 +1,7 @@
 # conservator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conservator.md)
+
 <p><span class="chinese">电弧形成时，气体快速积累，油迅速流入油枕中。</span><span class="english">If an arc forms, gas accumulation is rapid, and oil flows rapidly into the conservator.</span></p>
 
 <p><span class="chinese">专职或业余的网络文字管理员负责一个或多个专题的讨论。</span><span class="english">Amateur or professional conservator of the site, in charge of the discussion of one or many subjects.</span></p>

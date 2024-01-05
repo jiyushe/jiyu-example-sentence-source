@@ -1,5 +1,7 @@
 # 垫款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diankuan.md)
+
 <p><span class="chinese">避免现金垫款。</span><span class="english">Avoid cash advances.</span></p>
 
 <p><span class="chinese">在现金垫款贷款的利率变化。</span><span class="english">Cash in advance loan interest rate changes.</span></p>

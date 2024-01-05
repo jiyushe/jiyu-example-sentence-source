@@ -1,5 +1,7 @@
 # 损失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sunshi.md)
+
 <p><span class="chinese">我们损失了金钱，但是吃一堑长一智，我们会成功的。</span><span class="english">We lost money here.</span></p>
 
 <p><span class="chinese">军队损失惨重。</span><span class="english">The army lost heavily.</span></p>

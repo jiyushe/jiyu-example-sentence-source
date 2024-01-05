@@ -1,5 +1,7 @@
 # retrospectively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrospectively.md)
+
 <p><span class="chinese">回顾分析其脑部MRI表现。</span><span class="english">Patients' MRI of encephalon was retrospectively analyzed.</span></p>
 
 <p><span class="chinese">方法回顾性总结6例SARS排除诊断病例的临床资料。</span><span class="english">Methods 6 SARS-ruled-out cases were summarized retrospectively.</span></p>

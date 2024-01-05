@@ -1,5 +1,7 @@
 # cereal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cereal.md)
+
 <p><span class="chinese">不爱吃谷类吗？</span><span class="english">Not into cereal?</span></p>
 
 <p><span class="chinese">我想买苞谷片。</span><span class="english">I wanted to get cereal.</span></p>

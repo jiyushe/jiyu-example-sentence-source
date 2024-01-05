@@ -1,5 +1,7 @@
 # albion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albion.md)
+
 <p><span class="chinese">展示1865年不列颠所始用的手动印刷机。</span><span class="english">Display the original Albion hand press used in 1865.</span></p>
 
 <p><span class="chinese">法国人则认为他们是背信弃义的英国佬</span><span class="english">From the French point of view, it's the perfidious Albion already there.</span></p>

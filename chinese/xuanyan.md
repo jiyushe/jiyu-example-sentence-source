@@ -1,5 +1,7 @@
 # 宣言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanyan.md)
+
 <p><span class="chinese">但宣言呢？</span><span class="english">But Manifestos?</span></p>
 
 <p><span class="chinese">“我已经下定决心了，”林肯回答说，“必须这么做，我要推动这份宣言的落实，要摆脱困境别无他途。</span><span class="english">It must be done. I am driven to it.</span></p>

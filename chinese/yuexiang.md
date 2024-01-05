@@ -1,5 +1,7 @@
 # 月相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuexiang.md)
+
 <p><span class="chinese">红、黄，白相间，如日、月相融。</span><span class="english">Red , yellow and white among them, looks like sun and moon Melt mutually.</span></p>
 
 <p><span class="chinese">月晷显示了当时的月相，月球的间隔年龄和被照明的百分比。</span><span class="english">The moon dial shows the current moon phase, its age and illumination percentage.</span></p>

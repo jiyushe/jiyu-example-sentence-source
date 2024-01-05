@@ -1,5 +1,7 @@
 # expedient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expedient.md)
+
 <p><span class="chinese">但那将是一个愚蠢的权宜之计。</span><span class="english">But that would be crassly expedient.</span></p>
 
 <p><span class="chinese">这样就可以更快地把服务投入市场。</span><span class="english">This allows for faster, more expedient time-to-market.</span></p>

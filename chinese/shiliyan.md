@@ -1,5 +1,7 @@
 # 势利眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiliyan.md)
+
 <p><span class="chinese">她是个势利眼。</span><span class="english">She's a snob.</span></p>
 
 <p><span class="chinese">她竟是这样一个势利眼！</span><span class="english">She's such a snob!</span></p>

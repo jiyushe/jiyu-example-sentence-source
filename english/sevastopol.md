@@ -1,5 +1,7 @@
 # sevastopol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sevastopol.md)
+
 <p><span class="chinese">巴拉克拉瓦是塞瓦斯托波尔的一个偏远的地区。</span><span class="english">Balaclava is a remote district of Sevastopol.</span></p>
 
 <p><span class="chinese">在南方，德国人占领了塞瓦斯托波尔。</span><span class="english">In the south, the Germans captured Sevastopol.</span></p>

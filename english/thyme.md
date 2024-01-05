@@ -1,5 +1,7 @@
 # thyme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thyme.md)
+
 <p><span class="chinese">你们有卖甘燥的百里香吗？</span><span class="english">Do you sell dried thyme ?</span></p>
 
 <p><span class="chinese">百里香风铃草上的蜜蜂。</span><span class="english">The bees on the bells of thyme.</span></p>

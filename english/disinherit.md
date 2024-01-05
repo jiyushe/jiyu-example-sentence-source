@@ -1,5 +1,7 @@
 # disinherit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disinherit.md)
+
 <p><span class="chinese">你可以剥夺子女的继承权.</span><span class="english">You can disinherit your children.</span></p>
 
 <p><span class="chinese">你总不愿意剥夺她的继承权吧？</span><span class="english">You don't mean to disinherit her, do you?</span></p>

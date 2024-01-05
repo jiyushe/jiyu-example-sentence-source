@@ -1,5 +1,7 @@
 # sapporo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sapporo.md)
+
 <p><span class="chinese">那没有关系，我就要沙波萝啤酒。</span><span class="english">That's okay. I'll have Sapporo beer.</span></p>
 
 <p><span class="chinese">札幌连锁菓子店！</span><span class="english">Famous chain shop selling snack in Sapporo.</span></p>

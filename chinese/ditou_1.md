@@ -1,5 +1,7 @@
 # 地头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ditou_1.md)
+
 <p><span class="chinese">我有长长地头发。</span><span class="english">I've got long hair.</span></p>
 
 <p><span class="chinese">他死了，一枪打地头上了。</span><span class="english">He's dead. Shot through the head.</span></p>

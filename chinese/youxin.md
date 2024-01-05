@@ -1,5 +1,7 @@
 # 忧心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxin.md)
+
 <p><span class="chinese">她对考试忧心仲仲。</span><span class="english">She's so worried about her exams.</span></p>
 
 <p><span class="chinese">诚然，我们爱自己的孩子并为他们忧心。</span><span class="english">Of course we love our kids and worry about them.</span></p>

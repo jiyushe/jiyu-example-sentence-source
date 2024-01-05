@@ -1,5 +1,7 @@
 # mercy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercy.md)
+
 <p><span class="chinese">我求求您宽恕我。</span><span class="english">I ask for your mercy.</span></p>
 
 <p><span class="chinese">上主对人只会慈悲施恩。</span><span class="english">God offers only mercy.</span></p>

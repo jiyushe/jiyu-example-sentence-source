@@ -1,5 +1,7 @@
 # 吞噬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tunshi.md)
+
 <p><span class="chinese">你们会被地狱吞噬吧？</span><span class="english">Will hell swallow you up?</span></p>
 
 <p><span class="chinese">你们会被地狱吞噬吧？“</span><span class="english">Will hell swallow you up?"</span></p>

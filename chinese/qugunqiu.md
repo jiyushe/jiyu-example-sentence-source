@@ -1,5 +1,7 @@
 # 曲棍球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qugunqiu.md)
+
 <p><span class="chinese">长曲棍球运动中使用的球。</span><span class="english">The stick used in lacrosse.</span></p>
 
 <p><span class="chinese">瑶瑶经常打曲棍球。</span><span class="english">Yao Yao often plays hockey.</span></p>

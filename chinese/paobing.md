@@ -1,5 +1,7 @@
 # 炮兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paobing.md)
+
 <p><span class="chinese">他是炮兵连一个很不错的指挥官。</span><span class="english">He was an okay battery commander.</span></p>
 
 <p><span class="chinese">一个炮兵连通常由一位上尉来指挥。</span><span class="english">They faced a battery of questions.</span></p>

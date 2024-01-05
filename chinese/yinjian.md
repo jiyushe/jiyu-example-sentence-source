@@ -1,5 +1,7 @@
 # 印鉴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinjian.md)
+
 <p><span class="chinese">你的印鉴卡就放正在账夹内。</span><span class="english">Your signature card would be kept in this folder.</span></p>
 
 <p><span class="chinese">通过实验获得了两幅印鉴图象的高精度配准结果。</span><span class="english">The registration results of high precision are obtained by the experiment.</span></p>

@@ -1,5 +1,7 @@
 # 绊脚石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banjiaoshi.md)
+
 <p><span class="chinese">卫生系统是绊脚石。</span><span class="english">Health systems are the stumbling block.</span></p>
 
 <p><span class="chinese">冠词和介词是初学英语者的绊脚石。</span><span class="english">These are stumbling blocks to our scheme.</span></p>

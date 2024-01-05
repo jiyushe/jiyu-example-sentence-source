@@ -1,5 +1,7 @@
 # truer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truer.md)
+
 <p><span class="chinese">一字不差，字字为实。</span><span class="english">A truer word was never spoken.</span></p>
 
 <p><span class="chinese">相比起美国，日本的承诺甚至更靠谱一些。</span><span class="english">This was even truer of Japan than the US.</span></p>

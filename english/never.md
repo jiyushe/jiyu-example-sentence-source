@@ -1,5 +1,7 @@
 # never 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/never.md)
+
 <p><span class="chinese">永不言弃。</span><span class="english">Never quit.</span></p>
 
 <p><span class="chinese">我就是老学不会。</span><span class="english">I never can.</span></p>

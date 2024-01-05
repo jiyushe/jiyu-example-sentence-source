@@ -1,5 +1,7 @@
 # 呼吁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huyu.md)
+
 <p><span class="chinese">第一分钟秩序的呼吁。</span><span class="english">First order call formin.</span></p>
 
 <p><span class="chinese">华硕呼吁其设计的超薄。</span><span class="english">ASUS calls its design ultrathin.</span></p>

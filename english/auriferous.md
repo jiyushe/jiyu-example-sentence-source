@@ -1,5 +1,7 @@
 # auriferous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auriferous.md)
+
 <p><span class="chinese">金矿床主要为含金硫化物石英脉型。</span><span class="english">Gold ore main type is auriferous quartz vein type.</span></p>
 
 <p><span class="chinese">含金石英脉的产出和分布严格受NNE—NE向断裂控制。</span><span class="english">The occurrence and distribution of auriferous quartz is strictly controlled by NNE-NE fault.</span></p>

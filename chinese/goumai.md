@@ -1,5 +1,7 @@
 # 购买
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goumai.md)
+
 <p><span class="chinese">购买散装。</span><span class="english">Buy bulk.</span></p>
 
 <p><span class="chinese">购买还是租用？</span><span class="english">Buy or rent?</span></p>

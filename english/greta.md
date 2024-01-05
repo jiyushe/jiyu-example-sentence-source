@@ -1,5 +1,7 @@
 # greta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greta.md)
+
 <p><span class="chinese">嘉宝到底有何神秘之处？</span><span class="english">What was the secret of Greta Garbo?</span></p>
 
 <p><span class="chinese">葛丽塔甚至让我给丁肯先生送去一个大苹果馅饼。</span><span class="english">Greta even had me take a big apple pie to Mr.</span></p>

@@ -1,5 +1,7 @@
 # suburbia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suburbia.md)
+
 <p><span class="chinese">人人都需要在郊区有一个温馨的家。</span><span class="english">Everyone needs a lovely home in  suburbia.</span></p>
 
 <p><span class="chinese">我们住在郊区，有两个小孩。</span><span class="english">We live in suburbia. We have two small children.</span></p>

@@ -1,5 +1,7 @@
 # cathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cathy.md)
+
 <p><span class="chinese">她的名字叫凯茜。</span><span class="english">Her name is Cathy.</span></p>
 
 <p><span class="chinese">我当卡西的女傧相。</span><span class="english">I was bridesmaid to Cathy.</span></p>

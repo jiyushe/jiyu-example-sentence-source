@@ -1,5 +1,7 @@
 # antagonism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antagonism.md)
+
 <p><span class="chinese">你能觉察出他们之间有对立情绪。</span><span class="english">You could sense the antagonism between them.</span></p>
 
 <p><span class="chinese">似以定决心和现代文明对抗。</span><span class="english">Be like to fix determination and modern civilized antagonism.</span></p>

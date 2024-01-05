@@ -1,5 +1,7 @@
 # happening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/happening.md)
+
 <p><span class="chinese">没啥事正在发生。</span><span class="english">Nothing much is happening.</span></p>
 
 <p><span class="chinese">你也会开始踏上光明大道。</span><span class="english">You'll start happening too.</span></p>

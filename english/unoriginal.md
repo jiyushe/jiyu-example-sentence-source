@@ -1,5 +1,7 @@
 # unoriginal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unoriginal.md)
+
 <p><span class="chinese">简直是喧宾夺主。</span><span class="english">Is simply unoriginal.</span></p>
 
 <p><span class="chinese">你可以做出一生中最糟糕的事情，那就是不断地抄袭。</span><span class="english">The worst thing you can do in your life is be unoriginal.</span></p>

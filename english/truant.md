@@ -1,5 +1,7 @@
 # truant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truant.md)
+
 <p><span class="chinese">她时不时的逃学。</span><span class="english">She plays truant now and then.</span></p>
 
 <p><span class="chinese">彼得因逃学受到训斥。</span><span class="english">Peter was skinned for playing truant.</span></p>

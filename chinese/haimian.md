@@ -1,5 +1,7 @@
 # 海绵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haimian.md)
+
 <p><span class="chinese">海绵吸水。</span><span class="english">A sponge absorbs water.</span></p>
 
 <p><span class="chinese">他吞下了一块海绵。</span><span class="english">He’d swallowed a sponge.</span></p>

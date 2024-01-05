@@ -1,5 +1,7 @@
 # catholicism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catholicism.md)
+
 <p><span class="chinese">他已放弃佛教改信天主教了。</span><span class="english">He has converted from Buddhism to Catholicism.</span></p>
 
 <p><span class="chinese">1988年，她改信了罗马天主教。</span><span class="english">In 1988, Dillard converted to Roman Catholicism.</span></p>

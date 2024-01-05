@@ -1,5 +1,7 @@
 # 骨化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guhua_2.md)
+
 <p><span class="chinese">它从天河的琼水骨化而来。</span><span class="english">Which is from ossification of water in galaxy.</span></p>
 
 <p><span class="chinese">骨化三醇与较高的高钙尿症危险相关。</span><span class="english">Calcitriol was associated with a higher risk of hypercalciuria.</span></p>

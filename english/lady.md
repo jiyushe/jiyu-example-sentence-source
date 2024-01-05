@@ -1,5 +1,7 @@
 # lady
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lady.md)
+
 <p><span class="chinese">卖鹌鹑蛋的。</span><span class="english">Quail egg lady.</span></p>
 
 <p><span class="chinese">我有一个好太太。</span><span class="english">I got a nice lady.</span></p>

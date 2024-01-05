@@ -1,5 +1,7 @@
 # 山珍海味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanzhenhaiwei.md)
+
 <p><span class="chinese">本饭店山珍海味，一应俱全。</span><span class="english">Our restaurant serves a feast of delicacies.</span></p>
 
 <p><span class="chinese">这几天我只能在梦中享受山珍海味了。</span><span class="english">The only feasting I do these days is in my dream.</span></p>

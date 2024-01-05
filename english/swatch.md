@@ -1,5 +1,7 @@
 # swatch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swatch.md)
+
 <p><span class="chinese">请给色卡我看看。</span><span class="english">Please show me color swatch.</span></p>
 
 <p><span class="chinese">这只斯沃琪牌的手表是叔叔给我的。</span><span class="english">A Swatch was given to me by my uncle.</span></p>

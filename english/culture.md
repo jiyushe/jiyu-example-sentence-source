@@ -1,5 +1,7 @@
 # culture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culture.md)
+
 <p><span class="chinese">这是我们的文化。</span><span class="english">This is our culture.</span></p>
 
 <p><span class="chinese">另外一个文化馆。</span><span class="english">Another culture house.</span></p>

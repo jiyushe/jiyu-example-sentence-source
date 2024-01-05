@@ -1,5 +1,7 @@
 # drying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drying.md)
+
 <p><span class="chinese">电池极板干燥机“，”</span><span class="english">Battery Grid Drying Machine.</span></p>
 
 <p><span class="chinese">我赶紧拭干了泪。</span><span class="english">I hasten drying of the tears.</span></p>

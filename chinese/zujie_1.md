@@ -1,5 +1,7 @@
 # 租界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zujie_1.md)
+
 <p><span class="chinese">1845年起外滩地带被划为英国租界。</span><span class="english">From 1845, the Bund was in the British Concession.</span></p>
 
 <p><span class="chinese">英国，法国和美国划分了租界。</span><span class="english">Britain, France and the U.S. carved out concessions.</span></p>

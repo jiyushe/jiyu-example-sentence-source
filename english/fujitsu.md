@@ -1,5 +1,7 @@
 # fujitsu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fujitsu.md)
+
 <p><span class="chinese">但不管怎样，富士通公司已经同东京证券交易所矛盾重重。</span><span class="english">But Fujitsu has found itself in trouble with the TSE anyway.</span></p>
 
 <p><span class="chinese">领导下，富士通曾是企业改革的典范。</span><span class="english">The irony is that under Mr Nozoe, Fujitsu was a model of corporate reform.</span></p>

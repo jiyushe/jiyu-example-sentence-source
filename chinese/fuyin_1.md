@@ -1,5 +1,7 @@
 # 辅音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyin_1.md)
+
 <p><span class="chinese">这个词以辅音结尾。</span><span class="english">The word ends in -ous.</span></p>
 
 <p><span class="chinese">这个词以辅音结尾。</span><span class="english">The word ends in a consonant.</span></p>

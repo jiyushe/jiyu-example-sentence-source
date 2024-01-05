@@ -1,5 +1,7 @@
 # 突击队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tujidui.md)
+
 <p><span class="chinese">第八海豹突击队。深入敌后。</span><span class="english">Seal. Team. Eight. Behind. Enemy.</span></p>
 
 <p><span class="chinese">突击队需要半小时来解除这些雷。</span><span class="english">They will need a half-hour to disarm them.</span></p>

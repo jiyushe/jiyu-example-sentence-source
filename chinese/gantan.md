@@ -1,5 +1,7 @@
 # 感叹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gantan.md)
+
 <p><span class="chinese">你会感叹"靠"</span><span class="english">You go, "Doh!"</span></p>
 
 <p><span class="chinese">嘿感叹！俺看见了感化院感叹！</span><span class="english">Heeey! I see the penitentiary!</span></p>

@@ -1,5 +1,7 @@
 # berberine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berberine.md)
+
 <p><span class="chinese">穷到苦同黄连。</span><span class="english">Poor to suffer with berberine.</span></p>
 
 <p><span class="chinese">结论黄连素治疗代谢综合症有较好的疗效。</span><span class="english">Conclusion Berberine has good cure effect on metabolism syndrome.</span></p>

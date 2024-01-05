@@ -1,5 +1,7 @@
 # 题跋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiba_1.md)
+
 <p><span class="chinese">陆游多藏书、刻书，精于校勘、考证，所作藏书题跋极有文献价值，著述宏富。</span><span class="english">Luyou collected and inscribed a lot of books. He was good at emendation and textual research.</span></p>
 
 <p><span class="chinese">“题跋”是附于一定载体之后的短小灵活的杂记散文。</span><span class="english">The inscriptive writings are attaches after the certain carrier the short nimble miscellany prose.</span></p>

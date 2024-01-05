@@ -1,5 +1,7 @@
 # turnip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turnip.md)
+
 <p><span class="chinese">萝卜糕。</span><span class="english">White Turnip Cakes.</span></p>
 
 <p><span class="chinese">它拉下一个大萝卜。</span><span class="english">He pulled down a big turnip.</span></p>

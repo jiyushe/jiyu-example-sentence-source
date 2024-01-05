@@ -1,5 +1,7 @@
 # 本文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benwen.md)
+
 <p><span class="chinese">我写作本文时间是六月。</span><span class="english">I write this in June.</span></p>
 
 <p><span class="chinese">本文共分两部分。</span><span class="english">In two parts, hereunder.</span></p>

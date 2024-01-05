@@ -1,5 +1,7 @@
 # 柳枝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuzhi.md)
+
 <p><span class="chinese">柳枝迎风摇摆。</span><span class="english">The willow branches swing in the breeze.</span></p>
 
 <p><span class="chinese">柳枝低垂在水面上。</span><span class="english">The branches of the willows drooped over the water.</span></p>

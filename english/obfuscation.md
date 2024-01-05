@@ -1,5 +1,7 @@
 # obfuscation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obfuscation.md)
+
 <p><span class="chinese">只有书呆子才相信使人困惑会有好处。</span><span class="english">Only pedants believe in the advantage of obfuscation.</span></p>
 
 <p><span class="chinese">爱到不敢靠近，在酒精的迷乱和亢奋之下，才会大胆的向前。</span><span class="english">Love dare not to close to, in alcohol obfuscation and excited, will boldly forward.</span></p>

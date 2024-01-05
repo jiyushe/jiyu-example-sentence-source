@@ -1,5 +1,7 @@
 # 红衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongyi.md)
+
 <p><span class="chinese">琼恩问红衣女祭司。</span><span class="english">Jon asked the red priestess.</span></p>
 
 <p><span class="chinese">或是长发红衣侍从。</span><span class="english">Or long-hair'd page in crimson clad.</span></p>

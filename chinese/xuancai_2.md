@@ -1,5 +1,7 @@
 # 选材
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuancai_2.md)
+
 <p><span class="chinese">强大的选材需求。</span><span class="english">Great demand of material.</span></p>
 
 <p><span class="chinese">百度欢迎你们这样的精英！，那么我们选材的标准是什么呢？</span><span class="english">Baidu welcomes talents like you! So what kind of people we like?</span></p>

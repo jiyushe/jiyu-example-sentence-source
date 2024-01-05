@@ -1,5 +1,7 @@
 # repast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repast.md)
+
 <p><span class="chinese">男人和女人在餐后解开了他们的腰带。</span><span class="english">And Man and Woman unfastened their belts following the repast.</span></p>
 
 <p><span class="chinese">去这里就餐的人都是非常多的，感觉非常不错的。</span><span class="english">To everyone here repast is very much, the feeling is very good.</span></p>

@@ -1,5 +1,7 @@
 # lakh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lakh.md)
+
 <p><span class="chinese">超过二十万个孩子住在你永远无法想象的地方。</span><span class="english">Over two lakh children live in places you can never imagine.</span></p>
 
 <p><span class="chinese">那些身受重伤，将得到每一个卢比万卢比。</span><span class="english">Those who sustained serious injuries will get Rs. 1 Lakh each.</span></p>

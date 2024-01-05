@@ -1,5 +1,7 @@
 # 背信弃义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beixinqiyi.md)
+
 <p><span class="chinese">他是个背信弃义的家伙！</span><span class="english">He's a guy with Punic faith.</span></p>
 
 <p><span class="chinese">我厌倦了你对我的背信弃义。</span><span class="english">I'm tired of you ratting on me.</span></p>

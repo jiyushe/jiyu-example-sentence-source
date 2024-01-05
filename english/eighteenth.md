@@ -1,5 +1,7 @@
 # eighteenth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eighteenth.md)
+
 <p><span class="chinese">十八世纪吗？</span><span class="english">Is it the eighteenth century?</span></p>
 
 <p><span class="chinese">你是在第十八球洞的三推杆球！</span><span class="english">You are three putts on the eighteenth green!</span></p>

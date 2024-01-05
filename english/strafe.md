@@ -1,5 +1,7 @@
 # strafe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strafe.md)
+
 <p><span class="chinese">他们可能出来扫射这桥。我们最好马上就走。</span><span class="english">They might be out to strafe this bridge. We'd better get off.</span></p>
 
 <p><span class="chinese">于是，按怀特的话说，我们选择俯冲轰炸并猛攻一个坦克部队。</span><span class="english">So, in Wright's words, we opted to dive bomb and strafe a panzer division.</span></p>

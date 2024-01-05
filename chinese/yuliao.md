@@ -1,5 +1,7 @@
 # 预料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuliao.md)
+
 <p><span class="chinese">现在还不清楚，很难预料。</span><span class="english">It's hard to predict.</span></p>
 
 <p><span class="chinese">这个是你预料到的么？</span><span class="english">Is it what you expected?</span></p>

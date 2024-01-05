@@ -1,5 +1,7 @@
 # 履历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvli.md)
+
 <p><span class="chinese">把某人的履历用电子邮件发给…</span><span class="english">E-mail one's resume to sb.</span></p>
 
 <p><span class="chinese">履历是一份礼品，我们正在被付与着。</span><span class="english">Experience is a gift being given.</span></p>

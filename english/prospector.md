@@ -1,5 +1,7 @@
 # prospector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prospector.md)
+
 <p><span class="chinese">愿你是这些奇迹的勇敢探秘者！</span><span class="english">Hope you're a brave prospector of those miracles.</span></p>
 
 <p><span class="chinese">立桩标出他所发现的矿区地以示归己所有。</span><span class="english">The prospector staked his claim to the mine he discovered.</span></p>

@@ -1,5 +1,7 @@
 # retook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retook.md)
+
 <p><span class="chinese">她在上周补考了一次化学。</span><span class="english">He retook the chemistry paper last week.</span></p>
 
 <p><span class="chinese">他们夺回军港中的一个要塞。</span><span class="english">They retook a fortress in the naval port.</span></p>

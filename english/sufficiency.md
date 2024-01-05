@@ -1,5 +1,7 @@
 # sufficiency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sufficiency.md)
+
 <p><span class="chinese">所以效率等于q1加q2除以。</span><span class="english">q1 So sufficiency is q1 plus q2 over q1.</span></p>
 
 <p><span class="chinese">追求富足和自我满足真的冲突？</span><span class="english">Do abundance and sufficiency really have to clash?</span></p>

@@ -1,5 +1,7 @@
 # coarsely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coarsely.md)
+
 <p><span class="chinese">晾凉后稍微切碎。</span><span class="english">Let cool and then chop coarsely.</span></p>
 
 <p><span class="chinese">苹果切成粗丁加入面糊后倒入备好的派饼。</span><span class="english">Add in the coarsely diced apples and spread evenly into the prepared crust.</span></p>

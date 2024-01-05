@@ -1,5 +1,7 @@
 # undercoat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undercoat.md)
+
 <p><span class="chinese">底毛为浅黄色或灰色。</span><span class="english">The undercoat is buff or gray.</span></p>
 
 <p><span class="chinese">缺乏底毛也是严重缺陷。</span><span class="english">Lack of undercoat is a serious fault.</span></p>

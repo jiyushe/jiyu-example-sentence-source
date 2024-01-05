@@ -1,5 +1,7 @@
 # 万里长城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanlichangcheng.md)
+
 <p><span class="chinese">我知道中国的万里长城。</span><span class="english">I know the Great Wall of China.</span></p>
 
 <p><span class="chinese">他拍了一组万里长城的照片。</span><span class="english">He took photos of the Great Wall.</span></p>

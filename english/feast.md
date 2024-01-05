@@ -1,5 +1,7 @@
 # feast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feast.md)
+
 <p><span class="chinese">院落别墅的时代之筵。</span><span class="english">Era' feast of yard villa.</span></p>
 
 <p><span class="chinese">她的劢宴是七月22日。</span><span class="english">Her feast day is July 22.</span></p>

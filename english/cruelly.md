@@ -1,5 +1,7 @@
 # cruelly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cruelly.md)
+
 <p><span class="chinese">他们残酷地为死者报仇。</span><span class="english">They revenged their dead cruelly.</span></p>
 
 <p><span class="chinese">孤独便残酷地统治整个世界。</span><span class="english">Alonenss enfolds the world cruelly.</span></p>

@@ -1,5 +1,7 @@
 # photodiode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photodiode.md)
+
 <p><span class="chinese">雪崩光电二极管APD的偏压产生电路。</span><span class="english">Avalanche photodiode APD bias circuit generated.</span></p>
 
 <p><span class="chinese">事实上，整个网络变成了一个巨大的光敏二极管。</span><span class="english">In effect, the network becomes one giant photodiode.</span></p>

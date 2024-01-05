@@ -1,5 +1,7 @@
 # anthelmintic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthelmintic.md)
+
 <p><span class="chinese">理想的驱虫药物有丙硫苯咪唑和左咪唑。</span><span class="english">Rosickyite-Benzimidazole and novantisol were ideal anthelmintic.</span></p>
 
 <p><span class="chinese">绿色晶体，用作染料、着色剂、杀菌剂、杀真菌剂、驱虫剂或用于烧伤处理。</span><span class="english">A green crystal used as a dye or stain or bactericide or fungicide or anthelmintic or burn treatment.</span></p>

@@ -1,5 +1,7 @@
 # 定量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingliang.md)
+
 <p><span class="chinese">你如何来定量衡量变化呢？</span><span class="english">How do you quantify change?</span></p>
 
 <p><span class="chinese">我们的白糖是定量供应的。</span><span class="english">We are rationed with sugar.</span></p>

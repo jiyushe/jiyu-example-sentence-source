@@ -1,5 +1,7 @@
 # 荸荠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biqi.md)
+
 <p><span class="chinese">在贮藏期间，鲜切荸荠比较容易褐变。</span><span class="english">During storage, fresh-cut CWC was easy to browning.</span></p>
 
 <p><span class="chinese">本文旨在研究荸荠汁澄清工艺，开发澄清的荸荠汁饮料。</span><span class="english">The new clarifying technique of the water chestnut juice was studied.</span></p>

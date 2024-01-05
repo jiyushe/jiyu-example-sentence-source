@@ -1,5 +1,7 @@
 # polytechnic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polytechnic.md)
+
 <p><span class="chinese">在理工大学之外，似乎弥漫着一种威胁的空气。</span><span class="english">There's an air of menace outside the Polytechnic.</span></p>
 
 <p><span class="chinese">古费拉克，你去看看综合工科学校的那些同学。</span><span class="english">Courfeyrac, you will see the polytechnic students.</span></p>

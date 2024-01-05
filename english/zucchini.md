@@ -1,5 +1,7 @@
 # zucchini
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zucchini.md)
+
 <p><span class="chinese">鲜美大饼面包，并不如甜面包作为西葫芦。</span><span class="english">Tasty bannock bread, not as sweet as zucchini bread.</span></p>
 
 <p><span class="chinese">我建议吃胡萝卜蛋糕、小胡瓜面包和南瓜派。</span><span class="english">I suggest carrot cake, zucchini bread and pumpkin pie.</span></p>

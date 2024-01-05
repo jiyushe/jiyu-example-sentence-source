@@ -1,5 +1,7 @@
 # peyton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peyton.md)
+
 <p><span class="chinese">佩顿曼宁是一个真正的领域的一般。</span><span class="english">Peyton Manning is a true field general.</span></p>
 
 <p><span class="chinese">格雷斯影星变王妃，畅销书，苏伊士运河危机。</span><span class="english">Princess Grace, "Peyton Place", Trouble in the Suez.</span></p>

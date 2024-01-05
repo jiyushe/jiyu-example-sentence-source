@@ -1,5 +1,7 @@
 # incisive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incisive.md)
+
 <p><span class="chinese">这样就会更直截了当和敏锐。</span><span class="english">It's to be more forthright and incisive.</span></p>
 
 <p><span class="chinese">新科玄之争存在深刻的认识论根源。</span><span class="english">The debates have incisive epistemological causes.</span></p>

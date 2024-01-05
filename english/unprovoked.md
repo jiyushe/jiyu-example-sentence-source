@@ -1,5 +1,7 @@
 # unprovoked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unprovoked.md)
+
 <p><span class="chinese">癫痫是指两次或两次以上的无端发作。</span><span class="english">Epilepsy is defined by two or more unprovoked seizures.</span></p>
 
 <p><span class="chinese">思绪纠缠，无端的会惹起许多莫名的心思。</span><span class="english">Thoughts of entanglement, unprovoked will cause many inexplicable mind.</span></p>

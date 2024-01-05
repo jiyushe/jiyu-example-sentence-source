@@ -1,5 +1,7 @@
 # brought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brought.md)
+
 <p><span class="chinese">我只带了一只来。</span><span class="english">I brought it with me.</span></p>
 
 <p><span class="chinese">是它把你带到了这里。</span><span class="english">It brought thee hither.</span></p>

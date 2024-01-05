@@ -1,5 +1,7 @@
 # 标准音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaozhunyin.md)
+
 <p><span class="chinese">让孩子在游戏中快速学习拼音，享受学拼音的乐趣，并快速达到标准音的效果。</span><span class="english">Let them quickly learn Pinyin in the game, and enjoy the learning process, furthermore learning the standard Pinyin pronunciation.</span></p>
 
 <p><span class="chinese">经过很多次培训后，在被要求区分1000赫兹标准音与某较低音之间的差别时他们毫无进步。</span><span class="english">Over and over again, they were asked to tell the difference between the 1,000 Hertz tone and a lower tone but showed no improvement.</span></p>

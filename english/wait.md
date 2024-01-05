@@ -1,5 +1,7 @@
 # wait
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wait.md)
+
 <p><span class="chinese">哦，等等。</span><span class="english">Oh, wait.</span></p>
 
 <p><span class="chinese">在此等候。</span><span class="english">Just wait.</span></p>

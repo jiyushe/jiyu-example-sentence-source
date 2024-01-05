@@ -1,5 +1,7 @@
 # vocoder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vocoder.md)
+
 <p><span class="chinese">最后对该声码器进行性能分析。</span><span class="english">At last, analyzing the performance of the vocoder.</span></p>
 
 <p><span class="chinese">本文给出一种基于编码速率600bps的高质量声码器算法的专用处理器设计。</span><span class="english">The application specific processor based on the algorithm of 600bps vocoder is presented in this paper.</span></p>

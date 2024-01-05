@@ -1,5 +1,7 @@
 # conciseness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conciseness.md)
+
 <p><span class="chinese">第二个要解决的问题是简洁。</span><span class="english">A second problem to address is conciseness.</span></p>
 
 <p><span class="chinese">简洁明了总是最佳选择。</span><span class="english">Conciseness and clarity in language are always best.</span></p>

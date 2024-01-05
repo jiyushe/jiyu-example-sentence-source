@@ -1,5 +1,7 @@
 # took
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/took.md)
+
 <p><span class="chinese">我边听边记着笔记。</span><span class="english">I took notes.</span></p>
 
 <p><span class="chinese">他咬下一口。</span><span class="english">He took a bite.</span></p>

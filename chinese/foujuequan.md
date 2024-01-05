@@ -1,5 +1,7 @@
 # 否决权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/foujuequan.md)
+
 <p><span class="chinese">总统行使了他的否决权。</span><span class="english">The president used the power of veto.</span></p>
 
 <p><span class="chinese">他说这五个国家手中的否决权就等同于恐怖主义。</span><span class="english">Their veto was tantamount to terrorism.</span></p>

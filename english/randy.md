@@ -1,5 +1,7 @@
 # randy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/randy.md)
+
 <p><span class="chinese">这个流氓是个好色之徒。</span><span class="english">The rascal is a randy man.</span></p>
 
 <p><span class="chinese">放开我，你这老色鬼！</span><span class="english">Let go, you randy old goat!</span></p>

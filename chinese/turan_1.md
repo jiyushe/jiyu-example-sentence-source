@@ -1,5 +1,7 @@
 # 突然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/turan_1.md)
+
 <p><span class="chinese">我突然猛地击了他一拳。</span><span class="english">I belted him one.</span></p>
 
 <p><span class="chinese">一阵酷暑突然过去了。</span><span class="english">The hot spell broke.</span></p>

@@ -1,5 +1,7 @@
 # retro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retro.md)
+
 <p><span class="chinese">复古的8位平台游戏的行动。</span><span class="english">Retro 8-Bit platformer action.</span></p>
 
 <p><span class="chinese">其结果是非常复古的。</span><span class="english">The result was very retro -looking.</span></p>

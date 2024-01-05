@@ -1,5 +1,7 @@
 # amazingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amazingly.md)
+
 <p><span class="chinese">我的朋友玛瑞娅说,“你刚刚的表演太令人吃惊了,我简直不敢相信!</span><span class="english">I can’t believe how amazingly you just did!</span></p>
 
 <p><span class="chinese">取近似值,非常好。</span><span class="english">The approximation is really amazingly good.</span></p>

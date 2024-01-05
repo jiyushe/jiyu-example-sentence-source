@@ -1,5 +1,7 @@
 # lamplight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamplight.md)
+
 <p><span class="chinese">我灯光下的丽莉。</span><span class="english">My Lilli of the lamplight.</span></p>
 
 <p><span class="chinese">在灯光下，她脸色显得特别苍白。</span><span class="english">Her pale face stood out in the lamplight.</span></p>

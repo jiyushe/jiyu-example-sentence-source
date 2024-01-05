@@ -1,5 +1,7 @@
 # clicker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clicker.md)
+
 <p><span class="chinese">那么让我们来做一个选择题。</span><span class="english">So let's go to a clicker question.</span></p>
 
 <p><span class="chinese">我们已经都明白了课堂测试题。</span><span class="english">So we got our clicker question set there.</span></p>

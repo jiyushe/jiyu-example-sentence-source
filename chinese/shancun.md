@@ -1,5 +1,7 @@
 # 山村
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shancun.md)
+
 <p><span class="chinese">他住在一个荒凉的山村里。</span><span class="english">He lives in a lonely village.</span></p>
 
 <p><span class="chinese">她住在山村里。</span><span class="english">She lives in a mountain village.</span></p>

@@ -1,5 +1,7 @@
 # wall 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wall.md)
+
 <p><span class="chinese">心壁很薄。</span><span class="english">With thin wall.</span></p>
 
 <p><span class="chinese">帝凡尼壁灯。</span><span class="english">Tiffany Wall Lamp.</span></p>

@@ -1,5 +1,7 @@
 # vegetatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vegetatively.md)
+
 <p><span class="chinese">这些具有内在的和明显的遗传性，并可以无性繁殖。</span><span class="english">These are inherent and apparently permanent and can be propagated vegetatively.</span></p>
 
 <p><span class="chinese">藓类是能够通过其碎片进行繁殖的。</span><span class="english">Many mosses can reproduce vegetatively by fragment of the parent colony breaking off.</span></p>

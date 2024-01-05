@@ -1,5 +1,7 @@
 # accredited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accredited.md)
+
 <p><span class="chinese">委派他任上尉。</span><span class="english">He was accredited captain.</span></p>
 
 <p><span class="chinese">我们相信他所说的话。</span><span class="english">We accredited what he said.</span></p>

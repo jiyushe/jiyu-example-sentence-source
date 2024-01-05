@@ -1,5 +1,7 @@
 # informally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/informally.md)
+
 <p><span class="chinese">所以月亮已经被非正式的被洗礼了。</span><span class="english">So the moon has been informally christened.</span></p>
 
 <p><span class="chinese">他们受到不拘礼节的欢迎。</span><span class="english">They were received without ceremony, ie informally.</span></p>

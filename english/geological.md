@@ -1,5 +1,7 @@
 # geological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geological.md)
+
 <p><span class="chinese">但从地质年代上来说，它还是一个婴儿。</span><span class="english">That's a baby in geological terms.</span></p>
 
 <p><span class="chinese">史密森学会及美国地质调查局。</span><span class="english">Smithsonian and U.S. Geological Survey.</span></p>

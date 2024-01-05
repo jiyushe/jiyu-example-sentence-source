@@ -1,5 +1,7 @@
 # hyperextension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperextension.md)
+
 <p><span class="chinese">损伤机制多为过伸伤。</span><span class="english">Most frequent mechanism of the injury is hyperextension.</span></p>
 
 <p><span class="chinese">这个动作也将帮预防膝关节超伸。</span><span class="english">This action will also help prevent hyperextension of your knees.</span></p>

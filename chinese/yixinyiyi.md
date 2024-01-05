@@ -1,5 +1,7 @@
 # 一心一意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixinyiyi.md)
+
 <p><span class="chinese">我一心一意祝简成功。</span><span class="english">I wish Jane success with all my heart.</span></p>
 
 <p><span class="chinese">张北雁容许一心一意协助牛一蓓！</span><span class="english">ZhangBeiYan allow single-minded assist the bud!</span></p>

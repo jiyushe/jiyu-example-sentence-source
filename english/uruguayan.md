@@ -1,5 +1,7 @@
 # uruguayan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uruguayan.md)
+
 <p><span class="chinese">乌拉圭空军571航班</span><span class="english">Uruguayan Air Force Flight 571</span></p>
 
 <p><span class="chinese">不过，据乌拉圭媒体称，该球员最中意的球队还是国米。</span><span class="english">However, Uruguayan sources say Inter are favourites for Muslera.</span></p>

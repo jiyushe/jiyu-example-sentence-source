@@ -1,5 +1,7 @@
 # creditably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creditably.md)
+
 <p><span class="chinese">不过在赛场上，坎通纳绝对不愧对“国王”这样的称号。</span><span class="english">But Kantona is the "King" on the field creditably.</span></p>
 
 <p><span class="chinese">人渴望有个家，一个幸福美满的家！</span><span class="english">Man desired to have a family, a Happy and Creditably family.</span></p>

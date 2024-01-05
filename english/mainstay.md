@@ -1,5 +1,7 @@
 # mainstay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mainstay.md)
+
 <p><span class="chinese">你是公司的大台柱。</span><span class="english">You're the mainstay of the company.</span></p>
 
 <p><span class="chinese">她是我们车间的主心骨。</span><span class="english">She is the mainstay of our workshop.</span></p>

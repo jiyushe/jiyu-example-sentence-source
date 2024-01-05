@@ -1,5 +1,7 @@
 # 万家灯火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanjiadenghuo.md)
+
 <p><span class="chinese">你还记得万家灯火映照在水上的景象吗？</span><span class="english">Do you remember all the city lights on the water.</span></p>
 
 <p><span class="chinese">从飞机上俯视远处可以看到伦敦的万家灯火。</span><span class="english">Far below the plane we could see the lights of London.</span></p>

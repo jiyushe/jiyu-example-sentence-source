@@ -1,5 +1,7 @@
 # mould
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mould.md)
+
 <p><span class="chinese">天气潮湿时衣服会发霉。</span><span class="english">Clothes mould in wet weather.</span></p>
 
 <p><span class="chinese">霉斑不见了，污渍消失了。</span><span class="english">The mould and scum melt away.</span></p>

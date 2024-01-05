@@ -1,5 +1,7 @@
 # inventor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inventor.md)
+
 <p><span class="chinese">发明人说“我确定“</span><span class="english">And the inventor said, "Yes."</span></p>
 
 <p><span class="chinese">要发明得先有发明者。</span><span class="english">An invention supposes an inventor.</span></p>

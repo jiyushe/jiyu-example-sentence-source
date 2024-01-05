@@ -1,5 +1,7 @@
 # brazier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brazier.md)
+
 <p><span class="chinese">所以你把他放了，并拿走了那个火盆。</span><span class="english">So, you set him free and take the Brazier with you.</span></p>
 
 <p><span class="chinese">你在那里的一个小山洞里能找到一个火盆。</span><span class="english">You will find a brazier within a shallow cave there.</span></p>

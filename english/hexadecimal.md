@@ -1,5 +1,7 @@
 # hexadecimal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hexadecimal.md)
+
 <p><span class="chinese">十六进制一词是从十六这个数得来的。</span><span class="english">The word hexadecimal is derived from the number 16.</span></p>
 
 <p><span class="chinese">将列举型别项目显示为十六进位值。</span><span class="english">Displays the enumeration entry as a hexadecimal value.</span></p>

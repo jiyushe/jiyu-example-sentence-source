@@ -1,5 +1,7 @@
 # 贵妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guifu.md)
+
 <p><span class="chinese">你是一只贵妇猫！</span><span class="english">You are a Ragdoll!</span></p>
 
 <p><span class="chinese">贵妇狗是我最喜欢的一种狗。</span><span class="english">Poodles are my favorite breed of dog.</span></p>

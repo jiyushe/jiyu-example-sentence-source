@@ -1,5 +1,7 @@
 # 陶器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoqi.md)
+
 <p><span class="chinese">所以我们能看到的是陶器上的</span><span class="english">So what we have is on the pottery.</span></p>
 
 <p><span class="chinese">陶器制造是世界最古老的技艺。</span><span class="english">Pottery is the oldest art in the world.</span></p>

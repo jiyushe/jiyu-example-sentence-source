@@ -1,5 +1,7 @@
 # voidable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voidable.md)
+
 <p><span class="chinese">所提供之船票不可以退款、不可以取消。</span><span class="english">Ferry tickets are Non-Refundable and Non- Voidable.</span></p>
 
 <p><span class="chinese">因此任何以她先生名义过渡的买卖或指定买卖都是无效的。</span><span class="english">Any sale or nomination to her, through her husband, would be voidable.</span></p>

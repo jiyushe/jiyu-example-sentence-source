@@ -1,5 +1,7 @@
 # 秽语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiyu.md)
+
 <p><span class="chinese">或者说任何秽语或那类话。</span><span class="english">Or say any profanities or anything like that.</span></p>
 
 <p><span class="chinese">那位青年对我粗言秽语。</span><span class="english">That young man flung out hard words against me.</span></p>

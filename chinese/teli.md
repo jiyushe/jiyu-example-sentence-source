@@ -1,5 +1,7 @@
 # 特例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teli.md)
+
 <p><span class="chinese">有没有特例呢？</span><span class="english">Should there be exceptions?</span></p>
 
 <p><span class="chinese">只不过也有些特例。</span><span class="english">Only, there some exceptions.</span></p>

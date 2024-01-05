@@ -1,5 +1,7 @@
 # 辐射能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fusheneng.md)
+
 <p><span class="chinese">辐射能也称作光能。</span><span class="english">Radiant energy is also called light energy.</span></p>
 
 <p><span class="chinese">所有的辐射能都具有波的特征。</span><span class="english">All radiant energy has wavelike characteristics.</span></p>

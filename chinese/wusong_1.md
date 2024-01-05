@@ -1,5 +1,7 @@
 # 雾凇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusong_1.md)
+
 <p><span class="chinese">非也，这就是难得一求的雾凇！</span><span class="english">No, this is rarely asked scenes!</span></p>
 
 <p><span class="chinese">雾凇在民间还有一个“梦送”的美名。</span><span class="english">Fog also a folk song in "Dream as" a good reputation.</span></p>

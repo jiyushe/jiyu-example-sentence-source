@@ -1,5 +1,7 @@
 # 马铃薯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/malingshu.md)
+
 <p><span class="chinese">马铃薯是咸的。</span><span class="english">The potatoes are salty.</span></p>
 
 <p><span class="chinese">切成大块的马铃薯。</span><span class="english">Potatoes cut into big pieces.</span></p>

@@ -1,5 +1,7 @@
 # 玉佩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yupei.md)
+
 <p><span class="chinese">这块玉佩是咱们家的传家宝。</span><span class="english">This jade pendant is our family heirloom.</span></p>
 
 <p><span class="chinese">云狂把玉佩又给了乐儿，让她收好。</span><span class="english">Wild gave both the wek-jin and cloud, let her away.</span></p>

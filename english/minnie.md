@@ -1,5 +1,7 @@
 # minnie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minnie.md)
+
 <p><span class="chinese">我们都同意米妮了。</span><span class="english">We agreed on Minnie.</span></p>
 
 <p><span class="chinese">米妮摇动两个摇摇.</span><span class="english">Minnie shakes two rocks.</span></p>

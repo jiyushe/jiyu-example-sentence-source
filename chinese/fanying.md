@@ -1,5 +1,7 @@
 # 反应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanying.md)
+
 <p><span class="chinese">你如何反应?</span><span class="english">How do you react?</span></p>
 
 <p><span class="chinese">他们反应过激。</span><span class="english">They overreacted.</span></p>

@@ -1,5 +1,7 @@
 # oscillation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oscillation.md)
+
 <p><span class="chinese">这是摆动的周期吗？</span><span class="english">So what is the period of oscillation?</span></p>
 
 <p><span class="chinese">这是个简单谐波振荡。</span><span class="english">This is a simple harmonic oscillation.</span></p>

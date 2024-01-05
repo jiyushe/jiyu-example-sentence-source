@@ -1,5 +1,7 @@
 # cortege
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cortege.md)
+
 <p><span class="chinese">送葬行列</span><span class="english">Okay, cortege.</span></p>
 
 <p><span class="chinese">他下令随从们停下。</span><span class="english">He ordered the cortege to stop.</span></p>

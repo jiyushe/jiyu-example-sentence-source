@@ -1,5 +1,7 @@
 # 围墙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiqiang.md)
+
 <p><span class="chinese">围墙围住那块土地。</span><span class="english">A fence encloses the land.</span></p>
 
 <p><span class="chinese">婴儿车碰到了围墙。</span><span class="english">The pram bumped the fence.</span></p>

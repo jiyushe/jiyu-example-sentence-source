@@ -1,5 +1,7 @@
 # jagged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jagged.md)
+
 <p><span class="chinese">那些锯齿的边缘都是酶。</span><span class="english">The jagged edges are enzymes.</span></p>
 
 <p><span class="chinese">他的额头上交织着累累疤痕。</span><span class="english">A jagged scar runs down his forehead.</span></p>

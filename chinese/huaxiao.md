@@ -1,5 +1,7 @@
 # 花销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaxiao.md)
+
 <p><span class="chinese">从控制你的花销开始。</span><span class="english">To begin, curb your spending.</span></p>
 
 <p><span class="chinese">去外面吃几顿饭后的花销加在一起就很厉害了。</span><span class="english">A few dinners out do add up quickly.</span></p>

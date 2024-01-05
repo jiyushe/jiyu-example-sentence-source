@@ -1,5 +1,7 @@
 # murkiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/murkiness.md)
+
 <p><span class="chinese">燃烧的灯芯在朦胧中变得红通通的一片。</span><span class="english">The burning light-wick appears as a whole splotch of redness in the murkiness of her eyes.</span></p>
 
 <p><span class="chinese">今年即将毕业的研究生已经感受到就业市场的低迷。</span><span class="english">This year soon graduates the graduate student already felt the employment market the murkiness.</span></p>

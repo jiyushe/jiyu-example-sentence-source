@@ -1,5 +1,7 @@
 # wing 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wing.md)
+
 <p><span class="chinese">擦抹我的翅膀。</span><span class="english">Shall brush my wing.</span></p>
 
 <p><span class="chinese">让我看看你的翅膀。</span><span class="english">Let me see your wing.</span></p>

@@ -1,5 +1,7 @@
 # 卓尔不群
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoerbuqun.md)
+
 <p><span class="chinese">男性有优先权，依旧卓尔不群</span><span class="english">Men have precedency and still excel</span></p>
 
 <p><span class="chinese">只要一个手写笔，会有卓尔不群的效果！</span><span class="english">If you have a stylus for this, nothing like it!</span></p>

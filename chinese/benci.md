@@ -1,5 +1,7 @@
 # 本次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benci.md)
+
 <p><span class="chinese">法新社提供了本次报导。</span><span class="english">AFP contributed to this report.</span></p>
 
 <p><span class="chinese">我是本次航班乘务长。</span><span class="english">I am the purser of this flight.</span></p>

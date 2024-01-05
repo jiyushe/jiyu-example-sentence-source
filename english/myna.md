@@ -1,5 +1,7 @@
 # myna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myna.md)
+
 <p><span class="chinese">孔雀王子和八哥公主为难了，谁先挑呢？</span><span class="english">Peacock prince and myna princess has felt embarrassed, who selects first?</span></p>
 
 <p><span class="chinese">黑鸢离去后，分别来了三只白颈鸦、喜鹊与八哥。</span><span class="english">When Kites gone, three Collared Crows, Magpie and Crested Myna occupied the tree.</span></p>

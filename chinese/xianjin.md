@@ -1,5 +1,7 @@
 # 先进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjin.md)
+
 <p><span class="chinese">性能先进的混砂设备。</span><span class="english">It is kind of advanced Mixer.</span></p>
 
 <p><span class="chinese">性能先进的混砂设备。</span><span class="english">It is a kind of advanced Mixer.</span></p>

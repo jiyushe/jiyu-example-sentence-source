@@ -1,5 +1,7 @@
 # gun 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gun_1.md)
+
 <p><span class="chinese">黄枪。好耍。</span><span class="english">Fire yellow gun.</span></p>
 
 <p><span class="chinese">他来时带来的是一把空枪。</span><span class="english">The gun was empty.</span></p>

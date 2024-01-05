@@ -1,5 +1,7 @@
 # undress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undress.md)
+
 <p><span class="chinese">先脱衣服。</span><span class="english">Let's undress first.</span></p>
 
 <p><span class="chinese">我喜欢帮她脱衣服。</span><span class="english">I like to undress her.</span></p>

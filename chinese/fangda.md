@@ -1,5 +1,7 @@
 # 放大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangda.md)
+
 <p><span class="chinese">右击放大的关系图。</span><span class="english">Right-click a zoomed-in graph.</span></p>
 
 <p><span class="chinese">对于微波低噪声放大。</span><span class="english">For amplify microwave and low noise.</span></p>

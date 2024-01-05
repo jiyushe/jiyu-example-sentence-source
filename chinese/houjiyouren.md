@@ -1,5 +1,7 @@
 # 后继有人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houjiyouren.md)
+
 <p><span class="chinese">风雨飘摇中的川剧事业似乎后继有人。</span><span class="english">The tottering cause of Sichuan Opera seems to have successors.</span></p>
 
 <p><span class="chinese">这么小就来参会，大数据后继有人啦！</span><span class="english">So small to the participants, big data have qualified successors!</span></p>

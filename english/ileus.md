@@ -1,5 +1,7 @@
 # ileus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ileus.md)
+
 <p><span class="chinese">麻痹性肠梗阻可出现液气平。</span><span class="english">Gas-fluid levels may be seen in paralytic ileus.</span></p>
 
 <p><span class="chinese">目的探讨结石性肠梗阻的诊断及治疗。</span><span class="english">Objective To explore the diagnosis and treatment of gallstone ileus.</span></p>

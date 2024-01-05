@@ -1,5 +1,7 @@
 # jackie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jackie.md)
+
 <p><span class="chinese">杰基·格里森。</span><span class="english">Jackie Gleason.</span></p>
 
 <p><span class="chinese">杰基离开了房间。</span><span class="english">Jackie left the room.</span></p>

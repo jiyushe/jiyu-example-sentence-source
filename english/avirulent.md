@@ -1,5 +1,7 @@
 # avirulent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avirulent.md)
+
 <p><span class="chinese">它无毒、无味、不燃，施工中无刺激性气味。</span><span class="english">It avirulent , insipidity, do not light, excitant odour is not had in construction.</span></p>
 
 <p><span class="chinese">这类涂料具有价格便宜、无毒、施工方便的优点。</span><span class="english">This kind of coating has the advantage with low-cost, avirulent , convenient construction.</span></p>

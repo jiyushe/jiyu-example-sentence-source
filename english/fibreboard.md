@@ -1,5 +1,7 @@
 # fibreboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibreboard.md)
+
 <p><span class="chinese">积极采用秸秆等产品制作植物纤维板。</span><span class="english">Actively use products such as straw fibreboard production plant.</span></p>
 
 <p><span class="chinese">冷浸法高得率浆及电动磨浆机纤维板料的研磨。</span><span class="english">Cold soak law so high that rate thick liquid and fibreboard material grind.</span></p>

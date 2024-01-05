@@ -1,5 +1,7 @@
 # aerodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerodynamic.md)
+
 <p><span class="chinese">内高压成形气动座椅上下管。</span><span class="english">Hydroformed aerodynamic seat and down tubes.</span></p>
 
 <p><span class="chinese">从高处落下的一分硬币并非最能体现空气动力学的武器。</span><span class="english">A penny isn't the most aerodynamic of weapons.</span></p>

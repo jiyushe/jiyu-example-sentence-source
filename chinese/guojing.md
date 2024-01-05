@@ -1,5 +1,7 @@
 # 过境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guojing.md)
+
 <p><span class="chinese">你是过境旅客吗？</span><span class="english">Are you a transit passenger?</span></p>
 
 <p><span class="chinese">什么是过境旅客呢？</span><span class="english">What is a transit passenger?</span></p>

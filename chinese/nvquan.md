@@ -1,5 +1,7 @@
 # 女权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvquan.md)
+
 <p><span class="chinese">她自称是女权运动者。</span><span class="english">She is professedly a feminist.</span></p>
 
 <p><span class="chinese">谁是女权主义的领导人？</span><span class="english">Who was the leader of feminism?</span></p>

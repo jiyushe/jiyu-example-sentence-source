@@ -1,5 +1,7 @@
 # snowscape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowscape.md)
+
 <p><span class="chinese">你看过雪景吗？</span><span class="english">Have you ever seen the snowscape?</span></p>
 
 <p><span class="chinese">夜晚，原理城市灯光，拍摄满月天空下的雪景。</span><span class="english">Night, away from city lights, snowscape under full moon.</span></p>

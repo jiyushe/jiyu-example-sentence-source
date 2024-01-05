@@ -1,5 +1,7 @@
 # obstetrical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obstetrical.md)
+
 <p><span class="chinese">探讨护理程序在产科药物治疗中的作用。</span><span class="english">Objective To explore the nursing effect in drug therapy in obstetrical.</span></p>
 
 <p><span class="chinese">出于这个原因，这种方式中起着至关重要的作用产科成像。</span><span class="english">For this reason, this modality plays a vital role in obstetrical imaging.</span></p>

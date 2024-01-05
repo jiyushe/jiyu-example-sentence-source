@@ -1,5 +1,7 @@
 # dpm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dpm.md)
+
 <p><span class="chinese">DPM值与作用时间无相关性。</span><span class="english">The value of DPM was irrelevant to exposure time.</span></p>
 
 <p><span class="chinese">然后分析了传感器检测事件到达的时间间隔和动态功率管理的关系。</span><span class="english">Then, the relation between DPM and the time when the next event arrive is analyzed.</span></p>

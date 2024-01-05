@@ -1,5 +1,7 @@
 # amity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amity.md)
+
 <p><span class="chinese">西风和秀秀终于亲睦如初。</span><span class="english">West wind and finally show amity.</span></p>
 
 <p><span class="chinese">这样才能促进和睦，维护团结。</span><span class="english">That is the only way to promote amity and unity.</span></p>

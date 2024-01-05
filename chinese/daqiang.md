@@ -1,5 +1,7 @@
 # 打枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daqiang.md)
+
 <p><span class="chinese">是打枪的时候吗？</span><span class="english">Hits gun's time?</span></p>
 
 <p><span class="chinese">马鞭抽打的声音好比打枪的声音一样响。</span><span class="english">A cracking whip can sound as loud as a gunshot.</span></p>

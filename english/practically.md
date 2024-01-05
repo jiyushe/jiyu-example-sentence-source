@@ -1,5 +1,7 @@
 # practically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practically.md)
+
 <p><span class="chinese">几乎整夜下着雨。</span><span class="english">It rained practically all night.</span></p>
 
 <p><span class="chinese">我几乎滴酒不沾。</span><span class="english">Li I'm practically a teetotaler.</span></p>

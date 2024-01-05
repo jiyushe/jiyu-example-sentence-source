@@ -1,5 +1,7 @@
 # 淡泊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danbo_1.md)
+
 <p><span class="chinese">这是一个法律淡泊的国家。</span><span class="english">This is an outlaw country.</span></p>
 
 <p><span class="chinese">搞学问的人是淡泊之人。</span><span class="english">Men of learning axe plain men.</span></p>

@@ -1,5 +1,7 @@
 # 徒劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tulao.md)
+
 <p><span class="chinese">我们徒劳地等待着。</span><span class="english">We waited in vain.</span></p>
 
 <p><span class="chinese">但我知道这祈求是徒劳的。</span><span class="english">But I am asking the impossible.</span></p>

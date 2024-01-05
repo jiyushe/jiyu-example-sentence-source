@@ -1,5 +1,7 @@
 # pointer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pointer.md)
+
 <p><span class="chinese">需要我的激光棒。</span><span class="english">I need my laser pointer.</span></p>
 
 <p><span class="chinese">我可以给他出一两个点子。</span><span class="english">I can give him a pointer or two.</span></p>

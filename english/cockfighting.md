@@ -1,5 +1,7 @@
 # cockfighting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cockfighting.md)
+
 <p><span class="chinese">第一个表演是蟒蛇斗鸡。</span><span class="english">The first show was Python cockfighting.</span></p>
 
 <p><span class="chinese">用英语发个斗鸡帖子。</span><span class="english">Send a new post about cockfighting in English.</span></p>

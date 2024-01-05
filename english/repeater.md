@@ -1,5 +1,7 @@
 # repeater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repeater.md)
+
 <p><span class="chinese">是真正的电脑复读机。</span><span class="english">Is a real computer Repeater.</span></p>
 
 <p><span class="chinese">自行研发了直放站本地监控单元。</span><span class="english">Implemented local monitoring unit of repeater.</span></p>

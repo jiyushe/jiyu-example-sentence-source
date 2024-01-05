@@ -1,5 +1,7 @@
 # cohesive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cohesive.md)
+
 <p><span class="chinese">它的一切都是一个完整的，首尾相连的故事。</span><span class="english">All of it has a very, very cohesive end-to-end story.</span></p>
 
 <p><span class="chinese">我们想告诉世界的是一个完整的历诗。</span><span class="english">We want one epic cohesive story that we tell the world.</span></p>

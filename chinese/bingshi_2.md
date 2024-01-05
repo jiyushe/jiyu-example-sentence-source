@@ -1,5 +1,7 @@
 # 病史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingshi_2.md)
+
 <p><span class="chinese">问之其实已有十年之心律不整病史。</span><span class="english">He remarked 10-year history of arrhythmia.</span></p>
 
 <p><span class="chinese">该童之前并无水痘发生之病史。</span><span class="english">There is no previous history of chickenpox.</span></p>

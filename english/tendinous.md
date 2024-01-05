@@ -1,5 +1,7 @@
 # tendinous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tendinous.md)
+
 <p><span class="chinese">这是典型蹠腱膜的症状，你有没有平足呢？</span><span class="english">This is the symptom of typical zhi tendinous film do you have flatfoot ?</span></p>
 
 <p><span class="chinese">解剖后暴露中指伸肌键和展腱膜。</span><span class="english">The extensor tendon and unfold tendinous membrane of middle finger were exposed.</span></p>

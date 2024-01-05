@@ -1,5 +1,7 @@
 # sorrowfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorrowfully.md)
+
 <p><span class="chinese">我看见你在沙漠里跳起忧愁的舞曲。</span><span class="english">I see you in the desert sorrowfully dancing.</span></p>
 
 <p><span class="chinese">怀着悲痛的心情来伤悼我们的老师。</span><span class="english">Today we come sorrowfully to mourn our teacher.</span></p>

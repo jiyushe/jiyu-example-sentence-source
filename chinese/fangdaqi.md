@@ -1,5 +1,7 @@
 # 放大器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangdaqi.md)
+
 <p><span class="chinese">放大器来了，他们走。</span><span class="english">Amps come, and they go.</span></p>
 
 <p><span class="chinese">电子管放大器?。</span><span class="english">VTA? Vacuum Tube Amplifier?</span></p>

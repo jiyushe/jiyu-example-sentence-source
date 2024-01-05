@@ -1,5 +1,7 @@
 # 板报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banbao.md)
+
 <p><span class="chinese">北街小学施工现场的张贴板报。</span><span class="english">A poster at the Beijie School construction site.</span></p>
 
 <p><span class="chinese">这就是我们班的板报设计，希望大家喜欢。</span><span class="english">That's our Bulletin Board, and I hope you like it.</span></p>

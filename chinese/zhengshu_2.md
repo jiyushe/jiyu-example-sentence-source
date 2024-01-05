@@ -1,5 +1,7 @@
 # 证书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengshu_2.md)
+
 <p><span class="chinese">死亡证书。</span><span class="english">A death certificate.</span></p>
 
 <p><span class="chinese">拥有学位证书还不够。</span><span class="english">A degree is not enough.</span></p>

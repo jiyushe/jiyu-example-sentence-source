@@ -1,5 +1,7 @@
 # 旗人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiren_1.md)
+
 <p><span class="chinese">庄妃是历史名人，而且是科尔沁左翼中旗人。</span><span class="english">Zhuang concubine is a famous person of history.</span></p>
 
 <p><span class="chinese">在这种变迁过程中，驻防旗人也深深地融入当地社会。</span><span class="english">During these transitions, people of Baqi garrison community had melted into the local society.</span></p>

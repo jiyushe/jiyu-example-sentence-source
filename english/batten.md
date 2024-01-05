@@ -1,5 +1,7 @@
 # batten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/batten.md)
+
 <p><span class="chinese">资本家靠榨取工人的血汗来养肥自己。</span><span class="english">The capitalists batten on the blood of the workers.</span></p>
 
 <p><span class="chinese">暴风雨快来了，让我们封舱吧。</span><span class="english">There's a storm coming, so let's batten down the hatches.</span></p>

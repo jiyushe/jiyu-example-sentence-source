@@ -1,5 +1,7 @@
 # appendiceal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appendiceal.md)
+
 <p><span class="chinese">原发性兰尾癌是很稀有肿瘤。</span><span class="english">Primary appendiceal cancer is a rare neoplasm.</span></p>
 
 <p><span class="chinese">目的探讨小儿阑尾脓肿的治疗。</span><span class="english">Objective To explore the management of appendiceal mass in children.</span></p>

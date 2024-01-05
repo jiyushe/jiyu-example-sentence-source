@@ -1,5 +1,7 @@
 # 零零碎碎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linglingsuisui.md)
+
 <p><span class="chinese">她利用冰箱里零零碎碎碎的东西做了一顿饭。</span><span class="english">She made the odds and ends in the fridge into a meal!</span></p>
 
 <p><span class="chinese">相信综合方法会打败零零碎碎的方法。</span><span class="english">Believe integrated approach beats fragmented approach.</span></p>

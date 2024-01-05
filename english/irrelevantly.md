@@ -1,5 +1,7 @@
 # irrelevantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrelevantly.md)
+
 <p><span class="chinese">她突然很不得体地向他要钱。</span><span class="english">Suddenly and irrelevantly , she asked him for money.</span></p>
 
 <p><span class="chinese">但是，由于各种因素的影响，中小学的教育研究活动中存在着严重忽视甚至错误使用文献资料的现象。</span><span class="english">But it is very common to ignore using it or use it irrelevantly because of all kinds of reasons.</span></p>

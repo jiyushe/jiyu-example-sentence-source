@@ -1,5 +1,7 @@
 # bora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bora.md)
+
 <p><span class="chinese">听到bora这个名字就让人想起神话里的天堂。</span><span class="english">The name Bora Bora evokes images of a mythic paradise.</span></p>
 
 <p><span class="chinese">这是至关重要的是，高尔夫球场发射那样优秀，因为宝来已。</span><span class="english">It was crucial that the Golf launch be as outstanding as the Bora had been.</span></p>

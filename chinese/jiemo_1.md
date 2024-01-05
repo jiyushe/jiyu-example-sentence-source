@@ -1,5 +1,7 @@
 # 芥末
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiemo_1.md)
+
 <p><span class="chinese">粗粒芥末和培根、沙拉一起吃味道更好。</span><span class="english">Good with bacon and salads.</span></p>
 
 <p><span class="chinese">胡椒和芥末都是辣的。</span><span class="english">She sauced the beef with pepper.</span></p>

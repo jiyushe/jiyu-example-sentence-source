@@ -1,5 +1,7 @@
 # 条条框框
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaotiaokuangkuang.md)
+
 <p><span class="chinese">我不会用些条条框框来筛选人填充董事会。</span><span class="english">I’m not filling the board with check boxes.</span></p>
 
 <p><span class="chinese">这里没有太多的条条框框和限制。</span><span class="english">There aren’t as many rules and restrictions.</span></p>

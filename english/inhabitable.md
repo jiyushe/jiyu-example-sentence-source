@@ -1,5 +1,7 @@
 # inhabitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhabitable.md)
+
 <p><span class="chinese">除此之外，塞埃欣旧城似乎缺乏适合居住的花园。</span><span class="english">Besides this, the old part of Cehegín seemed to lack inhabitable gardens.</span></p>
 
 <p><span class="chinese">如何打造一个更适宜人类居住的未来城市环境？</span><span class="english">How can we create an inhabitable future city environment for human being?</span></p>

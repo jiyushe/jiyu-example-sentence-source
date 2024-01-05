@@ -1,5 +1,7 @@
 # neurohypophysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurohypophysis.md)
+
 <p><span class="chinese">冬季神经垂体几乎没有变化。</span><span class="english">In winter, neurohypophysis had no changes.</span></p>
 
 <p><span class="chinese">鳜鱼脑垂体由神经垂体和腺垂体两大部分组成。</span><span class="english">The pituitary gland consisted of neurohypophysis and adenohypophysis.</span></p>

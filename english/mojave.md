@@ -1,5 +1,7 @@
 # mojave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mojave.md)
+
 <p><span class="chinese">莫哈韦沙漠，死亡谷南面。</span><span class="english">Mojave Desert.</span></p>
 
 <p><span class="chinese">死亡谷是大的莫哈韦沙漠的一部分。</span><span class="english">Death Valley is part of the Great Mojave Desert.</span></p>

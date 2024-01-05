@@ -1,5 +1,7 @@
 # dispersal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispersal.md)
+
 <p><span class="chinese">自那时以来消雾研究一直遵循这个方向。</span><span class="english">Fog dispersal research has since followed the line.</span></p>
 
 <p><span class="chinese">就其本身而言，知识的传播是件好事。</span><span class="english">In itself, the dispersal of know-ledge is a good thing.</span></p>

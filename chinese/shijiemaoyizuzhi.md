@@ -1,5 +1,7 @@
 # 世界贸易组织
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijiemaoyizuzhi.md)
+
 <p><span class="chinese">他代表世界贸易组织。</span><span class="english">It stands for World Trade Organization.</span></p>
 
 <p><span class="chinese">他们希望中国脱离世界贸易组织。</span><span class="english">They want Beijing out of the World Trade Organization.</span></p>

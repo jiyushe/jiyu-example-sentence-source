@@ -1,5 +1,7 @@
 # radiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiate.md)
+
 <p><span class="chinese">公路四通八达。</span><span class="english">Highways radiate in all directions.</span></p>
 
 <p><span class="chinese">八条大道从广场呈辐射形伸展出去。</span><span class="english">Eight roads radiate from the square.</span></p>

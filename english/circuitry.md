@@ -1,5 +1,7 @@
 # circuitry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circuitry.md)
+
 <p><span class="chinese">过去的大脑电路依然想要探出头来。</span><span class="english">The old circuitry will still show its head.</span></p>
 
 <p><span class="chinese">—压力会重新启动坏习惯的循环。</span><span class="english">Stress can reactivate the bad-habit circuitry.</span></p>

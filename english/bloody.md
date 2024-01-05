@@ -1,5 +1,7 @@
 # bloody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloody.md)
+
 <p><span class="chinese">贝卡特的天空满是血。</span><span class="english">The sky of Becato is bloody.</span></p>
 
 <p><span class="chinese">看，那是血人巴罗！</span><span class="english">Look, it's the Bloody Baron !</span></p>

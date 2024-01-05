@@ -1,5 +1,7 @@
 # 邻近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linjin_1.md)
+
 <p><span class="chinese">第一个是邻近性。</span><span class="english">One is proximity.</span></p>
 
 <p><span class="chinese">请问邻近有没有旅游社？</span><span class="english">Is there a travel expert nearby?</span></p>

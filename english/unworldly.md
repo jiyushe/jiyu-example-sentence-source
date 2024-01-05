@@ -1,5 +1,7 @@
 # unworldly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unworldly.md)
+
 <p><span class="chinese">与世无争地捆绑在一起，分享精神与思想。</span><span class="english">Bound together in some unworldly way, sharing a spirit or so the like.</span></p>
 
 <p><span class="chinese">如果脱离背景来描述他，有可能使他显得天真而超凡脱俗。</span><span class="english">To portray him out of context could make him appear naive and unworldly.</span></p>

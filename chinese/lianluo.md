@@ -1,5 +1,7 @@
 # 联络
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianluo.md)
+
 <p><span class="chinese">商洽联络作用。</span><span class="english">Negotiate liaison role.</span></p>
 
 <p><span class="chinese">非常感谢这次良好的直接联络。</span><span class="english">Thanks for the nice QSO.</span></p>

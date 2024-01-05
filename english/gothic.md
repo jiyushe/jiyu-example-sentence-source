@@ -1,5 +1,7 @@
 # gothic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gothic.md)
+
 <p><span class="chinese">要哥特黑，还是要巴洛克白？</span><span class="english">Gothic black or baroque white?</span></p>
 
 <p><span class="chinese">女性主唱的哥特金属。</span><span class="english">Gothic metal with female lead vocals.</span></p>

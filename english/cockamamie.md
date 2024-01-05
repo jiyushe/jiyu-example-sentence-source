@@ -1,5 +1,7 @@
 # cockamamie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cockamamie.md)
+
 <p><span class="chinese">那算是那门子狗屁梦想？！</span><span class="english">What kind of cockamamie dream is that?</span></p>
 
 <p><span class="chinese">给我一个不去的愚蠢理由。</span><span class="english">Give me a cockamamie reason for not going.</span></p>

@@ -1,5 +1,7 @@
 # 勃然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/boran.md)
+
 <p><span class="chinese">公众外交在中国勃然兴起。</span><span class="english">Public diplomacy is thriving in China.</span></p>
 
 <p><span class="chinese">没有你的日子就像一本没有书页的书，勃然无味。</span><span class="english">Every day without you like a book without pages.</span></p>

@@ -1,5 +1,7 @@
 # 戛然而止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaranerzhi.md)
+
 <p><span class="chinese">这些在1985年戛然而止。</span><span class="english">That ended abruptly in 1985.</span></p>
 
 <p><span class="chinese">乐声戛然而止时，他们又将何去何从？</span><span class="english">What will they do when the music stops?</span></p>

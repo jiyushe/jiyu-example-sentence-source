@@ -1,5 +1,7 @@
 # 勤学苦练
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinxuekulian.md)
+
 <p><span class="chinese">一句话，勤学苦练得来。</span><span class="english">In a word, hard work and practice come.</span></p>
 
 <p><span class="chinese">他勤学苦练，结果超过了所有的对手。</span><span class="english">He trained very hard, and he outdid all the competitors.</span></p>

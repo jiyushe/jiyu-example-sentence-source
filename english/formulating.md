@@ -1,5 +1,7 @@
 # formulating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formulating.md)
+
 <p><span class="chinese">制订计划、展望未来。</span><span class="english">Formulating the plans. Forecasting the future.</span></p>
 
 <p><span class="chinese">参与有关税收法规和制度的拟定。</span><span class="english">to participate in formulating related taxation regulations.</span></p>

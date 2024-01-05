@@ -1,5 +1,7 @@
 # threshold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/threshold.md)
+
 <p><span class="chinese">轻轻的，迈过这低低的门槛。</span><span class="english">Quietly, you cross the threshold.</span></p>
 
 <p><span class="chinese">而现在，唯一的门槛就是勇气。</span><span class="english">Now the only threshold is courage.</span></p>

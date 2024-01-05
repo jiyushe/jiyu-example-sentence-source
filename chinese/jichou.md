@@ -1,5 +1,7 @@
 # 记仇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jichou.md)
+
 <p><span class="chinese">这时候不该再记仇了。</span><span class="english">It's not a time for grudges.</span></p>
 
 <p><span class="chinese">她是个不记仇的人。</span><span class="english">She is above personal grudges.</span></p>

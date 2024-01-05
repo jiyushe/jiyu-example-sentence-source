@@ -1,5 +1,7 @@
 # inducible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inducible.md)
+
 <p><span class="chinese">这种双峰曲线是诱导酶的典型增长曲线。</span><span class="english">This diauxie curve is typical of inducible enzymes.</span></p>
 
 <p><span class="chinese">可以促进西瓜不同程度的单性结实。</span><span class="english">The parthenocarpy of watermelon was inducible in some degree by GLD.</span></p>

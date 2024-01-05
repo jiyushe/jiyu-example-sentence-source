@@ -1,5 +1,7 @@
 # readjustment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/readjustment.md)
+
 <p><span class="chinese">八字方针，核心是调整。</span><span class="english">The essence of the eight-character policy is readjustment.</span></p>
 
 <p><span class="chinese">一未经许可，私自变更重划农地之使用者。</span><span class="english">The land use after farmland readjustment without approval.</span></p>

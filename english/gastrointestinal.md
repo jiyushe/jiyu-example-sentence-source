@@ -1,5 +1,7 @@
 # gastrointestinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastrointestinal.md)
+
 <p><span class="chinese">胃肠道症状包括胃肠气胀。</span><span class="english">Gastrointestinal symptoms include flatulence.</span></p>
 
 <p><span class="chinese">腹泻通常是胃肠道感染的一种症状，可由多种细菌、病毒和寄生虫引起。</span><span class="english">It is primarily a symptom of gastrointestinal infection.</span></p>

@@ -1,5 +1,7 @@
 # geostrategic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geostrategic.md)
+
 <p><span class="chinese">这远不止是人权问题，这也是地缘政治和发展问题。</span><span class="english">It's much more than that. It is also a geostrategic and development issue.</span></p>
 
 <p><span class="chinese">他们不过是伊斯兰与西方的对弈的地缘政治棋局中的小卒而已。</span><span class="english">They are merely pawns in a geostrategic chess match between Islam and the west.</span></p>

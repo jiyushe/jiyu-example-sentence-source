@@ -1,5 +1,7 @@
 # spanking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spanking.md)
+
 <p><span class="chinese">那男孩的屁股著实挨了一顿巴掌。</span><span class="english">The boy got a sound spanking.</span></p>
 
 <p><span class="chinese">他乘劲风扬帆。</span><span class="english">He squared away to a spanking wind.</span></p>

@@ -1,5 +1,7 @@
 # 睡帽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimao.md)
+
 <p><span class="chinese">这是一顶睡帽。</span><span class="english">Here is a nap cap.</span></p>
 
 <p><span class="chinese">记住，你的睡帽有价。</span><span class="english">Remember, your nightcap has a price.</span></p>

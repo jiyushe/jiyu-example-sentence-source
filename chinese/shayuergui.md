@@ -1,5 +1,7 @@
 # 铩羽而归
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shayuergui.md)
+
 <p><span class="chinese">但是她并没有成功，一文不名的铩羽而归。</span><span class="english">However, she was unsuccessful and came back broke.</span></p>
 
 <p><span class="chinese">湖人将成为客场悍将，还是铩羽而归呢？</span><span class="english">Will the Lakers be road warriors or road worriers ?</span></p>

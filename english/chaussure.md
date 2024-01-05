@@ -1,5 +1,7 @@
 # chaussure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chaussure.md)
+
 <p><span class="chinese">一颗子弹穿过他的汽车，差点打中他。</span><span class="english">One bullet struck his motorcar, chaussure pas cher, narrowly lacking him.</span></p>
 
 <p><span class="chinese">从黎明时分开始，人们就已经聚集在一起举行派对。</span><span class="english">Since the dawn of time, chaussure de foot, people have gathered together to party.</span></p>

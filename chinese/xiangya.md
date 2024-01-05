@@ -1,5 +1,7 @@
 # 象牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangya.md)
+
 <p><span class="chinese">狗嘴里吐不出象牙。</span><span class="english">A dog's mouth emits no ivory.</span></p>
 
 <p><span class="chinese">你这人真是“狗嘴里长不出象牙。”</span><span class="english">You are really such a person.</span></p>

@@ -1,5 +1,7 @@
 # 罪孽深重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuinieshenzhong.md)
+
 <p><span class="chinese">我知道自己罪孽深重。</span><span class="english">I know I'm sinful.</span></p>
 
 <p><span class="chinese">他的精神和罪孽深重。</span><span class="english">He's spiritual and sinful.</span></p>

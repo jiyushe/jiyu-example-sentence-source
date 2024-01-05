@@ -1,5 +1,7 @@
 # 霸道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/badao.md)
+
 <p><span class="chinese">帮孩子找一些不那么霸道的朋友。</span><span class="english">Find less domineering friends.</span></p>
 
 <p><span class="chinese">但霸道者通常心虚，俄国也不例外。</span><span class="english">Bullies are usually insecure and Russia is no exception.</span></p>

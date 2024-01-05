@@ -1,5 +1,7 @@
 # 异物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwu_2.md)
+
 <p><span class="chinese">他眼睛里有异物。</span><span class="english">He has some foreign matter in his eye.</span></p>
 
 <p><span class="chinese">异物感和颐部紧束感。</span><span class="english">Sense and cheek department packing feeling.</span></p>

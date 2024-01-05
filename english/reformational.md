@@ -1,5 +1,7 @@
 # reformational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reformational.md)
+
 <p><span class="chinese">矿床属沉积-热卤水改造成因。</span><span class="english">Thedeposits belong to sedimentary-hot brine reformational type.</span></p>
 
 <p><span class="chinese">在整个改革阶段，国有企业可以说是重中之重。</span><span class="english">The reform of the state corporation is most important during the reformational period.</span></p>

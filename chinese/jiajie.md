@@ -1,5 +1,7 @@
 # 佳节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiajie.md)
+
 <p><span class="chinese">国庆佳节，我要第一个送你祝福！</span><span class="english">I wish you a happy National Day!</span></p>
 
 <p><span class="chinese">寄上佳节的祝愿，你们的女子汤姆敬上。</span><span class="english">A holiday wish from your son Tom.</span></p>

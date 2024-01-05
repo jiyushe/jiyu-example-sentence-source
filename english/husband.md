@@ -1,5 +1,7 @@
 # husband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/husband.md)
+
 <p><span class="chinese">我爱我的丈夫。</span><span class="english">I love my husband.</span></p>
 
 <p><span class="chinese">我是劳拉的丈夫。</span><span class="english">I'm Laras husband.</span></p>

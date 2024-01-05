@@ -1,5 +1,7 @@
 # manned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manned.md)
+
 <p><span class="chinese">他们振奋精神迎接考验。</span><span class="english">They manned themselves for an ordeal.</span></p>
 
 <p><span class="chinese">我和朋友在照应展销会上的这个摊点。</span><span class="english">My friends and I manned the booth at the fair.</span></p>

@@ -1,5 +1,7 @@
 # prideful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prideful.md)
+
 <p><span class="chinese">我是否曾经因所得的恩赐而自夸、自大？</span><span class="english">Have I boasted and been prideful for my gifts?</span></p>
 
 <p><span class="chinese">无论我们多么努力要否认，我们都是骄傲的人。</span><span class="english">As much as we try to deny it, we are prideful people.</span></p>

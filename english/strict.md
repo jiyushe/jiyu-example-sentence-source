@@ -1,5 +1,7 @@
 # strict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strict.md)
+
 <p><span class="chinese">他讲的是确凿不移的实情。</span><span class="english">He told the strict truth.</span></p>
 
 <p><span class="chinese">彼得是个严格的人。</span><span class="english">Pater is a strict person.</span></p>

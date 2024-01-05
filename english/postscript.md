@@ -1,5 +1,7 @@
 # postscript
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postscript.md)
+
 <p><span class="chinese">甚么是教跋文？</span><span class="english">What is a teaching postscript?</span></p>
 
 <p><span class="chinese">后记请我们珍爱自己的生命！</span><span class="english">Postscript please we cherish own life!</span></p>

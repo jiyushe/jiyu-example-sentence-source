@@ -1,5 +1,7 @@
 # slap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slap.md)
+
 <p><span class="chinese">这就是一巴掌耳刮子啊。</span><span class="english">That was a slap in the face.</span></p>
 
 <p><span class="chinese">他的脸因挨了耳光而感到火辣辣的。</span><span class="english">His cheek tingled from the slap.</span></p>

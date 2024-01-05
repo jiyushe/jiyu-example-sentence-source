@@ -1,5 +1,7 @@
 # 修好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuhao.md)
+
 <p><span class="chinese">你把它修好了！</span><span class="english">You fixed it!</span></p>
 
 <p><span class="chinese">我能帮你们修好它。</span><span class="english">I can help you fix that.</span></p>

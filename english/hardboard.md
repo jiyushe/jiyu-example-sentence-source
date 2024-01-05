@@ -1,5 +1,7 @@
 # hardboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardboard.md)
+
 <p><span class="chinese">硬质纤维板出篮，取而代之的是中密度纤维板。</span><span class="english">Hardboard is being replaced by MDF.</span></p>
 
 <p><span class="chinese">本文采用模糊数学方法，对硬质纤维板的质量进行了分析。</span><span class="english">A fuzzy method is applied to the analysis of the quality of hardboard.</span></p>

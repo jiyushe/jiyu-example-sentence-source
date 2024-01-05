@@ -1,5 +1,7 @@
 # resonator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resonator.md)
+
 <p><span class="chinese">指出这种腔在一般情况下存在双解。</span><span class="english">This kind of resonator has two solutions generally.</span></p>
 
 <p><span class="chinese">它必须使反射谐振器适应极短的波长。</span><span class="english">It must be the reflection to short wavelength resonator.</span></p>

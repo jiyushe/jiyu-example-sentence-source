@@ -1,5 +1,7 @@
 # sulphur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulphur.md)
+
 <p><span class="chinese">硫会对燃料电池产生抑制作用。</span><span class="english">Sulphur may poison a fuel cell.</span></p>
 
 <p><span class="chinese">硫磺是一种有效的冷硬成形成份。</span><span class="english">Sulphur is a potent chill-forming element.</span></p>

@@ -1,5 +1,7 @@
 # logged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logged.md)
+
 <p><span class="chinese">他们砍伐了部分林区的树木。</span><span class="english">They logged part of the area.</span></p>
 
 <p><span class="chinese">我的心猛跳，我登录。</span><span class="english">My heart pounding, I logged on.</span></p>

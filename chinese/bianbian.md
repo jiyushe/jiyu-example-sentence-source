@@ -1,5 +1,7 @@
 # 便便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianbian.md)
+
 <p><span class="chinese">这是典型的自闭症便便。</span><span class="english">It was the classic autism poop.</span></p>
 
 <p><span class="chinese">满身都是便便的臭臭鲨鱼皮。</span><span class="english">It's a dirty sharkskin full of poop.</span></p>

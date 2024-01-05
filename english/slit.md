@@ -1,5 +1,7 @@
 # slit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slit.md)
+
 <p><span class="chinese">割破手的口袋。</span><span class="english">Slit hand pockets.</span></p>
 
 <p><span class="chinese">他把布撕成细条。</span><span class="english">She slit cloth into strips.</span></p>

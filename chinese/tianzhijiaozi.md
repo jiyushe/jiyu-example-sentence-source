@@ -1,5 +1,7 @@
 # 天之骄子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzhijiaozi.md)
+
 <p><span class="chinese">我是天之骄子。</span><span class="english">I am God's favored one.</span></p>
 
 <p><span class="chinese">如果现在还有哪位大学生自称“天之骄子”，你一定会觉得相当“雷”人。</span><span class="english">No college student now will call himself an unusually lucky person.</span></p>

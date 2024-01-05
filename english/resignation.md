@@ -1,5 +1,7 @@
 # resignation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resignation.md)
+
 <p><span class="chinese">这是我的辞呈。</span><span class="english">Here is my  resignation.</span></p>
 
 <p><span class="chinese">我把辞职书交上去了。</span><span class="english">I handed in my resignation.</span></p>

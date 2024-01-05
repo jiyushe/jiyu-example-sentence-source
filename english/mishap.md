@@ -1,5 +1,7 @@
 # mishap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mishap.md)
+
 <p><span class="chinese">不会有什么舛错。</span><span class="english">There can't be any mishap.</span></p>
 
 <p><span class="chinese">我们平安地回到了家。</span><span class="english">We reached home without mishap.</span></p>

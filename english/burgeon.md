@@ -1,5 +1,7 @@
 # burgeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burgeon.md)
+
 <p><span class="chinese">嫩枝红色，老枝棕红色。</span><span class="english">Burgeon red, old branch palm is gules.</span></p>
 
 <p><span class="chinese">只要有一点空隙，植物就会生根发芽。</span><span class="english">Plants burgeon from every available space.</span></p>

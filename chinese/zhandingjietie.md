@@ -1,5 +1,7 @@
 # 斩钉截铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhandingjietie.md)
+
 <p><span class="chinese">“去掉独角兽，”我斩钉截铁的说。</span><span class="english">“No unicorns,” I said firmly.</span></p>
 
 <p><span class="chinese">“那还用说，”理发师斩钉截铁地说。</span><span class="english">"Without a doubt, " the barber asserted.</span></p>

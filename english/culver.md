@@ -1,5 +1,7 @@
 # culver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culver.md)
+
 <p><span class="chinese">卡尔弗反对禁止实验。</span><span class="english">Culver opposes a ban.</span></p>
 
 <p><span class="chinese">我也经常住在我在斑鸠城的工作室里。</span><span class="english">I'm also crashing at my studio a lot which is at Culver City.</span></p>

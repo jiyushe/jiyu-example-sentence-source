@@ -1,5 +1,7 @@
 # replay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replay.md)
+
 <p><span class="chinese">注册，或查看重播。</span><span class="english">Register, or view the replay.</span></p>
 
 <p><span class="chinese">重温小游戏和谜题！</span><span class="english">Replay mini-games and puzzles!</span></p>

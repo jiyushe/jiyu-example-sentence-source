@@ -1,5 +1,7 @@
 # yearn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yearn.md)
+
 <p><span class="chinese">年轻人切盼成功。</span><span class="english">Young men yearn to succeed.</span></p>
 
 <p><span class="chinese">我们都渴望被人宠爱。</span><span class="english">We all yearn to be cosseted.</span></p>

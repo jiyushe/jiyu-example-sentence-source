@@ -1,5 +1,7 @@
 # 欢庆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanqing.md)
+
 <p><span class="chinese">今晚是一个欢庆的盛会。</span><span class="english">This is a time to celebrate.</span></p>
 
 <p><span class="chinese">世界各地欢庆2008的到来！</span><span class="english">Around the world . reveler greet 2008.</span></p>

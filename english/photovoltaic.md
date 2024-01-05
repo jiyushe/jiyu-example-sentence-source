@@ -1,5 +1,7 @@
 # photovoltaic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photovoltaic.md)
+
 <p><span class="chinese">置于北港滤水厂的光伏装置。</span><span class="english">Photovoltaic units at Pak Kong Water Treatment Works.</span></p>
 
 <p><span class="chinese">施博士目前拥有11项光电技术的专利。</span><span class="english">Dr Shi holds 11 patents for photovoltaic technologies.</span></p>

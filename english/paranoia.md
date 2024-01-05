@@ -1,5 +1,7 @@
 # paranoia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paranoia.md)
+
 <p><span class="chinese">偏执狂是一种优点。</span><span class="english">Paranoia is a virtue.</span></p>
 
 <p><span class="chinese">妄想狂的保护对象。</span><span class="english">The perils of paranoia.</span></p>

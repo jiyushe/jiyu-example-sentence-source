@@ -1,5 +1,7 @@
 # 恬然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianran.md)
+
 <p><span class="chinese">恬然的夏日，茉莉花已经盛开。</span><span class="english">Sweet days of summer, the jasmine's in bloom.</span></p>
 
 <p><span class="chinese">但倘若莱纳斯想要带你来日，就让咱们恬然处之吧。</span><span class="english">But if Linus wants to take you out, let's be nice about it.</span></p>

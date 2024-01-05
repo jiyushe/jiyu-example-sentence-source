@@ -1,5 +1,7 @@
 # 欢宴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanyan.md)
+
 <p><span class="chinese">他们欢宴了一个晚上。</span><span class="english">They feasted all evening.</span></p>
 
 <p><span class="chinese">他们打算通宵欢宴。</span><span class="english">They intended to feast the night away.</span></p>

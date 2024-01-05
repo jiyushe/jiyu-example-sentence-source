@@ -1,5 +1,7 @@
 # actuator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actuator.md)
+
 <p><span class="chinese">执行者的输入是某个事件对象。</span><span class="english">The input to the actuator is an event object.</span></p>
 
 <p><span class="chinese">执行者组件对环境采取行动。</span><span class="english">The Actuator component acts upon the environment.</span></p>

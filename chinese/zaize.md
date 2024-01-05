@@ -1,5 +1,7 @@
 # 再则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaize.md)
+
 <p><span class="chinese">再则，你能认为真有此事吗?。</span><span class="english">And again, can you acknowledge it as true?</span></p>
 
 <p><span class="chinese">再则，也常有人说，理智不可太趋于极端。</span><span class="english">It is usually added that understanding must not go too far.</span></p>

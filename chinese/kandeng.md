@@ -1,5 +1,7 @@
 # 刊登
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kandeng.md)
+
 <p><span class="chinese">然后刊登广告，最后开门迎客。</span><span class="english">You advertise and open your doors.</span></p>
 
 <p><span class="chinese">这项研究已被刊登在了arxiv.org网站上。</span><span class="english">The research is on the site arxiv.org.</span></p>

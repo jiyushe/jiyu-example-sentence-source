@@ -1,5 +1,7 @@
 # 先师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshi_2.md)
+
 <p><span class="chinese">我们做事不能一味地步武先师。</span><span class="english">We can't imitate our ancestors without innovations.</span></p>
 
 <p><span class="chinese">萨那托斯逃跑了，并发誓要向自己的先师报仇。</span><span class="english">Xanatos flees, swearing revenge on his former master.</span></p>

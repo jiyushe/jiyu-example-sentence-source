@@ -1,5 +1,7 @@
 # enchase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enchase.md)
+
 <p><span class="chinese">勿在丝绸服装上扣别针，否则易留下针眼。</span><span class="english">Never enchase a brooch on the silk garment, otherwise it will leave pinprick easily.</span></p>
 
 <p><span class="chinese">床帏处两颗镀金的铜扣恰到好处地镶嵌在飞檐处，大方气派。</span><span class="english">Bed Wei is in two aureate copper to buckle proper ground to enchase be in in upturned eaves, easy manner.</span></p>

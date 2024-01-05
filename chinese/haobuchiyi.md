@@ -1,5 +1,7 @@
 # 毫不迟疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haobuchiyi.md)
+
 <p><span class="chinese">我们毫不迟疑地开始进行任务A2。</span><span class="english">We start on Task A2 without delay.</span></p>
 
 <p><span class="chinese">我毫不迟疑地承认了。</span><span class="english">I did not hesitate to make the admission.</span></p>

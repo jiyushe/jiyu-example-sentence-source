@@ -1,5 +1,7 @@
 # 通天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongtian.md)
+
 <p><span class="chinese">钱能通天，势能压人。</span><span class="english">Money can be borne, potential energy.</span></p>
 
 <p><span class="chinese">它是通天唯一之路。</span><span class="english">There is no other road betwixt my soul and Heaven.</span></p>

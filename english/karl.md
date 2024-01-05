@@ -1,5 +1,7 @@
 # karl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karl.md)
+
 <p><span class="chinese">卡尔买了一台录象机。</span><span class="english">Karl bought a video recorder.</span></p>
 
 <p><span class="chinese">早上好，我叫卡尔·马肖尔特。</span><span class="english">Good morning. I'm Karl Mushily.</span></p>

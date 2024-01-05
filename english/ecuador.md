@@ -1,5 +1,7 @@
 # ecuador
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecuador.md)
+
 <p><span class="chinese">我出生在厄瓜多尔，但是我也感到自己是阿拉伯人。</span><span class="english">I was born in Ecuador but I feel very Arab too.</span></p>
 
 <p><span class="chinese">石油在厄瓜多尔这样的国家非常重要。</span><span class="english">Oil is very important in a country like Ecuador.</span></p>

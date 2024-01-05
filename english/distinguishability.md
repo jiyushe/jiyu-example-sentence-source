@@ -1,5 +1,7 @@
 # distinguishability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distinguishability.md)
+
 <p><span class="chinese">可以看到，现有定义中同态签名系统的不可分辨性在大多数情况下是不必要的。</span><span class="english">We can see that in most cases, the distinguishability of a homomorphic signature system is not necessary.</span></p>
 
 <p><span class="chinese">本文介绍了一种一次性使用防伪标签的防伪功能以及研究过程。</span><span class="english">This paper introduces the forgery distinguishability of a new tag applied only for one times and its preparation.</span></p>

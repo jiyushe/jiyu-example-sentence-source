@@ -1,5 +1,7 @@
 # 淤泥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuni.md)
+
 <p><span class="chinese">空气泵吸走淤泥。</span><span class="english">Air lift to suck up mud.</span></p>
 
 <p><span class="chinese">那海港被淤泥阻塞了。</span><span class="english">The harbour has silted up.</span></p>

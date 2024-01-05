@@ -1,5 +1,7 @@
 # pox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pox.md)
+
 <p><span class="chinese">他的前额因害了水痘而留下许多麻点。</span><span class="english">His forehead was pitted by chicken pox.</span></p>
 
 <p><span class="chinese">水痘是儿童时期的常见病。</span><span class="english">Chicken pox is a common childhood sickness.</span></p>

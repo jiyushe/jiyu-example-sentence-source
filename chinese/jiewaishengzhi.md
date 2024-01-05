@@ -1,5 +1,7 @@
 # 节外生枝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiewaishengzhi.md)
+
 <p><span class="chinese">总是节外生枝，总是有人出面干涉。</span><span class="english">Always there is something. Always someone will interfere.</span></p>
 
 <p><span class="chinese">聪明的老婆从不给老公有时间三思，省得节外生枝。</span><span class="english">A wise wife never gives her husband time to have second thoughts.</span></p>

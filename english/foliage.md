@@ -1,5 +1,7 @@
 # foliage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foliage.md)
+
 <p><span class="chinese">浓密的树叶覆盖着群山。</span><span class="english">Dark foliage clothes the hills.</span></p>
 
 <p><span class="chinese">树叶正处于最茂盛的时期。</span><span class="english">The foliage was in its utmost luxuriance.</span></p>

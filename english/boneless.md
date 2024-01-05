@@ -1,5 +1,7 @@
 # boneless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boneless.md)
+
 <p><span class="chinese">舌头是无骨的但是它可以折断骨头。</span><span class="english">Tongue is boneless but it breaks bones.</span></p>
 
 <p><span class="chinese">啊，这鱼没有骨头，而且是透明的。</span><span class="english">Ah, the fish is boneless and transparent.</span></p>

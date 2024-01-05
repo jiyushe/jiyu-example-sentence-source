@@ -1,5 +1,7 @@
 # opening 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opening.md)
+
 <p><span class="chinese">谁是开场演出者?。</span><span class="english">Who is the opening act?</span></p>
 
 <p><span class="chinese">写公开的感谢信。</span><span class="english">Write the letter opening.</span></p>

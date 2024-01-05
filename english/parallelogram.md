@@ -1,5 +1,7 @@
 # parallelogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parallelogram.md)
+
 <p><span class="chinese">每个平行四边形的面积各是多少？</span><span class="english">What's the area of each parallelogram?</span></p>
 
 <p><span class="chinese">那么现在这个平行四边形的面积是多少？</span><span class="english">OK, so now what the area of this parallelogram?</span></p>

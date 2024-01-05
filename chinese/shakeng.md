@@ -1,5 +1,7 @@
 # 沙坑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shakeng.md)
+
 <p><span class="chinese">坐在沙坑中。</span><span class="english">Sitting in a sandpit.</span></p>
 
 <p><span class="chinese">我们那时就像泡在沙坑里的男孩一样。</span><span class="english">We were just like boys in a sandpit.</span></p>

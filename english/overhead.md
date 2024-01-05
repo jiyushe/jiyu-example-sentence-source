@@ -1,5 +1,7 @@
 # overhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overhead.md)
+
 <p><span class="chinese">一架飞机在头顶嗡嗡响。</span><span class="english">A plane hummed overhead.</span></p>
 
 <p><span class="chinese">飞机在上空发出嗡嗡声。</span><span class="english">An aircraft droned overhead.</span></p>

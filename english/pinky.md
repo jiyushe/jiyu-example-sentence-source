@@ -1,5 +1,7 @@
 # pinky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinky.md)
+
 <p><span class="chinese">而且为什么只是小指头的指甲？</span><span class="english">And why just the pinky nail?</span></p>
 
 <p><span class="chinese">我的拇指强有力，我的小手指也是。</span><span class="english">My thumb is stronger, and so is my pinky.</span></p>

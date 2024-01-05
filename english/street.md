@@ -1,5 +1,7 @@
 # street
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/street.md)
+
 <p><span class="chinese">什么街？</span><span class="english">What street?</span></p>
 
 <p><span class="chinese">在中央大街吗？</span><span class="english">On Main Street?</span></p>

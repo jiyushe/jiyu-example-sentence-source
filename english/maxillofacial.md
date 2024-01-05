@@ -1,5 +1,7 @@
 # maxillofacial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maxillofacial.md)
+
 <p><span class="chinese">颌面部平滑肌肉瘤少见。</span><span class="english">Leiomyosarcoma in maxillofacial region is rare.</span></p>
 
 <p><span class="chinese">中颜面骨与下颚骨是构成颜面主要的部份。</span><span class="english">Maxilla and mandible are the major parts of the maxillofacial structure.</span></p>

@@ -1,5 +1,7 @@
 # 语调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yudiao.md)
+
 <p><span class="chinese">黑衣男人语调轻缓。</span><span class="english">The man in black spoke softly.</span></p>
 
 <p><span class="chinese">主席一直以沉闷的语调讲了几小时。</span><span class="english">The chairman droned on for hours.</span></p>

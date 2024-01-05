@@ -1,5 +1,7 @@
 # 适逢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifeng_3.md)
+
 <p><span class="chinese">又适逢经济的高速增长</span><span class="english">It's tied in with our sense of rapid economic growth.</span></p>
 
 <p><span class="chinese">本届委员会的成立适逢其时。</span><span class="english">The formation of this fifth Committee cannot come at a better time.</span></p>

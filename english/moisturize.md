@@ -1,5 +1,7 @@
 # moisturize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moisturize.md)
+
 <p><span class="chinese">滋润干燥的皮肤。</span><span class="english">Moisturize dry skin.</span></p>
 
 <p><span class="chinese">适当地保持润湿。</span><span class="english">To moisturize properly.</span></p>

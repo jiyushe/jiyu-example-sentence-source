@@ -1,5 +1,7 @@
 # 酗酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xujiu_1.md)
+
 <p><span class="chinese">酗酒是一种病。</span><span class="english">Alcoholism is a disease.</span></p>
 
 <p><span class="chinese">他因酗酒致死。</span><span class="english">He drank himself to death.</span></p>

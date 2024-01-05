@@ -1,5 +1,7 @@
 # uninformed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uninformed.md)
+
 <p><span class="chinese">微软称奥尔德斯的评论“不正确且无知的”。</span><span class="english">said that the comments were "inaccurate and uninformed".</span></p>
 
 <p><span class="chinese">一些批评显得很无知和毫无意义。</span><span class="english">Some of the criticism is profoundly uninformed and unhelpful.</span></p>

@@ -1,5 +1,7 @@
 # aldol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aldol.md)
+
 <p><span class="chinese">人们普遍认为，脯氨酸通过形成单氢键相连接的中介物来催化醛醇缩合反应。</span><span class="english">Proline is believed to catalyse the aldol reaction through a hydrogen-bonded intermediate.</span></p>
 
 <p><span class="chinese">不对称羟醛缩合反应是有机合成中立体选择性地形成碳碳键的最重要方法之一。</span><span class="english">The asymmetric aldol reaction is one of the most important methods of forming carbon-carbon bonds.</span></p>

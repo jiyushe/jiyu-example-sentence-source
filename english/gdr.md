@@ -1,5 +1,7 @@
 # gdr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gdr.md)
+
 <p><span class="chinese">当东德国家警察试图驱散人群时，三、四千名柏林青年齐声高呼“必须推倒这堵墙！”</span><span class="english">As GDR state police try to disperse the crowds, 3,000–4,000 young Berliners chant “The wall must go!</span></p>
 
 <p><span class="chinese">随着1990年德国统一，西德地区的儿童节日期和名称成为全德国官方的统一标准。</span><span class="english">Since the affiliation in 1990, the date and name used in the FRG have become the official ones for the former GDR as well.</span></p>

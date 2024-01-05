@@ -1,5 +1,7 @@
 # bertram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bertram.md)
+
 <p><span class="chinese">伯特伦夫人的态度有所不同。</span><span class="english">Lady Bertram took it differently.</span></p>
 
 <p><span class="chinese">这时伯特伦夫人话还真多。</span><span class="english">Lady Bertram was quite talkative.</span></p>

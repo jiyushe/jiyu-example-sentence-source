@@ -1,5 +1,7 @@
 # 湖光山色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huguangshanse.md)
+
 <p><span class="chinese">哇！多美的湖光山色啊！</span><span class="english">Wow, what a beautiful landscape!</span></p>
 
 <p><span class="chinese">与湖光山色交相辉映的有56处人文历史古迹。</span><span class="english">Each other and the beauty of 56 historic sites humanities.</span></p>

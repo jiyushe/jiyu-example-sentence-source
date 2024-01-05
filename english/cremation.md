@@ -1,5 +1,7 @@
 # cremation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cremation.md)
+
 <p><span class="chinese">崔真实的遗体今天进行火葬。</span><span class="english">Choi's remains true today for cremation.</span></p>
 
 <p><span class="chinese">火化遗体有违中国人的传统。</span><span class="english">Cremation was against Chinese tradition.</span></p>

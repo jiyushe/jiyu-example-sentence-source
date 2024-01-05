@@ -1,5 +1,7 @@
 # mitral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitral.md)
+
 <p><span class="chinese">二尖瓣轻度反流。</span><span class="english">Mild mitral regurgitation.</span></p>
 
 <p><span class="chinese">什么是心脏二尖瓣膜脱垂?。</span><span class="english">What is heart mitral valve velar prolapse?</span></p>

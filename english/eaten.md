@@ -1,5 +1,7 @@
 # eaten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eaten.md)
+
 <p><span class="chinese">他肯定已经吃过饭了。</span><span class="english">He must have eaten.</span></p>
 
 <p><span class="chinese">你已经吃了一个梨子。</span><span class="english">You have eaten a pear.</span></p>

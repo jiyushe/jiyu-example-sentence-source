@@ -1,5 +1,7 @@
 # loamy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loamy.md)
+
 <p><span class="chinese">草莓在早些时候交过水的肥沃土壤中是较好成长的。</span><span class="english">Strawberries grow well in loamy soil that lets water pass through easily.</span></p>
 
 <p><span class="chinese">襄阳供试土壤为黄黏土，鄂州为棕壤土。</span><span class="english">The soil in Xiangyang was yellow clay soil and in Ezhou was brown loamy soil.</span></p>

@@ -1,5 +1,7 @@
 # 烟瘾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyin_1.md)
+
 <p><span class="chinese">当烟瘾来是请吸吮一根。</span><span class="english">Suck on one whenever a cig craving hits.</span></p>
 
 <p><span class="chinese">他从未能戒除烟瘾。</span><span class="english">He has never conquered his addiction to smoking.</span></p>

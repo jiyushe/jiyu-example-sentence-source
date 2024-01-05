@@ -1,5 +1,7 @@
 # dentistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dentistry.md)
+
 <p><span class="chinese">国内牙科最好的是哪个医院？</span><span class="english">Which hospital is is domestic dentistry best?</span></p>
 
 <p><span class="chinese">你好，多丽丝，我是帕克牙科医院的迈克。</span><span class="english">Hi, Doris, this is Mike calling from Parker's Dentistry.</span></p>

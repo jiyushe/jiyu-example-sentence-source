@@ -1,5 +1,7 @@
 # 壁报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bibao.md)
+
 <p><span class="chinese">请尽快在学生会壁报上报名！</span><span class="english">Please sign up at the notice board ASAP!</span></p>
 
 <p><span class="chinese">共有52篇投稿进行壁报交流。</span><span class="english">Article submissions for posters were 52 communication.</span></p>

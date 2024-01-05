@@ -1,5 +1,7 @@
 # 赞叹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zantan.md)
+
 <p><span class="chinese">要别人称扬、赞叹他，这种心态也不对。</span><span class="english">This is not the right mindset.</span></p>
 
 <p><span class="chinese">他赞叹道，“你从哪里找来的这些石子呢？”</span><span class="english">Wherever did you get all these?</span></p>

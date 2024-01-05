@@ -1,5 +1,7 @@
 # virologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virologist.md)
+
 <p><span class="chinese">非常有名的病毒学家曾断言病毒是死物，你相信吗？</span><span class="english">A great virologist declared that the virus is nonliving, do you believe?</span></p>
 
 <p><span class="chinese">明尼苏达大学的病毒学家路易斯·曼斯凯说此研究的成功希望很小。</span><span class="english">Louis Mansky, a virologist at the University of Minnesota, says that risk is minimal.</span></p>

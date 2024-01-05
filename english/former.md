@@ -1,5 +1,7 @@
 # former 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/former.md)
+
 <p><span class="chinese">前一趟车是直达车。</span><span class="english">The former is non-stop.</span></p>
 
 <p><span class="chinese">我以前是一名吸毒者。</span><span class="english">I am a former drug addict.</span></p>

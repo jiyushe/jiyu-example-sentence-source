@@ -1,5 +1,7 @@
 # identically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/identically.md)
+
 <p><span class="chinese">两个脚本的作用相同。</span><span class="english">Both scripts function identically.</span></p>
 
 <p><span class="chinese">你可以认为其股价为零</span><span class="english">The share price, you could say, is identically zero.</span></p>

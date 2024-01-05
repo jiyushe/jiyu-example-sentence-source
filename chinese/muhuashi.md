@@ -1,5 +1,7 @@
 # 木化石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muhuashi.md)
+
 <p><span class="chinese">木化石可能会也可能不会被石化。</span><span class="english">Fossil wood may or may not be petrified.</span></p>
 
 <p><span class="chinese">木化石是以化石的状态保存著的木材。</span><span class="english">Fossil wood is wood that is preserved in the fossil record.</span></p>

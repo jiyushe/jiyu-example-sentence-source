@@ -1,5 +1,7 @@
 # monopoly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monopoly.md)
+
 <p><span class="chinese">他还垄断了盐的销售</span><span class="english">He sells the monopoly on salt.</span></p>
 
 <p><span class="chinese">将价格设定在垄断价格</span><span class="english">Pricing at the monopoly price.</span></p>

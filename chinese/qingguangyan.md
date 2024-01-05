@@ -1,5 +1,7 @@
 # 青光眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingguangyan.md)
+
 <p><span class="chinese">神经保护是否为青光眼的可行疗法?。</span><span class="english">Is Neuroprotection a Viable Therapy for Glaucoma?</span></p>
 
 <p><span class="chinese">人们可能并不知道自己有患青光眼的风险。</span><span class="english">People may not know they are at risk for glaucoma.</span></p>

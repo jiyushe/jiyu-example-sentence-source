@@ -1,5 +1,7 @@
 # varied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varied.md)
+
 <p><span class="chinese">他是一个能力很广的人。</span><span class="english">He is a man of varied powers.</span></p>
 
 <p><span class="chinese">所以，我觉得这里相当混杂。</span><span class="english">So I find it really quite varied.</span></p>

@@ -1,5 +1,7 @@
 # 厌倦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjuan.md)
+
 <p><span class="chinese">如果生活令人厌倦，那就动起来吧。</span><span class="english">If life stinks, move.</span></p>
 
 <p><span class="chinese">谷歌老早厌倦了这样。</span><span class="english">Google's tired of that.</span></p>

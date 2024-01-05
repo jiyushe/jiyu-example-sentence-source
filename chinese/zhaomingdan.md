@@ -1,5 +1,7 @@
 # 照明弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaomingdan.md)
+
 <p><span class="chinese">使外部热消和照明弹。</span><span class="english">Makes external heat dissipaters and flares.</span></p>
 
 <p><span class="chinese">这是飞机工具箱里的，只有一个照明弹。</span><span class="english">This was in the plane's toolbox. There's only one flare.</span></p>

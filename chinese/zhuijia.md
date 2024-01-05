@@ -1,5 +1,7 @@
 # 追加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuijia.md)
+
 <p><span class="chinese">将另一列追加到数据表。</span><span class="english">Append another column to the data table.</span></p>
 
 <p><span class="chinese">用髋部和躯干发力，用双肩还原为手臂追加速度。</span><span class="english">Power is generated from the hips and torso.</span></p>

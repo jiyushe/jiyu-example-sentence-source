@@ -1,5 +1,7 @@
 # answerable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/answerable.md)
+
 <p><span class="chinese">医生向我收了诊疗费。</span><span class="english">The doctor answerable me a fee.</span></p>
 
 <p><span class="chinese">这好像是一个可以回答的问题，是这样吗？</span><span class="english">It seems like an answerable question, right?</span></p>

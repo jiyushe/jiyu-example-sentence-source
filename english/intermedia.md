@@ -1,5 +1,7 @@
 # intermedia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermedia.md)
+
 <p><span class="chinese">中级口译终于考完了。</span><span class="english">Intermedia Interpretation has finally been done.</span></p>
 
 <p><span class="chinese">语言是广播的第一载体。</span><span class="english">Language is the most important intermedia of the broadcast.</span></p>

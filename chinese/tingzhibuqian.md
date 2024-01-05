@@ -1,5 +1,7 @@
 # 停滞不前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhibuqian.md)
+
 <p><span class="chinese">没有人希望这一势头停滞不前。</span><span class="english">No one wants this momentum to stall.</span></p>
 
 <p><span class="chinese">风险会使大多数团队停滞不前。</span><span class="english">Risk can be paralyzing for most teams.</span></p>

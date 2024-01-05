@@ -1,5 +1,7 @@
 # 收紧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoujin_2.md)
+
 <p><span class="chinese">它还需要再收紧些。</span><span class="english">It needs tightening up a little.</span></p>
 
 <p><span class="chinese">色调和收紧毛孔。</span><span class="english">Freshens, tones and tightens pores.</span></p>

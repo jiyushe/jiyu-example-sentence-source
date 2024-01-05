@@ -1,5 +1,7 @@
 # 拥簇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongcu.md)
+
 <p><span class="chinese">被拥簇在一望无际的花海里。</span><span class="english">Is crowded around in a sea of flowers.</span></p>
 
 <p><span class="chinese">同时，苹果的iOS系统的拥簇者将会从09年的2500万上升到2012年的6200万。</span><span class="english">Meanwhile, iOS usage will amount to 62 million in 2012, up from 25 million in 2009.</span></p>

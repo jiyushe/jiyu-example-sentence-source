@@ -1,5 +1,7 @@
 # match
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/match.md)
+
 <p><span class="chinese">他划了一根火柴。</span><span class="english">He struck a match.</span></p>
 
 <p><span class="chinese">我斗不过你。</span><span class="english">I'm not your match.</span></p>

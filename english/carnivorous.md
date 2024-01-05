@@ -1,5 +1,7 @@
 # carnivorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carnivorous.md)
+
 <p><span class="chinese">它是食肉类而且可以吃肉。</span><span class="english">It is carnivorous and can eat meat.</span></p>
 
 <p><span class="chinese">虎，大型猫科食肉类动物。</span><span class="english">Tigers, big cats carnivorous species.</span></p>

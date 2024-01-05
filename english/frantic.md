@@ -1,5 +1,7 @@
 # frantic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frantic.md)
+
 <p><span class="chinese">那字噪音真营毖我弄疯了。</span><span class="english">That noise driving me frantic.</span></p>
 
 <p><span class="chinese">我听到疯狂的求救哭叫声。</span><span class="english">I heard frantic cries for help.</span></p>

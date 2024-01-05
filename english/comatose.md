@@ -1,5 +1,7 @@
 # comatose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comatose.md)
+
 <p><span class="chinese">现在孩子们睡着了。</span><span class="english">The accouchement are comatose now.</span></p>
 
 <p><span class="chinese">Michael昏昏沉沉地坐在精神病区接待室内。</span><span class="english">Michael sits comatose in the psych ward receiving room.</span></p>

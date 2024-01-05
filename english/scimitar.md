@@ -1,5 +1,7 @@
 # scimitar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scimitar.md)
+
 <p><span class="chinese">这意味着龙钩镰割是好的武器。</span><span class="english">This means that the Dragon Scimitar is a good Slashing Weapon.</span></p>
 
 <p><span class="chinese">榻边的桌上摆着一柄威武的钢制弯刀。</span><span class="english">On a table by the side of the couch lay a mighty scimitar of steel.</span></p>

@@ -1,5 +1,7 @@
 # 失语症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyuzheng.md)
+
 <p><span class="chinese">失歌症是失语症的一种。</span><span class="english">Amusia is a kind of aphasia.</span></p>
 
 <p><span class="chinese">失语症的神经语言分析。</span><span class="english">Neurolinguistic analysis of aphasia.</span></p>

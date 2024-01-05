@@ -1,5 +1,7 @@
 # 原料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanliao.md)
+
 <p><span class="chinese">这套茶具是以砂糖为原料做成的。</span><span class="english">A tea set made of sugar.</span></p>
 
 <p><span class="chinese">原料中微尘含量过多。</span><span class="english">High micro dust in material.</span></p>

@@ -1,5 +1,7 @@
 # 瘦子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzi.md)
+
 <p><span class="chinese">我弟弟是个瘦子。</span><span class="english">My brother is a thin man.</span></p>
 
 <p><span class="chinese">所以产后的瘦子越来越多。</span><span class="english">Therefore, more and more post-natal thin.</span></p>

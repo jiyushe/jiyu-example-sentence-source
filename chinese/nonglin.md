@@ -1,5 +1,7 @@
 # 农林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nonglin.md)
+
 <p><span class="chinese">杨树农林复合经营还因另外一个重要原因成为一项创收的活动。</span><span class="english">Poplar-based agroforestry is a profitable activity for another key reason.</span></p>
 
 <p><span class="chinese">一行人在西北农林科技大学试验示范站。</span><span class="english">Visiters in the experimental demonstration of Northwest a&f University stood.</span></p>

@@ -1,5 +1,7 @@
 # galatia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galatia.md)
+
 <p><span class="chinese">我和同我在一起的众弟兄，致书给迦拉达众教会。</span><span class="english">And all the brethren who are with me, to the churches of Galatia.</span></p>
 
 <p><span class="chinese">和一切与我同在的众弟兄，写信给加拉太的各教会。</span><span class="english">And all the brothers who are with me, To the churches of Galatia.</span></p>

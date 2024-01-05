@@ -1,5 +1,7 @@
 # dawson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dawson.md)
+
 <p><span class="chinese">后来，道森先生成了一名律师。</span><span class="english">Later Mr. Dawson became a lawyer.</span></p>
 
 <p><span class="chinese">摆着战利品的桌面在散发者成功的信息，“Dawson说。</span><span class="english">"Trophy desks reek of success," Dawson says.</span></p>

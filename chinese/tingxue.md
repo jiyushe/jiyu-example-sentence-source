@@ -1,5 +1,7 @@
 # 停学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingxue.md)
+
 <p><span class="chinese">你就是因为这个才被停学的？</span><span class="english">That's why you were suspended?</span></p>
 
 <p><span class="chinese">汤姆的母亲决定让他们停学几天。</span><span class="english">Tom's mother him for a few days.</span></p>

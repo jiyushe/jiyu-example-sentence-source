@@ -1,5 +1,7 @@
 # thrusting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrusting.md)
+
 <p><span class="chinese">花剑，没有劈杀用的剑刀，是刺戳用兵器。</span><span class="english">The foil is a thrusting weapon with no cutting edge.</span></p>
 
 <p><span class="chinese">不要将筷子插入食物以将其叉起。</span><span class="english">Thrusting the chopsticks into the food to pick it up.</span></p>

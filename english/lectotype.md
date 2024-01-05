@@ -1,5 +1,7 @@
 # lectotype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lectotype.md)
+
 <p><span class="chinese">结合系统总体结构，对硬件设备进行了布置和选型。</span><span class="english">Ardware arrangement and lectotype of system are discussed in detail.</span></p>
 
 <p><span class="chinese">本文讨论的是某工程基础选型设计。</span><span class="english">In this article lectotype design for foundation of a project is discussed.</span></p>

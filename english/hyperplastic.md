@@ -1,5 +1,7 @@
 # hyperplastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperplastic.md)
+
 <p><span class="chinese">脾脏的肿瘤性病变还是增生性病变?。</span><span class="english">Hyperplastic or neoplastic lesion of the spleen?</span></p>
 
 <p><span class="chinese">同时，抑制该基因的表达，有望实现减轻瘢痕增生。</span><span class="english">Inhibition of C mer expression may attenuate the formation of hyperplastic scar.</span></p>

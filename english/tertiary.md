@@ -1,5 +1,7 @@
 # tertiary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tertiary.md)
+
 <p><span class="chinese">第三系岩层属中软岩。</span><span class="english">The Tertiary strata belong to soft rock.</span></p>
 
 <p><span class="chinese">它们可以应用于二次和三次采油技术中。</span><span class="english">It can be used in secondary and tertiary oil recovery.</span></p>

@@ -1,5 +1,7 @@
 # 月初
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuechu.md)
+
 <p><span class="chinese">2006年6月初，达能起诉娃哈哈。</span><span class="english">In early June of 2006, Danone sued Wahaha.</span></p>
 
 <p><span class="chinese">利息从月初开始自然增殖。</span><span class="english">Interest accrue from the begin of the month.</span></p>

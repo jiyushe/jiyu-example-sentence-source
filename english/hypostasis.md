@@ -1,5 +1,7 @@
 # hypostasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypostasis.md)
+
 <p><span class="chinese">现象与本质息息相关。</span><span class="english">Phenomenon is closely related to hypostasis.</span></p>
 
 <p><span class="chinese">暗物质和暗能量的本质是什么呢？</span><span class="english">What is the hypostasis of dark matter and dark energy?</span></p>

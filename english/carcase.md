@@ -1,5 +1,7 @@
 # carcase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carcase.md)
+
 <p><span class="chinese">你这匹夫马上就会知道我的厉害。</span><span class="english">As thy caitiff carcase soon shall know.</span></p>
 
 <p><span class="chinese">我们看见一只秃鹫正在贪婪地啄食腐尸。</span><span class="english">We saw a vulture gorging on some rotting carcase.</span></p>

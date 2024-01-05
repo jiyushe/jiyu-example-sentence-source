@@ -1,5 +1,7 @@
 # 汇编程序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huibianchengxu.md)
+
 <p><span class="chinese">本文介绍一个宏汇编程序。</span><span class="english">This article presents a macro assembler.</span></p>
 
 <p><span class="chinese">汇编程序创建了两个自定义部分</span><span class="english">The assembler creates two custom sections</span></p>

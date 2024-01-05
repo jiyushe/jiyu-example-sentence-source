@@ -1,5 +1,7 @@
 # destroy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destroy.md)
+
 <p><span class="chinese">消灭所有巢穴。</span><span class="english">Destroy all Lairs.</span></p>
 
 <p><span class="chinese">摧毁一切!</span><span class="english">Destroy everything!</span></p>

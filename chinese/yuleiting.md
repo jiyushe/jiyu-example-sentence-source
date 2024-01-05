@@ -1,5 +1,7 @@
 # 鱼雷艇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuleiting.md)
+
 <p><span class="chinese">他们撞沉了鱼雷艇。</span><span class="english">They sank my boat.</span></p>
 
 <p><span class="chinese">无论是皇家空军的轰炸机或是鱼雷艇都还没能威胁到她。</span><span class="english">bomb or torpedo had yet shaken her.</span></p>

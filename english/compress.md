@@ -1,5 +1,7 @@
 # compress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compress.md)
+
 <p><span class="chinese">把这块粘土压缩成一个小球。</span><span class="english">Compress this clay into a small ball.</span></p>
 
 <p><span class="chinese">但是我不太确定这是否压缩了范围</span><span class="english">I'm not sure it does compress the range.</span></p>

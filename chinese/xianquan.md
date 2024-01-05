@@ -1,5 +1,7 @@
 # 线圈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianquan.md)
+
 <p><span class="chinese">烧穿的线圈应换新的。</span><span class="english">The burnt coil should be renewed.</span></p>
 
 <p><span class="chinese">可配专用偏转线圈。</span><span class="english">It can equip with deflection coil.</span></p>

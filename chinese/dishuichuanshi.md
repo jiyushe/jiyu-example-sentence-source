@@ -1,5 +1,7 @@
 # 滴水穿石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dishuichuanshi.md)
+
 <p><span class="chinese">滴水穿石喜悦。</span><span class="english">Constant dropping wears away a stone.</span></p>
 
 <p><span class="chinese">滴水穿石。/锲而不舍，金石可镂。</span><span class="english">Constant dripping will wear away a stone.</span></p>

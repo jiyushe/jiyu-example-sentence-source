@@ -1,5 +1,7 @@
 # 钼钢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mugang.md)
+
 <p><span class="chinese">初步探讨了稀土对耐磨高碳铬钼钢的作用。</span><span class="english">Hearin a preliminary approach is made to it.</span></p>
 
 <p><span class="chinese">介绍了铬钼钢的高浓度渗碳试验。</span><span class="english">The high carbon concentration carburization for Cr-Mo steel was introduced.</span></p>

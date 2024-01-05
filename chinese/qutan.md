@@ -1,5 +1,7 @@
 # 祛痰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qutan.md)
+
 <p><span class="chinese">复方麦冬丸有较好的祛痰作用。</span><span class="english">FFM have good eliminating phlegm effect.</span></p>
 
 <p><span class="chinese">吐鲁糖浆是祛痰药物的和药物。</span><span class="english">Syrup of Tolu is used as a vehicle for expectorant mixtures.</span></p>

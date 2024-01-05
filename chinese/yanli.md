@@ -1,5 +1,7 @@
 # 艳丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanli.md)
+
 <p><span class="chinese">她穿一件艳丽的连衫“裙”。</span><span class="english">She wore a loud dress.</span></p>
 
 <p><span class="chinese">牡丹是艳丽的花。</span><span class="english">A peony is a showy flower.</span></p>

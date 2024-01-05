@@ -1,5 +1,7 @@
 # 扩大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuoda.md)
+
 <p><span class="chinese">然后不断扩大。</span><span class="english">And then it expands.</span></p>
 
 <p><span class="chinese">我们扩大并扩展着。</span><span class="english">We enlarge and expand.</span></p>

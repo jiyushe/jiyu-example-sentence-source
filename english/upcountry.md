@@ -1,5 +1,7 @@
 # upcountry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upcountry.md)
+
 <p><span class="chinese">我走向内地的原因有很多。</span><span class="english">My reasons to go upcountry are varied.</span></p>
 
 <p><span class="chinese">如果我有几天休息的话，我肯定会去内陆。</span><span class="english">If I have a few days break, I definitely go upcountry.</span></p>

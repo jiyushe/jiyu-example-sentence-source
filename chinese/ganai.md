@@ -1,5 +1,7 @@
 # 肝癌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganai.md)
+
 <p><span class="chinese">我国是肝癌多发国家。</span><span class="english">China is a liver cancer-prone country.</span></p>
 
 <p><span class="chinese">铼的同位素被运用于肝癌的治疗。</span><span class="english">Rhenium isotopes are used to treat liver cancer.</span></p>

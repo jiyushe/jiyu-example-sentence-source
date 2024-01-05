@@ -1,5 +1,7 @@
 # imperialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperialism.md)
+
 <p><span class="chinese">帝国主义夹着尾巴逃跑了。</span><span class="english">Imperialism turn tail and ran away.</span></p>
 
 <p><span class="chinese">帝国主义灭绝人性地屠杀是有罪的。</span><span class="english">Imperialism is guilty of mass murder.</span></p>

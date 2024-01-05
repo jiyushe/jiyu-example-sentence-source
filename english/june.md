@@ -1,5 +1,7 @@
 # june
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/june.md)
+
 <p><span class="chinese">我写作本文时间是六月。</span><span class="english">I write this in June.</span></p>
 
 <p><span class="chinese">田纳西州，1942年6月。</span><span class="english">Tennessee, June 1942.</span></p>

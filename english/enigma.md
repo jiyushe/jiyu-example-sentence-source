@@ -1,5 +1,7 @@
 # enigma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enigma.md)
+
 <p><span class="chinese">恩格斯是一个迷。</span><span class="english">Engels was an enigma.</span></p>
 
 <p><span class="chinese">人们喜欢谜一样的事物。</span><span class="english">People love enigma and mystery.</span></p>

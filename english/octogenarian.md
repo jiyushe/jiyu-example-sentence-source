@@ -1,5 +1,7 @@
 # octogenarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octogenarian.md)
+
 <p><span class="chinese">这位八十多岁的领导人还说他现在要到各县巡视，对他们党进行动员。</span><span class="english">The octogenarian leader said he will now visit districts to energise his party.</span></p>
 
 <p><span class="chinese">年逾八旬的创始人赫夫纳已经结婚两次，现在要再当一次新郎官。</span><span class="english">Octogenarian founder Hefner has been married twice, and now again as a bridegroom.</span></p>

@@ -1,5 +1,7 @@
 # 嫌疑犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyifan.md)
+
 <p><span class="chinese">他因是嫌疑犯被拘留。</span><span class="english">He was detained as suspects.</span></p>
 
 <p><span class="chinese">他们跟踪那个嫌疑犯。</span><span class="english">They tailed after the suspect.</span></p>

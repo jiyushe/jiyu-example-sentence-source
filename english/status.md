@@ -1,5 +1,7 @@
 # status
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/status.md)
+
 <p><span class="chinese">下载状态栏？</span><span class="english">The download status bar?</span></p>
 
 <p><span class="chinese">使用有趣的表情符号。</span><span class="english">Use fun status & emoticons.</span></p>

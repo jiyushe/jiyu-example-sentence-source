@@ -1,5 +1,7 @@
 # 品评
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinping.md)
+
 <p><span class="chinese">可以品尝到外国食物，然后相互品评一下。</span><span class="english">Foreign food is sampled and discussed.</span></p>
 
 <p><span class="chinese">东坡、闰之、季常和大妹品评琴操手艺。</span><span class="english">Dongpo, leap, season with big sister taste QinCao craft.</span></p>

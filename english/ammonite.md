@@ -1,5 +1,7 @@
 # ammonite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ammonite.md)
+
 <p><span class="chinese">他母亲名叫拿玛，是亚扪人。</span><span class="english">His mother's name was Naamah the Ammonite.</span></p>
 
 <p><span class="chinese">耶弗他又打发使者去见亚扪人的王</span><span class="english">Jephthah sent back messengers to the Ammonite king</span></p>

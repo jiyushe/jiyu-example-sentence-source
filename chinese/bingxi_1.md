@@ -1,5 +1,7 @@
 # 屏息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingxi_1.md)
+
 <p><span class="chinese">我们止不住屏息以待。</span><span class="english">We're not holding our breath.</span></p>
 
 <p><span class="chinese">让我们都屏息以待吧。</span><span class="english">We all wait with bated breath.</span></p>

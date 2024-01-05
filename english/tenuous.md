@@ -1,5 +1,7 @@
 # tenuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenuous.md)
+
 <p><span class="chinese">跨年代的联系往往是空洞无力的。</span><span class="english">The cross-dating links were often tenuous.</span></p>
 
 <p><span class="chinese">这些只是一些随意的、空洞的电子接触而已。</span><span class="english">These are just casual, tenuous electronic pings.</span></p>

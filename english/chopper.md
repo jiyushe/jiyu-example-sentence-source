@@ -1,5 +1,7 @@
 # chopper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chopper.md)
+
 <p><span class="chinese">切碎机枪手！</span><span class="english">The Chopper Gunner!</span></p>
 
 <p><span class="chinese">反恐组的支援直升机从空中飞过，抵达了现场。</span><span class="english">The CTU chopper arrives overhead.</span></p>

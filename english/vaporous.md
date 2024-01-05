@@ -1,5 +1,7 @@
 # vaporous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaporous.md)
+
 <p><span class="chinese">他像是一团雾，漂移不定，变幻莫测。</span><span class="english">He is a vaporous and shifting mirage.</span></p>
 
 <p><span class="chinese">他们也知道，他自己也明白事实确实如此。</span><span class="english">They know that he knows it's vaporous.</span></p>

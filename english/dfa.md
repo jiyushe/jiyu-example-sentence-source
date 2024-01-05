@@ -1,5 +1,7 @@
 # dfa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dfa.md)
+
 <p><span class="chinese">DFA的正则表达式引擎可以处理原子团？</span><span class="english">Can DFA regex engines handle atomic groups?</span></p>
 
 <p><span class="chinese">两法结合起来检测CT，将获得理想的检测效果。</span><span class="english">Combined NPCR with DFA to detect CT, will show satisfied results.</span></p>

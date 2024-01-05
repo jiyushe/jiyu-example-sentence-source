@@ -1,5 +1,7 @@
 # urbanite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urbanite.md)
+
 <p><span class="chinese">越来越多的都市人，开始注重心理健康。</span><span class="english">More and more urbanite begin to pay attention to mental health.</span></p>
 
 <p><span class="chinese">出行时耗是城市居民出行特征中的重要指标之一。</span><span class="english">Trip time consume is one of important urbanite trip characteristic indexes.</span></p>

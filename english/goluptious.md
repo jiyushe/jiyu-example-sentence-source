@@ -1,5 +1,7 @@
 # goluptious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goluptious.md)
+
 <p><span class="chinese">她的心情好了，那么她做出来的饭菜也自然就更加可口了。</span><span class="english">Her humor is good, so the meal that she does is natural also more goluptious.</span></p>
 
 <p><span class="chinese">饮食宜清淡可口，忌油腻、生冷及刺激性食物。</span><span class="english">Dietary appropriate is delicate and goluptious , avoid fat, raw or cold food and excitant food.</span></p>

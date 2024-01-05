@@ -1,5 +1,7 @@
 # ocular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ocular.md)
+
 <p><span class="chinese">我们将进行直观演示。</span><span class="english">We will present an ocular demonstration.</span></p>
 
 <p><span class="chinese">重症肌无力眼肌麻痹患者主要为眼肌型。</span><span class="english">MG patients with ophthalmoplegia are mainly ocular MG.</span></p>

@@ -1,5 +1,7 @@
 # 挤挤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiji_2.md)
+
 <p><span class="chinese">好了，大家再朝里挤挤。</span><span class="english">OK, push in a little bit, everybody.</span></p>
 
 <p><span class="chinese">事实上，如果你真的想锻炼，时间就和海绵里的水一样，挤挤总是有的。</span><span class="english">If people really want to exercise, they find the time.</span></p>

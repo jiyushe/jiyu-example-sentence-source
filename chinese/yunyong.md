@@ -1,5 +1,7 @@
 # 运用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunyong.md)
+
 <p><span class="chinese">运用你的声音。</span><span class="english">Use your voice.</span></p>
 
 <p><span class="chinese">运用视觉教具。</span><span class="english">Use visual aids.</span></p>

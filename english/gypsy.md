@@ -1,5 +1,7 @@
 # gypsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gypsy.md)
+
 <p><span class="chinese">想想吉普赛小提琴，想想响板，想想斗牛舞。</span><span class="english">Think gypsy violins. Think castanets.</span></p>
 
 <p><span class="chinese">她血管里流的是纯吉卜赛人的血液。</span><span class="english">She has pure gypsy blood in her veins.</span></p>

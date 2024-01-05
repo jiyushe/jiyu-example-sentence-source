@@ -1,5 +1,7 @@
 # 标签
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoqian.md)
+
 <p><span class="chinese">没有标签？</span><span class="english">No label?</span></p>
 
 <p><span class="chinese">这些标签!</span><span class="english">The tags!</span></p>

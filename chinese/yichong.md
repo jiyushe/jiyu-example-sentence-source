@@ -1,5 +1,7 @@
 # 益虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichong.md)
+
 <p><span class="chinese">螳螂对农民是益虫还是害虫？</span><span class="english">Is a mantis good or bad for farmers?</span></p>
 
 <p><span class="chinese">杀虫剂也会杀逝世益虫。</span><span class="english">Insecticides also kill helpful insects.</span></p>

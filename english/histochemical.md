@@ -1,5 +1,7 @@
 # histochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histochemical.md)
+
 <p><span class="chinese">原位杂交组织化学技术。</span><span class="english">In situ hybridization histochemical techniques.</span></p>
 
 <p><span class="chinese">这是组织化学学会的网站。</span><span class="english">This is the website of The Histochemical Society.</span></p>

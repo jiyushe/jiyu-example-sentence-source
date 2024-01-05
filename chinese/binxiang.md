@@ -1,5 +1,7 @@
 # 傧相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binxiang.md)
+
 <p><span class="chinese">我当卡西的女傧相。</span><span class="english">I was bridesmaid to Cathy.</span></p>
 
 <p><span class="chinese">谢谢。你能做我们的傧相吗？</span><span class="english">Thanks. Will you be our best man?</span></p>

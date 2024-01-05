@@ -1,5 +1,7 @@
 # crutch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crutch.md)
+
 <p><span class="chinese">帽子拐杖也跳起舞来.</span><span class="english">The hat and crutch are also dancing.</span></p>
 
 <p><span class="chinese">他的一条腿跛了，走路借助于拐杖。</span><span class="english">He is lame so he walks with a crutch.</span></p>

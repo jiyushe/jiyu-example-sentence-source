@@ -1,5 +1,7 @@
 # mart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mart.md)
+
 <p><span class="chinese">我知道你肚子饿，马。</span><span class="english">I know you're hungry, Mart.</span></p>
 
 <p><span class="chinese">数据集市的建模是终端用户驱动的。</span><span class="english">Data mart modeling is end-user-driven.</span></p>

@@ -1,5 +1,7 @@
 # tropopause
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tropopause.md)
+
 <p><span class="chinese">一达到对流层，温度就停止随高度上升。</span><span class="english">As soon as the tropopause is reached, temperature stops decreasing with height.</span></p>
 
 <p><span class="chinese">从偏冷期到偏暖期，整个热带对流层顶显著变暖。</span><span class="english">The whole tropical tropopause has been warmed up from cold period to warm period.</span></p>

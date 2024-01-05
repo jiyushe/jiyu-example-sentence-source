@@ -1,5 +1,7 @@
 # 音障
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzhang_1.md)
+
 <p><span class="chinese">逼近音障！</span><span class="english">Approaching the sound barrier!</span></p>
 
 <p><span class="chinese">又一队喷气机雷鸣般地突破了音障。</span><span class="english">Another flight of jets exploded through sound.</span></p>

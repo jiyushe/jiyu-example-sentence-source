@@ -1,5 +1,7 @@
 # 审问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenwen.md)
+
 <p><span class="chinese">到底是谁审问谁呢？</span><span class="english">Who’s interrogating who?</span></p>
 
 <p><span class="chinese">她在审问下屈招了。</span><span class="english">She broke under questioning.</span></p>

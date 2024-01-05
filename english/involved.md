@@ -1,5 +1,7 @@
 # involved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/involved.md)
+
 <p><span class="chinese">难道连他儿子也入教了？</span><span class="english">Was his son involved too?</span></p>
 
 <p><span class="chinese">情节变得更曲折离奇。</span><span class="english">The plot gets more involved.</span></p>

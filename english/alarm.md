@@ -1,5 +1,7 @@
 # alarm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alarm.md)
+
 <p><span class="chinese">使用防烟警报。</span><span class="english">Use a smoke alarm.</span></p>
 
 <p><span class="chinese">和弦音报警。</span><span class="english">Alarm by chord music.</span></p>

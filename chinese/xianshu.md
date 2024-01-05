@@ -1,5 +1,7 @@
 # 娴熟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshu.md)
+
 <p><span class="chinese">他运球娴熟。</span><span class="english">He dribbles skillfully.</span></p>
 
 <p><span class="chinese">但他们的技术惊人地娴熟。</span><span class="english">But they are surprisingly tech-savvy.</span></p>

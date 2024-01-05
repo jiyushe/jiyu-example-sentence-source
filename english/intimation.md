@@ -1,5 +1,7 @@
 # intimation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intimation.md)
+
 <p><span class="chinese">霍普金斯最先将情况通知我。</span><span class="english">Hopkins sent me the earliest intimation.</span></p>
 
 <p><span class="chinese">暗示的短信自动选择调用。</span><span class="english">Automatic SMS intimation for chosen calls.</span></p>

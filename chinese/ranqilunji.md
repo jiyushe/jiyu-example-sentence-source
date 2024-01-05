@@ -1,5 +1,7 @@
 # 燃气轮机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ranqilunji.md)
+
 <p><span class="chinese">启动问题。“GTS的挡泥板上的燃气轮机。</span><span class="english">GTS of the "fender" on the gas turbines.</span></p>
 
 <p><span class="chinese">这台燃气轮机以它抽入的燃料为能源。</span><span class="english">The gas turbine feeds on the fuel it pumps.</span></p>

@@ -1,5 +1,7 @@
 # vocalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vocalism.md)
+
 <p><span class="chinese">声乐艺术包括歌唱的训练与表演的全部理论与实践。</span><span class="english">The vocalism art includes all theory and practice of the training and performance.</span></p>
 
 <p><span class="chinese">意大利语音与歌唱发音、发声训练、歌唱技术有密切的关系。</span><span class="english">The Italian phonetics has a close connection with the practice of pronunciation and vocalism and singing technique.</span></p>

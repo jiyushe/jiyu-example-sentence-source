@@ -1,5 +1,7 @@
 # southern 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/southern.md)
+
 <p><span class="chinese">我们房子的门朝南”。</span><span class="english">Ours is the southern door.</span></p>
 
 <p><span class="chinese">1887年，美国南加洲。</span><span class="english">S. southern California 1887.</span></p>

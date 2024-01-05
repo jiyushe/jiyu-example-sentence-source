@@ -1,5 +1,7 @@
 # 灰白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huibai.md)
+
 <p><span class="chinese">他灰白的头发又干又无光泽。</span><span class="english">His hair is dry, dull and grey.</span></p>
 
 <p><span class="chinese">我的头发有点灰白了。</span><span class="english">My hair’s getting a little gray.</span></p>

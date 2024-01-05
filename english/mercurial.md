@@ -1,5 +1,7 @@
 # mercurial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercurial.md)
+
 <p><span class="chinese">她谈话善转话锋。</span><span class="english">She has a mercurial turn of conversation.</span></p>
 
 <p><span class="chinese">水银石现在能抬寘在宝石包中。</span><span class="english">Mercurial Stone can now be put into Gem Bags.</span></p>

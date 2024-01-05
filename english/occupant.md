@@ -1,5 +1,7 @@
 # occupant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occupant.md)
+
 <p><span class="chinese">他耸耸肩表示对那房间的住户不屑一顾。</span><span class="english">He shrug his low opinion of the occupant of the room.</span></p>
 
 <p><span class="chinese">墓主人是一位应国国君，墓葬的埋葬年代为春秋早期早段。</span><span class="english">The occupant of the tomb was a King of the Ying State.</span></p>

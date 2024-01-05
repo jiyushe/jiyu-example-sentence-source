@@ -1,5 +1,7 @@
 # approve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approve.md)
+
 <p><span class="chinese">她会赞成吗？</span><span class="english">Would she approve?</span></p>
 
 <p><span class="chinese">我不赞成背后议论别人。</span><span class="english">I don't approve of gossip.</span></p>

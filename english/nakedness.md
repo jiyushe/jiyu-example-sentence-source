@@ -1,5 +1,7 @@
 # nakedness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nakedness.md)
+
 <p><span class="chinese">这光光地身子是怎么进化出来的呢？</span><span class="english">So why did this nakedness evolve?</span></p>
 
 <p><span class="chinese">妆扮真理的秘决是不加掩饰。</span><span class="english">Truth's best ornament is nakedness.</span></p>

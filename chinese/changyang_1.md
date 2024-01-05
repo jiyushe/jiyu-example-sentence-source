@@ -1,5 +1,7 @@
 # 徜徉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changyang_1.md)
+
 <p><span class="chinese">我在那里留恋徜徉。</span><span class="english">I linger there.</span></p>
 
 <p><span class="chinese">云之彼端，嘿，是谁在徜徉。</span><span class="english">I am here , where are you?</span></p>

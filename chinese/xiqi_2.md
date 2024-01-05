@@ -1,5 +1,7 @@
 # 喜气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiqi_2.md)
+
 <p><span class="chinese">万千的喜气多热闹，吉祥的日子要来到。</span><span class="english">Thousands of festivity more lively, auspicious day to come.</span></p>
 
 <p><span class="chinese">月到双节分外明，节日喜气伴你行。</span><span class="english">Bi-month exceptionally bright, happy holiday with your actions.</span></p>

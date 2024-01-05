@@ -1,5 +1,7 @@
 # 痛快淋漓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongkuailinli.md)
+
 <p><span class="chinese">说的太好了，痛快淋漓！</span><span class="english">Say good with great eloquence!</span></p>
 
 <p><span class="chinese">劳笠爆发出一阵男孩子式的痛快淋漓的大笑。</span><span class="english">Laurie burst out with a hearty boy's laugh.</span></p>

@@ -1,5 +1,7 @@
 # 顺次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunci.md)
+
 <p><span class="chinese">别推，顺次等候好了。</span><span class="english">Don't shove, wait your turn.</span></p>
 
 <p><span class="chinese">他们顺次返返来埋躲在爆炸中销毁的豪侈品。</span><span class="english">They returned in turn to bury the luxuries burnt in the burst.</span></p>

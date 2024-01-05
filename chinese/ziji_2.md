@@ -1,5 +1,7 @@
 # 自己
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziji_2.md)
+
 <p><span class="chinese">宝贝儿，做你自己。</span><span class="english">Do you, baby.</span></p>
 
 <p><span class="chinese">是啊！我自己。</span><span class="english">Yup! By myself.</span></p>

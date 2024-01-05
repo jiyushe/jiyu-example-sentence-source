@@ -1,5 +1,7 @@
 # 知心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixin.md)
+
 <p><span class="chinese">他们还是知心朋友。</span><span class="english">They are close friends.</span></p>
 
 <p><span class="chinese">女人能成为知心朋友。</span><span class="english">Women made such swell friends.</span></p>

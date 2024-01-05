@@ -1,5 +1,7 @@
 # 同日而语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongrieryu.md)
+
 <p><span class="chinese">但文西先生的耐心却不能同日而语。</span><span class="english">But Mr. Vincy was not equally prepared to be patient.</span></p>
 
 <p><span class="chinese">这一修订本不可与先前的版本同日而语。</span><span class="english">This revised edition is incomparable with the earlier ones.</span></p>

@@ -1,5 +1,7 @@
 # 相面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangmian.md)
+
 <p><span class="chinese">现在，相面术又有复苏的迹象。</span><span class="english">Now, it is undergoing something of a revival.</span></p>
 
 <p><span class="chinese">颂恩如愿与妹妹可儿在狱中相面。</span><span class="english">Well wish to sister Chloe face reading in prison.</span></p>

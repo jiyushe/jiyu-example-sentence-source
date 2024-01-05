@@ -1,5 +1,7 @@
 # collision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collision.md)
+
 <p><span class="chinese">那么我们有一个碰撞。</span><span class="english">So we have a collision.</span></p>
 
 <p><span class="chinese">追尾危险。</span><span class="english">Rear-End Collision Danger.</span></p>

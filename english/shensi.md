@@ -1,5 +1,7 @@
 # shensi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shensi.md)
+
 <p><span class="chinese">农民拿出陕西吉他。</span><span class="english">The peasants brought out their Shensi guitars.</span></p>
 
 <p><span class="chinese">宣言是在陕北佳县神泉堡起草的。</span><span class="english">It was drafted at Shenchuanpao, Chiahsien County, northern Shensi.</span></p>

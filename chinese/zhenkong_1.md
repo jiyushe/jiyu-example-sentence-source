@@ -1,5 +1,7 @@
 # 针孔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenkong_1.md)
+
 <p><span class="chinese">折出一台纸针孔相机！</span><span class="english">How to Fold a Pinhole Camera?</span></p>
 
 <p><span class="chinese">我检查是否有针孔摄像。</span><span class="english">I was checking if there was any hiden cameras.</span></p>

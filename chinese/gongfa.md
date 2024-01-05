@@ -1,5 +1,7 @@
 # 公法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongfa.md)
+
 <p><span class="chinese">料。这些是公法还是私法呢？</span><span class="english">What is the difference between a public and private law?</span></p>
 
 <p><span class="chinese">公法和私法被分卷收编。</span><span class="english">Public and private laws are contained in separate volumes.</span></p>

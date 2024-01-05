@@ -1,5 +1,7 @@
 # 马桶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/matong.md)
+
 <p><span class="chinese">所以我把马桶座垫放下去。</span><span class="english">So I put the seat down.</span></p>
 
 <p><span class="chinese">放下洗手间马桶的座垫。</span><span class="english">Put the toilet seat down.</span></p>

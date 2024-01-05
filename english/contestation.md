@@ -1,5 +1,7 @@
 # contestation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contestation.md)
+
 <p><span class="chinese">人们苦苦思索中国新诗的出路在哪里，十几年来论争不断。</span><span class="english">But the contestation has not being ended since more than ten years ago.</span></p>
 
 <p><span class="chinese">珍妮的头发散发着女性魅力，这是男人谈论的中心话题。</span><span class="english">Though Janie's hair exudes feminie sexuality and is a locus of contestation among the men.</span></p>

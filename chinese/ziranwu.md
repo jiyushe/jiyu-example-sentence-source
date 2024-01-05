@@ -1,5 +1,7 @@
 # 自然物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranwu.md)
+
 <p><span class="chinese">保持岩石、植物与其它自然物的原貌。</span><span class="english">Leave rocks, plants and other natural objects as you find them.</span></p>
 
 <p><span class="chinese">他想创建一个新的艺术的一种庆祝自然物。</span><span class="english">He wanted to create a new kind of art that celebrated natural objects.</span></p>

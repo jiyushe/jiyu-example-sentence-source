@@ -1,5 +1,7 @@
 # handicap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handicap.md)
+
 <p><span class="chinese">残疾人可以畅达你吗?。</span><span class="english">Are you handicap accessible?</span></p>
 
 <p><span class="chinese">汽车在高速公路上走像障碍赛跑。</span><span class="english">Cars on the freeway go like a handicap race.</span></p>

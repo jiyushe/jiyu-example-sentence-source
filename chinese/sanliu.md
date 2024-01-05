@@ -1,5 +1,7 @@
 # 三流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanliu.md)
+
 <p><span class="chinese">那是一家三流的饭店！</span><span class="english">That is a third-rate hotel!</span></p>
 
 <p><span class="chinese">那只是个三流公司而已。</span><span class="english">That is just a third-rate company.</span></p>

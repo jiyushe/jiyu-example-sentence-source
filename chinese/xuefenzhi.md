@@ -1,5 +1,7 @@
 # 学分制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuefenzhi.md)
+
 <p><span class="chinese">论文的第三部分是德育学分制的实施。</span><span class="english">The second part is the about the design on moral credit system.</span></p>
 
 <p><span class="chinese">我拥护他在我们大学采用学分制的政策。</span><span class="english">I uphold him in his policy of adopting the credit system in our college.</span></p>

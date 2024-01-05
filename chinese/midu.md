@@ -1,5 +1,7 @@
 # 密度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/midu.md)
+
 <p><span class="chinese">ρ是密度，对吗？</span><span class="english">Rho is a density, right?</span></p>
 
 <p><span class="chinese">降低电流密度。</span><span class="english">Reduce the current density.</span></p>

@@ -1,5 +1,7 @@
 # farrago
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farrago.md)
+
 <p><span class="chinese">这一套全是古代的寓言七拼八凑起来的！</span><span class="english">What a farrago of old fables is this!</span></p>
 
 <p><span class="chinese">整件事是说谎加上欺骗的混杂。</span><span class="english">The whole story was a farrago of lies and deceit.</span></p>

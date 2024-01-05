@@ -1,5 +1,7 @@
 # 征税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengshui.md)
+
 <p><span class="chinese">没有双重征税。</span><span class="english">No double taxation.</span></p>
 
 <p><span class="chinese">电子商务是否应该征税?。</span><span class="english">Should E-business pay tax?</span></p>

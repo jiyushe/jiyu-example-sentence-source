@@ -1,5 +1,7 @@
 # 男女老幼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nannvlaoyou.md)
+
 <p><span class="chinese">男女老幼齐动手。</span><span class="english">Men and women, old and young, all pitched in.</span></p>
 
 <p><span class="chinese">它的品性温和，不凉不燥，男女老幼皆宜。</span><span class="english">Its mild, not cold but not dry, young and old Safe.</span></p>

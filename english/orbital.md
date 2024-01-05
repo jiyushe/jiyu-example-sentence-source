@@ -1,5 +1,7 @@
 # orbital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orbital.md)
+
 <p><span class="chinese">有一个sigma轨道。</span><span class="english">There is a sigma orbital.</span></p>
 
 <p><span class="chinese">谢谢，轨道站，再见了！</span><span class="english">Thank you, Orbital. Good-bye!</span></p>

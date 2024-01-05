@@ -1,5 +1,7 @@
 # digged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digged.md)
+
 <p><span class="chinese">他们竟挖坑要害我的性命。</span><span class="english">for they have digged a pit for my soul.</span></p>
 
 <p><span class="chinese">他们从地里挖出了马铃薯。</span><span class="english">They digged the potatoes out of the ground.</span></p>

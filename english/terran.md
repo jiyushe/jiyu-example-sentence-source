@@ -1,5 +1,7 @@
 # terran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terran.md)
+
 <p><span class="chinese">维金以及掠夺者是我最喜欢的人族单位。</span><span class="english">This and the Marauder are my new favorite Terran units.</span></p>
 
 <p><span class="chinese">邪术巨人讲深渊语、通用语、巨人语和土族语。</span><span class="english">Eldritch giants speak Abyssal, Common, Giant, and Terran.</span></p>

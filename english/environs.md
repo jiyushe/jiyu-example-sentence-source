@@ -1,5 +1,7 @@
 # environs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/environs.md)
+
 <p><span class="chinese">那么你是熟悉巴黎近郊的罗？</span><span class="english">You know the environs of Paris, then?</span></p>
 
 <p><span class="chinese">一个晴朗的下午，玛丽亚带孩子们来到郊外。</span><span class="english">One sunny afternoon, Maria took the children to the environs.</span></p>

@@ -1,5 +1,7 @@
 # flick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flick.md)
+
 <p><span class="chinese">忽悠我！我不会上当。</span><span class="english">Flick me! I don't belive you.</span></p>
 
 <p><span class="chinese">这里有几个小鸡搏命小费。</span><span class="english">Here are a few chick flick tips.</span></p>

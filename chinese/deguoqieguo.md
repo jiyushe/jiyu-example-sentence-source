@@ -1,5 +1,7 @@
 # 得过且过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/deguoqieguo.md)
+
 <p><span class="chinese">他过着得过且过的日子。</span><span class="english">He lives in a shiftless way.</span></p>
 
 <p><span class="chinese">但所有人都变成了得过且过的宿命论者。</span><span class="english">But all had a sense of fatalism.</span></p>

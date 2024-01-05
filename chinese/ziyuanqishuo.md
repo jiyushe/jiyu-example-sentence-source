@@ -1,5 +1,7 @@
 # 自圆其说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyuanqishuo.md)
+
 <p><span class="chinese">他能自圆其说吗？</span><span class="english">Does he have a way out of it?</span></p>
 
 <p><span class="chinese">一些报道显然是在自圆其说。</span><span class="english">Some are apparently hiding in plain sight.</span></p>

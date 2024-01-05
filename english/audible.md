@@ -1,5 +1,7 @@
 # audible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/audible.md)
+
 <p><span class="chinese">指标和声光报警。</span><span class="english">Audible and visual indicator alarm.</span></p>
 
 <p><span class="chinese">一种有低压氖气放电管的灯。</span><span class="english">A usually audible discharge of intestinal gas.</span></p>

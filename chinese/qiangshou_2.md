@@ -1,5 +1,7 @@
 # 枪手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangshou_2.md)
+
 <p><span class="chinese">叫咩名第三个火枪手?。</span><span class="english">What was the name of the thrid Musketeer?</span></p>
 
 <p><span class="chinese">悍马炮塔上的枪手伤亡率一直很高。</span><span class="english">Gunners on Humvees have high casualty rates.</span></p>

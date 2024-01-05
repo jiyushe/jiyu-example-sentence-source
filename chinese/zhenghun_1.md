@@ -1,5 +1,7 @@
 # 证婚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenghun_1.md)
+
 <p><span class="chinese">一位老朋友为他们证婚。</span><span class="english">An old friend married them.</span></p>
 
 <p><span class="chinese">一位主教为他们证婚。</span><span class="english">They were married by a bishop.</span></p>

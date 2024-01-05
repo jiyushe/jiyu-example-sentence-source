@@ -1,5 +1,7 @@
 # 收购站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shougouzhan.md)
+
 <p><span class="chinese">该公司还在霍普金斯威尔经营着一家烟草收购站。</span><span class="english">It also operates a tobacco receiving station in Hopkinsville.</span></p>
 
 <p><span class="chinese">高祖学一家在北京市中心经营着一家小小的废品收购站。</span><span class="english">Gao Zuxue’s family runs a small collection depot in central Beijing.</span></p>

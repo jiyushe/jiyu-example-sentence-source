@@ -1,5 +1,7 @@
 # 风和日丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengherili.md)
+
 <p><span class="chinese">今天风和日丽。</span><span class="english">It's breezy today.</span></p>
 
 <p><span class="chinese">那是个风和日丽的一天。</span><span class="english">Just a bright, sunshiny day.</span></p>

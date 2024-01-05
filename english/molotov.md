@@ -1,5 +1,7 @@
 # molotov
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molotov.md)
+
 <p><span class="chinese">最初，他只想对莫洛托夫进行礼节性的拜访。</span><span class="english">He had at first wanted only to make a courtesy call on molotov.</span></p>
 
 <p><span class="chinese">射击敌人手中的燃烧瓶，手榴弹或者手雷。</span><span class="english">Shoot an enemy Molotov cocktail, dynamite stick, or hand grenade.</span></p>

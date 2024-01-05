@@ -1,5 +1,7 @@
 # mantelpiece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mantelpiece.md)
+
 <p><span class="chinese">一只银质花瓶摆放在壁炉台上。</span><span class="english">A silver vase stood on the mantelpiece.</span></p>
 
 <p><span class="chinese">她将时钟放在壁炉架正中央。</span><span class="english">She centered the clock on the mantelpiece.</span></p>

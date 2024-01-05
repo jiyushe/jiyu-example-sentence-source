@@ -1,5 +1,7 @@
 # 一视同仁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishitongren.md)
+
 <p><span class="chinese">迈克喜爱孩子，一视同仁。</span><span class="english">Mike loved kids-all kids.</span></p>
 
 <p><span class="chinese">死神不问贫富，一视同仁。</span><span class="english">Death is no respecter of wealth.</span></p>

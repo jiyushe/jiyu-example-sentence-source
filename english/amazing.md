@@ -1,5 +1,7 @@
 # amazing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amazing.md)
+
 <p><span class="chinese">很了不起。</span><span class="english">It was amazing.</span></p>
 
 <p><span class="chinese">这很令人惊奇。</span><span class="english">This is amazing.</span></p>

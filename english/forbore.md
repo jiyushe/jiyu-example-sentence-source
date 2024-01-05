@@ -1,5 +1,7 @@
 # forbore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forbore.md)
+
 <p><span class="chinese">他不要报酬。</span><span class="english">He forbore claiming the reward.</span></p>
 
 <p><span class="chinese">我忍住没有拿钱。</span><span class="english">I forbore from taking the money.</span></p>

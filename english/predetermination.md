@@ -1,5 +1,7 @@
 # predetermination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predetermination.md)
+
 <p><span class="chinese">它不会发生，是你事先知道会发生而去阻止发生。</span><span class="english">You're talking about predetermination which happens all the time.</span></p>
 
 <p><span class="chinese">它只是说神先前的决定和巨细靡遗的护理，与自发的选择是“兼容”的。</span><span class="english">It simply means that God's predetermination and meticulous providence is "compatible" with voluntary choice.</span></p>

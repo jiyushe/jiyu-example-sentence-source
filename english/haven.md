@@ -1,5 +1,7 @@
 # haven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haven.md)
+
 <p><span class="chinese">纽黑文住下来。</span><span class="english">In New Haven.</span></p>
 
 <p><span class="chinese">在纽海文吗</span><span class="english">In New Haven?</span></p>

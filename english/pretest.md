@@ -1,5 +1,7 @@
 # pretest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretest.md)
+
 <p><span class="chinese">本研究共由一个预测和三个系列实验组成。</span><span class="english">The study consists of one pretest and three serial experiments.</span></p>
 
 <p><span class="chinese">然而，三个假设并未得到完全验证。</span><span class="english">According to the results of a pretest , three hypotheses have been proposed.</span></p>

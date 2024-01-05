@@ -1,5 +1,7 @@
 # 晴空万里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingkongwanli.md)
+
 <p><span class="chinese">我是说，真是晴空万里。</span><span class="english">I mean, it's really sunny.</span></p>
 
 <p><span class="chinese">但是抬头看，天上晴空万里。</span><span class="english">But when he'd looked up the sky was cloudless.</span></p>

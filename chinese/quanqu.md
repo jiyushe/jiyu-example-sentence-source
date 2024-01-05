@@ -1,5 +1,7 @@
 # 蜷曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanqu.md)
+
 <p><span class="chinese">狗把蜷曲的身体完全伸直。</span><span class="english">The dog uncoiled to its full length.</span></p>
 
 <p><span class="chinese">他紧握巉岩石用蜷曲的手。</span><span class="english">He clasps the crag with crooked hands.</span></p>

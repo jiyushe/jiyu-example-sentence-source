@@ -1,5 +1,7 @@
 # 眷念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juannian.md)
+
 <p><span class="chinese">爱，能唤起所有的眷念。</span><span class="english">Love, can arouse all of the fondly.</span></p>
 
 <p><span class="chinese">青年人展望未来，老年人眷念过去。</span><span class="english">Youth look forward and age backward.</span></p>

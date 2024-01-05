@@ -1,5 +1,7 @@
 # 情分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingfen.md)
+
 <p><span class="chinese">做人，你还是不欠人家的情分的好。</span><span class="english">It was better when you didn't owe anybody.</span></p>
 
 <p><span class="chinese">看在旧日的情分上，我同意和他一起去。</span><span class="english">For old times' sake, I agreed to go with him.</span></p>

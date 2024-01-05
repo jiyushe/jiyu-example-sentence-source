@@ -1,5 +1,7 @@
 # mallow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mallow.md)
+
 <p><span class="chinese">柑桔类植物的一种疾病。</span><span class="english">Any of various related plants, such as the rose mallow.</span></p>
 
 <p><span class="chinese">但花葵的蔓延在未来又加上新的恐惧。</span><span class="english">But the advance of the tree mallow has added new fears for its future.</span></p>

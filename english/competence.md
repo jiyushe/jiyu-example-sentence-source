@@ -1,5 +1,7 @@
 # competence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/competence.md)
+
 <p><span class="chinese">资源能力的高估。</span><span class="english">Over-estimation of resource competence.</span></p>
 
 <p><span class="chinese">我们可以保证他能胜任编辑工作。</span><span class="english">We can certify for him competence as an editor.</span></p>

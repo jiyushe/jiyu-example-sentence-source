@@ -1,5 +1,7 @@
 # astigmatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astigmatic.md)
+
 <p><span class="chinese">散光盘是用于辅助检测并矫正散光的视标。</span><span class="english">Astigmatic dials are targets used for the detection and correction of astigmatism.</span></p>
 
 <p><span class="chinese">本文用矩阵光学的方法研究了内含柱面透镜的象散腔。</span><span class="english">The astigmatic cavity with a cylindrical lenis studied by using matrix optics method.</span></p>

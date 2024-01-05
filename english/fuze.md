@@ -1,5 +1,7 @@
 # fuze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fuze.md)
+
 <p><span class="chinese">顶盖是在引信旋转和封闭。</span><span class="english">The top cover is rotated and closed over the fuze.</span></p>
 
 <p><span class="chinese">且可同时采用多种计算和装定方式。</span><span class="english">The power supply was applied in a fuze laser set system.</span></p>

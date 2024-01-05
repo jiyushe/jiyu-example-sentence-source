@@ -1,5 +1,7 @@
 # volute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volute.md)
+
 <p><span class="chinese">水位是否总是位于涡流顶部?。</span><span class="english">Does liquid level ever drop below volute top?</span></p>
 
 <p><span class="chinese">其次，进行排气蜗壳的改进设计。</span><span class="english">Second, do the optimize design of exhaust volute.</span></p>

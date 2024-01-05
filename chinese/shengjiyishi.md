@@ -1,5 +1,7 @@
 # 盛极一时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengjiyishi.md)
+
 <p><span class="chinese">这座书院在南宋的时候可是盛极一时。</span><span class="english">This academy had its heyday in the Southern Song Dynasty.</span></p>
 
 <p><span class="chinese">而在荷兰,反天主教主义盛极一时</span><span class="english">In the case of the Netherlands, anti-Catholicism is endemic.</span></p>

@@ -1,5 +1,7 @@
 # 察觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chajue.md)
+
 <p><span class="chinese">它仍然是无法察觉的小。</span><span class="english">It's still undetectably small.</span></p>
 
 <p><span class="chinese">他对错误有敏锐的察觉能力。</span><span class="english">She dabbed herself with scent.</span></p>

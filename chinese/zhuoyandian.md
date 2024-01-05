@@ -1,5 +1,7 @@
 # 着眼点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoyandian.md)
+
 <p><span class="chinese">不，我们有非常不同的着眼点。</span><span class="english">No, we have very different approaches.</span></p>
 
 <p><span class="chinese">语篇开始成为对比研究新的着眼点。</span><span class="english">Text has become the new emphasis of contrastive study.</span></p>

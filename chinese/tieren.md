@@ -1,5 +1,7 @@
 # 铁人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieren.md)
+
 <p><span class="chinese">你说你是一名铁人三项运动员。</span><span class="english">You said you're a triathlon player.</span></p>
 
 <p><span class="chinese">大家都叫王进喜“王铁人”。</span><span class="english">Everyone called Wang Jinxi 'Iron Wang'.</span></p>

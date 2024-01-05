@@ -1,5 +1,7 @@
 # 军阀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junfa.md)
+
 <p><span class="chinese">尼罗河三角洲地区的军阀都对他俯首称臣。</span><span class="english">The delta warlords had been laid low.</span></p>
 
 <p><span class="chinese">还有军阀主义残余。</span><span class="english">There were also remnants of militarism.</span></p>

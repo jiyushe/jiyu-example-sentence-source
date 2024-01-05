@@ -1,5 +1,7 @@
 # lender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lender.md)
+
 <p><span class="chinese">证券借贷方如何赚钱？</span><span class="english">How does a Securities Lender make money?</span></p>
 
 <p><span class="chinese">那么你有一金一贷放款。</span><span class="english">Then you have one loan payment to one lender.</span></p>

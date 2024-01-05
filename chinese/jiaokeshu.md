@@ -1,5 +1,7 @@
 # 教科书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaokeshu.md)
+
 <p><span class="chinese">没有教科书。</span><span class="english">There is no required text.</span></p>
 
 <p><span class="chinese">些内容在你们的教科书上也有。</span><span class="english">Here is from your textbook.</span></p>

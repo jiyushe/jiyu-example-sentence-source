@@ -1,5 +1,7 @@
 # 随口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suikou.md)
+
 <p><span class="chinese">茱莉亚随口说了一句，紧接着又补上一句，“抱歉。”</span><span class="english">Julia blurted. “Sorry.”</span></p>
 
 <p><span class="chinese">他随口编了一个迟到的借口。</span><span class="english">He trotted out an excuse for being late.</span></p>

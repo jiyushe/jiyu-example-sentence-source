@@ -1,5 +1,7 @@
 # 人人皆知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renrenjiezhi.md)
+
 <p><span class="chinese">她在古巴问题上的鲜明观点人人皆知。</span><span class="english">She is known to hold strong views on Cuba.</span></p>
 
 <p><span class="chinese">良药苦口利于病，人人皆知。</span><span class="english">Bitter medicine in favor of disease, known.</span></p>

@@ -1,5 +1,7 @@
 # Cajun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cajun.md)
+
 <p><span class="chinese">路易斯安那沙拉，还有可口的牛排。</span><span class="english">Cajun salad, nice steak.</span></p>
 
 <p><span class="chinese">他们演奏了一些卡津音乐。</span><span class="english">They played some Cajun music.</span></p>

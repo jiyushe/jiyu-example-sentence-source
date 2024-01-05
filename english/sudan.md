@@ -1,5 +1,7 @@
 # sudan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sudan.md)
+
 <p><span class="chinese">苏丹论坛报。</span><span class="english">Sudan Tribune.</span></p>
 
 <p><span class="chinese">是谁把苏丹红加到了食品里？</span><span class="english">Who be is a Sudan red add in food?</span></p>

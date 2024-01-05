@@ -1,5 +1,7 @@
 # holy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holy_1.md)
+
 <p><span class="chinese">一个高尚的傻子？</span><span class="english">A holy fool?</span></p>
 
 <p><span class="chinese">神圣的霍格沃兹啊！</span><span class="english">Holy Hogwarts!</span></p>

@@ -1,5 +1,7 @@
 # lps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lps.md)
+
 <p><span class="chinese">他们除了卷烟纸和黑胶唱片外，有更多东西要买。</span><span class="english">There was more to sell them than rolling papers and LPs.</span></p>
 
 <p><span class="chinese">体外实验证明，青砖茶具有抑制LPS活性的作用。</span><span class="english">In vitro experiments show that dark brick tea can inhibit LPS.</span></p>

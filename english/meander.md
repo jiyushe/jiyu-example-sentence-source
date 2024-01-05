@@ -1,5 +1,7 @@
 # meander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meander.md)
+
 <p><span class="chinese">我喜欢闲逛穿过熟悉的街道。</span><span class="english">I liked to meander through familiar streets.</span></p>
 
 <p><span class="chinese">他们通常下班后漫步到那家小酒店去。</span><span class="english">They usually meander down to the pub after work.</span></p>

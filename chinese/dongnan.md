@@ -1,5 +1,7 @@
 # 东南
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongnan.md)
+
 <p><span class="chinese">动物园在我们学校的东南面。</span><span class="english">The zoo is our school.</span></p>
 
 <p><span class="chinese">这个镇位于厦门的东南边。</span><span class="english">The town to the of Xiamen.</span></p>

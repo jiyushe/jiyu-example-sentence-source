@@ -1,5 +1,7 @@
 # legitimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legitimate.md)
+
 <p><span class="chinese">上述有些事情是合理的。</span><span class="english">Some of that is legitimate.</span></p>
 
 <p><span class="chinese">当然，合法的保密是存在的。</span><span class="english">Of course there are legitimate secrets.</span></p>

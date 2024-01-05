@@ -1,5 +1,7 @@
 # 改制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaizhi.md)
+
 <p><span class="chinese">银行都已进行了改制。</span><span class="english">The banks have been transformed.</span></p>
 
 <p><span class="chinese">未改制的钢塑板呈少筋脆性破坏特征。</span><span class="english">The failure of unimproved slabs was brittle.</span></p>

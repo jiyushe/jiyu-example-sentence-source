@@ -1,5 +1,7 @@
 # predictable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predictable.md)
+
 <p><span class="chinese">今天的局面是难以预料的。</span><span class="english">Today’s situation is less predictable.</span></p>
 
 <p><span class="chinese">吃饱的敌人更可预测。</span><span class="english">Well-fed enemies are more predictable.</span></p>

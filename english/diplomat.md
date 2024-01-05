@@ -1,5 +1,7 @@
 # diplomat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diplomat.md)
+
 <p><span class="chinese">但我没有一直做外交官。</span><span class="english">But I did not remain a diplomat.</span></p>
 
 <p><span class="chinese">激进主义者是个糟糕的外交家。</span><span class="english">Radicalization is a bad diplomat.</span></p>

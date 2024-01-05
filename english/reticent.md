@@ -1,5 +1,7 @@
 # reticent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reticent.md)
+
 <p><span class="chinese">他是个寡言少语、谦虚谨慎的人。</span><span class="english">He is a reticent and modest man.</span></p>
 
 <p><span class="chinese">但大多数分析师更倾向于保持沉默。</span><span class="english">But most analysts are more reticent.</span></p>

@@ -1,5 +1,7 @@
 # regretfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regretfully.md)
+
 <p><span class="chinese">我现在遗憾地打开了灯。</span><span class="english">I now regretfully turn out the light.</span></p>
 
 <p><span class="chinese">和是什么让你感到最遗憾的？</span><span class="english">And what made you feel most regretfully ?</span></p>

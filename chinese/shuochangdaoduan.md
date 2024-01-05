@@ -1,5 +1,7 @@
 # 说长道短
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuochangdaoduan.md)
+
 <p><span class="chinese">我知道英国人会怎样说长道短。</span><span class="english">I know how people chatter in england.</span></p>
 
 <p><span class="chinese">让我们停止说长道短，回到工作中吧。</span><span class="english">Let's stop gossiping and get back to work.</span></p>

@@ -1,5 +1,7 @@
 # 拉倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ladao.md)
+
 <p><span class="chinese">你们不同意就拉倒。</span><span class="english">Since you don't agree, let's drop it.</span></p>
 
 <p><span class="chinese">喧闹过后，她平安无恙，世贸没被拉倒。</span><span class="english">After all the commotion she is safe and sound.</span></p>

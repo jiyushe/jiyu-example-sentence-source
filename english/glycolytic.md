@@ -1,5 +1,7 @@
 # glycolytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycolytic.md)
+
 <p><span class="chinese">醛缩酶C是生命代谢过程中重要糖酵解同工酶之一。</span><span class="english">C is one of important glycolytic isozymes in the metabolic process.</span></p>
 
 <p><span class="chinese">表明传导组织是以无氧代谢为其主要代谢途径。</span><span class="english">It was proved that the metabolism of conductive tissue is glycolytic.</span></p>

@@ -1,5 +1,7 @@
 # drake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drake.md)
+
 <p><span class="chinese">我弄来一只公鸭和三只母鸭。</span><span class="english">I brought in one drake and three ducks.</span></p>
 
 <p><span class="chinese">街舞艺术家德雷克一起上的歌曲。</span><span class="english">Hip-hop artist Drake joins in on the song.</span></p>

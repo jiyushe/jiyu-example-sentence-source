@@ -1,5 +1,7 @@
 # 正多边形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengduobianxing.md)
+
 <p><span class="chinese">研究2N体问题2层正多边形中心构型。</span><span class="english">Two layer regular polygon central configurations of 2N-body problems are studied.</span></p>
 
 <p><span class="chinese">通过对正多边形相似变换性质的分析，提出了新型打捆预成型机构。</span><span class="english">Through analyzing the similarity transformation character of regular polygon, a new fashioned formation mechanism of bundling was designed.</span></p>

@@ -1,5 +1,7 @@
 # 砧木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenmu_1.md)
+
 <p><span class="chinese">在砧木萌动到展叶期嫁接为好。</span><span class="english">In the rootstock sprout to leaf grafting as well.</span></p>
 
 <p><span class="chinese">必须把槟樱桃枝条嫁接到砧木上。</span><span class="english">Braches that produce Bing cherries must be grafted onto rootstock.</span></p>

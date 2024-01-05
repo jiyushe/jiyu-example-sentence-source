@@ -1,5 +1,7 @@
 # pimping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pimping.md)
+
 <p><span class="chinese">我可没有给你拉皮条。</span><span class="english">And I am not pimping you out.</span></p>
 
 <p><span class="chinese">很小的，像个热水瓶一样。</span><span class="english">Pimping , be like a thermos bottle.</span></p>

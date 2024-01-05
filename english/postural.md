@@ -1,5 +1,7 @@
 # postural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postural.md)
+
 <p><span class="chinese">但是状态肌群又和太极拳有什么关系呢？</span><span class="english">But what is the relevance of postural muscles to Taijiquan?</span></p>
 
 <p><span class="chinese">两组间的姿势平衡评估也是差不多的。</span><span class="english">Evaluation of postural balance was also similar between the groups.</span></p>

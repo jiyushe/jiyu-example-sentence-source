@@ -1,5 +1,7 @@
 # 坐骑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoqi_1.md)
+
 <p><span class="chinese">他的坐骑嘶鸣着。</span><span class="english">His palfrey neighs.</span></p>
 
 <p><span class="chinese">他放慢了坐骑的速度。</span><span class="english">He pulled his mount.</span></p>

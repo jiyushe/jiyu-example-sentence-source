@@ -1,5 +1,7 @@
 # reactance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reactance.md)
+
 <p><span class="chinese">谐振时阻抗为零的电感-电容电路。</span><span class="english">Inductance-capacitance circuit with zero reactance at resonance.</span></p>
 
 <p><span class="chinese">对非线性声阻和声抗的根源作了探讨。</span><span class="english">The origins of the nonlinear resistance and reactance are discussed.</span></p>

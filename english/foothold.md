@@ -1,5 +1,7 @@
 # foothold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foothold.md)
+
 <p><span class="chinese">我身陷泥潭中，找不到立足点。</span><span class="english">I sink in deep mire, where there is no foothold.</span></p>
 
 <p><span class="chinese">用几根带儿把鞋底固定在脚上的一种鞋。</span><span class="english">He found a secure foothold and pulled himself up.</span></p>

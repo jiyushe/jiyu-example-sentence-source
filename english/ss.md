@@ -1,5 +1,7 @@
 # ss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ss.md)
+
 <p><span class="chinese">我把他画成党卫队全副武装的样子。</span><span class="english">I drew him in his SS regalia.</span></p>
 
 <p><span class="chinese">主要锻炼学生的单词辨认和认读能力。</span><span class="english">Can let Ss read one by one to look at CAI.</span></p>

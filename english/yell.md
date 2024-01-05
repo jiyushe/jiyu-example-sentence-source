@@ -1,5 +1,7 @@
 # yell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yell.md)
+
 <p><span class="chinese">别对着我乱喊！</span><span class="english">Don't yell at me!</span></p>
 
 <p><span class="chinese">我听到什么人大叫。</span><span class="english">I heard somebody yell.</span></p>

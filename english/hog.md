@@ -1,5 +1,7 @@
 # hog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hog.md)
+
 <p><span class="chinese">这头猪鬃毛直立。</span><span class="english">The hog bristled up.</span></p>
 
 <p><span class="chinese">他像猪一样贪婪。</span><span class="english">He is greedy like a hog.</span></p>

@@ -1,5 +1,7 @@
 # 反响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanxiang_1.md)
+
 <p><span class="chinese">这种产品一经上市便反响强烈。</span><span class="english">The response has been strong.</span></p>
 
 <p><span class="chinese">结果我们收到了很好的反响。</span><span class="english">and we got a very good response.</span></p>

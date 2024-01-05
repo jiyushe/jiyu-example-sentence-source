@@ -1,5 +1,7 @@
 # 功成身退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchengshentui.md)
+
 <p><span class="chinese">某些灵魂伴侣在教会了你一些事情之后便功成身退。</span><span class="english">Some soul mates become people who teach you things and then they move on.</span></p>
 
 <p><span class="chinese">出售公司、迅速变现和功成身退可以说是现如今许多初创企业创始人的梦想。</span><span class="english">Selling out, cashing in and calling it a day seems to be many startup founders' dream these days.</span></p>

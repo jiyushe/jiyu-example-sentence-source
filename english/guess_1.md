@@ -1,5 +1,7 @@
 # guess 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guess_1.md)
+
 <p><span class="chinese">我想是这样。</span><span class="english">I guess so.</span></p>
 
 <p><span class="chinese">而结果呢？</span><span class="english">And guess what?</span></p>

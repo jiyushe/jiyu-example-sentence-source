@@ -1,5 +1,7 @@
 # 千奇百怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianqibaiguai.md)
+
 <p><span class="chinese">总之，千奇百怪，一般魔幻都望尘莫及。</span><span class="english">In short, strange, magic in general are far behind.</span></p>
 
 <p><span class="chinese">揭发者们的目的多种多样千奇百怪，其中有些当然动机不纯。</span><span class="english">Leakers can have a variety of motives, some impure.</span></p>

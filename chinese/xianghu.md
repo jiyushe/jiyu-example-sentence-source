@@ -1,5 +1,7 @@
 # 相互
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianghu.md)
+
 <p><span class="chinese">它会相互影响。</span><span class="english">It's interacted.</span></p>
 
 <p><span class="chinese">什么是相互依赖？</span><span class="english">What is codependence?</span></p>

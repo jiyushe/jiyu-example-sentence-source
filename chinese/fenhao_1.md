@@ -1,5 +1,7 @@
 # 分毫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenhao_1.md)
+
 <p><span class="chinese">时光不会使我们的爱情稍减分毫。</span><span class="english">Time will never cause our love to dimish.</span></p>
 
 <p><span class="chinese">起先冰层分毫不动，只叽嘎了一下，像沉重的门扉。</span><span class="english">At first the ice held, only creaking a bit, like a heavy gate.</span></p>

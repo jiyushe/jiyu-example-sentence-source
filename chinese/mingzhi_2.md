@@ -1,5 +1,7 @@
 # 明智
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzhi_2.md)
+
 <p><span class="chinese">他是如此明智。</span><span class="english">He was so wise.</span></p>
 
 <p><span class="chinese">这段话比较晦涩，但是很明智。</span><span class="english">Ugly, but sensible.</span></p>

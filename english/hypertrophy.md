@@ -1,5 +1,7 @@
 # hypertrophy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypertrophy.md)
+
 <p><span class="chinese">鼻甲肥大如何治疗？</span><span class="english">How is nosepiece hypertrophy treated?</span></p>
 
 <p><span class="chinese">这种肌肉增长的方式就叫做“肥大”。</span><span class="english">This form of muscle growth is called hypertrophy.</span></p>

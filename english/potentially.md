@@ -1,5 +1,7 @@
 # potentially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potentially.md)
+
 <p><span class="chinese">好吧，除了一点，潜在的一点。</span><span class="english">Well, except for one, potentially.</span></p>
 
 <p><span class="chinese">不过，它可能是最贵的一个。</span><span class="english">But it is potentially the priciest.</span></p>

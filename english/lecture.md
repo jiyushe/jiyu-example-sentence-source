@@ -1,5 +1,7 @@
 # lecture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lecture.md)
+
 <p><span class="chinese">这一讲到这里就结束了。</span><span class="english">So the lecture is over.</span></p>
 
 <p><span class="chinese">他拖长了他的演讲。</span><span class="english">He strung out his lecture.</span></p>

@@ -1,5 +1,7 @@
 # 竭诚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiecheng.md)
+
 <p><span class="chinese">我将竭诚为您服务！</span><span class="english">I will serve for you!</span></p>
 
 <p><span class="chinese">竭诚欢迎您选用科达产品。</span><span class="english">We welcome your choice of Keda products.</span></p>

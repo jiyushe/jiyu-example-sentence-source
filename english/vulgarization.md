@@ -1,5 +1,7 @@
 # vulgarization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vulgarization.md)
+
 <p><span class="chinese">但也是文明的粗俗化。</span><span class="english">It's still vulgarization of civilization.</span></p>
 
 <p><span class="chinese">,涂鸦，那些涂鸦是一种文明的,粗俗化，他们在公共场合涂鸦。</span><span class="english">The graffiti are a kind of vulgarization of civilization.</span></p>

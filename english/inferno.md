@@ -1,5 +1,7 @@
 # inferno
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inferno.md)
+
 <p><span class="chinese">他无法持续地狱火超过连续3轮。</span><span class="english">He cannot maintain inferno for more than 3 consecutive rounds.</span></p>
 
 <p><span class="chinese">地狱猫一点一点地包围他们，逼他们退入烈焰当中。</span><span class="english">Hellcats hemmed them in at every turn, forcing them back into the inferno.</span></p>

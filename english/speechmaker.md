@@ -1,5 +1,7 @@
 # speechmaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speechmaker.md)
+
 <p><span class="chinese">但是我是最差的演讲者啊！</span><span class="english">But I’m the worst speechmaker though!</span></p>
 
 <p><span class="chinese">他作为一个演说家是相当有名的。</span><span class="english">He is rather famous as a speechmaker.</span></p>

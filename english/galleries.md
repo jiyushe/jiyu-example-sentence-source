@@ -1,5 +1,7 @@
 # galleries
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galleries.md)
+
 <p><span class="chinese">有很多博物馆和美术馆。</span><span class="english">A lot of museums and galleries.</span></p>
 
 <p><span class="chinese">欢迎你访问我的网上相册。</span><span class="english">Welcome to my online photo galleries.</span></p>

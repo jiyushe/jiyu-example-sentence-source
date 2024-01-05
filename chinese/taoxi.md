@@ -1,5 +1,7 @@
 # 淘洗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoxi.md)
+
 <p><span class="chinese">他们的工作就是“淘洗沙子”。</span><span class="english">Their job is "panning for gold".</span></p>
 
 <p><span class="chinese">他们淘洗金沙，把金子分离出来。</span><span class="english">They cradled the gold to separate the gold.</span></p>

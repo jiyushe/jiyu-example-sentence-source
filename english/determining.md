@@ -1,5 +1,7 @@
 # determining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/determining.md)
+
 <p><span class="chinese">测量扁率是极为困难的。</span><span class="english">Determining the oblateness is extremely difficult.</span></p>
 
 <p><span class="chinese">测量扁率是极为困难的。</span><span class="english">Determining the oblateness is extremely difficult.</span></p>

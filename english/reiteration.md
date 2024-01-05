@@ -1,5 +1,7 @@
 # reiteration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reiteration.md)
+
 <p><span class="chinese">儿童如何在重复中找到规律？</span><span class="english">How Do Children Find Patterns in Reiteration?</span></p>
 
 <p><span class="chinese">最终，欧佩克只能维持已遭到有能力者违背的配额，这种结果几乎不可能引起惊慌。</span><span class="english">The resulting reiteration of quotas busted by those able to do so hardly instils fear.</span></p>

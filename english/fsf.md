@@ -1,5 +1,7 @@
 # fsf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fsf.md)
+
 <p><span class="chinese">FSF避而不谈讨执行方案。</span><span class="english">The FSF shies away from discussing enforcement.</span></p>
 
 <p><span class="chinese">布赖恩和FSF把这个程序托给我管理。</span><span class="english">Brian and the FSF trusted me with the program's future.</span></p>

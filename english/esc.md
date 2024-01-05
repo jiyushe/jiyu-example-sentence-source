@@ -1,5 +1,7 @@
 # esc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esc.md)
+
 <p><span class="chinese">你可能会发现报道ESC政策也很复杂。</span><span class="english">You might find reporting on ESC policy just as complicated.</span></p>
 
 <p><span class="chinese">ESC研究是报道起来最复杂的科学话题之一。</span><span class="english">ESC research is one of the most complex science topics to cover.</span></p>

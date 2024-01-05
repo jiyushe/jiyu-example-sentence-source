@@ -1,5 +1,7 @@
 # dephosphorization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dephosphorization.md)
+
 <p><span class="chinese">最后还提供了几例不锈钢的脱磷技术。</span><span class="english">Finally, it provides some examples of dephosphorization technology for stainless steels.</span></p>
 
 <p><span class="chinese">不需加药可达到较好的脱氮除磷效果。</span><span class="english">The denitrification and dephosphorization can be well achieved without adding the agents.</span></p>

@@ -1,5 +1,7 @@
 # 大敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadi_4.md)
+
 <p><span class="chinese">明暗反差大是照片的大敌。</span><span class="english">Contrast is your enemy.</span></p>
 
 <p><span class="chinese">压力是生育能力的大敌。</span><span class="english">Stress is no friend to fertility.</span></p>

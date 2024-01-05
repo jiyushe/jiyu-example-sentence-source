@@ -1,5 +1,7 @@
 # thereupon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thereupon.md)
+
 <p><span class="chinese">具有拘束力的合同就此便告缔结。</span><span class="english">A binding contract is thereupon concluded.</span></p>
 
 <p><span class="chinese">子于是日哭，则不歌。</span><span class="english">Sub- thereupon the date cries, then not song.</span></p>

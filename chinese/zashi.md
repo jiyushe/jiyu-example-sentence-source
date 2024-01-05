@@ -1,5 +1,7 @@
 # 杂事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zashi.md)
+
 <p><span class="chinese">琐碎杂事扼杀了他的才能。</span><span class="english">His talent smothered in his trifles.</span></p>
 
 <p><span class="chinese">你为什么非要挑我去干那些杂事呢?</span><span class="english">Why should you pick on me to do the chores?</span></p>

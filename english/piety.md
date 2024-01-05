@@ -1,5 +1,7 @@
 # piety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piety.md)
+
 <p><span class="chinese">而且孝是我们的义务。</span><span class="english">And filial piety is our duty.</span></p>
 
 <p><span class="chinese">兄弟睦，孝在中。</span><span class="english">Brothers harmony, filial piety in.</span></p>

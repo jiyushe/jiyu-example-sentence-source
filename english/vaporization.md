@@ -1,5 +1,7 @@
 # vaporization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaporization.md)
+
 <p><span class="chinese">对于升华和蒸发。</span><span class="english">For sublimation. Or vaporization.</span></p>
 
 <p><span class="chinese">除以纯的溶剂蒸发的焓变。</span><span class="english">Divided by delta H of vaporization of the pure solvent.</span></p>

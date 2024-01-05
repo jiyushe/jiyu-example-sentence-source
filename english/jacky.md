@@ -1,5 +1,7 @@
 # jacky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jacky.md)
+
 <p><span class="chinese">都是最喜欢听学友唱的版本。</span><span class="english">Only the song from Jacky is great!</span></p>
 
 <p><span class="chinese">成龙是个超级明星，史泰隆也是。</span><span class="english">Jacky Chan is a hunk, so is Stallone!</span></p>

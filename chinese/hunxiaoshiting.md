@@ -1,5 +1,7 @@
 # 混淆视听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunxiaoshiting.md)
+
 <p><span class="chinese">首先是混淆视听的目的和手段。</span><span class="english">The first is to confuse ends and means.</span></p>
 
 <p><span class="chinese">呵呵，那就是他们嫉妒的时候做的事，混淆视听。</span><span class="english">Well, that's what they do when they get jealous, they confuse it.</span></p>

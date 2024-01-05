@@ -1,5 +1,7 @@
 # 持之以恒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chizhiyiheng.md)
+
 <p><span class="chinese">任前方荆棘丛生我们将持之以恒。</span><span class="english">As we will persevere in front of thorns.</span></p>
 
 <p><span class="chinese">持之以恒，所以才能把石块打穿。</span><span class="english">Persevere, so can the stones penetrated.</span></p>

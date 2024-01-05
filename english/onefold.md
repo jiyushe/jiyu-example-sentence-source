@@ -1,5 +1,7 @@
 # onefold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onefold.md)
+
 <p><span class="chinese">这个数字意味着产量提高了一倍。</span><span class="english">This numeral means a onefold increase in production.</span></p>
 
 <p><span class="chinese">在计划经济时代，我国的报刊发行主要是通过邮政单一渠道。</span><span class="english">In planned economy times, the press of our country is issued basically is to carry postal and onefold channel.</span></p>

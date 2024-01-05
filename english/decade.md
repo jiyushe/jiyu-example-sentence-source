@@ -1,5 +1,7 @@
 # decade 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decade.md)
+
 <p><span class="chinese">浮云一别后，流水十年间。</span><span class="english">Do not cloud one, the water decade.</span></p>
 
 <p><span class="chinese">过去10年里，应笣髑布朗入住唐宁街10号。</span><span class="english">Brown at No. 10 for the past decade.</span></p>

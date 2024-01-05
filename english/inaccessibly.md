@@ -1,5 +1,7 @@
 # inaccessibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inaccessibly.md)
+
 <p><span class="chinese">人生难得穿越一回，但活着又是为了什么?。</span><span class="english">Life passes through inaccessibly bout, but living for what be?</span></p>
 
 <p><span class="chinese">而他们的家，也像是深闺美人，难得一见。</span><span class="english">And their home, also resembling is boudoir beauty, see inaccessibly.</span></p>

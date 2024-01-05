@@ -1,5 +1,7 @@
 # spay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spay.md)
+
 <p><span class="chinese">为你的宠物实施切除卵巢或阉割手术非常重要。</span><span class="english">It's really important to spay or neuter your pets.</span></p>
 
 <p><span class="chinese">给狗做绝育。绝育后的狗咬人的可能性大大降低。</span><span class="english">Neuter or spay your dog. These dogs are less likely to bite.</span></p>

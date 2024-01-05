@@ -1,5 +1,7 @@
 # sorrowful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorrowful.md)
+
 <p><span class="chinese">我的爱是一种伤悲。</span><span class="english">My love is a sorrowful.</span></p>
 
 <p><span class="chinese">伤心的寡妇乞怜。</span><span class="english">The sorrowful widow begged for mercy.</span></p>

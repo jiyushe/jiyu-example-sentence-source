@@ -1,5 +1,7 @@
 # 大难不死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dananbusi.md)
+
 <p><span class="chinese">他似乎总是能大难不死。</span><span class="english">He always seems to land on his feet.</span></p>
 
 <p><span class="chinese">你大难不死真是幸运。</span><span class="english">You are lucky to be alive after the accident.</span></p>

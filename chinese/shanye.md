@@ -1,5 +1,7 @@
 # 山野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanye.md)
+
 <p><span class="chinese">他一个山野村夫怎麽会懂得文学呢？</span><span class="english">How can the rustic understand literature?</span></p>
 
 <p><span class="chinese">西塞山野雁自翔，小桥水泽浸芳园。</span><span class="english">The wild goose cisse, small water extraction.</span></p>

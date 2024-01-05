@@ -1,5 +1,7 @@
 # 合情合理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heqingheli.md)
+
 <p><span class="chinese">这完全合情合理。</span><span class="english">There is nothing wrong.</span></p>
 
 <p><span class="chinese">乍一听来，似乎合情合理。</span><span class="english">In theory, this sounds reasonable.</span></p>

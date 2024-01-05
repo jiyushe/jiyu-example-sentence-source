@@ -1,5 +1,7 @@
 # 修通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiutong.md)
+
 <p><span class="chinese">尽管修通了隧道。</span><span class="english">Despite the new tunnel.</span></p>
 
 <p><span class="chinese">我们只花了一个星期修通这条路。</span><span class="english">It only took us like a week to put a road through it.</span></p>

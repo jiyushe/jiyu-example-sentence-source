@@ -1,5 +1,7 @@
 # makeshift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/makeshift.md)
+
 <p><span class="chinese">这个临时修建的摔跤场地在拉合尔郊外。</span><span class="english">This makeshift ring is on the outskirts of Lahore.</span></p>
 
 <p><span class="chinese">他们联合起来，组成一个临时但亲密的家人。</span><span class="english">Together they form a makeshift but close-knit family.</span></p>

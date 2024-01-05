@@ -1,5 +1,7 @@
 # 闪避
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanbi_1.md)
+
 <p><span class="chinese">他迅速闪避到一旁。</span><span class="english">He made a sudden dodge aside.</span></p>
 
 <p><span class="chinese">希望上帝保佑我，我可无法闪避所有枪头。</span><span class="english">God help me, I cannot dodge them all!</span></p>

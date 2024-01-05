@@ -1,5 +1,7 @@
 # clearinghouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clearinghouse.md)
+
 <p><span class="chinese">我曾经获得过设计当前交易大厅规则的荣幸。</span><span class="english">I had the privilege of designing the current clearinghouse algorithm.</span></p>
 
 <p><span class="chinese">IC3是美国为网络犯罪投诉设置的交易所。</span><span class="english">The IC3 is the clearinghouse for online crime complaints in the U. S.</span></p>

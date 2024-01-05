@@ -1,5 +1,7 @@
 # nicotiana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nicotiana.md)
+
 <p><span class="chinese">植物学家所称作的烟草，是世界上第一股商品狂潮。</span><span class="english">Nicotiana tabacum, as botanists call it, was the first global commodity craze.</span></p>
 
 <p><span class="chinese">烟草未授粉子房胚状体诱导的研究。</span><span class="english">Studies on the induction of embryoid from unpollinated ovaries of Nicotiana tabacum L.</span></p>

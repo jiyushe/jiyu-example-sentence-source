@@ -1,5 +1,7 @@
 # 医道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidao_1.md)
+
 <p><span class="chinese">我若再说自己精通医道，手到病除，必将遭来祸害。</span><span class="english">If I say hell, instant solutions to be proficient in his will encounter to evil.</span></p>
 
 <p><span class="chinese">中华医道超越科学，并可包容人体科学。</span><span class="english">Chinese medical knowledge surpasses science and includes the science of human body!</span></p>

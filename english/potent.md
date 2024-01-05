@@ -1,5 +1,7 @@
 # potent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potent.md)
+
 <p><span class="chinese">这是一项非常有效的运动。</span><span class="english">It’s a very potent exercise.</span></p>
 
 <p><span class="chinese">你必须意识到这有多大的说服力</span><span class="english">You have to realize how potent this is.</span></p>

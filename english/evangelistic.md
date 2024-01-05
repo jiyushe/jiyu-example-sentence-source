@@ -1,5 +1,7 @@
 # evangelistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evangelistic.md)
+
 <p><span class="chinese">他们是他宣教队伍的成员。</span><span class="english">They were part of his evangelistic team.</span></p>
 
 <p><span class="chinese">他们在英国各地进行福音传教活动。</span><span class="english">They conducted evangelistic missions around Britain.</span></p>

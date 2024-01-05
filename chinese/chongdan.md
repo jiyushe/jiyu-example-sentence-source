@@ -1,5 +1,7 @@
 # 冲淡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongdan.md)
+
 <p><span class="chinese">时候可以冲淡最强烈的哀痛。</span><span class="english">Time tames the strongest grief.</span></p>
 
 <p><span class="chinese">她用水把牛奶冲淡。</span><span class="english">She diluted the milk with water.</span></p>

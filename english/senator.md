@@ -1,5 +1,7 @@
 # senator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/senator.md)
+
 <p><span class="chinese">卢格参议员是对的。</span><span class="english">Senator Lugar is right.</span></p>
 
 <p><span class="chinese">富布赖特参议员也出席了葬礼。</span><span class="english">So was Senator Fulbright.</span></p>

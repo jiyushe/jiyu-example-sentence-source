@@ -1,5 +1,7 @@
 # additive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/additive.md)
+
 <p><span class="chinese">规则集是附加的。</span><span class="english">Rule Sets are additive.</span></p>
 
 <p><span class="chinese">因为它是在处理昨天的价格。</span><span class="english">Notice that this is additive.</span></p>

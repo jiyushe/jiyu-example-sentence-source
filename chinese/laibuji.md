@@ -1,5 +1,7 @@
 # 来不及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laibuji.md)
+
 <p><span class="chinese">别磨磨蹭蹭了，要不然我们就来不及了。</span><span class="english">Don't dally about or we'll be late.</span></p>
 
 <p><span class="chinese">我来不及把车停下来，我只能向右转。</span><span class="english">I couldn't stop, so I swerved to the right.</span></p>

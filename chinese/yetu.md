@@ -1,5 +1,7 @@
 # 野兔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yetu.md)
+
 <p><span class="chinese">疯得像只三月的野兔。</span><span class="english">Mad as a March Hare.</span></p>
 
 <p><span class="chinese">这是一本关于野兔的书。</span><span class="english">It's a book about hares.</span></p>

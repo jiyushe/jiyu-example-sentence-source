@@ -1,5 +1,7 @@
 # collapsible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collapsible.md)
+
 <p><span class="chinese">在折叠部分提供了详细的步骤说明。</span><span class="english">Detailed step descriptions are provided in collapsible sections.</span></p>
 
 <p><span class="chinese">灰土垫层是处理湿陷性黄土的一种常用方法。</span><span class="english">Lime-soil cushion is a common method to deal with collapsible loess.</span></p>

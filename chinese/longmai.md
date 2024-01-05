@@ -1,5 +1,7 @@
 # 龙脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longmai.md)
+
 <p><span class="chinese">龙脉被四代封印，岂是能轻易打开的！</span><span class="english">Dragon arteries and veins by 4 acting seal, can open easily!</span></p>
 
 <p><span class="chinese">它被称为骨干、或“龙脉”的北京。</span><span class="english">IT is known as the backbone, or the"dragon vein" of Beijing.</span></p>

@@ -1,5 +1,7 @@
 # enamelware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enamelware.md)
+
 <p><span class="chinese">景泰蓝制品，国货精华。</span><span class="english">Cloisonne enamelware is the cream of home-made goods.</span></p>
 
 <p><span class="chinese">猎鹰搪瓷已自20世纪20年代以来，英国的家庭生活中的图标。</span><span class="english">Falcon Enamelware has been an icon of British home life since the 1920s.</span></p>

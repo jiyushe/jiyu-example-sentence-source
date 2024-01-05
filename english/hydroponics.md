@@ -1,5 +1,7 @@
 # hydroponics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroponics.md)
+
 <p><span class="chinese">现在把这种栽培方法叫做水栽法。</span><span class="english">Today this method of farming is called hydroponics.</span></p>
 
 <p><span class="chinese">如果你没有听说水培园艺，不要担心。</span><span class="english">If you haven't heard about hydroponics gardening, don't worry.</span></p>

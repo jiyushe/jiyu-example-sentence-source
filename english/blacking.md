@@ -1,5 +1,7 @@
 # blacking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blacking.md)
+
 <p><span class="chinese">用颜料把一盏灯的灯泡涂黑。</span><span class="english">Blacking a lamp bulb by paint.</span></p>
 
 <p><span class="chinese">他有一个粘贴标签的黑色鞋油工作。</span><span class="english">He had a job of pasting labels of blacking.</span></p>

@@ -1,5 +1,7 @@
 # 权限
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanxian_1.md)
+
 <p><span class="chinese">授予访问映像的权限。</span><span class="english">Grant access to the image.</span></p>
 
 <p><span class="chinese">抱歉，您在本论坛没有浏览权限。</span><span class="english">This forum is powered by Phorum.</span></p>

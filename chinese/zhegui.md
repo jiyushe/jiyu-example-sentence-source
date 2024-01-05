@@ -1,5 +1,7 @@
 # 折桂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhegui.md)
+
 <p><span class="chinese">今年她就是在厦门马拉松赛结束后再于伦敦折桂的。</span><span class="english">This year she is in Xiamen Marathon in London after the end of the title.</span></p>
 
 <p><span class="chinese">一项新的研究表明，“李”并非中国第一大姓，“王”姓出人意料地蟾宫折桂。</span><span class="english">A new study has debunked the notion that Li is China's most popular surname.</span></p>

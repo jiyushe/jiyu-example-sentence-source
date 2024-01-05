@@ -1,5 +1,7 @@
 # illiquid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illiquid.md)
+
 <p><span class="chinese">但是不能用来买非流动资产。</span><span class="english">Yes. but they can't just buy illiquid assets with them.</span></p>
 
 <p><span class="chinese">许多证券缺乏流动性，且账面值还是初始的高价。</span><span class="english">Many of these are illiquid and still booked at their original, inflated prices.</span></p>

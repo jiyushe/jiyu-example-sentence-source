@@ -1,5 +1,7 @@
 # iberian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iberian.md)
+
 <p><span class="chinese">军队已把穆斯林几近赶出了伊比利亚半岛。</span><span class="english">An army had pushed the Muslims nearly out of the Iberian peninsula.</span></p>
 
 <p><span class="chinese">伊比利亚猞猁体重约25磅，作为西班牙和葡萄牙的标志生物，它们如今的生存处境已岌岌可危。</span><span class="english">But the 25-pound Iberian lynx, icon of Spain and Portugal, is on shaky turf.</span></p>

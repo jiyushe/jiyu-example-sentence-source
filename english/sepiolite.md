@@ -1,5 +1,7 @@
 # sepiolite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sepiolite.md)
+
 <p><span class="chinese">纤维海泡石对红细胞有毒性。</span><span class="english">Fibrous sepiolite has cytotoxicity to human erythrocyte.</span></p>
 
 <p><span class="chinese">海泡石是世界上用途最广泛的矿物原料之一。</span><span class="english">Sepiolite is one of the mineral materials which have the most widely use in the world.</span></p>

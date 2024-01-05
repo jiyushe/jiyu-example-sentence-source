@@ -1,5 +1,7 @@
 # 展品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanpin.md)
+
 <p><span class="chinese">请勿触摸展品。</span><span class="english">Don't touch the exhibits.</span></p>
 
 <p><span class="chinese">他们很不赞成新展品。</span><span class="english">They deprecated the new exhibit.</span></p>

@@ -1,5 +1,7 @@
 # 各自为战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geziweizhan.md)
+
 <p><span class="chinese">最终，鸟类和动物得到了各自为战的疲惫。</span><span class="english">Eventually the birds and animals got tired of fighting each other.</span></p>
 
 <p><span class="chinese">像绿脓杆菌这样的微生物曾经被认为是一支杂牌军，各自为战，互不联系。</span><span class="english">Microbes like P. aeruginosa were once thought of as disorganised renegades, each cell working alone.</span></p>

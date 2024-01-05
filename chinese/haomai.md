@@ -1,5 +1,7 @@
 # 号脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haomai.md)
+
 <p><span class="chinese">医生正在为她号脉。</span><span class="english">The doctor was feeling her pulse.</span></p>
 
 <p><span class="chinese">这位医生在她的手腕上号脉。</span><span class="english">The doctor felt her pulse on her wrist.</span></p>

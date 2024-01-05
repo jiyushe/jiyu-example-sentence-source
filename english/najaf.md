@@ -1,5 +1,7 @@
 # najaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/najaf.md)
+
 <p><span class="chinese">遭到伏击的警察来自南部什叶派城市纳杰夫。</span><span class="english">The policemen were from the southern Shi'ite city of Najaf.</span></p>
 
 <p><span class="chinese">纳杰夫市一位高级警官说，他手下有几名警察失踪。</span><span class="english">A senior police official in Najaf said several of his men were missing.</span></p>

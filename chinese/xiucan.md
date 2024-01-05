@@ -1,5 +1,7 @@
 # 羞惭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiucan.md)
+
 <p><span class="chinese">她为父亲而羞惭。</span><span class="english">She blushed for her father.</span></p>
 
 <p><span class="chinese">她因羞惭而脸红。</span><span class="english">Her face flushed with shame.</span></p>

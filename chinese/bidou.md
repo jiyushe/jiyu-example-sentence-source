@@ -1,5 +1,7 @@
 # 鼻窦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bidou.md)
+
 <p><span class="chinese">这是一台现代的鼻窦手术。</span><span class="english">This is modern sinus surgery.</span></p>
 
 <p><span class="chinese">好几周我的牙龈、牙齿、下巴、鼻窦阵痛不止。</span><span class="english">For weeks my gums, teeth, jaw and sinuses throbbed.</span></p>

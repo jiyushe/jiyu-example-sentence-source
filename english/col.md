@@ -1,5 +1,7 @@
 # col
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/col.md)
+
 <p><span class="chinese">卡扎菲和儿子赛义夫仍在躲藏。</span><span class="english">Col. Gadhafi and his son Seif are in hiding.</span></p>
 
 <p><span class="chinese">山坳里尽是些曲曲弯弯的羊肠小道。</span><span class="english">There are a lot of winding footpaths in the col.</span></p>

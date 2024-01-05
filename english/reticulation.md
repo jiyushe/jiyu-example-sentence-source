@@ -1,5 +1,7 @@
 # reticulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reticulation.md)
+
 <p><span class="chinese">反思包括背心网状布和涤纶布。</span><span class="english">Reflection Vests including reticulation cloth and polyester cloth.</span></p>
 
 <p><span class="chinese">它的微孔主体网状结构是采用低分子量PTFE树脂膨化拉伸而得到的。</span><span class="english">It's reticulation structure is obtained by drawing thermal expansion low molecule PTFE resin.</span></p>

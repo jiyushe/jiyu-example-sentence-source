@@ -1,5 +1,7 @@
 # tearing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tearing.md)
+
 <p><span class="chinese">很让人痛心。</span><span class="english">It's very tearing data.</span></p>
 
 <p><span class="chinese">我保证不再撕书啦。</span><span class="english">I swear off tearing the books.</span></p>

@@ -1,5 +1,7 @@
 # nacreous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nacreous.md)
+
 <p><span class="chinese">本文用新工艺制备了珠光云母钛。</span><span class="english">Titanium dioxide-coated mica nacreous pigment is preparated by a new method.</span></p>
 
 <p><span class="chinese">对三氧化二铁着色的云母钛珠光颜料的制备工艺进行了研究。</span><span class="english">The preparing condition of TiO 2 mica nacreous pigments with Fe 2O 3 was studied.</span></p>

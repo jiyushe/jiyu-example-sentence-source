@@ -1,5 +1,7 @@
 # 火炬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoju.md)
+
 <p><span class="chinese">又像英勇的火炬。</span><span class="english">And a valiant torch.</span></p>
 
 <p><span class="chinese">那个火炬从此再也没有开放。</span><span class="english">The torch never re-opened.</span></p>

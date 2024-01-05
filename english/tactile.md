@@ -1,5 +1,7 @@
 # tactile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tactile.md)
+
 <p><span class="chinese">缺乏力反馈是它的弱点。</span><span class="english">The lack of tactile feedback is its undoing.</span></p>
 
 <p><span class="chinese">它以柔软的触感带给你惬意的感觉。</span><span class="english">It brings you cozy feeling with soft tactile.</span></p>

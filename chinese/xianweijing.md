@@ -1,5 +1,7 @@
 # 显微镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianweijing.md)
+
 <p><span class="chinese">KBA显微镜像差分析。</span><span class="english">Analysis of KBA aberrations.</span></p>
 
 <p><span class="chinese">什么是电子显微镜？</span><span class="english">What’s an electron microscope?</span></p>

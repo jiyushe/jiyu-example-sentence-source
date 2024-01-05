@@ -1,5 +1,7 @@
 # enterotoxin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enterotoxin.md)
+
 <p><span class="chinese">大多数实验动物对肠毒素极不敏感。</span><span class="english">Most laboratory animals are quite insensitive to enterotoxin.</span></p>
 
 <p><span class="chinese">大多数实验动物对肠毒素极不敏感。</span><span class="english">Most laboratory animals are quite insensitive to enterotoxin.</span></p>

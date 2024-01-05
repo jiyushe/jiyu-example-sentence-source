@@ -1,5 +1,7 @@
 # 勺子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaozi.md)
+
 <p><span class="chinese">让我看看你的勺子。</span><span class="english">Show me your spoon.</span></p>
 
 <p><span class="chinese">这些勺子被驱动了。</span><span class="english">And these scoops are driven.</span></p>

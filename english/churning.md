@@ -1,5 +1,7 @@
 # churning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/churning.md)
+
 <p><span class="chinese">还有一个问题是频密交易</span><span class="english">There's also a tendency for churning for commission.</span></p>
 
 <p><span class="chinese">所有这些变迁和动荡带来了巨大的焦虑。</span><span class="english">All of this flux and churning creates enormous anxiety.</span></p>

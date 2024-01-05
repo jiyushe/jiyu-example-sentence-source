@@ -1,5 +1,7 @@
 # optician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optician.md)
+
 <p><span class="chinese">你晓得好的眼镜商吗？</span><span class="english">Do you know a good optician ?</span></p>
 
 <p><span class="chinese">验光师说我需要配新眼镜。</span><span class="english">The optician said I needed new glasses.</span></p>

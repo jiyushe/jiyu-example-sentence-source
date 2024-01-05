@@ -1,5 +1,7 @@
 # dolomitic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dolomitic.md)
+
 <p><span class="chinese">稀土矿石产于整个白云石碳酸岩体和部分脉状碳酸岩中。</span><span class="english">The ore is embedded in all the dolomitic carbonatites and some vein carbonatites.</span></p>
 
 <p><span class="chinese">与石灰岩层和脱水层比，在白云岩层的裂缝密度也有所增加。</span><span class="english">Fracture densities also increase in dolomitic layers compared to limestones and anhydrates.</span></p>

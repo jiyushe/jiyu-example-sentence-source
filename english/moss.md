@@ -1,5 +1,7 @@
 # moss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moss.md)
+
 <p><span class="chinese">常春藤和苔藓。</span><span class="english">Ivy and moss.</span></p>
 
 <p><span class="chinese">苔藓软如丝绒。</span><span class="english">Moss is soft like velvet.</span></p>

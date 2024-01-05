@@ -1,5 +1,7 @@
 # 空格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongge.md)
+
 <p><span class="chinese">请在下面适当的空格打钩。</span><span class="english">What makes him tick?</span></p>
 
 <p><span class="chinese">为啥之间没有空格？</span><span class="english">Why is there no space?</span></p>

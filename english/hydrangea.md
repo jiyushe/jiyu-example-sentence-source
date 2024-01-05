@@ -1,5 +1,7 @@
 # hydrangea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrangea.md)
+
 <p><span class="chinese">桌上放着的是郁金香和绣球花。</span><span class="english">Tulips and green hydrangea are on the table.</span></p>
 
 <p><span class="chinese">因此绣球花的花语就是-希望。</span><span class="english">Therefore, the connotation of Hydrangea was hope.</span></p>

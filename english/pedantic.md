@@ -1,5 +1,7 @@
 # pedantic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedantic.md)
+
 <p><span class="chinese">他这人有点儿迂腐。</span><span class="english">He's a bit pedantic.</span></p>
 
 <p><span class="chinese">我这里有点过于迂腐了。</span><span class="english">I'm being slightly pedantic here.</span></p>

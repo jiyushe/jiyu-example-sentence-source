@@ -1,5 +1,7 @@
 # 龟裂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junlie_1.md)
+
 <p><span class="chinese">这种灰泥变干时可能会龟裂。</span><span class="english">This plaster may crack when it dries.</span></p>
 
 <p><span class="chinese">龟裂的草皮一丘丘隆起。</span><span class="english">Where heaves the turf in many a mouldering heap.</span></p>

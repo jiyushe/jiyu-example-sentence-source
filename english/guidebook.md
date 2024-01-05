@@ -1,5 +1,7 @@
 # guidebook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guidebook.md)
+
 <p><span class="chinese">这是一本很有用的指南书。</span><span class="english">This is a very useful guidebook.</span></p>
 
 <p><span class="chinese">我的旅行指南上可没有提到这个公园啊。</span><span class="english">My guidebook didn't mention the park.</span></p>

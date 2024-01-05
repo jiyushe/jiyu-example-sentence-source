@@ -1,5 +1,7 @@
 # 无霜期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushuangqi.md)
+
 <p><span class="chinese">无霜期天数增加，霜期缩短。</span><span class="english">The frost-free period lengthened, and the frost period shortened.</span></p>
 
 <p><span class="chinese">烟霾日数、无霜期呈增加趋势，而日照时数为减少趋势。</span><span class="english">The smoke days and the frost-free period increase, while sunshine hours decreased.</span></p>

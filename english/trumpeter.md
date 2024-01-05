@@ -1,5 +1,7 @@
 # trumpeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trumpeter.md)
+
 <p><span class="chinese">而他是个非常好的小号手</span><span class="english">He was a very good trumpeter.</span></p>
 
 <p><span class="chinese">在一场战争中,有个号兵被敌人抓获了。</span><span class="english">A trumpeter was captured by his enemy in a battle.</span></p>

@@ -1,5 +1,7 @@
 # amniocentesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amniocentesis.md)
+
 <p><span class="chinese">16个星期的时候，我做了羊水穿刺测试。</span><span class="english">At 16 weeks, I was offered an amniocentesis test.</span></p>
 
 <p><span class="chinese">以接受过或为接受过羊膜穿刺术被分为2组。</span><span class="english">Two groups were derived- those who did or did not undergo amniocentesis.</span></p>

@@ -1,5 +1,7 @@
 # 贴息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiexi.md)
+
 <p><span class="chinese">价格方面，盛泽一主流工厂承兑贴息下调。</span><span class="english">Price, Sheng a major fall in factory acceptance discount.</span></p>
 
 <p><span class="chinese">贴息等税费降低措施能否带火楼市？</span><span class="english">Interest tax and measures to reduce the possibility of bringing out the market?</span></p>

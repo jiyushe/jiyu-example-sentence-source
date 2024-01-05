@@ -1,5 +1,7 @@
 # 单极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danji.md)
+
 <p><span class="chinese">单极控制器需要中心抽头绕组。</span><span class="english">Unipolar controllers need center-tapped windings.</span></p>
 
 <p><span class="chinese">XMAC在套管井中采用单极全波测量模式。</span><span class="english">XMAC works with monopole full wave mode in cased hole.</span></p>

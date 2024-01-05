@@ -1,5 +1,7 @@
 # 突如其来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/turuqilai.md)
+
 <p><span class="chinese">我突如其来给你们添了麻烦。</span><span class="english">My surprise visit discommoded you.</span></p>
 
 <p><span class="chinese">一阵突如其来的恐惧使她感到眼前一片昏黑。</span><span class="english">A fog of sudden fear cloaked her vision.</span></p>

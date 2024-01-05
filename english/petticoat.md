@@ -1,5 +1,7 @@
 # petticoat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petticoat.md)
+
 <p><span class="chinese">用这种织物做成的衬裙。</span><span class="english">A petticoat made of this fabric.</span></p>
 
 <p><span class="chinese">珍，你的衬裙露出来了。</span><span class="english">That frock shows your petticoat.</span></p>

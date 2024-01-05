@@ -1,5 +1,7 @@
 # 开道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaidao_2.md)
+
 <p><span class="chinese">请让开道。</span><span class="english">Please—get out of the way.</span></p>
 
 <p><span class="chinese">喝令三山五岳开道。</span><span class="english">Let the mountains make way.</span></p>

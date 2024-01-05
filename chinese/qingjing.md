@@ -1,5 +1,7 @@
 # 情境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjing.md)
+
 <p><span class="chinese">只是情境不同。</span><span class="english">Different situation.</span></p>
 
 <p><span class="chinese">因为祂看见我所见不到的情境。</span><span class="english">He seeth what I cannot see.</span></p>

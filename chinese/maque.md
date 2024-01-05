@@ -1,5 +1,7 @@
 # 麻雀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maque.md)
+
 <p><span class="chinese">梵蒂冈城可谓是“麻雀虽小，肝胆俱全”！</span><span class="english">Vatican City is all grown up.</span></p>
 
 <p><span class="chinese">麻雀在外边叽叽喳喳地叫。</span><span class="english">Sparrows are twittering outside.</span></p>

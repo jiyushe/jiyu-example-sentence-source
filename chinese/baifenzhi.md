@@ -1,5 +1,7 @@
 # 百分制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baifenzhi.md)
+
 <p><span class="chinese">这次考试采用百分制。</span><span class="english">The test uses a percentage grading system.</span></p>
 
 <p><span class="chinese">这次考试的全国平均分是百分制的70分。</span><span class="english">The national norm in this examination is 70 out of 100.</span></p>

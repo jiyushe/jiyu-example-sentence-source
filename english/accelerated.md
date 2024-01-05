@@ -1,5 +1,7 @@
 # accelerated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accelerated.md)
+
 <p><span class="chinese">她的心跳加快。</span><span class="english">Her heart rate accelerated.</span></p>
 
 <p><span class="chinese">那辆汽车突然加速。</span><span class="english">The car suddenly accelerated.</span></p>

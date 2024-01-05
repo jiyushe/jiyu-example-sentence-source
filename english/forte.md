@@ -1,5 +1,7 @@
 # forte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forte.md)
+
 <p><span class="chinese">然后把应有的强奏加入。</span><span class="english">Then add the forte.</span></p>
 
 <p><span class="chinese">然而，他的长处试运营。</span><span class="english">However, his forte is on the operations.</span></p>

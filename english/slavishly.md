@@ -1,5 +1,7 @@
 # slavishly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slavishly.md)
+
 <p><span class="chinese">找到一个模式，作为你最喜欢的工具，而不要奴隶般地追随。</span><span class="english">Use it as a model for choosing your favorite tools, rather than following it slavishly.</span></p>
 
 <p><span class="chinese">苹果表示三星的银河系列手机和平板“奴隶般的”复制了它的iphone和ipad。</span><span class="english">Apple says Samsung's Galaxy line of mobile phones and tablets "slavishly" copied its iPhone and iPad.</span></p>

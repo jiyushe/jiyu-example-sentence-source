@@ -1,5 +1,7 @@
 # limply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limply.md)
+
 <p><span class="chinese">她的头发蓬松地垂在前额上。</span><span class="english">Her hair hung limply over her forehead.</span></p>
 
 <p><span class="chinese">我手脚发软地敲了敲门，然后开了门。</span><span class="english">I knock limply on the door and open it.</span></p>

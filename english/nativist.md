@@ -1,5 +1,7 @@
 # nativist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nativist.md)
+
 <p><span class="chinese">新鲜的是他们获得的支持不再局限于少数尖锐的本土主义者。</span><span class="english">What is new is that they are gaining traction beyond a shrill nativist minority.</span></p>
 
 <p><span class="chinese">摘要本土运动是指一个主位文化因客位文化的冲击而引起的重整反应。</span><span class="english">The nativist ic movement refers to the host culture's reaction to the impact of another culture.</span></p>

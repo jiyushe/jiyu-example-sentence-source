@@ -1,5 +1,7 @@
 # 颈椎病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzhuibing.md)
+
 <p><span class="chinese">脊髓型颈椎病患者20名。</span><span class="english">CSM group consisted of 20 CSM patients.</span></p>
 
 <p><span class="chinese">电疗如何治疗颈椎病？</span><span class="english">How does electrotherapy treat cervical vertebra disease?</span></p>

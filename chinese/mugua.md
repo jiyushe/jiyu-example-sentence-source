@@ -1,5 +1,7 @@
 # 木瓜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mugua.md)
+
 <p><span class="chinese">她喜欢吃木瓜。</span><span class="english">She likes to eat papayas.</span></p>
 
 <p><span class="chinese">红酒木瓜靓汤真的有用吗？</span><span class="english">Red papaya soup really work?</span></p>

@@ -1,5 +1,7 @@
 # regulator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regulator.md)
+
 <p><span class="chinese">电压调节模块?。</span><span class="english">VRM? Voltage Regulator Module?</span></p>
 
 <p><span class="chinese">总是保持调整器干净。</span><span class="english">Always keep the regulator clean.</span></p>

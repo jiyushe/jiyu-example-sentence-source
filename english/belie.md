@@ -1,5 +1,7 @@
 # belie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belie.md)
+
 <p><span class="chinese">他的衣服掩饰了他的身分。</span><span class="english">Hiss clothes belie his station.</span></p>
 
 <p><span class="chinese">他未屈尊吟唱，示灵魂以假象。</span><span class="english">He deign'd not to belie his soul in songs.</span></p>

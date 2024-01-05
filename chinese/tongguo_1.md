@@ -1,5 +1,7 @@
 # 通过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongguo_1.md)
+
 <p><span class="chinese">通过选择。</span><span class="english">By choice.</span></p>
 
 <p><span class="chinese">通过例子。</span><span class="english">By example.</span></p>

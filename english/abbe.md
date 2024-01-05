@@ -1,5 +1,7 @@
 # abbe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abbe.md)
+
 <p><span class="chinese">男修道院院长又高又瘦。</span><span class="english">The abbe was very tall and thin.</span></p>
 
 <p><span class="chinese">神父耐心地听他讲。</span><span class="english">The abbe listened to him patiently.</span></p>

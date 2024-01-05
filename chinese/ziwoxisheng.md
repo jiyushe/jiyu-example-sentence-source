@@ -1,5 +1,7 @@
 # 自我牺牲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwoxisheng.md)
+
 <p><span class="chinese">只是你太会自我牺牲。</span><span class="english">You're just too self-sacrificing.</span></p>
 
 <p><span class="chinese">听一个含有自认倒楣，自我牺牲的笑话。</span><span class="english">Listen to a joke at one's own expense.</span></p>

@@ -1,5 +1,7 @@
 # kiss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kiss.md)
+
 <p><span class="chinese">我的吻？</span><span class="english">My kiss?</span></p>
 
 <p><span class="chinese">我说亲而已！</span><span class="english">I said kiss it!</span></p>

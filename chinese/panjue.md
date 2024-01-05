@@ -1,5 +1,7 @@
 # 判决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panjue.md)
+
 <p><span class="chinese">审判官判决了这个案子。</span><span class="english">The judge decided the case.</span></p>
 
 <p><span class="chinese">判决宣告我们败诉。</span><span class="english">The judgment passed against us.</span></p>

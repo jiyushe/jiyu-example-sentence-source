@@ -1,5 +1,7 @@
 # renovate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renovate.md)
+
 <p><span class="chinese">让它重塑你的生活。</span><span class="english">Let it renovate your life.</span></p>
 
 <p><span class="chinese">正是整修窝巢的时候。</span><span class="english">It is time to renovate the nest.</span></p>

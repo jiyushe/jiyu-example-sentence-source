@@ -1,5 +1,7 @@
 # 冥思苦想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingsikuxiang.md)
+
 <p><span class="chinese">尽管他冥思苦想，可连一个词儿也想不起来。</span><span class="english">Try as he did, he couldn't remember a word of it.</span></p>
 
 <p><span class="chinese">当朋友向我抱怨时，我冥思苦想想找到解决的办法。</span><span class="english">I used to bang my head to find solutions, when my friends complain.</span></p>

@@ -1,5 +1,7 @@
 # 题写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tixie_1.md)
+
 <p><span class="chinese">就一个热门的话题写一篇行业报道。</span><span class="english">Write an industry report on a hot topic.</span></p>
 
 <p><span class="chinese">这四个字，是马云当年亲笔题写的。</span><span class="english">These four characters, is Ma Yun's holograph inscribe.</span></p>

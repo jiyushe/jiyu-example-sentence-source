@@ -1,5 +1,7 @@
 # blurry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blurry.md)
+
 <p><span class="chinese">用户体验是一个非常模糊的概念。</span><span class="english">User experience is a very blurry concept.</span></p>
 
 <p><span class="chinese">关上电视机，我已经泪眼朦胧。</span><span class="english">With tear-filled, blurry eyes, I turned the TV off.</span></p>

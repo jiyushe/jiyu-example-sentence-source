@@ -1,5 +1,7 @@
 # unfailing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfailing.md)
+
 <p><span class="chinese">他那始终如一的耐性、好脾气、奉献精神等。</span><span class="english">His unfailing Patience, good humour, devotion, etc.</span></p>
 
 <p><span class="chinese">上主，求你忆及你的仁慈和恩爱，因为它们由亘古以来就常存在。</span><span class="english">Remember your compassion, O Lord, your unfailing love from of old.</span></p>

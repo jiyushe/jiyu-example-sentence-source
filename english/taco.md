@@ -1,5 +1,7 @@
 # taco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taco.md)
+
 <p><span class="chinese">这是他们大份塔可沙拉</span><span class="english">This is their Grande Taco Salad.</span></p>
 
 <p><span class="chinese">边境餐馆的墨西哥塔可沙拉</span><span class="english">Okay. A taco salad from On The Border.</span></p>

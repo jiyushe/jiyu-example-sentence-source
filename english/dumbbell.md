@@ -1,5 +1,7 @@
 # dumbbell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dumbbell.md)
+
 <p><span class="chinese">漂亮的金发美女不全是傻瓜。</span><span class="english">Blonde faire is not a dumbbell.</span></p>
 
 <p><span class="chinese">对肱二头肌，我推荐哑铃弯举。</span><span class="english">For biceps I recommend doing dumbbell preacher curls.</span></p>

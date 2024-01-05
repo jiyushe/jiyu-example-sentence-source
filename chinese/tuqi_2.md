@@ -1,5 +1,7 @@
 # 土气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuqi_2.md)
+
 <p><span class="chinese">即使看似土气，但仍是时尚和别致的。</span><span class="english">Even if the look is rustic, it is still modern, sleek and chic.</span></p>
 
 <p><span class="chinese">关于邪恶乡绅和土气佃农的传统传奇剧。</span><span class="english">The traditional melodrama of the wicked squire and rustic tenant.</span></p>

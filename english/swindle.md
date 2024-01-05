@@ -1,5 +1,7 @@
 # swindle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swindle.md)
+
 <p><span class="chinese">蒙骗，欺骗，诈取。</span><span class="english">To defraud, cheat, or swindle.</span></p>
 
 <p><span class="chinese">他想拉特德入伙参加那个骗局。</span><span class="english">He tried to rope Ted in on that swindle.</span></p>

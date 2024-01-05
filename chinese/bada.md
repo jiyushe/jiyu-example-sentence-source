@@ -1,5 +1,7 @@
 # 吧嗒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bada.md)
+
 <p><span class="chinese">他吧嗒着嘴狼吞虎咽地吃着。</span><span class="english">He ate noisily and greedily.</span></p>
 
 <p><span class="chinese">只有雨滴激起密集的吧嗒声。</span><span class="english">Only the rain aroused intensive click sound.</span></p>

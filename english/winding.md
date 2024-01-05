@@ -1,5 +1,7 @@
 # winding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winding.md)
+
 <p><span class="chinese">和苔藓的曲径。</span><span class="english">And winding mossy ways.</span></p>
 
 <p><span class="chinese">卷绕张力过大。</span><span class="english">Higher winding tension.</span></p>

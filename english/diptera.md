@@ -1,5 +1,7 @@
 # diptera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diptera.md)
+
 <p><span class="chinese">然而，这次器官移植却没有成功，他新长出的肉在双翅蛆的作用下腐烂了。</span><span class="english">The organic transplant, however, failed, and the work of diptera maggots rotted his new flesh.</span></p>
 
 <p><span class="chinese">雨燕食性广，主要食物为膜翅目、双翅目如蝇、蝶、蛾等昆虫。</span><span class="english">With a wide range of food, swifts mainly live on hymenoptera and diptera such as fly, butterfly and moth.</span></p>

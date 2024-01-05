@@ -1,5 +1,7 @@
 # defining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defining.md)
+
 <p><span class="chinese">定义系统结构。</span><span class="english">Defining the system structure.</span></p>
 
 <p><span class="chinese">这其实是个测试。</span><span class="english">It's actually defining a test.</span></p>

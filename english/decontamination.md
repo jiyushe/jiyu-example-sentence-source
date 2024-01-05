@@ -1,5 +1,7 @@
 # decontamination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decontamination.md)
+
 <p><span class="chinese">第一防御范围是去污。</span><span class="english">The first line of defense is decontamination.</span></p>
 
 <p><span class="chinese">绿色食品的净化力很高。</span><span class="english">The decontamination dint of the green food is very high.</span></p>

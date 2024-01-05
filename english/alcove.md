@@ -1,5 +1,7 @@
 # alcove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alcove.md)
+
 <p><span class="chinese">你应该能看到一个有一个奖杯的壁龛。</span><span class="english">You should see an alcove with the trophy.</span></p>
 
 <p><span class="chinese">主教把他的客人安置在壁厢里。</span><span class="english">The Bishop installed his guest in the alcove.</span></p>

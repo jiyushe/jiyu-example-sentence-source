@@ -1,5 +1,7 @@
 # unconstrained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconstrained.md)
+
 <p><span class="chinese">还有人性不受约束的观点。</span><span class="english">Now we have the unconstrained vision.</span></p>
 
 <p><span class="chinese">媒体试驾向来是天马行空，独往独来。</span><span class="english">Media test drive has always been unconstrained woolgather.</span></p>

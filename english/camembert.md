@@ -1,5 +1,7 @@
 # camembert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camembert.md)
+
 <p><span class="chinese">儿子，去拿我的乳酪。</span><span class="english">Son, bring in my Camembert.</span></p>
 
 <p><span class="chinese">我就要法式松软干乳酪。</span><span class="english">I'll take French Camembert cheese, please.</span></p>

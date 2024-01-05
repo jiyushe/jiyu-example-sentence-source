@@ -1,5 +1,7 @@
 # 水上飞机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuishangfeiji.md)
+
 <p><span class="chinese">然后他们去了水上飞机。</span><span class="english">Then they got into the seaplane.</span></p>
 
 <p><span class="chinese">一架水上飞机从湖面上飞驰而过。</span><span class="english">A hydroplane navigated over the lake.</span></p>

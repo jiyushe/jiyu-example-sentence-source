@@ -1,5 +1,7 @@
 # flavorful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flavorful.md)
+
 <p><span class="chinese">可口的烤鸡肉串是这家餐厅的特色。</span><span class="english">Flavorful yakitori skewers are the highlights.</span></p>
 
 <p><span class="chinese">野生玫瑰果茶是茶制成风味玫瑰果。</span><span class="english">Wild Rose Hip Tea is a flavorful tea made from rose hips.</span></p>

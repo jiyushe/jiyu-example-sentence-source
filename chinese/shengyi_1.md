@@ -1,5 +1,7 @@
 # 生疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyi_1.md)
+
 <p><span class="chinese">他对她的举止令人生疑。</span><span class="english">He behaved in a questionable manner towards her.</span></p>
 
 <p><span class="chinese">无主车辆、手提箱等令人生疑。</span><span class="english">Unattended vehicles, suitcases, etc causing suspicion.</span></p>

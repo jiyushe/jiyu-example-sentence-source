@@ -1,5 +1,7 @@
 # hi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hi.md)
+
 <p><span class="chinese">大家好。</span><span class="english">Hi everybody.</span></p>
 
 <p><span class="chinese">我叫多丽丝，嗨。</span><span class="english">I'm Doris. Hi.</span></p>

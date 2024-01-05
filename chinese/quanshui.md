@@ -1,5 +1,7 @@
 # 泉水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanshui.md)
+
 <p><span class="chinese">旁伴着鸽泉水叮咚。</span><span class="english">Beside the springs of Dove.</span></p>
 
 <p><span class="chinese">泉水咕嘟咕嘟地往外冒。</span><span class="english">The spring kept bubbling up.</span></p>

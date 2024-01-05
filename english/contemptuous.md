@@ -1,5 +1,7 @@
 # contemptuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contemptuous.md)
+
 <p><span class="chinese">蓦然，我转身一笑，不屑的一笑。</span><span class="english">Suddenly, I turned to smile, contemptuous smile.</span></p>
 
 <p><span class="chinese">53印第安·乔的脸上迅速地闪过一丝嘲弄的微笑。</span><span class="english">A contemptuous smile flitted across Injun Joe's face.</span></p>

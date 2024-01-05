@@ -1,5 +1,7 @@
 # lustful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lustful.md)
+
 <p><span class="chinese">他很好色。</span><span class="english">He is very lustful.</span></p>
 
 <p><span class="chinese">你认为人都是好色的吗?。</span><span class="english">Do you consider all people to be lustful.</span></p>

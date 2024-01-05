@@ -1,5 +1,7 @@
 # acs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acs.md)
+
 <p><span class="chinese">用长刃的殇葬送我的英华。</span><span class="english">Using long blade clasped my acs lag.</span></p>
 
 <p><span class="chinese">它可作为ACS严重程度的监测指标。</span><span class="english">IL-10 may acts as indicators of ACS severity.</span></p>

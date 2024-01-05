@@ -1,5 +1,7 @@
 # substitution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substitution.md)
+
 <p><span class="chinese">但是，你不能用替换方法来解问题。</span><span class="english">But, you cannot use solving in substitution.</span></p>
 
 <p><span class="chinese">替换和即席创作的文雅艺术</span><span class="english">The gentle art of substitution and improvisation</span></p>

@@ -1,5 +1,7 @@
 # photodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photodynamic.md)
+
 <p><span class="chinese">氨基酮戊酸光动力疗法治疗男性尿道尖锐湿疣。</span><span class="english">Aminolevulinic Acid Photodynamic Therapy for Male Urethra Condyloma Acuminatum.</span></p>
 
 <p><span class="chinese">光动力疗法是鲜红斑痣患者最新的治疗选择。</span><span class="english">Photodynamic therapy is a state-of-the-art option for patients with port wine stains.</span></p>

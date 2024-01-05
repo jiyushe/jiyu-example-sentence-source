@@ -1,5 +1,7 @@
 # 本原
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benyuan.md)
+
 <p><span class="chinese">造型力作为一种天赋，它也是“本原”的。</span><span class="english">Modeling ability as dower, it also is 'primitive'.</span></p>
 
 <p><span class="chinese">它们分别以所属区域经济具体参数为本原。</span><span class="english">Each has concrete parameter of its regional economy as primitive.</span></p>

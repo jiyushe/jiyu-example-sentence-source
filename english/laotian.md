@@ -1,5 +1,7 @@
 # laotian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laotian.md)
+
 <p><span class="chinese">主机翻译成苗语，瑶和老挝的全球新闻。</span><span class="english">The hosts translate global news into Hmong, Yao and Laotian.</span></p>
 
 <p><span class="chinese">泰国和老挝政府否认在驱逐这些难民的过程中有强迫行为。</span><span class="english">The Thai and Laotian governments deny using duress in the deportations.</span></p>

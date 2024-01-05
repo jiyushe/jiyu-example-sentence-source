@@ -1,5 +1,7 @@
 # 附录
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fulu_1.md)
+
 <p><span class="chinese">注注释被移到附录A。</span><span class="english">NOTE Note moved to Annex A.</span></p>
 
 <p><span class="chinese">书中还有两个简短的附录。</span><span class="english">There are two short appendices.</span></p>

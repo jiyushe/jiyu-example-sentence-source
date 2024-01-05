@@ -1,5 +1,7 @@
 # motor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motor.md)
+
 <p><span class="chinese">偏航电机。</span><span class="english">Yaw motor.</span></p>
 
 <p><span class="chinese">鼠笼式马达“，”</span><span class="english">Squirrel Cage Motor.</span></p>

@@ -1,5 +1,7 @@
 # 短促
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duancu.md)
+
 <p><span class="chinese">大炮发出短促清脆的轰响。</span><span class="english">The big guns barked.</span></p>
 
 <p><span class="chinese">一下短促的、胆怯的门铃声惊起了她。</span><span class="english">A short, timid ring at the doorbell summoned her.</span></p>

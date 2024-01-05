@@ -1,5 +1,7 @@
 # 失约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyue.md)
+
 <p><span class="chinese">我讨厌失约者。</span><span class="english">I hate no-shows.</span></p>
 
 <p><span class="chinese">我讨厌有人失约。</span><span class="english">I hate being stood up.</span></p>

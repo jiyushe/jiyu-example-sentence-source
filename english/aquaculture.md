@@ -1,5 +1,7 @@
 # aquaculture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aquaculture.md)
+
 <p><span class="chinese">Schreibman把这种方法称作都市水产养殖。</span><span class="english">Schreibman calls this method urban aquaculture.</span></p>
 
 <p><span class="chinese">淡水农业和海水养殖的“蓝色革命”正在以指数方式增长。</span><span class="english">The 'blue revolution' of freshwater aquaculture</span></p>

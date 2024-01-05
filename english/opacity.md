@@ -1,5 +1,7 @@
 # opacity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opacity.md)
+
 <p><span class="chinese">并获得了效果理想的复合乳浊釉。</span><span class="english">The ideal opacity glaze was obtained.</span></p>
 
 <p><span class="chinese">不透明是因树脂中产生裂纹。</span><span class="english">Opacity is due to crazes in the resin.</span></p>

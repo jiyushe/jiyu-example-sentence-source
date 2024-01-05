@@ -1,5 +1,7 @@
 # insensate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insensate.md)
+
 <p><span class="chinese">周围神经麻痹，美国成年人的一个大问题。</span><span class="english">Peripheral Insensate Neuropathy—A Tall Problem for US Adults?</span></p>
 
 <p><span class="chinese">角质层是由无生命活性的角朊细胞构成的。</span><span class="english">Corneous layer is formed by the horny protein cell of insensate active.</span></p>

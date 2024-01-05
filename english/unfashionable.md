@@ -1,5 +1,7 @@
 # unfashionable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfashionable.md)
+
 <p><span class="chinese">时尚创詧斖是为了使之过时。</span><span class="english">Fashion is made to become unfashionable.</span></p>
 
 <p><span class="chinese">他表示，刻意不赶时髦是巴克莱资本的典型风格。</span><span class="english">It is typical of BarCap, he says, to try to be unfashionable.</span></p>

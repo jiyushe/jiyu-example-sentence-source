@@ -1,5 +1,7 @@
 # reverend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reverend.md)
+
 <p><span class="chinese">大修女又说了什么事了呢？</span><span class="english">What else does the Reverend Mother say?</span></p>
 
 <p><span class="chinese">恭敬的尊长，宽恕这一对犯人吧。</span><span class="english">Reverend sir, forgive this pair of sinners.</span></p>

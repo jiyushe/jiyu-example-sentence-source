@@ -1,5 +1,7 @@
 # phyllis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phyllis.md)
+
 <p><span class="chinese">早上好，我是菲莉丝·希莫。</span><span class="english">Good morning. Phyllis Seymour speaking.</span></p>
 
 <p><span class="chinese">菲丽丝？是你吗？我是克莱格?马司特斯。</span><span class="english">Phyllis ? Is that you? It's Craig Masters.</span></p>

@@ -1,5 +1,7 @@
 # 迷惑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mihuo.md)
+
 <p><span class="chinese">我迷惑地眯着眼睛望去。</span><span class="english">I squinted in confusion.</span></p>
 
 <p><span class="chinese">使迷惑或使吃惊。</span><span class="english">To bewilder or astonish.</span></p>

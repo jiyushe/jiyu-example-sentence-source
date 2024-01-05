@@ -1,5 +1,7 @@
 # interrogator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interrogator.md)
+
 <p><span class="chinese">视频数据询问器?。</span><span class="english">VDI? Video Data Interrogator?</span></p>
 
 <p><span class="chinese">审讯员麦克·戈德曼·吉拉德就在现场。</span><span class="english">Interrogator Michael Goldman Gilad, was there.</span></p>

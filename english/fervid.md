@@ -1,5 +1,7 @@
 # fervid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fervid.md)
+
 <p><span class="chinese">他是个慷慨激昂的演说者。</span><span class="english">He is a fervid orator.</span></p>
 
 <p><span class="chinese">它一定感到那炽热的召唤</span><span class="english">It must have felt that fervid call</span></p>

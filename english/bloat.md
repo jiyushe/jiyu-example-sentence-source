@@ -1,5 +1,7 @@
 # bloat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloat.md)
+
 <p><span class="chinese">尸体开始肿胀了。</span><span class="english">The carcass started to bloat.</span></p>
 
 <p><span class="chinese">软件膨胀更容易得到避免。</span><span class="english">Software bloat is easier to avoid.</span></p>

@@ -1,5 +1,7 @@
 # 文字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenzi.md)
+
 <p><span class="chinese">我喜欢文字。</span><span class="english">I love words.</span></p>
 
 <p><span class="chinese">当然只剩下文字了。</span><span class="english">Nothing but the text.</span></p>

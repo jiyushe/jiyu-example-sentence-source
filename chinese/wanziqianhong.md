@@ -1,5 +1,7 @@
 # 万紫千红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanziqianhong.md)
+
 <p><span class="chinese">万紫千红迎国庆，片片红叶舞秋风。</span><span class="english">Full Ying Guo, Woods Hongye dance autumn wind.</span></p>
 
 <p><span class="chinese">万紫千红总是春，花开花落昔年同。</span><span class="english">Alwayss colorful spring blossom with previous years.</span></p>

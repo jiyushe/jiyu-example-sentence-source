@@ -1,5 +1,7 @@
 # 牲口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengkou.md)
+
 <p><span class="chinese">啊，可怜的牲口！</span><span class="english">Ah, poor beast!</span></p>
 
 <p><span class="chinese">是皇帝陛下的牲口。</span><span class="english">It was His Majesty's beast.</span></p>

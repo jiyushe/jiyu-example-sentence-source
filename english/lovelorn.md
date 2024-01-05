@@ -1,5 +1,7 @@
 # lovelorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lovelorn.md)
+
 <p><span class="chinese">失恋的感觉会是怎样？</span><span class="english">Can lovelorn feeling be how?</span></p>
 
 <p><span class="chinese">与此同时，周先生仍然处在失恋的痛苦中。</span><span class="english">Meanwhile, Mr. Zhou is still lovelorn.</span></p>

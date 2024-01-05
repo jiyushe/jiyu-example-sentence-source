@@ -1,5 +1,7 @@
 # duly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duly.md)
+
 <p><span class="chinese">这次西方的确表扬了他。</span><span class="english">The West duly praised him.</span></p>
 
 <p><span class="chinese">有赏有罚。</span><span class="english">Duly mete out rewards and punishments.</span></p>

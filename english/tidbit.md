@@ -1,5 +1,7 @@
 # tidbit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tidbit.md)
+
 <p><span class="chinese">你可以把这个牛逼的意见存到银行里。</span><span class="english">You can take that little tidbit to the bank.</span></p>
 
 <p><span class="chinese">就是这一点东西引诱它残杀昆虫。</span><span class="english">This is the tidbit which tempts his insectivorous fate.</span></p>

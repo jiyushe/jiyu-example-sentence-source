@@ -1,5 +1,7 @@
 # 伟业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiye.md)
+
 <p><span class="chinese">罗马城非朝夕建成，伟业非一日之功。</span><span class="english">Rome was not built in a day!</span></p>
 
 <p><span class="chinese">但这一伟业由他的儿子加拉哈德完成了。</span><span class="english">But his son, Sir Galahad, did.</span></p>

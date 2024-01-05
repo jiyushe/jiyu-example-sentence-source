@@ -1,5 +1,7 @@
 # 区段
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quduan.md)
+
 <p><span class="chinese">请使用适当的区段。</span><span class="english">Please use the appropriate section.</span></p>
 
 <p><span class="chinese">六处理方式及其区段划分。</span><span class="english">Management methods and the block division.</span></p>

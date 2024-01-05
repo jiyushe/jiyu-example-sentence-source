@@ -1,5 +1,7 @@
 # sedentary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sedentary.md)
+
 <p><span class="chinese">我对坐著做的工作已经腻了。</span><span class="english">I'm bored with sedentary work.</span></p>
 
 <p><span class="chinese">风对不动的蚜虫很少有影响。</span><span class="english">Wind has little influence on sedentary aphids.</span></p>

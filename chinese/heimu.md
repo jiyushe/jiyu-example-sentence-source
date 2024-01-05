@@ -1,5 +1,7 @@
 # 黑幕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heimu.md)
+
 <p><span class="chinese">暴风骤，长雨歇，黑幕随，膨离。</span><span class="english">From the storm, the long calm, the darkness, the swell.</span></p>
 
 <p><span class="chinese">让天空张起黑幕，叫白天让位给黑夜！</span><span class="english">Bed. Hung be the heavens with black, yield day to night!</span></p>

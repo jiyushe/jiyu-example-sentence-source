@@ -1,5 +1,7 @@
 # 对簿公堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duibugongtang.md)
+
 <p><span class="chinese">他们誓言和校长到法院对簿公堂。</span><span class="english">They pledged to challenge the rectors in court.</span></p>
 
 <p><span class="chinese">不料不到两年，双方就对簿公堂。</span><span class="english">Be less than two years unexpectedly, both sides litigates.</span></p>

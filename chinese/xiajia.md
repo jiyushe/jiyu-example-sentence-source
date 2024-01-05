@@ -1,5 +1,7 @@
 # 下嫁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiajia.md)
+
 <p><span class="chinese">她向他通红的耳朵轻语，我为何要下嫁于你“</span><span class="english">In his red ear then she whispered, "Why'd I wed you?"</span></p>
 
 <p><span class="chinese">你要屈尊下嫁，我可不想当小白脸儿。</span><span class="english">I think you may deign to marry me. I don't want to be an Adonis.</span></p>

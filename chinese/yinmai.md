@@ -1,5 +1,7 @@
 # 阴霾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinmai.md)
+
 <p><span class="chinese">昨日阴霾，今夜雨淅沥。</span><span class="english">Yesterday haze, tonight rain.</span></p>
 
 <p><span class="chinese">当阴霾的天空只余雷鸣。</span><span class="english">Thundered across the sombre sky.</span></p>

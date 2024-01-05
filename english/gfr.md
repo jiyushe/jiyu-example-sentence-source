@@ -1,5 +1,7 @@
 # gfr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gfr.md)
+
 <p><span class="chinese">GFR被看作是肾脏每分钟过滤的血液总量。</span><span class="english">Think of GFR as the amount of blood your kidneys are filtering per minute.</span></p>
 
 <p><span class="chinese">GFR是反映老年糖尿病人肾功能变化的敏感指标。</span><span class="english">GFR was a sensitive index reflecting renal function in elderly diabetic patients.</span></p>

@@ -1,5 +1,7 @@
 # 面汤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miantang.md)
+
 <p><span class="chinese">我能闻到美味的面汤的味道。</span><span class="english">I can smell some nice noodle soup.</span></p>
 
 <p><span class="chinese">你午餐要一些面汤吗？</span><span class="english">Do you want some noodle soup for lunch?</span></p>

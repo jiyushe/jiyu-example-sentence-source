@@ -1,5 +1,7 @@
 # 下回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiahui.md)
+
 <p><span class="chinese">也许下回我们就知道了。</span><span class="english">Next time, we may know.</span></p>
 
 <p><span class="chinese">我等下回信给你。</span><span class="english">I'll write you back later.</span></p>

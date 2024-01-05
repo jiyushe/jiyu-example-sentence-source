@@ -1,5 +1,7 @@
 # 连理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianli.md)
+
 <p><span class="chinese">让我们结为连理枝吧！</span><span class="english">Let's tie the knot!</span></p>
 
 <p><span class="chinese">恳求他，他连理都不理。</span><span class="english">He was deaf to my supplications.</span></p>

@@ -1,5 +1,7 @@
 # digitalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digitalize.md)
+
 <p><span class="chinese">本文是以数字化档案为背景的。</span><span class="english">The article come from digitalize archive.</span></p>
 
 <p><span class="chinese">CR和DR是常规X线图像数字化的两种有效途径。</span><span class="english">CR and DR are two effective ways to digitalize X-ray images.</span></p>

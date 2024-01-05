@@ -1,5 +1,7 @@
 # balm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balm.md)
+
 <p><span class="chinese">这种润唇膏是非常棒！</span><span class="english">This lip balm is great!</span></p>
 
 <p><span class="chinese">你可以试试这种护唇膏。</span><span class="english">You can try this lip balm.</span></p>

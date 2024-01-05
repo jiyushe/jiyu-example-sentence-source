@@ -1,5 +1,7 @@
 # genealogy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genealogy.md)
+
 <p><span class="chinese">这个是锡伯族家中的家谱。</span><span class="english">This is a Xibe family genealogy.</span></p>
 
 <p><span class="chinese">该位贵族以自己的血统为傲。</span><span class="english">The noble took pride in his genealogy.</span></p>

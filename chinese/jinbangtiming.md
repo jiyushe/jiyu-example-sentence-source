@@ -1,5 +1,7 @@
 # 金榜题名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinbangtiming.md)
+
 <p><span class="chinese">知道你金榜题名，我很高兴。</span><span class="english">I'm glad you passed the test.</span></p>
 
 <p><span class="chinese">他在入学考试中金榜题名了。</span><span class="english">He succeeded in the entrance examination.</span></p>

@@ -1,5 +1,7 @@
 # 扭力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuli.md)
+
 <p><span class="chinese">增加了整车抗扭力强度。</span><span class="english">An increase of anti-torque strength Vehicle.</span></p>
 
 <p><span class="chinese">使我高兴的是其中底是有扭力的坚硬。</span><span class="english">I was very pleased with the torsional rigidity of the midsole.</span></p>

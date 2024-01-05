@@ -1,5 +1,7 @@
 # slavish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slavish.md)
+
 <p><span class="chinese">他们的生活在我看来是那样卑微，那么俗气。</span><span class="english">Their lives seemed to me so petty, so slavish.</span></p>
 
 <p><span class="chinese">这是他对他教授的作品一味模仿。</span><span class="english">It was a slavish imitation of his professor's work.</span></p>

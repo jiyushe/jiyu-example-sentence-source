@@ -1,5 +1,7 @@
 # 空姐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongjie.md)
+
 <p><span class="chinese">她是一位空姐。</span><span class="english">She is an air-hostess.</span></p>
 
 <p><span class="chinese">梅是一名空姐，她从事这个工作已经两年了。</span><span class="english">What does Mei do? She is a flight attendant.</span></p>

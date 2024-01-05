@@ -1,5 +1,7 @@
 # cham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cham.md)
+
 <p><span class="chinese">苏格兰的冠军庆祝胜利！</span><span class="english">Scottish cham ps celebrate victory!</span></p>
 
 <p><span class="chinese">父亲索湛，担任过北地太守。</span><span class="english">Sok Cham father, served as the North and in full.</span></p>

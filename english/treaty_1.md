@@ -1,5 +1,7 @@
 # treaty 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treaty_1.md)
+
 <p><span class="chinese">他们商订了一项条约。</span><span class="english">They negotiated a treaty.</span></p>
 
 <p><span class="chinese">我只是造了那份假条约。</span><span class="english">I only made the fake treaty.</span></p>

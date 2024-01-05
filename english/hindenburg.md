@@ -1,5 +1,7 @@
 # hindenburg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hindenburg.md)
+
 <p><span class="chinese">德国陆军务虚的兴登堡线。</span><span class="english">German Army retreats to the Hindenburg Line.</span></p>
 
 <p><span class="chinese">战略思想对了头，兴登堡防线就准攻破啦。</span><span class="english">With the proper concepts the Hindenburg line may be breached.</span></p>

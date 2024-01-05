@@ -1,5 +1,7 @@
 # excellence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excellence.md)
+
 <p><span class="chinese">出色的做媒一份工作。</span><span class="english">Do every job with excellence.</span></p>
 
 <p><span class="chinese">这几乎等于优秀了。</span><span class="english">This approaches to excellence.</span></p>

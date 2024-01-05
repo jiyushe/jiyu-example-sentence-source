@@ -1,5 +1,7 @@
 # lovell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lovell.md)
+
 <p><span class="chinese">博尔曼和洛弗尔继续环绕地球飞行。</span><span class="english">Borman and Lovell continued to circle the Earth.</span></p>
 
 <p><span class="chinese">罗薇尔女士说，“这就是故事开始的地方。”</span><span class="english">"This is where the story starts, " Ms. Lovell said.</span></p>

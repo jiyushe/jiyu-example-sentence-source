@@ -1,5 +1,7 @@
 # perseverant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perseverant.md)
+
 <p><span class="chinese">一般说来，积极之人意志坚强，不轻言放弃。</span><span class="english">In general positive people are perseverant and they don't give up easily.</span></p>
 
 <p><span class="chinese">一个有毅力的人总是能坚持完成他们所要做的事，不管遇到什么样的困难。</span><span class="english">A perseverant person always has the mind to insist on finishing what they do no matter what happens.</span></p>

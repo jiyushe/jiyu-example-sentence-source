@@ -1,5 +1,7 @@
 # 低声下气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dishengxiaqi.md)
+
 <p><span class="chinese">主人公们经历了争吵、流血、低声下气。</span><span class="english">The characters brawl, bleed and grovel.</span></p>
 
 <p><span class="chinese">我知道他低声下气地来求我帮助。</span><span class="english">I knew he had humbled himself to ask for my help.</span></p>

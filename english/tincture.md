@@ -1,5 +1,7 @@
 # tincture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tincture.md)
+
 <p><span class="chinese">比起玫瑰的芳馥四溢的姣颜。</span><span class="english">As the perfumed tincture of the roses.</span></p>
 
 <p><span class="chinese">淡紫色系搭配圆点绛红。</span><span class="english">A tincture of lavender with burgundy dots.</span></p>

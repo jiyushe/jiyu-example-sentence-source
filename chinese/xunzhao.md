@@ -1,5 +1,7 @@
 # 寻找
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunzhao.md)
+
 <p><span class="chinese">我开始寻找。</span><span class="english">I began looking.</span></p>
 
 <p><span class="chinese">寻找氦-3</span><span class="english">Seeking Helium-3</span></p>

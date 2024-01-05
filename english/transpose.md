@@ -1,5 +1,7 @@
 # transpose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transpose.md)
+
 <p><span class="chinese">这个句子改写不了。</span><span class="english">The sentence can't transpose.</span></p>
 
 <p><span class="chinese">把韵文改写成散文。</span><span class="english">Transpose the verse into prose.</span></p>

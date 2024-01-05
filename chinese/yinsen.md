@@ -1,5 +1,7 @@
 # 阴森
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinsen.md)
+
 <p><span class="chinese">非常哥特，非常阴森。</span><span class="english">very gothic, very moody.</span></p>
 
 <p><span class="chinese">在这样一幢阴森恐怖的房子里真让人觉得害怕。</span><span class="english">It felt sick to be in such a horrible house.</span></p>

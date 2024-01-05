@@ -1,5 +1,7 @@
 # urbanization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urbanization.md)
+
 <p><span class="chinese">中国的深入城镇化。</span><span class="english">Ever-deepening urbanization in China.</span></p>
 
 <p><span class="chinese">举行金砖国家城市化论坛。</span><span class="english">Meeting of the BRICS Urbanization Forum.</span></p>

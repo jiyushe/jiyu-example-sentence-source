@@ -1,5 +1,7 @@
 # 泡汤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paotang.md)
+
 <p><span class="chinese">计划泡汤了。</span><span class="english">The plan was scuppered.</span></p>
 
 <p><span class="chinese">我们的扩张计划泡汤了。</span><span class="english">Our plans to expand weren't realized.</span></p>

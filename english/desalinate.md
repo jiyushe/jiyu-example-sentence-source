@@ -1,5 +1,7 @@
 # desalinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desalinate.md)
+
 <p><span class="chinese">至于剩余的水，卡雷拉也计画将它去盐出售。</span><span class="english">Calera plans to desalinate the leftover water and sell it.</span></p>
 
 <p><span class="chinese">这个系统一天可以将高于600公升的盐水去盐。</span><span class="english">The system can desalinate up to 600 liters of brackish water a day.</span></p>

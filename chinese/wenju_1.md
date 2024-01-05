@@ -1,5 +1,7 @@
 # 文句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenju_1.md)
+
 <p><span class="chinese">那是他喜爱的文句。</span><span class="english">That's his favorite phrase.</span></p>
 
 <p><span class="chinese">学习如何在文书处理工具中输入文句。</span><span class="english">Learn how to enter text in a wordprocessor.</span></p>

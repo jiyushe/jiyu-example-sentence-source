@@ -1,5 +1,7 @@
 # touch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/touch.md)
+
 <p><span class="chinese">别碰我。</span><span class="english">Touch me not.</span></p>
 
 <p><span class="chinese">别碰我。</span><span class="english">Don't touch me.</span></p>

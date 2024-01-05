@@ -1,5 +1,7 @@
 # galvanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galvanic.md)
+
 <p><span class="chinese">这种腐蚀也是电池腐蚀。</span><span class="english">This corrosion is also galvanic.</span></p>
 
 <p><span class="chinese">用简式表示自发电池。</span><span class="english">A galvanic cell is represented by a diagram.</span></p>

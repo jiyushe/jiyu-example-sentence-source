@@ -1,5 +1,7 @@
 # guggenheim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guggenheim.md)
+
 <p><span class="chinese">我去古根海姆博物馆也是这种感觉。</span><span class="english">And I felt that when I went to the Guggenheim too.</span></p>
 
 <p><span class="chinese">在国庆期间，我们去了古根海博物馆。</span><span class="english">We went to Guggenheim Museum during the National Day.</span></p>

@@ -1,5 +1,7 @@
 # dissimilar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissimilar.md)
+
 <p><span class="chinese">现在他们看起来有那么点形似了。</span><span class="english">They did not, anymore, look entirely dissimilar.</span></p>
 
 <p><span class="chinese">使用不同的元素可以激发兴趣。</span><span class="english">The use of dissimilar elements, which creates interest.</span></p>

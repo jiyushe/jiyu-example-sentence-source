@@ -1,5 +1,7 @@
 # 顶头上司
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingtoushangsi.md)
+
 <p><span class="chinese">他是我们公司的顶头上司。</span><span class="english">He is the head honcho of the company.</span></p>
 
 <p><span class="chinese">想起来我还要一堆顶头上司批准的咧。</span><span class="english">I just remembered to a bunch of higher-ups.</span></p>

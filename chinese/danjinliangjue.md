@@ -1,5 +1,7 @@
 # 弹尽粮绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danjinliangjue.md)
+
 <p><span class="chinese">随后的八天内，他们弹尽粮绝了。</span><span class="english">And then for eight days, they had nothing.</span></p>
 
 <p><span class="chinese">上一轮互联网泡沫破灭之后，风险投资的资助不断减少，初创公司随后也弹尽粮绝。</span><span class="english">When VC funding dried up after the Internet Bubble, startups dried up too.</span></p>

@@ -1,5 +1,7 @@
 # laminaria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laminaria.md)
+
 <p><span class="chinese">目的探讨海带半纤维素对血栓形成的影响。</span><span class="english">Objective To study the effect of laminaria hemicellulose on thrombus formation.</span></p>
 
 <p><span class="chinese">人体试验表明，海带膳食纤维具有良好的通便作用。</span><span class="english">Laminaria japonica DF taken orally showed a good laxative effect on constipated patients.</span></p>

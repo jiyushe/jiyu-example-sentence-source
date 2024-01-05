@@ -1,5 +1,7 @@
 # purposeful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purposeful.md)
+
 <p><span class="chinese">它是目的明确的。</span><span class="english">It's pointed and purposeful.</span></p>
 
 <p><span class="chinese">它是果断的，也是赋有目的的。</span><span class="english">It is always decisive and purposeful.</span></p>

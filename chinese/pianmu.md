@@ -1,5 +1,7 @@
 # 篇目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianmu.md)
+
 <p><span class="chinese">被官方接受为圣经的圣经篇目。</span><span class="english">The books of the Bible officially accepted as Holy Scripture.</span></p>
 
 <p><span class="chinese">第二章，考辨李冶诗歌的流传及篇目。</span><span class="english">Chapter II is about the contents and spread fo Li Ye's poetry.</span></p>

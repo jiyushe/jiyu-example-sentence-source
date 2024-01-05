@@ -1,5 +1,7 @@
 # jena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jena.md)
+
 <p><span class="chinese">你知道吉娜有幽闭恐惧症吗？</span><span class="english">Did you know that Jena was claustrophobic?</span></p>
 
 <p><span class="chinese">1986年，耶拿东蔡重新开始生产相机。</span><span class="english">While in 1986, Carl Zeiss Jena resumed production of cameras.</span></p>

@@ -1,5 +1,7 @@
 # 双幅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangfu.md)
+
 <p><span class="chinese">这块料子是单幅的还是双幅的?。</span><span class="english">Is the material single width or double width?</span></p>
 
 <p><span class="chinese">并列双幅桥是一种常见的桥梁布置形式。</span><span class="english">Two parallel bridges is a common layout style.</span></p>

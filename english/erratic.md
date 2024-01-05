@@ -1,5 +1,7 @@
 # erratic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erratic.md)
+
 <p><span class="chinese">杰克是个好人，但他为人相当怪僻。</span><span class="english">Jack is a good man, but then he is so erratic.</span></p>
 
 <p><span class="chinese">和结果变得很不正常。</span><span class="english">Foliation, bloom, and production became erratic.</span></p>

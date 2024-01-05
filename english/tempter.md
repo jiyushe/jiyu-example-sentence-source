@@ -1,5 +1,7 @@
 # tempter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tempter.md)
+
 <p><span class="chinese">是人类最大的诱惑者。</span><span class="english">Is the great tempter of mankind.</span></p>
 
 <p><span class="chinese">他受不了我的脾气。</span><span class="english">My tempter is more than he can bear.</span></p>

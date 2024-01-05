@@ -1,5 +1,7 @@
 # 水仙花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixianhua.md)
+
 <p><span class="chinese">水仙花是花吗？</span><span class="english">Is a daffodil a flower?</span></p>
 
 <p><span class="chinese">盛开水仙花的原野?</span><span class="english">The fields of asphodel?</span></p>

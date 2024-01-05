@@ -1,5 +1,7 @@
 # nave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nave.md)
+
 <p><span class="chinese">声誉证例文我们已开出以贵方为受益人的保兑声誉证。</span><span class="english">We nave opened a confirmed credit in your favour.</span></p>
 
 <p><span class="chinese">如果天平过分偏向希望，我们就可能变得天真与不现实。</span><span class="english">If they go too far toward hopefulness , we can become nave and unrealistic.</span></p>

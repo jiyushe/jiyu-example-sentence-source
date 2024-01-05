@@ -1,5 +1,7 @@
 # 来到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laidao.md)
+
 <p><span class="chinese">欢迎来到恩施。</span><span class="english">Welcome to Enshi.</span></p>
 
 <p><span class="chinese">欢迎来到武汉。</span><span class="english">Welcome to Wuhan!</span></p>

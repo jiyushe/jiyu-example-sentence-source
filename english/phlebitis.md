@@ -1,5 +1,7 @@
 # phlebitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phlebitis.md)
+
 <p><span class="chinese">静脉给药可发生静脉炎。</span><span class="english">Vein can produce phlebitis to medicine.</span></p>
 
 <p><span class="chinese">静脉壁的炎症。</span><span class="english">Phlebitis Inflammation of the wall of a vein.</span></p>

@@ -1,5 +1,7 @@
 # glimmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glimmer.md)
+
 <p><span class="chinese">现在出现一线希望之光。</span><span class="english">There is a faint glimmer of hope.</span></p>
 
 <p><span class="chinese">现在，您可能会看到一点希望的火花。</span><span class="english">Now, you may see a glimmer of hope.</span></p>

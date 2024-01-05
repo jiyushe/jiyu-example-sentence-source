@@ -1,5 +1,7 @@
 # cresol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cresol.md)
+
 <p><span class="chinese">棕褐色液体，主要由苯酚，甲酚和二甲酚等组成。</span><span class="english">Brown liquid , mainly consist of phenol , cresol and xylenol etc.</span></p>
 
 <p><span class="chinese">苯酚和甲酚异构体在液晶PBOB填充柱上分离良好。</span><span class="english">Phenol and cresol isomers could be well separated in liquid crystal PBOB packed column.</span></p>

@@ -1,5 +1,7 @@
 # hyperthyroidism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperthyroidism.md)
+
 <p><span class="chinese">甲状腺机能亢进以女性较常见。</span><span class="english">Hyperthyroidism is more frequent in females than males.</span></p>
 
 <p><span class="chinese">极少数情况下，卵巢甲状腺肿也可以由甲状腺机能亢进引起。</span><span class="english">Rarely, a struma ovarii can even be a cause for hyperthyroidism.</span></p>

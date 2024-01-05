@@ -1,5 +1,7 @@
 # furious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furious.md)
+
 <p><span class="chinese">威猛五侠。</span><span class="english">The Furious Five!</span></p>
 
 <p><span class="chinese">他们就满心大怒。</span><span class="english">They were furious.</span></p>

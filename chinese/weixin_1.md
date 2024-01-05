@@ -1,5 +1,7 @@
 # 威信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixin_1.md)
+
 <p><span class="chinese">赢得尊重有了威信会让你事半功倍。</span><span class="english">Winning respect enhances all you do.</span></p>
 
 <p><span class="chinese">她在群众中享有很高威信。</span><span class="english">He has high prestige among the masses.</span></p>

@@ -1,5 +1,7 @@
 # jiulong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jiulong.md)
+
 <p><span class="chinese">整个来说，我国牦牛多态性丰富，遗传分化明显。</span><span class="english">While Jiulong yak and other breeds had more gene flow.</span></p>
 
 <p><span class="chinese">丽水市九龙制笔有限公司创建于1996年。</span><span class="english">Lishui Jiulong pen-making Co. , LTD was founded in 1996.</span></p>

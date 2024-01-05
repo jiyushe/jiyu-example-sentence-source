@@ -1,5 +1,7 @@
 # ukrainian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ukrainian.md)
+
 <p><span class="chinese">乌克兰语是唯一的官方语言。</span><span class="english">Ukrainian is the only official state language.</span></p>
 
 <p><span class="chinese">乌克兰的女伞兵在训练中</span><span class="english">Female Ukrainian paratroopers take part in a drill.</span></p>

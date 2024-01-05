@@ -1,5 +1,7 @@
 # 问好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhao_1.md)
+
 <p><span class="chinese">替我向托尼问好。</span><span class="english">Say hello to Tony.</span></p>
 
 <p><span class="chinese">请代向史密斯先生问好。</span><span class="english">Say hello to Mr. Smith.</span></p>

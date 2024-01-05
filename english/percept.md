@@ -1,5 +1,7 @@
 # percept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/percept.md)
+
 <p><span class="chinese">实例胜过抽象理解。</span><span class="english">Example is better than percept.</span></p>
 
 <p><span class="chinese">这是真正的商业箴言。</span><span class="english">That's the true business percept.</span></p>

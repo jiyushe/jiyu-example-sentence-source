@@ -1,5 +1,7 @@
 # 地方病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/difangbing.md)
+
 <p><span class="chinese">在北美，肥胖已成一种地方病。</span><span class="english">Obesity is endemic in North America.</span></p>
 
 <p><span class="chinese">氟中毒是全世界广泛存在的一种人畜共患性地方病。</span><span class="english">Fluorosis is zoonosis in many parts of the world.</span></p>

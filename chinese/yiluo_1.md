@@ -1,5 +1,7 @@
 # 遗落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiluo_1.md)
+
 <p><span class="chinese">我们注视着它，这遗落的时光的帕子。</span><span class="english">We eyed it, the dropped kerchief of time.</span></p>
 
 <p><span class="chinese">你不断的在躲藏吗，是遗落在阴沟之下。</span><span class="english">Are you hiding away, lost Under the sewers.</span></p>

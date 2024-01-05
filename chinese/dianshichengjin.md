@@ -1,5 +1,7 @@
 # 点石成金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianshichengjin.md)
+
 <p><span class="chinese">在过去几周里，黄金焕发着其点石成金的魅力。</span><span class="english">During the past couple weeks, gold has had the Midas Touch.</span></p>
 
 <p><span class="chinese">迈达斯国王的神话说的是一个能点石成金的人。</span><span class="english">The fable of King Midas is about a man who could turn things to gold.</span></p>

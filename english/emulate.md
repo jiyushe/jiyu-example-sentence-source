@@ -1,5 +1,7 @@
 # emulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emulate.md)
+
 <p><span class="chinese">观察他们，模仿他们。</span><span class="english">Observe them. Emulate them.</span></p>
 
 <p><span class="chinese">你并不需要通过模仿他人而获得幸福。</span><span class="english">You don’t need to emulate others to find happiness.</span></p>

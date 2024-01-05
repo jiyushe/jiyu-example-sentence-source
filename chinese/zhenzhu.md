@@ -1,5 +1,7 @@
 # 珍珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhu.md)
+
 <p><span class="chinese">水蜜桃、珍珠。</span><span class="english">Peaches and pearls.</span></p>
 
 <p><span class="chinese">珍珠却不尽然。</span><span class="english">Pearls not so much.</span></p>

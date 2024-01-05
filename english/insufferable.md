@@ -1,5 +1,7 @@
 # insufferable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insufferable.md)
+
 <p><span class="chinese">一个从未经历过自我怀疑的人也许会令他人生厌。</span><span class="english">A person who never suffers from self-doubt may be insufferable.</span></p>
 
 <p><span class="chinese">“你个死醉鬼，个一无是处的狗娘养的东西！”女士怒骂道。</span><span class="english">"Why you drunken, worthless, insufferable son of a BITCH!" she screamed.</span></p>

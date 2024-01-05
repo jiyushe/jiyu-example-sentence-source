@@ -1,5 +1,7 @@
 # unidentified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unidentified.md)
+
 <p><span class="chinese">在撒哈拉以南的矿区，一位身份不明的男子正在寻找锡矿。</span><span class="english">An unidentified man searches for tin ore at a sub-Saharan mine.</span></p>
 
 <p><span class="chinese">当然，到目前为止也有可能发生了某个没有认识到的错误。</span><span class="english">Of course, some as-yet unidentified error could have been made.</span></p>

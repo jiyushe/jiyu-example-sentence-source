@@ -1,5 +1,7 @@
 # 老丈人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laozhangren.md)
+
 <p><span class="chinese">最牛老丈人？哪方面最牛？</span><span class="english">The most powerful fathers-in law ? Which aspect ?</span></p>
 
 <p><span class="chinese">光是见老丈人，秦朝就够头疼的了。</span><span class="english">Only see an old father-in-law, Qin Dynasty enough have a headache of.</span></p>

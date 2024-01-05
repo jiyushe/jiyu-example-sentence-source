@@ -1,5 +1,7 @@
 # profligate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profligate.md)
+
 <p><span class="chinese">他是个粗枝大叶的浪荡子。</span><span class="english">He is a careless profligate.</span></p>
 
 <p><span class="chinese">为什么你要把你那些酒肉朋友带到这里来呢？</span><span class="english">Why do you bring your profligate companions here?</span></p>

@@ -1,5 +1,7 @@
 # banish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banish.md)
+
 <p><span class="chinese">你必须打消这个念头。</span><span class="english">You must banish the thought.</span></p>
 
 <p><span class="chinese">消除白天的挂牵。</span><span class="english">And banish the thoughts of day.</span></p>

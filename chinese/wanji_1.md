@@ -1,5 +1,7 @@
 # 烷基
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanji_1.md)
+
 <p><span class="chinese">烷基酚与环氧乙烷的缩合物。</span><span class="english">The condense of alkylphenol and EO.</span></p>
 
 <p><span class="chinese">分散剂十二烷基苯磺酸钠质量的分数为0.02。</span><span class="english">Mass fraction of surfactants SDBS is 0.02.</span></p>

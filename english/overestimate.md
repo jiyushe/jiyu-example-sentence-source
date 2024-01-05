@@ -1,5 +1,7 @@
 # overestimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overestimate.md)
+
 <p><span class="chinese">我们高估了金钱的价值。</span><span class="english">We overestimate the value of money.</span></p>
 
 <p><span class="chinese">不要过高估计经济问题的重要性。</span><span class="english">Do not overestimate the importance of the economic problems.</span></p>

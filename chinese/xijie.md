@@ -1,5 +1,7 @@
 # 洗劫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xijie.md)
+
 <p><span class="chinese">盗匪洗劫这个城镇。</span><span class="english">The bandits looted the town.</span></p>
 
 <p><span class="chinese">窃贼洗劫了我的房间。</span><span class="english">Burglars had ransacked my flat.</span></p>

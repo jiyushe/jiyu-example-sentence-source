@@ -1,5 +1,7 @@
 # schematic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schematic.md)
+
 <p><span class="chinese">我们复制了一份同样的施工简图。</span><span class="english">We reproduced a same working schematic diagram.</span></p>
 
 <p><span class="chinese">附上WFI示意图，包括使用的品脱。</span><span class="english">Attach the WFI schematic including all the pint of use.</span></p>

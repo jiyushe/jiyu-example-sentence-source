@@ -1,5 +1,7 @@
 # 杀手锏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shashoujian.md)
+
 <p><span class="chinese">烟气是火魔的杀手锏。</span><span class="english">Smoke is the killer of fire.</span></p>
 
 <p><span class="chinese">那么雅虎的杀手锏是什么呢？</span><span class="english">So what does Yahoo have in store?</span></p>

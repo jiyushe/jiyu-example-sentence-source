@@ -1,5 +1,7 @@
 # diapason
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diapason.md)
+
 <p><span class="chinese">过度追求刺激，忽视和谐。</span><span class="english">Fifthly, pursue incitement excessively, neglect diapason.</span></p>
 
 <p><span class="chinese">尽你的全力让家平顺和谐。</span><span class="english">Exert you to let a going smoothly diapason with all strength.</span></p>

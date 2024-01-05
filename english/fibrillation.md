@@ -1,5 +1,7 @@
 # fibrillation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibrillation.md)
+
 <p><span class="chinese">在严重高血钾时可以出现心室纤颤。</span><span class="english">Ventricular fibrillation can occur in severe hyperkalemia.</span></p>
 
 <p><span class="chinese">心房纤颤比心房扑动更为常见。</span><span class="english">Atrial fibrillation is much more common than atrial flutter.</span></p>

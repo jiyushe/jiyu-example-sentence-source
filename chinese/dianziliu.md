@@ -1,5 +1,7 @@
 # 电子流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianziliu.md)
+
 <p><span class="chinese">导体切割磁场会产生电子流。</span><span class="english">Electronic currents appear when a conductor cuts magnetic field lines.</span></p>
 
 <p><span class="chinese">它采用涡轮增压的电子流来激发反应。</span><span class="english">It uses a turbocharged stream of electronsto kick-start its reaction instead.</span></p>

@@ -1,5 +1,7 @@
 # 入阁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruge.md)
+
 <p><span class="chinese">遗传学家也成功入阁。</span><span class="english">Geneticists , too, get a look in.</span></p>
 
 <p><span class="chinese">新联合政府中有18位保守党大臣，自民党中则有5位成员入阁。</span><span class="english">There are 18 Conservative ministers and 5 Liberal Democrats in the new Cabinet.</span></p>

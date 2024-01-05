@@ -1,5 +1,7 @@
 # pristine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pristine.md)
+
 <p><span class="chinese">还有白色，真正的白色，质朴无华，完美无瑕。</span><span class="english">And white, true white, pristine and unblemished.</span></p>
 
 <p><span class="chinese">我质朴的父兄，向来不善言辞。</span><span class="english">I pristine father and brother, always ineloquent.</span></p>

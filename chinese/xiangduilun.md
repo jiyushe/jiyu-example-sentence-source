@@ -1,5 +1,7 @@
 # 相对论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangduilun.md)
+
 <p><span class="chinese">什么是相对论？</span><span class="english">What is relativity?</span></p>
 
 <p><span class="chinese">所以相对论是真的。</span><span class="english">Therefore relativism is true.</span></p>

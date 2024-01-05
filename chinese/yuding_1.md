@@ -1,5 +1,7 @@
 # 预订
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuding_1.md)
+
 <p><span class="chinese">现在提前预订！</span><span class="english">Pre-order now!</span></p>
 
 <p><span class="chinese">不要过多预订。</span><span class="english">Don’t overbook.</span></p>

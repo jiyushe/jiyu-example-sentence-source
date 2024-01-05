@@ -1,5 +1,7 @@
 # 涡轮机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wolunji.md)
+
 <p><span class="chinese">目前英国已安装有大约2400座风力涡轮机。</span><span class="english">There are currently about 2, 400 turbines.</span></p>
 
 <p><span class="chinese">近海的涡轮机在花费的成本上几乎要比一般的涡轮机贵上两倍.</span><span class="english">Offshore turbines are almost twice as expensive.</span></p>

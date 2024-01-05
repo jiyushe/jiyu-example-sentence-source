@@ -1,5 +1,7 @@
 # 鄙夷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biyi_1.md)
+
 <p><span class="chinese">他们哂笑了，鄙夷之极地走开。</span><span class="english">They smile and go away in utter scorn.</span></p>
 
 <p><span class="chinese">我们鄙夷势利小人。</span><span class="english">We disdain a man for his snobbishness.</span></p>

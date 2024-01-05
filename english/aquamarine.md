@@ -1,5 +1,7 @@
 # aquamarine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aquamarine.md)
+
 <p><span class="chinese">双鱼座--紫水晶，绿玉</span><span class="english">Pisces -- Amethyst, Aquamarine</span></p>
 
 <p><span class="chinese">我听到海蓝宝石是新的黑色。</span><span class="english">I heard aquamarine is the new black.</span></p>

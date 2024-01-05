@@ -1,5 +1,7 @@
 # 神人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenren.md)
+
 <p><span class="chinese">前期怂比狗头人，后期超神人头狗。</span><span class="english">Like a dog, like a god.</span></p>
 
 <p><span class="chinese">神人奥丁，索尔和芙蕾雅。</span><span class="english">The gods were Odin, Thor and Freya.</span></p>

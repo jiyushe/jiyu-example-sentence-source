@@ -1,5 +1,7 @@
 # 胚胎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peitai.md)
+
 <p><span class="chinese">他所用的是小鸡胚胎。</span><span class="english">And he used a chicken embryo.</span></p>
 
 <p><span class="chinese">胚胎植入前的诊断。</span><span class="english">Preimplantation genetic diagnosis.</span></p>

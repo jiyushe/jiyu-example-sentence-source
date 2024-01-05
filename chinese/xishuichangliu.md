@@ -1,5 +1,7 @@
 # 细水长流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishuichangliu.md)
+
 <p><span class="chinese">愿我伴你细水长流。</span><span class="english">May I accompany you long.</span></p>
 
 <p><span class="chinese">爱应细水长流。</span><span class="english">Love me little, love me long.</span></p>

@@ -1,5 +1,7 @@
 # 坠毁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuihui.md)
+
 <p><span class="chinese">它似乎就要坠毁了。</span><span class="english">It appeared about to crash.</span></p>
 
 <p><span class="chinese">货车或坠毁的飞机，择一炸之。</span><span class="english">Bomb Truck or Crashed plane.</span></p>

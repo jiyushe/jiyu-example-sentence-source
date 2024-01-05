@@ -1,5 +1,7 @@
 # solderability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solderability.md)
+
 <p><span class="chinese">具高可焊性特殊电极端子。</span><span class="english">High solderability due to specially plated electrodes.</span></p>
 
 <p><span class="chinese">本文论述焊料可焊性试验的结果。</span><span class="english">This paper deals with results of solderability testing.</span></p>

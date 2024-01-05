@@ -1,5 +1,7 @@
 # understood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/understood.md)
+
 <p><span class="chinese">我很理解。</span><span class="english">I understood.</span></p>
 
 <p><span class="chinese">但是，我理解。</span><span class="english">But I understood.</span></p>

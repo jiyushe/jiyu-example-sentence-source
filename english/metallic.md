@@ -1,5 +1,7 @@
 # metallic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metallic.md)
+
 <p><span class="chinese">有一个金属铮铮。</span><span class="english">There was a metallic clank.</span></p>
 
 <p><span class="chinese">镍是一种金属元素。</span><span class="english">Nickel is a metallic element.</span></p>

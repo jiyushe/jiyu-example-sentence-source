@@ -1,5 +1,7 @@
 # geoscience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geoscience.md)
+
 <p><span class="chinese">而澳洲地质院则是标在了7。5级。</span><span class="english">Geoscience Australia put it at 7.5.</span></p>
 
 <p><span class="chinese">他们的发现最近被登上自然地球科学。</span><span class="english">Their findings were recently published in Nature Geoscience.</span></p>

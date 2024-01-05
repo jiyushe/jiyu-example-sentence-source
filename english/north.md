@@ -1,5 +1,7 @@
 # north 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/north.md)
+
 <p><span class="chinese">北风又吹了起来。</span><span class="english">North wind blew up.</span></p>
 
 <p><span class="chinese">哪条路是往北的?。</span><span class="english">Which way is north?</span></p>

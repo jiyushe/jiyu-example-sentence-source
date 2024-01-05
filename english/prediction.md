@@ -1,5 +1,7 @@
 # prediction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prediction.md)
+
 <p><span class="chinese">它还做出了预测。</span><span class="english">It made prediction.</span></p>
 
 <p><span class="chinese">一个牵强的预测吗？</span><span class="english">A farfetched prediction?</span></p>

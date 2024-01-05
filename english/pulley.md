@@ -1,5 +1,7 @@
 # pulley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulley.md)
+
 <p><span class="chinese">我们需要使用这个滑车。</span><span class="english">We want to use this pulley.</span></p>
 
 <p><span class="chinese">拆下水泵皮带轮。</span><span class="english">Remove water pump belt pulley.</span></p>

@@ -1,5 +1,7 @@
 # 暴露无遗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoluwuyi.md)
+
 <p><span class="chinese">你的诡计已暴露无遗了。</span><span class="english">Your trick has been opened.</span></p>
 
 <p><span class="chinese">他的狼子野心暴露无遗。</span><span class="english">His wild ambition was thoroughly exposed.</span></p>

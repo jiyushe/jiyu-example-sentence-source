@@ -1,5 +1,7 @@
 # 姜黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianghuang.md)
+
 <p><span class="chinese">印度女人们打赌用姜黄就能解决。</span><span class="english">Indian women swear by turmeric.</span></p>
 
 <p><span class="chinese">姜黄素，也非常有前途。</span><span class="english">Curcumin is also very promising.</span></p>

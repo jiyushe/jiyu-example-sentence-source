@@ -1,5 +1,7 @@
 # 论著
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunzhu.md)
+
 <p><span class="chinese">我们多次争论著要去哪里吃晚餐。</span><span class="english">We were arguing many times where can go to have the supper.</span></p>
 
 <p><span class="chinese">大师开拓性的研究成果，都反映在一字千金的论著中。</span><span class="english">Master, pioneering research is reflected in the treatise of gold.</span></p>

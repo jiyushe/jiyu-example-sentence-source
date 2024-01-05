@@ -1,5 +1,7 @@
 # 关照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanzhao.md)
+
 <p><span class="chinese">我是新搬来的，请多关照！</span><span class="english">I am new. Please take care!</span></p>
 
 <p><span class="chinese">新人报到，请多关照。</span><span class="english">New report, Nice to meet you.</span></p>

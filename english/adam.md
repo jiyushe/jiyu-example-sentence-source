@@ -1,5 +1,7 @@
 # adam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adam.md)
+
 <p><span class="chinese">我是亚当·纳维斯。</span><span class="english">I’m Adam Navis.</span></p>
 
 <p><span class="chinese">亚当吃了苹果。</span><span class="english">Adam ate the apple.</span></p>

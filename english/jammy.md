@@ -1,5 +1,7 @@
 # jammy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jammy.md)
+
 <p><span class="chinese">吉米和嘉美终于幸福牵手。</span><span class="english">Jimmy and Jammy get hitched at last!</span></p>
 
 <p><span class="chinese">新鲜和果味容易的和烤票据。</span><span class="english">Fresh and fruity with jammy and toasted notes.</span></p>

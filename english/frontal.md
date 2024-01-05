@@ -1,5 +1,7 @@
 # frontal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frontal.md)
+
 <p><span class="chinese">我想我的脑额叶受到损害了。</span><span class="english">I think I damaged my frontal lobe.</span></p>
 
 <p><span class="chinese">在正位片上心影增大。</span><span class="english">On the frontal film the heart is large.</span></p>

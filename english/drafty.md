@@ -1,5 +1,7 @@
 # drafty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drafty.md)
+
 <p><span class="chinese">这个房间很通风。</span><span class="english">It's drafty in this room.</span></p>
 
 <p><span class="chinese">这房间通风真好。你看洗菜盆十大名牌。</span><span class="english">It's drafty in this room.</span></p>

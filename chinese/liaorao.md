@@ -1,5 +1,7 @@
 # 缭绕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaorao.md)
+
 <p><span class="chinese">烟向上缭绕。</span><span class="english">The smoke wreathed upward.</span></p>
 
 <p><span class="chinese">烟雾缭绕上升。</span><span class="english">The smoke wreathed upward.</span></p>

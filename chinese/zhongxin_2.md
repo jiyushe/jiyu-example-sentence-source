@@ -1,5 +1,7 @@
 # 衷心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxin_2.md)
+
 <p><span class="chinese">我衷心感谢艾奥瓦的公民们。</span><span class="english">Thank you, Iowa.</span></p>
 
 <p><span class="chinese">衷心祝福你！</span><span class="english">Best wishes to you!</span></p>

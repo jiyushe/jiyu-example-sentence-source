@@ -1,5 +1,7 @@
 # 谋事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moushi.md)
+
 <p><span class="chinese">向某人提供谋事的详情。</span><span class="english">Fill sb in on sth.</span></p>
 
 <p><span class="chinese">想要某人做谋事。</span><span class="english">Want sb to do sth.</span></p>

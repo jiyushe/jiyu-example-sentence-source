@@ -1,5 +1,7 @@
 # discontinuously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discontinuously.md)
+
 <p><span class="chinese">从火山岩的空间分布情况来看，可分为南北两带。</span><span class="english">With strong volcanic activity the south belt extends discontinuously for over one thousand km.</span></p>
 
 <p><span class="chinese">然后，向毗邻金属部件的CFRP部件不连续地应用绝缘底层涂料。</span><span class="english">Next, an insulating primer is applied discontinuously to the CFRP component adjacent the metallic component.</span></p>

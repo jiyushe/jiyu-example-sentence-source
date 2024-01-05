@@ -1,5 +1,7 @@
 # mastoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastoid.md)
+
 <p><span class="chinese">开放部分乳突腔。</span><span class="english">Opening partial mastoid process cavity.</span></p>
 
 <p><span class="chinese">将震动音叉杆靠在受检者乳突。</span><span class="english">Place stem of vibrating tuning fork against client's mastoid process.</span></p>

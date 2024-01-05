@@ -1,5 +1,7 @@
 # barebones
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barebones.md)
+
 <p><span class="chinese">虽然钱只有那么一点点，但你还是可以把事做成的。</span><span class="english">You can do it even with a barebones budget.</span></p>
 
 <p><span class="chinese">这里使用一个网络名称空间，并创建基本的读写内容。</span><span class="english">A network namespace is used, and barebones read-write contents are created.</span></p>

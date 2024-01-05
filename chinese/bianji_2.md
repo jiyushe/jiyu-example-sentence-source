@@ -1,5 +1,7 @@
 # 遍及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianji_2.md)
+
 <p><span class="chinese">我的网友遍及全世界。</span><span class="english">I have many net-pals around the world.</span></p>
 
 <p><span class="chinese">而关于您的研究遍及海内外，如此浩瀚。</span><span class="english">When you're studied much at home and abroad.</span></p>

@@ -1,5 +1,7 @@
 # 哈哈镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hahajing.md)
+
 <p><span class="chinese">很可能你已经知道，那就是哈哈镜。</span><span class="english">Probably you already know that is a distorting mirror.</span></p>
 
 <p><span class="chinese">但到5点左右，实验室遽然变成哈哈镜，他的四肢也逐渐僵硬了。</span><span class="english">But by 5 o'clock the lab was distorting, and his limbs were stiffening.</span></p>

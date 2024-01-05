@@ -1,5 +1,7 @@
 # sierra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sierra.md)
+
 <p><span class="chinese">另一位席埃拉是名解剖学博士。</span><span class="english">Another Sierra is a Doctor of anatomy.</span></p>
 
 <p><span class="chinese">我到塞拉利昂来有两个理由。</span><span class="english">I came to Sierra Leone for two reasons.</span></p>

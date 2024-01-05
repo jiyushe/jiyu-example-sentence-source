@@ -1,5 +1,7 @@
 # elijah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elijah.md)
+
 <p><span class="chinese">以利亚对她说，把你儿子交给我。</span><span class="english">Give me your son,' Elijah replied.</span></p>
 
 <p><span class="chinese">以利亚以每秒三十二英尺的速度前来。</span><span class="english">Elijah thirtytwo feet per sec is com.</span></p>

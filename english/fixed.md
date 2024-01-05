@@ -1,5 +1,7 @@
 # fixed 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fixed.md)
+
 <p><span class="chinese">它是固有的。</span><span class="english">It's fixed.</span></p>
 
 <p><span class="chinese">你把它修好了！</span><span class="english">You fixed it!</span></p>

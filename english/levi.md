@@ -1,5 +1,7 @@
 # levi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/levi.md)
+
 <p><span class="chinese">对不起，雷威先生现在不在。</span><span class="english">I'm sorry, Mr. Levi is out now.</span></p>
 
 <p><span class="chinese">在电影里，她由奥利芙·利瓦伊扮演。</span><span class="english">She was played by Olive Levi in the film.</span></p>

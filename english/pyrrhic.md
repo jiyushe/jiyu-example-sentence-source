@@ -1,5 +1,7 @@
 # pyrrhic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrrhic.md)
+
 <p><span class="chinese">这就是为什么我把这看作一种得不偿失。</span><span class="english">This is why I say this is a Pyrrhic victory.</span></p>
 
 <p><span class="chinese">他们为自己得不偿失的胜利而兴奋。</span><span class="english">They get excited about their Pyrrhic victory.</span></p>

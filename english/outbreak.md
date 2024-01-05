@@ -1,5 +1,7 @@
 # outbreak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outbreak.md)
+
 <p><span class="chinese">最近爆发的赤潮。</span><span class="english">The recent outbreak of Pfiesteria.</span></p>
 
 <p><span class="chinese">2003年非典期间荣获二等功。</span><span class="english">During the 2003 outbreak won the two.</span></p>

@@ -1,5 +1,7 @@
 # geriatrics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geriatrics.md)
+
 <p><span class="chinese">与老年病学我在角子机。</span><span class="english">There's me with the geriatrics at the slot machines.</span></p>
 
 <p><span class="chinese">这项研究发表在美国老年医学学会杂志上。</span><span class="english">The study is in the Journal of the American Geriatrics Society.</span></p>

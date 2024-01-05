@@ -1,5 +1,7 @@
 # 糟蹋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaota.md)
+
 <p><span class="chinese">一个烂苹果，糟蹋一整箩。</span><span class="english">One bad apple spoiled the barrel.</span></p>
 
 <p><span class="chinese">不要这样糟蹋了一个完美夜晚的记忆。</span><span class="english">Don’t ruin a perfectly good night.</span></p>

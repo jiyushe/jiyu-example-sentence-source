@@ -1,5 +1,7 @@
 # 无所不包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusuobubao.md)
+
 <p><span class="chinese">他可以表演的幻术几乎无所不包，虽然他永远不说出箇中秘诀。</span><span class="english">He could produce almost any illusion, though he was not saying how.</span></p>
 
 <p><span class="chinese">包豪斯的设计从房屋到茶壶、台灯，汗牛充栋无所不包。</span><span class="english">From housing to the Bauhaus design teapot lamp, voluminous all-encompassing.</span></p>

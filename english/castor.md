@@ -1,5 +1,7 @@
 # castor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/castor.md)
+
 <p><span class="chinese">蓖麻油能通便。</span><span class="english">Castor oil moves the bowels.</span></p>
 
 <p><span class="chinese">蓖麻籽富含蓖麻毒素。</span><span class="english">Castor beans are filled with ricin.</span></p>

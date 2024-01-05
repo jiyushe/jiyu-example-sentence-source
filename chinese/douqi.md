@@ -1,5 +1,7 @@
 # 斗气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douqi.md)
+
 <p><span class="chinese">但最近斗气有所下降。</span><span class="english">But I recently dropped the grudge.</span></p>
 
 <p><span class="chinese">两个就开始互不妥协的斗气。</span><span class="english">The two began to grudge and do not compromise.</span></p>

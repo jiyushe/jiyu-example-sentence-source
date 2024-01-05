@@ -1,5 +1,7 @@
 # 秋后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuhou.md)
+
 <p><span class="chinese">时装业将会像秋后的昆虫一样销声匿迹。</span><span class="english">The fashion industry would die like an insect in autumn.</span></p>
 
 <p><span class="chinese">一些农夫还担心瓢虫会吃掉他们秋后的水果。</span><span class="english">Some farmers also worry that the beetles may eat their late-autumn fruit crops.</span></p>

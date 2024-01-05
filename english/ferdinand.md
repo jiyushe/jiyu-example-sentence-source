@@ -1,5 +1,7 @@
 # ferdinand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferdinand.md)
+
 <p><span class="chinese">费迪南·麦哲伦是谁？</span><span class="english">Who Was Ferdinand Magellan?</span></p>
 
 <p><span class="chinese">费迪南鸭有些事你必须明白。</span><span class="english">Ferdinand There's something you should know.</span></p>

@@ -1,5 +1,7 @@
 # 髑髅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dulou.md)
+
 <p><span class="chinese">这个被定罪要被处死在髑髅地的人。</span><span class="english">The Man condemned to die on Calvary.</span></p>
 
 <p><span class="chinese">就以你这个髑髅头来说，你本来是由一堆物质构成的。</span><span class="english">As far as a skull is concerned, you are composed of material.</span></p>

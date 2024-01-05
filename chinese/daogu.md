@@ -1,5 +1,7 @@
 # 捣鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daogu.md)
+
 <p><span class="chinese">捣鼓你的富邻居们买新的卡迪拉克。</span><span class="english">Encourage your wealthy neighbors to buy new Cadillacs.</span></p>
 
 <p><span class="chinese">你又在捣鼓那些营养栓剂啊?。</span><span class="english">Are you experimenting with nutritional suppositories again?</span></p>

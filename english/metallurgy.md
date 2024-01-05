@@ -1,5 +1,7 @@
 # metallurgy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metallurgy.md)
+
 <p><span class="chinese">适用于金刚石工具、粉末冶金。</span><span class="english">Applicable to the Diamond tools, Powder Metallurgy.</span></p>
 
 <p><span class="chinese">讨论了该合金的一些冶金缺陷及消除方法。</span><span class="english">The metallurgy defects of 6063 alloy are discussed.</span></p>

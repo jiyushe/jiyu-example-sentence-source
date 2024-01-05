@@ -1,5 +1,7 @@
 # foraminifera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foraminifera.md)
+
 <p><span class="chinese">有孔虫类显示了外围浅海的古代水深。</span><span class="english">Foraminifera indicate an outer neritic paleobathymetric setting.</span></p>
 
 <p><span class="chinese">不同种类的有孔虫在不同温度下繁殖。</span><span class="english">Different types of foraminifera thrive at different temperatures.</span></p>

@@ -1,5 +1,7 @@
 # 交点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaodian.md)
+
 <p><span class="chinese">但这个交点说明了什么呢</span><span class="english">But what does it mean here?</span></p>
 
 <p><span class="chinese">这个交点非常有趣。</span><span class="english">This special point is an interesting one.</span></p>

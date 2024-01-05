@@ -1,5 +1,7 @@
 # twelve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twelve.md)
+
 <p><span class="chinese">有十二个刎。</span><span class="english">There are twelve.</span></p>
 
 <p><span class="chinese">这男孩十二岁。</span><span class="english">The minge is twelve.</span></p>

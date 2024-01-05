@@ -1,5 +1,7 @@
 # unduly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unduly.md)
+
 <p><span class="chinese">他们应该说我们过度地简化了人格理论。</span><span class="english">They should say we were simplifying unduly.</span></p>
 
 <p><span class="chinese">胸骨明显，但没有夸张的突出。</span><span class="english">The breastbone bold, without being unduly prominent.</span></p>

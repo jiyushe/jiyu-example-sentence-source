@@ -1,5 +1,7 @@
 # accessories
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accessories.md)
+
 <p><span class="chinese">仅适用于金属辅料。</span><span class="english">For metal accessories only.</span></p>
 
 <p><span class="chinese">目录马克兰摩托车配件。</span><span class="english">Accessories guide Markram motorcycle.</span></p>

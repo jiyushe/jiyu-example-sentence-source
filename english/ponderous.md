@@ -1,5 +1,7 @@
 # ponderous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ponderous.md)
+
 <p><span class="chinese">使用化学燃料火箭是多么的笨重。</span><span class="english">Chemical rockets are ponderous.</span></p>
 
 <p><span class="chinese">这个胖女人的体态很笨重。</span><span class="english">The fat woman’s movements were ponderous.</span></p>

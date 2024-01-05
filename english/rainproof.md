@@ -1,5 +1,7 @@
 # rainproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rainproof.md)
+
 <p><span class="chinese">本机带有防雨设备。</span><span class="english">This aircraft has the rainproof equipment.</span></p>
 
 <p><span class="chinese">我们的房顶已经漏雨了。</span><span class="english">The roof of our house is no longer rainproof.</span></p>

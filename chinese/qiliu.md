@@ -1,5 +1,7 @@
 # 气流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiliu.md)
+
 <p><span class="chinese">气流有助于散热。</span><span class="english">Airflow helps to dissipate heat.</span></p>
 
 <p><span class="chinese">气流通过桌面的ATX案件。</span><span class="english">Airflow through a desktop ATX case.</span></p>

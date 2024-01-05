@@ -1,5 +1,7 @@
 # mouldy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mouldy.md)
+
 <p><span class="chinese">潮湿的日子里，食物很容易发霉。</span><span class="english">Foods are easily to be mouldy in humid days.</span></p>
 
 <p><span class="chinese">她把发霉的土豆扔进垃圾箱。</span><span class="english">She chucked the mouldy potatoes in the litterbin.</span></p>

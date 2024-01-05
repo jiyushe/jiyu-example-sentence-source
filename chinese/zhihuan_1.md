@@ -1,5 +1,7 @@
 # 滞缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhihuan_1.md)
+
 <p><span class="chinese">风向的突然改变，滞缓了森林大火。</span><span class="english">A sudden change of wind checked the forest fire.</span></p>
 
 <p><span class="chinese">纵观今日中国，有关编制定员标准体系的研究还处于发展滞缓状态。</span><span class="english">Nowadays, the research of standard personnel system in China is in a stagnant state.</span></p>

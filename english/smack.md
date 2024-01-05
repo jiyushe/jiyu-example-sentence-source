@@ -1,5 +1,7 @@
 # smack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smack.md)
+
 <p><span class="chinese">这就是为什么我没有把你打回你老妈的家！</span><span class="english">Next thing I know, I give him a smack.</span></p>
 
 <p><span class="chinese">她会又哭又闹，甚至会揍我。</span><span class="english">She will cry, yell and even smack on me.</span></p>

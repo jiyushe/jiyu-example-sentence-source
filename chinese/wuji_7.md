@@ -1,5 +1,7 @@
 # 无际
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuji_7.md)
+
 <p><span class="chinese">可以望到远处无际的天空。</span><span class="english">Endless sky comes into my eye.</span></p>
 
 <p><span class="chinese">心，是一汪无际的海洋。</span><span class="english">Heart, a Wang sight of the sea.</span></p>

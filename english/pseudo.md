@@ -1,5 +1,7 @@
 # pseudo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pseudo.md)
+
 <p><span class="chinese">我实际上真的有假作业。</span><span class="english">I actually did have pseudo assignments.</span></p>
 
 <p><span class="chinese">不允许操作假冒的表。</span><span class="english">Operation disallowed on smi pseudo table.</span></p>

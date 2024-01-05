@@ -1,5 +1,7 @@
 # predawn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predawn.md)
+
 <p><span class="chinese">我一下子睁开了双眼，眼前闪现的是黎明前的灰暗。</span><span class="english">My eyes flash open in the predawn gray.</span></p>
 
 <p><span class="chinese">因此，我爱北京，特别爱黎明前的北京。</span><span class="english">In short, I love Beijing, especially predawn Beijing.</span></p>

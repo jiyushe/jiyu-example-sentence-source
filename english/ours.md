@@ -1,5 +1,7 @@
 # ours
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ours.md)
+
 <p><span class="chinese">这钥匙圈是我们的。</span><span class="english">The key ring is ours.</span></p>
 
 <p><span class="chinese">我们那儿是个小县份。</span><span class="english">Ours is a small county.</span></p>

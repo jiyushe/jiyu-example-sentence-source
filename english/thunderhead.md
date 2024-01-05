@@ -1,5 +1,7 @@
 # thunderhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thunderhead.md)
+
 <p><span class="chinese">进入机炮射程。</span><span class="english">AWACS Thunderhead Approaching gun range.</span></p>
 
 <p><span class="chinese">敌机进入机炮射程。</span><span class="english">AWACS Thunderhead Bandit's in gun range.</span></p>

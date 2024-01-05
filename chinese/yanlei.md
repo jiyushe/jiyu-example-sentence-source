@@ -1,5 +1,7 @@
 # 眼泪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanlei.md)
+
 <p><span class="chinese">擦擦眼泪。</span><span class="english">Wipe your tears.</span></p>
 
 <p><span class="chinese">但擦干眼泪。</span><span class="english">But dry your eyes.</span></p>

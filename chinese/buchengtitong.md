@@ -1,5 +1,7 @@
 # 不成体统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buchengtitong.md)
+
 <p><span class="chinese">她在聚会上的举止真不成体统。</span><span class="english">She behaved very badly at the party.</span></p>
 
 <p><span class="chinese">这类事简直不成体统。</span><span class="english">This sort of thing simply isn't done.</span></p>

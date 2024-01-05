@@ -1,5 +1,7 @@
 # 迟误
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chiwu.md)
+
 <p><span class="chinese">你不要迟误我的时间！</span><span class="english">You don't put me behind!</span></p>
 
 <p><span class="chinese">迟误您时刻了，感谢！</span><span class="english">Hold up your time, thanks!</span></p>

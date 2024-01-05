@@ -1,5 +1,7 @@
 # 照搬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoban_1.md)
+
 <p><span class="chinese">若逐词照搬，岂不等于抄袭别人的译文？</span><span class="english">Isn't it plagiarism if copy word by word?</span></p>
 
 <p><span class="chinese">可阿德说自己的县没办法照搬他们的模式。</span><span class="english">But Tien said his commune can’t copy them.</span></p>

@@ -1,5 +1,7 @@
 # 自尊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizun.md)
+
 <p><span class="chinese">更多的自尊？</span><span class="english">More self-respect?</span></p>
 
 <p><span class="chinese">但他一直在筑起自尊，是的。</span><span class="english">But he kept on building. -Yeah.</span></p>

@@ -1,5 +1,7 @@
 # aftercare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aftercare.md)
+
 <p><span class="chinese">适用于人流后体虚的调养。</span><span class="english">Apply to people the aftercare.</span></p>
 
 <p><span class="chinese">适用于妇女贫血及流产后体虚的调养。</span><span class="english">Suitable for women anemia and after miscarriage body virtual aftercare.</span></p>

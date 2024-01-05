@@ -1,5 +1,7 @@
 # 煤炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meilu.md)
+
 <p><span class="chinese">这是一种经济煤炉。</span><span class="english">This is an economical stove.</span></p>
 
 <p><span class="chinese">学生们围在煤炉旁边吃饭边取暖。</span><span class="english">Students eat huddled around makeshift coal burners for warmth.</span></p>

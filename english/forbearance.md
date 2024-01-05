@@ -1,5 +1,7 @@
 # forbearance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forbearance.md)
+
 <p><span class="chinese">让我们运用我们的克制态度和坚定信念。</span><span class="english">Let us exercise forbearance and firmness.</span></p>
 
 <p><span class="chinese">他在剧中扮演希特勒一角。</span><span class="english">He acted with forBearance toward the hecklers.</span></p>

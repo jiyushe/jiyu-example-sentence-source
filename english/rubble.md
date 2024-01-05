@@ -1,5 +1,7 @@
 # rubble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rubble.md)
+
 <p><span class="chinese">倒在碎石中。</span><span class="english">In the rubble.</span></p>
 
 <p><span class="chinese">到处都是碎石和垃圾。</span><span class="english">Rubble and rubbish lie everywhere.</span></p>

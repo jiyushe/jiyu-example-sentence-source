@@ -1,5 +1,7 @@
 # squat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squat.md)
+
 <p><span class="chinese">我们根本不知道传染途径。</span><span class="english">We don't know diddly squat.</span></p>
 
 <p><span class="chinese">就蹲下来抱抱自己悳脚。！</span><span class="english">Baobao to squat on their own feet.</span></p>

@@ -1,5 +1,7 @@
 # laud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laud.md)
+
 <p><span class="chinese">我可是赞美丽江的人民。</span><span class="english">I laud the people of Lijang.</span></p>
 
 <p><span class="chinese">郑头，大恩不言谢，咱感激你。</span><span class="english">Zheng Tou, great boon not the speech thank, we laud you.</span></p>

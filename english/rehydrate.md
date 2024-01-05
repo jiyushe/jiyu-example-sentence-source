@@ -1,5 +1,7 @@
 # rehydrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rehydrate.md)
+
 <p><span class="chinese">喝大量的冷饮料补充水分。</span><span class="english">Drink a lot of cool liquids to rehydrate.</span></p>
 
 <p><span class="chinese">把数据“重新还原”成完整形式？</span><span class="english">"rehydrate" the data back into full form.</span></p>

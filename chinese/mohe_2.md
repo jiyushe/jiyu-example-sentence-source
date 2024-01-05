@@ -1,5 +1,7 @@
 # 磨合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mohe_2.md)
+
 <p><span class="chinese">这项突袭计划正在被磨合。</span><span class="english">The assault plan was now honed.</span></p>
 
 <p><span class="chinese">唯一确定的事是，他们从来没有磨合到位。</span><span class="english">The only thing clear is that they never did.</span></p>

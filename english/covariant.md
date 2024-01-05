@@ -1,5 +1,7 @@
 # covariant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covariant.md)
+
 <p><span class="chinese">在Groovy1.0中，不支持共变的返回类型。</span><span class="english">In Groovy 1.0, covariant return types were not supported.</span></p>
 
 <p><span class="chinese">研究弯曲时空中平面运动刚体的动力学协变方程。</span><span class="english">The covariant equation of plane motion body in curved space-time is studied.</span></p>

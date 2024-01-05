@@ -1,5 +1,7 @@
 # nontraditional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nontraditional.md)
+
 <p><span class="chinese">适用于非传统浏览器的内容</span><span class="english">Content for nontraditional browsers</span></p>
 
 <p><span class="chinese">但有些事情也可以走非传统路线。</span><span class="english">But there's something to be said for going the nontraditional route.</span></p>

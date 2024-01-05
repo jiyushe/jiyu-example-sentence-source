@@ -1,5 +1,7 @@
 # segregate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/segregate.md)
+
 <p><span class="chinese">我们得分离一段日子。</span><span class="english">We have to segregate for a few day.</span></p>
 
 <p><span class="chinese">自体受精不能分离纯合的生理小种。</span><span class="english">Homozygous races do not segregate on selfing.</span></p>

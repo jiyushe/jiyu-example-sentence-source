@@ -1,5 +1,7 @@
 # hypotension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypotension.md)
+
 <p><span class="chinese">低血压也可以造成肾功能衰竭</span><span class="english">Hypotension may also contribute to renal failure</span></p>
 
 <p><span class="chinese">一位42岁的女性因低血压入院。</span><span class="english">A 42-year-old woman was admitted with hypotension.</span></p>

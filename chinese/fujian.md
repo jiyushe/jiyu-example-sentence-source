@@ -1,5 +1,7 @@
 # 附件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fujian.md)
+
 <p><span class="chinese">收音机是汽车的附件。</span><span class="english">A radio is an accessory to a car.</span></p>
 
 <p><span class="chinese">反铲附件的约翰迪尔870。</span><span class="english">John Deere 870 backhoe attachment.</span></p>

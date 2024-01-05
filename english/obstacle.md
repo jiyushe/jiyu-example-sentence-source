@@ -1,5 +1,7 @@
 # obstacle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obstacle.md)
+
 <p><span class="chinese">和屏障。</span><span class="english">You have an obstacle.</span></p>
 
 <p><span class="chinese">怠惰，与别的阻碍一样。</span><span class="english">Burnout is an obstacle like any other.</span></p>

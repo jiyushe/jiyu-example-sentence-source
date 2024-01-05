@@ -1,5 +1,7 @@
 # 子女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zinv.md)
+
 <p><span class="chinese">他生了三个子女。</span><span class="english">He begot three children.</span></p>
 
 <p><span class="chinese">请问你有冇子女？</span><span class="english">D5. Do you have children?</span></p>

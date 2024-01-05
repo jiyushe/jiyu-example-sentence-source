@@ -1,5 +1,7 @@
 # 卡路里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaluli.md)
+
 <p><span class="chinese">脂肪和卡路里</span><span class="english">Grams of fat and calories?</span></p>
 
 <p><span class="chinese">多少人支持低卡路里饮食</span><span class="english">How many low calorie diet?</span></p>

@@ -1,5 +1,7 @@
 # forensics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forensics.md)
+
 <p><span class="chinese">法医物证学通过技术揭开犯罪谜底。</span><span class="english">Forensics uses this technology to help uncover crimes.</span></p>
 
 <p><span class="chinese">岫玉的鉴识很简单，只需捉住几个本性，便可能。</span><span class="english">Jade forensics is very simple, just to catch a few nature, they may.</span></p>

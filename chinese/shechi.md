@@ -1,5 +1,7 @@
 # 奢侈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shechi.md)
+
 <p><span class="chinese">它对我来说是一种奢侈。</span><span class="english">It is a luxury to me.</span></p>
 
 <p><span class="chinese">他们沉溺于奢侈的生活中。</span><span class="english">They wallowed in luxury.</span></p>

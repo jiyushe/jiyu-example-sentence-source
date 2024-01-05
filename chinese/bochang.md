@@ -1,5 +1,7 @@
 # 波长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bochang.md)
+
 <p><span class="chinese">你得到了负的波长。</span><span class="english">You have negative wavelengths.</span></p>
 
 <p><span class="chinese">探讨了发射波长蓝移的原因。</span><span class="english">The cause of blue shift is discussed.</span></p>

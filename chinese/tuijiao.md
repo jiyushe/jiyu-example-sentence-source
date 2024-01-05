@@ -1,5 +1,7 @@
 # 腿脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuijiao.md)
+
 <p><span class="chinese">经常性腿脚浮肿是为什么？</span><span class="english">Regular is dropsy of ability to walk why?</span></p>
 
 <p><span class="chinese">如果权力要用邪恶的腿脚走路，我又能奈其何！</span><span class="english">How can I help it, if power like to walk on crooked legs?</span></p>

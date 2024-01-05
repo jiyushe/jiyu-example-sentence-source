@@ -1,5 +1,7 @@
 # 序位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuwei.md)
+
 <p><span class="chinese">属性对象类型可能在六个低序位位置上获取位。</span><span class="english">The property object type may take bits in the six low order positions.</span></p>
 
 <p><span class="chinese">野魔法的能力在这个守序位面中被降低了。</span><span class="english">Special Magic Conditions. Wild magic is diminished on this lawful plane.</span></p>

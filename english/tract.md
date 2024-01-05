@@ -1,5 +1,7 @@
 # tract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tract.md)
+
 <p><span class="chinese">亚利桑那州，太阳城，沿街房屋</span><span class="english">Tract Housing in Sun City, Arizona</span></p>
 
 <p><span class="chinese">什麽导致尿道感染?。</span><span class="english">What causes urinary tract infections?</span></p>

@@ -1,5 +1,7 @@
 # 公然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongran.md)
+
 <p><span class="chinese">公然反对，向…挑战。</span><span class="english">To defy or resist.</span></p>
 
 <p><span class="chinese">公然无视他？</span><span class="english">Blatantly ignore him?</span></p>

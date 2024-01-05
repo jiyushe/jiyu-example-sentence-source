@@ -1,5 +1,7 @@
 # 译员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyuan_4.md)
+
 <p><span class="chinese">或许这就是一个译员的命。</span><span class="english">An interpreter’s lot, perhaps.</span></p>
 
 <p><span class="chinese">我想可以，我以前做过译员。</span><span class="english">I think so.I used to be an interpreter.</span></p>

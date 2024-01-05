@@ -1,5 +1,7 @@
 # poetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poetics.md)
+
 <p><span class="chinese">我们这里没有唯一的历史、唯一的诗学。</span><span class="english">There is no one history here and no one poetics.</span></p>
 
 <p><span class="chinese">这些都体现出谢氏诗学内在的矛盾性。</span><span class="english">All of them show the contradiction of Xie Zhen' a poetics.</span></p>

@@ -1,5 +1,7 @@
 # halves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halves.md)
+
 <p><span class="chinese">做事不能半途而毁。</span><span class="english">Neve do thing by halves.</span></p>
 
 <p><span class="chinese">上下半场赛况两重天啊。</span><span class="english">It's a game of two halves.</span></p>

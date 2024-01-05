@@ -1,5 +1,7 @@
 # 摇头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaotou.md)
+
 <p><span class="chinese">她听了只是摇了摇头。</span><span class="english">She only shook her head.</span></p>
 
 <p><span class="chinese">但是，汉威尔只是摇头。</span><span class="english">But Hywel shook his head.</span></p>

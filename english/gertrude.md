@@ -1,5 +1,7 @@
 # gertrude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gertrude.md)
+
 <p><span class="chinese">所有这些因素共同导致了格特鲁德的悲剧的形成。</span><span class="english">All of these elements cause the tragic end of Gertrude.</span></p>
 
 <p><span class="chinese">而对于格特鲁德，斯泰因，重复无疑是支配方法。</span><span class="english">In Gertrude Stein, the dominant is repetition undoubtedly.</span></p>

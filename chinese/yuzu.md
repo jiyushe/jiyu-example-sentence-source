@@ -1,5 +1,7 @@
 # 狱卒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzu.md)
+
 <p><span class="chinese">是那样，那名狱卒承认道。</span><span class="english">It was, the jailer conceded.</span></p>
 
 <p><span class="chinese">狱卒急切地观察着。</span><span class="english">The gaoler looked on eagerly.</span></p>

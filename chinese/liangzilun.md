@@ -1,5 +1,7 @@
 # 量子论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangzilun.md)
+
 <p><span class="chinese">你知道量子论是由谁首创的吗?</span><span class="english">Do you know who originated the theory of quantum?</span></p>
 
 <p><span class="chinese">将量子力学或量子论应用于…</span><span class="english">To apply quantum mechanics or the quantum theory to.</span></p>

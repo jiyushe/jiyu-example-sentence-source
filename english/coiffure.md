@@ -1,5 +1,7 @@
 # coiffure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coiffure.md)
+
 <p><span class="chinese">年轻的福斯蒂娜在硬币的浮雕上梳的就是这种发髻。</span><span class="english">Reliefs on coins of the young Empress Faustina show her with this coiffure.</span></p>
 
 <p><span class="chinese">莎莉谁人吸引人的新发型是我妹妹的发型计划师为她计划的。</span><span class="english">Sally's attractive new coiffure was arranged for her by my sister's hair stylist.</span></p>

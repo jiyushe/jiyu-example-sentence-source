@@ -1,5 +1,7 @@
 # chambermaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chambermaid.md)
+
 <p><span class="chinese">和我的女仆说话。</span><span class="english">And talk with my chambermaid.</span></p>
 
 <p><span class="chinese">一个旅馆女服务员站在壁炉旁。</span><span class="english">An hotel chambermaid stood by the fire-place.</span></p>

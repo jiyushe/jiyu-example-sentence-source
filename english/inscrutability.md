@@ -1,5 +1,7 @@
 # inscrutability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inscrutability.md)
+
 <p><span class="chinese">你不会相信这是个多麽不可思议的事物。</span><span class="english">You won't believe what an inscrutability it is.</span></p>
 
 <p><span class="chinese">具有实时性要求高、环境不可预测等特点。</span><span class="english">It has high demand of real time and inscrutability of environment.</span></p>

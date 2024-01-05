@@ -1,5 +1,7 @@
 # commendatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commendatory.md)
+
 <p><span class="chinese">然而，“政治家”一词带有褒义色彩。</span><span class="english">However, the word "statesman" has a commendatory sense.</span></p>
 
 <p><span class="chinese">本来想让你用一个好成语夸夸我。</span><span class="english">I anticipated a commendatory idiom from you to praise me.</span></p>

@@ -1,5 +1,7 @@
 # chiseled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chiseled.md)
+
 <p><span class="chinese">我在墙上凿了个孔。</span><span class="english">I chiseled a hole in the wall.</span></p>
 
 <p><span class="chinese">那是一座石雕半身像。</span><span class="english">It is a bust chiseled from a rock.</span></p>

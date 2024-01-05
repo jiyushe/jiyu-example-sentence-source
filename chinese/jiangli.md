@@ -1,5 +1,7 @@
 # 奖励
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangli.md)
+
 <p><span class="chinese">没有奖励。</span><span class="english">No reward.</span></p>
 
 <p><span class="chinese">这是给你的奖励。</span><span class="english">This is your reward!</span></p>

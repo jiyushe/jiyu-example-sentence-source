@@ -1,5 +1,7 @@
 # fife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fife.md)
+
 <p><span class="chinese">你真这样看吗，伊夫先生？</span><span class="english">Do you think so, Mr Fife ?</span></p>
 
 <p><span class="chinese">法伊夫先生从来不提起他死去的儿子。</span><span class="english">Mr Fife never speaks of his dead son.</span></p>

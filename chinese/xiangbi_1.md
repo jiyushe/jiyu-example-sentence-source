@@ -1,5 +1,7 @@
 # 相比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangbi_1.md)
+
 <p><span class="chinese">没有人能和他相比。</span><span class="english">No one can set beside him.</span></p>
 
 <p><span class="chinese">所以可以将其与代数相比。</span><span class="english">So, compare it to algebra.</span></p>

@@ -1,5 +1,7 @@
 # 屁股
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pigu.md)
+
 <p><span class="chinese">拉鍊夹到我的屁股。</span><span class="english">The zip bit my hip.</span></p>
 
 <p><span class="chinese">她有个漂亮的屁股。</span><span class="english">She has a nice tush.</span></p>

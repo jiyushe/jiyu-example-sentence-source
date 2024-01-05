@@ -1,5 +1,7 @@
 # forked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forked.md)
+
 <p><span class="chinese">歧路亡羊。</span><span class="english">A lamb goes astray on a forked road.</span></p>
 
 <p><span class="chinese">安用叉子叉起些鱼肉送入口中。</span><span class="english">Ann forked some fish into her mouth.</span></p>

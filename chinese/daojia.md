@@ -1,5 +1,7 @@
 # 到家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daojia.md)
+
 <p><span class="chinese">终于到家了。</span><span class="english">Home at last.</span></p>
 
 <p><span class="chinese">为什么这么迟才回到家?。</span><span class="english">Why are you so late getting home?</span></p>

@@ -1,5 +1,7 @@
 # episode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/episode.md)
+
 <p><span class="chinese">我刚好有看到那一集的播出。</span><span class="english">I happened to see that episode.</span></p>
 
 <p><span class="chinese">多相睡眠Seinfeld剧集</span><span class="english">Polyphasic Sleep Seinfeld Episode</span></p>

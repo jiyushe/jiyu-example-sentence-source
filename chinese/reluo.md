@@ -1,5 +1,7 @@
 # 热络
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reluo.md)
+
 <p><span class="chinese">派对又热络起来。</span><span class="english">The party was back on.</span></p>
 
 <p><span class="chinese">今年夏天的新车销售热络了起来。</span><span class="english">New car sales have heated up this summer.</span></p>

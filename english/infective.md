@@ -1,5 +1,7 @@
 # infective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infective.md)
+
 <p><span class="chinese">患有传染性疾病者禁止入浴。</span><span class="english">Persons with infective disease do not enter.</span></p>
 
 <p><span class="chinese">被具传染性的蚊虫叮咬之后3-14天出现症状。</span><span class="english">Symptoms appear 3—14 days after the infective bite.</span></p>

@@ -1,5 +1,7 @@
 # nafta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nafta.md)
+
 <p><span class="chinese">噢，同时，从现在开始，美国也要取消太平洋自由贸易区谈判。</span><span class="english">Oh, by the way, the United States is abrogating the NAFTA treaty-starting now.</span></p>
 
 <p><span class="chinese">第二章，NAFTA投资争端解决机制中的法庭之友。</span><span class="english">Chapter Two focus on the Amicus Curiae in NAFTA investment dispute settlement mechanism.</span></p>

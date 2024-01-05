@@ -1,5 +1,7 @@
 # primal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primal.md)
+
 <p><span class="chinese">我们主要感受着一种恐慌的情绪。</span><span class="english">We experience a primal feeling of panic.</span></p>
 
 <p><span class="chinese">在原始的天空里，没有月亮。</span><span class="english">In these primal skies, there was no Moon.</span></p>

@@ -1,5 +1,7 @@
 # 认为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renwei.md)
+
 <p><span class="chinese">我这样认为。</span><span class="english">I think so.</span></p>
 
 <p><span class="chinese">我认为是瑞典。</span><span class="english">I think Sweden.</span></p>

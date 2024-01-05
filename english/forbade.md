@@ -1,5 +1,7 @@
 # forbade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forbade.md)
+
 <p><span class="chinese">她不准她的孩子们吃糖。</span><span class="english">She forbade her children sweets.</span></p>
 
 <p><span class="chinese">学校的希勒尔禁止它。</span><span class="english">The school of Hillel forbade it.</span></p>

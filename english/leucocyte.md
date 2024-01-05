@@ -1,5 +1,7 @@
 # leucocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leucocyte.md)
+
 <p><span class="chinese">查白细胞记数需要空腹吗?。</span><span class="english">Check leucocyte to note several need hollow?</span></p>
 
 <p><span class="chinese">白血球偏低应注意什么？</span><span class="english">What should leucocyte on the low side notice?</span></p>

@@ -1,5 +1,7 @@
 # autocratic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autocratic.md)
+
 <p><span class="chinese">人民反对君主专制。</span><span class="english">The people were against autocratic monarchy.</span></p>
 
 <p><span class="chinese">不过截止目前，威权统治下的中国仍执亚洲经济增长之牛耳。</span><span class="english">But, for now, autocratic China remains Asia's lodestar.</span></p>

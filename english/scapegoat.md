@@ -1,5 +1,7 @@
 # scapegoat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scapegoat.md)
+
 <p><span class="chinese">我知道他是个代罪羔羊。</span><span class="english">I know he is the scapegoat.</span></p>
 
 <p><span class="chinese">出错时她总要代人受过。</span><span class="english">She's always the scapegoat when anything goes wrong.</span></p>

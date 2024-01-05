@@ -1,5 +1,7 @@
 # teenager
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teenager.md)
+
 <p><span class="chinese">那里叫少年。</span><span class="english">There is teenager so called.</span></p>
 
 <p><span class="chinese">肥猫其实是个十多岁的青少年。</span><span class="english">Fat-cat is actually a teenager.</span></p>

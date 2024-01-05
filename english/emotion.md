@@ -1,5 +1,7 @@
 # emotion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emotion.md)
+
 <p><span class="chinese">它是非社会性情感。</span><span class="english">It's a nonsocial emotion.</span></p>
 
 <p><span class="chinese">我觉得自己的感情都枯竭了。</span><span class="english">I feel drained of emotion.</span></p>

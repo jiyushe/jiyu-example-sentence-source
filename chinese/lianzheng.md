@@ -1,5 +1,7 @@
 # 廉正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianzheng.md)
+
 <p><span class="chinese">他的朋友们担保说他为人廉正。</span><span class="english">His friends swore him to integrity.</span></p>
 
 <p><span class="chinese">我见到我那将寻求一个廉正一个地方！</span><span class="english">My seeing me is to seek a rightness a place!</span></p>

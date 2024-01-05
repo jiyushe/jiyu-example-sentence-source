@@ -1,5 +1,7 @@
 # synchro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synchro.md)
+
 <p><span class="chinese">同步炮连接能源，准备开火。</span><span class="english">Synchro Cannons on line and ready to fire.</span></p>
 
 <p><span class="chinese">已经好了，长官。同步炮关闭。</span><span class="english">Already on it, sir. Synchro Cannon off line.</span></p>

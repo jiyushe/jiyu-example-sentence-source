@@ -1,5 +1,7 @@
 # Zionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zionism.md)
+
 <p><span class="chinese">举个例子，我们来解释犹太复国运动这个名词，这个名词本身已经变成贬义词了，可对我来说，犹太复国运动就是指犹太人有权回到中东的祖国去，很简单。</span><span class="english">To me, Zionism simply means that Jews have a right to their homeland and the Middle East.</span></p>
 
 <p><span class="chinese">阿拉伯领袖中，也有意识到犹太民族的权利，完全肯定犹太复国运动的正当的。</span><span class="english">Arab leaders, cognizant of the rights of the Jewish people, fully endorsed the virtues of Zionism.</span></p>

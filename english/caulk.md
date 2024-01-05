@@ -1,5 +1,7 @@
 # caulk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caulk.md)
+
 <p><span class="chinese">需要为汽缸做灌浆或防漏。</span><span class="english">Caulk or grouting needed in tub area.</span></p>
 
 <p><span class="chinese">水手们找不到任何东西来填塞船上的裂缝。</span><span class="english">The sailors couldn't find anything to caulk the seam in the boat.</span></p>

@@ -1,5 +1,7 @@
 # globalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/globalize.md)
+
 <p><span class="chinese">中国的品牌全球化进程不需要那么久。</span><span class="english">It won’t take China that long to globalize its brands.</span></p>
 
 <p><span class="chinese">金地集团将发展国际化业务作为公司长期发展战略。</span><span class="english">Gemdale's long-term strategy is to globalize its business.</span></p>

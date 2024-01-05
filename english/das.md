@@ -1,5 +1,7 @@
 # das
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/das.md)
+
 <p><span class="chinese">是摄氏三十度，对不对?。</span><span class="english">Sind das 30 Grad Celsius?</span></p>
 
 <p><span class="chinese">这是王先生和王太太。</span><span class="english">Das sind Herr und Frau Wang.</span></p>

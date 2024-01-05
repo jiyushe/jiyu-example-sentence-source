@@ -1,5 +1,7 @@
 # berg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berg.md)
+
 <p><span class="chinese">当文森特·范登博格来时，他做得很好。</span><span class="english">Vincent van den Berg did well when he came on.</span></p>
 
 <p><span class="chinese">他念了几行，便凶狠地瞟了贝格一眼。</span><span class="english">He read a few lines, and looked wrathfully at Berg.</span></p>

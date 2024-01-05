@@ -1,5 +1,7 @@
 # 字画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zihua.md)
+
 <p><span class="chinese">你可能知道这种字画迷。</span><span class="english">You probably know this kind of puzzles.</span></p>
 
 <p><span class="chinese">平时还喜欢收藏艺术品、字画。</span><span class="english">Crafts collection also like to peacetime.</span></p>

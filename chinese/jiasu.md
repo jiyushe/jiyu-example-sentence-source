@@ -1,5 +1,7 @@
 # 加速
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiasu.md)
+
 <p><span class="chinese">血流加速</span><span class="english">Your blood is racing.</span></p>
 
 <p><span class="chinese">硬件加速。</span><span class="english">Hardware acceleration.</span></p>

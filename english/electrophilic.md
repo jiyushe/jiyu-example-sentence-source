@@ -1,5 +1,7 @@
 # electrophilic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrophilic.md)
+
 <p><span class="chinese">亲电基取代位置和实验值完全一致。</span><span class="english">The substituting position of electrophilic group accord with experimental value.</span></p>
 
 <p><span class="chinese">同时通过改变氯磺酸与聚醚砜的摩尔比，可以对反应进行控制。</span><span class="english">It is very difficult to sulfonate PES by electrophilic aromatic substitution reaction.</span></p>

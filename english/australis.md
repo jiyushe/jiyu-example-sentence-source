@@ -1,5 +1,7 @@
 # australis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/australis.md)
+
 <p><span class="chinese">在澳洲。有很多考拉在澳洲。</span><span class="english">In Australis. There are many koalas in Australis.</span></p>
 
 <p><span class="chinese">目的测定铁苋菜中没食子酸的含量。</span><span class="english">Objective To determine the content of gallic acid in Acalypha australis L.</span></p>

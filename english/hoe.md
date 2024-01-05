@@ -1,5 +1,7 @@
 # hoe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoe.md)
+
 <p><span class="chinese">这把锄头太笨。</span><span class="english">This is an awkward hoe.</span></p>
 
 <p><span class="chinese">这把锄我使着很对劲儿。</span><span class="english">This hoe suits me very well.</span></p>

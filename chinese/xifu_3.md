@@ -1,5 +1,7 @@
 # 西服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xifu_3.md)
+
 <p><span class="chinese">黑色的西服是你的吗？</span><span class="english">Is this black one yours?</span></p>
 
 <p><span class="chinese">他穿着一套蓝色哔叽西服。</span><span class="english">He wore a blue serge suit.</span></p>

@@ -1,5 +1,7 @@
 # 土黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuhuang.md)
+
 <p><span class="chinese">假山用的趸千层石，要求颜色为土黄，青色居多。</span><span class="english">Qianceng stone rockery, request color is yellow, blue.</span></p>
 
 <p><span class="chinese">漫长的土黄大道引领我到任何我想去的地方。</span><span class="english">The long brown path before me leading wherever I choose.</span></p>

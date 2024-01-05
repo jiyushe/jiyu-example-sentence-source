@@ -1,5 +1,7 @@
 # 二审
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ershen.md)
+
 <p><span class="chinese">二审法院将择日宣判。</span><span class="english">Court of second instance will choose a sentencing date.</span></p>
 
 <p><span class="chinese">在中国，真正的斗争往往开始于案件移交到二审上诉法庭之后。</span><span class="english">In China the fight often begins only once a case hits the appeals court.</span></p>

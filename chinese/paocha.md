@@ -1,5 +1,7 @@
 # 泡茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paocha.md)
+
 <p><span class="chinese">把水烧开泡茶。</span><span class="english">Boil the water for the tea.</span></p>
 
 <p><span class="chinese">她用开水泡茶。</span><span class="english">She makes tea with boiling water.</span></p>

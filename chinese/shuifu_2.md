@@ -1,5 +1,7 @@
 # 说服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuifu_2.md)
+
 <p><span class="chinese">我们可以说服你们吗？</span><span class="english">Can we convince you?</span></p>
 
 <p><span class="chinese">我说服你们了吗？</span><span class="english">Have I convinced you?</span></p>

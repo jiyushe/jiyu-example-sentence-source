@@ -1,5 +1,7 @@
 # 美好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meihao.md)
+
 <p><span class="chinese">这是一种美好的祈愿。</span><span class="english">This is a good wish.</span></p>
 
 <p><span class="chinese">毕竟一切都是美好的。</span><span class="english">All that is, is good.</span></p>

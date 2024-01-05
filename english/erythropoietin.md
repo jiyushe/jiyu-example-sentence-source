@@ -1,5 +1,7 @@
 # erythropoietin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erythropoietin.md)
+
 <p><span class="chinese">目的探讨红细胞生成素对小鼠化疗所致贫血的预防作用。</span><span class="english">Objective To investigate the prevention effect of erythropoietin on chemotherapy-induced anemia.</span></p>
 
 <p><span class="chinese">目的探讨促红细胞生成素在血液透析患者治疗过程中对脂质代谢的影响。</span><span class="english">Objective To investigate the effects of erythropoietin on the lipid metabolism in hemodialysis patients.</span></p>

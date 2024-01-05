@@ -1,5 +1,7 @@
 # nonpayment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonpayment.md)
+
 <p><span class="chinese">他因没有支付去年的税而惹出麻烦了。</span><span class="english">He was in trouble for nonpayment of his last year's tax.</span></p>
 
 <p><span class="chinese">拖欠月费或年费60天的会员将被视为自动退出。</span><span class="english">Membership will be invalidated after 60 days of nonpayment of annual or monthly fee.</span></p>

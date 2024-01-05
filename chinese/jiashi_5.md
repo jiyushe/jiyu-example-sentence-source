@@ -1,5 +1,7 @@
 # 家室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashi_5.md)
+
 <p><span class="chinese">他不愿有家室拖累。</span><span class="english">He refused to lumber himself with a family.</span></p>
 
 <p><span class="chinese">你们要按家室拈阄，承受那地。</span><span class="english">Distribute the land by lot, according to your clans.</span></p>

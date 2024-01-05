@@ -1,5 +1,7 @@
 # gillian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gillian.md)
+
 <p><span class="chinese">吉利恩是最佳种子选手之一。</span><span class="english">Gillian is one of the top seeds.</span></p>
 
 <p><span class="chinese">吉莉安喜欢简单的穿著。</span><span class="english">Gillian likes to wear simple clothes.</span></p>

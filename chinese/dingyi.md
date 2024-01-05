@@ -1,5 +1,7 @@
 # 定义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingyi.md)
+
 <p><span class="chinese">更多的定义。</span><span class="english">More definitions.</span></p>
 
 <p><span class="chinese">定义和目标。</span><span class="english">Define and Target.</span></p>

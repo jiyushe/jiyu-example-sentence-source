@@ -1,5 +1,7 @@
 # spermatogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spermatogenic.md)
+
 <p><span class="chinese">这往往伴随生精细胞的不可逆损伤。</span><span class="english">This is often accompanied by spermatogenic cells of non-reversible damage.</span></p>
 
 <p><span class="chinese">睾丸生殖细胞的凋亡是一个由多基因参与的复杂过程。</span><span class="english">Testis spermatogenic cell apoptosis is a complicated polygene-related process.</span></p>

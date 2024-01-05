@@ -1,5 +1,7 @@
 # immunocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunocyte.md)
+
 <p><span class="chinese">IL一2能增强机体免疫细胞对病原微生物的杀伤能力。</span><span class="english">IL-2 can strength the sterilization ability of immunocyte to pathogens.</span></p>
 
 <p><span class="chinese">淋巴细胞为主，CIK细胞是抗病毒、直接杀伤肿瘤细胞的主要免疫细胞。</span><span class="english">CIK cell is a kind of anti-vims cell and is an important immunocyte to kill the tumor cell directly.</span></p>

@@ -1,5 +1,7 @@
 # 一道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidao.md)
+
 <p><span class="chinese">它是一道催化剂。</span><span class="english">It’s a catalyst.</span></p>
 
 <p><span class="chinese">一道对着花园的铁栏门。</span><span class="english">A gate on a garden.</span></p>

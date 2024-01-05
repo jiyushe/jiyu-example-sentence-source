@@ -1,5 +1,7 @@
 # beseech
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beseech.md)
+
 <p><span class="chinese">我们现在鞠躬并且乞求你！</span><span class="english">We now bow and beseech you!</span></p>
 
 <p><span class="chinese">我乞求你宽恕我。</span><span class="english">I beseech you to forgive me.</span></p>

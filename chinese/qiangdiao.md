@@ -1,5 +1,7 @@
 # 强调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangdiao.md)
+
 <p><span class="chinese">强调句子认读。</span><span class="english">Read the sentences.</span></p>
 
 <p><span class="chinese">我一直强调说，艾文斯并没有罪。</span><span class="english">I'm not saying he's guilty.</span></p>

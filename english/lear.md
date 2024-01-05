@@ -1,5 +1,7 @@
 # lear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lear.md)
+
 <p><span class="chinese">孩子们爱李尔先生，也爱他的诗歌。</span><span class="english">The children loved Mr Lear and his poems.</span></p>
 
 <p><span class="chinese">我有一位飞了美国空军的李尔喷气式飞机的朋友。</span><span class="english">I have a friend who flew Lear Jets for the U. S.</span></p>

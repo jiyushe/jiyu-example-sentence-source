@@ -1,5 +1,7 @@
 # 扫射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saoshe.md)
+
 <p><span class="chinese">持枪者开枪扫射整个城镇。</span><span class="english">The gunfighters shot up the town.</span></p>
 
 <p><span class="chinese">他用机枪扫射敌机。</span><span class="english">He machine-gunned the enemy planes.</span></p>

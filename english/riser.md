@@ -1,5 +1,7 @@
 # riser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riser.md)
+
 <p><span class="chinese">调整隔水管张力。</span><span class="english">Adjust the riser tensioners.</span></p>
 
 <p><span class="chinese">很多年以来，我一直起床比较晚。</span><span class="english">For many years, I was a late riser.</span></p>

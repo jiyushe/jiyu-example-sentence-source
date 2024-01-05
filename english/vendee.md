@@ -1,5 +1,7 @@
 # vendee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vendee.md)
+
 <p><span class="chinese">在环球帆船赛中，女帆船手埃伦·麦克阿瑟在全球温迪挑战赛中破纪录的表演之后在陆地上过了第一晚。</span><span class="english">Ellen MacArthur has spent her first night on land after her record breaking performance in the Globe Vendee Challenge.</span></p>
 
 <p><span class="chinese">甲方应在每次下达订单的同时，提供下三个月的滚动需求预测。</span><span class="english">The Vendee shall provide the Vendor with the rolling forecast of the raw material demand in the next three months while placing the release order.</span></p>

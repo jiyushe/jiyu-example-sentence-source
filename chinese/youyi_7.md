@@ -1,5 +1,7 @@
 # 游艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyi_7.md)
+
 <p><span class="chinese">晚上收工的时候，我已经同意加入他们的巡回游艺团了。</span><span class="english">By the end of the night, I had agreed to join their carnival.</span></p>
 
 <p><span class="chinese">这就是这种大型棋牌游艺社区的魅力。</span><span class="english">This is such a large-scale charm Card entertainment community.</span></p>

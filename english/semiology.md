@@ -1,5 +1,7 @@
 # semiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiology.md)
+
 <p><span class="chinese">符号学是什么？</span><span class="english">What is semiology?</span></p>
 
 <p><span class="chinese">少数民族文学是符号学研究的广阔天地。</span><span class="english">The ethnic minority literature provides a wide world for semiology to study and research.</span></p>

@@ -1,5 +1,7 @@
 # testing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/testing.md)
+
 <p><span class="chinese">在动物体上试验。</span><span class="english">Testing in Animals.</span></p>
 
 <p><span class="chinese">我们正在测试什么？</span><span class="english">What are we testing?</span></p>

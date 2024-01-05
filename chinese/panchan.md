@@ -1,5 +1,7 @@
 # 盘缠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panchan.md)
+
 <p><span class="chinese">水手把绳子盘缠在锚上。</span><span class="english">The sailor coiled the rope around the anchor.</span></p>
 
 <p><span class="chinese">临走，又送那人不少盘缠。</span><span class="english">Face, send that person many travelling expenses again.</span></p>

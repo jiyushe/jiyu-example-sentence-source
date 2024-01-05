@@ -1,5 +1,7 @@
 # merton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merton.md)
+
 <p><span class="chinese">连续时间金融。</span><span class="english">Continuous-time Finance Merton R. C.</span></p>
 
 <p><span class="chinese">年罗伯特•默顿和迈伦•斯</span><span class="english">to Robert Merton and Myron Scholes in 1997</span></p>

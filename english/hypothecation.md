@@ -1,5 +1,7 @@
 # hypothecation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothecation.md)
+
 <p><span class="chinese">建立了旨在分散风险的再担保机制。</span><span class="english">The double hypothecation mechanism is bulied for separate risk.</span></p>
 
 <p><span class="chinese">最后，研究动产抵押应关注抵押权实现的顺位问题。</span><span class="english">Lastly, realization order of chattel hypothecation shall be addressed.</span></p>

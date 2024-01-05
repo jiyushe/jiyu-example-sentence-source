@@ -1,5 +1,7 @@
 # mim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mim.md)
+
 <p><span class="chinese">现在蛮夫人变成了一条丑陋的龙。</span><span class="english">Now Madam Mim is an ugly dragon.</span></p>
 
 <p><span class="chinese">蛮夫人变成了一只粉红色的狐狸。</span><span class="english">And Madam Mim becomes a pink fox.</span></p>

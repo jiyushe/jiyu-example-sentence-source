@@ -1,5 +1,7 @@
 # misogynist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misogynist.md)
+
 <p><span class="chinese">我甚至并不认为这是一种讨厌女人的态度。</span><span class="english">I don’t even think I’d call it misogynist.</span></p>
 
 <p><span class="chinese">我觉得他是个厌恶女人的人并且完全情绪失控。</span><span class="english">I believe he is a misogynist and completely out of control.</span></p>

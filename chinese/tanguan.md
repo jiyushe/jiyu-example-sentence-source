@@ -1,5 +1,7 @@
 # 贪官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanguan.md)
+
 <p><span class="chinese">贪官站在被告席上。</span><span class="english">The corrupt official stood in the dock.</span></p>
 
 <p><span class="chinese">他徇私舞弊，是个贪官。</span><span class="english">Investigation of fraud was their commission.</span></p>

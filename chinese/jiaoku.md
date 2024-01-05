@@ -1,5 +1,7 @@
 # 叫苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoku.md)
+
 <p><span class="chinese">人也一样叫苦呢。</span><span class="english">And people also.</span></p>
 
 <p><span class="chinese">叫苦的倒是那些狗呢。</span><span class="english">It's the dogs who complain.</span></p>

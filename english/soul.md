@@ -1,5 +1,7 @@
 # soul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soul.md)
+
 <p><span class="chinese">你的灵魂。</span><span class="english">Your soul.</span></p>
 
 <p><span class="chinese">随同著一颗杂净的心灵?。</span><span class="english">I'm a new soul?</span></p>

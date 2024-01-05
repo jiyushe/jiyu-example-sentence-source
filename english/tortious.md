@@ -1,5 +1,7 @@
 # tortious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tortious.md)
+
 <p><span class="chinese">侵权行为与损害结果之间存在因果关系。</span><span class="english">Tortious behavior is the reason of damage consequence.</span></p>
 
 <p><span class="chinese">所有人都受侵权法的保护，包括胎儿在内。</span><span class="english">Everyone is protected against tortious acts, including the embryo.</span></p>

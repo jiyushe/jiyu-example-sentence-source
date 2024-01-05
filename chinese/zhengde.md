@@ -1,5 +1,7 @@
 # 争得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengde.md)
+
 <p><span class="chinese">莫妮卡和罗斯为家族的“盖勒杯”争得头破血流。</span><span class="english">Monica and Ross compete for the "Geller Cup."</span></p>
 
 <p><span class="chinese">争得够呛，弄得咱们一晚上没眨眼皮。</span><span class="english">The couple had a heck of an argument and kept us awake all night.</span></p>

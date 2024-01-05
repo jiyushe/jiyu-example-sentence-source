@@ -1,5 +1,7 @@
 # 不得人心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buderenxin.md)
+
 <p><span class="chinese">他是一个不得人心的国王。</span><span class="english">He's an extremely unpopular king.</span></p>
 
 <p><span class="chinese">立法机关废除了不得人心的租借法案。</span><span class="english">The legislature repealed the unpopular Rent Act.</span></p>

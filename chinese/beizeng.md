@@ -1,5 +1,7 @@
 # 倍增
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beizeng.md)
+
 <p><span class="chinese">是什么让你压力倍增？</span><span class="english">What is stressing you out?</span></p>
 
 <p><span class="chinese">存货倍增。</span><span class="english">Goods in storage are doubled.</span></p>

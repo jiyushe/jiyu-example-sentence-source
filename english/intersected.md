@@ -1,5 +1,7 @@
 # intersected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intersected.md)
+
 <p><span class="chinese">主要是他们是交叉由前方和后方，护舷。</span><span class="english">Primarily they are intersected by the front and rear fenders.</span></p>
 
 <p><span class="chinese">因为日本是农耕民族，与稻米有着不可分割的联系。</span><span class="english">Because Japan is farming nation, and rice has not intersected connection.</span></p>

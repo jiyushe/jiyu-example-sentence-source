@@ -1,5 +1,7 @@
 # chromosome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromosome.md)
+
 <p><span class="chinese">染色体数量、X染色体、Y染色体</span><span class="english">Chromosome numbers and Xs and Ys</span></p>
 
 <p><span class="chinese">那么我们真的有那么一条染色体么？</span><span class="english">Do we have a chromosome like that?</span></p>

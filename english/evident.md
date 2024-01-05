@@ -1,5 +1,7 @@
 # evident
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evident.md)
+
 <p><span class="chinese">但是进步是明显的。</span><span class="english">Yet progress is evident.</span></p>
 
 <p><span class="chinese">他们明显的表现出了担心。</span><span class="english">Their apprehension evident.</span></p>

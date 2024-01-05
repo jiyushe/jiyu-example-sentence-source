@@ -1,5 +1,7 @@
 # 戒酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejiu.md)
+
 <p><span class="chinese">你确实戒酒了吗，哈普？</span><span class="english">Are you sure you quit, Harp?</span></p>
 
 <p><span class="chinese">老板要求那个酒鬼戒酒。</span><span class="english">The boss asked the drinker to dry out.</span></p>

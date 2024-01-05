@@ -1,5 +1,7 @@
 # arlene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arlene.md)
+
 <p><span class="chinese">我希望他和阿琳分手。</span><span class="english">I wish he'd break up with Arlene.</span></p>
 
 <p><span class="chinese">他们在我的老家那儿杀了一个叫爱琳•哈布丽的女孩。</span><span class="english">They killed a girl named Arlene Hubly where I grew up.</span></p>

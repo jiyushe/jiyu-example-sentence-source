@@ -1,5 +1,7 @@
 # 众口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongkou.md)
+
 <p><span class="chinese">众口相传，消息不胫而走。</span><span class="english">The news was passed on by word of mouth.</span></p>
 
 <p><span class="chinese">一个诚实的声音胜过众口多言。</span><span class="english">One honest voice can be louder than a crow.</span></p>

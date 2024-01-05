@@ -1,5 +1,7 @@
 # necessarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necessarily.md)
+
 <p><span class="chinese">不，不一定。</span><span class="english">No, not necessarily.</span></p>
 
 <p><span class="chinese">他未必知道。</span><span class="english">He doesn't necessarily know.</span></p>

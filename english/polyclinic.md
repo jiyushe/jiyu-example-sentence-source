@@ -1,5 +1,7 @@
 # polyclinic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyclinic.md)
+
 <p><span class="chinese">结论综合医院开设开放式心理病房是有效、可行和安全的。</span><span class="english">Conclusion Setup of on-limits sickrooms in polyclinic was effective, feasible and safe.</span></p>
 
 <p><span class="chinese">方法抽取吉林市14所医院的572位医护人员以调查问卷的形式进行艾滋病职业暴露的调查。</span><span class="english">Methods 572 doctors and nurses worked 14 polyclinic hospital were investigated in Jilin City.</span></p>

@@ -1,5 +1,7 @@
 # dressing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dressing.md)
+
 <p><span class="chinese">在化妆间。</span><span class="english">In a dressing room.</span></p>
 
 <p><span class="chinese">他喜欢穿着入时。</span><span class="english">He loved dressing well.</span></p>

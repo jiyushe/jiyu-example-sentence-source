@@ -1,5 +1,7 @@
 # busyness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busyness.md)
+
 <p><span class="chinese">忙碌平凡的一天就这样开始了。</span><span class="english">Then, a busyness but banal day was began.</span></p>
 
 <p><span class="chinese">她不久就习惯城市生活的喧闹繁忙。</span><span class="english">She used to rumpus and busyness in city life soon.</span></p>

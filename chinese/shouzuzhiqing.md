@@ -1,5 +1,7 @@
 # 手足之情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzuzhiqing.md)
+
 <p><span class="chinese">但是，兄弟三个关系不错，手足之情牢不可破。</span><span class="english">Yet they were three fine, well-set fellows enough.</span></p>
 
 <p><span class="chinese">煽动阶级仇恨不能够增进人类的手足之情。</span><span class="english">You cannot further the brotherhood of man by inciting class hatred.</span></p>

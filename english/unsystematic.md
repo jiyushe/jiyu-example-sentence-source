@@ -1,5 +1,7 @@
 # unsystematic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsystematic.md)
+
 <p><span class="chinese">自治法是一种非体系化状态。</span><span class="english">Autonomous legislation is an unsystematic state.</span></p>
 
 <p><span class="chinese">数百年来，这都是一个混乱、无系统的行业。</span><span class="english">For centuries, it was an unregulated, unsystematic business.</span></p>

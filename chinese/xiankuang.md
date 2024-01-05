@@ -1,5 +1,7 @@
 # 现况
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiankuang.md)
+
 <p><span class="chinese">全书依实际调查现况分为11章，1。导言。</span><span class="english">In total, the book has 11 chapters.</span></p>
 
 <p><span class="chinese">这是现实，但现况并不理想。</span><span class="english">This is the reality, but it is not the ideal.</span></p>

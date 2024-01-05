@@ -1,5 +1,7 @@
 # 携家带口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiejiadaikou.md)
+
 <p><span class="chinese">你出国打球，是和别人一样独自出去闯荡江湖，还是携家带口一起去？</span><span class="english">Do you take your family with you when you have to play overseas or you are alone like many others?</span></p>
 
 <p><span class="chinese">在灾难的折磨下，他携家带口来到萨利郡的一处乡间静居霍庄园。</span><span class="english">Overwhelmed by the catastrophe, he retired with his family to Hoe Farm, a country retreat in Surrey.</span></p>

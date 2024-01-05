@@ -1,5 +1,7 @@
 # militarist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/militarist.md)
+
 <p><span class="chinese">作为一位军事家，他必须有战术意识。</span><span class="english">As a militarist , he must have tactical awareness.</span></p>
 
 <p><span class="chinese">日本军国主义者发动了全面侵华战争。</span><span class="english">Japan militarist launched the all-sided war of invading China.</span></p>

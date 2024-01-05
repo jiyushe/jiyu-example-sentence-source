@@ -1,5 +1,7 @@
 # fungicidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fungicidal.md)
+
 <p><span class="chinese">混酯产物具有很强的抑菌作用。</span><span class="english">This mixed product has a strong fungicidal action.</span></p>
 
 <p><span class="chinese">它也用来起强化防腐油的杀菌作用。</span><span class="english">It has also been used to fortify the fungicidal action of creosote.</span></p>

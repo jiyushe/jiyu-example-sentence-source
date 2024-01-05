@@ -1,5 +1,7 @@
 # preventative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preventative.md)
+
 <p><span class="chinese">我把它看成是预防药。</span><span class="english">I look at this as preventative medicine.</span></p>
 
 <p><span class="chinese">我只是不确定咖啡是真正的预防方法。</span><span class="english">I’m just not convinced that coffee is the real preventative here.</span></p>

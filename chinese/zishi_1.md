@@ -1,5 +1,7 @@
 # 子实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishi_1.md)
+
 <p><span class="chinese">蟹子实正须要的是心头的夸奖。</span><span class="english">What Crabs are really seeking is oral gratification.</span></p>
 
 <p><span class="chinese">水稻灌浆过程是子实吸收养分和水分的过程。</span><span class="english">Rice milking stage is a process in that seeds absorb nutrient and water.</span></p>

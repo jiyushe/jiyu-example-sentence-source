@@ -1,5 +1,7 @@
 # niggard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/niggard.md)
+
 <p><span class="chinese">什么是小气鬼？</span><span class="english">What is niggard?</span></p>
 
 <p><span class="chinese">“讨价还价”的人就是“小气鬼”吗？</span><span class="english">Is the one who "bargains" a "niggard"?</span></p>

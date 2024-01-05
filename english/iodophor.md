@@ -1,5 +1,7 @@
 # iodophor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iodophor.md)
+
 <p><span class="chinese">使用碘递体或漂白。</span><span class="english">Use iodophor or bleach instead.</span></p>
 
 <p><span class="chinese">WD复合碘为碘伏类消毒剂。</span><span class="english">WD complex iodine is a Kind of new iodophor.</span></p>

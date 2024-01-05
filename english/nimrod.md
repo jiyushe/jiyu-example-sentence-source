@@ -1,5 +1,7 @@
 # nimrod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nimrod.md)
+
 <p><span class="chinese">他以尼姆罗德之名做了那件事。</span><span class="english">He did it under the name of Nimrod.</span></p>
 
 <p><span class="chinese">他用尼姆罗德这个名字写作。</span><span class="english">He writes under the name of Nimrod.</span></p>

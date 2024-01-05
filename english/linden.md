@@ -1,5 +1,7 @@
 # linden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linden.md)
+
 <p><span class="chinese">丹尼斯•林登想要惊声尖叫。</span><span class="english">Dennis Linden wanted to scream.</span></p>
 
 <p><span class="chinese">银叶椴种子的休眠原因。</span><span class="english">Resting reason of silver linden seed.</span></p>

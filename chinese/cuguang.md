@@ -1,5 +1,7 @@
 # 粗犷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuguang.md)
+
 <p><span class="chinese">在这雄伟粗犷的太行山中。</span><span class="english">In the craggy Taihang Mountains.</span></p>
 
 <p><span class="chinese">他的面容粗犷而干炼。</span><span class="english">He had a bluff, rough-and-ready face.</span></p>

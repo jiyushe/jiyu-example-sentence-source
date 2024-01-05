@@ -1,5 +1,7 @@
 # 未尝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weichang_1.md)
+
 <p><span class="chinese">我们敢于走前人未尝走过的新路。</span><span class="english">We dare to break a path unbeaten before.</span></p>
 
 <p><span class="chinese">暑假过得不敢说收获颇丰，倒也未尝白过。</span><span class="english">Summer vacation was not fruitful, but also have a white cross.</span></p>

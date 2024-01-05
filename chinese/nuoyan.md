@@ -1,5 +1,7 @@
 # 诺言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuoyan.md)
+
 <p><span class="chinese">履行诺言将是责无旁贷的。</span><span class="english">Fulfilling it will be tough.</span></p>
 
 <p><span class="chinese">他背弃了自己的诺言。</span><span class="english">He receded from his promise.</span></p>

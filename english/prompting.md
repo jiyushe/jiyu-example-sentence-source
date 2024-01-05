@@ -1,5 +1,7 @@
 # prompting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prompting.md)
+
 <p><span class="chinese">这会使示例脚本在没有任何提示的情况下运行。</span><span class="english">This causes the sample script to run without prompting.</span></p>
 
 <p><span class="chinese">纽约队不太需要他们的教练比尔·帕索斯的鼓动。</span><span class="english">New York needed little prompting from their coach Bill Parcells.</span></p>

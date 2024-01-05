@@ -1,5 +1,7 @@
 # 虽说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suishuo.md)
+
 <p><span class="chinese">虽说它并不特别有趣，但是我喜欢它。</span><span class="english">It wasn't the funniest but I liked it.</span></p>
 
 <p><span class="chinese">我是说，虽说社会观念已经变了…</span><span class="english">I mean the sociosexual mores have really shifted.</span></p>

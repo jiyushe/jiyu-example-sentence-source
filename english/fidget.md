@@ -1,5 +1,7 @@
 # fidget
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fidget.md)
+
 <p><span class="chinese">也不要摆弄鼠标。</span><span class="english">Don't fidget with the mouse, either.</span></p>
 
 <p><span class="chinese">我们坐卧不宁，烦躁不安。</span><span class="english">We cannot sit still, but we must fidget.</span></p>

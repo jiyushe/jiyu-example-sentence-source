@@ -1,5 +1,7 @@
 # 分野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenye_1.md)
+
 <p><span class="chinese">在演奏者和乐曲之间没有分野。</span><span class="english">There's no boundary between player and song.</span></p>
 
 <p><span class="chinese">基督徒教会是真正没有阶级分野的社会。</span><span class="english">The Christian Church is a truly classless society.</span></p>

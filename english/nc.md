@@ -1,5 +1,7 @@
 # nc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nc.md)
+
 <p><span class="chinese">数控其他金属加工工序。</span><span class="english">NC for Other Metalworking processes.</span></p>
 
 <p><span class="chinese">它是北卡罗来纳最大的城市之一。</span><span class="english">It is one of the biggest cities in NC.</span></p>

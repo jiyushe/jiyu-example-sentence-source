@@ -1,5 +1,7 @@
 # bend 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bend.md)
+
 <p><span class="chinese">让我的膝盖不能打弯！</span><span class="english">I can't bend my knees!</span></p>
 
 <p><span class="chinese">缓慢曲膝。</span><span class="english">Slowly bend the knees.</span></p>

@@ -1,5 +1,7 @@
 # 旅馆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvguan.md)
+
 <p><span class="chinese">某破烂的旅馆房间。</span><span class="english">A SEEDY HOTEL ROOM.</span></p>
 
 <p><span class="chinese">忘了旅馆的名字。</span><span class="english">Forget name of hotel.</span></p>

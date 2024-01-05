@@ -1,5 +1,7 @@
 # colonialist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colonialist.md)
+
 <p><span class="chinese">卡扎菲不停的谴责不消停的基地组织和殖民情节。</span><span class="english">Gaddafi repeatedly blamed the unrest on al-Qaeda and a "colonialist plot".</span></p>
 
 <p><span class="chinese">马贡多镇的最终消失，寓义殖民文化的消亡。</span><span class="english">The Macondo Town perished with a symbolic death of the colonialist culture.</span></p>

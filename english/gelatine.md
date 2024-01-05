@@ -1,5 +1,7 @@
 # gelatine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gelatine.md)
+
 <p><span class="chinese">溶解鱼胶粉于水中。</span><span class="english">Dissolve the gelatine with water.</span></p>
 
 <p><span class="chinese">把鱼胶粉及热水混和。</span><span class="english">Dissolve gelatine powder with hot water.</span></p>

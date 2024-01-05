@@ -1,5 +1,7 @@
 # 殖民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhimin.md)
+
 <p><span class="chinese">谁曾殖民过加拿大?</span><span class="english">By whom was Canada settled?</span></p>
 
 <p><span class="chinese">过去我们为非殖民化而战。</span><span class="english">We fought for decolonization.</span></p>

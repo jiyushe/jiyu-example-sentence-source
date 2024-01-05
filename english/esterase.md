@@ -1,5 +1,7 @@
 # esterase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esterase.md)
+
 <p><span class="chinese">酯酶同功酶显示5条酶带。</span><span class="english">Esterase isoenzyme of the egg consists of 5 bands.</span></p>
 
 <p><span class="chinese">飞行材料的过氧化物酶活性也高于地面对照组。</span><span class="english">The isozymes of peroxidases, esterase and soluble proteins were also evaluated.</span></p>

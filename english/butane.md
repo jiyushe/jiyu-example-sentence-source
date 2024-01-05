@@ -1,5 +1,7 @@
 # butane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butane.md)
+
 <p><span class="chinese">丁烷的同分异构体。</span><span class="english">An isomer of butane.</span></p>
 
 <p><span class="chinese">例如可以是丁烷或异丁烷。</span><span class="english">For example, can be butane or isobutane.</span></p>

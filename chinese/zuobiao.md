@@ -1,5 +1,7 @@
 # 坐标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuobiao.md)
+
 <p><span class="chinese">跑去烈日石居住地，坐标是在46.59。</span><span class="english">Run to Sun Rock Retreat at 46.59.</span></p>
 
 <p><span class="chinese">也可能取其中一个坐标。</span><span class="english">It might be one of the coordinates.</span></p>

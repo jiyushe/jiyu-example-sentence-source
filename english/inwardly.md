@@ -1,5 +1,7 @@
 # inwardly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inwardly.md)
+
 <p><span class="chinese">暗洒线抛却为谁?。</span><span class="english">For whom weep inwardly?</span></p>
 
 <p><span class="chinese">我们暗地替他高兴。</span><span class="english">We inwardly rejoiced for him.</span></p>

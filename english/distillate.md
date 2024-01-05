@@ -1,5 +1,7 @@
 # distillate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distillate.md)
+
 <p><span class="chinese">汽油和馏分油库存也出现了下降。</span><span class="english">Gasoline and distillate stocks also fell.</span></p>
 
 <p><span class="chinese">稠化油由精炼的馏出物或矿产原油制成。</span><span class="english">The gelled oil is made of refined distillate or lease crude.</span></p>

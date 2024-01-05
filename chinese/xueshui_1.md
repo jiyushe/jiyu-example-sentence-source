@@ -1,5 +1,7 @@
 # 雪水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueshui_1.md)
+
 <p><span class="chinese">在春天因为融化的雪水很多小溪都涨满了。</span><span class="english">In spring the brooks would run high with meltwater.</span></p>
 
 <p><span class="chinese">这里看不到冰雪的迹象，只有融化的雪水裹挟着泥沙顺流而下。</span><span class="english">There's no sign of ice, just a river roiling with silt-laden melt.</span></p>

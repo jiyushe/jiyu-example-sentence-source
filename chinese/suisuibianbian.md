@@ -1,5 +1,7 @@
 # 随随便便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suisuibianbian.md)
+
 <p><span class="chinese">你只是在随随便便打拳击。</span><span class="english">You're only playing at boxing.</span></p>
 
 <p><span class="chinese">没有事情随随便便发生，都是计划的一部分。宿命论！</span><span class="english">Nothing just happens,it's all part of a plan.</span></p>

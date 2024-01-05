@@ -1,5 +1,7 @@
 # fireproofing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fireproofing.md)
+
 <p><span class="chinese">所以，问题的防火安全是相对的更多。</span><span class="english">So the problems of fireproofing security are relative more.</span></p>
 
 <p><span class="chinese">铝塑复合板的厚度对防火特性也有影响。</span><span class="english">The panel thickness also affects the fireproofing characteristics.</span></p>

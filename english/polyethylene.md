@@ -1,5 +1,7 @@
 # polyethylene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyethylene.md)
+
 <p><span class="chinese">胶块用聚乙烯薄膜包封。</span><span class="english">Rubber block with polyethylene film.</span></p>
 
 <p><span class="chinese">以聚乙烯胶合布为基材。</span><span class="english">Polyethylene cloth glued to the basement.</span></p>

@@ -1,5 +1,7 @@
 # 拮据
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieju.md)
+
 <p><span class="chinese">但是这是库萨克的拮据时期。</span><span class="english">But these are lean times for Cusack.</span></p>
 
 <p><span class="chinese">可是以往的生活并不拮据。</span><span class="english">But previously, it was with unstinted means.</span></p>

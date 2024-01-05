@@ -1,5 +1,7 @@
 # effigy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effigy.md)
+
 <p><span class="chinese">焚烧某人的肖像以泄恨。</span><span class="english">Burn a person in effigy.</span></p>
 
 <p><span class="chinese">通常，人们用旧报纸和爆竹装扮稻草人。</span><span class="english">This effigy is decorated with old newspapers and firecrackers.</span></p>

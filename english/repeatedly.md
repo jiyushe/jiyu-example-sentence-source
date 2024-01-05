@@ -1,5 +1,7 @@
 # repeatedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repeatedly.md)
+
 <p><span class="chinese">再三道歉。</span><span class="english">Apologize repeatedly.</span></p>
 
 <p><span class="chinese">做事老有反复。</span><span class="english">Do things have repeatedly old.</span></p>

@@ -1,5 +1,7 @@
 # flipping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flipping.md)
+
 <p><span class="chinese">你能不能不要一直换台。</span><span class="english">Could you stop flipping the channel?</span></p>
 
 <p><span class="chinese">为什么炒房会再次流行起来？</span><span class="english">Why is house flipping back in vogue?</span></p>

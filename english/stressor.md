@@ -1,5 +1,7 @@
 # stressor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stressor.md)
+
 <p><span class="chinese">金钱是主要的压力源。</span><span class="english">Money is a major stressor.</span></p>
 
 <p><span class="chinese">它是我生命中第一号压力源。</span><span class="english">It is the No.1 stressor in my life.</span></p>

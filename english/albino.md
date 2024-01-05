@@ -1,5 +1,7 @@
 # albino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albino.md)
+
 <p><span class="chinese">那是月亮的白子小孩。</span><span class="english">A moon 's albino child.</span></p>
 
 <p><span class="chinese">我母亲是半个白化病人。</span><span class="english">My mother is part albino.</span></p>

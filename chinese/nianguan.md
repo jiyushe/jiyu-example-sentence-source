@@ -1,5 +1,7 @@
 # 年关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianguan.md)
+
 <p><span class="chinese">年关是一个回顾和展望的好时机。</span><span class="english">The end of the year is the best time to review and look ahead.</span></p>
 
 <p><span class="chinese">在今年关四个月里，美国市场的销售额下跌了超过三分之二。</span><span class="english">US sales were off by more than two-thirds during the first four months of the year.</span></p>

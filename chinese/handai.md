@@ -1,5 +1,7 @@
 # 寒带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/handai.md)
+
 <p><span class="chinese">有些蝴蝶生活在寒带。</span><span class="english">Some live where it's cold.</span></p>
 
 <p><span class="chinese">寒带地区的人寿命较长。</span><span class="english">People in cold areas live longer.</span></p>

@@ -1,5 +1,7 @@
 # dogwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dogwood.md)
+
 <p><span class="chinese">一些人还会带上山萸。</span><span class="english">Some will carry a spray of dogwood.</span></p>
 
 <p><span class="chinese">茱萸是一种草，它细细长长的，又是绿油油的。</span><span class="english">Dogwood dis a grass, it be long, it is green.</span></p>

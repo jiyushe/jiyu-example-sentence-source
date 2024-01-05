@@ -1,5 +1,7 @@
 # 病理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingli_4.md)
+
 <p><span class="chinese">他正在做一项病理研究。</span><span class="english">He is doing a research in pathology.</span></p>
 
 <p><span class="chinese">未见淋巴瘤证据这样的病理报告是不够的。</span><span class="english">What made you so sure it was lymphoma?</span></p>

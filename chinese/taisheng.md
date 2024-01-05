@@ -1,5 +1,7 @@
 # 胎生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taisheng.md)
+
 <p><span class="chinese">有点儿近似于哺乳动物的胎生。</span><span class="english">Quite similar to that of mammals.</span></p>
 
 <p><span class="chinese">哪种动物的后代是胎生的？</span><span class="english">Which animal gives birth to its baby?</span></p>

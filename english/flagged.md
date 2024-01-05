@@ -1,5 +1,7 @@
 # flagged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagged.md)
+
 <p><span class="chinese">她坐在铺着石板的庭院里的一把椅子上。</span><span class="english">She sat on a chair in the flagged yard.</span></p>
 
 <p><span class="chinese">如果他们得到标记您必须重新张贴。</span><span class="english">If they get flagged you must re-post them.</span></p>

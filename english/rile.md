@@ -1,5 +1,7 @@
 # rile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rile.md)
+
 <p><span class="chinese">我只知道卧姿是步枪项目射击姿势的一种。</span><span class="english">I only know it is one of the shooting positions for the rile event.</span></p>
 
 <p><span class="chinese">没有什么能比一个以一群愤怒的人进行的儿童体育比赛更能说明问题。</span><span class="english">There's nothing like a children's sporting event to rile people up.</span></p>

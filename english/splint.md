@@ -1,5 +1,7 @@
 # splint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splint.md)
+
 <p><span class="chinese">木匠把夹板修平。</span><span class="english">The carpenter dubbed the splint.</span></p>
 
 <p><span class="chinese">他给骨折的腿制作了一副夹板。</span><span class="english">He carpentered a splint for the broken leg.</span></p>

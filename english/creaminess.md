@@ -1,5 +1,7 @@
 # creaminess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creaminess.md)
+
 <p><span class="chinese">清爽的热带果味与乳脂般的柔和口感达到完美平衡。</span><span class="english">A soft mouth-feel with creaminess and crisp tropical fruit flavors.</span></p>
 
 <p><span class="chinese">如果你实在想念奶酪融化时的滋味，可以加一片鳄梨代替。</span><span class="english">Or add a slice of avocado if you miss the creaminess of melted cheese.</span></p>

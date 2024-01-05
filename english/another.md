@@ -1,5 +1,7 @@
 # another
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/another.md)
+
 <p><span class="chinese">又一篇入门文章？</span><span class="english">Another primer?</span></p>
 
 <p><span class="chinese">这又是一个错误。</span><span class="english">Another blunder.</span></p>

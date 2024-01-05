@@ -1,5 +1,7 @@
 # 生育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyu_3.md)
+
 <p><span class="chinese">埃丝特不能生育。</span><span class="english">Esther could not conceive.</span></p>
 
 <p><span class="chinese">可是你说你已经生育过孩子？</span><span class="english">But you say you have babies.</span></p>

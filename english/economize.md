@@ -1,5 +1,7 @@
 # economize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/economize.md)
+
 <p><span class="chinese">我们必须节约燃料。</span><span class="english">We must economize on fuel.</span></p>
 
 <p><span class="chinese">我情愿节衣不愿缩食。</span><span class="english">I'd rather economize on clothes than food.</span></p>

@@ -1,5 +1,7 @@
 # enemy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enemy.md)
+
 <p><span class="chinese">爱你的敌人。</span><span class="english">Love your enemy.</span></p>
 
 <p><span class="chinese">了解你的敌人。</span><span class="english">Know thine enemy.</span></p>

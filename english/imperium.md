@@ -1,5 +1,7 @@
 # imperium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperium.md)
+
 <p><span class="chinese">帝权以领土为基础，同时又有非领土层面的含义。</span><span class="english">Imperium has its territorial basis and non-territorial implications.</span></p>
 
 <p><span class="chinese">现在甚至未来几十年的世界秩序是美国帝权体系。</span><span class="english">The American imperium is the world order of today and for decades to come.</span></p>

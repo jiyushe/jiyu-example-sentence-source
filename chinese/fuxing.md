@@ -1,5 +1,7 @@
 # 福星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuxing.md)
+
 <p><span class="chinese">你真是天降福星。</span><span class="english">You are a godsend.</span></p>
 
 <p><span class="chinese">天天好运道，日日福星照！</span><span class="english">Good luck every day, according tofu!</span></p>

@@ -1,5 +1,7 @@
 # bicker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bicker.md)
+
 <p><span class="chinese">他们抬杠。</span><span class="english">They bicker.</span></p>
 
 <p><span class="chinese">我们开始争吵、争论。</span><span class="english">We began to bicker and argue.</span></p>

@@ -1,5 +1,7 @@
 # 中年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongnian.md)
+
 <p><span class="chinese">他是一个中年男人。</span><span class="english">He is a middle-aged man.</span></p>
 
 <p><span class="chinese">我们看到了一对中年夫妇。</span><span class="english">We saw a middle-aged couple.</span></p>

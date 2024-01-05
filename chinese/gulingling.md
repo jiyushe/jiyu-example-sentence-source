@@ -1,5 +1,7 @@
 # 孤零零
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gulingling.md)
+
 <p><span class="chinese">孤零零的哀歌将不会唤醒水手。</span><span class="english">Monody shall not wake the mariner.</span></p>
 
 <p><span class="chinese">只有他一个人孤零零地站在广场上。</span><span class="english">Only he still stood in the square.</span></p>

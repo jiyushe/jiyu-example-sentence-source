@@ -1,5 +1,7 @@
 # withstand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/withstand.md)
+
 <p><span class="chinese">世卫组织经得起这一审查。</span><span class="english">WHO can withstand this scrutiny.</span></p>
 
 <p><span class="chinese">这些墙能顶得住强风。</span><span class="english">The walls can withstand high winds.</span></p>

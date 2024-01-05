@@ -1,5 +1,7 @@
 # saltpetre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saltpetre.md)
+
 <p><span class="chinese">智利硝石。</span><span class="english">Chile saltpetre.</span></p>
 
 <p><span class="chinese">奥硝唑可以治疗什么病啊？</span><span class="english">What disease can abstruse saltpetre Zun treat?</span></p>

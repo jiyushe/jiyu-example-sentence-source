@@ -1,5 +1,7 @@
 # updraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/updraft.md)
+
 <p><span class="chinese">在楼群中随着气流上升的名字。</span><span class="english">Names rising in the updraft amid buildings.</span></p>
 
 <p><span class="chinese">你还看到漫天飞舞的火灰在扶摇直上。</span><span class="english">You are seeing cinders dancing in the updraft.</span></p>

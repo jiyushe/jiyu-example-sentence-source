@@ -1,5 +1,7 @@
 # armadillo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armadillo.md)
+
 <p><span class="chinese">犰狳有角质鳞片的护甲。</span><span class="english">The armadillo has a protective shell of bony plates.</span></p>
 
 <p><span class="chinese">亚历山大麦克奎恩在2010年发布了一套犰狳鞋。</span><span class="english">Alexander McQueen in 2010 released a set of armadillo shoes.</span></p>

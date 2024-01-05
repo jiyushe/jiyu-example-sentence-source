@@ -1,5 +1,7 @@
 # unmyelinated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmyelinated.md)
+
 <p><span class="chinese">毛细血管内皮细胞增生及细胞连接增宽等。</span><span class="english">Schwanns cells proliferated and unmyelinated nerve fiber decreased.</span></p>
 
 <p><span class="chinese">结果表明，视神经中可见有髓纤维和无髓纤维。</span><span class="english">There are myelinated and unmyelinated fibers in alligator's optic nerve.</span></p>

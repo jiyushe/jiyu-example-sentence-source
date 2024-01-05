@@ -1,5 +1,7 @@
 # 转行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanhang.md)
+
 <p><span class="chinese">跳转行为对于这三种选项都是相同的。</span><span class="english">The jump behavior is the same for all three options.</span></p>
 
 <p><span class="chinese">有时转行可能是一个昂贵的议题。</span><span class="english">Career change can sometimes be an expensive proposition.</span></p>

@@ -1,5 +1,7 @@
 # lumbering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lumbering.md)
+
 <p><span class="chinese">坦克正隆隆地开上一个斜坡。</span><span class="english">The tank was lumbering up a slope.</span></p>
 
 <p><span class="chinese">这尊雕像是纪念一位伟大的政治家的。</span><span class="english">Look where you're going, you lumbering great oaf!</span></p>

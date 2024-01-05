@@ -1,5 +1,7 @@
 # yosemite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yosemite.md)
+
 <p><span class="chinese">我们相约约塞米蒂国家公园。</span><span class="english">We were at Yosemite national park.</span></p>
 
 <p><span class="chinese">约瑟米蒂国家公园，美国加利福尼亚州</span><span class="english">Yosemite National Park, California</span></p>

@@ -1,5 +1,7 @@
 # impairment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impairment.md)
+
 <p><span class="chinese">听力障碍和耳聋的病因</span><span class="english">Causes of hearing impairment and deafness</span></p>
 
 <p><span class="chinese">感音神经性听力障碍可采取以下措施加以预防</span><span class="english">Sensorineural hearing impairment can be prevented by</span></p>

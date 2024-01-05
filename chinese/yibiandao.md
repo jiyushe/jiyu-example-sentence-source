@@ -1,5 +1,7 @@
 # 一边倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibiandao.md)
+
 <p><span class="chinese">我们所寻求的是一边倒的战斗。</span><span class="english">We're looking for a very one-sided fight.</span></p>
 
 <p><span class="chinese">二是反哺成本供给“一边倒”。</span><span class="english">Leaning to one side of back-nurture supply.</span></p>

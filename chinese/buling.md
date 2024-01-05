@@ -1,5 +1,7 @@
 # 不灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buling.md)
+
 <p><span class="chinese">这药不灵。</span><span class="english">The drug will not work.</span></p>
 
 <p><span class="chinese">这台机器不灵了。</span><span class="english">The machine doesn't work.</span></p>

@@ -1,5 +1,7 @@
 # appendicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appendicular.md)
+
 <p><span class="chinese">由于可应用特设的四肢线圈，膝关节己成为最常受检查的关节。</span><span class="english">The knee is the most frequently studied region of the appendicular skeleton.</span></p>
 
 <p><span class="chinese">方法四肢骨折患者共112例，年龄13￣93岁，均为长骨骨折。</span><span class="english">Methods 112 case of appendicular fracture, 13￣93 years old, were long bone fracture.</span></p>

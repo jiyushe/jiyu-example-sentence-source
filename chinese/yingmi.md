@@ -1,5 +1,7 @@
 # 影迷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingmi.md)
+
 <p><span class="chinese">影迷也会参加点唱。</span><span class="english">Fans also make song requests.</span></p>
 
 <p><span class="chinese">我会永远都系你最忠实嘅影迷同埋歌迷。</span><span class="english">I will be your honest fan forever.</span></p>

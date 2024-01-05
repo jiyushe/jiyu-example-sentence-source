@@ -1,5 +1,7 @@
 # polly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polly.md)
+
 <p><span class="chinese">波丽把壶放上去。</span><span class="english">Polly put the kettle on.</span></p>
 
 <p><span class="chinese">波丽问，“我们打过赌的。”</span><span class="english">" asked Polly. "We had a bet.</span></p>

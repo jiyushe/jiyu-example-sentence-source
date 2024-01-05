@@ -1,5 +1,7 @@
 # cordial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cordial.md)
+
 <p><span class="chinese">亲戚是热忱的。</span><span class="english">Relatives will be cordial.</span></p>
 
 <p><span class="chinese">科学应是一种强心剂。</span><span class="english">Science should be a cordial.</span></p>

@@ -1,5 +1,7 @@
 # beanstalk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beanstalk.md)
+
 <p><span class="chinese">那是一颗巨型豆茎！</span><span class="english">It was a giant beanstalk !</span></p>
 
 <p><span class="chinese">他快速的切了豆茎。</span><span class="english">He quickly cut the beanstalk.</span></p>

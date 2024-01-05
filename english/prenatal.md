@@ -1,5 +1,7 @@
 # prenatal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prenatal.md)
+
 <p><span class="chinese">也许她做过产前亲子鉴定。</span><span class="english">She may have had a prenatal paternity test done.</span></p>
 
 <p><span class="chinese">给自己一点恩惠吧，安排一次产前按摩。</span><span class="english">Do yourself a favor and schedule a prenatal massage.</span></p>

@@ -1,5 +1,7 @@
 # privateer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/privateer.md)
+
 <p><span class="chinese">模组相关的档案下载专区。</span><span class="english">All regarding the Privateer mod of files download area.</span></p>
 
 <p><span class="chinese">因为基德之前是个受雇于英国的海盗搜捕船长，但是这次袭击被认定为海盗行为。</span><span class="english">Since Kidd was a privateer for the British, this attack was considered an act of piracy.</span></p>

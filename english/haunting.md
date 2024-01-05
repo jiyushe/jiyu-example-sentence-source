@@ -1,5 +1,7 @@
 # haunting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haunting.md)
+
 <p><span class="chinese">他们就像是在跟踪我一样。</span><span class="english">It seemed like they were haunting me.</span></p>
 
 <p><span class="chinese">对于所有观影者来说，这种效果也是挥之不去的。</span><span class="english">For any viewer, the effect is no less haunting.</span></p>

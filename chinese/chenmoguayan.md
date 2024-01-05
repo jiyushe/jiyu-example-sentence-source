@@ -1,5 +1,7 @@
 # 沉默寡言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenmoguayan.md)
+
 <p><span class="chinese">他是一位沉默寡言不爱交际的人。</span><span class="english">He is a very quiet and retiring person.</span></p>
 
 <p><span class="chinese">沉默寡言是我非常英国化的一面。</span><span class="english">I am very British in that I'm reticent.</span></p>

@@ -1,5 +1,7 @@
 # parametric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parametric.md)
+
 <p><span class="chinese">那是球体的一个参数方程。</span><span class="english">That is a parametric equation for the sphere.</span></p>
 
 <p><span class="chinese">令参数空间是一不可数集合。</span><span class="english">Let the parametric space be an uncountable set.</span></p>

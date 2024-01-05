@@ -1,5 +1,7 @@
 # accounting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accounting.md)
+
 <p><span class="chinese">我的工作是统计账目。</span><span class="english">I do accounting.</span></p>
 
 <p><span class="chinese">我是一个记账员。</span><span class="english">I'm an Accounting Clerk.</span></p>

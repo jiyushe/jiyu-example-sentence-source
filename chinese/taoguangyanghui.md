@@ -1,5 +1,7 @@
 # 韬光养晦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoguangyanghui.md)
+
 <p><span class="chinese">相信假以时日，韬光养晦，川籍艺术家将再次崛起。</span><span class="english">Believe that, over time, stronger productions artists will rise once again.</span></p>
 
 <p><span class="chinese">中国的利比亚政策是与韬光养晦原则的决裂。</span><span class="english">China’s policy on Libya is clearly a break from the principle of keeping-low-profile.</span></p>

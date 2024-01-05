@@ -1,5 +1,7 @@
 # 小姑子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoguzi.md)
+
 <p><span class="chinese">莫小贝是佟湘玉的小姑子。</span><span class="english">Mo, the sister of Tong.</span></p>
 
 <p><span class="chinese">我的小姑子呀，你看这小脸花的。</span><span class="english">My younger sister. Look at your dirty face.</span></p>

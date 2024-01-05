@@ -1,5 +1,7 @@
 # luffa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luffa.md)
+
 <p><span class="chinese">不只是丝瓜，人也是一样。</span><span class="english">Luffa is not just people as well.</span></p>
 
 <p><span class="chinese">生命力强是丝瓜的其中一个特点。</span><span class="english">Luffa strong vitality is one of the characteristics.</span></p>

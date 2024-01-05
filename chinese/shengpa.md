@@ -1,5 +1,7 @@
 # 生怕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengpa.md)
+
 <p><span class="chinese">不，生怕我需要一个无烟房间。</span><span class="english">No, I'm afraid I need a non-smoking room.</span></p>
 
 <p><span class="chinese">我急忙转过脸来，生怕被他看到我藏不住的笑。</span><span class="english">I quickly turned to fear, he saw me laughing.</span></p>

@@ -1,5 +1,7 @@
 # ontology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ontology.md)
+
 <p><span class="chinese">存在论是这类研究的中心思想。</span><span class="english">Ontology is its central branch.</span></p>
 
 <p><span class="chinese">第一章文学本体论。</span><span class="english">The first chapter is the literature ontology.</span></p>

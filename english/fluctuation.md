@@ -1,5 +1,7 @@
 # fluctuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluctuation.md)
+
 <p><span class="chinese">粒子射程的涨落称为歧离。</span><span class="english">The fluctuation in range is called straggling.</span></p>
 
 <p><span class="chinese">近来价格浮动得很厉害。</span><span class="english">There has been much price fluctuation recently.</span></p>

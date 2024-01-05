@@ -1,5 +1,7 @@
 # bihar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bihar.md)
+
 <p><span class="chinese">中国确实能够帮助比哈尔。</span><span class="english">China a can really help Bihar.</span></p>
 
 <p><span class="chinese">比哈尔邦是否真的在水稻产量上造假了？</span><span class="english">Did Bihar really lie about this rice claim?</span></p>

@@ -1,5 +1,7 @@
 # paranormal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paranormal.md)
+
 <p><span class="chinese">练习灵气你并不需要超出能力范围的天赋。</span><span class="english">To practice reiki you don't need special paranormal gifts.</span></p>
 
 <p><span class="chinese">特异思维和常态思维只有一墙之隔。</span><span class="english">There is only a wall distance between paranormal thinking and normal thinking.</span></p>

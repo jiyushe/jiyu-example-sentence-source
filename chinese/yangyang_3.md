@@ -1,5 +1,7 @@
 # 泱泱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangyang_3.md)
+
 <p><span class="chinese">我思念的心上伊人啊，正在泱泱水边上。</span><span class="english">The man of whom I think , Is on the margin of the water.</span></p>
 
 <p><span class="chinese">容忍对病泱泱的居傲充满了爱怜与疼爱。</span><span class="english">Tolerance is love sick with the sickness of haughtiness.</span></p>

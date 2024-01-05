@@ -1,5 +1,7 @@
 # architecture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/architecture.md)
+
 <p><span class="chinese">它是一种体系结构。</span><span class="english">It is an architecture.</span></p>
 
 <p><span class="chinese">架构大逃亡。</span><span class="english">Architecture Great Escapes.</span></p>

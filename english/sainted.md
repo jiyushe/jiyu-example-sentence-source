@@ -1,5 +1,7 @@
 # sainted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sainted.md)
+
 <p><span class="chinese">可怜的圣女！</span><span class="english">Poor sainted virgin!</span></p>
 
 <p><span class="chinese">那位教堂中神圣的牧师！</span><span class="english">The sainted minister in the church!</span></p>

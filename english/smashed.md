@@ -1,5 +1,7 @@
 # smashed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smashed.md)
+
 <p><span class="chinese">噢，不会吧，他将镜子砸碎了。</span><span class="english">Oh no. He smashed it.</span></p>
 
 <p><span class="chinese">萧条的经济使他破产了。</span><span class="english">The depression smashed him.</span></p>

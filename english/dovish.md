@@ -1,5 +1,7 @@
 # dovish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dovish.md)
+
 <p><span class="chinese">但总的看下来，美联储内部的鸽派声音似乎更强。</span><span class="english">But, on balance, the dovish rhetoric seems stronger.</span></p>
 
 <p><span class="chinese">相反地，鸽派工党支持冻结令。</span><span class="english">The dovish Labor Party, on the other hand, supports the freeze.</span></p>

@@ -1,5 +1,7 @@
 # ethane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethane.md)
+
 <p><span class="chinese">好了，这就是我们如何描述乙烷的。</span><span class="english">All right, so that's how we describe ethane.</span></p>
 
 <p><span class="chinese">天然气由甲烷、乙烷、丙烷和丁烷组成。</span><span class="english">Natural gas is composed of methane ethane propane and butane.</span></p>

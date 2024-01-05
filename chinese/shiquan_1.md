@@ -1,5 +1,7 @@
 # 实权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiquan_1.md)
+
 <p><span class="chinese">她掌握家里的实权/她是一家之主。</span><span class="english">She is the boss in the house.</span></p>
 
 <p><span class="chinese">但是罗马有实权但是没有国王。</span><span class="english">But Rome had real power and yet no king.</span></p>

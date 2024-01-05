@@ -1,5 +1,7 @@
 # veggie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veggie.md)
+
 <p><span class="chinese">严冷冬日的一碗热蔬菜汤。</span><span class="english">My hot veggie soup on a cold day.</span></p>
 
 <p><span class="chinese">素食和肉食都有的晚餐。</span><span class="english">The dinner with all the veggie and the gravy.</span></p>

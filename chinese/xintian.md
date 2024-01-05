@@ -1,5 +1,7 @@
 # 心田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xintian.md)
+
 <p><span class="chinese">午夜的凉意，侵人心田。</span><span class="english">At midnight, the heart.</span></p>
 
 <p><span class="chinese">一点一滴，滋润心田。</span><span class="english">Bit by bit, moisten heart.</span></p>

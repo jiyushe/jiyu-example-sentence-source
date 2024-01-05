@@ -1,5 +1,7 @@
 # 小春
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaochun.md)
+
 <p><span class="chinese">小春这才意识到问题的严重性。</span><span class="english">Doing this realized the seriousness of the problem.</span></p>
 
 <p><span class="chinese">拿到第一个月的工钱，小春就租了一间小屋把一家人搬了进去。</span><span class="english">Xiaochun rented a small house and moved his family in.</span></p>

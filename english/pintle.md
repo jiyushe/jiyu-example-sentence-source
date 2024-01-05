@@ -1,5 +1,7 @@
 # pintle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pintle.md)
+
 <p><span class="chinese">舵栓要用螺母安装。</span><span class="english">Rudder pintle to be fitted with nut.</span></p>
 
 <p><span class="chinese">舵杆、舵叶、舵销连接后中心线检查。</span><span class="english">Inspection alignment of stock, rudder blade and pintle.</span></p>

@@ -1,5 +1,7 @@
 # 铁丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiesi.md)
+
 <p><span class="chinese">用铁丝扎住。</span><span class="english">Karzai live with wire.</span></p>
 
 <p><span class="chinese">这条铁丝容易扭弯。</span><span class="english">This wire twists easily.</span></p>

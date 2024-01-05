@@ -1,5 +1,7 @@
 # fleetingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleetingly.md)
+
 <p><span class="chinese">如果说当初我们只是很快地看了一眼这个即将到来的“革命”，那么现在它终于带着神的意旨到来了。</span><span class="english">The revolution we had fleetingly glimpsed had finally – blessedly – arrived.</span></p>
 
 <p><span class="chinese">生命是相当脆弱的，它像流星一样来去匆匆！</span><span class="english">Life is fragile enough as it is. It comes and goes fleetingly as a falling star!</span></p>

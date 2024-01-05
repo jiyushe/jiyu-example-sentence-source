@@ -1,5 +1,7 @@
 # profitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profitable.md)
+
 <p><span class="chinese">这是一个有益的增长。</span><span class="english">And this is profitable growth.</span></p>
 
 <p><span class="chinese">因为利润非常可观</span><span class="english">Because it was so damned profitable.</span></p>

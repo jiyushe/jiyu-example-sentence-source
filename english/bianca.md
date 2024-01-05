@@ -1,5 +1,7 @@
 # bianca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bianca.md)
+
 <p><span class="chinese">比恩卡那麽这是谁的？</span><span class="english">Bianca. Why, whose is it?</span></p>
 
 <p><span class="chinese">比恩卡你好，凯西奥朋友！</span><span class="english">Bianca. Save you, friend Cassio!</span></p>

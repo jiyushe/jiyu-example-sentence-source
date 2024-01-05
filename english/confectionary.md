@@ -1,5 +1,7 @@
 # confectionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confectionary.md)
+
 <p><span class="chinese">敝公司是高级礼盒点心的制造商。</span><span class="english">Our company is a manufacturer of luxury Japanese confectionary.</span></p>
 
 <p><span class="chinese">且慢，似乎一场小规模的糖果革命正在进行。</span><span class="english">But wait, it seems that a minor confectionary revolution is afoot.</span></p>

@@ -1,5 +1,7 @@
 # 地利人和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dilirenhe.md)
+
 <p><span class="chinese">了。也得看天时地利人和。</span><span class="english">Also get see weather land utilization a person with.</span></p>
 
 <p><span class="chinese">有时候一个完美的作品天时地利人和缺一不可。</span><span class="english">Sometimes things come along at the perfect time and it's sort of fate.</span></p>

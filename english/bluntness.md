@@ -1,5 +1,7 @@
 # bluntness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluntness.md)
+
 <p><span class="chinese">他就是这么迟钝。</span><span class="english">Such bluntness is characteristic of him.</span></p>
 
 <p><span class="chinese">业内和媒体对于她的直言不讳反应良好。</span><span class="english">The Street and media responded well to her bluntness.</span></p>

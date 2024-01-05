@@ -1,5 +1,7 @@
 # 奸商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianshang.md)
+
 <p><span class="chinese">我觉得自己就像一个战时的奸商。</span><span class="english">I feel like a war-time profiteer.</span></p>
 
 <p><span class="chinese">他们将被称为投机者和奸商。</span><span class="english">They'llbe called speculators and profiteers.</span></p>

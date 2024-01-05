@@ -1,5 +1,7 @@
 # calligraphy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calligraphy.md)
+
 <p><span class="chinese">他热爱美术字。</span><span class="english">He loves calligraphy.</span></p>
 
 <p><span class="chinese">我的爱好墨宝。</span><span class="english">My hobby is calligraphy.</span></p>

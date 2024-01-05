@@ -1,5 +1,7 @@
 # rps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rps.md)
+
 <p><span class="chinese">他是玩锤子剪刀布的少有的高手。</span><span class="english">He is one of the best RPS athletes.</span></p>
 
 <p><span class="chinese">TS在单个8核心的机器上能达到35000的RPS。</span><span class="english">TS serves 35,000 RPS from a single 8 cores machine.</span></p>

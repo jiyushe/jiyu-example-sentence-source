@@ -1,5 +1,7 @@
 # reinforcement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinforcement.md)
+
 <p><span class="chinese">提供积极的加强推进效应。</span><span class="english">Provide positive reinforcement.</span></p>
 
 <p><span class="chinese">二灰桩在软土路基加固中的应用?。</span><span class="english">Application of Two-Ash Pile for Reinforcement?</span></p>

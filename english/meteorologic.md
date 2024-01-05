@@ -1,5 +1,7 @@
 # meteorologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meteorologic.md)
+
 <p><span class="chinese">它标志着气象领域的一个重要突破。</span><span class="english">It marks a significant leap in meteorologic field.</span></p>
 
 <p><span class="chinese">气象局表明今天晚上将会出现日食。</span><span class="english">The Meteorologic Bureau forecasts a eclipse will be seen this night.</span></p>

@@ -1,5 +1,7 @@
 # cancan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cancan.md)
+
 <p><span class="chinese">您得到的不只是翻译。</span><span class="english">You'll get more from CanCan Translation.</span></p>
 
 <p><span class="chinese">强起立东风，惨惨梨花谢。</span><span class="english">Stand strong east wind, Cancan pear bloom.</span></p>

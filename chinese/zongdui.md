@@ -1,5 +1,7 @@
 # 纵队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongdui.md)
+
 <p><span class="chinese">他们并排成四路纵队。</span><span class="english">The column was four abreast.</span></p>
 
 <p><span class="chinese">泰瑞的纵队将于两天之后加入他。</span><span class="english">Terry's column was to join him in two days.</span></p>

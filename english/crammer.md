@@ -1,5 +1,7 @@
 # crammer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crammer.md)
+
 <p><span class="chinese">有时，谎言说上一百遍就成了“真理”。</span><span class="english">Sometimes, crammer said on 100 times to be become " the truth ".</span></p>
 
 <p><span class="chinese">有区别的谎言说一千遍才会变成真理。</span><span class="english">Distinguishing crammer says 1000 times to just can become the truth.</span></p>

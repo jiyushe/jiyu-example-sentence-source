@@ -1,5 +1,7 @@
 # suede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suede.md)
+
 <p><span class="chinese">我想买一件皮制茄克。</span><span class="english">I'm looking for a suede jacket.</span></p>
 
 <p><span class="chinese">精明泼妇的软皮鞋。</span><span class="english">The shrewd shrew's suede shoes.</span></p>

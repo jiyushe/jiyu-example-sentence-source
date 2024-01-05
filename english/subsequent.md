@@ -1,5 +1,7 @@
 # subsequent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsequent.md)
+
 <p><span class="chinese">将在随后的步骤中用到这些。</span><span class="english">These will be used in subsequent steps.</span></p>
 
 <p><span class="chinese">随后的经济衰退并不像它那样。</span><span class="english">Subsequent recessions were not like that.</span></p>

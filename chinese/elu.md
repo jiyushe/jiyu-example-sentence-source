@@ -1,5 +1,7 @@
 # 恶露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/elu.md)
+
 <p><span class="chinese">再服，恶露即下。</span><span class="english">Then clothes, lochia of the next.</span></p>
 
 <p><span class="chinese">这只是流产后恶露不尽吗？</span><span class="english">Is the lochia after this just aborts endless?</span></p>

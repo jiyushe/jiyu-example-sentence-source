@@ -1,5 +1,7 @@
 # 拖拖拉拉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuotuolala.md)
+
 <p><span class="chinese">他拖拖拉拉地做工作。</span><span class="english">He loafed on the job.</span></p>
 
 <p><span class="chinese">就因为你总是拖拖拉拉的，我们才会误车。</span><span class="english">We missed the train because you dragged your feet.</span></p>

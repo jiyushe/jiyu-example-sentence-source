@@ -1,5 +1,7 @@
 # 以儆效尤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijingxiaoyou.md)
+
 <p><span class="chinese">老板惩罚那个工人，以儆效尤。</span><span class="english">The boss made an example of the worker.</span></p>
 
 <p><span class="chinese">老师当众惩罚在期末考试中抄袭邻座答案的那位学生以儆效尤。</span><span class="english">The teacher made an example of the student who have cop his neighbor's answer during the finals.</span></p>

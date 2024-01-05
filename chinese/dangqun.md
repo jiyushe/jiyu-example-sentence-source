@@ -1,5 +1,7 @@
 # 党群
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangqun.md)
+
 <p><span class="chinese">我不仅仅关心茶党群众。</span><span class="english">I'm not only referring to Tea Party people.</span></p>
 
 <p><span class="chinese">从各个方面全方位抓好党群党建工作。</span><span class="english">Pays special attention to the party and the masses party building work from all aspects.</span></p>

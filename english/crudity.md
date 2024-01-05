@@ -1,5 +1,7 @@
 # crudity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crudity.md)
+
 <p><span class="chinese">我从未见过这样粗鲁的行径。</span><span class="english">I'd never met such crudity before.</span></p>
 
 <p><span class="chinese">有时候，谨慎小心也可能是另一形式的粗鲁。</span><span class="english">Sometimes delicacy can be a form of crudity.</span></p>

@@ -1,5 +1,7 @@
 # 夫权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuquan.md)
+
 <p><span class="chinese">格里夫权衡了一下。</span><span class="english">Griff weighed that for a moment.</span></p>
 
 <p><span class="chinese">夫权文化表现形式非常复杂。</span><span class="english">The patriarchal culture has been various and complicated in manifestation.</span></p>

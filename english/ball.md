@@ -1,5 +1,7 @@
 # ball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ball.md)
+
 <p><span class="chinese">一个面具舞会?。</span><span class="english">A masked ball?</span></p>
 
 <p><span class="chinese">又是个火红的球。</span><span class="english">A red-hot ball.</span></p>

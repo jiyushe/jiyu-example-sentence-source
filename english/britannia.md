@@ -1,5 +1,7 @@
 # britannia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/britannia.md)
+
 <p><span class="chinese">五对“第大不列颠”钢琴变奏曲。</span><span class="english">Five variations for piano on "Rule Britannia".</span></p>
 
 <p><span class="chinese">然后960度熔化的锡锑铜合金被倒进去。</span><span class="english">Then the 960-degree molten britannia metal is poured.</span></p>

@@ -1,5 +1,7 @@
 # palindrome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palindrome.md)
+
 <p><span class="chinese">它它当你来将这块的时候你会按照。</span><span class="english">Palindrome with a capital P.</span></p>
 
 <p><span class="chinese">它先访问了这个问题。</span><span class="english">OK. I'm calling palindrome with that.</span></p>

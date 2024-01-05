@@ -1,5 +1,7 @@
 # 体制改革
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tizhigaige.md)
+
 <p><span class="chinese">第三是要深化外贸体制改革。</span><span class="english">Third, deepen reforming trade system.</span></p>
 
 <p><span class="chinese">深化投资体制改革。</span><span class="english">Reform of the investment system will be deepened.</span></p>

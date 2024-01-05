@@ -1,5 +1,7 @@
 # youth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/youth.md)
+
 <p><span class="chinese">小青年逃了。</span><span class="english">The youth fled.</span></p>
 
 <p><span class="chinese">“五四”是青年节。</span><span class="english">May 4 is Youth Day.</span></p>

@@ -1,5 +1,7 @@
 # 微贱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weijian.md)
+
 <p><span class="chinese">但是他的出身却是微贱的。</span><span class="english">Yet his beginnings were humble.</span></p>
 
 <p><span class="chinese">那位将军出身微贱。</span><span class="english">The general rose from humble beginnings.</span></p>

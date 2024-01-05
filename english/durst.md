@@ -1,5 +1,7 @@
 # durst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/durst.md)
+
 <p><span class="chinese">当你敢做时，你才是个男人。</span><span class="english">When you durst do it, then you were a man.</span></p>
 
 <p><span class="chinese">从此以后，没有人敢再问他什麽。</span><span class="english">And no man after that durst ask him any question.</span></p>

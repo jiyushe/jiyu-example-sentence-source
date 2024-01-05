@@ -1,5 +1,7 @@
 # 扎根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhagen.md)
+
 <p><span class="chinese">这棵小树已经扎根了。</span><span class="english">The young tree has struck root.</span></p>
 
 <p><span class="chinese">在一个珍爱的地方扎根永驻。</span><span class="english">Rooted in one dear perpetual place.</span></p>

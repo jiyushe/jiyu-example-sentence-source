@@ -1,5 +1,7 @@
 # 拨弄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bonong.md)
+
 <p><span class="chinese">别瞎拨弄这台电脑。</span><span class="english">Don't ass about with the computer.</span></p>
 
 <p><span class="chinese">门外有人拨弄一个木牌，通知。</span><span class="english">Someone fiddled with a plate, a poster.</span></p>

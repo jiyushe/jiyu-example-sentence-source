@@ -1,5 +1,7 @@
 # tubulin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tubulin.md)
+
 <p><span class="chinese">目的研究半边旗提取物5F对微管蛋白聚合的影响。</span><span class="english">Aim To study the effect of 5F on tubulin polymerization.</span></p>
 
 <p><span class="chinese">并对目标化合物进行了抗肿瘤体外试验和微管蛋白聚合试验。</span><span class="english">All the target compounds were tested in a tubulin assembly assay.</span></p>

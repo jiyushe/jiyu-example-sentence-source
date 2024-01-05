@@ -1,5 +1,7 @@
 # 省道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengdao_1.md)
+
 <p><span class="chinese">省道必须先折合剪。</span><span class="english">Darts must be folded out and cut.</span></p>
 
 <p><span class="chinese">完成前衣片上的所有省道。</span><span class="english">Complete any darts on the jacket front.</span></p>

@@ -1,5 +1,7 @@
 # libidinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libidinal.md)
+
 <p><span class="chinese">性冲动本能的力量是什么？</span><span class="english">What are libidinal forces?</span></p>
 
 <p><span class="chinese">力比多的是兽性的那部分。</span><span class="english">The libidinal is the animal part.</span></p>

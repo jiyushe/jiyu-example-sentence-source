@@ -1,5 +1,7 @@
 # 秉国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingguo.md)
+
 <p><span class="chinese">令计划、王沪宁、戴秉国参加上述活动。</span><span class="english">Ling Jihua, Wang Huning and Dai Bingguo attended the meeting.</span></p>
 
 <p><span class="chinese">此外，他还赞扬了戴秉国过去十年来所做的工作。</span><span class="english">He also complimented Dai for the work done in the last decade.</span></p>

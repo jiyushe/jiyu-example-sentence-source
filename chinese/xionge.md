@@ -1,5 +1,7 @@
 # 凶恶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xionge.md)
+
 <p><span class="chinese">他是个穷凶恶极的杀人犯。</span><span class="english">he is a nefarious murderer.</span></p>
 
 <p><span class="chinese">男孩，那是一只大大的、凶恶的熊！</span><span class="english">Boy! That was one big, ugly bear!</span></p>

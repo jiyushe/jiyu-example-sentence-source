@@ -1,5 +1,7 @@
 # 监禁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjin.md)
+
 <p><span class="chinese">他被终身监禁。</span><span class="english">He was imprisoned for life.</span></p>
 
 <p><span class="chinese">他因参与抢劫监禁了六个月。</span><span class="english">He was gaoled for six months.</span></p>

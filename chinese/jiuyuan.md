@@ -1,5 +1,7 @@
 # 救援
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuyuan.md)
+
 <p><span class="chinese">卡巴斯基救援盘。</span><span class="english">Kaspersky Rescue Disk.</span></p>
 
 <p><span class="chinese">他向我伸出了救援之手。</span><span class="english">His help arm stuck out to me.</span></p>

@@ -1,5 +1,7 @@
 # bonkers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonkers.md)
+
 <p><span class="chinese">他明白疯狂的人们的行事方式。</span><span class="english">He understands the ways of the bonkers.</span></p>
 
 <p><span class="chinese">明显地，华盛顿已得了"恐怖主义的疯狂症"。</span><span class="english">Washington has clearly gone terrorism bonkers.</span></p>

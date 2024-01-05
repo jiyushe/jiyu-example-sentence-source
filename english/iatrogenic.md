@@ -1,5 +1,7 @@
 # iatrogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iatrogenic.md)
+
 <p><span class="chinese">记录下标本发生的医源性骨折和骨裂。</span><span class="english">The occurrence of iatrogenic fractures or fissures was documented.</span></p>
 
 <p><span class="chinese">目的分析医源性脾损伤的原因及有关的治疗手段。</span><span class="english">Objective To analyse the causes and treatment of iatrogenic splenic injury.</span></p>

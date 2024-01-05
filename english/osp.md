@@ -1,5 +1,7 @@
 # osp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osp.md)
+
 <p><span class="chinese">老师和孩子们住在想象不到的偏远地方。</span><span class="english">The OSP teaches Nepalese children living in inaccessible places.</span></p>
 
 <p><span class="chinese">某些焊锡膏对于镀锡表面具有良好的效果，但对裸铜OSP的焊接效果则很差。</span><span class="english">Some pastes do well with tinned surfaces but solder poorly bare copper OSP.</span></p>

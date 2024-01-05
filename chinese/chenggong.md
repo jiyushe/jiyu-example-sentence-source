@@ -1,5 +1,7 @@
 # 成功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenggong.md)
+
 <p><span class="chinese">他成功了。</span><span class="english">He succeeded.</span></p>
 
 <p><span class="chinese">他成功了。</span><span class="english">It worked out.</span></p>

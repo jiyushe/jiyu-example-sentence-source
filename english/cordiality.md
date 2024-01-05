@@ -1,5 +1,7 @@
 # cordiality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cordiality.md)
+
 <p><span class="chinese">他点头向我打招呼。</span><span class="english">He greeted us with cordiality.</span></p>
 
 <p><span class="chinese">我的寄宿家庭妈妈热诚地迎接我。</span><span class="english">My homestay mother greeted me with cordiality.</span></p>

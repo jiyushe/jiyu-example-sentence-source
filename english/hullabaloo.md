@@ -1,5 +1,7 @@
 # hullabaloo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hullabaloo.md)
+
 <p><span class="chinese">那件事引起一阵骚动。</span><span class="english">There was a hullabaloo about it.</span></p>
 
 <p><span class="chinese">这样，才能将所有的喧嚣，踩在脚底。</span><span class="english">In such case, all hullabaloo will be under feet.</span></p>

@@ -1,5 +1,7 @@
 # loin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loin.md)
+
 <p><span class="chinese">腰部略微圆拱。</span><span class="english">The loin arches slightly.</span></p>
 
 <p><span class="chinese">短，肌肉发达，且略微圆拱。</span><span class="english">The loin is short, muscular and slightly arched.</span></p>

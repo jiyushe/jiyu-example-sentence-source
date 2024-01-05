@@ -1,5 +1,7 @@
 # smorgasbord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smorgasbord.md)
+
 <p><span class="chinese">听说你的瑞典式自助餐是城里最好的。</span><span class="english">We heard that you have the best smorgasbord in town.</span></p>
 
 <p><span class="chinese">这个世界对于青步甲来说简直就是一个两栖类美食餐厅。</span><span class="english">The world is an amphibian smorgasbord to the Epomis beetles.</span></p>

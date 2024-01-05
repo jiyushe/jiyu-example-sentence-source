@@ -1,5 +1,7 @@
 # 水深火热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuishenhuore.md)
+
 <p><span class="chinese">地球上的生命面临一个“水深火热”的未来。</span><span class="english">Life on Earth faces a warm future – and a fiery one.</span></p>
 
 <p><span class="chinese">这个港口水深火热的四金火山岩石。</span><span class="english">The fiery depths of this volcano harbor four gold rocks.</span></p>

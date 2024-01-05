@@ -1,5 +1,7 @@
 # 战舰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanjian.md)
+
 <p><span class="chinese">战舰男孩儿，塞瓦斯托波尔，1944年。</span><span class="english">A ship's boy, Sevastopol, 1944.</span></p>
 
 <p><span class="chinese">所有战舰，主炮准备开火。</span><span class="english">All ships prepare to fire main guns.</span></p>

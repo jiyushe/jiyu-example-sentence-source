@@ -1,5 +1,7 @@
 # 渺小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaoxiao.md)
+
 <p><span class="chinese">看起来村民如同蚂蚁一般渺小。</span><span class="english">Villagers are ant-like.</span></p>
 
 <p><span class="chinese">或许只是人类最渺小的一个。</span><span class="english">Minutest of mankind might be.</span></p>

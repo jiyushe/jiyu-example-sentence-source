@@ -1,5 +1,7 @@
 # 限度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandu.md)
+
 <p><span class="chinese">难道不存在限度吗？</span><span class="english">Are there no limits?</span></p>
 
 <p><span class="chinese">但即便如此，你也是有限度的。</span><span class="english">But even you have your limits.</span></p>

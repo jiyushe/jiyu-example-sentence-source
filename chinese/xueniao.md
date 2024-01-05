@@ -1,5 +1,7 @@
 # 血尿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueniao.md)
+
 <p><span class="chinese">腰痛、腹部憋胀、血尿。</span><span class="english">Low back pain, abdominal swelling, and hematuria.</span></p>
 
 <p><span class="chinese">“感兴趣的人以上文章”什么是血尿？</span><span class="english">People interested in the above article What Is Hematuria?</span></p>

@@ -1,5 +1,7 @@
 # concomitance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concomitance.md)
+
 <p><span class="chinese">开心的背后有压力的随同。</span><span class="english">The happy behind has the pressure concomitance.</span></p>
 
 <p><span class="chinese">手术治疗患者的主要影响因素是患者伴随疾病的个数。</span><span class="english">The concomitance 's disease was the critical element for patients who received surgery.</span></p>

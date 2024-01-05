@@ -1,5 +1,7 @@
 # ost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ost.md)
+
 <p><span class="chinese">它主动提出寄信句号。</span><span class="english">He offered to ost the letter.</span></p>
 
 <p><span class="chinese">大多数人是这样认为的。</span><span class="english">The ost people think of this.</span></p>

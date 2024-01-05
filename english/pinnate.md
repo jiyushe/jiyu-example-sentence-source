@@ -1,5 +1,7 @@
 # pinnate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinnate.md)
+
 <p><span class="chinese">叶互生，掌状或者3小叶，很少羽状复叶。</span><span class="english">Leaves alternate, palmate or 3-foliolate, rarely pinnate.</span></p>
 
 <p><span class="chinese">一头有裂口用来拔钉子的锤子。</span><span class="english">Divided or cleft in a pinnate fashion. Used of certain leaves.</span></p>

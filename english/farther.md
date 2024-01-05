@@ -1,5 +1,7 @@
 # farther
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farther.md)
+
 <p><span class="chinese">拉环，还有多远?。</span><span class="english">Griphook, how much farther?</span></p>
 
 <p><span class="chinese">咱们到那座更远的岛上去吧。</span><span class="english">Let's go to the farther island.</span></p>

@@ -1,5 +1,7 @@
 # 混杂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunza.md)
+
 <p><span class="chinese">所以现在很混杂了。</span><span class="english">So it's very mixed now.</span></p>
 
 <p><span class="chinese">羊群全被混杂了。</span><span class="english">The sheep were all boxed up.</span></p>

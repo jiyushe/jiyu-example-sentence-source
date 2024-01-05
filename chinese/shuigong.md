@@ -1,5 +1,7 @@
 # 水工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuigong.md)
+
 <p><span class="chinese">屋面防水工在用铁皮修补屋顶。</span><span class="english">The roofer is patching the roof with metal.</span></p>
 
 <p><span class="chinese">水荷载是水工隧洞的主要荷载。</span><span class="english">For a hydraulic tunnel, water load is the main one.</span></p>

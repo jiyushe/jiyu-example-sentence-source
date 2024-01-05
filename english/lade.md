@@ -1,5 +1,7 @@
 # lade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lade.md)
+
 <p><span class="chinese">驮金的驴子无险阻。</span><span class="english">An ass lade with gold overtake every thing.</span></p>
 
 <p><span class="chinese">在这些事情没有做完之前，我们真的不能安排其他计划。</span><span class="english">We shouldn't really make any plans until the fat lade sings.</span></p>

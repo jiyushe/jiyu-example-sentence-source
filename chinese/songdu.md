@@ -1,5 +1,7 @@
 # 诵读
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songdu.md)
+
 <p><span class="chinese">他有诵读障碍。</span><span class="english">He`s dyslexic.</span></p>
 
 <p><span class="chinese">这样的孩子是诵读困难者。</span><span class="english">This child is Dyslexic.</span></p>

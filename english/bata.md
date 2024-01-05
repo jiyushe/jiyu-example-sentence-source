@@ -1,5 +1,7 @@
 # bata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bata.md)
+
 <p><span class="chinese">巫师把她抬回了房间。</span><span class="english">Shaman Bata Tai back to the room.</span></p>
 
 <p><span class="chinese">我还没反应过来，“吧嗒”电话挂了。</span><span class="english">I have reaction from the " Bata " telephone link.</span></p>

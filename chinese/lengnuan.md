@@ -1,5 +1,7 @@
 # 冷暖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengnuan.md)
+
 <p><span class="chinese">月，气冷暖替，像，像冬。</span><span class="english">Cox with winter for months past.</span></p>
 
 <p><span class="chinese">配有独立调试冷暖空调。</span><span class="english">Air conditioning with separate debugging.</span></p>

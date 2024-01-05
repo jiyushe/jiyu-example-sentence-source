@@ -1,5 +1,7 @@
 # avoidable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avoidable.md)
+
 <p><span class="chinese">这些变量是可避免的。</span><span class="english">These variables are avoidable.</span></p>
 
 <p><span class="chinese">这毫无道理——而这些是完全可以避免的。</span><span class="english">That makes no sense – and it’s completely avoidable.</span></p>

@@ -1,5 +1,7 @@
 # inhibitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhibitive.md)
+
 <p><span class="chinese">亚硝酸钠在40℃或50℃条件下依然有较好的缓蚀效果。</span><span class="english">NaNO2 still has a good inhibitive effect, at 40℃ or 50 ℃.</span></p>
 
 <p><span class="chinese">大蒜鳞茎粗提物对病原菌菌丝及孢子的抑制作用。</span><span class="english">Inhibitive effect on garlic bulb crude extracts to pathogen and spore.</span></p>

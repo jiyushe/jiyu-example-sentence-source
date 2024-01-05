@@ -1,5 +1,7 @@
 # duplicated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duplicated.md)
+
 <p><span class="chinese">这些是可以复制的。</span><span class="english">And those can be duplicated.</span></p>
 
 <p><span class="chinese">那是模仿原来的搭出来的新塔。</span><span class="english">That--this is duplicated tower.</span></p>

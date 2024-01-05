@@ -1,5 +1,7 @@
 # 正是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengshi_3.md)
+
 <p><span class="chinese">好片，谢谢分享，正是及时！</span><span class="english">It os very good!</span></p>
 
 <p><span class="chinese">而那正是我喜欢的。</span><span class="english">Just how I like it.</span></p>

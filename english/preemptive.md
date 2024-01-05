@@ -1,5 +1,7 @@
 # preemptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preemptive.md)
+
 <p><span class="chinese">结论异丙嗪具有超前镇痛作用。</span><span class="english">Conclusion Promethazine has the effect of preemptive analgesia.</span></p>
 
 <p><span class="chinese">春风先发苑中梅，樱杏桃梨次第开。</span><span class="english">Spring preemptive Court in plum, cherry apricot pear sequential open.</span></p>

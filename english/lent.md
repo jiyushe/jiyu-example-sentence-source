@@ -1,5 +1,7 @@
 # lent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lent.md)
+
 <p><span class="chinese">甲把钱借给乙。</span><span class="english">A lent money to B.</span></p>
 
 <p><span class="chinese">汤姆把他的笔借给了我。</span><span class="english">Tom lent me his pen.</span></p>

@@ -1,5 +1,7 @@
 # 衣冠楚楚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiguanchuchu.md)
+
 <p><span class="chinese">他衣冠楚楚。</span><span class="english">He is fully dressed.</span></p>
 
 <p><span class="chinese">下一个碰见的人是一个衣冠楚楚的小个子。</span><span class="english">The next person i met was a neat little man.</span></p>

@@ -1,5 +1,7 @@
 # 傻笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaxiao.md)
+
 <p><span class="chinese">对着水笔傻笑。</span><span class="english">Laugh at the pencil.</span></p>
 
 <p><span class="chinese">你在傻笑些什么？</span><span class="english">What are you smirking at?.</span></p>

@@ -1,5 +1,7 @@
 # 从头到尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congtoudaowei.md)
+
 <p><span class="chinese">我会从头到尾教的。</span><span class="english">I'll teach you from Bto Z.</span></p>
 
 <p><span class="chinese">从头到尾读完了一本小说。</span><span class="english">Read a novel cover to cover.</span></p>

@@ -1,5 +1,7 @@
 # tramp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tramp.md)
+
 <p><span class="chinese">流浪汉可能会向你讨钱。</span><span class="english">A tramp may ask you for money.</span></p>
 
 <p><span class="chinese">那个老流浪者拖着脚向我走来。</span><span class="english">The old tramp shambled up to me.</span></p>

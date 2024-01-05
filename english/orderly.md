@@ -1,5 +1,7 @@
 # orderly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orderly.md)
+
 <p><span class="chinese">她是一名卫生员。</span><span class="english">She is a medical orderly.</span></p>
 
 <p><span class="chinese">军士麦考夫是我的传令兵。</span><span class="english">Sergeant mckeogh was my orderly.</span></p>

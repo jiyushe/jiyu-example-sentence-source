@@ -1,5 +1,7 @@
 # paraphernalia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paraphernalia.md)
+
 <p><span class="chinese">备齐所有洗衣用具。</span><span class="english">Keep all of your laundry paraphernalia together.</span></p>
 
 <p><span class="chinese">他于是到印度置办乐器和各种用具。</span><span class="english">He had come to India to get instruments and other paraphernalia.</span></p>

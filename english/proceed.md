@@ -1,5 +1,7 @@
 # proceed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proceed.md)
+
 <p><span class="chinese">我继续循环。</span><span class="english">I proceed to loop.</span></p>
 
 <p><span class="chinese">您如何进行？</span><span class="english">How do you proceed?</span></p>

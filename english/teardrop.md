@@ -1,5 +1,7 @@
 # teardrop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teardrop.md)
+
 <p><span class="chinese">如果你是我眼中的一滴泪，我将永不哭泣。</span><span class="english">If you were a teardrop in my eyes , I will never cry.</span></p>
 
 <p><span class="chinese">蚂蚁哭泣时的一滴泪将成为你的游泳池。</span><span class="english">The teardrop of a crying and would be your swimming pool.</span></p>

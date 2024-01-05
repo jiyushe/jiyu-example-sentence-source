@@ -1,5 +1,7 @@
 # meson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meson.md)
+
 <p><span class="chinese">购买所有升级介子对撞机。</span><span class="english">Purchase all upgrades for the Meson Collider.</span></p>
 
 <p><span class="chinese">如旧的足金介子反射能力差，K金介子效果好。</span><span class="english">As the old gold meson reflecting ability, good effect of K meson.</span></p>

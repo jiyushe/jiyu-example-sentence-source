@@ -1,5 +1,7 @@
 # 充满
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongman.md)
+
 <p><span class="chinese">充满机警。</span><span class="english">alert.</span></p>
 
 <p><span class="chinese">我是如此的充满禅意。</span><span class="english">I am so ZEN.</span></p>

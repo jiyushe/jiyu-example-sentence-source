@@ -1,5 +1,7 @@
 # 红军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongjun.md)
+
 <p><span class="chinese">这时红军强渡了大渡河。</span><span class="english">The road crosses the river there.</span></p>
 
 <p><span class="chinese">红军强渡大渡河。</span><span class="english">The Red Army forced the Tadu River.</span></p>

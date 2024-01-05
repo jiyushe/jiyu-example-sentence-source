@@ -1,5 +1,7 @@
 # walkathon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walkathon.md)
+
 <p><span class="chinese">参加者请于活动当日带备步行证及确认通知信。</span><span class="english">Please bring your Walkathon Pass and Confirmation Letter when you attend the event.</span></p>
 
 <p><span class="chinese">参加者请于活动当日带备步行证及确认通知信。</span><span class="english">Please bring your Walkathon Pass and Confirmation Letter while you attend the event.</span></p>

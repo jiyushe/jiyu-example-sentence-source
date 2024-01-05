@@ -1,5 +1,7 @@
 # clanger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clanger.md)
+
 <p><span class="chinese">然而，有时人们并不能正确对待自己的过失。</span><span class="english">However, most of us can not treat our clanger in a right way.</span></p>
 
 <p><span class="chinese">他承认自己可能在管理上出了第一个岔子。</span><span class="english">He admitted he might have dropped his first managerial clanger.</span></p>

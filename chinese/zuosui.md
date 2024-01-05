@@ -1,5 +1,7 @@
 # 作祟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuosui.md)
+
 <p><span class="chinese">也许是我身上凯尔特人的性格在作祟。</span><span class="english">Perhaps it's the Celt in me.</span></p>
 
 <p><span class="chinese">这又是贪婪在作祟。</span><span class="english">This, again, is greed at play.</span></p>

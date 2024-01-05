@@ -1,5 +1,7 @@
 # 完整
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanzheng.md)
+
 <p><span class="chinese">它会给你完整的好新闻。</span><span class="english">It comes full of good news.</span></p>
 
 <p><span class="chinese">这才是完整的人。</span><span class="english">And then you've got a person.</span></p>

@@ -1,5 +1,7 @@
 # 水源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiyuan.md)
+
 <p><span class="chinese">他用卜杖在我的农场中探测水源。</span><span class="english">He divined water on my farm.</span></p>
 
 <p><span class="chinese">围场也需要水源。</span><span class="english">The p paddocks will need water.</span></p>

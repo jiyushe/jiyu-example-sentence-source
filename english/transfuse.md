@@ -1,5 +1,7 @@
 # transfuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transfuse.md)
+
 <p><span class="chinese">他不能把知识灌入您的脑子。</span><span class="english">He cannot transfuse it into your brain.</span></p>
 
 <p><span class="chinese">每天要在医院打针！</span><span class="english">Granny has to transfuse in hospital everyday.</span></p>

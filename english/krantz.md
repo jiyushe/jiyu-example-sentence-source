@@ -1,5 +1,7 @@
 # krantz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/krantz.md)
+
 <p><span class="chinese">“将军”发现他被锁在车里了。</span><span class="english">Krantz finds he's locked into the car.</span></p>
 
 <p><span class="chinese">林肯打电话给“将军”询问DMB的意义。</span><span class="english">Lincoln calls and tells Krantz to ask about DMB.</span></p>

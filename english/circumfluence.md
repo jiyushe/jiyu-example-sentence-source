@@ -1,5 +1,7 @@
 # circumfluence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumfluence.md)
+
 <p><span class="chinese">本文方法较通常紊流模型及原参数解简便，为丁坝绕流数值模拟的一条新途径。</span><span class="english">This paper develops a new method for numerical simulation on spur dike circumfluence.</span></p>
 
 <p><span class="chinese">修建丁坝可束水归槽，保护岸堤，但也会带来分离、回流等一系列复杂的流动现象。</span><span class="english">Some complex flow characteristics such as separation, circumfluence appears around spur dikes.</span></p>

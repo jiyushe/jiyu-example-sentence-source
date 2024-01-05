@@ -1,5 +1,7 @@
 # afield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afield.md)
+
 <p><span class="chinese">再难我们也一路走来了，又何惧更远的。</span><span class="english">Then we also along the way, why fear further afield.</span></p>
 
 <p><span class="chinese">但投资人也必须开始看得更远.</span><span class="english">But investors must also start looking farther afield.</span></p>

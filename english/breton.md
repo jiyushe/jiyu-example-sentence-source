@@ -1,5 +1,7 @@
 # breton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breton.md)
+
 <p><span class="chinese">据称，每年蒂埃里。布雷东家族订购该酒就超过3000箱。</span><span class="english">Ordering the Breton family of more than 3000 wine on me.</span></p>
 
 <p><span class="chinese">一大羣鸟飞越靠近布莱顿水声岛的油渍水域。</span><span class="english">Birds fly over oil on the water near Breton Sound Island.</span></p>

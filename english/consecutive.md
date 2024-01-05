@@ -1,5 +1,7 @@
 # consecutive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consecutive.md)
+
 <p><span class="chinese">数字四、五、六是一组连续数字。</span><span class="english">The number 4, 5, 6 are consecutive.</span></p>
 
 <p><span class="chinese">我们党的政策是始终如一的。</span><span class="english">The policy of our Party is consecutive.</span></p>

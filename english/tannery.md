@@ -1,5 +1,7 @@
 # tannery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tannery.md)
+
 <p><span class="chinese">把谷歌都能逼走不能把一个皮革厂治好？</span><span class="english">How you cannot operate a tannery since you can even drive Google away?</span></p>
 
 <p><span class="chinese">介绍了用制革的含铬废鞣液和废灰水生产氧化铬绿的方法。</span><span class="english">Chrome oxide green has been produced from the liquid waste of tannery industry.</span></p>

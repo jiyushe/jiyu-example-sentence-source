@@ -1,5 +1,7 @@
 # stroke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stroke.md)
+
 <p><span class="chinese">添加描边。</span><span class="english">Add a Stroke.</span></p>
 
 <p><span class="chinese">她丈夫是个尾桨手。</span><span class="english">Her husband is a stroke.</span></p>

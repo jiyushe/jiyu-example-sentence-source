@@ -1,5 +1,7 @@
 # mottled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mottled.md)
+
 <p><span class="chinese">黑色班驳的嘴。</span><span class="english">Black mottled mouth.</span></p>
 
 <p><span class="chinese">一个斑驳又破碎的梦境。</span><span class="english">A mottled and broken dreams.</span></p>

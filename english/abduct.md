@@ -1,5 +1,7 @@
 # abduct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abduct.md)
+
 <p><span class="chinese">难道他们绑架你吗？</span><span class="english">Did they abduct you?</span></p>
 
 <p><span class="chinese">绑架童车中的婴儿。</span><span class="english">To abduct a baby in its pram.</span></p>

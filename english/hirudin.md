@@ -1,5 +1,7 @@
 # hirudin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hirudin.md)
+
 <p><span class="chinese">经SDS-PAGE电泳分析证实得到水蛭素纯度较高。</span><span class="english">Hirudin was proved to be highly purified by SDS-PAGE analysis.</span></p>
 
 <p><span class="chinese">目的应用PCR方法获得水蛭素基因。</span><span class="english">PurposeThe aim is to obtain recombinant hirudin gene using PCR method.</span></p>

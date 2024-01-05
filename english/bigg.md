@@ -1,5 +1,7 @@
 # bigg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bigg.md)
+
 <p><span class="chinese">下一场对奇才将是一场大战。</span><span class="english">Bigg game vs the Wizards next.</span></p>
 
 <p><span class="chinese">情人节礼物，情人节礼物，大的和小的的。</span><span class="english">Valentines, valentines, bigg g ones and small.</span></p>

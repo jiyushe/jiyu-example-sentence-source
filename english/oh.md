@@ -1,5 +1,7 @@
 # oh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oh.md)
+
 <p><span class="chinese">天哪！</span><span class="english">Oh man!</span></p>
 
 <p><span class="chinese">哦，是的。</span><span class="english">Oh yep.</span></p>

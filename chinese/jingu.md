@@ -1,5 +1,7 @@
 # 筋骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingu.md)
+
 <p><span class="chinese">男孩嘛，需要晒晒太阳，活动筋骨。</span><span class="english">A boy needs sunshine, and exercise.</span></p>
 
 <p><span class="chinese">关于多花筋骨草的一些研究。</span><span class="english">Some studies for Ajuga multiflora Bge.</span></p>

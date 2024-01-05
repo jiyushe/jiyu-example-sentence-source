@@ -1,5 +1,7 @@
 # 小巫见大巫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaowujiandawu.md)
+
 <p><span class="chinese">我们这个温室比起你们那个简直是小巫见大巫。</span><span class="english">Our greenhouse is nothing compared with yours.</span></p>
 
 <p><span class="chinese">但比起我所经受的可是小巫见大巫。</span><span class="english">That's nothing compared to what I have to suffer.</span></p>

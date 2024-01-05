@@ -1,5 +1,7 @@
 # 不堪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukan.md)
+
 <p><span class="chinese">她使他跳得疲累不堪。</span><span class="english">She danced him weary.</span></p>
 
 <p><span class="chinese">他死后使得妻子穷愁不堪。</span><span class="english">He left his wife poor.</span></p>

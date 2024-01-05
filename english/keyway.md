@@ -1,5 +1,7 @@
 # keyway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keyway.md)
+
 <p><span class="chinese">键槽插槽工具的位置。</span><span class="english">Keyway slot for tooling location.</span></p>
 
 <p><span class="chinese">单钩在匙路活动时也会在不同的地方留下痕迹证据。</span><span class="english">The movement of the pick through the keyway also leaves forensic evidence in several places.</span></p>

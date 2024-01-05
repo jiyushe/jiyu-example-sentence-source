@@ -1,5 +1,7 @@
 # 糖纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangzhi_1.md)
+
 <p><span class="chinese">不一会儿桌子上就堆满了糖纸。</span><span class="english">Soon on the table fulls of sugars paper.</span></p>
 
 <p><span class="chinese">将烤箱预热375F，将巧克力糖纸拨除备用。</span><span class="english">Heat oven to 375F. Remove candy wrappers.</span></p>

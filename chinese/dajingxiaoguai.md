@@ -1,5 +1,7 @@
 # 大惊小怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dajingxiaoguai.md)
+
 <p><span class="chinese">这有什么好大惊小怪的？</span><span class="english">What's the big fuss?</span></p>
 
 <p><span class="chinese">所以吃狗肉有什么值得大惊小怪的。</span><span class="english">So why the fuss about dogmeat?</span></p>

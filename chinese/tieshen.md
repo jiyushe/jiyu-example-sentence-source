@@ -1,5 +1,7 @@
 # 贴身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieshen.md)
+
 <p><span class="chinese">歌手身上佩带贴身传声筒。</span><span class="english">The singer was body-miked.</span></p>
 
 <p><span class="chinese">我常穿法兰绒做贴身衣。</span><span class="english">She bought a gray flannel coat.</span></p>

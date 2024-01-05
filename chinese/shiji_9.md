@@ -1,5 +1,7 @@
 # 石级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiji_9.md)
+
 <p><span class="chinese">崎岖的石级也纷纷下坠。</span><span class="english">The rough stone stairs are down falling.</span></p>
 
 <p><span class="chinese">梅森正在前面破败的石级上坐着。</span><span class="english">Mason was seated on the broken front steps.</span></p>

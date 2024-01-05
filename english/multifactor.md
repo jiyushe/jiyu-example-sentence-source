@@ -1,5 +1,7 @@
 # multifactor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multifactor.md)
+
 <p><span class="chinese">多因素和多层身份验证</span><span class="english">Multifactor and multi-layer authentication</span></p>
 
 <p><span class="chinese">多因素身份验证本身可以分层。</span><span class="english">Multifactor authentication itself can be layered.</span></p>

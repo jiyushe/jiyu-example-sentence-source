@@ -1,5 +1,7 @@
 # substandard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substandard.md)
+
 <p><span class="chinese">纪万昌在商店里搜寻假商品或不合格的商品。</span><span class="english">Ji rummages for fake or substandard goods in shops.</span></p>
 
 <p><span class="chinese">我们更多地看见劣药而非假药。</span><span class="english">We see fake drugs less often than we see substandard ones.</span></p>

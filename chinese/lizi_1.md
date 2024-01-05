@@ -1,5 +1,7 @@
 # 粒子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizi_1.md)
+
 <p><span class="chinese">轻粒子，夸克。</span><span class="english">Leptons, quarks.</span></p>
 
 <p><span class="chinese">粒子易于结合。</span><span class="english">The particles tend to unite.</span></p>

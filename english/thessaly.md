@@ -1,5 +1,7 @@
 # thessaly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thessaly.md)
+
 <p><span class="chinese">我叫萨利·勒纳，我是四弦女士。</span><span class="english">My name is Thessaly Lerner and I am the "Ukulady".</span></p>
 
 <p><span class="chinese">人马声称赛萨利是属于他们的财产。</span><span class="english">The centaurs then claimed Thessaly as their birthright.</span></p>

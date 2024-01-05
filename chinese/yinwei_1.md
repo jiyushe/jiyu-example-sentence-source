@@ -1,5 +1,7 @@
 # 淫威
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinwei_1.md)
+
 <p><span class="chinese">她被他的淫威镇住了。</span><span class="english">She was smothered by his despotic power.</span></p>
 
 <p><span class="chinese">倘若有人敢于反抗，他就以日本人的淫威相胁迫。</span><span class="english">If any were bald enough to object, he would threaten them with the Japanese.</span></p>

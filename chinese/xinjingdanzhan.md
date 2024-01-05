@@ -1,5 +1,7 @@
 # 心惊胆战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinjingdanzhan.md)
+
 <p><span class="chinese">丁梅斯代尔先生心惊胆战地喘着气说。</span><span class="english">gasped Mr. Dimmesdale, overcome with terror.</span></p>
 
 <p><span class="chinese">这一周，我们过的心惊胆战，我们个个都人心惶惶。</span><span class="english">This week, we've frightened, we have everybody panic.</span></p>

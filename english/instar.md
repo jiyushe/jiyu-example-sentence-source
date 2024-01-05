@@ -1,5 +1,7 @@
 # instar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instar.md)
+
 <p><span class="chinese">五龄时翅芽延伸至腹部第三节。</span><span class="english">The wing buds extend to 3 rd abdomen on 5 th instar.</span></p>
 
 <p><span class="chinese">通过供给不同龄期的寄主幼虫的方法研究蜂对寄主的选择性。</span><span class="english">The host selectivity was tested by suppling host larvae with different instar.</span></p>

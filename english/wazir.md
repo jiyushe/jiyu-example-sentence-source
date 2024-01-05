@@ -1,5 +1,7 @@
 # wazir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wazir.md)
+
 <p><span class="chinese">没有人能躲在维齐尔的影子里，当然你也不行！</span><span class="english">None may stand in the shadow of the Wazir , certainly not you any way!</span></p>
 
 <p><span class="chinese">维奇尔博士认为绝大多数的烧伤妇女根本就没有机会能来到医院。</span><span class="english">Wazir believes that most of his would-be patients never make it to the hospital.</span></p>

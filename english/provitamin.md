@@ -1,5 +1,7 @@
 # provitamin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provitamin.md)
+
 <p><span class="chinese">类胡萝卜素不仅能作为维生素A的来源，而且能在人体内发挥抗氧化的作用，预防多种疾病的发生。</span><span class="english">Carotenoids act in vivo not only as provitamin A but also as antioxidant agents to prevent several diseases.</span></p>
 
 <p><span class="chinese">香气浓郁，多汁，清凉解渴，杏子是含矿物质和维生素原A最丰富的水果之一。</span><span class="english">Flavourful , juicy and refreshing, the apricot possesses one of the highest levels of minerals and provitamin A.</span></p>

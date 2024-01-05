@@ -1,5 +1,7 @@
 # 下限
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaxian.md)
+
 <p><span class="chinese">没有个QTL检测的量程下限可塑性。</span><span class="english">No QTLs were detected for plasticity of LRL.</span></p>
 
 <p><span class="chinese">最后给出了光纤陀螺对转台角速率测试的下限。</span><span class="english">And the minimum angular rate of the test was given.</span></p>

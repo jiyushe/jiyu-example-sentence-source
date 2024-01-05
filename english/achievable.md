@@ -1,5 +1,7 @@
 # achievable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/achievable.md)
+
 <p><span class="chinese">我认为那是可以实现的。</span><span class="english">That, I think, is achievable.</span></p>
 
 <p><span class="chinese">“我们认为这是个可以实现的目标，”她说。</span><span class="english">“We think it’s an achievable goal,” she says.</span></p>

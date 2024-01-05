@@ -1,5 +1,7 @@
 # 次次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cici.md)
+
 <p><span class="chinese">他次次都知道我喜欢什么。</span><span class="english">He always knows what i like.</span></p>
 
 <p><span class="chinese">每当约翰来约，简总是说行，次次如此。</span><span class="english">Jane always said yes when he asked her out.</span></p>

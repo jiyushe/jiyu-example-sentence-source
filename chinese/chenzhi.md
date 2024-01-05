@@ -1,5 +1,7 @@
 # 称职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenzhi.md)
+
 <p><span class="chinese">那么一名称职的解说员应当具备哪些条件呢？</span><span class="english">What makes a good commentator?</span></p>
 
 <p><span class="chinese">他是一个十分称职的教师。</span><span class="english">He is a highly competent teacher.</span></p>

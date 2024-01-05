@@ -1,5 +1,7 @@
 # woof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woof.md)
+
 <p><span class="chinese">我是一只小狗，汪汪汪。</span><span class="english">I'm a dog, woof woof woof.</span></p>
 
 <p><span class="chinese">它的灵魂是如此复杂以至于无法调整它自身于我们社会组织的黏滑的纬线中。</span><span class="english">Its soul is too complex to adjust itself to the slimy woof of our social fabric.</span></p>

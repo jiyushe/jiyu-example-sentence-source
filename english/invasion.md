@@ -1,5 +1,7 @@
 # invasion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invasion.md)
+
 <p><span class="chinese">这使他气恼，那个入侵。</span><span class="english">It annoyed him, the invasion.</span></p>
 
 <p><span class="chinese">什么是西拿基立入侵?。</span><span class="english">What is the Sennarcherib invasion?</span></p>

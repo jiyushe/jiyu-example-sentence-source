@@ -1,5 +1,7 @@
 # glandular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glandular.md)
+
 <p><span class="chinese">花药绒毡层属腺质绒毡层类型。</span><span class="english">The development of tapetum is glandular type.</span></p>
 
 <p><span class="chinese">子房下位，瓶形，4室，具腺。</span><span class="english">Ovary inferior, urceolate, 4-celled, glandular.</span></p>

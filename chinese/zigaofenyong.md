@@ -1,5 +1,7 @@
 # 自告奋勇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zigaofenyong.md)
+
 <p><span class="chinese">一个男人自告奋勇帮助他们。</span><span class="english">A man volunteered to help them.</span></p>
 
 <p><span class="chinese">有一个名叫毛遂的人，自告奋勇愿意同去。</span><span class="english">A man called Mao Sui volunteered.</span></p>

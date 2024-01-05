@@ -1,5 +1,7 @@
 # freedman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freedman.md)
+
 <p><span class="chinese">大西洋月刊的撰稿人大卫·费得曼写道</span><span class="english">Atlantic contributor David Freedman writes</span></p>
 
 <p><span class="chinese">弗里德曼表示，但即便如此，苹果也需要大约两年时间研制芯片。</span><span class="english">But even so, it would take about two years for Apple to come up with a chip, said Freedman.</span></p>

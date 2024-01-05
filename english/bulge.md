@@ -1,5 +1,7 @@
 # bulge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulge.md)
+
 <p><span class="chinese">瞪眼，你的眼睛可以鼓出来。</span><span class="english">Stare. Your eyes can bulge somewhat.</span></p>
 
 <p><span class="chinese">苹果把他口袋塞得鼓了起来。</span><span class="english">The apple made a bulge in his pocket.</span></p>

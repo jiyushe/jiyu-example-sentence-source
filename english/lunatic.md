@@ -1,5 +1,7 @@
 # lunatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lunatic.md)
+
 <p><span class="chinese">为什么疯狂潘多拉现在会在这？</span><span class="english">Why iz Lunatic Pandora here now?</span></p>
 
 <p><span class="chinese">我们只是希望她不要是个疯子。</span><span class="english">Let's just hope she's not a lunatic.</span></p>

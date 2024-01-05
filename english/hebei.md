@@ -1,5 +1,7 @@
 # hebei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hebei.md)
+
 <p><span class="chinese">我的地址是河北衡水。</span><span class="english">My address is Hengshui Hebei.</span></p>
 
 <p><span class="chinese">这些菜都是湖南口味。</span><span class="english">Hunan is to the south of HeBei.</span></p>

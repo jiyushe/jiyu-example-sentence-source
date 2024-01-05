@@ -1,5 +1,7 @@
 # epileptogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epileptogenic.md)
+
 <p><span class="chinese">目的探讨致痫性脑胶质瘤的手术治疗方法。</span><span class="english">Objective To explore the surgical treatment of the epileptogenic glioma.</span></p>
 
 <p><span class="chinese">在前面提到的各个亚组的患者中，也发现了大量的致癫灶。</span><span class="english">In this former sub-group of patients, a greater number of epileptogenic structures was also found.</span></p>

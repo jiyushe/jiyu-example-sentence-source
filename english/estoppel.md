@@ -1,5 +1,7 @@
 # estoppel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estoppel.md)
+
 <p><span class="chinese">禁止…反言或禁止…翻供。</span><span class="english">To impede or prohibit by estoppel.</span></p>
 
 <p><span class="chinese">禁止…反言或禁止…翻供。</span><span class="english">Law To impede or prohibit by estoppel.</span></p>

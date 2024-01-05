@@ -1,5 +1,7 @@
 # 罪案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuian.md)
+
 <p><span class="chinese">几年前，这里曾经有一些罪案发生。</span><span class="english">Years ago, there was some crime here.</span></p>
 
 <p><span class="chinese">镇上发生了一个可怕的罪案。</span><span class="english">In the town, a shocking murder occurs.</span></p>

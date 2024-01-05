@@ -1,5 +1,7 @@
 # satisfiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satisfiable.md)
+
 <p><span class="chinese">它还是生成一个清晰满足的布局。</span><span class="english">It still produces a unambiguous, satisfiable layout.</span></p>
 
 <p><span class="chinese">对于问题二，给出了满意度函数用来评价公众满意程度。</span><span class="english">The satisfiable degree function was presented to evaluate to personnel satisfied degree.</span></p>

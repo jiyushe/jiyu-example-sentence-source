@@ -1,5 +1,7 @@
 # inadequacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inadequacy.md)
+
 <p><span class="chinese">睡眠不足会引起什么症状？</span><span class="english">What symptom can Morpheus inadequacy cause?</span></p>
 
 <p><span class="chinese">睡眠不足会出现什么样的症状呢？</span><span class="english">Can Morpheus inadequacy appear what kind of symptom?</span></p>

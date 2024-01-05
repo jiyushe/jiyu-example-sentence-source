@@ -1,5 +1,7 @@
 # impetigo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impetigo.md)
+
 <p><span class="chinese">看到你的家庭医生为治疗脓疱。</span><span class="english">See your GP for treatment for impetigo.</span></p>
 
 <p><span class="chinese">用于脓疱疮等化脓性皮肤病及烧伤、溃疡面的感染。</span><span class="english">For impetigo and other purulent skin and burns, ulcers infection.</span></p>

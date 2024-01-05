@@ -1,5 +1,7 @@
 # eyepiece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyepiece.md)
+
 <p><span class="chinese">尝试使用一个高倍目镜。</span><span class="english">Try to use a higher-power eyepiece.</span></p>
 
 <p><span class="chinese">透过目镜你可以看到两个黑色的圆环。</span><span class="english">Looking through the eyepiece you will see two black circles.</span></p>

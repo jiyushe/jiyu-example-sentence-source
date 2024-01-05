@@ -1,5 +1,7 @@
 # untiring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untiring.md)
+
 <p><span class="chinese">他是位孜孜不倦努力不懈的人。</span><span class="english">He is a man of untiring industry.</span></p>
 
 <p><span class="chinese">而且，他是一个不知疲倦的艺术家。</span><span class="english">Added to this, he is an untiring artist.</span></p>

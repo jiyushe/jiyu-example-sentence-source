@@ -1,5 +1,7 @@
 # 迎接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingjie_2.md)
+
 <p><span class="chinese">我要到火车站去迎接你。</span><span class="english">I'll meet your train.</span></p>
 
 <p><span class="chinese">他为迎接来客仔细整理。</span><span class="english">He primps for callers.</span></p>

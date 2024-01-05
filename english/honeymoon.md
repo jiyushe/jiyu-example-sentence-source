@@ -1,5 +1,7 @@
 # honeymoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honeymoon.md)
+
 <p><span class="chinese">我是来度蜜月的。</span><span class="english">I'm on my honeymoon.</span></p>
 
 <p><span class="chinese">他拥有一个短暂的蜜月期。</span><span class="english">He had a brief honeymoon.</span></p>

@@ -1,5 +1,7 @@
 # 骏马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junma.md)
+
 <p><span class="chinese">女士，起来吧，回到你的小骏马上！</span><span class="english">Come on, lady!</span></p>
 
 <p><span class="chinese">骏马在草原上奔驰。</span><span class="english">Sturdy steeds gallop on the grasslands.</span></p>

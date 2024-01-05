@@ -1,5 +1,7 @@
 # 直径
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijing_1.md)
+
 <p><span class="chinese">尾座鹅毛笔直径。</span><span class="english">Tailstock quill dia.</span></p>
 
 <p><span class="chinese">纱管直径不正确。</span><span class="english">Incorrect bobbin diameter.</span></p>

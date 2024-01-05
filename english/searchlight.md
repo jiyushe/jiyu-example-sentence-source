@@ -1,5 +1,7 @@
 # searchlight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/searchlight.md)
+
 <p><span class="chinese">右翼下加装了搜索探照灯。</span><span class="english">A searchlight is added in the right wing.</span></p>
 
 <p><span class="chinese">他向飞机打探照灯。</span><span class="english">He played a searchlight upon the aeroplane.</span></p>

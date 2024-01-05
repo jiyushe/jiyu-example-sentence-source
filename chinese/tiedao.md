@@ -1,5 +1,7 @@
 # 铁道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiedao.md)
+
 <p><span class="chinese">铁道平交道口的栅栏没有上去。</span><span class="english">The railroad barrier won't go up.</span></p>
 
 <p><span class="chinese">一条营运的窄轨铁道。</span><span class="english">An operating narrow-gauge railroad.</span></p>

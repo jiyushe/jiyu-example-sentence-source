@@ -1,5 +1,7 @@
 # 风流韵事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengliuyunshi.md)
+
 <p><span class="chinese">他们的风流韵事变得明显了。</span><span class="english">Their romance was blossoming.</span></p>
 
 <p><span class="chinese">他家里发生了一件风流韵事。</span><span class="english">A romance happened in his family.</span></p>

@@ -1,5 +1,7 @@
 # 册封
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cefeng.md)
+
 <p><span class="chinese">他被国王册封为侯爵。</span><span class="english">He was conferred marquess by the king.</span></p>
 
 <p><span class="chinese">父王，看我的薄面，今日册封他为骑士吧。</span><span class="english">Father, for my sake, knight him this day.</span></p>

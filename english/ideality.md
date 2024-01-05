@@ -1,5 +1,7 @@
 # ideality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ideality.md)
+
 <p><span class="chinese">现实与理想之间总有那么大的差异。</span><span class="english">There always have much dissimilitude between praxis and ideality.</span></p>
 
 <p><span class="chinese">在这种情况,会有相对于理想情况的正的偏离。</span><span class="english">And this is a case where there's a positive deviation from ideality.</span></p>

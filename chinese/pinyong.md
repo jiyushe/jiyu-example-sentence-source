@@ -1,5 +1,7 @@
 # 聘用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinyong.md)
+
 <p><span class="chinese">我会谢绝另一家的聘用。</span><span class="english">I’ll decline the other offer.</span></p>
 
 <p><span class="chinese">没有得到面试或聘用通知？</span><span class="english">Not getting interviews or job o ers?</span></p>

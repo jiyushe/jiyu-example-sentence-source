@@ -1,5 +1,7 @@
 # 看得起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kandeqi.md)
+
 <p><span class="chinese">学生们很看得起他。</span><span class="english">Students think highly of him.</span></p>
 
 <p><span class="chinese">外国人是不会看得起你的。</span><span class="english">Foreigners are not highly of you.</span></p>

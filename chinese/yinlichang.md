@@ -1,5 +1,7 @@
 # 引力场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinlichang.md)
+
 <p><span class="chinese">现实扭曲引力场。</span><span class="english">A reality distortion field.</span></p>
 
 <p><span class="chinese">比如说，是引力场。</span><span class="english">If you think,for example,a gravitational field.</span></p>

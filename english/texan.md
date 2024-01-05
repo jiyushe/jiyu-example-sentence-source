@@ -1,5 +1,7 @@
 # texan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/texan.md)
+
 <p><span class="chinese">别人问我的出生地，我会说我是德克萨斯人。</span><span class="english">People ask me what my nationality is, I say Texan.</span></p>
 
 <p><span class="chinese">一个德克萨斯人向一个阿肯色人吹嘘他的农场。</span><span class="english">Texan was boasting to an Arkansan about his ranch.</span></p>

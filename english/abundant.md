@@ -1,5 +1,7 @@
 # abundant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abundant.md)
+
 <p><span class="chinese">四川各种矿藏蕴量丰富。</span><span class="english">Various ores were abundant.</span></p>
 
 <p><span class="chinese">中国物产丰富。</span><span class="english">China is abundant with products.</span></p>

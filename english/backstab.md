@@ -1,5 +1,7 @@
 # backstab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backstab.md)
+
 <p><span class="chinese">强化背刺和强化切割换位置…</span><span class="english">Imp backstab and imp SnD have switched places.</span></p>
 
 <p><span class="chinese">背刺现在叫穿刺伤。</span><span class="english">Improved Backstab is now called Puncturing Wounds.</span></p>

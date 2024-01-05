@@ -1,5 +1,7 @@
 # 培养基
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peiyangji.md)
+
 <p><span class="chinese">在沙氏琼脂培养基上，37℃培养生长良好。</span><span class="english">It grew well at 37℃ in Sabouraud medium.</span></p>
 
 <p><span class="chinese">生长在培养基内部的菌丝。</span><span class="english">Substrate mycelium , grow in the substate.</span></p>

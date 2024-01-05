@@ -1,5 +1,7 @@
 # 并肩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingjian_1.md)
+
 <p><span class="chinese">这个世界跟我并肩而行。</span><span class="english">The world passed me by.</span></p>
 
 <p><span class="chinese">四人并肩而行。</span><span class="english">The four of them walked abreast.</span></p>

@@ -1,5 +1,7 @@
 # urea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urea.md)
+
 <p><span class="chinese">甲环亚硝脲的中间体。</span><span class="english">A Plaza Premium intermediate urea nitrate.</span></p>
 
 <p><span class="chinese">血尿素氮及肌酐检查正常。</span><span class="english">The urea nitrogen and creatinine were normal.</span></p>

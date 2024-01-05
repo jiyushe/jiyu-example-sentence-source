@@ -1,5 +1,7 @@
 # coulter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coulter.md)
+
 <p><span class="chinese">传统犁地刀的圆盘是直的那种圆盘。</span><span class="english">The coulter disks on traditional plows are straight disks.</span></p>
 
 <p><span class="chinese">同时，真实世界中，古德温拔掉了插头，科特尔死了。</span><span class="english">At the same time, in the "real world" Goodwin has pulled the plug on Coulter and he has died.</span></p>

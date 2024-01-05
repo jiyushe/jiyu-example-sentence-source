@@ -1,5 +1,7 @@
 # 红花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/honghua.md)
+
 <p><span class="chinese">那红花正开于其上。</span><span class="english">The red flower growing.</span></p>
 
 <p><span class="chinese">红花以水浸至出香味。</span><span class="english">Soak saffron in water until aromatic.</span></p>

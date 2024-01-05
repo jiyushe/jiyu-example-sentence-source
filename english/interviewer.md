@@ -1,5 +1,7 @@
 # interviewer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interviewer.md)
+
 <p><span class="chinese">面试，你今天走运了，我是面试官，来吧，来根烟怎么样？</span><span class="english">You are lucky today. I am the interviewer.</span></p>
 
 <p><span class="chinese">每个面试官都会有一个侧重点。</span><span class="english">Each interviewer will have an area of focus.</span></p>

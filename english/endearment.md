@@ -1,5 +1,7 @@
 # endearment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endearment.md)
+
 <p><span class="chinese">宝贝是一种亲密的称呼。</span><span class="english">Baby is a term of endearment.</span></p>
 
 <p><span class="chinese">这愉悦融化了她的心。</span><span class="english">The endearment melted her heart.</span></p>

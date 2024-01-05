@@ -1,5 +1,7 @@
 # infinite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infinite.md)
+
 <p><span class="chinese">音乐是无限的。</span><span class="english">You are infinite.</span></p>
 
 <p><span class="chinese">它们丌是无限的。</span><span class="english">They are not infinite.</span></p>

@@ -1,5 +1,7 @@
 # 伴随
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bansui.md)
+
 <p><span class="chinese">欢笑伴随我左右。</span><span class="english">Fun arounds me.</span></p>
 
 <p><span class="chinese">白云伴随青风转。</span><span class="english">With this turn white.</span></p>

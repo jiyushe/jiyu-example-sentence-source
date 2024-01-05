@@ -1,5 +1,7 @@
 # forefoot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forefoot.md)
+
 <p><span class="chinese">'掌骨'。''四足动物前脚所对应的部分。</span><span class="english">The corresponding part of the forefoot of a quadruped.</span></p>
 
 <p><span class="chinese">我已经看到波浪在船的龙头下翻滚的浪花。</span><span class="english">I could see the waves boiling white under her forefoot.</span></p>

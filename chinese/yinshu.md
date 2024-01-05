@@ -1,5 +1,7 @@
 # 引述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshu.md)
+
 <p><span class="chinese">让我直接引述他的话。</span><span class="english">Let me just quote him.</span></p>
 
 <p><span class="chinese">引述与引用写法也各异。</span><span class="english">In-text citations also vary.</span></p>

@@ -1,5 +1,7 @@
 # 泥垢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nigou.md)
+
 <p><span class="chinese">泥垢总是积在肚脐眼里。</span><span class="english">Dirt gets rolled up in your navel.</span></p>
 
 <p><span class="chinese">用于轮胎时，请先洗净泥垢。</span><span class="english">For the tires, please flush the dust first.</span></p>

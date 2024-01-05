@@ -1,5 +1,7 @@
 # 省吃俭用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengchijianyong.md)
+
 <p><span class="chinese">我们现在需要省吃俭用了。</span><span class="english">We need to pinch pennies these days.</span></p>
 
 <p><span class="chinese">他们省吃俭用有多年了，以便能节省下钱买房子。</span><span class="english">They stinted for years to buy their own house.</span></p>

@@ -1,5 +1,7 @@
 # ragged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ragged.md)
+
 <p><span class="chinese">破衣烂衫暗示贫穷。</span><span class="english">Ragged clothing infers poverty.</span></p>
 
 <p><span class="chinese">破衣烂衫意味着贫穷。</span><span class="english">Ragged clothing infers poverty.</span></p>

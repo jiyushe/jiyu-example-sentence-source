@@ -1,5 +1,7 @@
 # 试看
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shikan.md)
+
 <p><span class="chinese">试看今日豪华客车，竟是谁家之天下?。</span><span class="english">Who is the winner of the luxury coach?</span></p>
 
 <p><span class="chinese">试看春残花渐落。</span><span class="english">Just see the flowers fade down before summer.</span></p>

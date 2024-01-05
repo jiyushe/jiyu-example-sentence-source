@@ -1,5 +1,7 @@
 # reportage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reportage.md)
+
 <p><span class="chinese">它不再仅仅是为了新闻报道。</span><span class="english">It wasn't just for reportage anymore.</span></p>
 
 <p><span class="chinese">报告文学的活动是一种审美活动。</span><span class="english">The reportage is a kind of aesthetic activity.</span></p>

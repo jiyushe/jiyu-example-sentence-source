@@ -1,5 +1,7 @@
 # 赶赴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganfu.md)
+
 <p><span class="chinese">目前，救援人员已赶赴现场。</span><span class="english">Currently, rescue workers rushed to the scene.</span></p>
 
 <p><span class="chinese">如果大夫实时赶赴艾米此刻还会在世。</span><span class="english">If the doctor had come in time, Bmy would still be alive.</span></p>

@@ -1,5 +1,7 @@
 # settee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/settee.md)
+
 <p><span class="chinese">那个长靠椅该扔掉了。</span><span class="english">The old settee will have to go.</span></p>
 
 <p><span class="chinese">你可以睡在中型沙发上。</span><span class="english">You can bed down on the settee.</span></p>

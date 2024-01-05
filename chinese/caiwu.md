@@ -1,5 +1,7 @@
 # 财务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caiwu.md)
+
 <p><span class="chinese">人人都有财务上的恐惧感。</span><span class="english">Everybody has financial fears.</span></p>
 
 <p><span class="chinese">重新校准你的财务价值观</span><span class="english">Recalibrating financial values</span></p>

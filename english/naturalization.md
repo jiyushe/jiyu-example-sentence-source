@@ -1,5 +1,7 @@
 # naturalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naturalization.md)
+
 <p><span class="chinese">是今天我们认为的归化。</span><span class="english">what we think of today as naturalization.</span></p>
 
 <p><span class="chinese">他们拒盔了他的褥籍申请。</span><span class="english">They rejected petition for naturalization.</span></p>

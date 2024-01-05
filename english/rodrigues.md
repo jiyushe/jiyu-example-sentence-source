@@ -1,5 +1,7 @@
 # rodrigues
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rodrigues.md)
+
 <p><span class="chinese">罗得里格兹先生昨天问我这事了。</span><span class="english">A. Mr Rodrigues was asking me about yesterday.</span></p>
 
 <p><span class="chinese">罗德里格斯和托尼德马托斯开始自己的事业。</span><span class="english">Rodrigues and Tony de Matos started their careers.</span></p>

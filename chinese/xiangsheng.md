@@ -1,5 +1,7 @@
 # 像生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangsheng.md)
+
 <p><span class="chinese">这茄子简直就像生的。</span><span class="english">These eggplants are hardly cooked at all.</span></p>
 
 <p><span class="chinese">小男孩吓得像生了根似的站在地上一动也不动。</span><span class="english">The little boy was riveted to the ground with fear.</span></p>

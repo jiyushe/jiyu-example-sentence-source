@@ -1,5 +1,7 @@
 # 赎罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzui_1.md)
+
 <p><span class="chinese">她赎罪。</span><span class="english">She atoned her sins.</span></p>
 
 <p><span class="chinese">但是这和赎罪有什么关系？</span><span class="english">But why the redemption?</span></p>

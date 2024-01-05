@@ -1,5 +1,7 @@
 # divest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divest.md)
+
 <p><span class="chinese">她企图推卸自己的责任。</span><span class="english">She managed to divest herself of responsibility.</span></p>
 
 <p><span class="chinese">他每天都暗中监视他那不忠的妻子。</span><span class="english">He could not divest himself of the suspicion that his wife was being unfaithful.</span></p>

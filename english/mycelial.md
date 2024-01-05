@@ -1,5 +1,7 @@
 # mycelial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mycelial.md)
+
 <p><span class="chinese">光照时菌丝生长发育没有明显影响。</span><span class="english">Light has no significant effect on mycelial growth of the pathogen.</span></p>
 
 <p><span class="chinese">菌丝产量与草酸产量没有相关性。</span><span class="english">There are no correlation of mycelial dry weights with oxalate production.</span></p>

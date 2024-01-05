@@ -1,5 +1,7 @@
 # 俯身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fushen.md)
+
 <p><span class="chinese">她俯身摘了一朵花。</span><span class="english">She stooped down to pick a flower.</span></p>
 
 <p><span class="chinese">他俯身过来亲吻我的脸。</span><span class="english">He reached down and kissed my face.</span></p>

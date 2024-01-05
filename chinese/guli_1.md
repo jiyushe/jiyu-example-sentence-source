@@ -1,5 +1,7 @@
 # 故里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guli_1.md)
+
 <p><span class="chinese">他要回到故里。</span><span class="english">He’s to come home.</span></p>
 
 <p><span class="chinese">这里是戚继光的故里。</span><span class="english">This was Qi Jiguang's hometown.</span></p>

@@ -1,5 +1,7 @@
 # autarchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autarchy.md)
+
 <p><span class="chinese">专制国家本质上等于固定下来的匪帮。</span><span class="english">In nature autarchy is the fixed stationary bandit.</span></p>
 
 <p><span class="chinese">专制下的绝对服从，导致社会责任感下降。</span><span class="english">The absolute obedience under the autarchy reduces the sense of responsibility.</span></p>

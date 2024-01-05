@@ -1,5 +1,7 @@
 # plotline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plotline.md)
+
 <p><span class="chinese">离奇的故事情节也为这部剧增添了不少喜剧效果。</span><span class="english">The absurd plotline also contributes to its humorous effect.</span></p>
 
 <p><span class="chinese">火爆的游戏舞台被设定在被战乱不断破坏的非洲大陆。</span><span class="english">Explosive plotline set amidst a terrible civil war in Africa.</span></p>

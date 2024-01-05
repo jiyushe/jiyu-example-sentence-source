@@ -1,5 +1,7 @@
 # qom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qom.md)
+
 <p><span class="chinese">在圣城库姆，在颈部佩戴装饰性的布条不管何种形式都是非法的。</span><span class="english">The decorative strips of neck-fabric are outlawed in the holy city of Qom.</span></p>
 
 <p><span class="chinese">它是库姆河复苏后出现的新河，历史不足10年。</span><span class="english">It is the recovery of the Qom River after the river, less than 10 years of history.</span></p>

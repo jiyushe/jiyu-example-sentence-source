@@ -1,5 +1,7 @@
 # 未果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiguo.md)
+
 <p><span class="chinese">北京在本世纪初试图从俄罗斯引进苏-33未果。</span><span class="english">Beijing unsuccessfully tried to buy Su-33s from Russia early this decade.</span></p>
 
 <p><span class="chinese">事件发生后，路透社曾想方设法要获得一份视频，未果。</span><span class="english">Since the incident, Reuters had tried in vain to obtain a copy of the video.</span></p>

@@ -1,5 +1,7 @@
 # blinking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blinking.md)
+
 <p><span class="chinese">星海在闪烁。</span><span class="english">Oceans of stars blinking.</span></p>
 
 <p><span class="chinese">他只是一个劲的眨眼睛。</span><span class="english">He was just kind of blinking.</span></p>

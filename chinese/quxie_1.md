@@ -1,5 +1,7 @@
 # 驱邪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quxie_1.md)
+
 <p><span class="chinese">如此的不，我不真的从它拿驱邪。</span><span class="english">So no, I didn't really get exorcism from it.</span></p>
 
 <p><span class="chinese">今天驱邪是更具暴力和更有系统的。</span><span class="english">Today the exorcism is more violent and systematic.</span></p>

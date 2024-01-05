@@ -1,5 +1,7 @@
 # arsonist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arsonist.md)
+
 <p><span class="chinese">是什么造就了一名纵火犯？</span><span class="english">What makes an arsonist?</span></p>
 
 <p><span class="chinese">纵火犯才14岁。</span><span class="english">The arsonist was only 14.</span></p>

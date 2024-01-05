@@ -1,5 +1,7 @@
 # 利益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liyi.md)
+
 <p><span class="chinese">不寻求自己利益。</span><span class="english">It is not self-seeking.</span></p>
 
 <p><span class="chinese">这不符合我们的利益。</span><span class="english">That’s not in our interest.</span></p>

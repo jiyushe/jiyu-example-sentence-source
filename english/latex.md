@@ -1,5 +1,7 @@
 # latex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latex.md)
+
 <p><span class="chinese">有乳胶过敏的人吗？</span><span class="english">Any allergy to latex?</span></p>
 
 <p><span class="chinese">塑料/橡胶/乳胶手套</span><span class="english">rubber, nitrile or latex gloves</span></p>

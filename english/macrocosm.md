@@ -1,5 +1,7 @@
 # macrocosm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macrocosm.md)
+
 <p><span class="chinese">向外，向整个大宇宙去寻求共鸣。</span><span class="english">It seeks for resonance from macrocosm.</span></p>
 
 <p><span class="chinese">微观世界和宏观世界界线在哪里?。</span><span class="english">Microcosmos and macrocosm boundary line where?</span></p>

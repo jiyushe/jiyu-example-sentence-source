@@ -1,5 +1,7 @@
 # 子粒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zili.md)
+
 <p><span class="chinese">若是死了，就结出许多子粒来。</span><span class="english">But if it dies, it produces many seeds.</span></p>
 
 <p><span class="chinese">在18℃和38℃下，子粒的可溶性糖含量高而淀粉含量低。</span><span class="english">Content of soluble sugar was high and starch was low at both 18℃ and 38℃.</span></p>

@@ -1,5 +1,7 @@
 # interdependent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interdependent.md)
+
 <p><span class="chinese">它是一种相互依赖的较量。</span><span class="english">It is an interdependent rivalry.</span></p>
 
 <p><span class="chinese">他说，目前三国经济上相互依赖程度日益加深。</span><span class="english">He said the three economies are getting increasingly interdependent.</span></p>

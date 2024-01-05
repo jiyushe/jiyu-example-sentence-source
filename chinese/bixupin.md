@@ -1,5 +1,7 @@
 # 必需品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bixupin.md)
+
 <p><span class="chinese">接下来的必需品是食物。</span><span class="english">Food was the next essential.</span></p>
 
 <p><span class="chinese">他甚至必需品也要俭省。</span><span class="english">He even pinches on necessities.</span></p>

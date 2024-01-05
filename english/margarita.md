@@ -1,5 +1,7 @@
 # margarita
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/margarita.md)
+
 <p><span class="chinese">或玛格丽塔鸡尾酒，任何一种你喜欢的酒都行。</span><span class="english">Or margarita. Whatever's your favorite drink.</span></p>
 
 <p><span class="chinese">我帮你弄杯喝的。玛格莉特好吗?。</span><span class="english">How about I fix you a drink? Maybe a margarita?</span></p>

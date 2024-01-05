@@ -1,5 +1,7 @@
 # 夜班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeban_1.md)
+
 <p><span class="chinese">她是值夜班的护士。</span><span class="english">She is a night nurse.</span></p>
 
 <p><span class="chinese">我正在上大夜班。</span><span class="english">I am on my graveyard shift.</span></p>

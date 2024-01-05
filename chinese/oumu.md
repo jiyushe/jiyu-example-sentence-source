@@ -1,5 +1,7 @@
 # 欧姆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/oumu.md)
+
 <p><span class="chinese">电阻是欧姆来度量的。</span><span class="english">Resistance is measured in Ohm.</span></p>
 
 <p><span class="chinese">低电阻的测量，4欧姆。</span><span class="english">Low-value resistance measurements to 4 Ohm.</span></p>

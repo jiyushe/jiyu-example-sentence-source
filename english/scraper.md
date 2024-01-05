@@ -1,5 +1,7 @@
 # scraper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scraper.md)
+
 <p><span class="chinese">我们称其为scraper方法。</span><span class="english">We call this the scraper method.</span></p>
 
 <p><span class="chinese">刮刀，以防止泥土建立车轮。</span><span class="english">Scraper to prevent mud build up on wheel.</span></p>

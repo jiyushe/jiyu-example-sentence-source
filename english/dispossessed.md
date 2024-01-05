@@ -1,5 +1,7 @@
 # dispossessed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispossessed.md)
+
 <p><span class="chinese">恐惧使她失去了理智。</span><span class="english">Fear dispossessed her of her senses.</span></p>
 
 <p><span class="chinese">被剥夺者在要求归还他们的权利。</span><span class="english">The dispossessed are demanding their rights.</span></p>

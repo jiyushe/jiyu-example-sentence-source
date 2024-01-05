@@ -1,5 +1,7 @@
 # 戏弄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinong.md)
+
 <p><span class="chinese">我们拿它戏弄朋友。</span><span class="english">We tease our friends.</span></p>
 
 <p><span class="chinese">你在戏弄我吗？</span><span class="english">You're goofing on me?</span></p>

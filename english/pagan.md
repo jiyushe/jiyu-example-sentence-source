@@ -1,5 +1,7 @@
 # pagan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pagan.md)
+
 <p><span class="chinese">史诗是一种古典的，无宗教信仰的形式。</span><span class="english">The epic form is a classical, pagan form.</span></p>
 
 <p><span class="chinese">邓娜是一位异教徒国王的女儿，并且还是处子之身。</span><span class="english">Dymphna was a virgin daughter of a pagan king.</span></p>

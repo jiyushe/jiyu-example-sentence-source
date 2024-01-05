@@ -1,5 +1,7 @@
 # 戏水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishui.md)
+
 <p><span class="chinese">只有水鸭和天鹅还在戏水。</span><span class="english">Ducks and swans are the only residents now.</span></p>
 
 <p><span class="chinese">湖上有几只鹅和鸭在戏水。</span><span class="english">Some geese and ducks are swimming on the lake.</span></p>

@@ -1,5 +1,7 @@
 # 凸版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuban.md)
+
 <p><span class="chinese">雕版印刷是一种最简单的凸版印刷。</span><span class="english">Block printing is the easiest kind of relief printing.</span></p>
 
 <p><span class="chinese">线条凸版用线条画所制成的凸版。</span><span class="english">Line block a relief plate produced from a line drawing.</span></p>

@@ -1,5 +1,7 @@
 # incisor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incisor.md)
+
 <p><span class="chinese">门牙，门齿，切牙。</span><span class="english">Incisor. He used his teeth.</span></p>
 
 <p><span class="chinese">犬牙和门牙挤压在一起。</span><span class="english">The canine is impacting on the incisor.</span></p>

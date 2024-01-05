@@ -1,5 +1,7 @@
 # throne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throne.md)
+
 <p><span class="chinese">那青年觊觎王位。</span><span class="english">He pretended to the throne.</span></p>
 
 <p><span class="chinese">我们在御座前跪下。</span><span class="english">We knelt before the throne.</span></p>

@@ -1,5 +1,7 @@
 # 吟咏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyong.md)
+
 <p><span class="chinese">吟咏仍在继续，声音空灵而虔诚。</span><span class="english">The CHANT continues, hypnotically.</span></p>
 
 <p><span class="chinese">我抚琴吟咏，却听到泪水流淌。</span><span class="english">And tears are heard within the harp I touch.</span></p>

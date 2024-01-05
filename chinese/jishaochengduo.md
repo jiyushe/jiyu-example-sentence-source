@@ -1,5 +1,7 @@
 # 积少成多
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jishaochengduo.md)
+
 <p><span class="chinese">积少成多，聚沙成塔。</span><span class="english">Every little helps a mickle.</span></p>
 
 <p><span class="chinese">积少成多，滴水成流。</span><span class="english">Every little makes a mickle.</span></p>

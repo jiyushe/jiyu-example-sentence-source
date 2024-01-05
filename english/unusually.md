@@ -1,5 +1,7 @@
 # unusually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unusually.md)
+
 <p><span class="chinese">她看起来像是一个异常聪明的姑娘。</span><span class="english">She seems an unusually clever girl.</span></p>
 
 <p><span class="chinese">这是一份措辞极其尖锐的报告。</span><span class="english">It's an unusually sharply-worded report.</span></p>

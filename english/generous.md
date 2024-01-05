@@ -1,5 +1,7 @@
 # generous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generous.md)
+
 <p><span class="chinese">这是非常慷慨的陈词。</span><span class="english">A generous note there.</span></p>
 
 <p><span class="chinese">应该更慷慨些。</span><span class="english">We should be more generous.</span></p>

@@ -1,5 +1,7 @@
 # 随机应变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suijiyingbian.md)
+
 <p><span class="chinese">情况有变，我们就该随机应变。</span><span class="english">Things change. We change.</span></p>
 
 <p><span class="chinese">他随机应变，渡过危机。</span><span class="english">By trimming the sails, he tided over the crisis.</span></p>

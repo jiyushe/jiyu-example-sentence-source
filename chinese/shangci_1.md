@@ -1,5 +1,7 @@
 # 赏赐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangci_1.md)
+
 <p><span class="chinese">既是这样，我的赏赐是什么呢。</span><span class="english">What is my reward then?</span></p>
 
 <p><span class="chinese">我要重重地赏赐你。</span><span class="english">I will pay thee royally.</span></p>

@@ -1,5 +1,7 @@
 # 月份牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuefenpai.md)
+
 <p><span class="chinese">本文就对在这一格局下产生的月份牌画作了初步考察。</span><span class="english">In this article, we make a first review about cards of months.</span></p>
 
 <p><span class="chinese">月份牌广告画记录着一个时代、一段历史、种文化。</span><span class="english">Calendar advertisement picture recorded the age, the history and the culture.</span></p>

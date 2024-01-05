@@ -1,5 +1,7 @@
 # 邀请赛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoqingsai.md)
+
 <p><span class="chinese">那场足球邀请赛因下大雪被取消了。</span><span class="english">The invitational football match was snowed off.</span></p>
 
 <p><span class="chinese">2001年度“广东中华文化杯门球邀请赛”在斗门举行。</span><span class="english">The match of GDCC Cup in 2001 were hold at Doumen.</span></p>

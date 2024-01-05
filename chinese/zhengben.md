@@ -1,5 +1,7 @@
 # 正本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengben.md)
+
 <p><span class="chinese">食为人天，农为正本。——李世民。</span><span class="english">Eat a day, as the original.</span></p>
 
 <p><span class="chinese">我们每人保留一份正本和两份副本。</span><span class="english">Each of us keeps one original and two copies.</span></p>

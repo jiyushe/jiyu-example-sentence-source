@@ -1,5 +1,7 @@
 # jurisprudence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jurisprudence.md)
+
 <p><span class="chinese">法典编纂是法律文化和法学的最高贡献。</span><span class="english">Codification is the highest contribution of jurisprudence.</span></p>
 
 <p><span class="chinese">物在民法学上是一个被广泛使用的概念。</span><span class="english">The word "property" is widely used in civil jurisprudence.</span></p>

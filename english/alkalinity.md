@@ -1,5 +1,7 @@
 # alkalinity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alkalinity.md)
+
 <p><span class="chinese">最后一只洗毛槽用来漂清羊毛，减少羊毛的碱性。</span><span class="english">The last bowl provides a rinse to reduce the alkalinity of the wool.</span></p>
 
 <p><span class="chinese">显影液总碱度在整个老化过程中基本无变化。</span><span class="english">The alkalinity of developer did not change throughout the aging process.</span></p>

@@ -1,5 +1,7 @@
 # 水电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuidian.md)
+
 <p><span class="chinese">福伊特水电是福伊特集团旗下的一个分支机构。</span><span class="english">Voith Hydro is a Group Division of Voith.</span></p>
 
 <p><span class="chinese">水电供应切断了。</span><span class="english">Electricity and water supply were cut off.</span></p>

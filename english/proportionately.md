@@ -1,5 +1,7 @@
 # proportionately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proportionately.md)
+
 <p><span class="chinese">更多支出将用于服务，硬件则成比例减少。</span><span class="english">More will go to services and proportionately less to hardware.</span></p>
 
 <p><span class="chinese">但男生想吃和想睡的次数也同比例地高出女生许多。</span><span class="english">But the men also thought about food and sleep proportionately more.</span></p>

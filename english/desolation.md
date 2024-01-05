@@ -1,5 +1,7 @@
 # desolation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desolation.md)
+
 <p><span class="chinese">巴比伦在列国中何竟荒凉。</span><span class="english">how is Babylon become a desolation among the nations!</span></p>
 
 <p><span class="chinese">看到着孤寂的景象，我心中满是凄凉。</span><span class="english">The sight of the desolation filled me with forlornness.</span></p>

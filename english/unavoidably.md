@@ -1,5 +1,7 @@
 # unavoidably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unavoidably.md)
+
 <p><span class="chinese">于是一场争斗不可避免地爆发了。</span><span class="english">So a combat broke out unavoidably.</span></p>
 
 <p><span class="chinese">实际的产品不可避免地变得丑陋。</span><span class="english">The actual product is unavoidably grotesque.</span></p>

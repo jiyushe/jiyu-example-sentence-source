@@ -1,5 +1,7 @@
 # uncannily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncannily.md)
+
 <p><span class="chinese">那些话——神秘的预言——写于20世纪20年代早期。</span><span class="english">Those words — uncannily prophetic words — were written in the early 1920s.</span></p>
 
 <p><span class="chinese">这可真是个神奇的事情，许多预言都惊人的准确。</span><span class="english">It’s a fantastic bit of history and many of the predictions are uncannily accurate.</span></p>

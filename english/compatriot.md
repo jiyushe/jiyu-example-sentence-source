@@ -1,5 +1,7 @@
 # compatriot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compatriot.md)
+
 <p><span class="chinese">他的本国同胞伏打指出，情况并非如此。</span><span class="english">His compatriot Volta showed that this was not so.</span></p>
 
 <p><span class="chinese">在四分之一决赛中，马琳击败了他的同胞王励勤。</span><span class="english">Malin defeated his compatriot Wang Liqin in the quarter final.</span></p>

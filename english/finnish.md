@@ -1,5 +1,7 @@
 # finnish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finnish.md)
+
 <p><span class="chinese">海伦是芬兰人，。</span><span class="english">Helen is Finnish.</span></p>
 
 <p><span class="chinese">他们能讲芬兰语。</span><span class="english">They can speak Finnish.</span></p>

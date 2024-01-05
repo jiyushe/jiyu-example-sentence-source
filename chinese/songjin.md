@@ -1,5 +1,7 @@
 # 松紧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songjin.md)
+
 <p><span class="chinese">松紧下摆和袖口。</span><span class="english">Elasticized hem and cuffs.</span></p>
 
 <p><span class="chinese">穿松紧线在中心聚集半身像。</span><span class="english">Gathered shirring at center bust.</span></p>

@@ -1,5 +1,7 @@
 # pursuit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pursuit.md)
+
 <p><span class="chinese">幸福是终身的追求。</span><span class="english">Happiness is lifelong pursuit.</span></p>
 
 <p><span class="chinese">他满腔热忱地从事工作。</span><span class="english">He took up his pursuit with ardor.</span></p>

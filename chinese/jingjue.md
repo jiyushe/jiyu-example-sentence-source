@@ -1,5 +1,7 @@
 # 惊厥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjue.md)
+
 <p><span class="chinese">服用圣约翰草或抗惊厥</span><span class="english">Are taking St. John's wort or anticonvulsants</span></p>
 
 <p><span class="chinese">这些惊厥和恐怖一直持续到中午。</span><span class="english">These starts and frights continued till noon.</span></p>

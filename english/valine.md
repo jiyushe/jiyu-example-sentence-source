@@ -1,5 +1,7 @@
 # valine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valine.md)
+
 <p><span class="chinese">缬氨酸是一种氨基酸。</span><span class="english">Valine is one of the essential amino acids.</span></p>
 
 <p><span class="chinese">总之这个词是指三个必需的氨基酸-亮氨酸，异亮氨酸，缬氨酸。</span><span class="english">In short the term refers to three essential amino acids – leucine, isoleucine and valine.</span></p>

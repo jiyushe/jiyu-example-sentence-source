@@ -1,5 +1,7 @@
 # lifter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lifter.md)
+
 <p><span class="chinese">阳光能令人心情振奋起来。</span><span class="english">Sunlight is a great mood lifter.</span></p>
 
 <p><span class="chinese">固定式升降货梯是小型起重机械的一种。</span><span class="english">Fixed cargo lifter is a kind of mini-crane.</span></p>

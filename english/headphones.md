@@ -1,5 +1,7 @@
 # headphones
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headphones.md)
+
 <p><span class="chinese">耳麦。</span><span class="english">Headphones.</span></p>
 
 <p><span class="chinese">立体声耳机和立体声。</span><span class="english">Stereo headphones and stereos.</span></p>

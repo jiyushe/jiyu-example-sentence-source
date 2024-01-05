@@ -1,5 +1,7 @@
 # 入侵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruqin.md)
+
 <p><span class="chinese">美国入侵阿富汗。</span><span class="english">The US invades Afghanistan.</span></p>
 
 <p><span class="chinese">这使他气恼，那个入侵。</span><span class="english">It annoyed him, the invasion.</span></p>

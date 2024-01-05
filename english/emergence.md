@@ -1,5 +1,7 @@
 # emergence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emergence.md)
+
 <p><span class="chinese">一切都真实的出现。</span><span class="english">The emergence of all true.</span></p>
 
 <p><span class="chinese">是语言的出现。</span><span class="english">is the emergence of language.</span></p>

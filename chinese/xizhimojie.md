@@ -1,5 +1,7 @@
 # 细枝末节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizhimojie.md)
+
 <p><span class="chinese">但是这普遍被认为是一个无需在意的细枝末节。</span><span class="english">But that was widely shrugged off as a minor detail.</span></p>
 
 <p><span class="chinese">无线接入是一个细枝末节，任何时候提供这种服务的成本都很低廉。</span><span class="english">The wireless access, cheap to provide at any time, is a side-issue.</span></p>

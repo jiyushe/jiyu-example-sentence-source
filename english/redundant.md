@@ -1,5 +1,7 @@
 # redundant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redundant.md)
+
 <p><span class="chinese">你的职位已经被取消了。</span><span class="english">Your positon is being made redundant.</span></p>
 
 <p><span class="chinese">是否可以删掉一些多余的词组？</span><span class="english">Can you cut out any redundant phrases?</span></p>

@@ -1,5 +1,7 @@
 # emphasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emphasis.md)
+
 <p><span class="chinese">改变的只是侧重点。</span><span class="english">What has changed is emphasis.</span></p>
 
 <p><span class="chinese">重视职业教育。</span><span class="english">Emphasis on vocational education.</span></p>

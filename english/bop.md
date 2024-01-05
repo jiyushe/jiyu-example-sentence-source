@@ -1,5 +1,7 @@
 # bop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bop.md)
+
 <p><span class="chinese">座防喷器到井口头。</span><span class="english">Land the BOP onto the well head.</span></p>
 
 <p><span class="chinese">村礼堂今晚有博普舞会。</span><span class="english">There's a bop on in the village hall tonight.</span></p>

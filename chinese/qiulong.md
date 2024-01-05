@@ -1,5 +1,7 @@
 # 囚笼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiulong.md)
+
 <p><span class="chinese">看看他们。把自己关在自己的囚笼里。</span><span class="english">Look them all. Rats in their cages.</span></p>
 
 <p><span class="chinese">我们生来是自由的，但却处处处于囚笼中。</span><span class="english">We are born free but in chains everywhere.</span></p>

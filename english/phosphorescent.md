@@ -1,5 +1,7 @@
 # phosphorescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphorescent.md)
+
 <p><span class="chinese">透明尖晶石陶瓷面板投影管的屏和锥采用了低熔点玻璃封接。</span><span class="english">The phosphorescent coating on the inside of the screen of a cathode-ray tube.</span></p>
 
 <p><span class="chinese">科研小组表示，这种磷光性的物质不需要放在阳光下直射。</span><span class="english">The team said the phosphorescent substance did not need to be exposed to direct sunlight.</span></p>

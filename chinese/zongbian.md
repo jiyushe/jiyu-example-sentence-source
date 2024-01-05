@@ -1,5 +1,7 @@
 # 总编
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongbian.md)
+
 <p><span class="chinese">谁是这家尽杂志的总编？</span><span class="english">Who is the theif editor of this magazine?</span></p>
 
 <p><span class="chinese">CNN总编马克•惠特克不同意这一点。</span><span class="english">Mark Whitaker, CNN’s managing editor, disagrees.</span></p>

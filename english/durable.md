@@ -1,5 +1,7 @@
 # durable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/durable.md)
+
 <p><span class="chinese">而且也耐穿。</span><span class="english">And durable as well.</span></p>
 
 <p><span class="chinese">我们的鞋子很耐穿。</span><span class="english">Our shoes are very durable.</span></p>

@@ -1,5 +1,7 @@
 # 运力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunli.md)
+
 <p><span class="chinese">由于今年秋季航空公司将削减运力，现在是预订机票的好时候。</span><span class="english">With capacity cuts planned for the fall, now is a good time to book.</span></p>
 
 <p><span class="chinese">同时，乘客的体验也随着运力的削减而转移。</span><span class="english">What is shifting along with diminishing capacity is the passenger experience.</span></p>

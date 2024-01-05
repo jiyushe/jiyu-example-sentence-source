@@ -1,5 +1,7 @@
 # interoperability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interoperability.md)
+
 <p><span class="chinese">提供了和其他系统的互操作能力。</span><span class="english">It offers interoperability with other systems.</span></p>
 
 <p><span class="chinese">模式是服务数据互操作能力的关键。</span><span class="english">Schemas are key to Service data interoperability.</span></p>

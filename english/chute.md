@@ -1,5 +1,7 @@
 # chute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chute.md)
+
 <p><span class="chinese">你堵住了我花半小时才弄通的垃圾道！</span><span class="english">You're clogging up the chute I just unclogged.</span></p>
 
 <p><span class="chinese">我的降落伞就是没打开，而且不可能站着落地。</span><span class="english">My chute didn't open. And you don't land standing up.</span></p>

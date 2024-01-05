@@ -1,5 +1,7 @@
 # impacted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impacted.md)
+
 <p><span class="chinese">蜂拥的人群挤满了剧场。</span><span class="english">Surging crowds impacted the theatre.</span></p>
 
 <p><span class="chinese">那个战士将他的剑紧紧插入地下。</span><span class="english">The soldier impacted his sword into the ground.</span></p>

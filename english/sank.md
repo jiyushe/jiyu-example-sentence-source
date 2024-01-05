@@ -1,5 +1,7 @@
 # sank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sank.md)
+
 <p><span class="chinese">我的心往下沉。</span><span class="english">My heart sank.</span></p>
 
 <p><span class="chinese">他们撞沉了鱼雷艇。</span><span class="english">They sank my boat.</span></p>

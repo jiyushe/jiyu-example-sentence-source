@@ -1,5 +1,7 @@
 # busboy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busboy.md)
+
 <p><span class="chinese">罗伊是个餐馆的勤杂工，乔伊斯也是。</span><span class="english">Roy is a busboy and so is Joyce.</span></p>
 
 <p><span class="chinese">他请求一位年轻的服务员帮助他。</span><span class="english">He asked a young busboy to help him.</span></p>

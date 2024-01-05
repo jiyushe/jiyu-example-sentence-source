@@ -1,5 +1,7 @@
 # traversing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traversing.md)
+
 <p><span class="chinese">我的爱，终有一天我会独自踏遍你的大街小巷。</span><span class="english">I love you one day I will be traversing the streets alone.</span></p>
 
 <p><span class="chinese">三日月以迅雷不及掩耳的速度穿越竹林。</span><span class="english">Mikazuki is traversing across the bamboo forest at lightning speed.</span></p>

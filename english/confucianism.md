@@ -1,5 +1,7 @@
 # confucianism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confucianism.md)
+
 <p><span class="chinese">儒教算不算？</span><span class="english">Now does Confucianism count?</span></p>
 
 <p><span class="chinese">家，在中国，是礼教的堡垒。</span><span class="english">At home, Chinese, Confucianism fortress.</span></p>

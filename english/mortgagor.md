@@ -1,5 +1,7 @@
 # mortgagor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortgagor.md)
+
 <p><span class="chinese">该付款必须有抵押人的会签。</span><span class="english">The payment has to countersigned by the mortgagor.</span></p>
 
 <p><span class="chinese">其财产被按揭抵押的债务人被称为抵押人。</span><span class="english">The debtor whose property is subject to the mortgage is called the mortgagor.</span></p>

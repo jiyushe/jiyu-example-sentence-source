@@ -1,5 +1,7 @@
 # parlay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parlay.md)
+
 <p><span class="chinese">不知道怎样把握实习机会获得一份全职工作？</span><span class="english">Don't know how to parlay an internship into a full-time position?</span></p>
 
 <p><span class="chinese">最后多半还是想要去动作片里赌一场的。</span><span class="english">You know, I may ultimately want to parlay into the action movie arena.</span></p>

@@ -1,5 +1,7 @@
 # 阴凉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinliang_2.md)
+
 <p><span class="chinese">屋子里昏暗阴凉。</span><span class="english">It was dim and cool in the room.</span></p>
 
 <p><span class="chinese">为我的祖国开辟一条阴凉的大道。</span><span class="english">For my country to open up a cool road.</span></p>

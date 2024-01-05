@@ -1,5 +1,7 @@
 # popper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/popper.md)
+
 <p><span class="chinese">波普是非决定论者吗?。</span><span class="english">Is K. Popper Non-determinist?</span></p>
 
 <p><span class="chinese">代表人物波普尔提出了证伪主义原则。</span><span class="english">Popper put forward the principle of falsifications.</span></p>

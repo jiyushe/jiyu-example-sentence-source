@@ -1,5 +1,7 @@
 # crappy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crappy.md)
+
 <p><span class="chinese">问人︰这是什麽垃圾逻辑？</span><span class="english">What crappy logic is this?</span></p>
 
 <p><span class="chinese">都怪他们那蹩脚的动画。</span><span class="english">It's that crappy Flash of theirs.</span></p>

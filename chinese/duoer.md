@@ -1,5 +1,7 @@
 # 朵儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoer.md)
+
 <p><span class="chinese">那里可以买花朵儿。</span><span class="english">You can buy flowers over there.</span></p>
 
 <p><span class="chinese">你总是那么说。算了，雨朵儿。拿去吧。</span><span class="english">You always say that. Well, here you are.</span></p>

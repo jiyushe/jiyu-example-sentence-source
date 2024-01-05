@@ -1,5 +1,7 @@
 # 善举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanju.md)
+
 <p><span class="chinese">大熊家族对人类的善举也有了回应。</span><span class="english">The bears are responding.</span></p>
 
 <p><span class="chinese">这还真是一个善举啊</span><span class="english">That seems like a good thing to do.</span></p>

@@ -1,5 +1,7 @@
 # ambiguously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambiguously.md)
+
 <p><span class="chinese">最后一段表达得不明确。</span><span class="english">The last paragraph is ambiguously phrased.</span></p>
 
 <p><span class="chinese">注意在这里，保罗的立场很不清晰。</span><span class="english">Notice in this,Paul himself is rather ambiguously placed.</span></p>

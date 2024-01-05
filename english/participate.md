@@ -1,5 +1,7 @@
 # participate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/participate.md)
+
 <p><span class="chinese">参与编程马拉松。</span><span class="english">Participate in hackathons.</span></p>
 
 <p><span class="chinese">我为什么不可以参加仙剑？</span><span class="english">Why can't I participate in the PAL?</span></p>

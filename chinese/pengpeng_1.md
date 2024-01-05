@@ -1,5 +1,7 @@
 # 砰砰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengpeng_1.md)
+
 <p><span class="chinese">他砰砰地拍桌子。</span><span class="english">He thumped on the table.</span></p>
 
 <p><span class="chinese">她砰砰地走回自己房间去了。</span><span class="english">She banged off to her room.</span></p>

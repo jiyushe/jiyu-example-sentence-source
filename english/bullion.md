@@ -1,5 +1,7 @@
 # bullion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullion.md)
+
 <p><span class="chinese">肩章上这些是金色的条纹？</span><span class="english">And the epaulets are gold bullion ?</span></p>
 
 <p><span class="chinese">那么，你应该购买金块吗？</span><span class="english">OK, should you buy bullion as well?</span></p>

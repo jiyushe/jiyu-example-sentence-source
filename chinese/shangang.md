@@ -1,5 +1,7 @@
 # 山冈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangang.md)
+
 <p><span class="chinese">在草原山冈和岸边四处搜寻。</span><span class="english">On meadow, the hill and the shore.</span></p>
 
 <p><span class="chinese">太阳正从山冈上升起。</span><span class="english">The sun was rising over the hills.</span></p>

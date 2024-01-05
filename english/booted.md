@@ -1,5 +1,7 @@
 # booted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/booted.md)
+
 <p><span class="chinese">他踢她的脸。</span><span class="english">He booted her in the face.</span></p>
 
 <p><span class="chinese">门卫把那个孩子轰出去了。</span><span class="english">The doorman booted the kid out.</span></p>

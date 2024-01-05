@@ -1,5 +1,7 @@
 # 南北朝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanbeichao.md)
+
 <p><span class="chinese">南北朝是中国历史上大分裂时期，战争连绵不绝。</span><span class="english">The south and north dynasties was a great abruption period.</span></p>
 
 <p><span class="chinese">南北朝时期，出现杂粽。</span><span class="english">In the northern and southern dynasties, appear miscellaneous cast.</span></p>

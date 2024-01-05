@@ -1,5 +1,7 @@
 # almanac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/almanac.md)
+
 <p><span class="chinese">如中遇到的一年历。</span><span class="english">Such as that encountered in an almanac.</span></p>
 
 <p><span class="chinese">去年的皇历，今年看不得。</span><span class="english">Last year's almanac is useless for this year.</span></p>

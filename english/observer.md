@@ -1,5 +1,7 @@
 # observer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/observer.md)
+
 <p><span class="chinese">他是一个敏锐的观察家。</span><span class="english">He is an acute observer.</span></p>
 
 <p><span class="chinese">他也是个天生的观察家。</span><span class="english">He was also a born observer.</span></p>

@@ -1,5 +1,7 @@
 # hydrolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrolysis.md)
+
 <p><span class="chinese">预处理对白鲢鱼肉蛋白质酶水解有影响。</span><span class="english">Pretreatment affected the hydrolysis of Silver carp.</span></p>
 
 <p><span class="chinese">水解在氢氧化钠溶液中进行。</span><span class="english">Hydrolysis was going on in sodium hydroxide solution.</span></p>

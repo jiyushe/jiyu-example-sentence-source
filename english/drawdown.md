@@ -1,5 +1,7 @@
 # drawdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drawdown.md)
+
 <p><span class="chinese">我们是从强势地位开始这次撤军的。</span><span class="english">We’re starting this drawdown from a position of strength.</span></p>
 
 <p><span class="chinese">在下跌阶段中，风险控制变的尤其重要。</span><span class="english">During drawdown periods, risk control becomes very important.</span></p>

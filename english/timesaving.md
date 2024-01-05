@@ -1,5 +1,7 @@
 # timesaving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timesaving.md)
+
 <p><span class="chinese">省时是否意味着做得更多？</span><span class="english">Does timesaving mean getting more done?</span></p>
 
 <p><span class="chinese">该法节省时间，操作简单，过程容易控制。</span><span class="english">The preparation method is timesaving and easy control.</span></p>

@@ -1,5 +1,7 @@
 # 没头没脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meitoumeinao.md)
+
 <p><span class="chinese">我们被他这没头没脑的话给弄愣了。</span><span class="english">We couldn't make any sense of his sudden outburst.</span></p>
 
 <p><span class="chinese">乔治叔叔没头没脑地四处找工作。</span><span class="english">There was no rhyme or reason in Uncle George's job hunting.</span></p>

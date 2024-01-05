@@ -1,5 +1,7 @@
 # 自发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zifa.md)
+
 <p><span class="chinese">他自发对于性的兴趣大减。</span><span class="english">He feels lck of interest in sex.</span></p>
 
 <p><span class="chinese">它能自发进行吗？</span><span class="english">Does it happen of its own accord?</span></p>

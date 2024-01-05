@@ -1,5 +1,7 @@
 # 抗衡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangheng.md)
+
 <p><span class="chinese">抗衡速食和快节奏生活.</span><span class="english">Rebel against fast food and fast life.</span></p>
 
 <p><span class="chinese">在这个价位上你很难找到一款可以和他抗衡的竿子。</span><span class="english">You won't find a more sensitive rod on the planet!</span></p>

@@ -1,5 +1,7 @@
 # timbering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timbering.md)
+
 <p><span class="chinese">文中对支护效果进行了评价。</span><span class="english">The test results of timbering were discussed.</span></p>
 
 <p><span class="chinese">起重机将建筑用材吊到楼上。</span><span class="english">The crane elevated the timbering upto the upstairs.</span></p>

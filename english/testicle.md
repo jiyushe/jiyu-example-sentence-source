@@ -1,5 +1,7 @@
 # testicle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/testicle.md)
+
 <p><span class="chinese">被打成了脱肠还失去了一个睾丸。</span><span class="english">He got a severe hernia and lost a testicle.</span></p>
 
 <p><span class="chinese">它是位于睾丸之上的器官。</span><span class="english">It is an organ that sits on top of the testicle.</span></p>

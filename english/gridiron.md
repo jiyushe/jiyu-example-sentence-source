@@ -1,5 +1,7 @@
 # gridiron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gridiron.md)
+
 <p><span class="chinese">嘿，教练，什么是烤架？</span><span class="english">Hey coach. What's the gridiron?</span></p>
 
 <p><span class="chinese">她在烤架上翻著饼。</span><span class="english">She turned a cake on the gridiron.</span></p>

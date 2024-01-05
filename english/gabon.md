@@ -1,5 +1,7 @@
 # gabon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gabon.md)
+
 <p><span class="chinese">主要分布在奈及利亚南部与加彭。</span><span class="english">Mainly in south Nigeria and Gabon.</span></p>
 
 <p><span class="chinese">一头河马在加蓬的海岸附近冲浪。</span><span class="english">A hippopotamus surfs the waves off the coast of Gabon.</span></p>

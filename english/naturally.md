@@ -1,5 +1,7 @@
 # naturally 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naturally.md)
+
 <p><span class="chinese">她的头发是天然卷曲的。</span><span class="english">Her hair curls naturally.</span></p>
 
 <p><span class="chinese">她的头发自然地成波浪形。</span><span class="english">Her hair waves naturally.</span></p>

@@ -1,5 +1,7 @@
 # 天气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianqi_1.md)
+
 <p><span class="chinese">这种鬼天气！</span><span class="english">Such weather!</span></p>
 
 <p><span class="chinese">天气真坏！</span><span class="english">Rough weather!</span></p>

@@ -1,5 +1,7 @@
 # abby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abby.md)
+
 <p><span class="chinese">我是艾比熊。</span><span class="english">I'm Abby Bear.</span></p>
 
 <p><span class="chinese">那天在学校，艾比画了一只大象。</span><span class="english">At school that day, Abby drew an elephant.</span></p>

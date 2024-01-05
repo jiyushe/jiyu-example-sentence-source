@@ -1,5 +1,7 @@
 # radish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radish.md)
+
 <p><span class="chinese">哇，好大的萝卜呀。</span><span class="english">Wow, good large radish.</span></p>
 
 <p><span class="chinese">这萝卜糠了。</span><span class="english">This radish has gone spongy.</span></p>

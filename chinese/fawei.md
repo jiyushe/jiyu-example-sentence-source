@@ -1,5 +1,7 @@
 # 乏味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fawei.md)
+
 <p><span class="chinese">这部影片很枯燥乏味。</span><span class="english">This movie is boring.</span></p>
 
 <p><span class="chinese">他感到生活乏味。</span><span class="english">Life seems flat to him.</span></p>

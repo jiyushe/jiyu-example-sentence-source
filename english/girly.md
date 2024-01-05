@@ -1,5 +1,7 @@
 # girly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/girly.md)
+
 <p><span class="chinese">我是个标准的都市女孩，你指望我做什么呢？！</span><span class="english">I’m an urban girly girl, whaddya want me to do!?</span></p>
 
 <p><span class="chinese">志燮在桌上跳性感女孩的舞？？？！！！</span><span class="english">Jisub danced this girly sexy dance on the table???! ! !</span></p>

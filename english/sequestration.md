@@ -1,5 +1,7 @@
 # sequestration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequestration.md)
+
 <p><span class="chinese">大气调节包括碳固定和氧气释放。</span><span class="english">Gas regulation is by both carbon sequestration and oxygen supply.</span></p>
 
 <p><span class="chinese">其中，抑制转运和隔离到液胞较为合理。</span><span class="english">Inhibited transport and sequestration to the vacuoles were reasonable.</span></p>

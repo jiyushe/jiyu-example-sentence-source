@@ -1,5 +1,7 @@
 # storage 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/storage.md)
+
 <p><span class="chinese">如何使用存储。</span><span class="english">How to use storage.</span></p>
 
 <p><span class="chinese">虚拟存储体?。</span><span class="english">VS? Virtual Storage?</span></p>

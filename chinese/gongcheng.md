@@ -1,5 +1,7 @@
 # 工程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongcheng.md)
+
 <p><span class="chinese">我热爱幻想工程。</span><span class="english">I loved Imagineering.</span></p>
 
 <p><span class="chinese">过于庞大的工程?。</span><span class="english">A mega-project too far?</span></p>

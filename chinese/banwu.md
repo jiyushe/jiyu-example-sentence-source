@@ -1,5 +1,7 @@
 # 伴舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banwu.md)
+
 <p><span class="chinese">或者只要你的九个伴舞？</span><span class="english">Or maybe just your nine dancers?</span></p>
 
 <p><span class="chinese">给白雪花伴舞。</span><span class="english">The snow white flowers dance with.</span></p>

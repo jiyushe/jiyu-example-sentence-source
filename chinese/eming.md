@@ -1,5 +1,7 @@
 # 恶名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eming.md)
+
 <p><span class="chinese">结果提你的芳名反把恶名遮掩。</span><span class="english">Naming thy name blesses an ill report.</span></p>
 
 <p><span class="chinese">你怎么可以和一个恶名昭彰的人交朋友呢？</span><span class="english">How can you make friends with a man with ill fame?</span></p>

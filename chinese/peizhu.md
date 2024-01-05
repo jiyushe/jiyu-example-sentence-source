@@ -1,5 +1,7 @@
 # 胚珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peizhu.md)
+
 <p><span class="chinese">胚珠着生于子房壁上。</span><span class="english">Ovules attached to the walls of the ovary.</span></p>
 
 <p><span class="chinese">每一子房室内约可产生160-240枚胚珠。</span><span class="english">An ovary locelle produced about 160-240 ovules.</span></p>

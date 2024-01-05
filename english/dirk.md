@@ -1,5 +1,7 @@
 # dirk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dirk.md)
+
 <p><span class="chinese">德克发财时，抛弃了旧友。</span><span class="english">Dirk cast away his old friends.</span></p>
 
 <p><span class="chinese">达格利什说道，“他在前面支援库伊特。</span><span class="english">He gets forward to support Dirk.</span></p>

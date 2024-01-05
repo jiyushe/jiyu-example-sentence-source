@@ -1,5 +1,7 @@
 # 致力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhili_4.md)
+
 <p><span class="chinese">我们会致力促进公平竞争。</span><span class="english">We will endeavour to promote fair competition.</span></p>
 
 <p><span class="chinese">联合国正在致力确保和平。</span><span class="english">The United Nations is endeavouring to establish peace.</span></p>

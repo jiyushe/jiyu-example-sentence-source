@@ -1,5 +1,7 @@
 # metamorphosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metamorphosis.md)
+
 <p><span class="chinese">这叫完全变态。</span><span class="english">This is called complete metamorphosis.</span></p>
 
 <p><span class="chinese">按此到变形虫爵士乐团的官方网站。</span><span class="english">Go to the official website of Metamorphosis.</span></p>

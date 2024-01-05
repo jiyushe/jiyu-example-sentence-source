@@ -1,5 +1,7 @@
 # barracuda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barracuda.md)
+
 <p><span class="chinese">马来西亚诗巴丹岛梭鱼点。</span><span class="english">Barracuda Point, Sipadan, Malaysia.</span></p>
 
 <p><span class="chinese">所以我们决定把那些梭鱼扔了。</span><span class="english">So we decided to throw the barracuda out.</span></p>

@@ -1,5 +1,7 @@
 # impure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impure.md)
+
 <p><span class="chinese">变成不纯洁的，世俗的。</span><span class="english">So it becomes both impure and profane.</span></p>
 
 <p><span class="chinese">猥亵的思想将导致渎神之举。</span><span class="english">Impure thoughts lead to profane actions.</span></p>

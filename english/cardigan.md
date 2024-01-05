@@ -1,5 +1,7 @@
 # cardigan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardigan.md)
+
 <p><span class="chinese">我喜欢穿我的那件红开襟绒线衫。</span><span class="english">I like to wear my red cardigan.</span></p>
 
 <p><span class="chinese">也许这会是一件没有扣子的开司米羊毛衫。</span><span class="english">Maybe it's a cashmere cardigan without buttons.</span></p>

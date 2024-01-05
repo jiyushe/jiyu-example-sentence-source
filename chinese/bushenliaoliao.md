@@ -1,5 +1,7 @@
 # 不甚了了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushenliaoliao.md)
+
 <p><span class="chinese">她们比赛感知不甚了了，她们并不冰冷。</span><span class="english">They feel pain – they are not cold.</span></p>
 
 <p><span class="chinese">他对股市的游戏规则不甚了了。</span><span class="english">He doesn't know much about the rules of game.</span></p>

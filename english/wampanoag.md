@@ -1,5 +1,7 @@
 # wampanoag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wampanoag.md)
+
 <p><span class="chinese">在加上90个万帕诺亚格的印第安人。</span><span class="english">Plus 90 Wampanoag Indians.</span></p>
 
 <p><span class="chinese">他们尽其所能去寻找，包括万帕诺亚格人的储备品。</span><span class="english">They took anything they could find, including Wampanoag supplies.</span></p>

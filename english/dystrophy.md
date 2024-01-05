@@ -1,5 +1,7 @@
 # dystrophy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dystrophy.md)
+
 <p><span class="chinese">时间过长，易导致肌肤失水、失养。</span><span class="english">Longer time easily leads to dehydration and dystrophy to skin.</span></p>
 
 <p><span class="chinese">班．卡本特因患上肌肉萎缩症，最后只得坐轮椅。</span><span class="english">Ben Carpenter has muscular dystrophy and gets around in an electric wheelchair.</span></p>

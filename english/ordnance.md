@@ -1,5 +1,7 @@
 # ordnance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ordnance.md)
+
 <p><span class="chinese">即加州理工军械合同项目。</span><span class="english">Ordnance Contract to C. I. T.</span></p>
 
 <p><span class="chinese">这是第二门火炮。</span><span class="english">This was a second piece of ordnance.</span></p>

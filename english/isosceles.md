@@ -1,5 +1,7 @@
 # isosceles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isosceles.md)
+
 <p><span class="chinese">他想证明那个三角形是等腰的。</span><span class="english">He tried to prove that the triangle was isosceles.</span></p>
 
 <p><span class="chinese">等腰三角形的两底角相等。</span><span class="english">The base angles of an isosceles triangle are equal.</span></p>

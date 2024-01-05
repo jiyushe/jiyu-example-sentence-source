@@ -1,5 +1,7 @@
 # 山巅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shandian.md)
+
 <p><span class="chinese">中午以前他们攀上了山巅。</span><span class="english">They won the top of hill by noon.</span></p>
 
 <p><span class="chinese">我们将舞于山巅。</span><span class="english">We Will Dance Atop The Mountain !</span></p>

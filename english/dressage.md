@@ -1,5 +1,7 @@
 # dressage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dressage.md)
+
 <p><span class="chinese">国际盛装舞步的受欢迎程度一直以来有增无减。</span><span class="english">The growth in popularity of international dressage has been dynamic.</span></p>
 
 <p><span class="chinese">由于第一次演讲的目的是提供知识，我讨论的是花式骑术表演的骑术。</span><span class="english">For my first speech to inform, I talked about the equestrian art of dressage.</span></p>

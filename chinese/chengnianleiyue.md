@@ -1,5 +1,7 @@
 # 成年累月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengnianleiyue.md)
+
 <p><span class="chinese">她就是这样风里来雨里去。成年累月地工作着。</span><span class="english">This how she carries on her work, rain or shine, all the year round.</span></p>
 
 <p><span class="chinese">没完没了地听唠叨，无休无止地小心暗算，成年累月地辛勤劳作。</span><span class="english">Endless listen to babble, live careful countered, and subjected to the hard-working.</span></p>

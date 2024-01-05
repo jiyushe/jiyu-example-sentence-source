@@ -1,5 +1,7 @@
 # break 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/break.md)
+
 <p><span class="chinese">不赔不赚。</span><span class="english">You break even.</span></p>
 
 <p><span class="chinese">看得我汗死了</span><span class="english">Give me a break.</span></p>

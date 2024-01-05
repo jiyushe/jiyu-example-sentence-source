@@ -1,5 +1,7 @@
 # debase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debase.md)
+
 <p><span class="chinese">你说这些谎话就降低了身份。</span><span class="english">You debase yourself by telling such lies.</span></p>
 
 <p><span class="chinese">如果你不能还债，那就把降低币值。</span><span class="english">If you can't pay your debts, debase your currency.</span></p>

@@ -1,5 +1,7 @@
 # 衣饰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishi_14.md)
+
 <p><span class="chinese">是我心衣饰的得体仪容。</span><span class="english">Is but the seemly raiment of my heart.</span></p>
 
 <p><span class="chinese">你常于哪里购买衣饰?。</span><span class="english">Which district do you shop frequently?</span></p>

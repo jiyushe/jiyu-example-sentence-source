@@ -1,5 +1,7 @@
 # 治罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizui.md)
+
 <p><span class="chinese">这些坏人应如何治罪?</span><span class="english">How should we punish these bad hats?</span></p>
 
 <p><span class="chinese">他现在被拘留了，但是还没有治罪。</span><span class="english">He's now in custody but has not been charged with a crime.</span></p>

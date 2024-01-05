@@ -1,5 +1,7 @@
 # drawback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drawback.md)
+
 <p><span class="chinese">事事不免有缺点。</span><span class="english">Everything has its drawback.</span></p>
 
 <p><span class="chinese">最受不了自己哪个缺点?。</span><span class="english">What's your most unendurable drawback?</span></p>

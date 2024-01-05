@@ -1,5 +1,7 @@
 # 不肖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxiao_1.md)
+
 <p><span class="chinese">好父亲偏生不肖子。</span><span class="english">Many a good father hath but a bad son.</span></p>
 
 <p><span class="chinese">所以他的不肖的曾孙子就可以进去？</span><span class="english">So his not-so-great grandson could get in?</span></p>

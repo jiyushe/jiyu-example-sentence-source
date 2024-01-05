@@ -1,5 +1,7 @@
 # 喷雾器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penwuqi.md)
+
 <p><span class="chinese">在农产品的货道的喷雾器又喷到我了。</span><span class="english">The sprayers in the produce aisle got me again.</span></p>
 
 <p><span class="chinese">当对一个喷雾器，这是一个不同的故事。</span><span class="english">When against a sprayer, it's a different story.</span></p>

@@ -1,5 +1,7 @@
 # girth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/girth.md)
+
 <p><span class="chinese">这树肚带是两公尺。</span><span class="english">This tree is 2 meters in girth.</span></p>
 
 <p><span class="chinese">他的腰身比我的粗多了。</span><span class="english">His girth is much ampler than mine.</span></p>

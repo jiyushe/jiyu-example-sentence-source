@@ -1,5 +1,7 @@
 # haberdashery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haberdashery.md)
+
 <p><span class="chinese">难道你以为我们是做服装生意的？</span><span class="english">What do you think we're in, the haberdashery business?</span></p>
 
 <p><span class="chinese">采购产品文具，盒子，硬件，剪刀，刀锋。</span><span class="english">Stationery, Boxes, Hardware, Scissors, Blades, Stationery and Haberdashery.</span></p>

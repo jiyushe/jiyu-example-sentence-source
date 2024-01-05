@@ -1,5 +1,7 @@
 # neighbour 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neighbour.md)
+
 <p><span class="chinese">詹姆斯是亨利的邻居。</span><span class="english">James was Herry's neighbour.</span></p>
 
 <p><span class="chinese">我的邻居是一个冷漠的人。</span><span class="english">My neighbour is a cold fish.</span></p>

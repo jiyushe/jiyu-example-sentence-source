@@ -1,5 +1,7 @@
 # quake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quake.md)
+
 <p><span class="chinese">地震就是什么巨灵咳嗽吧。</span><span class="english">Earth quake is something cough.</span></p>
 
 <p><span class="chinese">她家在地震中倒塌了。</span><span class="english">Her home collapsed in the quake.</span></p>

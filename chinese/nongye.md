@@ -1,5 +1,7 @@
 # 农业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongye.md)
+
 <p><span class="chinese">农业和园艺业。</span><span class="english">Farming and gardening.</span></p>
 
 <p><span class="chinese">农业化是什么呢？</span><span class="english">What is "agriculture"?</span></p>

@@ -1,5 +1,7 @@
 # parturition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parturition.md)
+
 <p><span class="chinese">昨天晚上分娩顺利吗?</span><span class="english">Did the parturition go well yesterday evening?</span></p>
 
 <p><span class="chinese">亚临床酮病在产犊后10—30天发病率最高。</span><span class="english">Subclinical ketosis occurred most commonly from 10 to 30 days after parturition.</span></p>

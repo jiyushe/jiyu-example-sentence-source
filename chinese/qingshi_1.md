@@ -1,5 +1,7 @@
 # 情势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshi_1.md)
+
 <p><span class="chinese">这种情势必须得到扭转。</span><span class="english">This situation must be reversed.</span></p>
 
 <p><span class="chinese">你有没有做过什么使得情势更加激烈恶化？</span><span class="english">Have you done anything to exacerbate the situation?</span></p>

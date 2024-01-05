@@ -1,5 +1,7 @@
 # scent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scent.md)
+
 <p><span class="chinese">闻香识女人。</span><span class="english">Scent of a Woman.</span></p>
 
 <p><span class="chinese">这气味我受不了。</span><span class="english">I can't bear this scent.</span></p>

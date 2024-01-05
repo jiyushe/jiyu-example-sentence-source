@@ -1,5 +1,7 @@
 # thoughtfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thoughtfulness.md)
+
 <p><span class="chinese">非常感谢你无所不至的关怀。</span><span class="english">Your thoughtfulness is very much appreciated.</span></p>
 
 <p><span class="chinese">她不会忘记你的周到和友善。</span><span class="english">She will never forget your thoughtfulness and kindness.</span></p>

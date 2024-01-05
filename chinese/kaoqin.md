@@ -1,5 +1,7 @@
 # 考勤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaoqin.md)
+
 <p><span class="chinese">这是一份学生考勤记实。</span><span class="english">This is a list of school presence.</span></p>
 
 <p><span class="chinese">这是一份学生考勤记录。</span><span class="english">This is a record of school attendance.</span></p>

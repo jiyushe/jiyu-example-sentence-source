@@ -1,5 +1,7 @@
 # profit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profit.md)
+
 <p><span class="chinese">利润空间大不大？</span><span class="english">Big profit margins?</span></p>
 
 <p><span class="chinese">他只曲身于利润之前。</span><span class="english">He bent only upon profit.</span></p>

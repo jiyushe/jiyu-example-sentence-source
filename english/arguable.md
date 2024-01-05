@@ -1,5 +1,7 @@
 # arguable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arguable.md)
+
 <p><span class="chinese">然而，这些国家存留他们的“权力”是有争议的。</span><span class="english">Yet the ‘right’ of these countries to keep them is arguable.</span></p>
 
 <p><span class="chinese">因此这些管制的合法化就变成了争论的议题。</span><span class="english">Therefore, the legitimation of these regulations becomes an arguable issue.</span></p>

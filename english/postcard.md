@@ -1,5 +1,7 @@
 # postcard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postcard.md)
+
 <p><span class="chinese">给我寄张明信片来。</span><span class="english">Drop me a postcard.</span></p>
 
 <p><span class="chinese">很高兴收到你的贺卡。</span><span class="english">Glad to receive your postcard.</span></p>

@@ -1,5 +1,7 @@
 # 到场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daochang.md)
+
 <p><span class="chinese">这天上午许多人没有到场。</span><span class="english">Many absented this morning.</span></p>
 
 <p><span class="chinese">我约请你到场我的结婚仪式。</span><span class="english">You are invited to my wedding.</span></p>

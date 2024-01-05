@@ -1,5 +1,7 @@
 # naturalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naturalize.md)
+
 <p><span class="chinese">适者生存。</span><span class="english">Those that naturalize would live.</span></p>
 
 <p><span class="chinese">他的梦想是把靛青移植到法国来。</span><span class="english">His dream was to naturalize indigo in France.</span></p>

@@ -1,5 +1,7 @@
 # faunal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faunal.md)
+
 <p><span class="chinese">我们也不知道这些动物物种联系的时间表。</span><span class="english">Nor do we have an idea as to the timing of these faunal connections.</span></p>
 
 <p><span class="chinese">动物群落与沉积环境有直接关系。</span><span class="english">Faunal assemblage are directly related to the depositional environment.</span></p>

@@ -1,5 +1,7 @@
 # 劲敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdi_1.md)
+
 <p><span class="chinese">她遇到一个劲敌。</span><span class="english">She had a vigorous opponent.</span></p>
 
 <p><span class="chinese">为何来到世上，你这玫瑰的劲敌！</span><span class="english">Why thou wert there, O rival of the rose!</span></p>

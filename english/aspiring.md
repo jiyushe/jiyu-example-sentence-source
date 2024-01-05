@@ -1,5 +1,7 @@
 # aspiring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspiring.md)
+
 <p><span class="chinese">马迪麦吉希是一个有抱负的记者。</span><span class="english">Maddy McGehee is an aspiring reporter.</span></p>
 
 <p><span class="chinese">沃伦除了做间谍，还是个充满抱负的作家。</span><span class="english">Warren is an aspiring author as well as a spy.</span></p>

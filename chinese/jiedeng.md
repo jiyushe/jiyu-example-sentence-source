@@ -1,5 +1,7 @@
 # 街灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiedeng.md)
+
 <p><span class="chinese">头顶上街灯的光晕将我笼罩。</span><span class="english">Neath the halo of a street lamp.</span></p>
 
 <p><span class="chinese">黄昏时候街灯就亮了。</span><span class="english">The street lights go on at dusk.</span></p>

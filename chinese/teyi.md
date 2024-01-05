@@ -1,5 +1,7 @@
 # 特异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teyi.md)
+
 <p><span class="chinese">耐用的固特异伟力建设。</span><span class="english">Durable Goodyear welt construction.</span></p>
 
 <p><span class="chinese">它的结构非常特异。</span><span class="english">It is very peculiar in its construction.</span></p>

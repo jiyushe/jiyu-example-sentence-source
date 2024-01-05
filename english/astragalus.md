@@ -1,5 +1,7 @@
 # astragalus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astragalus.md)
+
 <p><span class="chinese">野生匍伏型沙打旺饲用价值的研究。</span><span class="english">Study on feed value of creeping type of Astragalus adsurgens Pall.</span></p>
 
 <p><span class="chinese">那边山上生长着很多野生的红花草。</span><span class="english">There are a lot of wild Astragalus Sinicus L growing on the mountain.</span></p>

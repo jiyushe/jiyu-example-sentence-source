@@ -1,5 +1,7 @@
 # verve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verve.md)
+
 <p><span class="chinese">罗莎带着巨大的热情写作。</span><span class="english">Rosa wrote with great verve.</span></p>
 
 <p><span class="chinese">一支球队表现出了他们的激情与创造力。</span><span class="english">One of them showed verve and creativity.</span></p>

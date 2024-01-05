@@ -1,5 +1,7 @@
 # underdog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underdog.md)
+
 <p><span class="chinese">Eurisko是个弱者。</span><span class="english">Eurisko was an underdog.</span></p>
 
 <p><span class="chinese">她总是支持居劣势的一方。</span><span class="english">She always support the underdog.</span></p>

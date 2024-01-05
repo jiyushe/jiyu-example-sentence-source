@@ -1,5 +1,7 @@
 # magenta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magenta.md)
+
 <p><span class="chinese">中义印制洋红色墨的印版。</span><span class="english">The plate that prints magenta ink.</span></p>
 
 <p><span class="chinese">带有明显紫韵的深品红色。</span><span class="english">Deep magenta with a distinct purple hue.</span></p>

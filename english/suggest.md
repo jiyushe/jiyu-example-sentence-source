@@ -1,5 +1,7 @@
 # suggest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suggest.md)
+
 <p><span class="chinese">这里是我的建议。</span><span class="english">Here’s what I suggest.</span></p>
 
 <p><span class="chinese">你能提个建议吗？</span><span class="english">What would you suggest?</span></p>

@@ -1,5 +1,7 @@
 # 拍案叫绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paianjiaojue.md)
+
 <p><span class="chinese">他的技术水平令人拍案叫绝。</span><span class="english">His skill level was simply astounding.</span></p>
 
 <p><span class="chinese">他们的布景设计经常让人拍案叫绝。</span><span class="english">Their set designs are always stunning.</span></p>

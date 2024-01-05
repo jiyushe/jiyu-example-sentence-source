@@ -1,5 +1,7 @@
 # unchecked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unchecked.md)
+
 <p><span class="chinese">不能听任错误思想自由泛滥。</span><span class="english">No erroneous ideas should be allowed to spread unchecked.</span></p>
 
 <p><span class="chinese">命中注定的哪个人，总会为你排山倒海破空而来。</span><span class="english">Destined to which people, always for you to ride unchecked.</span></p>

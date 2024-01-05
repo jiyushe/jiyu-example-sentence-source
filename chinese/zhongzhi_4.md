@@ -1,5 +1,7 @@
 # 终止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhi_4.md)
+
 <p><span class="chinese">为何要终止呢</span><span class="english">Why did they stop?</span></p>
 
 <p><span class="chinese">能使我敌意终止。</span><span class="english">Could finish enmity.</span></p>

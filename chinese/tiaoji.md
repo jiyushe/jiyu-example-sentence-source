@@ -1,5 +1,7 @@
 # 跳级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoji.md)
+
 <p><span class="chinese">你可以跳级了！</span><span class="english">You might skip a grade!</span></p>
 
 <p><span class="chinese">从四年级跳级到六年级。</span><span class="english">Skip from the fourth to the sixth grade.</span></p>

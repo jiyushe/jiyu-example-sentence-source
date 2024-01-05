@@ -1,5 +1,7 @@
 # 太阳黑子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyangheizi.md)
+
 <p><span class="chinese">太阳黑子进入冬眠期？</span><span class="english">Sunspot Hibernation?</span></p>
 
 <p><span class="chinese">太阳黑子来来去去，但最近它们大多已经莫明其妙地消失了。</span><span class="english">SUNSPOTS come and go, but recently they have mostly gone.</span></p>

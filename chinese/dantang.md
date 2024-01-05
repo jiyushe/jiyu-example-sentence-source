@@ -1,5 +1,7 @@
 # 单糖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dantang.md)
+
 <p><span class="chinese">最常见的单糖是已糖和戊糖。</span><span class="english">Polysaccharides are polymers of monosaccharides.</span></p>
 
 <p><span class="chinese">单糖组分分析采用高效毛细管电泳。</span><span class="english">HPCE was applied to analysis its monosaccharides.</span></p>

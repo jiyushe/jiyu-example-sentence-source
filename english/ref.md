@@ -1,5 +1,7 @@
 # ref
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ref.md)
+
 <p><span class="chinese">裁判判那球进了。</span><span class="english">The ref allowed it.</span></p>
 
 <p><span class="chinese">裁判是个婊子。</span><span class="english">C. The Ref is a wanker.</span></p>

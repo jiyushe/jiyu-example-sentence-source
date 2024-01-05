@@ -1,5 +1,7 @@
 # moneyed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moneyed.md)
+
 <p><span class="chinese">她是一个有钱的女人。</span><span class="english">She is a moneyed woman.</span></p>
 
 <p><span class="chinese">她是一个有钱的女人。</span><span class="english">Eg. She is a moneyed woman.</span></p>

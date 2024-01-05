@@ -1,5 +1,7 @@
 # twitch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twitch.md)
+
 <p><span class="chinese">雷尔夫感到他的嘴唇在抽搐。</span><span class="english">Ralph felt his lips twitch.</span></p>
 
 <p><span class="chinese">你曾经眼睛痉挛过吗？</span><span class="english">Have you ever had an eye twitch?</span></p>

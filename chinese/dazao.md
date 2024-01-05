@@ -1,5 +1,7 @@
 # 打造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazao.md)
+
 <p><span class="chinese">并且开始打造品牌。</span><span class="english">And, start brand-ing.</span></p>
 
 <p><span class="chinese">打造帝豪集团品牌。</span><span class="english">Build Royal Group's brand.</span></p>

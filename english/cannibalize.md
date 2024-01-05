@@ -1,5 +1,7 @@
 # cannibalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cannibalize.md)
+
 <p><span class="chinese">我们必须停止互相残杀。</span><span class="english">We must stop to cannibalize each other.</span></p>
 
 <p><span class="chinese">一家公司进行有很多方法。</span><span class="english">There are many ways to cannibalize a business.</span></p>

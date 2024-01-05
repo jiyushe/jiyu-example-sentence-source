@@ -1,5 +1,7 @@
 # holly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holly.md)
+
 <p><span class="chinese">你让我的生命如此美好，荷莉。</span><span class="english">You made my life, Holly.</span></p>
 
 <p><span class="chinese">妖艳的女孩。</span><span class="english">Holly was a glamour girl.</span></p>

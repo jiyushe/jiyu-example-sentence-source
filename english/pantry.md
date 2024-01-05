@@ -1,5 +1,7 @@
 # pantry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pantry.md)
+
 <p><span class="chinese">如何贮备你的食物储藏室。</span><span class="english">How to stock your pantry.</span></p>
 
 <p><span class="chinese">保持你的食品柜里食物的整洁。</span><span class="english">Keep smart foods in your pantry.</span></p>

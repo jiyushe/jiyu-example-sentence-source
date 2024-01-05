@@ -1,5 +1,7 @@
 # 冲高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chonggao.md)
+
 <p><span class="chinese">昨日原油冲高回落，带动美豆止跌反弹。</span><span class="english">Chonggao crude oil fell yesterday, the US-led rebound stabilized.</span></p>
 
 <p><span class="chinese">上周五工作室现场介入的陕天然气今天在冲高时锁定利润。</span><span class="english">Studio last Friday to intervene at the scene of Shaanxi gas lock in profits when.</span></p>

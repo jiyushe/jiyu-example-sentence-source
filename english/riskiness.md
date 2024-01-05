@@ -1,5 +1,7 @@
 # riskiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riskiness.md)
+
 <p><span class="chinese">让你的内心开始倾诉，哪怕它将失声痛哭，这就是爱的风险和代价。</span><span class="english">Let your heart sing as it will cry, for that is the riskiness of love.</span></p>
 
 <p><span class="chinese">市场与监管者都利用评级来确定一项资产的风险水平。</span><span class="english">The markets and regulators use ratings to determine the riskiness of an asset.</span></p>

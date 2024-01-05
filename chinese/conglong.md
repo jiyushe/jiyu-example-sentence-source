@@ -1,5 +1,7 @@
 # 葱茏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/conglong.md)
+
 <p><span class="chinese">斑斑驳驳，生意葱茏。</span><span class="english">To mark or mottle with spots.</span></p>
 
 <p><span class="chinese">山上覆盖着葱茏的草木。</span><span class="english">The hills are covered with verdure.</span></p>

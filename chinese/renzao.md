@@ -1,5 +1,7 @@
 # 人造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzao.md)
+
 <p><span class="chinese">艺术是人造物，艺术包含许多文化包袱。</span><span class="english">Art is man-made.</span></p>
 
 <p><span class="chinese">它是一个人造的湖。</span><span class="english">It is a man-made lake.</span></p>

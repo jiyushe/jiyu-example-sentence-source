@@ -1,5 +1,7 @@
 # oligarchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oligarchy.md)
+
 <p><span class="chinese">金融寡头是垄断资本主义的真正统治者。</span><span class="english">The financial oligarchy is the real ruler of capitalist monopolies.</span></p>
 
 <p><span class="chinese">而中国这样一个封闭的寡头政治国家，则缺乏这类机制。</span><span class="english">In a closed oligarchy like that of China, there is no such mechanism.</span></p>

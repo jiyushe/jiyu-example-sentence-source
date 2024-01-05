@@ -1,5 +1,7 @@
 # 注销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuxiao.md)
+
 <p><span class="chinese">账已注销。</span><span class="english">The account has been written off.</span></p>
 
 <p><span class="chinese">注销一个对象。</span><span class="english">Use this to unregister an object.</span></p>

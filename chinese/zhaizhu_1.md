@@ -1,5 +1,7 @@
 # 寨主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaizhu_1.md)
+
 <p><span class="chinese">寨主很是生气。</span><span class="english">Castellan is very angry.</span></p>
 
 <p><span class="chinese">所以咪谷寨主比‘直’小。</span><span class="english">So Migu village master is younger than 'Zhi'</span></p>

@@ -1,5 +1,7 @@
 # describing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/describing.md)
+
 <p><span class="chinese">若描叙物体的话还是起名为佳。</span><span class="english">For describing them, names are better.</span></p>
 
 <p><span class="chinese">这个博弈我们还没描述完整</span><span class="english">We haven't finished describing the game.</span></p>

@@ -1,5 +1,7 @@
 # ethereal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethereal.md)
+
 <p><span class="chinese">没有轻飘的粉红色。</span><span class="english">No ethereal pinks.</span></p>
 
 <p><span class="chinese">如此的轻盈妩媚！</span><span class="english">So lightsome and ethereal and seductive!</span></p>

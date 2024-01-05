@@ -1,5 +1,7 @@
 # accountability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accountability.md)
+
 <p><span class="chinese">提高品牌的责任性。</span><span class="english">Brand accountability is heightened.</span></p>
 
 <p><span class="chinese">让你变得更有责任感。</span><span class="english">To provide you with accountability.</span></p>

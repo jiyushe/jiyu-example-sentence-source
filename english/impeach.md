@@ -1,5 +1,7 @@
 # impeach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impeach.md)
+
 <p><span class="chinese">人们苦苦哀求暴君的劾免，但都徒劳而返。</span><span class="english">Begging people to impeach the tyrant-free, but all in vain and back.</span></p>
 
 <p><span class="chinese">弹劾案的通过只需要过半众议员投赞成票。</span><span class="english">It takes a simple majority of representatives’ votes to impeach an official.</span></p>

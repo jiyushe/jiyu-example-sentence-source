@@ -1,5 +1,7 @@
 # mammals
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mammals.md)
+
 <p><span class="chinese">鲸属于哺乳动物。</span><span class="english">Whales belong among the mammals.</span></p>
 
 <p><span class="chinese">哺乳动物都是恒温动物。</span><span class="english">Mammals are warm-blooded animals.</span></p>

@@ -1,5 +1,7 @@
 # ammunition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ammunition.md)
+
 <p><span class="chinese">舰炮的弹药箱。</span><span class="english">Ammunition for a naval gun.</span></p>
 
 <p><span class="chinese">想象力即你的弹药。</span><span class="english">Your Imagination is the Ammunition.</span></p>

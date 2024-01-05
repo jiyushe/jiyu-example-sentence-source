@@ -1,5 +1,7 @@
 # adjust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjust.md)
+
 <p><span class="chinese">调整绞车刹把。</span><span class="english">Adjust the brake band.</span></p>
 
 <p><span class="chinese">调节导叶的开度。</span><span class="english">Adjust the guide glade.</span></p>

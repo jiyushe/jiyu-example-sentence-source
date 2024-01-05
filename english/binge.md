@@ -1,5 +1,7 @@
 # binge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/binge.md)
+
 <p><span class="chinese">每周放纵一天奖励自己。</span><span class="english">Reward yourself with one binge day per week.</span></p>
 
 <p><span class="chinese">诊断和治疗的狂欢饮食失调症。</span><span class="english">Diagnosis and treatment of binge eating disorder.</span></p>

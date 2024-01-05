@@ -1,5 +1,7 @@
 # slump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slump.md)
+
 <p><span class="chinese">蹒跚而行还是一蹶不振？</span><span class="english">Stumble or slump?</span></p>
 
 <p><span class="chinese">玩具业现在不景气。</span><span class="english">The toy industry is in a slump.</span></p>

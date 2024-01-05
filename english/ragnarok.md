@@ -1,5 +1,7 @@
 # ragnarok
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ragnarok.md)
+
 <p><span class="chinese">他杀死奥丁是谁在“仙境传说”神的顶部。</span><span class="english">And he killed Odin who is the top of Gods in "Ragnarok".</span></p>
 
 <p><span class="chinese">这就是为什么“仙境传说”带来的破坏给世界。</span><span class="english">That is why the "Ragnarok"will bring the destruction to the world.</span></p>

@@ -1,5 +1,7 @@
 # referable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/referable.md)
+
 <p><span class="chinese">你的爱就是我生命。</span><span class="english">I think my life referable your love.</span></p>
 
 <p><span class="chinese">这个病是由细菌引起的。</span><span class="english">This disease is referable to microbes.</span></p>

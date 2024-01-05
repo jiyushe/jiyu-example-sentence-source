@@ -1,5 +1,7 @@
 # cosmology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmology.md)
+
 <p><span class="chinese">启示书中还有一种宇宙学。</span><span class="english">And they have a cosmology.</span></p>
 
 <p><span class="chinese">物质在宇宙学中起着核心作用。</span><span class="english">Matter plays a central role in cosmology.</span></p>

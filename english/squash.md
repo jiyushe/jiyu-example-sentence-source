@@ -1,5 +1,7 @@
 # squash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squash.md)
+
 <p><span class="chinese">要啤酒还是鲜榨橙汁？</span><span class="english">Beer? Orange squash?</span></p>
 
 <p><span class="chinese">我会将你像壁球一样打。</span><span class="english">I like to squash you.</span></p>

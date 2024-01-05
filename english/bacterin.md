@@ -1,5 +1,7 @@
 # bacterin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacterin.md)
+
 <p><span class="chinese">得，你就等着再打一针疫苗吧。</span><span class="english">Just wait for a stitch bacterin again.</span></p>
 
 <p><span class="chinese">而多数情况下，此类疫苗的选择都要求使用自家苗。</span><span class="english">This almost always requires the use of an autogenous bacterin.</span></p>

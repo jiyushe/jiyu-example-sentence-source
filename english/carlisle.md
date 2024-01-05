@@ -1,5 +1,7 @@
 # carlisle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carlisle.md)
+
 <p><span class="chinese">卡莱尔看向爱德华。</span><span class="english">Carlisle looked to Edward.</span></p>
 
 <p><span class="chinese">卡莱尔开始向厨房走去。</span><span class="english">Carlisle began to walk toward the kitchen.</span></p>

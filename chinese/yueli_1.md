@@ -1,5 +1,7 @@
 # 阅历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueli_1.md)
+
 <p><span class="chinese">我们都是我们阅历的产物。</span><span class="english">We are all a product of our experience.</span></p>
 
 <p><span class="chinese">这座红色的建筑物有着丰厚的汗青阅历。</span><span class="english">This red building is steeped in history.</span></p>

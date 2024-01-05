@@ -1,5 +1,7 @@
 # 骨骼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guge.md)
+
 <p><span class="chinese">没有四肢的骨骼。</span><span class="english">There were no limb bones.</span></p>
 
 <p><span class="chinese">骨骼损坏不一定是持久的。</span><span class="english">Bone damage need not be permanent.</span></p>

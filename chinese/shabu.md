@@ -1,5 +1,7 @@
 # 纱布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shabu.md)
+
 <p><span class="chinese">我只是在这个世界才是纱布。</span><span class="english">I am just Shabu in this world.</span></p>
 
 <p><span class="chinese">打开方纱布，泡入温水中。</span><span class="english">Open squares and soak in tepid water.</span></p>

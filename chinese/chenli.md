@@ -1,5 +1,7 @@
 # 衬里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenli.md)
+
 <p><span class="chinese">平滑塔夫绸衬里。</span><span class="english">Smooth taffeta lining.</span></p>
 
 <p><span class="chinese">他的夹克没有衬里。</span><span class="english">His jacket was unlined.</span></p>

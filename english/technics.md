@@ -1,5 +1,7 @@
 # technics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technics.md)
+
 <p><span class="chinese">墙上的图表是工艺流程表。</span><span class="english">The chart on the wall is the technics flow.</span></p>
 
 <p><span class="chinese">点击此处查看马勺脸谱工艺流程。</span><span class="english">Click here to view Wooden Painted Face Technics Flow.</span></p>

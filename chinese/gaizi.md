@@ -1,5 +1,7 @@
 # 盖子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaizi.md)
+
 <p><span class="chinese">盖子一下弹开了。</span><span class="english">The lid sprang open.</span></p>
 
 <p><span class="chinese">她把盖子拴紧了。</span><span class="english">She tied the lid down.</span></p>

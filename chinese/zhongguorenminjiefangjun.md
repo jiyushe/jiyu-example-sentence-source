@@ -1,5 +1,7 @@
 # 中国人民解放军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongguorenminjiefangjun.md)
+
 <p><span class="chinese">中国人民解放军是真正的人民军队。</span><span class="english">It is truly a people's army.</span></p>
 
 <p><span class="chinese">中国人民解放军第二炮兵控制着中国的陆基导弹力量。</span><span class="english">The 2nd Artillery Corps of the People's Liberation Army controls China's land-based missile forces.</span></p>

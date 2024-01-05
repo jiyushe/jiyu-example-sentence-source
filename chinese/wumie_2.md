@@ -1,5 +1,7 @@
 # 诬蔑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wumie_2.md)
+
 <p><span class="chinese">该报社论诬蔑这名政治家。</span><span class="english">The newspaper editorial defamed the politician.</span></p>
 
 <p><span class="chinese">他们都批准和诬蔑某些行为。</span><span class="english">They both ratify and stigmatize certain behaviors.</span></p>

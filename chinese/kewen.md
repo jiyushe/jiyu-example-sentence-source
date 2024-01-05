@@ -1,5 +1,7 @@
 # 课文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kewen.md)
+
 <p><span class="chinese">我们读课文。</span><span class="english">We read texts.</span></p>
 
 <p><span class="chinese">谁会背诵课文？</span><span class="english">Who can recite the text?</span></p>

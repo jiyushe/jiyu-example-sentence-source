@@ -1,5 +1,7 @@
 # gingham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gingham.md)
+
 <p><span class="chinese">他瞄了一眼条棉布衫和破旧西装外套，然后大声说，“一栋楼！</span><span class="english">He glanced at the gingham dress and homespun suit, then exclaimed, "A building!"</span></p>
 
 <p><span class="chinese">她完全是手工制作的，她有着一张色彩鲜丽的脸孔，穿着条花格棉布裙子，用以遮盖她因“怀胎”而隆起的腹部。</span><span class="english">She was handmade, with a painted face, and she wore a gingham dress to conceal her baby bulge.</span></p>

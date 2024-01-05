@@ -1,5 +1,7 @@
 # sisterly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sisterly.md)
+
 <p><span class="chinese">她对兄长怀有真正的骨肉之情。</span><span class="english">She had a true sisterly feeling for her brother.</span></p>
 
 <p><span class="chinese">俩之间的亲密交谈一直继续到半夜。</span><span class="english">The sisterly chat between the two of them lasted till midnight.</span></p>

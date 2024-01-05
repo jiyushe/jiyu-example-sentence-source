@@ -1,5 +1,7 @@
 # 杆儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganer.md)
+
 <p><span class="chinese">用手握住两根杆儿。</span><span class="english">Use your hand to hold two rods.</span></p>
 
 <p><span class="chinese">玉米杆儿被编成了一只筏子。</span><span class="english">The corn stalks are woven into a raft.</span></p>

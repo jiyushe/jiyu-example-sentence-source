@@ -1,5 +1,7 @@
 # outlaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outlaw.md)
+
 <p><span class="chinese">这是一个法律淡泊的国家。</span><span class="english">This is an outlaw country.</span></p>
 
 <p><span class="chinese">挑战布莱尔将猎狐非法化的计划。</span><span class="english">Challenged Blair on plans to outlaw foxhunting.</span></p>

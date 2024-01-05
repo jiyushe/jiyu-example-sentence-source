@@ -1,5 +1,7 @@
 # monographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monographic.md)
+
 <p><span class="chinese">第二部分是对本专题教学内容的分析。</span><span class="english">The second part is the analysis of the monographic teaching content.</span></p>
 
 <p><span class="chinese">本文正是基于上述现实问题而进行的一项专题研究。</span><span class="english">The article is to make a monographic study based upon such present necessities.</span></p>

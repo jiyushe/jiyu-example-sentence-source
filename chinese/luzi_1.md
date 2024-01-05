@@ -1,5 +1,7 @@
 # 路子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luzi_1.md)
+
 <p><span class="chinese">这路子对头。</span><span class="english">It is the right way.</span></p>
 
 <p><span class="chinese">这就是致富的路子。</span><span class="english">It's the road to riches.</span></p>

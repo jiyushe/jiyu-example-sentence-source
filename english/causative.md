@@ -1,5 +1,7 @@
 # causative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/causative.md)
+
 <p><span class="chinese">无论如何也不可能决定巴黎的建筑。</span><span class="english">It's by no means causative of the skyline of Paris.</span></p>
 
 <p><span class="chinese">胰腺癌唯一公认的致因是吸烟。</span><span class="english">The only well-established causative factor is cigarette smoking.</span></p>

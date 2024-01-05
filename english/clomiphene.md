@@ -1,5 +1,7 @@
 # clomiphene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clomiphene.md)
+
 <p><span class="chinese">本发明提供了一种水溶性克罗米芬制剂。</span><span class="english">The present invention provides a water-soluble clomiphene preparation.</span></p>
 
 <p><span class="chinese">二甲双胍加克罗米芬治疗3个周期。</span><span class="english">Patients, in group C were treated by Metformin and Clomiphene for 3 cycles.</span></p>

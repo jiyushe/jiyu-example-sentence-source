@@ -1,5 +1,7 @@
 # dissolving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissolving.md)
+
 <p><span class="chinese">化学木浆，溶解级。</span><span class="english">Chemical wood pulp, dissolving grades.</span></p>
 
 <p><span class="chinese">此起彼伏的鼾声消溶在昏黄的夜灯里。</span><span class="english">As one falls snoring dissolving in the dim light.</span></p>

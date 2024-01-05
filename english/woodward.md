@@ -1,5 +1,7 @@
 # woodward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodward.md)
+
 <p><span class="chinese">奥利弗伍德沃德的非凡真实故事。</span><span class="english">The extraordinary true story of Oliver Woodward.</span></p>
 
 <p><span class="chinese">伍德沃德说，当一名新闻记者是世界上最好的工作。</span><span class="english">Being a journalist is the best job in the world, Woodward said.</span></p>

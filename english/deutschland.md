@@ -1,5 +1,7 @@
 # deutschland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deutschland.md)
+
 <p><span class="chinese">您到德国来的目的是什么？</span><span class="english">Was machen Sie in Deutschland?</span></p>
 
 <p><span class="chinese">您打算在德国做什么？</span><span class="english">Was haben Sie in Deutschland vor?</span></p>

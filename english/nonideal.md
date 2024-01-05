@@ -1,5 +1,7 @@
 # nonideal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonideal.md)
+
 <p><span class="chinese">混合胶束形成可用Rubingh的非理想混合胶束理论来描述。</span><span class="english">The mixed micelle formation can be well predicted by RUBINGH's nonideal mixed micelle theory.</span></p>
 
 <p><span class="chinese">植树造林是改善非理想人居环境的又一重要措施。</span><span class="english">The afforestation is also one of the important measures to improve the nonideal human settlement.</span></p>

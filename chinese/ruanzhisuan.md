@@ -1,5 +1,7 @@
 # 软脂酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanzhisuan.md)
+
 <p><span class="chinese">软脂酸盐也会增加IL-6和SOD2的基因表达，这种作用会因抑制NFB而被阻止。</span><span class="english">Palmitate also increased IL-6 and SOD2 gene expression, and this effect was prevented by inhibiting NFB.</span></p>
 
 <p><span class="chinese">实验结果尚无法确实认定添加软脂酸对薄膜拉伸抗张强度之影响，但可显示会减少薄膜延展率。</span><span class="english">Palmitic acid seemed to decrease the elongation percentage, although no conclusive results were found on tensile strength.</span></p>

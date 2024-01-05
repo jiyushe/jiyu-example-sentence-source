@@ -1,5 +1,7 @@
 # 低潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dichao.md)
+
 <p><span class="chinese">但是这个低潮是短暂的。</span><span class="english">The setback was only temporary, however.</span></p>
 
 <p><span class="chinese">当时，美法关系处于低潮。</span><span class="english">It came as US-French relations were at a low point.</span></p>

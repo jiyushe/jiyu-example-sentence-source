@@ -1,5 +1,7 @@
 # lure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lure.md)
+
 <p><span class="chinese">因此要早诱食。</span><span class="english">So early to lure food.</span></p>
 
 <p><span class="chinese">丹妮明白家的诱惑有多大。</span><span class="english">Dany knew the lure of home.</span></p>

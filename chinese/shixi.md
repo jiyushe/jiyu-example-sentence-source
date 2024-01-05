@@ -1,5 +1,7 @@
 # 世袭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixi.md)
+
 <p><span class="chinese">她认为世袭贵族应当被废除。</span><span class="english">She believes that hereditary peerages should be abolished.</span></p>
 
 <p><span class="chinese">世袭荫叙制的影响。</span><span class="english">Fourth, the system of hereditary characteristics Syria Yam.</span></p>

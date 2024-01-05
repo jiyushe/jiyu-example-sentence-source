@@ -1,5 +1,7 @@
 # 行走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzou.md)
+
 <p><span class="chinese">怎样行走。</span><span class="english">How to walk.</span></p>
 
 <p><span class="chinese">我行走于梦中。</span><span class="english">I walk in the dream.</span></p>

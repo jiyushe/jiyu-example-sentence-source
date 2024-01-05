@@ -1,5 +1,7 @@
 # surveil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surveil.md)
+
 <p><span class="chinese">介绍了一种可即时监视船舶各设备状态的船用监视设备。</span><span class="english">We introduce the Surveillance equipment which could surveil the status of other equipment.</span></p>
 
 <p><span class="chinese">六正常运转、维护、监察及定期检查计画。</span><span class="english">Plans for the conduct of normal operations, maintenance, surveil lance and periodic testing.</span></p>

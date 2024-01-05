@@ -1,5 +1,7 @@
 # 声名狼藉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengminglangji.md)
+
 <p><span class="chinese">这是个声名狼藉的晚间俱乐部。</span><span class="english">It is a louche night club.</span></p>
 
 <p><span class="chinese">看看这位声名狼藉的伪证犯！</span><span class="english">Look upon the Infamous Perjurer!</span></p>

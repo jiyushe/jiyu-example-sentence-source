@@ -1,5 +1,7 @@
 # 亲口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinkou.md)
+
 <p><span class="chinese">他亲口说的。</span><span class="english">He said it himself.</span></p>
 
 <p><span class="chinese">给我你的爱，承以你亲口允诺。</span><span class="english">If you promise that you love me.</span></p>

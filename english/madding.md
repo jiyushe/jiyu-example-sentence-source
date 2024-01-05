@@ -1,5 +1,7 @@
 # madding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madding.md)
+
 <p><span class="chinese">远离发狂的群众，灰尘，烟和喧嚣。</span><span class="english">Away from the madding crowd, dust , smoke and din.</span></p>
 
 <p><span class="chinese">热闹喧嚣的场面下，蕴涵着浓重的虚幻感和荒诞意识。</span><span class="english">The"Madding Crowd"conceals the deep sense of illusion and absurdity.</span></p>

@@ -1,5 +1,7 @@
 # throat 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throat.md)
+
 <p><span class="chinese">喉咙痛。</span><span class="english">A sore throat.</span></p>
 
 <p><span class="chinese">我的喉咙发肿。</span><span class="english">My throat swells.</span></p>

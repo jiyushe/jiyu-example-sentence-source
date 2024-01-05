@@ -1,5 +1,7 @@
 # epicontinental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epicontinental.md)
+
 <p><span class="chinese">埕岛油田是我国投入开发的第一个浅海整装大油田。</span><span class="english">Chengdao oilfield is the first developed epicontinental sea monoblock oilfield.</span></p>
 
 <p><span class="chinese">在东亚的陆缘地区。存在着一系列的陆缘弧。</span><span class="english">There are a series of epicontinental ares in the marginal regions of the East Asia.</span></p>

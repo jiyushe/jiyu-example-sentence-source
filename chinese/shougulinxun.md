@@ -1,5 +1,7 @@
 # 瘦骨嶙峋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shougulinxun.md)
+
 <p><span class="chinese">一只瘦骨嶙峋的狐狸趴在高处的小丘顶上。</span><span class="english">A skinny fox sits on the hill above.</span></p>
 
 <p><span class="chinese">她如今不再是清瘦而是瘦骨嶙峋。</span><span class="english">She was not merely thin but skeletal.</span></p>

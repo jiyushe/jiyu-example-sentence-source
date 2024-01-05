@@ -1,5 +1,7 @@
 # sapphire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sapphire.md)
+
 <p><span class="chinese">是要钻石的、红宝石的还是蓝宝石的？</span><span class="english">A sapphire that was cut cabochon.</span></p>
 
 <p><span class="chinese">叫“蓝宝石”则很爱扮酷，喜欢穿蓝色衣服。</span><span class="english">Sapphire is cool and prefers to wear blue.</span></p>

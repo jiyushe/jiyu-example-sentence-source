@@ -1,5 +1,7 @@
 # 偏远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianyuan.md)
+
 <p><span class="chinese">这是一个非常偏远的地区。</span><span class="english">It is a very remote area.</span></p>
 
 <p><span class="chinese">而土耳其的南部偏远地区却是一片蛮荒之地。</span><span class="english">But farther south Turkey is on virgin turf.</span></p>

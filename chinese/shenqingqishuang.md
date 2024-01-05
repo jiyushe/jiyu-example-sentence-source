@@ -1,5 +1,7 @@
 # 神清气爽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqingqishuang.md)
+
 <p><span class="chinese">你会觉得更神清气爽，而且很省钱。</span><span class="english">You will feel better and save money.</span></p>
 
 <p><span class="chinese">在大热天，没有什么能像冰饮料那样让人神清气爽.</span><span class="english">Nothing is as refreshing as ice-cold drinks on a hot day.</span></p>

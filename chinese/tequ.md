@@ -1,5 +1,7 @@
 # 特区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tequ.md)
+
 <p><span class="chinese">他住在海格特区附近某处。</span><span class="english">He lives somewhere Highgate way.</span></p>
 
 <p><span class="chinese">华盛顿特区，是一个高消费城市。</span><span class="english">Washington, D.C., in an expensive city.</span></p>

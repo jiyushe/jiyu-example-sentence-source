@@ -1,5 +1,7 @@
 # password
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/password.md)
+
 <p><span class="chinese">输入用户和口令。</span><span class="english">Enter user and password.</span></p>
 
 <p><span class="chinese">密码保留空白。</span><span class="english">Leave the password blank.</span></p>

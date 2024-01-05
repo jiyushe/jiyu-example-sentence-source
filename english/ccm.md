@@ -1,5 +1,7 @@
 # ccm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ccm.md)
+
 <p><span class="chinese">对CCM标准进行了改进，提出了新的构件模型Z-CCM。</span><span class="english">Raised a new component model Z-CCM that optimized CCM.</span></p>
 
 <p><span class="chinese">是的，我怀念牧养的工作，但我喜欢中信的挑战。</span><span class="english">Yes, I miss pastoring, but am consistently being challenged at CCM.</span></p>

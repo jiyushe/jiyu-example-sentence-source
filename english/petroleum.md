@@ -1,5 +1,7 @@
 # petroleum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petroleum.md)
+
 <p><span class="chinese">石油是油性的。</span><span class="english">Petroleum is oil based.</span></p>
 
 <p><span class="chinese">二甲苯。白电油。</span><span class="english">Xylene. white petroleum spirit.</span></p>

@@ -1,5 +1,7 @@
 # unaided
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unaided.md)
+
 <p><span class="chinese">他只身捕获一头狮子。</span><span class="english">He captured a lion unaided by anyone.</span></p>
 
 <p><span class="chinese">到今天就四个月了，拉尔夫终于独立地站立起来。</span><span class="english">Four months to the day, Ralph finally stood unaided.</span></p>

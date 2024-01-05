@@ -1,5 +1,7 @@
 # 公子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzi.md)
+
 <p><span class="chinese">他是个典型的浪荡公子。</span><span class="english">He is a typical B. T. O.</span></p>
 
 <p><span class="chinese">段公子实在是帅啊！</span><span class="english">All in all is all we all are.</span></p>

@@ -1,5 +1,7 @@
 # 写实主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieshizhuyi.md)
+
 <p><span class="chinese">这就是写实主义的缺陷。</span><span class="english">This is a deficiency in realistic painting.</span></p>
 
 <p><span class="chinese">导演还因时写实主义的要求而增加了投入。</span><span class="english">The director also raised costs with his demands for realism.</span></p>

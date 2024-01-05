@@ -1,5 +1,7 @@
 # inefficiently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inefficiently.md)
+
 <p><span class="chinese">这样就导致了汽油的过度消费。</span><span class="english">The upshot is that gasoline consumption is inefficiently high.</span></p>
 
 <p><span class="chinese">困难在于，生产率增长本身通常很难直观的加以数量化。</span><span class="english">Unfortunately, productivity growth is itself often inefficiently measured.</span></p>

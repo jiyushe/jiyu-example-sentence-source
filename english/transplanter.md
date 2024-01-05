@@ -1,5 +1,7 @@
 # transplanter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transplanter.md)
+
 <p><span class="chinese">新设计的插秧机不久即可使用。</span><span class="english">The newly designed rice transplanter will soon be operational.</span></p>
 
 <p><span class="chinese">设计了一种适用于多规格穴盘苗移栽的移栽机。</span><span class="english">A transplanter applied to multi-spec potted trays was designed.</span></p>

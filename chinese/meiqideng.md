@@ -1,5 +1,7 @@
 # 煤气灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiqideng.md)
+
 <p><span class="chinese">煤气灯吹灭了。</span><span class="english">The gas lamp blew out.</span></p>
 
 <p><span class="chinese">煤气灯投下一片片幽暗的光。</span><span class="english">Gaslights cast a shadowy glow.</span></p>

@@ -1,5 +1,7 @@
 # synchronous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synchronous.md)
+
 <p><span class="chinese">同步还是异步？</span><span class="english">Synchronous or asynchronous?</span></p>
 
 <p><span class="chinese">减数分裂同步率较高。</span><span class="english">The meiosis is highly synchronous.</span></p>

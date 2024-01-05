@@ -1,5 +1,7 @@
 # 鹌鹑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anchun.md)
+
 <p><span class="chinese">那只狗于鹌鹑惊起。</span><span class="english">The dog flushed a quail.</span></p>
 
 <p><span class="chinese">我会变强硬，鹌鹑会变干涩。</span><span class="english">I get tough, quail get dry.</span></p>

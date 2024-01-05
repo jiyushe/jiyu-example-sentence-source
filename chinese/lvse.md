@@ -1,5 +1,7 @@
 # 绿色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvse.md)
+
 <p><span class="chinese">为什么实行夏时制的日子被称为“绿色日子”？</span><span class="english">Green days.</span></p>
 
 <p><span class="chinese">什么是绿色食品？</span><span class="english">What is green food?</span></p>

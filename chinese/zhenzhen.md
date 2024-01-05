@@ -1,5 +1,7 @@
 # 真真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhen.md)
+
 <p><span class="chinese">我也希望你能真真正正的开心起来。</span><span class="english">I also hope you can have some real of happy.</span></p>
 
 <p><span class="chinese">生命中真真正正的阳光并不多。</span><span class="english">In the life the genuine sunlight are not many.</span></p>

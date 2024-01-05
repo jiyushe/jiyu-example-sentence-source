@@ -1,5 +1,7 @@
 # dc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dc.md)
+
 <p><span class="chinese">口水直流一大摊。</span><span class="english">DC saliva a share.</span></p>
 
 <p><span class="chinese">请使用直流12伏电源。</span><span class="english">Please use DC 12V power.</span></p>

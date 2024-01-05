@@ -1,5 +1,7 @@
 # peristaltic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peristaltic.md)
+
 <p><span class="chinese">提供了一种蠕动泵。</span><span class="english">A peristaltic pump is provided.</span></p>
 
 <p><span class="chinese">液体是用蠕动泵来注入的。</span><span class="english">The liquids are pumped with a peristaltic pump.</span></p>

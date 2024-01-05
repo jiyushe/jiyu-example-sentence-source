@@ -1,5 +1,7 @@
 # 流程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liucheng.md)
+
 <p><span class="chinese">销售是一个流程。</span><span class="english">Selling is a proccess.</span></p>
 
 <p><span class="chinese">安排生产流程是一项协调的艺术。</span><span class="english">Part flow is a balancing act.</span></p>

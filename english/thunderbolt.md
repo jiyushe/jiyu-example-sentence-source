@@ -1,5 +1,7 @@
 # thunderbolt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thunderbolt.md)
+
 <p><span class="chinese">这真是晴天霹雳。</span><span class="english">This was a thunderbolt in camp.</span></p>
 
 <p><span class="chinese">雷霆的一击总不应搞错目标吧。</span><span class="english">A thunderbolt should commit no error.</span></p>

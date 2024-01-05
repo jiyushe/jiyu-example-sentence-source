@@ -1,5 +1,7 @@
 # 一盘散沙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yipansansha.md)
+
 <p><span class="chinese">与之相比，大叙利亚更像是一盘散沙。</span><span class="english">But Greater Syria is more of a hodgepodge.</span></p>
 
 <p><span class="chinese">这一行业犹如一盘散沙，对其中所有人来说，我们都是免费的。</span><span class="english">It was a free for all, fragmented industry.</span></p>

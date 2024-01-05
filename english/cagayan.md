@@ -1,5 +1,7 @@
 # cagayan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cagayan.md)
+
 <p><span class="chinese">卡加延省，吕宋。</span><span class="english">Cagayan Province, Luzon.</span></p>
 
 <p><span class="chinese">卡加延山谷生产大约该国三分之一的大米。</span><span class="english">The Cagayan valley produces about of a third of the country's rice.</span></p>

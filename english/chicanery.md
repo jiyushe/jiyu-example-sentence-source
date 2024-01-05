@@ -1,5 +1,7 @@
 # chicanery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chicanery.md)
+
 <p><span class="chinese">很多心理学家都是夸夸奇谈，不实之徒。</span><span class="english">A lot of psychology is charlatanry, chicanery.</span></p>
 
 <p><span class="chinese">我不能做你的情妇，说任何别的都是狡辩。</span><span class="english">I can not be your lover, said any words is chicanery.</span></p>

@@ -1,5 +1,7 @@
 # exceptional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exceptional.md)
+
 <p><span class="chinese">它的肉异常鲜美。</span><span class="english">Its flesh has exceptional delicacies.</span></p>
 
 <p><span class="chinese">富平是一个进行创作的特殊的地方。</span><span class="english">Fuping is an exceptional place to work.</span></p>

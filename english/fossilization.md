@@ -1,5 +1,7 @@
 # fossilization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fossilization.md)
+
 <p><span class="chinese">情感因素是僵化形成的重要原因之一。</span><span class="english">Affect is one of the most important factors causing fossilization.</span></p>
 
 <p><span class="chinese">语言僵硬现象已经成为中介语的主要特征之一。</span><span class="english">Fossilization has become one of the main features of Interlanguage.</span></p>

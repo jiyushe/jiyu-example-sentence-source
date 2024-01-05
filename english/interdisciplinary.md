@@ -1,5 +1,7 @@
 # interdisciplinary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interdisciplinary.md)
+
 <p><span class="chinese">这是一个有趣的学习做的,因为它是如此的交叉学科。</span><span class="english">It was a fun study to do because it was so interdisciplinary.</span></p>
 
 <p><span class="chinese">交叉学科建模竞赛，是MCM的一个组成部分。</span><span class="english">ICM, the Interdisciplinary Contest in Modeling, is a part of MCM.</span></p>

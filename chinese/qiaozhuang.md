@@ -1,5 +1,7 @@
 # 桥桩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaozhuang.md)
+
 <p><span class="chinese">它绕着一根桥桩游了好几圈，然后猛地一扯，挣断了渔线。</span><span class="english">The clever fish then swam round a pile and , with a sudden pull, broke the line.</span></p>
 
 <p><span class="chinese">在此之后，该地区是衣服和鞋上的桥桩水淋湿了。</span><span class="english">In the aftermath, the area was drenched in water with clothes and shoes piled on the bridge.</span></p>

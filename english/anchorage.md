@@ -1,5 +1,7 @@
 # anchorage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anchorage.md)
+
 <p><span class="chinese">进入外锚地。</span><span class="english">Go to exterior anchorage.</span></p>
 
 <p><span class="chinese">到应急锚地去。</span><span class="english">Go to emergency anchorage.</span></p>

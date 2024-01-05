@@ -1,5 +1,7 @@
 # 冲击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongji_1.md)
+
 <p><span class="chinese">夏日冲击！</span><span class="english">Foobar Summer Hit!</span></p>
 
 <p><span class="chinese">海水将海岸冲击得凹凸不平。</span><span class="english">The sea indents the coast.</span></p>

@@ -1,5 +1,7 @@
 # azeotropic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azeotropic.md)
+
 <p><span class="chinese">研究乙醇、水共沸精馏的热量集成流程。</span><span class="english">A heat integrated ethanolwater azeotropic distillation flowsheet is studied.</span></p>
 
 <p><span class="chinese">实际上所有液体混合并受热时，都表现出恒沸物的特性。</span><span class="english">Virtually all liquids, when mixed and heated, will display azeotropic behaviour.</span></p>

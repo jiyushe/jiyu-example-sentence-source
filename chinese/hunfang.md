@@ -1,5 +1,7 @@
 # 混纺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunfang.md)
+
 <p><span class="chinese">这件外套是毛棉混纺的。</span><span class="english">He was not wearing a warm coat.</span></p>
 
 <p><span class="chinese">这件外套是毛棉混纺的。</span><span class="english">Are you OK? Your beautiful coat.</span></p>

@@ -1,5 +1,7 @@
 # vb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vb.md)
+
 <p><span class="chinese">VB初学者可以载来看看！</span><span class="english">VB beginners can be set to look at!</span></p>
 
 <p><span class="chinese">用VB编写的一个游戏用的地图编辑器。</span><span class="english">VB prepared with a game map editor.</span></p>

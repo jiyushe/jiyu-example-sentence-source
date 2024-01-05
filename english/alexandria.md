@@ -1,5 +1,7 @@
 # alexandria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alexandria.md)
+
 <p><span class="chinese">公元前12年它被罗马人移到亚历山大。</span><span class="english">C. It was removed to Alexandria in 12 B.</span></p>
 
 <p><span class="chinese">四季保健一枝独秀一切在亚历山德里亚。</span><span class="english">Four Seasons care outshines all else in Alexandria.</span></p>

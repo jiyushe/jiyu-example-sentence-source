@@ -1,5 +1,7 @@
 # 感怀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganhuai.md)
+
 <p><span class="chinese">若悲伤感怀，你会与他们失之交臂。</span><span class="english">Be sad , and you lose them all.</span></p>
 
 <p><span class="chinese">我曾看过令人感怀流泪的夕落之阳。</span><span class="english">I've seen a sunset that would make you cry.</span></p>

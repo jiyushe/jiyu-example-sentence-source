@@ -1,5 +1,7 @@
 # filmic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filmic.md)
+
 <p><span class="chinese">我喜欢看她的学习曲线，很有电影里的美感。</span><span class="english">I liked watching her learning curve, it was very filmic.</span></p>
 
 <p><span class="chinese">实际上，在一部电影的创作中容不下任何与电影无关的工作。</span><span class="english">Actually, there is no room for any un- filmic work in the creation of a film.</span></p>

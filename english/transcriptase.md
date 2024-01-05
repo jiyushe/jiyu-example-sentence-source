@@ -1,5 +1,7 @@
 # transcriptase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transcriptase.md)
+
 <p><span class="chinese">有人听说过反转录酶吗</span><span class="english">Anybody heard of reverse transcriptase?</span></p>
 
 <p><span class="chinese">为什么它里面有反转录酶</span><span class="english">Why does it contain reverse transcriptase in it?</span></p>

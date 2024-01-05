@@ -1,5 +1,7 @@
 # preposterous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preposterous.md)
+
 <p><span class="chinese">我不会允许你这么做的。</span><span class="english">That's preposterous. I'd never allow it.</span></p>
 
 <p><span class="chinese">当然，这一主张是荒谬的。</span><span class="english">This claim is — of course — preposterous.</span></p>

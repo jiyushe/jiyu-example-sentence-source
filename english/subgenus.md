@@ -1,5 +1,7 @@
 # subgenus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subgenus.md)
+
 <p><span class="chinese">即一个亚属级分类单元的学名。</span><span class="english">A scientific name of a taxon at the rank of subgenus.</span></p>
 
 <p><span class="chinese">报道中国澳彩带蜂亚属4种，并给出了物种检索表。</span><span class="english">This paper reports 4 species of the subgenus Austronomia from China.</span></p>

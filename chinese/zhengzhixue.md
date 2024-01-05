@@ -1,5 +1,7 @@
 # 政治学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhixue.md)
+
 <p><span class="chinese">我也选了政治学和化学！</span><span class="english">I'm taking PoliSci and Chem too!</span></p>
 
 <p><span class="chinese">这是一个不错的政治学模型吗</span><span class="english">Is this a good model of politics?</span></p>

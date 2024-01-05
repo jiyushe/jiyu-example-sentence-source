@@ -1,5 +1,7 @@
 # 三无
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanwu_1.md)
+
 <p><span class="chinese">什么是三无概念股？</span><span class="english">What is 3 without the concept?</span></p>
 
 <p><span class="chinese">因此是一栋典型的“三无”工程。</span><span class="english">So is a typical "three noes " works.</span></p>

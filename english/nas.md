@@ -1,5 +1,7 @@
 # nas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nas.md)
+
 <p><span class="chinese">我们的农庄名叫Näs，直到现在还是这个名字。</span><span class="english">The farm where we lived was called Näs. It still is.</span></p>
 
 <p><span class="chinese">换用其它敏感核苷类似物又可抑制这些耐药变异株。</span><span class="english">Switching to other sensitive NAs can inhibit the emerged resistant mutants.</span></p>

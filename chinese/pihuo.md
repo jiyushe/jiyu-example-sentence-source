@@ -1,5 +1,7 @@
 # 皮货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pihuo.md)
+
 <p><span class="chinese">他经营皮货。</span><span class="english">He deals in furs.</span></p>
 
 <p><span class="chinese">还是别想着开什么皮货店了。</span><span class="english">I'd better not open any shop.</span></p>

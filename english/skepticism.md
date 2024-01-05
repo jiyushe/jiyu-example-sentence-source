@@ -1,5 +1,7 @@
 # skepticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skepticism.md)
+
 <p><span class="chinese">我明白这一怀疑论。</span><span class="english">I understand that skepticism.</span></p>
 
 <p><span class="chinese">本雅明甚至在那时就已对我的怀疑论叫板。</span><span class="english">Benjamin even pre-empts my skepticism.</span></p>

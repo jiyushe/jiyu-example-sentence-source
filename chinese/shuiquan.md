@@ -1,5 +1,7 @@
 # 水圈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiquan.md)
+
 <p><span class="chinese">它还包括与水圈的交互。</span><span class="english">It also includes interactions with the hydrosphere.</span></p>
 
 <p><span class="chinese">实践中，水圈、火圈往往相伴而生。</span><span class="english">In practice, fire cylce often occurred with water cycle.</span></p>

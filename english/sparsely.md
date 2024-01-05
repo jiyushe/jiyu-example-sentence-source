@@ -1,5 +1,7 @@
 # sparsely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sparsely.md)
+
 <p><span class="chinese">河边疏疏落落有几棵柳树。</span><span class="english">The river was sparsely lined with willow trees.</span></p>
 
 <p><span class="chinese">疏疏雪片，散入溪南苑。</span><span class="english">Sparsely flakes, scattered into the River South Garden.</span></p>

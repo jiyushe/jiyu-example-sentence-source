@@ -1,5 +1,7 @@
 # 戏法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xifa.md)
+
 <p><span class="chinese">英雄联盟有全图吗想看帽子戏法么？</span><span class="english">Want to see a hat trick?</span></p>
 
 <p><span class="chinese">为什么戏法能变出来？</span><span class="english">Why does the trick work?</span></p>

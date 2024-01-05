@@ -1,5 +1,7 @@
 # ferrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferrate.md)
+
 <p><span class="chinese">验证了高铁酸钾和臭氧联用存在协同效应。</span><span class="english">Verify the synergistic effect of potassium ferrate combined ozone.</span></p>
 
 <p><span class="chinese">高铁酸盐作为一种新型的电池正极材料具有广阔的发展前景。</span><span class="english">As a new type of battery cathode material, ferrate will have a promising future.</span></p>

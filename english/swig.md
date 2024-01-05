@@ -1,5 +1,7 @@
 # swig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swig.md)
+
 <p><span class="chinese">我想你会痛饮一两口。</span><span class="english">Thought you might be needin’ a swig or two.</span></p>
 
 <p><span class="chinese">他用一大口水喝阿斯匹林，但酸涩的药片儿却卡在他的嗓子里。</span><span class="english">He took a swig at the aspirin and the sour grains stuck in his throat.</span></p>

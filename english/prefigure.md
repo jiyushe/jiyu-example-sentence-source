@@ -1,5 +1,7 @@
 # prefigure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prefigure.md)
+
 <p><span class="chinese">很少有作家对预测将来感兴趣。</span><span class="english">Few writers care to prefigure the future.</span></p>
 
 <p><span class="chinese">这些早期绘画清楚的显现出他后期作品的精神。</span><span class="english">These early paintings clearly prefigure his Later work.</span></p>

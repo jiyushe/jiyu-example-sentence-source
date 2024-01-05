@@ -1,5 +1,7 @@
 # 贲门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benmen.md)
+
 <p><span class="chinese">贲门失弛缓症通常发生在年龄25-60岁的成年人。</span><span class="english">Achalasia typically occurs in adults aged 25-60 years.</span></p>
 
 <p><span class="chinese">我30岁的时候，我被诊断为贲门失弛缓症。</span><span class="english">I was 30 years old when I was diagnosed with achalasia.</span></p>

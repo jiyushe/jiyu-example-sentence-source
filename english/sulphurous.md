@@ -1,5 +1,7 @@
 # sulphurous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulphurous.md)
+
 <p><span class="chinese">你只得面对工业化的新泽西州地狱般糟糕的环境。</span><span class="english">You must confront the sulphurous dystopia of industrial New Jersey.</span></p>
 
 <p><span class="chinese">大多数印度汽车和货车的燃料含硫且很脏。</span><span class="english">The fuel in most of India's cars and lorries is filthy and sulphurous.</span></p>

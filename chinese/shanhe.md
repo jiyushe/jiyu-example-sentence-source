@@ -1,5 +1,7 @@
 # 山河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanhe.md)
+
 <p><span class="chinese">山河处处喜洋洋。</span><span class="english">Joy is everywhere.</span></p>
 
 <p><span class="chinese">看山河由谁来主宰。</span><span class="english">See who can dominate the world.</span></p>

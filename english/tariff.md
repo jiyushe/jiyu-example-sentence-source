@@ -1,5 +1,7 @@
 # tariff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tariff.md)
+
 <p><span class="chinese">新税收法律使我很费解。</span><span class="english">The new tariff statutes baffle me.</span></p>
 
 <p><span class="chinese">我们从和平的代价开始谈。</span><span class="english">Let us start with the tariff of peace.</span></p>

@@ -1,5 +1,7 @@
 # punishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punishment.md)
+
 <p><span class="chinese">苍天给我的处罚？</span><span class="english">Heaven to my punishment?</span></p>
 
 <p><span class="chinese">也许这是一种惩罚。</span><span class="english">Perhaps this is a punishment.</span></p>

@@ -1,5 +1,7 @@
 # rapeseed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapeseed.md)
+
 <p><span class="chinese">花生饼，菜籽，棉籽。</span><span class="english">Peanut meal, rapeseed meal, cotton seed meal.</span></p>
 
 <p><span class="chinese">菜籽油和大豆油对人体都有好处。</span><span class="english">Rapeseed oil, and soybean oil are good for health.</span></p>

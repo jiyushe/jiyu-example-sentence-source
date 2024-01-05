@@ -1,5 +1,7 @@
 # decipherment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decipherment.md)
+
 <p><span class="chinese">为了解释此一征象，他负有全部的责任。</span><span class="english">For the decipherment of the sign, however, he bears the entire responsibility.</span></p>
 
 <p><span class="chinese">铭文学会的目的在发现及解读古代铭文。</span><span class="english">Epigraphic Society is concerned with the discovery and decipherment of ancient inscriptions.</span></p>

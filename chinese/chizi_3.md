@@ -1,5 +1,7 @@
 # 赤子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chizi_3.md)
+
 <p><span class="chinese">我们对于未知的一切有着一份赤子般的信仰。</span><span class="english">We have a childlike belief in the unknown.</span></p>
 
 <p><span class="chinese">本年度公共财政讲出现赤子。</span><span class="english">The public finances are set to go into deficit this year.</span></p>

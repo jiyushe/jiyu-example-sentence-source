@@ -1,5 +1,7 @@
 # 笔筒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bitong.md)
+
 <p><span class="chinese">这种笔的笔筒是足金的。</span><span class="english">The shaft of this pen is solid gold.</span></p>
 
 <p><span class="chinese">出厂价笔筒大量批发！</span><span class="english">Penholder large wholesale ex-factory price!</span></p>

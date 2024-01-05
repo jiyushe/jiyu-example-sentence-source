@@ -1,5 +1,7 @@
 # foreskin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreskin.md)
+
 <p><span class="chinese">包皮相关问题。</span><span class="english">Problems with the foreskin.</span></p>
 
 <p><span class="chinese">在小碗中放着切下来血淋淋的包皮。</span><span class="english">In a kidney bowl lies the bloodied slug that was his foreskin.</span></p>

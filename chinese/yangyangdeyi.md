@@ -1,5 +1,7 @@
 # 洋洋得意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangyangdeyi.md)
+
 <p><span class="chinese">他因获胜而洋洋得意。</span><span class="english">He gloried in his triumph.</span></p>
 
 <p><span class="chinese">杰克得到他妻子的赞赏而洋洋得意。</span><span class="english">Jack basked in his wife's admiration.</span></p>

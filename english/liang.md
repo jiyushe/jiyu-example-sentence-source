@@ -1,5 +1,7 @@
 # liang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liang.md)
+
 <p><span class="chinese">他叫孙良。</span><span class="english">His name was Sun Liang.</span></p>
 
 <p><span class="chinese">你好，是梁经理吗？</span><span class="english">Hello, is that Mgr. Liang?</span></p>

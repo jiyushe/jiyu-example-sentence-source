@@ -1,5 +1,7 @@
 # overwrought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overwrought.md)
+
 <p><span class="chinese">但他们的请求被驳回，因为胃口太大且不妥。</span><span class="english">But their pleas were dismissed as overwrought and inappropriate.</span></p>
 
 <p><span class="chinese">他劳累过度，也许把女巫的伎俩误认为治疗术了。</span><span class="english">He was overwrought and may have mistaken witchcraft for healing.</span></p>

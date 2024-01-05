@@ -1,5 +1,7 @@
 # enforcement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enforcement.md)
+
 <p><span class="chinese">因为缺乏强制力</span><span class="english">There's no enforcement.</span></p>
 
 <p><span class="chinese">执行是个大麻烦。</span><span class="english">The big problem is enforcement.</span></p>

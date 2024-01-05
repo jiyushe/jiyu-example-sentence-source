@@ -1,5 +1,7 @@
 # 工薪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongxin_1.md)
+
 <p><span class="chinese">李珊珊是典型的工薪一族。</span><span class="english">Li Shanshan is a typical wage earner.</span></p>
 
 <p><span class="chinese">薪金已由工薪出纳员办公室发放。</span><span class="english">Salaries were disbursed by the paymaster's office.</span></p>

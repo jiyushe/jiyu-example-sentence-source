@@ -1,5 +1,7 @@
 # ipx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ipx.md)
+
 <p><span class="chinese">网络的地址由哪两部分组成?。</span><span class="english">What are two components of an IPX address?</span></p>
 
 <p><span class="chinese">不能使用由远程服务器分配的IPX网络号。</span><span class="english">Cannot use the IPX net number assigned by the remote server.</span></p>

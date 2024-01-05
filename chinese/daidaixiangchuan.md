@@ -1,5 +1,7 @@
 # 代代相传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daidaixiangchuan.md)
+
 <p><span class="chinese">它可能在家族中代代相传.</span><span class="english">It can run in families for generations.</span></p>
 
 <p><span class="chinese">称号由长子代代相传。</span><span class="english">The title  descends through eldest sons.</span></p>

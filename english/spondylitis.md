@@ -1,5 +1,7 @@
 # spondylitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spondylitis.md)
+
 <p><span class="chinese">这对脊椎炎无明显影响。</span><span class="english">It has no discernible effect on spondylitis.</span></p>
 
 <p><span class="chinese">有三个主要类型的药物用于治疗强直性脊柱炎。</span><span class="english">There are three major types of medications used to treat ankylosing spondylitis.</span></p>

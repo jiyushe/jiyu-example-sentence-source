@@ -1,5 +1,7 @@
 # indication 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indication_1.md)
+
 <p><span class="chinese">低电量指示。</span><span class="english">Low battery indication.</span></p>
 
 <p><span class="chinese">相关显示或缺欠。</span><span class="english">Relevant Indication or Imperfection.</span></p>

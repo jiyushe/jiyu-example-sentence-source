@@ -1,5 +1,7 @@
 # instance 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instance.md)
+
 <p><span class="chinese">现在让我花点时间来看看。</span><span class="english">p is an instance.</span></p>
 
 <p><span class="chinese">请求一个实例。</span><span class="english">Request an instance.</span></p>

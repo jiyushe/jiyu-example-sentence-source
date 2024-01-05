@@ -1,5 +1,7 @@
 # summoner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summoner.md)
+
 <p><span class="chinese">我们想法一致，召唤师。</span><span class="english">We are in accord, summoner.</span></p>
 
 <p><span class="chinese">你关不住我的，召唤师。</span><span class="english">You cannot cage me, Summoner.</span></p>

@@ -1,5 +1,7 @@
 # cultured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cultured.md)
+
 <p><span class="chinese">她是一个很有教养的人，也是一名成功的生意人。</span><span class="english">She was a cultured person.</span></p>
 
 <p><span class="chinese">要真珠还是养珠的。</span><span class="english">Natural pearls or cultured pearls.</span></p>

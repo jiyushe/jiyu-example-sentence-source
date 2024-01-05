@@ -1,5 +1,7 @@
 # 嗤之以鼻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chizhiyibi.md)
+
 <p><span class="chinese">他对她的话嗤之以鼻。</span><span class="english">He puffed at her remarks.</span></p>
 
 <p><span class="chinese">她对他的礼物嗤之以鼻。</span><span class="english">She sniffed at his present.</span></p>

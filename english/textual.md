@@ -1,5 +1,7 @@
 # textual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/textual.md)
+
 <p><span class="chinese">图像要有文本的等价物。</span><span class="english">Images must have textual equivalents.</span></p>
 
 <p><span class="chinese">两人刚一见面，扁鹊扭头就走。</span><span class="english">They had a meeting, textual twist went.</span></p>

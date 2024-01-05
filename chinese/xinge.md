@@ -1,5 +1,7 @@
 # 信鸽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinge.md)
+
 <p><span class="chinese">他养了一些信鸽。</span><span class="english">He raised some carrier pigeons.</span></p>
 
 <p><span class="chinese">他收到一封由信鸽传送的短信。</span><span class="english">As a result, the carrier pigeon.</span></p>

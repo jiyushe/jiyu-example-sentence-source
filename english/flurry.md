@@ -1,5 +1,7 @@
 # flurry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flurry.md)
+
 <p><span class="chinese">这么慌张干嘛？</span><span class="english">Why the flurry?</span></p>
 
 <p><span class="chinese">他慌慌张张的走。</span><span class="english">He walked in a flurry.</span></p>

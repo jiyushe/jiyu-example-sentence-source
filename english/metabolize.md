@@ -1,5 +1,7 @@
 # metabolize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metabolize.md)
+
 <p><span class="chinese">两种类型的组织都能够代谢双酚A。</span><span class="english">Both types of tissue were also able to metabolize BPA.</span></p>
 
 <p><span class="chinese">但是我们的身体只能代谢一小部分气体。</span><span class="english">But our bodies metabolize only a small fraction of them.</span></p>

@@ -1,5 +1,7 @@
 # 不正之风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhengzhifeng.md)
+
 <p><span class="chinese">我们必须千方百计地煞住政治上的不正之风。</span><span class="english">We must reform the political abuses by every possible means.</span></p>
 
 <p><span class="chinese">知情人披露了一些交易会上的不正之风。</span><span class="english">Persons in the know also revealed some malpractices at the fair.</span></p>

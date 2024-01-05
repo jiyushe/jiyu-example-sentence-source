@@ -1,5 +1,7 @@
 # 帮教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangjiao.md)
+
 <p><span class="chinese">不知而知其不知者，是少学，帮教他。</span><span class="english">He who knows, and knows not he knows, he is asleep, awaken him.</span></p>
 
 <p><span class="chinese">并且它帮教我们更多依赖团体中的他人与上苍的力量。</span><span class="english">And it teaches us to rely more on the fellowship of others and on strength from God.</span></p>

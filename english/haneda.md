@@ -1,5 +1,7 @@
 # haneda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haneda.md)
+
 <p><span class="chinese">所以羽田国际机场成了东京的主要机场。</span><span class="english">Now Haneda is becoming Tokyo's major airport.</span></p>
 
 <p><span class="chinese">晚上6时你将在东京羽田机场下机。</span><span class="english">You'll land in Haneda Airport, Tokyo at six in the evening.</span></p>

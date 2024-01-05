@@ -1,5 +1,7 @@
 # postponed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postponed.md)
+
 <p><span class="chinese">德语动词放在句末。</span><span class="english">The German verb is postponed.</span></p>
 
 <p><span class="chinese">会议怕要延期了。</span><span class="english">I'm afraid the meeting will be postponed.</span></p>

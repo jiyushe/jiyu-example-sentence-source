@@ -1,5 +1,7 @@
 # 人文科学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renwenkexue.md)
+
 <p><span class="chinese">化学是人文科学。</span><span class="english">Chemistry is the human science.</span></p>
 
 <p><span class="chinese">学人文科学的报偿在何处呢?</span><span class="english">Where’s the payoff on the humanities?</span></p>

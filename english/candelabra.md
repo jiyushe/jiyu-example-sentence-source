@@ -1,5 +1,7 @@
 # candelabra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candelabra.md)
+
 <p><span class="chinese">头盖骨烛台？</span><span class="english">Cranium candelabra?</span></p>
 
 <p><span class="chinese">从烛台上背后的笔记本电脑和退出房间桌子蜡烛。</span><span class="english">Take CANDLE from candelabra on the table behind the laptop and exit room.</span></p>

@@ -1,5 +1,7 @@
 # 毋宁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuning_1.md)
+
 <p><span class="chinese">他与其说是个作家，毋宁说是个记者。</span><span class="english">He is not so much a writer as a reporter.</span></p>
 
 <p><span class="chinese">看春晚，毋宁死，也许这是个不错的新年新立志。</span><span class="english">That is not too bad a new year resolution.</span></p>

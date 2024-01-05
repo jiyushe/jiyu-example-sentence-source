@@ -1,5 +1,7 @@
 # weld
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weld.md)
+
 <p><span class="chinese">现场铝热焊。</span><span class="english">Field alumino thermit weld.</span></p>
 
 <p><span class="chinese">用气焊割掉30“隔水管。</span><span class="english">Weld on the 30"bottom flange."</span></p>

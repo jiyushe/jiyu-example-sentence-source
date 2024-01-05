@@ -1,5 +1,7 @@
 # carcinogenicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carcinogenicity.md)
+
 <p><span class="chinese">使用大小鼠进行的两年致癌性研究也已经完成。</span><span class="english">Two-year carcinogenicity studies in rats and mice have also been completed.</span></p>
 
 <p><span class="chinese">其理由是氯仿具有致癌性，而在许多水中发现了THM。</span><span class="english">Standards were based on the carcinogenicity of chloroform, the THM found in most waters.</span></p>

@@ -1,5 +1,7 @@
 # 装载机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangzaiji.md)
+
 <p><span class="chinese">如一台ZL50装载机突然转向失灵。</span><span class="english">If a sudden turn Loader ZL50 Units failure.</span></p>
 
 <p><span class="chinese">狡音乐和视频下跌装载机是很好的。</span><span class="english">Foxy tunes and video down loader are really good ones.</span></p>

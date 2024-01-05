@@ -1,5 +1,7 @@
 # 玩法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanfa.md)
+
 <p><span class="chinese">圣战士的玩法？</span><span class="english">A holy warrior play style?</span></p>
 
 <p><span class="chinese">其中一个玩法就是“中枪死”。</span><span class="english">And slights the law is " is hit dies ".</span></p>

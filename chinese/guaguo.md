@@ -1,5 +1,7 @@
 # 瓜果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guaguo.md)
+
 <p><span class="chinese">雾气弥散、瓜果飘香的成熟之季！</span><span class="english">Season of mists and mellow fruitfulness!</span></p>
 
 <p><span class="chinese">彻底清洗新鲜的蔬菜瓜果。</span><span class="english">Thoroughly wash fresh fruits and vegetables.</span></p>

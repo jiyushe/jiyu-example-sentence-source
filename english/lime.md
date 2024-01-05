@@ -1,5 +1,7 @@
 # lime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lime.md)
+
 <p><span class="chinese">冰过的七喜，饰以莱姆片。</span><span class="english">Garnish with a lime slice.</span></p>
 
 <p><span class="chinese">石灰可以在许多种土壤中找到。</span><span class="english">Lime exists in many soils.</span></p>

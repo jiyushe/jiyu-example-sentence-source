@@ -1,5 +1,7 @@
 # astonish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astonish.md)
+
 <p><span class="chinese">使迷惑或使吃惊。</span><span class="english">To bewilder or astonish.</span></p>
 
 <p><span class="chinese">决定使大家都感到震动。</span><span class="english">The decision makes everybody feels astonish.</span></p>

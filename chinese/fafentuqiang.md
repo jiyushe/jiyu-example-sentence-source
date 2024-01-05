@@ -1,5 +1,7 @@
 # 发奋图强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fafentuqiang.md)
+
 <p><span class="chinese">善于激励别人发奋图强。</span><span class="english">Achievers are good at motivating others.</span></p>
 
 <p><span class="chinese">国家建设需人才，发奋图强宏图现。</span><span class="english">Nation-building needs talent, worked hard and is ambitious.</span></p>

@@ -1,5 +1,7 @@
 # 排山倒海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paishandaohai.md)
+
 <p><span class="chinese">命中注定的哪个人，总会为你排山倒海破空而来。</span><span class="english">Destined to which people, always for you to ride unchecked.</span></p>
 
 <p><span class="chinese">不过通常在酋长们排山倒海的齐声反对声浪中全盘失败。</span><span class="english">But all failed, often amid overwhelming opposition from chiefs.</span></p>

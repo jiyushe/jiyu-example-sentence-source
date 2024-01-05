@@ -1,5 +1,7 @@
 # 听信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingxin.md)
+
 <p><span class="chinese">他年轻，很容易听信他人的。</span><span class="english">He was young and highly suggestible.</span></p>
 
 <p><span class="chinese">她只凭说词就听信任何人。</span><span class="english">She believes any man on his bare word.</span></p>

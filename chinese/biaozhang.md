@@ -1,5 +1,7 @@
 # 表彰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaozhang.md)
+
 <p><span class="chinese">他因其英勇事迹而受表彰。</span><span class="english">He is honored for his heroic deeds.</span></p>
 
 <p><span class="chinese">两座牌坊，表彰三代人？</span><span class="english">Two steles honoring three generations?</span></p>

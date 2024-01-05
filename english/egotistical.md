@@ -1,5 +1,7 @@
 # egotistical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egotistical.md)
+
 <p><span class="chinese">没错，他是一个极度自负的却被高估的演员。</span><span class="english">Yes, he is a gigantic egotistical overrated artist.</span></p>
 
 <p><span class="chinese">一个傲慢自大的瑜伽战士挑战瑜伽大师。</span><span class="english">The egotistical Yogin challenges Guruji to a battle.</span></p>

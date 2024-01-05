@@ -1,5 +1,7 @@
 # bronchiole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronchiole.md)
+
 <p><span class="chinese">呼吸性细支气管末端有括约肌。</span><span class="english">The end of the respiratory bronchiole has a sphincter.</span></p>
 
 <p><span class="chinese">病理形态特点是呼吸性细支气管全层受累。</span><span class="english">Pathologically, all layers of the respiratory bronchiole walls were involved.</span></p>

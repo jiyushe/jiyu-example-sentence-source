@@ -1,5 +1,7 @@
 # gimpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gimpy.md)
+
 <p><span class="chinese">我看到一个猪脸的坡脚欧巴桑。</span><span class="english">I gotta pig-face, gimpy limping Mama.</span></p>
 
 <p><span class="chinese">他是橙色的，身体的一边有一只鳍有些残缺。</span><span class="english">He's orange and has got a gimpy fin on one side.</span></p>

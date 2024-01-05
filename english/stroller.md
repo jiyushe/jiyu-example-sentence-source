@@ -1,5 +1,7 @@
 # stroller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stroller.md)
+
 <p><span class="chinese">我可以在登机门托运婴儿推车吗？</span><span class="english">Can I check this stroller at the gate?</span></p>
 
 <p><span class="chinese">最近我在这个童车里睡得很多！</span><span class="english">I sleep a lot in this stroller recently.</span></p>

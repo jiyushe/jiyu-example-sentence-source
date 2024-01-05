@@ -1,5 +1,7 @@
 # hotshot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotshot.md)
+
 <p><span class="chinese">她是华尔街一名业绩斐然的经纪人。</span><span class="english">She's a hotshot broker on Wall Street.</span></p>
 
 <p><span class="chinese">自命不凡的埃迪需要钱买把新吉他。</span><span class="english">Hotshot Eddie needed money to buy a new guitar.</span></p>

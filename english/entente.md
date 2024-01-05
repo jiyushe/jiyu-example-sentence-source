@@ -1,5 +1,7 @@
 # entente
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entente.md)
+
 <p><span class="chinese">法俄两国，成立协约国集团。</span><span class="english">France and Russia, establish the entente group.</span></p>
 
 <p><span class="chinese">莫拉蒂诺斯的此次访问是落实这块飞地的新协议的一部分。</span><span class="english">Mr Moratinos's visit was part of a new entente over the Rock.</span></p>

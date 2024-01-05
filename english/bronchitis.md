@@ -1,5 +1,7 @@
 # bronchitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronchitis.md)
+
 <p><span class="chinese">他患支气管炎卧病在床。</span><span class="english">He was in bed with bronchitis.</span></p>
 
 <p><span class="chinese">感冒有可能转变成支气管炎。</span><span class="english">A cold can turn into bronchitis.</span></p>

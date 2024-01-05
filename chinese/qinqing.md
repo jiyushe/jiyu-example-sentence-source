@@ -1,5 +1,7 @@
 # 亲情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinqing.md)
+
 <p><span class="chinese">友情胜过亲情。</span><span class="english">Friendship outdoes the relationship.</span></p>
 
 <p><span class="chinese">你不用说，我也知道，因为亲情。</span><span class="english">Many things, Y0U Don't say, I also know.</span></p>

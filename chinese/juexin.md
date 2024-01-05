@@ -1,5 +1,7 @@
 # 决心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juexin.md)
+
 <p><span class="chinese">我赞佩你的决心。</span><span class="english">I applaud your decision.</span></p>
 
 <p><span class="chinese">还需要几分严峻的决心。</span><span class="english">Aan some grim determination.</span></p>

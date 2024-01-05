@@ -1,5 +1,7 @@
 # valuable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valuable.md)
+
 <p><span class="chinese">这是非常宝贵的。</span><span class="english">This is very valuable.</span></p>
 
 <p><span class="chinese">这里没什么值钱的！</span><span class="english">There’s nothing valuable.</span></p>

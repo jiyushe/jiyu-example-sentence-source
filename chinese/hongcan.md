@@ -1,5 +1,7 @@
 # 红参
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongcan.md)
+
 <p><span class="chinese">处方里有红参这味药。</span><span class="english">The prescription made by the doctor included ginseng.</span></p>
 
 <p><span class="chinese">这支红参是给他补身子用的，很昂贵呢。</span><span class="english">The ginseng is used to recover his health. It is very expensive.</span></p>

@@ -1,5 +1,7 @@
 # 失学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixue_2.md)
+
 <p><span class="chinese">她十岁就失学了。</span><span class="english">She was deprived of schooling at ten.</span></p>
 
 <p><span class="chinese">数百万儿童仍然失学。</span><span class="english">Millions of children are still unschooled.</span></p>

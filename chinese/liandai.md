@@ -1,5 +1,7 @@
 # 连带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liandai.md)
+
 <p><span class="chinese">他是连带被株连的牺牲品。</span><span class="english">He was the collateral damage.</span></p>
 
 <p><span class="chinese">此种侵权行为为要承担共同和连带责任。</span><span class="english">Such tort-feasors are jointly and severally liable.</span></p>

@@ -1,5 +1,7 @@
 # 瞻前顾后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanqianguhou.md)
+
 <p><span class="chinese">总是瞻前顾后，先把困难摆出来，那你就准备光光一万年吧。</span><span class="english">He could never get a woman like that in a million years.</span></p>
 
 <p><span class="chinese">你需要培养在瞻前顾后之前开始行动的习惯？</span><span class="english">You have to cultivate the habit of doing before knowing.</span></p>

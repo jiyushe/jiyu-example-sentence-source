@@ -1,5 +1,7 @@
 # 闸门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhamen.md)
+
 <p><span class="chinese">打开并支撑升降闸门。</span><span class="english">Open and support liftgate.</span></p>
 
 <p><span class="chinese">关闭闸门将是非常困难的。</span><span class="english">Shutting them will be hard.</span></p>

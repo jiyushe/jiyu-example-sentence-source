@@ -1,5 +1,7 @@
 # relearn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relearn.md)
+
 <p><span class="chinese">最好再重学历史吧。</span><span class="english">Best go relearn your history.</span></p>
 
 <p><span class="chinese">每一代人都需要去学习如何再学习。</span><span class="english">Every generation needs to learn how to relearn.</span></p>

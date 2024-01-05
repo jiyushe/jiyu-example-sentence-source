@@ -1,5 +1,7 @@
 # 锐角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruijiao.md)
+
 <p><span class="chinese">这是一个锐角。</span><span class="english">It is an acute angle.</span></p>
 
 <p><span class="chinese">你可以得到锐角精确的三等分。</span><span class="english">We must bestir ourselves to get there on time.</span></p>

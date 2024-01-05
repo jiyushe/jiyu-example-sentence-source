@@ -1,5 +1,7 @@
 # apparent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apparent_1.md)
+
 <p><span class="chinese">瞬膜颜色深，不外露。</span><span class="english">Haws are dark and not apparent.</span></p>
 
 <p><span class="chinese">她恬不知耻的说。</span><span class="english">She said without apparent shame.</span></p>

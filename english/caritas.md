@@ -1,5 +1,7 @@
 # caritas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caritas.md)
+
 <p><span class="chinese">要妳证明爱我的决心。</span><span class="english">Wants you to prove the Caritas my determination.</span></p>
 
 <p><span class="chinese">博爱与其他慈善团体称之为“能源贫困。”</span><span class="english">Caritas and other charity groups call it "energy poverty."</span></p>

@@ -1,5 +1,7 @@
 # pyrethroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrethroid.md)
+
 <p><span class="chinese">拟除虫菊酯能在蚊子降落在经过处理的蚊帐上的时候杀死它们。</span><span class="english">Pyrethroid kills mosquiotes when they land on a treated net.</span></p>
 
 <p><span class="chinese">建立家兔拟除虫菊酯类农药灌胃染毒致死模型。</span><span class="english">To develop a pyrethroid intragastric administration death model.</span></p>

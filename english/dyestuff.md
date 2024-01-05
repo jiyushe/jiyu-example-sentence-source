@@ -1,5 +1,7 @@
 # dyestuff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyestuff.md)
+
 <p><span class="chinese">甲基橙是典型的偶氮染料之一。</span><span class="english">Methyl orange is a sort of typical azo dyestuff.</span></p>
 
 <p><span class="chinese">染料废水对环境有很大的影响。</span><span class="english">Dyestuff wastewater has much effect on environment.</span></p>

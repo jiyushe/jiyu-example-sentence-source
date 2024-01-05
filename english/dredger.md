@@ -1,5 +1,7 @@
 # dredger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dredger.md)
+
 <p><span class="chinese">挖泥船把泥挖起来。</span><span class="english">The dredger spooned up mud.</span></p>
 
 <p><span class="chinese">迄今为止，我们没有使用高深入挖泥船。</span><span class="english">So far we haven't used high depth dredger.</span></p>

@@ -1,5 +1,7 @@
 # della
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/della.md)
+
 <p><span class="chinese">黛拉没有回答。</span><span class="english">Della did not answer.</span></p>
 
 <p><span class="chinese">他拥抱住德拉。</span><span class="english">He enfolded his Della.</span></p>

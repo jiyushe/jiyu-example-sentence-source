@@ -1,5 +1,7 @@
 # 词源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciyuan.md)
+
 <p><span class="chinese">它们都来自同一词源。</span><span class="english">It is all the same root.</span></p>
 
 <p><span class="chinese">这个名字的词源尚不清楚。</span><span class="english">The etymology of the name is obscure.</span></p>

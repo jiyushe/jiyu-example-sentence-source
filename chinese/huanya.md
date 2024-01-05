@@ -1,5 +1,7 @@
 # 换牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanya.md)
+
 <p><span class="chinese">那是在他还未换牙的日子。</span><span class="english">That was in his pre-veneer days.</span></p>
 
 <p><span class="chinese">专为年事较大的儿童以及混淆第一次换牙&永世的牙，和带有漏洞的牙。</span><span class="english">Designed for older children with a mixture of first & permanent teeth, and gaps.</span></p>

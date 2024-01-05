@@ -1,5 +1,7 @@
 # tarsal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tarsal.md)
+
 <p><span class="chinese">目的探讨踝管综合征的临床诊断及术后疗效。</span><span class="english">Objective To discuss the diagnosis and treatment of tarsal tunnel syndrome.</span></p>
 
 <p><span class="chinese">在此解剖过程中常会切断踝前外侧动脉和跗外侧动脉。</span><span class="english">This dissection usually diides the anterolateral malleolar and lateral tarsal arteries.</span></p>

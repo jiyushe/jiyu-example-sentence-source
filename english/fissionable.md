@@ -1,5 +1,7 @@
 # fissionable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fissionable.md)
+
 <p><span class="chinese">丰富的意思是裂变的铀。</span><span class="english">Fertile meaning the none fissionable uranium 235.</span></p>
 
 <p><span class="chinese">锕铀铀的同位素，原子质量数为235，与慢。</span><span class="english">The isotope of uranium with mass number235, fissionable with slow neutrons.</span></p>

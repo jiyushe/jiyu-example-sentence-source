@@ -1,5 +1,7 @@
 # pbs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pbs.md)
+
 <p><span class="chinese">你要不要看公共电视台在演的那一部电影？</span><span class="english">Do you want to watch the movie on PBS?</span></p>
 
 <p><span class="chinese">该片记录了第二次世界大战并于2007年首次在PBS公映。</span><span class="english">It chronicled World War II and premiered on PBS in the U.S. in 2007.</span></p>

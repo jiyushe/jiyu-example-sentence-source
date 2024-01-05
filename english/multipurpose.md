@@ -1,5 +1,7 @@
 # multipurpose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multipurpose.md)
+
 <p><span class="chinese">该包是一个多功能网络资源。</span><span class="english">This is the multipurpose networking resource.</span></p>
 
 <p><span class="chinese">为综合利用黄花菜资源提供了一种新的方式。</span><span class="english">Furnished a new method to multipurpose use the day lily.</span></p>

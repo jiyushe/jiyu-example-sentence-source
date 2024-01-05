@@ -1,5 +1,7 @@
 # severalfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/severalfold.md)
+
 <p><span class="chinese">最近十几年来，村落面积基本上是成倍甚至几倍地增长。</span><span class="english">Come ten years recently, dorp area basically is twice grows severalfold even.</span></p>
 
 <p><span class="chinese">国外股票的市盈率很低，最少的只有几倍。</span><span class="english">The city of foreign stock is filled with rate is very low, least only severalfold.</span></p>

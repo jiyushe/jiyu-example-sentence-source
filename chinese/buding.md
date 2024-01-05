@@ -1,5 +1,7 @@
 # 不定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buding.md)
+
 <p><span class="chinese">但它闪烁不定。</span><span class="english">But it flickers.</span></p>
 
 <p><span class="chinese">“不定”是个副词。</span><span class="english">"Buding" is an adverb.</span></p>

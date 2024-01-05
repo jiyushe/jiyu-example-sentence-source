@@ -1,5 +1,7 @@
 # 草草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caocao.md)
+
 <p><span class="chinese">休战条约已草草订就了。</span><span class="english">A truce has been patched up.</span></p>
 
 <p><span class="chinese">明信片上草草地写了几个字。</span><span class="english">She scrawled a few words on the postcard.</span></p>

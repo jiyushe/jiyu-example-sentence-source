@@ -1,5 +1,7 @@
 # 海面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haimian_1.md)
+
 <p><span class="chinese">轻于桨儿划开海面。</span><span class="english">Than oars divide the ocean.</span></p>
 
 <p><span class="chinese">飞艇在海面打圈子。</span><span class="english">The airship circled at sea.</span></p>

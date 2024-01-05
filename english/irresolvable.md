@@ -1,5 +1,7 @@
 # irresolvable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irresolvable.md)
+
 <p><span class="chinese">这也是一个不能解决的领域。</span><span class="english">This is again, one of that irresolvable areas.</span></p>
 
 <p><span class="chinese">美国的一些文化战争已经根深蒂固、不可分解，并向外扩张着。</span><span class="english">Some of the cultural wars in this country are deep-rooted, eternal and irresolvable. Gun control.</span></p>

@@ -1,5 +1,7 @@
 # 无所畏惧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusuoweiju.md)
+
 <p><span class="chinese">莉亚公主无所畏惧。</span><span class="english">Leia fears no one.</span></p>
 
 <p><span class="chinese">我是个无所畏惧的人。</span><span class="english">I’m a fearless person.</span></p>

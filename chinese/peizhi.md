@@ -1,5 +1,7 @@
 # 培植
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peizhi.md)
+
 <p><span class="chinese">培植高山植物。</span><span class="english">He breeds alpine plants.</span></p>
 
 <p><span class="chinese">为了培植那些鲜花，关爱和照顾是必不可少的。</span><span class="english">To foster those flowers, caring is a need.</span></p>

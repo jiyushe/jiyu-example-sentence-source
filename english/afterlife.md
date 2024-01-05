@@ -1,5 +1,7 @@
 # afterlife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afterlife.md)
+
 <p><span class="chinese">人是否还有来生呢？</span><span class="english">Is there an afterlife?</span></p>
 
 <p><span class="chinese">也许有人会问作者，你相信来世吗？</span><span class="english">You may wonder if I believe in afterlife.</span></p>

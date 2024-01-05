@@ -1,5 +1,7 @@
 # props
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/props.md)
+
 <p><span class="chinese">我们需要制作道具，</span><span class="english">and we need to create props.</span></p>
 
 <p><span class="chinese">道具和临时演员在哪儿？</span><span class="english">Show me the props and extras.</span></p>

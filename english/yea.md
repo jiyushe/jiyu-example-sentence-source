@@ -1,5 +1,7 @@
 # yea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yea.md)
+
 <p><span class="chinese">保罗说，是。</span><span class="english">He said, Yea.</span></p>
 
 <p><span class="chinese">我爸爸？真的吗？</span><span class="english">My father? Really? Oh, yea.</span></p>

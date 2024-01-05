@@ -1,5 +1,7 @@
 # bildungsroman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bildungsroman.md)
+
 <p><span class="chinese">成长小说的意义在于“成长维度”和“教育维度”的彰显。</span><span class="english">The significance of Bildungsroman lies in"the dimension of growth"and"the dimension of education".</span></p>
 
 <p><span class="chinese">成长小说一般把视角放在青年人在领路人指引下的成长上。</span><span class="english">Most bildungsroman would describe young people who are guided by someone to the way of being mature.</span></p>

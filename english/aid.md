@@ -1,5 +1,7 @@
 # aid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aid.md)
+
 <p><span class="chinese">我发给你们一些辅助材料。</span><span class="english">I'm giving you an aid sheet.</span></p>
 
 <p><span class="chinese">有很多种经济支持形式。</span><span class="english">There's a lot of financial aid.</span></p>

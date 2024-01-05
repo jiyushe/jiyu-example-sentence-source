@@ -1,5 +1,7 @@
 # mallard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mallard.md)
+
 <p><span class="chinese">野鸭夫妇过来了。</span><span class="english">Here come the mallard couple.</span></p>
 
 <p><span class="chinese">这只绿头鸭怎么会在这里？</span><span class="english">Charlotte, what's this mallard doing here?</span></p>

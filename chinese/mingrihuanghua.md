@@ -1,5 +1,7 @@
 # 明日黄花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingrihuanghua.md)
+
 <p><span class="chinese">如今他已成为明日黄花。</span><span class="english">Today he is a has-been.</span></p>
 
 <p><span class="chinese">而太空，从某种角度说，也是明日黄花了。</span><span class="english">And space is, in some ways, old news.</span></p>

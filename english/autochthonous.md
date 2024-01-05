@@ -1,5 +1,7 @@
 # autochthonous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autochthonous.md)
+
 <p><span class="chinese">用列维斯特劳斯的话说就是“土著的“</span><span class="english">They are thonic, or "autochthonous" in Levi-Strauss' word.</span></p>
 
 <p><span class="chinese">深水原地沉积主要包括深水泥页岩沉积。</span><span class="english">The autochthonous mainly includes the argillaceous deposit.</span></p>

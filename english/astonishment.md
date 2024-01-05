@@ -1,5 +1,7 @@
 # astonishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astonishment.md)
+
 <p><span class="chinese">赫斯脱先生惊奇地朝她望了一下。</span><span class="english">Hurst looked at her with astonishment.</span></p>
 
 <p><span class="chinese">她惊讶地扑闪着她那两只大眼睛。</span><span class="english">Her big eyes blinked with astonishment.</span></p>

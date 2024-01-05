@@ -1,5 +1,7 @@
 # fluence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluence.md)
+
 <p><span class="chinese">天气对人的心情也有非常大的影响。</span><span class="english">Weather also has a strong in fluence on people's feel.</span></p>
 
 <p><span class="chinese">我请求他为我施用他的影响。</span><span class="english">I requested that he should use his in fluence on my behalf.</span></p>

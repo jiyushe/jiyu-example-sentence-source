@@ -1,5 +1,7 @@
 # 高梁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoliang.md)
+
 <p><span class="chinese">玉米丝黑穗病菌不能侵染高梁。</span><span class="english">Head smut fungus from corn did not infect sorghum.</span></p>
 
 <p><span class="chinese">高梁酒是以高梁酿制的高纯度蒸馏酒。</span><span class="english">Kaoliang is a strong distilled liquor made from sorghum.</span></p>

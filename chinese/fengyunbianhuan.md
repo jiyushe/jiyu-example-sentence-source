@@ -1,5 +1,7 @@
 # 风云变幻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyunbianhuan.md)
+
 <p><span class="chinese">任由市场风云变幻，二元奇招连连不断！</span><span class="english">Changes In The Market, Two Yuan Shop Many Ways!</span></p>
 
 <p><span class="chinese">泰国近年的政治，说得婉转些，是风云变幻。</span><span class="english">THAILAND’S recent political history has been, to put it mildly, volatile.</span></p>

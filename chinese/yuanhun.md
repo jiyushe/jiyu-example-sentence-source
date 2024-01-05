@@ -1,5 +1,7 @@
 # 冤魂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanhun.md)
+
 <p><span class="chinese">“啊，闭上眼睛，安息吧！冤魂！可怜的少年！”——一个僧人逃难的路遇。</span><span class="english">Ah, Close your eyes, Rest in peace! You innocent soul! you poor boy!</span></p>
 
 <p><span class="chinese">你是无数冤魂中的一个，愚蠢和笨拙是你的墓志铭。</span><span class="english">You are a enmity fetch among innumerability . Foolish and clumsiness are your epitaph.</span></p>

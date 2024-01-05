@@ -1,5 +1,7 @@
 # 天国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianguo.md)
+
 <p><span class="chinese">神自管居于其天国。</span><span class="english">God's in his heaven.</span></p>
 
 <p><span class="chinese">天国被他尽撕烂。</span><span class="english">Does to rags the heavens tear.</span></p>

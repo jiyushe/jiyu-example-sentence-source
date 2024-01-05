@@ -1,5 +1,7 @@
 # southwards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/southwards.md)
+
 <p><span class="chinese">冬天他们向南做反向的迁徙。</span><span class="english">In winter they return southwards.</span></p>
 
 <p><span class="chinese">浪涛沿着海岸向南涌去。</span><span class="english">The surge travelled southwards along the coast.</span></p>

@@ -1,5 +1,7 @@
 # 软骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruangu.md)
+
 <p><span class="chinese">纤维软骨梗塞或栓塞。</span><span class="english">Fibrocartilaginous Infarct or Embolism.</span></p>
 
 <p><span class="chinese">格蕾琴费劲地嚼着那块带软骨的牛排。</span><span class="english">Gretchen chewed energetically on the gristled steak.</span></p>

@@ -1,5 +1,7 @@
 # lockup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lockup.md)
+
 <p><span class="chinese">他在拘留所里焦急地煎熬了一天。</span><span class="english">He spent an anxious day in the lockup.</span></p>
 
 <p><span class="chinese">警察把罪犯用车押送到看守所。</span><span class="english">The police carted the criminals away to the lockup for prisoners.</span></p>

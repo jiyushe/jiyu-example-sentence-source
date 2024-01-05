@@ -1,5 +1,7 @@
 # 夫君
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fujun.md)
+
 <p><span class="chinese">起码没人跟你抢夫君。</span><span class="english">Nobody shares your husband with you.</span></p>
 
 <p><span class="chinese">那位妇女正正在拿一块蛋糕给那夫君。</span><span class="english">The woman is taking a cake to the man.</span></p>

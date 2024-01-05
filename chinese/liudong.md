@@ -1,5 +1,7 @@
 # 流动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liudong.md)
+
 <p><span class="chinese">任其流动。</span><span class="english">To just be.</span></p>
 
 <p><span class="chinese">享受头部急速流动。</span><span class="english">Enjoy the head rush.</span></p>

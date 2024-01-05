@@ -1,5 +1,7 @@
 # forego
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forego.md)
+
 <p><span class="chinese">亦或是美丽的容颜卸去了桂冠？</span><span class="english">Is it for beauty to forego her wreath?</span></p>
 
 <p><span class="chinese">大家一起来经历一个小小的神经手术，好吧？</span><span class="english">We will forego the brief neuron surgery. Ok?</span></p>

@@ -1,5 +1,7 @@
 # suffer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suffer.md)
+
 <p><span class="chinese">不要在沉默中隐忍。</span><span class="english">Do not suffer in silence.</span></p>
 
 <p><span class="chinese">如此烦躁、备受折磨！</span><span class="english">I fret and suffer torments!</span></p>

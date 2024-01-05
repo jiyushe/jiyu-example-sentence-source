@@ -1,5 +1,7 @@
 # anode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anode.md)
+
 <p><span class="chinese">外加阳极就构成了三极管。</span><span class="english">Extra anode was added to make up a triode.</span></p>
 
 <p><span class="chinese">电池的阴极为铅，阳极为铜。</span><span class="english">The cathode is lead and the anode is copper.</span></p>

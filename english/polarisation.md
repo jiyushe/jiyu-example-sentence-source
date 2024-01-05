@@ -1,5 +1,7 @@
 # polarisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polarisation.md)
+
 <p><span class="chinese">那里也许是极化自转标度在LNB饲料垫铁喉头。</span><span class="english">There may be polarisation rotation scale on the LNB feed horn throat.</span></p>
 
 <p><span class="chinese">它们促成了社会的两极分化，提高了健康风险。</span><span class="english">And they contribute to social polarisation and increased health risks.</span></p>

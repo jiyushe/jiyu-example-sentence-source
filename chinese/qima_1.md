@@ -1,5 +1,7 @@
 # 骑马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qima_1.md)
+
 <p><span class="chinese">喂，小骑马师！</span><span class="english">Hallo, you young jockey!</span></p>
 
 <p><span class="chinese">骑马那部分倒是会发生。</span><span class="english">The horse part, that is.</span></p>

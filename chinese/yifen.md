@@ -1,5 +1,7 @@
 # 义愤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifen.md)
+
 <p><span class="chinese">这种义愤不合理么？</span><span class="english">Doesn't this outrage justice?</span></p>
 
 <p><span class="chinese">奉行义愤脚本就是一个例子。</span><span class="english">Running the outrage script is one example.</span></p>

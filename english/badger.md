@@ -1,5 +1,7 @@
 # badger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/badger.md)
+
 <p><span class="chinese">她像一头獾那么重。</span><span class="english">She was as heavy as a badger.</span></p>
 
 <p><span class="chinese">他们用火把獾从洞中熏出来。</span><span class="english">They fired the badger out of the hole.</span></p>

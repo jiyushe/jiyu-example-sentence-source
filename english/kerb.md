@@ -1,5 +1,7 @@
 # kerb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kerb.md)
+
 <p><span class="chinese">司机倒车时撞著了路边石。</span><span class="english">The driver bumped the kerb while reversing.</span></p>
 
 <p><span class="chinese">司机倒车时撞着了路边石。</span><span class="english">The driver bumped the kerb while reversing.</span></p>

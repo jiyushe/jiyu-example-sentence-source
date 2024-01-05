@@ -1,5 +1,7 @@
 # node
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/node.md)
+
 <p><span class="chinese">每个节点都需要这样做。</span><span class="english">Do this on each node.</span></p>
 
 <p><span class="chinese">将显示一个节点。</span><span class="english">One node will be displayed.</span></p>

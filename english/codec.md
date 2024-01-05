@@ -1,5 +1,7 @@
 # codec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/codec.md)
+
 <p><span class="chinese">为例，将编码器和代码。</span><span class="english">For QuickTime, codec code cases are mixed.</span></p>
 
 <p><span class="chinese">让我告诉您如何摆脱对醋酸乙烯酯编解码器。</span><span class="english">Let me show you how to get rid of VAC Codec.</span></p>

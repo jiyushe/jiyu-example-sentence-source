@@ -1,5 +1,7 @@
 # 在天之灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaitianzhiling.md)
+
 <p><span class="chinese">牛牛，愿你的在天之灵保佑妈妈！</span><span class="english">New-new, I wished you blessed me!</span></p>
 
 <p><span class="chinese">他希望抚慰她的在天之灵，于是就写了一句郑重的誓言。</span><span class="english">He hoped to please her spirit, so he wrote a solemn promise.</span></p>

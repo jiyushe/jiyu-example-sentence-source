@@ -1,5 +1,7 @@
 # 铜版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongban_3.md)
+
 <p><span class="chinese">铜版上蚀刻了一个图案。</span><span class="english">A design is etched on a copperplate.</span></p>
 
 <p><span class="chinese">毕加索18岁时，创作了自己第一幅铜版刻画。</span><span class="english">When Picasso is 18 years old, created oneself depict of the first copperplate.</span></p>

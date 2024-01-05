@@ -1,5 +1,7 @@
 # sweatshop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweatshop.md)
+
 <p><span class="chinese">这是数位时代的血汗工厂。</span><span class="english">This is the digital-era sweatshop.</span></p>
 
 <p><span class="chinese">前有一阵子你做粗工，现在则做接待。</span><span class="english">You've worked in a sweatshop and now you're slinging hash.</span></p>

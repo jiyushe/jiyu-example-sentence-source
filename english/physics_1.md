@@ -1,5 +1,7 @@
 # physics 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physics_1.md)
+
 <p><span class="chinese">他专攻物理。</span><span class="english">He majors in physics.</span></p>
 
 <p><span class="chinese">物理是他的主修科目。</span><span class="english">Physics is his major.</span></p>

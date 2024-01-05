@@ -1,5 +1,7 @@
 # hiroshima
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hiroshima.md)
+
 <p><span class="chinese">为什么在广岛记忆受到窒碍？</span><span class="english">Why is memory thwarted in Hiroshima?</span></p>
 
 <p><span class="chinese">广岛爱珍珠港！滑天下之大稽。</span><span class="english">Hiroshima loves Pearl Harbor. Ludicrous at best.</span></p>

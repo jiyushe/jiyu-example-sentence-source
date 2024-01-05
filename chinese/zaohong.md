@@ -1,5 +1,7 @@
 # 枣红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaohong.md)
+
 <p><span class="chinese">很久以前我丢失了一头猎犬，一匹枣红马和一只斑鸠，而且我仍然在寻找它们踪迹。</span><span class="english">I long ago lost a hound, a bay horse and a turtle-dove, and am still on their trail.</span></p>
 
 <p><span class="chinese">“听！”桑姆说，“是枣红马。”她感觉小红马就在周围。”枣红马又嘶叫了一声。</span><span class="english">"Hear that! " said Slim, "The mare. She senses Sunset is nearby. " The mare whinnied again.</span></p>

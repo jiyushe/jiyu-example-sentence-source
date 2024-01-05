@@ -1,5 +1,7 @@
 # subpopulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subpopulation.md)
+
 <p><span class="chinese">通过脊髓中间神经元亚群机械痒门控制。</span><span class="english">Gate control of mechanical itch by a subpopulation of spinal cord interneurons.</span></p>
 
 <p><span class="chinese">每个子群体是围绕一个群体种子而建立的。</span><span class="english">Each subpopulation was set around a dominating particle called the species seed.</span></p>

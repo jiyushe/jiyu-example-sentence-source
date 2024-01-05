@@ -1,5 +1,7 @@
 # 信得过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xindeguo.md)
+
 <p><span class="chinese">你可以依靠/信得过我。</span><span class="english">You can rely on me.</span></p>
 
 <p><span class="chinese">他这个人信得过。</span><span class="english">He is a person one can trust.</span></p>

@@ -1,5 +1,7 @@
 # 拟订
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niding_1.md)
+
 <p><span class="chinese">试验拟订332例患者进入研究。</span><span class="english">Enrolled in the study were 332 patients.</span></p>
 
 <p><span class="chinese">他拟订了增设新课程的计划。</span><span class="english">He chalked out his plan of establishing a new course.</span></p>

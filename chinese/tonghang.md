@@ -1,5 +1,7 @@
 # 同行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghang.md)
+
 <p><span class="chinese">我都与你同行。</span><span class="english">I'll aways be with you.</span></p>
 
 <p><span class="chinese">来吧，我们同行，顺流而下。</span><span class="english">Come, let us go down together.</span></p>

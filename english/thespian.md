@@ -1,5 +1,7 @@
 # thespian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thespian.md)
+
 <p><span class="chinese">艾丹竭尽他的演技才能来追求漂亮的塔拉。</span><span class="english">Aidan turns all his thespian charm on the beautiful Tara.</span></p>
 
 <p><span class="chinese">如果你喜欢在戏剧里表演，参加你学校的戏剧的俱乐部。</span><span class="english">If you enjoy acting in plays, join your school's thespian club.</span></p>

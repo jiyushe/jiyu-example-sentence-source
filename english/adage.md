@@ -1,5 +1,7 @@
 # adage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adage.md)
+
 <p><span class="chinese">你们知道这个古老的谚语。</span><span class="english">You know the old adage.</span></p>
 
 <p><span class="chinese">那句古老的俗语说的没错。</span><span class="english">The old adage is true after all.</span></p>

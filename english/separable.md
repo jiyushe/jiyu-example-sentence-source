@@ -1,5 +1,7 @@
 # separable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/separable.md)
+
 <p><span class="chinese">圆柱滚子轴承是一种可分离型轴承。</span><span class="english">This type of bearings is separable.</span></p>
 
 <p><span class="chinese">并不存在与身体相分离的另一个"你"</span><span class="english">There is no "You" separable or separate from your body.</span></p>

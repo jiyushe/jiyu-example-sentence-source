@@ -1,5 +1,7 @@
 # conformist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conformist.md)
+
 <p><span class="chinese">此外，它还被情感要求和遵奉者的意见所辩护。</span><span class="english">Furthermore it is defended by use of emotional appeals and conformist arguments.</span></p>
 
 <p><span class="chinese">有时，在外国人的眼里，日本社会的这些行为规范显得陈旧，对它们的遵从到了过分的地步。</span><span class="english">Sometimes, to foreigners, Japan's societal rules seems orderly and conformist to a fault.</span></p>

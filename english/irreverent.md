@@ -1,5 +1,7 @@
 # irreverent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irreverent.md)
+
 <p><span class="chinese">几个彪形大汉闻讯而至，毫不客气揍了白宙一顿。</span><span class="english">A few bruiser, even to an irreverent hit Bai Zhou.</span></p>
 
 <p><span class="chinese">但是要描述这次揭示实在是大不敬。</span><span class="english">But it were irreverent to describe that revelation.</span></p>

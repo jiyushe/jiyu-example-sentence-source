@@ -1,5 +1,7 @@
 # smarten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smarten.md)
+
 <p><span class="chinese">我曾试图令他变得更精明。</span><span class="english">I tried to let him smarten up.</span></p>
 
 <p><span class="chinese">他们专为卖房而油漆房子。</span><span class="english">Some new paint will smarten up the house.</span></p>

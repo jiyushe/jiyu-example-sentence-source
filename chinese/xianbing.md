@@ -1,5 +1,7 @@
 # 宪兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianbing.md)
+
 <p><span class="chinese">宪兵，我会听从你们的吩咐。</span><span class="english">Gendarmes, I am at your service.</span></p>
 
 <p><span class="chinese">一个宪兵正在院子里踱步。</span><span class="english">A gendarme was crossing the court.</span></p>

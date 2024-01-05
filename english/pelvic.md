@@ -1,5 +1,7 @@
 # pelvic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pelvic.md)
+
 <p><span class="chinese">～锻炼骨盆底。</span><span class="english">Exercise your pelvic floor.</span></p>
 
 <p><span class="chinese">性，强健骨盆底部肌肉群。</span><span class="english">Sex Strengthens Pelvic Floor Muscles</span></p>

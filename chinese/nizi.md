@@ -1,5 +1,7 @@
 # 妮子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nizi.md)
+
 <p><span class="chinese">你个妮子不太自信。</span><span class="english">You don't seem very confident about yourself.</span></p>
 
 <p><span class="chinese">廷廷和妮子比想像中还可爱呢！</span><span class="english">Ting-Ting and Ni-Ni are even cuter than imagined!</span></p>

@@ -1,5 +1,7 @@
 # 马夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mafu.md)
+
 <p><span class="chinese">这位马夫对待他的马很好。</span><span class="english">The driver treats his horses well.</span></p>
 
 <p><span class="chinese">他的马悲哀地嘶叫着，马夫也回头望着楚国叹气。</span><span class="english">His horse neighed and his groom looked back at Ch'u.</span></p>

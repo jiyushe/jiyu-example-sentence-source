@@ -1,5 +1,7 @@
 # 指教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijiao_1.md)
+
 <p><span class="chinese">请多多指教。</span><span class="english">I beg you to teach me.</span></p>
 
 <p><span class="chinese">希望大家多多指教。</span><span class="english">We hope you can teach.</span></p>

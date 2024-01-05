@@ -1,5 +1,7 @@
 # yale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yale.md)
+
 <p><span class="chinese">也参加过由耶鲁组织去那儿的旅游</span><span class="english">I did a Yale trip there.</span></p>
 
 <p><span class="chinese">每个人都能来耶鲁就读吗？</span><span class="english">Can anyone get into Yale?</span></p>

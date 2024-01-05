@@ -1,5 +1,7 @@
 # 古韵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyun.md)
+
 <p><span class="chinese">打扰了，这儿是古韵旅行社吗？</span><span class="english">Yes. I am thinking of a tour to Australia.</span></p>
 
 <p><span class="chinese">古韵书同意让众人会面十五分钟。</span><span class="english">Ancient book agreed to let the meeting for 15 minutes.</span></p>

@@ -1,5 +1,7 @@
 # 血球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueqiu.md)
+
 <p><span class="chinese">请先做一次血球计数。</span><span class="english">Take your blood count first, please.</span></p>
 
 <p><span class="chinese">并使用血球计数盘来对细胞进行计数。</span><span class="english">Cell numbers were counted using the hemocytometer.</span></p>

@@ -1,5 +1,7 @@
 # 东道国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongdaoguo.md)
+
 <p><span class="chinese">奥运会入场式上，东道国队总是最后出场。</span><span class="english">Do you remember the last Olympics in Athens?</span></p>
 
 <p><span class="chinese">投资须与东道国的发展优先重点保持一致</span><span class="english">Align Investments with Countries’ Development Priorities</span></p>

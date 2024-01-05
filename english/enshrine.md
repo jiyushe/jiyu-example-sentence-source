@@ -1,5 +1,7 @@
 # enshrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enshrine.md)
+
 <p><span class="chinese">相比之下，福田康夫有参拜神庙的家庭传统。</span><span class="english">Mr Fukuda, by contrast, has a family legacy to enshrine.</span></p>
 
 <p><span class="chinese">它应该是保存字词基本意义的神龛。</span><span class="english">It is supposed to enshrine the words that actually mean things.</span></p>

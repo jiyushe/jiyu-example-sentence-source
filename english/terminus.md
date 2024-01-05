@@ -1,5 +1,7 @@
 # terminus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terminus.md)
+
 <p><span class="chinese">这列火车的终点站是汤顿。</span><span class="english">We arrived at the terminus.</span></p>
 
 <p><span class="chinese">下一站是红磡终点站。</span><span class="english">The next station is Hung Hom Terminus.</span></p>

@@ -1,5 +1,7 @@
 # 开具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiju.md)
+
 <p><span class="chinese">请在装船后给我公司开具发票。</span><span class="english">Invoice us after the shipment.</span></p>
 
 <p><span class="chinese">希望贵方能就这次订货开具形式发票。</span><span class="english">A proforma invoice will be required for the order.</span></p>

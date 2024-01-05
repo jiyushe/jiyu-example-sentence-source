@@ -1,5 +1,7 @@
 # 隐蔽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinbi_2.md)
+
 <p><span class="chinese">阿纳金，你在干什么？隐蔽！</span><span class="english">Anakin what are you doing? Get down!</span></p>
 
 <p><span class="chinese">水底设置隐蔽物。</span><span class="english">Bottom of the water setting shelter.</span></p>

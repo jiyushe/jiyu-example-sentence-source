@@ -1,5 +1,7 @@
 # 金丝猴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinsihou.md)
+
 <p><span class="chinese">金丝猴生活在中国。</span><span class="english">Golden monkeys live in China.</span></p>
 
 <p><span class="chinese">金丝猴只生活在中国。</span><span class="english">Golden monkeys live only in China.</span></p>

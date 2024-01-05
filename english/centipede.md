@@ -1,5 +1,7 @@
 # centipede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centipede.md)
+
 <p><span class="chinese">就是蜈蚣！</span><span class="english">A centipede !</span></p>
 
 <p><span class="chinese">是我，”蜈蚣说。</span><span class="english">"I did, " said the centipede.</span></p>

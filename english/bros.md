@@ -1,5 +1,7 @@
 # bros
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bros.md)
+
 <p><span class="chinese">因此我要求你在我义弟面前嫁给我。</span><span class="english">So I request you to marry me in front of my bros.</span></p>
 
 <p><span class="chinese">依据“超级玛丽”电子游戏设想的冷艳的纸杯蛋糕。</span><span class="english">Amazing cupcakes inspired by Super Mario Bros video games.</span></p>

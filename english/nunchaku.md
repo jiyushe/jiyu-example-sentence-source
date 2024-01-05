@@ -1,5 +1,7 @@
 # nunchaku
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nunchaku.md)
+
 <p><span class="chinese">有了这种安全双节棍，组织双节棍比赛便有了可能。</span><span class="english">It now became possible to realize nunchaku matches from man to man.</span></p>
 
 <p><span class="chinese">中国的双节棍多是圆的，而日本的是八边形的。</span><span class="english">Chinese nunchaku tend to be rounded, whereas Japanese are octagonal.</span></p>

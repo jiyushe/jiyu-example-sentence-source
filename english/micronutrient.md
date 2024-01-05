@@ -1,5 +1,7 @@
 # micronutrient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micronutrient.md)
+
 <p><span class="chinese">微量营养素缺乏在这一地区也很普遍。</span><span class="english">Micronutrient deficiencies are also common in this region.</span></p>
 
 <p><span class="chinese">磷是水产动物所必需的微量营养成分。</span><span class="english">Phosphorus is an essential micronutrient for aquatic animals.</span></p>

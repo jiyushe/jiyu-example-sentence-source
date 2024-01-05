@@ -1,5 +1,7 @@
 # 鼻炎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biyan.md)
+
 <p><span class="chinese">您得了鼻炎。</span><span class="english">You have rhinitis.</span></p>
 
 <p><span class="chinese">什么导致了鼻炎？</span><span class="english">What Causes Sinus Problems?</span></p>

@@ -1,5 +1,7 @@
 # 病毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingdu.md)
+
 <p><span class="chinese">就像是病毒。</span><span class="english">Ithas like a virus.</span></p>
 
 <p><span class="chinese">传播这个克隆病毒！</span><span class="english">Send in the Cloner!</span></p>

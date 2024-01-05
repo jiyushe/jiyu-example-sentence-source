@@ -1,5 +1,7 @@
 # 金霉素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinmeisu.md)
+
 <p><span class="chinese">效力最差的是金霉素、土霉素和四环素。</span><span class="english">Least effective were chlortetracycline, oxytetracycline, and tetracycline.</span></p>
 
 <p><span class="chinese">她的耳朵有些毛病，她的耳科医生给了她一些金霉素。</span><span class="english">She had something wrong with her ear and her aural surgeon gave her some aureomycin.</span></p>

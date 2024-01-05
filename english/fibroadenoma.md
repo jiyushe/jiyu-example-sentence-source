@@ -1,5 +1,7 @@
 # fibroadenoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibroadenoma.md)
+
 <p><span class="chinese">图示是乳腺纤维腺瘤。</span><span class="english">Here is a small fibroadenoma of the breast.</span></p>
 
 <p><span class="chinese">纤维腺瘤的显微外观。</span><span class="english">Here is the microscopic appearance of a fibroadenoma.</span></p>

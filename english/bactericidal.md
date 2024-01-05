@@ -1,5 +1,7 @@
 # bactericidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bactericidal.md)
+
 <p><span class="chinese">一些阳离子蛋白质是能杀菌的。</span><span class="english">Some of the cationic proteins are bactericidal.</span></p>
 
 <p><span class="chinese">有证据提示它对幽门螺杆菌有杀菌作用。</span><span class="english">Evidence suggests it harbors bactericidal efficacy against H. pylori.</span></p>

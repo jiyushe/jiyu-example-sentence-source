@@ -1,5 +1,7 @@
 # cutlass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutlass.md)
+
 <p><span class="chinese">没带鱼就吃汉堡吧！</span><span class="english">From cutlass fish down to hamburgers.</span></p>
 
 <p><span class="chinese">突然，我发现格雷没有武器，便把我的弯刀给了他。</span><span class="english">At the same time, observing Gray to be unarmed, I handed him my cutlass.</span></p>

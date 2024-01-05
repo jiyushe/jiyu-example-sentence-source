@@ -1,5 +1,7 @@
 # 正当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengdang_1.md)
+
 <p><span class="chinese">苹果正当季。</span><span class="english">So apples are in season.</span></p>
 
 <p><span class="chinese">他靠正当的劳动生活。</span><span class="english">He lives by honest labour.</span></p>

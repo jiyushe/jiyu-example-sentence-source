@@ -1,5 +1,7 @@
 # submucosa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submucosa.md)
+
 <p><span class="chinese">黏膜肌层起源于黏膜下层的肌肉干细胞。</span><span class="english">The muscularis mucosae derived from the muscle stem cells in the submucosa.</span></p>
 
 <p><span class="chinese">粘膜下层的毛细林巴营和淋巴管多位于粘膜肌的直下方。</span><span class="english">Lymphatics in the submucosa were found in the depth of the muscularis mucosa.</span></p>

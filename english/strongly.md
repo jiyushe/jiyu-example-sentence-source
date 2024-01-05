@@ -1,5 +1,7 @@
 # strongly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strongly.md)
+
 <p><span class="chinese">对比，我们也坚信不疑。</span><span class="english">And we strongly believe too.</span></p>
 
 <p><span class="chinese">这是一个强烈的对比。</span><span class="english">This is a strongly comparation.</span></p>

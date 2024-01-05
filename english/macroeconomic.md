@@ -1,5 +1,7 @@
 # macroeconomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macroeconomic.md)
+
 <p><span class="chinese">我们必须重新调整宏观经济政策。</span><span class="english">We must re-adjust macroeconomic policy.</span></p>
 
 <p><span class="chinese">宏观环境也仍然问题重重。</span><span class="english">The macroeconomic environment, too, remains troublesome.</span></p>

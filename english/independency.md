@@ -1,5 +1,7 @@
 # independency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/independency.md)
+
 <p><span class="chinese">也有人认为，它的某些种类的自由和独立性。</span><span class="english">Others feel that it's some kind of freedom and independency.</span></p>
 
 <p><span class="chinese">然而，如何实现内部审计的独立性却一直被人们所忽视。</span><span class="english">But, how to realise the independency has been ignored for a long time.</span></p>

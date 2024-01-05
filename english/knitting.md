@@ -1,5 +1,7 @@
 # knitting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knitting.md)
+
 <p><span class="chinese">她喜欢织毛衣。</span><span class="english">She likes knitting.</span></p>
 
 <p><span class="chinese">他的妻子在编织。</span><span class="english">His wife was knitting.</span></p>

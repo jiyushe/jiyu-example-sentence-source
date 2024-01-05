@@ -1,5 +1,7 @@
 # 救生衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiushengyi.md)
+
 <p><span class="chinese">带上你们的救生衣。</span><span class="english">Take lifejackets with you.</span></p>
 
 <p><span class="chinese">她的救生衣未能充气胀起。</span><span class="english">Her life jacket failed to inflate.</span></p>

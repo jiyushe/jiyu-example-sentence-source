@@ -1,5 +1,7 @@
 # fortunate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortunate.md)
+
 <p><span class="chinese">我们是幸运者。</span><span class="english">We are fortunate.</span></p>
 
 <p><span class="chinese">我就是你的幸运儛伴啦！</span><span class="english">I'm your fortunate guy then.</span></p>

@@ -1,5 +1,7 @@
 # 发挥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fahui.md)
+
 <p><span class="chinese">联系如何发挥作用？</span><span class="english">How do linkages work?</span></p>
 
 <p><span class="chinese">让每一块钱都发挥上作用。</span><span class="english">Maximize every dollar.</span></p>

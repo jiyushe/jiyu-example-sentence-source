@@ -1,5 +1,7 @@
 # divide 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divide.md)
+
 <p><span class="chinese">把它分成两半。</span><span class="english">Divide it in half.</span></p>
 
 <p><span class="chinese">我算得对吗</span><span class="english">Did I divide right?</span></p>

@@ -1,5 +1,7 @@
 # slink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slink.md)
+
 <p><span class="chinese">随他们客死他乡吧！</span><span class="english">Let them slink off to other countries and die!</span></p>
 
 <p><span class="chinese">科学家将气候变化归因于温室效应。</span><span class="english">Scientists slink climate change to the greenhouse effect.</span></p>

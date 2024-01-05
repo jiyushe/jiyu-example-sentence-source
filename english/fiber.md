@@ -1,5 +1,7 @@
 # fiber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiber.md)
+
 <p><span class="chinese">陶瓷纤维纸。</span><span class="english">Ceramic fiber paper.</span></p>
 
 <p><span class="chinese">纤维伸长低。</span><span class="english">Low fiber elongation.</span></p>

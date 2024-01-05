@@ -1,5 +1,7 @@
 # pice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pice.md)
+
 <p><span class="chinese">而我们的价格绝对是合理的。</span><span class="english">And our pice are reasonable.</span></p>
 
 <p><span class="chinese">可以。我昨天吃了一块蛋糕。</span><span class="english">Yes. I ate a pice of cake yesterday.</span></p>

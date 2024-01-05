@@ -1,5 +1,7 @@
 # siren
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siren.md)
+
 <p><span class="chinese">也听到塞壬的笛音。</span><span class="english">And heard the song of siren.</span></p>
 
 <p><span class="chinese">据说她是个妖艳女人。</span><span class="english">It is said that she is a siren.</span></p>

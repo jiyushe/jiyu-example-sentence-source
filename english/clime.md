@@ -1,5 +1,7 @@
 # clime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clime.md)
+
 <p><span class="chinese">在那没有云朵没有星星的天空中。</span><span class="english">Of cloudless clime and starless sky.</span></p>
 
 <p><span class="chinese">在东方的时光里，给了我这个奇迹。</span><span class="english">Match me such a marvel, save in Eastern clime.</span></p>

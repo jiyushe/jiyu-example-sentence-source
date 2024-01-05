@@ -1,5 +1,7 @@
 # zookeeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zookeeper.md)
+
 <p><span class="chinese">简单.</span><span class="english">ZooKeeper is simple.</span></p>
 
 <p><span class="chinese">你能看见一个愉快的动物园管理员。</span><span class="english">You can see a pleasant zookeeper.</span></p>

@@ -1,5 +1,7 @@
 # hypericum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypericum.md)
+
 <p><span class="chinese">金丝桃提取物一般由花制成。</span><span class="english">A Hypericum extract is usually made from the flowers.</span></p>
 
 <p><span class="chinese">目的对元宝草的化学成分进行研究。</span><span class="english">OBJECTIVE To study the chemical constituents of Hypericum sampsonii Hance.</span></p>

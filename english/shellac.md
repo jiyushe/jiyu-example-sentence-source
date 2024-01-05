@@ -1,5 +1,7 @@
 # shellac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shellac.md)
+
 <p><span class="chinese">是全国优质天然紫胶的原产地。</span><span class="english">Is the high-quality natural shellac origin.</span></p>
 
 <p><span class="chinese">这种涂料是虫胶与酒精的混合物。</span><span class="english">The coating was a mixture of shellac and alcohol.</span></p>

@@ -1,5 +1,7 @@
 # flea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flea.md)
+
 <p><span class="chinese">跳蚤市场。</span><span class="english">Flea markets.</span></p>
 
 <p><span class="chinese">不过追赶一条死狗，一个虼蚤就是了。</span><span class="english">A dead dog? A flea?</span></p>

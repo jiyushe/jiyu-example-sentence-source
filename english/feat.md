@@ -1,5 +1,7 @@
 # feat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feat.md)
+
 <p><span class="chinese">真实和原始的街舞技艺。</span><span class="english">Real and raw Hiphop feat.</span></p>
 
 <p><span class="chinese">您是如何做到这一壮举的呢？</span><span class="english">How did you accomplish that feat?</span></p>

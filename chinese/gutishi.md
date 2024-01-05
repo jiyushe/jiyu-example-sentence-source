@@ -1,5 +1,7 @@
 # 古体诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gutishi.md)
+
 <p><span class="chinese">很不错的一首古体诗！</span><span class="english">A very good ancient poem!</span></p>
 
 <p><span class="chinese">通过频率统计整理出古体诗和律诗采用的平仄句型以及他们的数量。</span><span class="english">On the other hand, we drew the tonal patterns of ancient-verse and regular-verse by frequency statistics.</span></p>

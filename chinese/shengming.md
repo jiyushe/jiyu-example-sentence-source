@@ -1,5 +1,7 @@
 # 声名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengming.md)
+
 <p><span class="chinese">或是横笛小小的声名。</span><span class="english">Or a fife's small fame.</span></p>
 
 <p><span class="chinese">他是个声名显赫的政治家。</span><span class="english">He is a statesman of great eminence.</span></p>

@@ -1,5 +1,7 @@
 # reciprocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reciprocation.md)
+
 <p><span class="chinese">因为你没有得到他们的回应。</span><span class="english">Because you are not getting reciprocation from them.</span></p>
 
 <p><span class="chinese">贵行的好意我方保证随时回报。</span><span class="english">We assure you of our reciprocation your courtesy at any time.</span></p>

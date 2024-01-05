@@ -1,5 +1,7 @@
 # 架次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaci.md)
+
 <p><span class="chinese">我们飞行了625个架次，总计1371个小时。</span><span class="english">We flew 625 sorties and 1,371 hours.</span></p>
 
 <p><span class="chinese">多国部队共出动飞机10万架次。</span><span class="english">The Allied Troo flew 100,000 sorties.</span></p>

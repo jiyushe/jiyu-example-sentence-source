@@ -1,5 +1,7 @@
 # maori
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maori.md)
+
 <p><span class="chinese">他是纯血统的毛利人。</span><span class="english">He's a full-blooded maori.</span></p>
 
 <p><span class="chinese">这包括毛利人选民。</span><span class="english">This includes the Maori electorates.</span></p>

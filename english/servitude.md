@@ -1,5 +1,7 @@
 # servitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/servitude.md)
+
 <p><span class="chinese">人不会天生就是奴隶"</span><span class="english">Man is not made for servitude."</span></p>
 
 <p><span class="chinese">我猜他们将此看成一种奴役行为。</span><span class="english">I guess they view it as servitude.</span></p>

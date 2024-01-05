@@ -1,5 +1,7 @@
 # 公示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshi_3.md)
+
 <p><span class="chinese">公示出来的名单中并没有列出革命卫队公司的所有分支。</span><span class="english">No public list identifies all of the IRGC's offshoots.</span></p>
 
 <p><span class="chinese">在中国，对所有级别的重要任命都进行这样的公示。</span><span class="english">This is done at all levels and for all important posts.</span></p>

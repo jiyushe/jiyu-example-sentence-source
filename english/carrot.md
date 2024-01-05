@@ -1,5 +1,7 @@
 # carrot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carrot.md)
+
 <p><span class="chinese">我喜欢喝胡萝卜汁。</span><span class="english">I like carrot juice.</span></p>
 
 <p><span class="chinese">脚踏溜冰鞋的胡萝卜。</span><span class="english">A carrot on ice-skates!</span></p>

@@ -1,5 +1,7 @@
 # 凝思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningsi.md)
+
 <p><span class="chinese">他们从不凝思任何问题。</span><span class="english">They never dwell on any problems.</span></p>
 
 <p><span class="chinese">宝钗一般会在未来的孩子这个问题上凝思细想。</span><span class="english">Bao-chai usually paused on the contemplation of possible children longest.</span></p>

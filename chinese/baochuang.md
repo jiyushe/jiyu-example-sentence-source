@@ -1,5 +1,7 @@
 # 刨床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baochuang.md)
+
 <p><span class="chinese">这些是刨床还是机床？</span><span class="english">Are these planers or lathes?</span></p>
 
 <p><span class="chinese">包括手工铸模&刨床，珠宝匠除外。</span><span class="english">Category includes hand molders &shapers except jewelers.</span></p>

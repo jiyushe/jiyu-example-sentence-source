@@ -1,5 +1,7 @@
 # bibcock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bibcock.md)
+
 <p><span class="chinese">扳动开关时，假如手感轻柔、不费力，说明该龙头比较精密。</span><span class="english">Pull when using switch, if feel is gentle, lightly, explain this bibcock compares nicety.</span></p>
 
 <p><span class="chinese">水盆龙头有分体、单体之分，您可根据实际情况采用。</span><span class="english">Birdbath bibcock has the branch of fission, monomer, you can be used according to actual condition.</span></p>

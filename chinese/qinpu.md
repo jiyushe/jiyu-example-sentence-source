@@ -1,5 +1,7 @@
 # 琴谱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinpu.md)
+
 <p><span class="chinese">对不起，我没有琴谱！</span><span class="english">Sorry, I don't have sheet music!</span></p>
 
 <p><span class="chinese">研究中分析了诸如琴谱视读这种复杂的任务。</span><span class="english">The studies analyzed complex tasks such as piano sight reading.</span></p>

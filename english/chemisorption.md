@@ -1,5 +1,7 @@
 # chemisorption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemisorption.md)
+
 <p><span class="chinese">在化学吸附过程中，氢原子被带上负电。</span><span class="english">H atom is charged negatively in chemisorption.</span></p>
 
 <p><span class="chinese">在催化过程中，物理吸附和化学吸附是同时进行的。</span><span class="english">In catalytic process physisorption and chemisorption may proceed at the same time.</span></p>

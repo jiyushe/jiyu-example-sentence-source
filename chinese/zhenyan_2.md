@@ -1,5 +1,7 @@
 # 针眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenyan_2.md)
+
 <p><span class="chinese">就像在针眼里找蜗牛。</span><span class="english">Like looking fora snail in a needle. Or summat.</span></p>
 
 <p><span class="chinese">无意中，我发现，她手上有一块红肿，被针眼扎过。</span><span class="english">Inadvertently, I found, she had a red hand, be a tie.</span></p>

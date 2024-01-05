@@ -1,5 +1,7 @@
 # poof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poof.md)
+
 <p><span class="chinese">让鉴赏力不会有错的公理见鬼去吧.</span><span class="english">Poof goes the axiom that taste can't be wrong.</span></p>
 
 <p><span class="chinese">他走了过去，然后就嗖的一下子不见了。</span><span class="english">He walked through—and vanished. Poof ! Like that.</span></p>

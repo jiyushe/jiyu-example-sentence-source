@@ -1,5 +1,7 @@
 # 庸人自扰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongrenzirao.md)
+
 <p><span class="chinese">完全是庸人自扰。</span><span class="english">It was much ado about nothing.</span></p>
 
 <p><span class="chinese">她对她的健康有点庸人自扰。</span><span class="english">She fusses too much about her health.</span></p>

@@ -1,5 +1,7 @@
 # per
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/per.md)
+
 <p><span class="chinese">多少钱一克？</span><span class="english">How much per a gram?</span></p>
 
 <p><span class="chinese">阿每线成本较低。</span><span class="english">A lower cost per lead.</span></p>

@@ -1,5 +1,7 @@
 # squabble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squabble.md)
+
 <p><span class="chinese">不要为一点小事就吵起来。</span><span class="english">Don't squabble over trifles.</span></p>
 
 <p><span class="chinese">你玩过摇摆争论吗？</span><span class="english">Have you ever played Wobble Squabble?</span></p>

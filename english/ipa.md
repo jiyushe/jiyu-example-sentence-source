@@ -1,5 +1,7 @@
 # ipa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ipa.md)
+
 <p><span class="chinese">采用成熟的洗剂、纯水、IPA脱水干燥清洗工艺…</span><span class="english">Adopt the mature lotion, aqua pura, IPA cleaning process of dehydration drying.</span></p>
 
 <p><span class="chinese">待冷却后，用外加物异丙醇滴定多余的氢化物。</span><span class="english">After cooling, the excess hydride was destroyed by the dropwise addition of IPA.</span></p>

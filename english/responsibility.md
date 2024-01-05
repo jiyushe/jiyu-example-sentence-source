@@ -1,5 +1,7 @@
 # responsibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/responsibility.md)
+
 <p><span class="chinese">我全权负责。</span><span class="english">I take full responsibility.</span></p>
 
 <p><span class="chinese">不推卸责任。</span><span class="english">Not to shirk responsibility.</span></p>

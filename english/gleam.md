@@ -1,5 +1,7 @@
 # gleam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gleam.md)
+
 <p><span class="chinese">没有一线希望了。</span><span class="english">There is no gleam of hope.</span></p>
 
 <p><span class="chinese">竟然像血光一样闪烁！</span><span class="english">You gleam indeed like blood!</span></p>

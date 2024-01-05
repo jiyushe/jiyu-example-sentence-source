@@ -1,5 +1,7 @@
 # coconut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coconut.md)
+
 <p><span class="chinese">加椰蓉，拌匀。</span><span class="english">Add coconut. Mix.</span></p>
 
 <p><span class="chinese">加上椰子油？</span><span class="english">With coconut oil?</span></p>

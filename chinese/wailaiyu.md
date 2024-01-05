@@ -1,5 +1,7 @@
 # 外来语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wailaiyu.md)
+
 <p><span class="chinese">许多英语词汇是外来语。</span><span class="english">Many English words come from abroad.</span></p>
 
 <p><span class="chinese">你文章中使用的外来语太多了。</span><span class="english">The loanwords written in your article were overdone.</span></p>

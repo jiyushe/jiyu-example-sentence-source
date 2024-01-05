@@ -1,5 +1,7 @@
 # classis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classis.md)
+
 <p><span class="chinese">我们班没有一个人缺席。</span><span class="english">No one in our classis absent.</span></p>
 
 <p><span class="chinese">他们班的学生人数是50人。</span><span class="english">The number of students in their classis fifty.</span></p>

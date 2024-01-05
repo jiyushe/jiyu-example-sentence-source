@@ -1,5 +1,7 @@
 # bumblebee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bumblebee.md)
+
 <p><span class="chinese">快步跃舞向黄蜂。</span><span class="english">To dance a jig for the bumblebee.</span></p>
 
 <p><span class="chinese">大黄蜂在这集当中会怎么样？</span><span class="english">What about Bumblebee? How's he doing?</span></p>

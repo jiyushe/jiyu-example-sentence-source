@@ -1,5 +1,7 @@
 # suave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suave.md)
+
 <p><span class="chinese">对于这个温文尔雅的超级间谍来说似乎不大可能。</span><span class="english">Unlikely for the suave superspy.</span></p>
 
 <p><span class="chinese">他本人魅力十足，生活放荡不羁。</span><span class="english">A suave charmer, he had a reputation for living fast.</span></p>

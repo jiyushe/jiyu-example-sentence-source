@@ -1,5 +1,7 @@
 # reins
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reins.md)
+
 <p><span class="chinese">那是一匹易于驾驭的马。</span><span class="english">It is a horse that reins well.</span></p>
 
 <p><span class="chinese">驯马的鞭子躺在她的手里。</span><span class="english">In her hands lay the reins of stallion.</span></p>

@@ -1,5 +1,7 @@
 # flagging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagging.md)
+
 <p><span class="chinese">她那渐淡的兴趣重被激起。</span><span class="english">Her flagging interest awoke.</span></p>
 
 <p><span class="chinese">标记不适当的内容。</span><span class="english">Flagging of inappropriate content.</span></p>

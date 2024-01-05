@@ -1,5 +1,7 @@
 # brill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brill.md)
+
 <p><span class="chinese">对布里尔来说，这是一个黑暗的夜晚。</span><span class="english">It's a dark night for Brill.</span></p>
 
 <p><span class="chinese">布里尔说，温加滕确实告诉过他，她愿意担任教育局长一职。</span><span class="english">Brill says Weingarten actually told him she'd take the chancellor job.</span></p>

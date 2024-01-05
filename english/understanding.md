@@ -1,5 +1,7 @@
 # understanding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/understanding.md)
+
 <p><span class="chinese">明白事理的人。</span><span class="english">A man of understanding.</span></p>
 
 <p><span class="chinese">搿个真个老难理解否？</span><span class="english">Is it hard understanding?</span></p>

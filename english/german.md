@@ -1,5 +1,7 @@
 # german
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/german.md)
+
 <p><span class="chinese">他是德国人。</span><span class="english">He is  German.</span></p>
 
 <p><span class="chinese">你们这儿有德国车吗？</span><span class="english">Do you have German cars?</span></p>

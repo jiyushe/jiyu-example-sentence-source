@@ -1,5 +1,7 @@
 # taps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taps.md)
+
 <p><span class="chinese">我在一个夜晚聆听水龙头的流水声</span><span class="english">I heard the sound of taps one night</span></p>
 
 <p><span class="chinese">爸爸微笑着磕了磕他的烟斗。</span><span class="english">My dad smiles and taps on his pipe.</span></p>

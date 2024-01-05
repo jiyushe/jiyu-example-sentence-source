@@ -1,5 +1,7 @@
 # tempered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tempered.md)
+
 <p><span class="chinese">钢化玻璃罩。</span><span class="english">Tempered glass covering.</span></p>
 
 <p><span class="chinese">钢铁就是这样炼成。</span><span class="english">It is how the steel was tempered.</span></p>

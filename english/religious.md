@@ -1,5 +1,7 @@
 # religious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/religious.md)
+
 <p><span class="chinese">还有一句宗教的</span><span class="english">And this is a religious one.</span></p>
 
 <p><span class="chinese">但他也唱宗教诗歌</span><span class="english">But he also sang religious music.</span></p>

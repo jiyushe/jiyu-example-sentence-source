@@ -1,5 +1,7 @@
 # solved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solved.md)
+
 <p><span class="chinese">谁解决了这个问题？</span><span class="english">Who solved the problem?</span></p>
 
 <p><span class="chinese">得了性病怎么解决啊。</span><span class="english">Got venereal how be solved.</span></p>

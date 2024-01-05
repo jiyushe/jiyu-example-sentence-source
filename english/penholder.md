@@ -1,5 +1,7 @@
 # penholder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penholder.md)
+
 <p><span class="chinese">笔尖或有固定种类的钢笔尖。</span><span class="english">A penholder and its pen point.</span></p>
 
 <p><span class="chinese">出厂价笔筒大量批发！</span><span class="english">Penholder large wholesale ex-factory price!</span></p>

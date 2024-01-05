@@ -1,5 +1,7 @@
 # 王法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangfa_1.md)
+
 <p><span class="chinese">埃及王法老向一切倚靠他的人也是这样。</span><span class="english">Such is Pharaoh king of Egypt to all who depend on him.</span></p>
 
 <p><span class="chinese">古代的王法禁止普通人穿黄色的衣服。</span><span class="english">The imperial laws forbade the ordinary people to wear yellow.</span></p>

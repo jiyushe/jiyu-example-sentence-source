@@ -1,5 +1,7 @@
 # 上校
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxiao.md)
+
 <p><span class="chinese">是的，上校先生。</span><span class="english">Yes, Captain, sir.</span></p>
 
 <p><span class="chinese">上校到达舰桥！</span><span class="english">Captain on the bridge!</span></p>

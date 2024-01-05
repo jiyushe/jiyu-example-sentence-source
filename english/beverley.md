@@ -1,5 +1,7 @@
 # beverley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beverley.md)
+
 <p><span class="chinese">贝弗利的菲利普被推崇为圣人。</span><span class="english">Philip of Beverley was venerated as a saint.</span></p>
 
 <p><span class="chinese">我们受邀到戴维森先生去比佛利山庄的住所。</span><span class="english">We were invited to Mr. Davidson's residence in Beverley Hills.</span></p>

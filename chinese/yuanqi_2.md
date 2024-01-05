@@ -1,5 +1,7 @@
 # 缘起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanqi_2.md)
+
 <p><span class="chinese">缘起缘灭，有些等待注定没有结局。</span><span class="english">Originated, some waiting to no end.</span></p>
 
 <p><span class="chinese">缘起缘灭，只因情深缘起。</span><span class="english">Origin fate out because deep origin.</span></p>

@@ -1,5 +1,7 @@
 # dateline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dateline.md)
+
 <p><span class="chinese">欢迎收听“美国报道”！</span><span class="english">Welcome to Dateline USA!</span></p>
 
 <p><span class="chinese">立即开始。日界线4周。</span><span class="english">Start immediately . dateline 4 weeks.</span></p>

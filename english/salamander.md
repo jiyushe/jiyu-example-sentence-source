@@ -1,5 +1,7 @@
 # salamander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salamander.md)
+
 <p><span class="chinese">一成火焰蝾代人受过被毁坏。</span><span class="english">A salamander scurries into flame to be destroyed.</span></p>
 
 <p><span class="chinese">“你说的火蛇是什么样的动物?”王子问。</span><span class="english">"What kind of beast is your salamander?" asked the Prince.</span></p>

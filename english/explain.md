@@ -1,5 +1,7 @@
 # explain 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explain.md)
+
 <p><span class="chinese">说明着什么？</span><span class="english">Explain what?</span></p>
 
 <p><span class="chinese">对此我无法解释。</span><span class="english">I couldn’t explain.</span></p>

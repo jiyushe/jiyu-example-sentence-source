@@ -1,5 +1,7 @@
 # verisimilitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verisimilitude.md)
+
 <p><span class="chinese">她没有责任去确保世俗的精确和逼真。</span><span class="english">She has no duty to earthly accuracy or verisimilitude.</span></p>
 
 <p><span class="chinese">故事必须有逼真的事物让多数人感兴趣。</span><span class="english">Stories must have verisimilitude to interest most people.</span></p>

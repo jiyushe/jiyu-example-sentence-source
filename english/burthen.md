@@ -1,5 +1,7 @@
 # burthen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burthen.md)
+
 <p><span class="chinese">他的轭是容易的，他的担子是轻省的。</span><span class="english">His yoke is easy and His burthen is light.</span></p>
 
 <p><span class="chinese">由于他的轭是轻易的，他的担子是轻省的。</span><span class="english">His yoke is easy, and His burthen is light.</span></p>

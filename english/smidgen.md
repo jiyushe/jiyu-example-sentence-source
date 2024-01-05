@@ -1,5 +1,7 @@
 # smidgen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smidgen.md)
+
 <p><span class="chinese">她比预定的时间仅早到了一点儿。</span><span class="english">She arrives a smidgen ahead of time.</span></p>
 
 <p><span class="chinese">在我看来，他们有点太乐观了。</span><span class="english">They're a smidgen too bullish for me.</span></p>

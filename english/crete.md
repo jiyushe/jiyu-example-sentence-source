@@ -1,5 +1,7 @@
 # crete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crete.md)
+
 <p><span class="chinese">忒修斯领着童男童女在克里特上岸了。</span><span class="english">Theseus led the virgin in Crete went ashore.</span></p>
 
 <p><span class="chinese">埃及文化哺育了克里特和希腊。</span><span class="english">Egyptian culture inseminated Crete and Greece.</span></p>

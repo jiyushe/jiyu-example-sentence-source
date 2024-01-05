@@ -1,5 +1,7 @@
 # 水文学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiwenxue.md)
+
 <p><span class="chinese">也是水文学中的一个重要问题。</span><span class="english">And it is also an important one in hydrology.</span></p>
 
 <p><span class="chinese">从水危机看水文学的重要性。</span><span class="english">Hydrology is of great importance as far as water crisis is concerned.</span></p>

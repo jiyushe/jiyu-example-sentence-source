@@ -1,5 +1,7 @@
 # magnetize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetize.md)
+
 <p><span class="chinese">将铁放在磁石的旁边，铁将会被磁化。</span><span class="english">Placing iron next to a magnet will magnetize the iron.</span></p>
 
 <p><span class="chinese">将针与磁石摩擦就可以将其磁化。</span><span class="english">You can magnetize a needle by rubbing it with a magnet.</span></p>

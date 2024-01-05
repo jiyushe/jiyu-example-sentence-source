@@ -1,5 +1,7 @@
 # 干吗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganma.md)
+
 <p><span class="chinese">他没事儿刻字干吗呀？</span><span class="english">Why did he carve it?</span></p>
 
 <p><span class="chinese">她干吗那么紧张？</span><span class="english">Why's she so uptight?</span></p>

@@ -1,5 +1,7 @@
 # depilation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depilation.md)
+
 <p><span class="chinese">将脱毛蜡纸剪成合适大小。</span><span class="english">Tailor the depilation wax paper into appropriate size.</span></p>
 
 <p><span class="chinese">阅读女士脱毛器的说明书，然后教你怎么用。</span><span class="english">Read the introduction of depilation and show you how to use it.</span></p>

@@ -1,5 +1,7 @@
 # yoghourt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yoghourt.md)
+
 <p><span class="chinese">我可以要些酸奶吗？</span><span class="english">May I have some yoghourt?</span></p>
 
 <p><span class="chinese">午餐后喝酸奶曾一度流行。</span><span class="english">Drinking yoghourt before lunch was all the go.</span></p>

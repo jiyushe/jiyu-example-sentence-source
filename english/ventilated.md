@@ -1,5 +1,7 @@
 # ventilated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ventilated.md)
+
 <p><span class="chinese">贮存于干燥通风处。</span><span class="english">Store in a dry ventilated place.</span></p>
 
 <p><span class="chinese">这个房子的通风不好。</span><span class="english">This house is poorly ventilated.</span></p>

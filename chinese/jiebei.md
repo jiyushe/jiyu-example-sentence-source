@@ -1,5 +1,7 @@
 # 戒备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiebei.md)
+
 <p><span class="chinese">我们都处在高度戒备状态。</span><span class="english">We were on high alert.</span></p>
 
 <p><span class="chinese">这是她第一次放下架子，毫无戒备地与他一同欢笑。</span><span class="english">And for the first time, she is</span></p>

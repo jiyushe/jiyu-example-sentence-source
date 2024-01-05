@@ -1,5 +1,7 @@
 # payee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/payee.md)
+
 <p><span class="chinese">领款人必须在支票上背书。</span><span class="english">The payee of the cheque must endorse the cheque.</span></p>
 
 <p><span class="chinese">你确认要关闭选定的收付款人？</span><span class="english">Are you sure you want to close the selected payee?</span></p>

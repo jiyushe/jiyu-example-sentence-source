@@ -1,5 +1,7 @@
 # matrilineal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matrilineal.md)
+
 <p><span class="chinese">契卡索人也是母系的部族。</span><span class="english">The Chickasaw too had matrilineal clans.</span></p>
 
 <p><span class="chinese">半坡属于母系社会，是以农业为主的定居村落。</span><span class="english">Bafipo was a matrilineal society and a settled agricultural community.</span></p>

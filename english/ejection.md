@@ -1,5 +1,7 @@
 # ejection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ejection.md)
+
 <p><span class="chinese">销钉喷出的可能性。</span><span class="english">Possibility of pin ejection.</span></p>
 
 <p><span class="chinese">日冕物质抛射可能对地球造成各种影响。</span><span class="english">A coronal mass ejection can cause problems on Earth.</span></p>

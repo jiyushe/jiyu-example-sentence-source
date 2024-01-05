@@ -1,5 +1,7 @@
 # 千丝万缕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiansiwanlv.md)
+
 <p><span class="chinese">今年这个季节好像总是与给予有千丝万缕的联系。</span><span class="english">This season of the year is supposed to be about giving.</span></p>
 
 <p><span class="chinese">权力、影响力与领导力之间有着千丝万缕的联系。</span><span class="english">Power, influence and leadership are all tied to each other.</span></p>

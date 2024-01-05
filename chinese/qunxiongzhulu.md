@@ -1,5 +1,7 @@
 # 群雄逐鹿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qunxiongzhulu.md)
+
 <p><span class="chinese">在这场群雄逐鹿的生存大战中，你能分清现实与想象世界的界限吗？</span><span class="english">In this race to survive, can you distinguish reality from imagination?</span></p>
 
 <p><span class="chinese">七年间，MPV市场经历了从一家独大到群雄逐鹿的历程。</span><span class="english">During seven years, MPV market has experienced from monopoly to competition.</span></p>

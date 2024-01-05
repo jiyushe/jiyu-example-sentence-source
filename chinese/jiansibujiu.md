@@ -1,5 +1,7 @@
 # 见死不救
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiansibujiu.md)
+
 <p><span class="chinese">医生是不能见死不救的。</span><span class="english">A doctor cannot turn away a dying man.</span></p>
 
 <p><span class="chinese">我的心是如此阴暗对一切见死不救。</span><span class="english">My hegrearound is just too dark to care.</span></p>

@@ -1,5 +1,7 @@
 # chimerism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chimerism.md)
+
 <p><span class="chinese">最后将该嵌合体小鼠的骨髓移植到宿主体内。</span><span class="english">The bone marrow of the chimerism mice was grafted into the host mice.</span></p>
 
 <p><span class="chinese">通过PCR-SSP方法在外周血中检测到供体淋巴细胞嵌合体有助于GVHD的诊断。</span><span class="english">The diagnosis of GVHD is supported by PCR-SSP to detect peripheral blood lymphocyte chimerism.</span></p>

@@ -1,5 +1,7 @@
 # duchess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duchess.md)
+
 <p><span class="chinese">很明显，伊莉莎现在还不能被当作公爵夫人。</span><span class="english">Clearly Eliza will not pass as a duchess.</span></p>
 
 <p><span class="chinese">女公爵目光冷峻地盯着尼科。</span><span class="english">The Duchess levelled a deadly look at Nikko.</span></p>

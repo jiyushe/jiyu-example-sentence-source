@@ -1,5 +1,7 @@
 # 铜镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongjing_1.md)
+
 <p><span class="chinese">这样就使铜镜更加繁华。</span><span class="english">This made the bronze mirrors more thriving.</span></p>
 
 <p><span class="chinese">您看，我手里拿的这枚铜镜。</span><span class="english">Look! What is in my hand is a bronze mirror.</span></p>

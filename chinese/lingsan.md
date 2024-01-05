@@ -1,5 +1,7 @@
 # 零散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingsan.md)
+
 <p><span class="chinese">这儿有两卷零散的百科全书。</span><span class="english">Here are two-odd volumes of an encyclopedia.</span></p>
 
 <p><span class="chinese">非零散过程有多不可预测？</span><span class="english">How unpredictable are non-trivial processes?</span></p>

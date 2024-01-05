@@ -1,5 +1,7 @@
 # boomerang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boomerang.md)
+
 <p><span class="chinese">他买了个法国制造的回飞棒。</span><span class="english">He bought a boomerang made in France.</span></p>
 
 <p><span class="chinese">他知道，推诿责任往往会自食其果。</span><span class="english">He learns that buck-passing acts as a boomerang.</span></p>

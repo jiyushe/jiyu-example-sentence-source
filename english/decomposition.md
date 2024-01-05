@@ -1,5 +1,7 @@
 # decomposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decomposition.md)
+
 <p><span class="chinese">因此一种分解是不够的。</span><span class="english">So no one decomposition is sufficient.</span></p>
 
 <p><span class="chinese">对CF4分解的产物进行了分析。</span><span class="english">The products of CF4 decomposition are analysed.</span></p>

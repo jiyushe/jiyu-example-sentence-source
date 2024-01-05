@@ -1,5 +1,7 @@
 # tucson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tucson.md)
+
 <p><span class="chinese">我记得六年前在图桑市的一个晚上。</span><span class="english">I remember this one night in Tucson six years ago.</span></p>
 
 <p><span class="chinese">但图森市的悲剧给了我们一个停止争论的理由。</span><span class="english">But there’s a reason the tragedy in Tucson gave us pause.</span></p>

@@ -1,5 +1,7 @@
 # menu 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menu.md)
+
 <p><span class="chinese">建立功能表。</span><span class="english">Create a menu.</span></p>
 
 <p><span class="chinese">图形菜单。</span><span class="english">Graphics Menu.</span></p>

@@ -1,5 +1,7 @@
 # dub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dub.md)
+
 <p><span class="chinese">我封你为兰斯洛特骑士。</span><span class="english">I dub thee Sir Lancelot.</span></p>
 
 <p><span class="chinese">所以我称你不可饶恕！</span><span class="english">So I dub the unforgiven !</span></p>

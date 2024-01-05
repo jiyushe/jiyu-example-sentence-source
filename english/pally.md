@@ -1,5 +1,7 @@
 # pally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pally.md)
+
 <p><span class="chinese">那些男孩彼此很要好。</span><span class="english">The boys are very pally.</span></p>
 
 <p><span class="chinese">玛莉与乔治非常要好。</span><span class="english">Mary is very pally with George.</span></p>

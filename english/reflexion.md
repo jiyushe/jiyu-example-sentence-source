@@ -1,5 +1,7 @@
 # reflexion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflexion.md)
+
 <p><span class="chinese">这种反射作用常常会产生。</span><span class="english">Such reflexion are common occurrences.</span></p>
 
 <p><span class="chinese">FS是由地震的震动工作原理。</span><span class="english">FS- Reflexion works with a seismic vibration system.</span></p>

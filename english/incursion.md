@@ -1,5 +1,7 @@
 # incursion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incursion.md)
+
 <p><span class="chinese">从一开始，英格兰人的入侵就注定了失败。</span><span class="english">The English incursion was doomed from the outset.</span></p>
 
 <p><span class="chinese">茶树也还长有坚硬的茎刺以避免野兽的伤害。</span><span class="english">Tea also has hard, fibrous stalks to discourage animal incursion.</span></p>

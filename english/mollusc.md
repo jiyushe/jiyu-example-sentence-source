@@ -1,5 +1,7 @@
 # mollusc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mollusc.md)
+
 <p><span class="chinese">他那像软体动物一样的智商，在他那大脸上开了花。</span><span class="english">It blew up in his face, as he is about as talented as a mollusc.</span></p>
 
 <p><span class="chinese">指寄生虫对软体动物造成的损伤的器官、组织等。</span><span class="english">The impaired organ, tissue, etc. Of mollusc host caused by parasitism.</span></p>

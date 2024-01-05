@@ -1,5 +1,7 @@
 # 顶尖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingjian_1.md)
+
 <p><span class="chinese">顶尖家具让我们一起成工！</span><span class="english">Top furniture let us success!</span></p>
 
 <p><span class="chinese">他们是上流社会的顶尖人物。</span><span class="english">They are the leaders of society.</span></p>

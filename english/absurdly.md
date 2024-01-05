@@ -1,5 +1,7 @@
 # absurdly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absurdly.md)
+
 <p><span class="chinese">他们的专家身份本身就是不合格且荒谬的。</span><span class="english">They're absurdly unqualified to be considered experts.</span></p>
 
 <p><span class="chinese">将来只怕比这个更奇怪的笑话儿还有呢！。</span><span class="english">I'm afraid you'll see him carrying on even more absurdly later.</span></p>

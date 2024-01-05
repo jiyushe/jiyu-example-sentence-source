@@ -1,5 +1,7 @@
 # 红霉素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongmeisu.md)
+
 <p><span class="chinese">例如阿莫西林，链霉素，红霉素。</span><span class="english">For example amoxicillin, streptomycin and erythromycin.</span></p>
 
 <p><span class="chinese">抗菌活性明显高于氧氟沙星和红霉素。</span><span class="english">It was far more active than ofloxacin and erythromycin.</span></p>

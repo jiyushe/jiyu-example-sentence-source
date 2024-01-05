@@ -1,5 +1,7 @@
 # 情急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingji.md)
+
 <p><span class="chinese">我情急之下，一声大叫。</span><span class="english">I panic, a loud cry.</span></p>
 
 <p><span class="chinese">情急之下，她是可以依靠的。</span><span class="english">She could be relied on in a crisis.</span></p>

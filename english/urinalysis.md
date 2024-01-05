@@ -1,5 +1,7 @@
 # urinalysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urinalysis.md)
+
 <p><span class="chinese">我希望你做个尿分析。</span><span class="english">I would like you to have a urinalysis.</span></p>
 
 <p><span class="chinese">胆盐及胆色素增高。</span><span class="english">Urinalysis yielded bile salts and pigments.</span></p>

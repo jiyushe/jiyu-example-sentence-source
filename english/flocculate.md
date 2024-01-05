@@ -1,5 +1,7 @@
 # flocculate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flocculate.md)
+
 <p><span class="chinese">图四、果胶与蛋白质作用形成絮集之机制。</span><span class="english">Fig 4. Theory of flocculate formation of pectin and protein.</span></p>
 
 <p><span class="chinese">中心管加搅拌以及搅拌絮凝对出水浊度影响甚微。</span><span class="english">The stirring with center pipe and flocculate has little effect to the effluent turbidity.</span></p>

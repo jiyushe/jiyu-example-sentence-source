@@ -1,5 +1,7 @@
 # 路向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luxiang.md)
+
 <p><span class="chinese">你的船是就未来路向亚马逊。</span><span class="english">Your ship is on the way to Amazonia.</span></p>
 
 <p><span class="chinese">我转身沿路向下滑去，雪地的表面结了一层碎冰。</span><span class="english">The snow was crusty with ice particles on the surface.</span></p>

@@ -1,5 +1,7 @@
 # warrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warrant.md)
+
 <p><span class="chinese">他的应诺就是我们的保证。</span><span class="english">I will be your warrant.</span></p>
 
 <p><span class="chinese">这是我们的搜查令。</span><span class="english">Here's our search warrant.</span></p>

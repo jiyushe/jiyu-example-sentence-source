@@ -1,5 +1,7 @@
 # 满期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manqi.md)
+
 <p><span class="chinese">你们的护照满期了。</span><span class="english">Your passports expire.</span></p>
 
 <p><span class="chinese">租约下个月满期。</span><span class="english">The lease runs out next month.</span></p>

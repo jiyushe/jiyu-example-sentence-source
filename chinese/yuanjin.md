@@ -1,5 +1,7 @@
 # 远近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjin.md)
+
 <p><span class="chinese">嗯，我是从距离远近来观察的。</span><span class="english">Well, when I looked at the distances.</span></p>
 
 <p><span class="chinese">这个城市因其众多的赌场而远近皆知。</span><span class="english">The town is notorious for its casinos.</span></p>

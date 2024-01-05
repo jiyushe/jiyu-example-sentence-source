@@ -1,5 +1,7 @@
 # translatability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/translatability.md)
+
 <p><span class="chinese">可译与不可译是一个相对的概念。</span><span class="english">Translatability and untranslatability are a relative concept.</span></p>
 
 <p><span class="chinese">双关语的可译性一直是翻译界争论的热点。</span><span class="english">Puns translatability has been a hot debate in the field of translation.</span></p>

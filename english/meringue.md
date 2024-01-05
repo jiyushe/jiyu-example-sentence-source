@@ -1,5 +1,7 @@
 # meringue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meringue.md)
+
 <p><span class="chinese">用叉将调合蛋白堆成尖峰状。</span><span class="english">Fork the meringue into peaks.</span></p>
 
 <p><span class="chinese">我想到我的柠檬混蛋白酥了。</span><span class="english">Oh, I'm thinking my lemon meringue.</span></p>

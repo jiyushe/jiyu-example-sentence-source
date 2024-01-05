@@ -1,5 +1,7 @@
 # 平仄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingze.md)
+
 <p><span class="chinese">探出寒噤的脸，大胆张望平仄的大地。</span><span class="english">Unearthed retailers face, bold tones looked to the land.</span></p>
 
 <p><span class="chinese">而白话非律联则有彻底挣脱平仄束缚的趋势。</span><span class="english">On the contrary, vernacular unmetric couplet tends to break up the bandage of metres.</span></p>

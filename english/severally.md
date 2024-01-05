@@ -1,5 +1,7 @@
 # severally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/severally.md)
+
 <p><span class="chinese">此种侵权行为为要承担共同和连带责任。</span><span class="english">Such tort-feasors are jointly and severally liable.</span></p>
 
 <p><span class="chinese">选手们纷纷亮出各自绝活儿。</span><span class="english">Players shine to live absolutely severally in succession.</span></p>

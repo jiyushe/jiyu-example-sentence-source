@@ -1,5 +1,7 @@
 # philosophize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philosophize.md)
+
 <p><span class="chinese">进行哲学讨论就是学习如何去死。</span><span class="english">To philosophize is to learn how to die.</span></p>
 
 <p><span class="chinese">如何才能有爱，如果我们失散的尝试哲学较早。</span><span class="english">How can there be love if we are separated as you try to philosophize earlier.</span></p>

@@ -1,5 +1,7 @@
 # 折寿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheshou.md)
+
 <p><span class="chinese">我愿意为你折寿。</span><span class="english">I am willing to Zheshou for you.</span></p>
 
 <p><span class="chinese">呆在污染严重的地方有什么补偿，人们的生命都因此折寿了。</span><span class="english">What compensation for staying in POLLUTIONS. Peoples life get screws because of it.</span></p>

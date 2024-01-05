@@ -1,5 +1,7 @@
 # hideously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hideously.md)
+
 <p><span class="chinese">那个女巫丑得吓人。</span><span class="english">The witch was hideously ugly.</span></p>
 
 <p><span class="chinese">这个时间表现在看起来过分乐观了。</span><span class="english">That schedule now looks hideously overoptimistic.</span></p>

@@ -1,5 +1,7 @@
 # gold 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gold.md)
+
 <p><span class="chinese">不要金子。</span><span class="english">No gold.</span></p>
 
 <p><span class="chinese">金拨号盘。</span><span class="english">Gold dial.</span></p>

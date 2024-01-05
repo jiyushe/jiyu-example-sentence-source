@@ -1,5 +1,7 @@
 # 遗失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishi_13.md)
+
 <p><span class="chinese">我的书遗失了。</span><span class="english">I've lost my book.</span></p>
 
 <p><span class="chinese">我遗失了我的耳环。</span><span class="english">I lost my ear-ring.</span></p>

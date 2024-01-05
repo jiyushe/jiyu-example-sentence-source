@@ -1,5 +1,7 @@
 # moulder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moulder.md)
+
 <p><span class="chinese">在这个地方，我能让我的头脑再分裂多久?。</span><span class="english">How long can I let my mind moulder in this place?</span></p>
 
 <p><span class="chinese">假期，而把病的放到死，死的放到腐烂？</span><span class="english">Holidays that they leave the sick to die and the dead to moulder?</span></p>

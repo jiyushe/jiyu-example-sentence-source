@@ -1,5 +1,7 @@
 # ceasing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceasing.md)
+
 <p><span class="chinese">可是他们「却…切切祷告神。」</span><span class="english">But prayer was made unto God without ceasing.</span></p>
 
 <p><span class="chinese">活鸡又卖了几天，终于停息。</span><span class="english">Chickens and sell a few days, finally ceasing.</span></p>

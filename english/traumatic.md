@@ -1,5 +1,7 @@
 # traumatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traumatic.md)
+
 <p><span class="chinese">2008年的价格上涨带来了创伤。</span><span class="english">The price rises of 2008 were traumatic.</span></p>
 
 <p><span class="chinese">切尔诺贝利事故是可怕的、创伤性的。</span><span class="english">The Chernobyl meltdown was hideous and traumatic.</span></p>

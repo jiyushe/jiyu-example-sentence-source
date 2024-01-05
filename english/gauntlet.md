@@ -1,5 +1,7 @@
 # gauntlet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gauntlet.md)
+
 <p><span class="chinese">现在，挑战书已经抛出。</span><span class="english">And so the gauntlet is now thrown down.</span></p>
 
 <p><span class="chinese">挑战书，并答应与他决斗。</span><span class="english">He threw down the gauntlet and I accepted his challenge.</span></p>

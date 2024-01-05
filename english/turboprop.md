@@ -1,5 +1,7 @@
 # turboprop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turboprop.md)
+
 <p><span class="chinese">涡轮螺桨发动机与涡轮喷气发动机十分相似。</span><span class="english">The turboprop engine is very much like the turbojet.</span></p>
 
 <p><span class="chinese">涡轮螺旋桨发动机不如喷气发动机驱动飞机那样快。</span><span class="english">The turboprop engine will not move a plane as rapidly as a jet.</span></p>

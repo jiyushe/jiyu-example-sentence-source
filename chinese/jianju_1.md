@@ -1,5 +1,7 @@
 # 检举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianju_1.md)
+
 <p><span class="chinese">比尔一定检举揭发了我们。</span><span class="english">Bill must have grassed on us.</span></p>
 
 <p><span class="chinese">法官因受贿而被检举。</span><span class="english">The judge was impeached for taking a bribe.</span></p>

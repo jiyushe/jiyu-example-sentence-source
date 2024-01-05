@@ -1,5 +1,7 @@
 # 花枝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huazhi.md)
+
 <p><span class="chinese">我献给你我的紫丁香花枝。</span><span class="english">I give you my sprig of lilac.</span></p>
 
 <p><span class="chinese">睡前折一枝薰衣草的小花枝放在枕边或者购买一个薰衣草的填充枕头都可以。</span><span class="english">Or buy a lavender-filled pillow.</span></p>

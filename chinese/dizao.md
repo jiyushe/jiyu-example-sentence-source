@@ -1,5 +1,7 @@
 # 缔造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizao.md)
+
 <p><span class="chinese">缔造和平的人是有福的。</span><span class="english">Blessed are the peacemakers.</span></p>
 
 <p><span class="chinese">他希望缔造一个统一的世界。</span><span class="english">He wanted to make one world.</span></p>

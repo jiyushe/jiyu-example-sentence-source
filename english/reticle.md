@@ -1,5 +1,7 @@
 # reticle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reticle.md)
+
 <p><span class="chinese">我这个电脑没有网线怎么办？</span><span class="english">I how does this computer do without reticle ?</span></p>
 
 <p><span class="chinese">在模拟器里你会使用到改良的密位点十字线。</span><span class="english">In the simulations you will be using a modified mil dot reticle.</span></p>

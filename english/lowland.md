@@ -1,5 +1,7 @@
 # lowland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lowland.md)
+
 <p><span class="chinese">广大的低洼地带便是恒河平原。</span><span class="english">This vast expanse of lowland is known as the Gangetic Plains.</span></p>
 
 <p><span class="chinese">大多数人口都居住在中心低地。</span><span class="english">Most of the country"s population lives in this central lowland.</span></p>

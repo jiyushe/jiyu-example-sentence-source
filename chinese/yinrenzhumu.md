@@ -1,5 +1,7 @@
 # 引人注目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinrenzhumu.md)
+
 <p><span class="chinese">她是个引人注目的人物。</span><span class="english">She is a conspicuous figure.</span></p>
 
 <p><span class="chinese">那件红衣服真引人注目。</span><span class="english">That red dress really screams.</span></p>

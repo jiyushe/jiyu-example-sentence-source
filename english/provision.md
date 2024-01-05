@@ -1,5 +1,7 @@
 # provision 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provision.md)
+
 <p><span class="chinese">规定支持软件。</span><span class="english">Provision supporting software.</span></p>
 
 <p><span class="chinese">现在您只需提供您的实例。</span><span class="english">Now you simply provision your instances.</span></p>

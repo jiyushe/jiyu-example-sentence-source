@@ -1,5 +1,7 @@
 # waive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waive.md)
+
 <p><span class="chinese">看来，我们只好放弃索赔了。</span><span class="english">It seems we’ll have to waive the claim.</span></p>
 
 <p><span class="chinese">在这个问题上，他没有放弃权利。</span><span class="english">He didn't waive his right in this matter.</span></p>

@@ -1,5 +1,7 @@
 # repossessed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repossessed.md)
+
 <p><span class="chinese">他收回自己所有的农场。</span><span class="english">He repossessed himself of his farm.</span></p>
 
 <p><span class="chinese">她的车处在被回收的边缘。</span><span class="english">Her vehicle is now on the verge of being repossessed.</span></p>

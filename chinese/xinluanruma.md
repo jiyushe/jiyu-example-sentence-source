@@ -1,5 +1,7 @@
 # 心乱如麻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinluanruma.md)
+
 <p><span class="chinese">我的心乱如麻。</span><span class="english">My heart likes tangled hemp.</span></p>
 
 <p><span class="chinese">她坐立不安，甚至心乱如麻。</span><span class="english">She was restless and even agitated.</span></p>

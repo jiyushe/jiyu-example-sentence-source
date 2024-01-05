@@ -1,5 +1,7 @@
 # fraudulent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fraudulent.md)
+
 <p><span class="chinese">他的虚荣是粗野和欺骗的。</span><span class="english">His vanity is boorish and fraudulent.</span></p>
 
 <p><span class="chinese">欺骗性的或两面派的手法。</span><span class="english">A fraudulent or duplicitous representation.</span></p>

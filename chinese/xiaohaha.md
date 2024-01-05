@@ -1,5 +1,7 @@
 # 笑哈哈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohaha.md)
+
 <p><span class="chinese">小狗笑哈哈。</span><span class="english">The little dog laughed.</span></p>
 
 <p><span class="chinese">祝你羊年人长大，志得意满笑哈哈！</span><span class="english">I wish you the best in the people grow up, having a full laugh!</span></p>

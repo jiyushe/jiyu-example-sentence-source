@@ -1,5 +1,7 @@
 # 轻描淡写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingmiaodanxie.md)
+
 <p><span class="chinese">这么说明显是轻描淡写了，在我们行走时，好像在参加一个“狼先生，现在几点了？”</span><span class="english">This is a grand understatement.</span></p>
 
 <p><span class="chinese">轻描淡写、不诉离伤。</span><span class="english">Touch on lightly. No appeal from the injury.</span></p>

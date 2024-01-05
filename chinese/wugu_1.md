@@ -1,5 +1,7 @@
 # 无故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wugu_1.md)
+
 <p><span class="chinese">但是我还是无故迟到。</span><span class="english">But I still without being late.</span></p>
 
 <p><span class="chinese">校长不准无故缺席。</span><span class="english">The principal discouraged unexcused absences.</span></p>

@@ -1,5 +1,7 @@
 # auction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auction.md)
+
 <p><span class="chinese">我跟拍卖会谈过。</span><span class="english">I spoke with the auction.</span></p>
 
 <p><span class="chinese">过去，他常去拍卖场出价竞买。</span><span class="english">He used to bid at the auction.</span></p>

@@ -1,5 +1,7 @@
 # straighten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straighten.md)
+
 <p><span class="chinese">他振作起来了吗？</span><span class="english">Did he straighten up?</span></p>
 
 <p><span class="chinese">熨平那件上衣，现在就干！</span><span class="english">Straighten up that blouse, now!</span></p>

@@ -1,5 +1,7 @@
 # laura
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laura.md)
+
 <p><span class="chinese">劳拉布什，2001至2009</span><span class="english">Laura Bush, 2001-2009</span></p>
 
 <p><span class="chinese">这可说不准，劳拉。</span><span class="english">Eso no lo creo, Laura.</span></p>

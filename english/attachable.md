@@ -1,5 +1,7 @@
 # attachable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attachable.md)
+
 <p><span class="chinese">双处理一个附加的肩带。</span><span class="english">Dual handles with an attachable shoulder strap.</span></p>
 
 <p><span class="chinese">灵活的成员扣押的振动源。</span><span class="english">The flexible member is attachable to the vibration source.</span></p>

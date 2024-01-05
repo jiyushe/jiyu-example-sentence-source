@@ -1,5 +1,7 @@
 # underemployed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underemployed.md)
+
 <p><span class="chinese">“情况不好，”希格纳奇的旅游局官员对我说，这儿的旅游业没有雇足人员。</span><span class="english">"Now no good, " said Sighnaghi's underemployed tourist officer.</span></p>
 
 <p><span class="chinese">他们有时也被称为失业人员或者自由职业者。</span><span class="english">They may also be described as underemployed or freelance workers.</span></p>

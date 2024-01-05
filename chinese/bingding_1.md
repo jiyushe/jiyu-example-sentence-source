@@ -1,5 +1,7 @@
 # 兵丁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingding_1.md)
+
 <p><span class="chinese">兵丁就拈阄分他的衣服。</span><span class="english">And they parted his raiment, and cast lots.</span></p>
 
 <p><span class="chinese">各兵丁都为自己夺了财物。</span><span class="english">Each soldier had taken plunder for himself.</span></p>

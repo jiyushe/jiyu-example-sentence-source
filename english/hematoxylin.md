@@ -1,5 +1,7 @@
 # hematoxylin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hematoxylin.md)
+
 <p><span class="chinese">人脑冠部经过苏木精和曙红染色。</span><span class="english">A coronal section of a human brain is stained with hematoxylin and eosin.</span></p>
 
 <p><span class="chinese">苏木精染色进行心脏组织学分析。</span><span class="english">Cardi ac histological analysis was performed by staining with hematoxylin.</span></p>

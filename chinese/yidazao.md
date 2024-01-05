@@ -1,5 +1,7 @@
 # 一大早
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidazao.md)
+
 <p><span class="chinese">隔天一大早，雪停了！</span><span class="english">The next day, the snow stopped.</span></p>
 
 <p><span class="chinese">很感兴趣？有没有人一大早打算同去寻宝？</span><span class="english">Somebody's trash could be someone's treasure.</span></p>

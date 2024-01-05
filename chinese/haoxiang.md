@@ -1,5 +1,7 @@
 # 好像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoxiang.md)
+
 <p><span class="chinese">他好像在畏缩。</span><span class="english">He seemed to wilt.</span></p>
 
 <p><span class="chinese">我好像感冒了。</span><span class="english">I feil I got cold.</span></p>

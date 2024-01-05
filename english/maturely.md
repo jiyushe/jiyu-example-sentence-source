@@ -1,5 +1,7 @@
 # maturely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maturely.md)
+
 <p><span class="chinese">我的爱是成熟且无私的吗？</span><span class="english">Do I love maturely and selflessly?</span></p>
 
 <p><span class="chinese">“无论如何，我在我的风格”，他说，成熟。</span><span class="english">"Whatever, i do it in my style", he said maturely.</span></p>

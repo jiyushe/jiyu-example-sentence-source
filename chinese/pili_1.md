@@ -1,5 +1,7 @@
 # 霹雳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pili_1.md)
+
 <p><span class="chinese">你真的是霹雳娇娃！</span><span class="english">You are a Charlie's Angel!</span></p>
 
 <p><span class="chinese">一声霹雳震动了群山。</span><span class="english">A clap of thunder wakes the hills.</span></p>

@@ -1,5 +1,7 @@
 # 相映成趣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangyingchengqu.md)
+
 <p><span class="chinese">小溪的生命总是和鹅卵石相映成趣。</span><span class="english">Stream of life always gain by contrast and pebbles.</span></p>
 
 <p><span class="chinese">在他的生活里，总有这样那样的乐趣点缀着，相映成趣。</span><span class="english">The life of Glenn Wilkinson is fun, of this sort or that.</span></p>

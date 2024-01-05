@@ -1,5 +1,7 @@
 # undulant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undulant.md)
+
 <p><span class="chinese">别的细菌可引起麻风病和波状热。</span><span class="english">Other kinds of bacteria cause leprosy and undulant fever.</span></p>
 
 <p><span class="chinese">房地产投资风险也随着每一个阶段的变化而变化。</span><span class="english">Real estate investment risk was undulant with respective phases.</span></p>

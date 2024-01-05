@@ -1,5 +1,7 @@
 # 开怀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaihuai.md)
+
 <p><span class="chinese">只为开怀一笑。</span><span class="english">laugh.</span></p>
 
 <p><span class="chinese">他们开怀畅饮香槟酒。</span><span class="english">I drink only champagne.</span></p>

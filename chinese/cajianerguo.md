@@ -1,5 +1,7 @@
 # 擦肩而过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cajianerguo.md)
+
 <p><span class="chinese">就这样我们曾与历史擦肩而过。</span><span class="english">That was our brush with history.</span></p>
 
 <p><span class="chinese">于是有价值的教训与你擦肩而过。</span><span class="english">And so valuable lessons pass you by.</span></p>

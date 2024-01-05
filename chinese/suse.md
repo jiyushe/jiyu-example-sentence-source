@@ -1,5 +1,7 @@
 # 素色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suse.md)
+
 <p><span class="chinese">我爸爸喜欢素色的领带。</span><span class="english">My father likes plain ties.</span></p>
 
 <p><span class="chinese">我正在寻找一件素色短裙。</span><span class="english">I'm looking for a solid-colour skirt.</span></p>

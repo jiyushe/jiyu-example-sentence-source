@@ -1,5 +1,7 @@
 # hassle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hassle.md)
+
 <p><span class="chinese">那么人体模特值得这么冒险吗？</span><span class="english">So is figure modelling worth the hassle?</span></p>
 
 <p><span class="chinese">做“哈利·波特”有时还真是件麻烦事。</span><span class="english">Sometimes it's a hassle being Harry Potter.</span></p>

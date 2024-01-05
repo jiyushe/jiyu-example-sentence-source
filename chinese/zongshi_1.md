@@ -1,5 +1,7 @@
 # 宗师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongshi_1.md)
+
 <p><span class="chinese">或许，我们又将迎来一个新的一代宗师了。</span><span class="english">Maybe there’s a new maestro in town.</span></p>
 
 <p><span class="chinese">成为两项专业技能的宗师。</span><span class="english">Become a Grand Master in two professions.</span></p>

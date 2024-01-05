@@ -1,5 +1,7 @@
 # inez
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inez.md)
+
 <p><span class="chinese">死在上流社会的两大霍尔登。</span><span class="english">Death in High Society by Inez Holden.</span></p>
 
 <p><span class="chinese">只有伊内兹有勇气去公然反对他。</span><span class="english">Only Inez has the courage to speak out against him.</span></p>

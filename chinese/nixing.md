@@ -1,5 +1,7 @@
 # 逆行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nixing.md)
+
 <p><span class="chinese">停止等待水星逆行。</span><span class="english">Wait for Mercury to stop retrograding.</span></p>
 
 <p><span class="chinese">任何一个行星逆行，它削弱。</span><span class="english">When any planet retrogrades, it weakens.</span></p>

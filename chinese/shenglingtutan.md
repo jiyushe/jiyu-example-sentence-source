@@ -1,5 +1,7 @@
 # 生灵涂炭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenglingtutan.md)
+
 <p><span class="chinese">然而但凡兵锋所指之处皆是一片生灵涂炭</span><span class="english">But when they got there, there was hell to pay.</span></p>
 
 <p><span class="chinese">能置人于死地且已经在过去令人类生灵涂炭的老虎，我们又该如何处理呢？</span><span class="english">Or what about tigers, who can and have killed humans in the past?</span></p>

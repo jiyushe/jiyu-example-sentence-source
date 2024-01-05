@@ -1,5 +1,7 @@
 # 瞠目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengmu.md)
+
 <p><span class="chinese">全世界瞠目惊悚。</span><span class="english">All the world wondered.</span></p>
 
 <p><span class="chinese">眼瞠目，但很容易做到的！</span><span class="english">Eye-popping , yet easy to do!</span></p>

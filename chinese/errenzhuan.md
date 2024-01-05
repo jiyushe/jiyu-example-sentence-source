@@ -1,5 +1,7 @@
 # 二人转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/errenzhuan.md)
+
 <p><span class="chinese">我只是一个普通的二人转演员。</span><span class="english">I am just an ordinary actor.</span></p>
 
 <p><span class="chinese">我只是一个普通的二人转演员。</span><span class="english">I am just an ordinary actor of "two person act".</span></p>

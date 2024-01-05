@@ -1,5 +1,7 @@
 # 万分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanfen.md)
+
 <p><span class="chinese">她焦急万分。</span><span class="english">She was wild with anxiety.</span></p>
 
 <p><span class="chinese">我对你万分感激。</span><span class="english">I couldn't thank you enough.</span></p>

@@ -1,5 +1,7 @@
 # twenty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twenty.md)
+
 <p><span class="chinese">所以，你二十岁了？</span><span class="english">So you’re twenty?</span></p>
 
 <p><span class="chinese">二十年前？</span><span class="english">Twenty years ago?</span></p>

@@ -1,5 +1,7 @@
 # 懈怠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiedai.md)
+
 <p><span class="chinese">她工作很懈怠。</span><span class="english">She slacked off in her work.</span></p>
 
 <p><span class="chinese">我好好把着风-别错怪我懈怠！</span><span class="english">Tis not my fault—I kept good watch—Alack!</span></p>

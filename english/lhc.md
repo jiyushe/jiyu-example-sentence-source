@@ -1,5 +1,7 @@
 # lhc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lhc.md)
+
 <p><span class="chinese">那么LHC的科学家们希望找到些什么呢？</span><span class="english">So what do LHC scientists hope to find?</span></p>
 
 <p><span class="chinese">从那时起，LHC计算网格的发展路线就确定了。</span><span class="english">From there, the path to the LHC Computing Grid was set.</span></p>

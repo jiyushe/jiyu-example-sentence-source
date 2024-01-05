@@ -1,5 +1,7 @@
 # rediscount
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rediscount.md)
+
 <p><span class="chinese">同时，下调中央银行再贷款、再贴现利率。</span><span class="english">At the same time, the central bank reduced refinancing and rediscount rate.</span></p>
 
 <p><span class="chinese">同时，降低了中央银行再贷款和再贴现利率。</span><span class="english">At the same time, lowered the central bank refinancing and rediscount interest rates.</span></p>

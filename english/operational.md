@@ -1,5 +1,7 @@
 # operational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/operational.md)
+
 <p><span class="chinese">货舱通风机能工作吗？</span><span class="english">Are hold ventilators operational?</span></p>
 
 <p><span class="chinese">锅炉上烟气挡板不工作。</span><span class="english">Dampers in boiler not operational.</span></p>

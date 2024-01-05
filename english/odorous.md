@@ -1,5 +1,7 @@
 # odorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odorous.md)
+
 <p><span class="chinese">臭气污染物可以引起不严重的厌烦。</span><span class="english">Odorous pollutants can cause minor annoyance.</span></p>
 
 <p><span class="chinese">常用恶臭气体处理技术研究。</span><span class="english">Existing odorous gas treatment processes research.</span></p>

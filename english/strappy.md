@@ -1,5 +1,7 @@
 # strappy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strappy.md)
+
 <p><span class="chinese">带子的皮革鞋面与色调对比和钉子头，详细。</span><span class="english">Strappy leather upper with tonal contrast and nail-head detailing.</span></p>
 
 <p><span class="chinese">搭配细带高跟鞋和Chanel棉质挎包，艾玛紧跟夏季流行趋势。</span><span class="english">Paired with strappy heels and a Chanel quilted bag Emma was on trend for summer in July 2009.</span></p>

@@ -1,5 +1,7 @@
 # monopole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monopole.md)
+
 <p><span class="chinese">XMAC在套管井中采用单极全波测量模式。</span><span class="english">XMAC works with monopole full wave mode in cased hole.</span></p>
 
 <p><span class="chinese">研究了套筒单极子天线的优化设计。</span><span class="english">In this paper, the optimization of sleeve monopole antennas is studied.</span></p>

@@ -1,5 +1,7 @@
 # 写法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiefa.md)
+
 <p><span class="chinese">引述与引用写法也各异。</span><span class="english">In-text citations also vary.</span></p>
 
 <p><span class="chinese">这是更普通的一种写法。</span><span class="english">That's the more common term.</span></p>

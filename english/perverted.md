@@ -1,5 +1,7 @@
 # perverted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perverted.md)
+
 <p><span class="chinese">就是被那几个淫贼打伤的。</span><span class="english">It's hurt by the perverted thieves.</span></p>
 
 <p><span class="chinese">他的坏伙伴使其走入邪路。</span><span class="english">He was perverted by his evil companions.</span></p>

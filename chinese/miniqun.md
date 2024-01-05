@@ -1,5 +1,7 @@
 # 迷你裙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miniqun.md)
+
 <p><span class="chinese">迷你裙又时髦起来了。</span><span class="english">Miniskirts are in again.</span></p>
 
 <p><span class="chinese">迷你裙又开始流行了。</span><span class="english">Miniskirts are back in style.</span></p>

@@ -1,5 +1,7 @@
 # stippling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stippling.md)
+
 <p><span class="chinese">胞浆内可见嗜碱性点彩。</span><span class="english">Basophilic stippling can be seen in the cytoplasm.</span></p>
 
 <p><span class="chinese">点画所做的是什么质地的背景变暗。</span><span class="english">What stippling does is texture and darken the background.</span></p>

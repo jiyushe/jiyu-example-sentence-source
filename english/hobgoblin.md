@@ -1,5 +1,7 @@
 # hobgoblin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hobgoblin.md)
+
 <p><span class="chinese">你知道的，妖怪。</span><span class="english">You know, a hobgoblin.</span></p>
 
 <p><span class="chinese">如果你非得给我取名，就叫我小妖精吧。</span><span class="english">If you must give me a name, call me hobgoblin.</span></p>

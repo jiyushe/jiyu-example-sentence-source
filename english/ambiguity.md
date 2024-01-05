@@ -1,5 +1,7 @@
 # ambiguity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambiguity.md)
+
 <p><span class="chinese">避免含糊。</span><span class="english">Avoid ambiguity.</span></p>
 
 <p><span class="chinese">这下没有歧义了。</span><span class="english">No ambiguity there.</span></p>

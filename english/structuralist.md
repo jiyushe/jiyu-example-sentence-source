@@ -1,5 +1,7 @@
 # structuralist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/structuralist.md)
+
 <p><span class="chinese">这是雅氏对结构主义文论的直接贡献。</span><span class="english">This is his direct contribution to structuralist literary theory.</span></p>
 
 <p><span class="chinese">结构主义者充分分析语言的梦想破灭了。</span><span class="english">The structuralist dream of a fully analyzable language is now lost.</span></p>

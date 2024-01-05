@@ -1,5 +1,7 @@
 # schoolgirl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolgirl.md)
+
 <p><span class="chinese">她像个小女学生似的脸红了。</span><span class="english">Her face coloured like a schoolgirl.</span></p>
 
 <p><span class="chinese">这个女学生喜欢做针线活。</span><span class="english">This schoolgirl likes to do some needlework.</span></p>

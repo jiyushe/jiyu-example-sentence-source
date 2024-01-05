@@ -1,5 +1,7 @@
 # inadvertently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inadvertently.md)
+
 <p><span class="chinese">他不经意把杯子打碎了。</span><span class="english">He inadvertently broke the glass.</span></p>
 
 <p><span class="chinese">如今，他们又无意之中脱离了这个行列。</span><span class="english">Now, they have inadvertently drifted out.</span></p>

@@ -1,5 +1,7 @@
 # detonation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detonation.md)
+
 <p><span class="chinese">这次爆炸成功啦！！！</span><span class="english">The detonation was successful!!!</span></p>
 
 <p><span class="chinese">街垒发出一阵骇人的摧折破裂的声音。</span><span class="english">A fearful detonation burst forth on the barricade.</span></p>

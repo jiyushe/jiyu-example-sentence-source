@@ -1,5 +1,7 @@
 # perpetuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perpetuation.md)
+
 <p><span class="chinese">同志的思想和学说是永存的。</span><span class="english">The thinks and theory of Chairman Mao are perpetuation.</span></p>
 
 <p><span class="chinese">防止社会性别不平等的代际传递。</span><span class="english">limiting the perpetuation of gender inequality across generations</span></p>

@@ -1,5 +1,7 @@
 # 子叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziye.md)
+
 <p><span class="chinese">子叶里含有储存起来的养料。</span><span class="english">The seed leaves contain stored-up food.</span></p>
 
 <p><span class="chinese">除了棕榈树，所有的树都是双子叶植物。</span><span class="english">All trees except palms are dicotyledons.</span></p>

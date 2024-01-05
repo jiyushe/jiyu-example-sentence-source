@@ -1,5 +1,7 @@
 # multirole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multirole.md)
+
 <p><span class="chinese">苏霍伊苏-35是一种单座、双引擎的多用途超级战斗机。</span><span class="english">The Sukhoi Su-35 is a single-seat, twin-engined supermaneuverability multirole fighter.</span></p>
 
 <p><span class="chinese">再没有比进入其驾驶舱更能够直白地描述这种多用途作战飞机的先进了。</span><span class="english">Nowhere are the advances in this multirole combat fighter more starkly illustrated than in the cockpit.</span></p>

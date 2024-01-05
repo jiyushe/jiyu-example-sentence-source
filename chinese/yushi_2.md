@@ -1,5 +1,7 @@
 # 玉石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushi_2.md)
+
 <p><span class="chinese">你到底是怎么想的，弃玉石而就孩子呢？</span><span class="english">Why you give up the jade instead of the kid?</span></p>
 
 <p><span class="chinese">产品以琉璃、玉石、合金为主流。</span><span class="english">Products to glass, jade, alloy into the mainstream.</span></p>

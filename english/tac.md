@@ -1,5 +1,7 @@
 # tac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tac.md)
+
 <p><span class="chinese">一小交谘会及红隧也。</span><span class="english">A tiny tac and CHT also.</span></p>
 
 <p><span class="chinese">你吃了什么？闻闻我的口气。</span><span class="english">You need a Tic Tac because your breath stinks.</span></p>

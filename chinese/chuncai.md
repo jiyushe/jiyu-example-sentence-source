@@ -1,5 +1,7 @@
 # 蠢材
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuncai.md)
+
 <p><span class="chinese">我是一个蠢材吗？</span><span class="english">I am a fool it?</span></p>
 
 <p><span class="chinese">你是个蠢材。</span><span class="english">You are a B. F.</span></p>

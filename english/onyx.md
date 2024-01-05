@@ -1,5 +1,7 @@
 # onyx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onyx.md)
+
 <p><span class="chinese">获奖战术已获得一面黑甲勋章。</span><span class="english">Earn at least one Onyx medal.</span></p>
 
 <p><span class="chinese">Tiffany黑玛瑙佛珠水泡项链。</span><span class="english">Toggle necklace. Black onyx beads.</span></p>

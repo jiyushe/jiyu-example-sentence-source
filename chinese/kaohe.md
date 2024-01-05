@@ -1,5 +1,7 @@
 # 考核
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaohe.md)
+
 <p><span class="chinese">你们没有通过考核。</span><span class="english">You didn't pass your review.</span></p>
 
 <p><span class="chinese">实习生顺利地通过了考核。</span><span class="english">The trainees checked out all right.</span></p>

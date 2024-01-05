@@ -1,5 +1,7 @@
 # 适值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhi_4.md)
+
 <p><span class="chinese">当时适值疾病流行的美妙季节。</span><span class="english">It was a nice sickly season just at this time.</span></p>
 
 <p><span class="chinese">我们到时适值雨季。</span><span class="english">We happened to arrive there in the rainy season.</span></p>

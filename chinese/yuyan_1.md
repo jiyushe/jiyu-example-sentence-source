@@ -1,5 +1,7 @@
 # 语言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyan_1.md)
+
 <p><span class="chinese">说一种新语言。</span><span class="english">Speak a new tongue.</span></p>
 
 <p><span class="chinese">语言和份数。</span><span class="english">Language and Copies.</span></p>

@@ -1,5 +1,7 @@
 # cupid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cupid.md)
+
 <p><span class="chinese">丘比特的箭射得真准。</span><span class="english">Cupid shoots so trim.</span></p>
 
 <p><span class="chinese">我辈都听，爱神差遣。</span><span class="english">Cupid he rules us all.</span></p>

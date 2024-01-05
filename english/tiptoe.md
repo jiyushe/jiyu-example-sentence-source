@@ -1,5 +1,7 @@
 # tiptoe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiptoe.md)
+
 <p><span class="chinese">她踮着脚尖走。</span><span class="english">She walks on tiptoe.</span></p>
 
 <p><span class="chinese">大象用脚趾尖走路。</span><span class="english">Elephants walk on tiptoe.</span></p>

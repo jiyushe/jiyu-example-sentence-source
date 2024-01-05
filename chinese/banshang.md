@@ -1,5 +1,7 @@
 # 半晌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banshang.md)
+
 <p><span class="chinese">请稍等半晌。</span><span class="english">Wait a minute, please.</span></p>
 
 <p><span class="chinese">他半晌功夫就把一瓶酒喝完了。</span><span class="english">He finished the bottle of wine in a shake.</span></p>

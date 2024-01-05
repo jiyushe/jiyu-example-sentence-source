@@ -1,5 +1,7 @@
 # 无关痛痒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuguantongyang.md)
+
 <p><span class="chinese">对沵的感情很深，可是沵却让俄做到了无关痛痒。</span><span class="english">Of your deep feelings, but you can make me to be of no importance.</span></p>
 
 <p><span class="chinese">对著自己的两个孩子，我常常想，无关痛痒的错，就由他去犯吧！</span><span class="english">Facing their two children, I often think, bite wrong, committed Go!</span></p>

@@ -1,5 +1,7 @@
 # savage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savage.md)
+
 <p><span class="chinese">野人海岸迅猛龙遗址。</span><span class="english">Savage Coast Raptor Fields.</span></p>
 
 <p><span class="chinese">他喜欢荒山的景色。</span><span class="english">He likes savage mountain scenery.</span></p>

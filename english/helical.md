@@ -1,5 +1,7 @@
 # helical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helical.md)
+
 <p><span class="chinese">多核苷酸键是螺旋形的。</span><span class="english">The polynucleotide chain is helical.</span></p>
 
 <p><span class="chinese">仿真螺旋交织器系统。</span><span class="english">Simulation of helical interleaver system.</span></p>

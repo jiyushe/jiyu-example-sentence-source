@@ -1,5 +1,7 @@
 # chaldean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chaldean.md)
+
 <p><span class="chinese">当夜加色丁王贝耳沙匝即为人所杀。</span><span class="english">The same night Baltasar the Chaldean king was slain.</span></p>
 
 <p><span class="chinese">你想从鳄鱼保护人这得到什么，年轻的卡尔迪亚人？</span><span class="english">What do you want from the crocodile guardian, young Chaldean ?</span></p>

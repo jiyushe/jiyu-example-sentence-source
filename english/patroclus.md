@@ -1,5 +1,7 @@
 # patroclus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patroclus.md)
+
 <p><span class="chinese">普特洛克勒斯身受重伤倒下，不久后便死去了。</span><span class="english">Patroclus fell mortally wounded and died soon.</span></p>
 
 <p><span class="chinese">普特洛克勒斯和达芙妮犹豫了，不过他们也饿了。</span><span class="english">Patroclus and Daphne hesitated, but they were hungry, too.</span></p>

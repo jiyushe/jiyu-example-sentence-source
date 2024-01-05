@@ -1,5 +1,7 @@
 # percutaneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/percutaneous.md)
+
 <p><span class="chinese">进行经皮肺脓肿引流。</span><span class="english">Percutaneous drainage of a lung abscess was carried out.</span></p>
 
 <p><span class="chinese">如果经皮穿刺治疗呀，可能要损伤这些脏器。</span><span class="english">We worried that the percutaneous puncture might affect these organs.</span></p>

@@ -1,5 +1,7 @@
 # seif
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seif.md)
+
 <p><span class="chinese">朋友昰第二个自己。</span><span class="english">A friend si a second seif.</span></p>
 
 <p><span class="chinese">卡扎菲和儿子赛义夫仍在躲藏。</span><span class="english">Col. Gadhafi and his son Seif are in hiding.</span></p>

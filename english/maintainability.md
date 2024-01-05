@@ -1,5 +1,7 @@
 # maintainability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maintainability.md)
+
 <p><span class="chinese">旧话重提，可维护性问题</span><span class="english">The maintainability problem revisited</span></p>
 
 <p><span class="chinese">值愈高表示可维护性愈佳。</span><span class="english">A high value means better maintainability.</span></p>

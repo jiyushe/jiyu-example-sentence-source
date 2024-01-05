@@ -1,5 +1,7 @@
 # lumen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lumen.md)
+
 <p><span class="chinese">范围流明输出的AX100U是非同寻常的。</span><span class="english">The range of lumen output on the AX100U is exceptional.</span></p>
 
 <p><span class="chinese">每个憩室有一个窄的开口通向结肠腔。</span><span class="english">Each has an opening to the colonic lumen through a narrow neck.</span></p>

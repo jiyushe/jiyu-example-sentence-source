@@ -1,5 +1,7 @@
 # 古文字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guwenzi.md)
+
 <p><span class="chinese">本文介绍的是中国古文字。</span><span class="english">This article is from Wikipedia.</span></p>
 
 <p><span class="chinese">由于各方面的原因，布依族古文字的调查研究还很薄弱。</span><span class="english">For reasons, it is weak to research ancient Buyi characters.</span></p>

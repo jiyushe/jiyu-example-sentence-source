@@ -1,5 +1,7 @@
 # laparotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laparotomy.md)
+
 <p><span class="chinese">遂行剖腹探查及肿瘤切除。</span><span class="english">A laparotomy was performed and the tumor was resected.</span></p>
 
 <p><span class="chinese">发生腹腔内出血的病例以行开腹手术为宜。</span><span class="english">For cases with internal hemorrhage, Laparotomy is the best choice.</span></p>

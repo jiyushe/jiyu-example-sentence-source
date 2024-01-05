@@ -1,5 +1,7 @@
 # neglect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neglect.md)
+
 <p><span class="chinese">不要忽略枝节问题。</span><span class="english">Don't neglect minor issues.</span></p>
 
 <p><span class="chinese">别把功课荒了。</span><span class="english">Don't neglect your lessons.</span></p>

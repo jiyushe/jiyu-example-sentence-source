@@ -1,5 +1,7 @@
 # incandescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incandescence.md)
+
 <p><span class="chinese">不同的是incandescence指“从内部发光”。</span><span class="english">The difference is that incandescence means “to shine from within.”</span></p>
 
 <p><span class="chinese">白炽电灯的关键部分是灯泡里的钨丝。</span><span class="english">A fine wire heated electrically to incandescence in an electric lamp.</span></p>

@@ -1,5 +1,7 @@
 # 泅渡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiudu.md)
+
 <p><span class="chinese">泅渡一个世界，共一场生死。</span><span class="english">Crossing a world, a total of a life and death.</span></p>
 
 <p><span class="chinese">我们观望着对岸。等待泅渡。</span><span class="english">We look on the thither and waiting for crossing.</span></p>

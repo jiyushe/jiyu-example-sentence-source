@@ -1,5 +1,7 @@
 # convincingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convincingly.md)
+
 <p><span class="chinese">但我们的确需要令人信服的行动来抑制未来的赤字。</span><span class="english">But we do need to act convincingly to curb future deficits.</span></p>
 
 <p><span class="chinese">但我们需要采取令人信服的行动来控制将来的赤字。</span><span class="english">But we do need to act convincingly to curb future deficits.</span></p>

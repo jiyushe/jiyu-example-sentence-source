@@ -1,5 +1,7 @@
 # 暗无天日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anwutianri.md)
+
 <p><span class="chinese">旧社会暗无天日。</span><span class="english">The old society was an abyss of darkness.</span></p>
 
 <p><span class="chinese">写作，是以场暗无天日的自杀。</span><span class="english">Writing, is to complete darkness to suicide.</span></p>

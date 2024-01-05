@@ -1,5 +1,7 @@
 # zippy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zippy.md)
+
 <p><span class="chinese">不过它的运行轨道与其恒星之间的距离要比木星与其恒星之间的距离近100倍。</span><span class="english">But its zippy orbit is a hundred times closer to its star than Jupiter’s is.</span></p>
 
 <p><span class="chinese">鲜亮的荧光色以及棱角分明的外形能为你的日常装扮添上一抹活泼的色彩。</span><span class="english">Its fluorescent color and structured shape will give your daytime look a zippy finish.</span></p>

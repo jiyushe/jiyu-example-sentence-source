@@ -1,5 +1,7 @@
 # 混混沌沌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunhundundun.md)
+
 <p><span class="chinese">接下来的几个月混混沌沌地过去。</span><span class="english">The next few months passed in a blur.</span></p>
 
 <p><span class="chinese">我的小说主人公基本上没干什么事，就这么混混沌沌过着。</span><span class="english">my hero basically not doing things, so HunHunDunDun lived.</span></p>

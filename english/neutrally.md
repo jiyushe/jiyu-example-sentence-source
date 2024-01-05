@@ -1,5 +1,7 @@
 # neutrally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neutrally.md)
+
 <p><span class="chinese">这有悖于所有网站中立对待的惯例。</span><span class="english">That goes against the custom of treating all sites neutrally.</span></p>
 
 <p><span class="chinese">不过话说回来，如果我中性判断这部电影，我会说这是一个平均加。</span><span class="english">But having said that if I judge this movie neutrally I would say it's an average plus.</span></p>

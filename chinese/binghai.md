@@ -1,5 +1,7 @@
 # 病害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binghai.md)
+
 <p><span class="chinese">该病属于单循环病害。</span><span class="english">It was a single-cycle disease.</span></p>
 
 <p><span class="chinese">这种病害使许多果实干枯。</span><span class="english">The disease mummified many fruits.</span></p>

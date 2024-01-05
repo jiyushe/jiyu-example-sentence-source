@@ -1,5 +1,7 @@
 # metabolism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metabolism.md)
+
 <p><span class="chinese">角膜代谢状态良好。</span><span class="english">Corneas showed good glucose metabolism.</span></p>
 
 <p><span class="chinese">重新调整组织的新陈代谢</span><span class="english">Reprogramming organizational metabolism</span></p>

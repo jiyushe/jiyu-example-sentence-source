@@ -1,5 +1,7 @@
 # baseplate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baseplate.md)
+
 <p><span class="chinese">该基板同时提供稳定的。</span><span class="english">The baseplate simultaneously provides stability.</span></p>
 
 <p><span class="chinese">能满足钢结构柱脚向基础传递较大水平力的要求。</span><span class="english">It can transfer shear to the base from the column baseplate.</span></p>

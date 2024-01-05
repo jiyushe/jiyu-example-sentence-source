@@ -1,5 +1,7 @@
 # inseminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inseminate.md)
+
 <p><span class="chinese">这个器具被用来为母牛实施人工授精。</span><span class="english">The gadget is used to artificially inseminate cows.</span></p>
 
 <p><span class="chinese">母猪在断奶后6-7天发情，立刻配种，12小时第二次配种。</span><span class="english">If sows are in estrus 6 -7 d PW, inseminate immediately, then inseminate 12 h later.</span></p>

@@ -1,5 +1,7 @@
 # stall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stall.md)
+
 <p><span class="chinese">他们说这是“失速速度”。</span><span class="english">Stall speed, they say.</span></p>
 
 <p><span class="chinese">在口井前，我将停留。</span><span class="english">At the well, I would stall.</span></p>

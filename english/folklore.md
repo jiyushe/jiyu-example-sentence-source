@@ -1,5 +1,7 @@
 # folklore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/folklore.md)
+
 <p><span class="chinese">你考虑民间传说的罗特韦尔犬?</span><span class="english">Do you take into account Rottweiler folklore?</span></p>
 
 <p><span class="chinese">民俗学的知识基础是田野作业。</span><span class="english">Fieldwork is the basic knowledge of folklore.</span></p>

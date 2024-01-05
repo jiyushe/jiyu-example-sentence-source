@@ -1,5 +1,7 @@
 # 出错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chucuo.md)
+
 <p><span class="chinese">让我们把它放在这儿，啊，出错了。</span><span class="english">Aha. It's gone wrong.</span></p>
 
 <p><span class="chinese">你发现我出错了。</span><span class="english">You caught me making an error.</span></p>

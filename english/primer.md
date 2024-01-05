@@ -1,5 +1,7 @@
 # primer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primer.md)
+
 <p><span class="chinese">又一篇入门文章？</span><span class="english">Another primer?</span></p>
 
 <p><span class="chinese">这里有一个引物，以让您可以开始。</span><span class="english">Here's a primer to get you started.</span></p>

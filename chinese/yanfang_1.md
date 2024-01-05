@@ -1,5 +1,7 @@
 # 验方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanfang_1.md)
+
 <p><span class="chinese">说明该验方可以进行临床治疗试验。</span><span class="english">It showed that it could be used for clinical treatment.</span></p>
 
 <p><span class="chinese">首先我得告诉你两个绝对有效的验方。</span><span class="english">Two infallible receipts I must insert before I proceed further.</span></p>

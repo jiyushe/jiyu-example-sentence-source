@@ -1,5 +1,7 @@
 # 放宽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangkuan.md)
+
 <p><span class="chinese">守夜人叫偶放宽心。</span><span class="english">Relax, said the night man.</span></p>
 
 <p><span class="chinese">守夜人叫本人放宽心。</span><span class="english">Relax , said the night man.</span></p>

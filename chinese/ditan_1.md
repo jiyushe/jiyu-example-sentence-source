@@ -1,5 +1,7 @@
 # 地摊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ditan_1.md)
+
 <p><span class="chinese">我回家的路上总是布满了地摊。</span><span class="english">There are lots of stalls on my way home.</span></p>
 
 <p><span class="chinese">他无可奈何地摊开双臂耸了耸肩。</span><span class="english">He spread out his arms and shrugged his shoulders.</span></p>

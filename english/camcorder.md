@@ -1,5 +1,7 @@
 # camcorder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camcorder.md)
+
 <p><span class="chinese">我有一个自由的摄录影机。</span><span class="english">I have a camcorder for personal use.</span></p>
 
 <p><span class="chinese">用摄录机和电脑制作电影</span><span class="english">Make a movie using a camcorder and computer.</span></p>

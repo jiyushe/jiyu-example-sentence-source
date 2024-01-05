@@ -1,5 +1,7 @@
 # euro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euro.md)
+
 <p><span class="chinese">1索玛等于0.0007欧元。</span><span class="english">UZS is equal to 0.0007 Euro.</span></p>
 
 <p><span class="chinese">欧元人气极度利空**</span><span class="english">EXTREME BEARISH EURO SENTIMENT</span></p>

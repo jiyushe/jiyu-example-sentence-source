@@ -1,5 +1,7 @@
 # 需求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuqiu.md)
+
 <p><span class="chinese">我的需求很少。</span><span class="english">My needs are few.</span></p>
 
 <p><span class="chinese">我们需要满足需求。</span><span class="english">We need to meet demand.</span></p>

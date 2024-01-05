@@ -1,5 +1,7 @@
 # 土坑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tukeng.md)
+
 <p><span class="chinese">我只能看见几个土坑。</span><span class="english">All I can see are few pits.</span></p>
 
 <p><span class="chinese">哪儿啊？我只能看见几个土坑。</span><span class="english">Where is it? All I can see are few pits.</span></p>

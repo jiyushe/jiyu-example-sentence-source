@@ -1,5 +1,7 @@
 # 熠熠生辉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyishenghui.md)
+
 <p><span class="chinese">色彩熠熠生辉。</span><span class="english">The colors brighten.</span></p>
 
 <p><span class="chinese">在今天冬日的阳光里它熠熠生辉。</span><span class="english">It's shining in the winter sunshine today.</span></p>

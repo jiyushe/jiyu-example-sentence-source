@@ -1,5 +1,7 @@
 # 朽烂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiulan.md)
+
 <p><span class="chinese">嫉妒是骨中的朽烂。</span><span class="english">But envy is the rottenness of the bones.</span></p>
 
 <p><span class="chinese">他用斧头砍掉了朽烂的树枝。</span><span class="english">He struck off the rotten branches with an axe.</span></p>

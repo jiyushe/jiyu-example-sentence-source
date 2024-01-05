@@ -1,5 +1,7 @@
 # 炮手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoshou_1.md)
+
 <p><span class="chinese">解决那些炮手！</span><span class="english">Take that gunner out!</span></p>
 
 <p><span class="chinese">他是英国海军的一名炮手。</span><span class="english">He is a gunner of the British navy.</span></p>

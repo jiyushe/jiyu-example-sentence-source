@@ -1,5 +1,7 @@
 # epicardium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epicardium.md)
+
 <p><span class="chinese">这是在心外膜看到的点状出血，是小血管的出血形成的。</span><span class="english">Here are petechial hemorrhages seen on the epicardium of the heart.</span></p>
 
 <p><span class="chinese">这些神经节主要分布在心外膜下，以及冠状沟内。</span><span class="english">These ganglia mainly lie under the epicardium and in coronary sulcus.</span></p>

@@ -1,5 +1,7 @@
 # columbian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/columbian.md)
+
 <p><span class="chinese">哥伦布交换在现代继续发挥作用。</span><span class="english">The Columbian Exchange continues to this day.</span></p>
 
 <p><span class="chinese">而体型较大的哥伦比亚猛犸则生活在较远的南方。</span><span class="english">The larger Columbian mammoth lived further south.</span></p>

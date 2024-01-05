@@ -1,5 +1,7 @@
 # 远虑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanlv.md)
+
 <p><span class="chinese">这次失败是由于我们缺乏远虑而造成的。</span><span class="english">The failure is the result of our lack of foresight.</span></p>
 
 <p><span class="chinese">每个过度开发的孩子背后，总有一个深思远虑的家长。</span><span class="english">Behind every overextended kid, there is a well-meaning parent.</span></p>

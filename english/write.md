@@ -1,5 +1,7 @@
 # write
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/write.md)
+
 <p><span class="chinese">我编写代码。</span><span class="english">I write code.</span></p>
 
 <p><span class="chinese">写作清晰，务必精简，避免赘言。</span><span class="english">Write clearly.</span></p>

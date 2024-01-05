@@ -1,5 +1,7 @@
 # unite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unite.md)
+
 <p><span class="chinese">粒子易于结合。</span><span class="english">The particles tend to unite.</span></p>
 
 <p><span class="chinese">油和水不相融。</span><span class="english">Oil and water will not unite.</span></p>

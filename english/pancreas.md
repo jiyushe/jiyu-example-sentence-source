@@ -1,5 +1,7 @@
 # pancreas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pancreas.md)
+
 <p><span class="chinese">常人的胰脏会分泌胰岛素</span><span class="english">Your pancreas normally makes insulin.</span></p>
 
 <p><span class="chinese">我那时甚至都不知道胰脏是什么。</span><span class="english">I didn't even know what a pancreas was.</span></p>

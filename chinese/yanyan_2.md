@@ -1,5 +1,7 @@
 # 炎炎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyan_2.md)
+
 <p><span class="chinese">炎炎夏日，美酒相伴。</span><span class="english">Perfect wines for a summer day.</span></p>
 
 <p><span class="chinese">烈日炎炎晒得我们口干舌燥。</span><span class="english">The burning sun made us thirsty.</span></p>

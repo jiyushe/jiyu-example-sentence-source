@@ -1,5 +1,7 @@
 # 清馨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxin_3.md)
+
 <p><span class="chinese">这是清馨的家吗？</span><span class="english">Is this Qingxin's residence?</span></p>
 
 <p><span class="chinese">五月的花朵艳丽清馨。</span><span class="english">Follow with May's fairest flowers.</span></p>

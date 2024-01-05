@@ -1,5 +1,7 @@
 # supplementary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supplementary.md)
+
 <p><span class="chinese">检测是编码标准的补充。</span><span class="english">Supplementary to coding standards is inspection.</span></p>
 
 <p><span class="chinese">它需要某种额外的辅助材料。</span><span class="english">It needs something else, a supplementary material.</span></p>

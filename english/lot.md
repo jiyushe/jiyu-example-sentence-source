@@ -1,5 +1,7 @@
 # lot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lot.md)
+
 <p><span class="chinese">我常骑自行车。</span><span class="english">I cycle a lot.</span></p>
 
 <p><span class="chinese">我喜欢读书，读很多书，常常在深更半夜读。</span><span class="english">I read. A lot.</span></p>

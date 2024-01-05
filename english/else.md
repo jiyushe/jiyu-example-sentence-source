@@ -1,5 +1,7 @@
 # else 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/else.md)
+
 <p><span class="chinese">大家再猜猜。</span><span class="english">Somebody else.</span></p>
 
 <p><span class="chinese">倩碧还有什么好东西？</span><span class="english">What else is good?</span></p>

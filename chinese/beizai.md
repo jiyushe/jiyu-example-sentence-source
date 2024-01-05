@@ -1,5 +1,7 @@
 # 备灾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beizai.md)
+
 <p><span class="chinese">粮农组织还在防灾、备灾和预警方面发挥至关重要的作用。</span><span class="english">FAO also plays a crucial role in prevention, preparedness and early warning.</span></p>
 
 <p><span class="chinese">此次评估将侧重于备灾环境中的社会性别问题。</span><span class="english">This evaluation will focus on gender within a disaster preparedness environment.</span></p>

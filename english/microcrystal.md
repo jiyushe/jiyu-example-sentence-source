@@ -1,5 +1,7 @@
 # microcrystal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microcrystal.md)
+
 <p><span class="chinese">研制了一种以石蜡、微晶蜡和液蜡复配为成膜物质并经乳化而成的混凝土养护剂。</span><span class="english">A concrete curing agent of emulsion wax was obtained with the combination of paraffin wax, microcrystal wax and liquid wax.</span></p>
 
 <p><span class="chinese">采用冷柱头进样的高温气相色谱技术，建立了测定高滴熔点微晶蜡中正构和非正构烃类含量及碳数分布的方法。</span><span class="english">A method has been developed to measure the carbon distribution and content of microcrystal wax with high drop melting point.</span></p>

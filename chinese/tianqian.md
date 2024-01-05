@@ -1,5 +1,7 @@
 # 天堑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianqian.md)
+
 <p><span class="chinese">飞渡天堑的曲宗大桥和桥下汇流的两色江水。</span><span class="english">Quzong Bridge and two-colored river water below.</span></p>
 
 <p><span class="chinese">血气方刚，风华正茂，心已不羁，天堑变通途！</span><span class="english">Energetic, young and heart have been unruly, natural moat change thoroughfare!</span></p>

@@ -1,5 +1,7 @@
 # reexamination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reexamination.md)
+
 <p><span class="chinese">然后再检查被降权的友情。</span><span class="english">Next the friendship that reexamination is fallen to counterpoise.</span></p>
 
 <p><span class="chinese">这场危机敦促美国要重新审察其核政策。</span><span class="english">The crisis has forced a reexamination of American nuclear policy.</span></p>

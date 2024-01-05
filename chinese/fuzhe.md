@@ -1,5 +1,7 @@
 # 覆辙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzhe.md)
+
 <p><span class="chinese">将军重蹈林肯覆辙，坐上了死刑的电椅。</span><span class="english">The General met Lincoln’s original fate, the electric chair.</span></p>
 
 <p><span class="chinese">我是一个十岁男孩的姐姐，他正忙于重蹈我的覆辙。</span><span class="english">I am the sister of a ten-year-old boy who is busy making them now.</span></p>

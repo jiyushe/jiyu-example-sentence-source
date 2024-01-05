@@ -1,5 +1,7 @@
 # phenyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenyl.md)
+
 <p><span class="chinese">这些基团有取代的苯环。</span><span class="english">These groups may be substituted in the phenyl ring.</span></p>
 
 <p><span class="chinese">苯基和苯基乙基丙二酸酯的生产。</span><span class="english">Manufacture of Phenyl and Phenylethyl Malonic Esters.</span></p>

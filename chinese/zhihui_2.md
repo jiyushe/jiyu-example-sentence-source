@@ -1,5 +1,7 @@
 # 知会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhihui_2.md)
+
 <p><span class="chinese">工人们向路透社展示一封意在知会苹果总裁斯蒂夫乔布斯中文信描述到，英文版信件已经被送到苹果公司。</span><span class="english">An English version had been sent to Apple.</span></p>
 
 <p><span class="chinese">你希望我们用电邮知会你最新资讯吗？</span><span class="english">Would you like to recieve our updates through Email?</span></p>

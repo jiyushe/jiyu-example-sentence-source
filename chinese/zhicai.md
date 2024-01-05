@@ -1,5 +1,7 @@
 # 制裁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhicai.md)
+
 <p><span class="chinese">他们责怪制裁。</span><span class="english">They blame sanctions.</span></p>
 
 <p><span class="chinese">他以自杀逃避法律的制裁。</span><span class="english">He cheated the law by suicide.</span></p>

@@ -1,5 +1,7 @@
 # seeker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seeker.md)
+
 <p><span class="chinese">您是否慕道友？</span><span class="english">Are you a seeker friend?</span></p>
 
 <p><span class="chinese">那么，一个求职者应该怎么做呢？</span><span class="english">So what's a job seeker to do?</span></p>

@@ -1,5 +1,7 @@
 # 咨询
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixun.md)
+
 <p><span class="chinese">我们全家都去做了心理咨询。</span><span class="english">We all went to counseling.</span></p>
 
 <p><span class="chinese">我去咨询过足部专家。</span><span class="english">I consulted foot specialists.</span></p>

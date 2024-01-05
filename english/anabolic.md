@@ -1,5 +1,7 @@
 # anabolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anabolic.md)
+
 <p><span class="chinese">举重选手常服用合成类固醇。</span><span class="english">Weightlifters often use anabolic steroids.</span></p>
 
 <p><span class="chinese">这种新的纳米技术仅在同化拉什提供！</span><span class="english">This new nano-technology is only available in Anabolic Rush!</span></p>

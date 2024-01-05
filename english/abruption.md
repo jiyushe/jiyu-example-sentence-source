@@ -1,5 +1,7 @@
 # abruption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abruption.md)
+
 <p><span class="chinese">促进眼部纤维细胞的分裂及合成。</span><span class="english">Promote the abruption of a fiber cell and synthesize.</span></p>
 
 <p><span class="chinese">南北朝是中国历史上大分裂时期，战争连绵不绝。</span><span class="english">The south and north dynasties was a great abruption period.</span></p>

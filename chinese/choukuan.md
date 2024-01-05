@@ -1,5 +1,7 @@
 # 筹款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choukuan.md)
+
 <p><span class="chinese">筹款晚宴。</span><span class="english">Fundraising dinners.</span></p>
 
 <p><span class="chinese">我为儿童医院筹款。</span><span class="english">I raise money for children's hospital.</span></p>

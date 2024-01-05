@@ -1,5 +1,7 @@
 # antagonist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antagonist.md)
+
 <p><span class="chinese">一位小孩向他的敌手诵念这句话。</span><span class="english">So chanted the child to his antagonist.</span></p>
 
 <p><span class="chinese">一种非常特别的抑制剂</span><span class="english">It's a very particular sort of antagonist.</span></p>

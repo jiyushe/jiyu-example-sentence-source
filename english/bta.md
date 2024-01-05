@@ -1,5 +1,7 @@
 # bta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bta.md)
+
 <p><span class="chinese">在铜表面预覆BTA薄膜，对铜有更好的防蚀保护性能。</span><span class="english">BTA film prepared on copper surface has more effective corrosion inhibitive characteristic.</span></p>
 
 <p><span class="chinese">并测定了BTA浓度对金属锌缓蚀效率的影响，确定了其作为缓蚀剂使用的最佳浓度值。</span><span class="english">The effect of BTA content on the inhibition efficiency was studied to obtain the optimum use level.</span></p>

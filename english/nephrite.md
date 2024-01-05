@@ -1,5 +1,7 @@
 # nephrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nephrite.md)
+
 <p><span class="chinese">这是本关于和田玉的书。</span><span class="english">This book is talking about nephrite.</span></p>
 
 <p><span class="chinese">这是一个被抛弃的玉矿。</span><span class="english">Here is an abandoned nephrite mining base.</span></p>

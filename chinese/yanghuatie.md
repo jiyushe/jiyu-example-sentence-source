@@ -1,5 +1,7 @@
 # 氧化铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanghuatie.md)
+
 <p><span class="chinese">表面光滑，氧化铁皮少，易酸洗。</span><span class="english">Smooth surface, less scale, easy to be pickled.</span></p>
 
 <p><span class="chinese">那么我们有氧化铁，它是固体。</span><span class="english">So we'll have an iron oxide species. It's a solid.</span></p>

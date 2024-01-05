@@ -1,5 +1,7 @@
 # chinatown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chinatown.md)
+
 <p><span class="chinese">和唐人街有关的？</span><span class="english">Related to Chinatown?</span></p>
 
 <p><span class="chinese">你能跟我们讲讲唐人街吗？</span><span class="english">Can you tell us about Chinatown?</span></p>

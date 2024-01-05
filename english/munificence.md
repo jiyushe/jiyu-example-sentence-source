@@ -1,5 +1,7 @@
 # munificence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/munificence.md)
+
 <p><span class="chinese">我感谢他们的慷慨。</span><span class="english">I thanked them for their munificence.</span></p>
 
 <p><span class="chinese">他天生既仁慈又宽宏大量。</span><span class="english">Both kindness and munificence are due to his nature.</span></p>

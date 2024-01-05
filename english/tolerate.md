@@ -1,5 +1,7 @@
 # tolerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tolerate.md)
+
 <p><span class="chinese">你怎么能忍受这个？</span><span class="english">How can you tolerate that?</span></p>
 
 <p><span class="chinese">他对盘尼西林无耐药力。</span><span class="english">He can't tolerate penicillin.</span></p>

@@ -1,5 +1,7 @@
 # pioneer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pioneer.md)
+
 <p><span class="chinese">我是个少先队员。</span><span class="english">I am a Young Pioneer.</span></p>
 
 <p><span class="chinese">你是少先队员吗？</span><span class="english">Are you a Young Pioneer?</span></p>

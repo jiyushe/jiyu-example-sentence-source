@@ -1,5 +1,7 @@
 # landau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landau.md)
+
 <p><span class="chinese">最后，还用郎道分布随几数作了模拟计算以进行比较。</span><span class="english">A simulation calculation with Landau distribution is also made.</span></p>
 
 <p><span class="chinese">看起来像史高丽的女人抓住了蓝道探员的脖子。</span><span class="english">The woman who looks like scully grabs agent landau by the neck.</span></p>

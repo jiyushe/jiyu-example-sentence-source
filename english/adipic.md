@@ -1,5 +1,7 @@
 # adipic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adipic.md)
+
 <p><span class="chinese">己二酸是一个高技术含量、高附加值的化工产品。</span><span class="english">Adipic acid is a kind of chemicals with high technology content and added value.</span></p>
 
 <p><span class="chinese">分析认为，国内己二酸产品在未来的几年内将会达到供需平衡。</span><span class="english">In the few years, the supply and demand of adipic acid in China will be balanced.</span></p>

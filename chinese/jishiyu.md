@@ -1,5 +1,7 @@
 # 及时雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jishiyu.md)
+
 <p><span class="chinese">真是一场及时雨。</span><span class="english">Is really a timely rain.</span></p>
 
 <p><span class="chinese">幸好随后下了一场及时雨。</span><span class="english">Happily a good rain followed.</span></p>

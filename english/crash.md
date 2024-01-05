@@ -1,5 +1,7 @@
 # crash 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crash.md)
+
 <p><span class="chinese">1929年的大崩盘呢？</span><span class="english">The Crash of 1929?</span></p>
 
 <p><span class="chinese">固定两个意崩溃的错误。</span><span class="english">Fixed two ICO crash bugs.</span></p>

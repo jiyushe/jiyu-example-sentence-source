@@ -1,5 +1,7 @@
 # 选择性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanzexing.md)
+
 <p><span class="chinese">也要更有选择性。</span><span class="english">Be more selective, too.</span></p>
 
 <p><span class="chinese">让我来做个选择性的假设。</span><span class="english">Let me put an alternative hypothesis.</span></p>

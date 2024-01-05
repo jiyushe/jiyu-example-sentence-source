@@ -1,5 +1,7 @@
 # 干扰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganrao.md)
+
 <p><span class="chinese">注意敌人的铂条干扰。</span><span class="english">Be wary of enemy chaffs.</span></p>
 
 <p><span class="chinese">我的工作是抛撒干扰片。</span><span class="english">My job was to drop chaff.</span></p>

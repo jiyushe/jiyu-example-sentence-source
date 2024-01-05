@@ -1,5 +1,7 @@
 # talker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talker.md)
+
 <p><span class="chinese">我只是一个空谈者。</span><span class="english">I was a Talker.</span></p>
 
 <p><span class="chinese">他老是说得信口雌黄。</span><span class="english">He is a fast talker.</span></p>

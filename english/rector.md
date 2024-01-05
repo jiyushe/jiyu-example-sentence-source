@@ -1,5 +1,7 @@
 # rector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rector.md)
+
 <p><span class="chinese">首先请大家以热烈的掌声欢迎我们园长讲话。</span><span class="english">Please let our rector make the oration first, clap your hands.</span></p>
 
 <p><span class="chinese">从1827年到1846年他任该大学的教授和校长。</span><span class="english">From 1827 to 1846 he was professor and rector at that university.</span></p>

@@ -1,5 +1,7 @@
 # chapter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chapter.md)
+
 <p><span class="chinese">颇受争议的第18章规定**</span><span class="english">CHAPTER 18</span></p>
 
 <p><span class="chinese">看第9章。</span><span class="english">Look at chapter 9.</span></p>

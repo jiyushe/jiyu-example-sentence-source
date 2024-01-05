@@ -1,5 +1,7 @@
 # untainted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untainted.md)
+
 <p><span class="chinese">我是在尝试使我自己不受差劣的电影所“污染”。</span><span class="english">I'm trying to keep myself "untainted" by bad porno.</span></p>
 
 <p><span class="chinese">当然，最纯净的水是最无污染与清澈的。</span><span class="english">Of course, the purest water is the most untainted and unclouded.</span></p>

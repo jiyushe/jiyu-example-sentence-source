@@ -1,5 +1,7 @@
 # heteronomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heteronomy.md)
+
 <p><span class="chinese">自主的对立，就是“他律”。</span><span class="english">Heteronomy is the opposite of autonomy.</span></p>
 
 <p><span class="chinese">总经理坐在他律师的办公室里。</span><span class="english">The general manager sit inside in the office in heteronomy teacher.</span></p>

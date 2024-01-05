@@ -1,5 +1,7 @@
 # 笼子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longzi.md)
+
 <p><span class="chinese">我看到一只鸟在笼子。</span><span class="english">I saw a bird in a cage.</span></p>
 
 <p><span class="chinese">它从它的笼子跑出来了。</span><span class="english">It got out of its cage.</span></p>

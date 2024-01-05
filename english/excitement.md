@@ -1,5 +1,7 @@
 # excitement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excitement.md)
+
 <p><span class="chinese">我平服自己激动的心情。</span><span class="english">I lay my excitement.</span></p>
 
 <p><span class="chinese">他兴奋的旋转起来。</span><span class="english">He spun with excitement.</span></p>

@@ -1,5 +1,7 @@
 # watchfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watchfulness.md)
+
 <p><span class="chinese">应对该问题引起重视。</span><span class="english">Such problem was worthy of high watchfulness.</span></p>
 
 <p><span class="chinese">这种警惕并非长久没有报偿的。</span><span class="english">This watchfulness was not long without reward.</span></p>

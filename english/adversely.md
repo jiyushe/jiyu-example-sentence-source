@@ -1,5 +1,7 @@
 # adversely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adversely.md)
+
 <p><span class="chinese">性传播感染对女性健康的不良影响</span><span class="english">STIs adversely affect the health of women</span></p>
 
 <p><span class="chinese">这对水分移动，渗透度及通气性有不利影响。</span><span class="english">This adversely affects water movement, permeability, and aeration.</span></p>

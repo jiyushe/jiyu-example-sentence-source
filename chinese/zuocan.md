@@ -1,5 +1,7 @@
 # 柞蚕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuocan.md)
+
 <p><span class="chinese">以柞蚕蛹为原料进行柞蚕蛹油提取的研究。</span><span class="english">Tussah pupa oil was extracted from tussah pupa.</span></p>
 
 <p><span class="chinese">利用GC分析柞蚕雄蛾油的脂肪酸组成成分。</span><span class="english">The components of male silk moth oil was determined by GC.</span></p>

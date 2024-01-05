@@ -1,5 +1,7 @@
 # sensillum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensillum.md)
+
 <p><span class="chinese">嗅感器表皮有微孔和孔道微管。</span><span class="english">There are a plenty of pores and pore tubules in the cuticle of olfactory sensillum.</span></p>
 
 <p><span class="chinese">一个感器联结着两个特化的真皮细胞和一个双极神经元。</span><span class="english">Two specialized epidermal cells and a bipolar neuron are associated with each sensillum.</span></p>

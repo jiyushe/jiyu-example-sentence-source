@@ -1,5 +1,7 @@
 # preferences
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preferences.md)
+
 <p><span class="chinese">你有什么特别的偏好吗？</span><span class="english">Do you have any preferences?</span></p>
 
 <p><span class="chinese">他们两人的偏好就是这样的</span><span class="english">So these are the preferences.</span></p>

@@ -1,5 +1,7 @@
 # applicant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/applicant.md)
+
 <p><span class="chinese">被拒牵后的申请者可以重新申请吗？</span><span class="english">Can a refused applicant re-apply?</span></p>
 
 <p><span class="chinese">签证费每人250元人民币。</span><span class="english">Visa Fee of RMB 250 per applicant.</span></p>

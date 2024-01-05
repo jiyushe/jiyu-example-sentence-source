@@ -1,5 +1,7 @@
 # loony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loony.md)
+
 <p><span class="chinese">我不停得喊着，就是个疯子。</span><span class="english">I do not stop shouting, just like a loony.</span></p>
 
 <p><span class="chinese">老人让整个疯狂酒吧high起来了。</span><span class="english">The old man set the loony bar pretty high.</span></p>

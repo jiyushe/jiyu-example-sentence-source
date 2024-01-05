@@ -1,5 +1,7 @@
 # exposure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exposure.md)
+
 <p><span class="chinese">阳，暴晒这我。</span><span class="english">Yang, which I exposure.</span></p>
 
 <p><span class="chinese">这间屋朝阳。</span><span class="english">The room has a southern exposure.</span></p>

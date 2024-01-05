@@ -1,5 +1,7 @@
 # sanatorium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanatorium.md)
+
 <p><span class="chinese">靠疗养院靠海。</span><span class="english">The sanatorium stands by the sea.</span></p>
 
 <p><span class="chinese">这里是蓝染花私立精神科疗养院。</span><span class="english">This is Aizome Private Psychiatric Sanatorium.</span></p>

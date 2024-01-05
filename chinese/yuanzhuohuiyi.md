@@ -1,5 +1,7 @@
 # 圆桌会议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhuohuiyi.md)
+
 <p><span class="chinese">圆桌会议确立的两项重要目标是</span><span class="english">The two main goals of these roundtables are to</span></p>
 
 <p><span class="chinese">您可以在这里报名参加下一次的圆桌会议。</span><span class="english">You can register for the next roundtable here.</span></p>

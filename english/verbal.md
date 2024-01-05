@@ -1,5 +1,7 @@
 # verbal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verbal.md)
+
 <p><span class="chinese">接踵而来的是一场短暂的骂战。</span><span class="english">A short verbal battle follows.</span></p>
 
 <p><span class="chinese">口说无凭。</span><span class="english">Verbal statements are no guarantee.</span></p>

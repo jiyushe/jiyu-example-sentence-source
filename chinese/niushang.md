@@ -1,5 +1,7 @@
 # 扭伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niushang.md)
+
 <p><span class="chinese">扭伤是什么意思？</span><span class="english">What’s a sprain?</span></p>
 
 <p><span class="chinese">我的脚踝扭伤了。</span><span class="english">I twisted my ankle.</span></p>

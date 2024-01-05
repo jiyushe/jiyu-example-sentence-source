@@ -1,5 +1,7 @@
 # cutaneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutaneous.md)
+
 <p><span class="chinese">如何提高皮肤的抵抗力？</span><span class="english">How to increase cutaneous strength?</span></p>
 
 <p><span class="chinese">如何提高皮肤的免疫力？</span><span class="english">How to enhance cutaneous immunity power?</span></p>

@@ -1,5 +1,7 @@
 # vying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vying.md)
+
 <p><span class="chinese">他们的党在选举中几乎获全胜。</span><span class="english">Three candidates are vying in this election.</span></p>
 
 <p><span class="chinese">中国有成千上万的钢琴家为出人头第而拼挣。</span><span class="english">Millions of pianists in China were vying for fame.</span></p>

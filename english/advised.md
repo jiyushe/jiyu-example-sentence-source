@@ -1,5 +1,7 @@
 # advised
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advised.md)
+
 <p><span class="chinese">她把这件事通知了我。</span><span class="english">She advised me of this.</span></p>
 
 <p><span class="chinese">最后，保罗终于劝住了佩琪。</span><span class="english">At last, Paul advised Peggy.</span></p>

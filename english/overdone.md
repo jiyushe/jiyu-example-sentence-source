@@ -1,5 +1,7 @@
 # overdone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overdone.md)
+
 <p><span class="chinese">这牛肉烧得过久。</span><span class="english">The beef is overdone.</span></p>
 
 <p><span class="chinese">这种妄想症表现得有点过头了。</span><span class="english">This paranoia is overdone.</span></p>

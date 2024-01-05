@@ -1,5 +1,7 @@
 # 紫绀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zigan.md)
+
 <p><span class="chinese">为了紫绀病人，我们需要它。</span><span class="english">We need it for our cyanotic children.</span></p>
 
 <p><span class="chinese">症状有紫绀和运动不耐。</span><span class="english">Signs include cyanosis and exercise intolerance.</span></p>

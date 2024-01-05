@@ -1,5 +1,7 @@
 # rename
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rename.md)
+
 <p><span class="chinese">欧洲应该改名叫温洲。</span><span class="english">Europe should rename Wenrope.</span></p>
 
 <p><span class="chinese">将这些查询重命名，如下所示。</span><span class="english">Rename the queries as shown below.</span></p>

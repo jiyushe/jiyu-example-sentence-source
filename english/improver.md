@@ -1,5 +1,7 @@
 # improver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improver.md)
+
 <p><span class="chinese">加入安琪A500面包改良剂可使面包保持柔软。</span><span class="english">Add Angel A500 bread improver to keep the bread soft.</span></p>
 
 <p><span class="chinese">含蜡原油流动性改进剂H89-2系三元共聚物。</span><span class="english">Flow improver H89 2 used in crude oil is a terpolymer.</span></p>

@@ -1,5 +1,7 @@
 # unrevealed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrevealed.md)
+
 <p><span class="chinese">没有人知道神隐而未现的旨意。</span><span class="english">No one can know God's hidden and unrevealed will.</span></p>
 
 <p><span class="chinese">母亲怀着一个不便倾述的遗憾离去了，这是毋庸置疑的。</span><span class="english">Mother had gone with an unrevealed regret in heart, this was doubtless.</span></p>

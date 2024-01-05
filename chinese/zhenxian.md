@@ -1,5 +1,7 @@
 # 针线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenxian.md)
+
 <p><span class="chinese">你会做针线吗?。</span><span class="english">Do you know how to sew?</span></p>
 
 <p><span class="chinese">年年社日停针线。</span><span class="english">Every day to stop sewing.</span></p>

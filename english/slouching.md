@@ -1,5 +1,7 @@
 # slouching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slouching.md)
+
 <p><span class="chinese">这种姿势通常同懒散画上等号。</span><span class="english">This posture often involves slouching.</span></p>
 
 <p><span class="chinese">你是否坐在你位子的边缘或懒散的？</span><span class="english">Are you on the edge of your seat or slouching ?</span></p>

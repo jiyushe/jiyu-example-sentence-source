@@ -1,5 +1,7 @@
 # 洋铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangtie.md)
+
 <p><span class="chinese">她在洋铁罐上敲出一首曲子。</span><span class="english">She beat out a tune on a tin can.</span></p>
 
 <p><span class="chinese">汉纳很想从这个洋铁罐喝水。</span><span class="english">Hannah is tempted to drink from the billy.</span></p>

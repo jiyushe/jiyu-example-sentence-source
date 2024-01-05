@@ -1,5 +1,7 @@
 # 冒号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maohao.md)
+
 <p><span class="chinese">冒号开头代表新的一行或一段前空格。</span><span class="english">A colon indents a line or paragraph.</span></p>
 
 <p><span class="chinese">冒号意味着一段代码的开始，这里的意思就是。</span><span class="english">The colon's identifying a block of code.</span></p>

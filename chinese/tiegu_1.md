@@ -1,5 +1,7 @@
 # 铁骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiegu_1.md)
+
 <p><span class="chinese">他有一副钢筋铁骨。</span><span class="english">He has an iron constitution.</span></p>
 
 <p><span class="chinese">我们的军队是我们国家这艘航船上的钢筋铁骨。</span><span class="english">Our troops are the steel in our ship of state.</span></p>

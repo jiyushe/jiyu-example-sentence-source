@@ -1,5 +1,7 @@
 # medieval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medieval.md)
+
 <p><span class="chinese">中世纪的居民。</span><span class="english">The Medieval inhabitants.</span></p>
 
 <p><span class="chinese">有去过中世纪教堂的吗</span><span class="english">Ever been to a medieval cathedral?</span></p>

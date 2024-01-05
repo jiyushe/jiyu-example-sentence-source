@@ -1,5 +1,7 @@
 # unilateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unilateral.md)
+
 <p><span class="chinese">有向图d是单连的。</span><span class="english">A digraph D is unilateral.</span></p>
 
 <p><span class="chinese">合同可以是双边的或单边的。</span><span class="english">A contract is either bilateral or unilateral.</span></p>

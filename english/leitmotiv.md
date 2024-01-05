@@ -1,5 +1,7 @@
 # leitmotiv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leitmotiv.md)
+
 <p><span class="chinese">本文试图把超越思想理解为尼采哲学的主旨。</span><span class="english">I think Nietzschean leitmotiv is the transcending thought.</span></p>
 
 <p><span class="chinese">强调的下一步建筑草案是‘在上面干燥’。</span><span class="english">And the leitmotiv of the next step of the building protocol is 'on top and dry'.</span></p>

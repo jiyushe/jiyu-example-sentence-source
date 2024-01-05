@@ -1,5 +1,7 @@
 # 客家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kejia_1.md)
+
 <p><span class="chinese">满堂客家大围。</span><span class="english">"Mantang Hakka Manor House".</span></p>
 
 <p><span class="chinese">斯迈尔先生说他不想与客家争吵。</span><span class="english">Mr. Smile said he did not wa.</span></p>

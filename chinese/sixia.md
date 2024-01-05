@@ -1,5 +1,7 @@
 # 四下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sixia.md)
+
 <p><span class="chinese">希腊人四下溃逃。</span><span class="english">Greeks looked flight.</span></p>
 
 <p><span class="chinese">他四下看了看，但什么也没看见。</span><span class="english">He looked round but saw nothing.</span></p>

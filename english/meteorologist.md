@@ -1,5 +1,7 @@
 # meteorologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meteorologist.md)
+
 <p><span class="chinese">气象学家埃里克的操作方法是正确的。</span><span class="english">One person who got it right was meteorologist Eric Holthaus.</span></p>
 
 <p><span class="chinese">气象学家周月华表示，拉尼娜是造成旱情的原因。</span><span class="english">Meteorologist Zhou Yuehua said La Nina was to blame for the drought.</span></p>

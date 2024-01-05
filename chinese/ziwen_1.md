@@ -1,5 +1,7 @@
 # 自问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwen_1.md)
+
 <p><span class="chinese">你的心必思想那惊吓的事，自问说，记数目的在那里呢。</span><span class="english">Thine heart shall meditate terror.</span></p>
 
 <p><span class="chinese">犹豫不决时会在心里自问自答。</span><span class="english">Indecision in heart will ask the answer.</span></p>

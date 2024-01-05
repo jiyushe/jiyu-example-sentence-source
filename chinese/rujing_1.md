@@ -1,5 +1,7 @@
 # 入境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rujing_1.md)
+
 <p><span class="chinese">请给我一张入境卡。</span><span class="english">Please give me a entry card.</span></p>
 
 <p><span class="chinese">你有中文入境卡表格吗？</span><span class="english">Do you have I94 form in Chinese?</span></p>

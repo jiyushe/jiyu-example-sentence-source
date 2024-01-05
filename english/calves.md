@@ -1,5 +1,7 @@
 # calves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calves.md)
+
 <p><span class="chinese">小牛犊出生时有牙齿吗？</span><span class="english">Are calves born with teeth?</span></p>
 
 <p><span class="chinese">很多好母牛，会生坏小犊。</span><span class="english">Many good cows have evil calves.</span></p>

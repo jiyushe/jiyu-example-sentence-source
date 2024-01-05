@@ -1,5 +1,7 @@
 # 一径
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijing.md)
+
 <p><span class="chinese">他望着园里的那个人一径走去。</span><span class="english">He walked straight up to the man whom he saw in the garden.</span></p>
 
 <p><span class="chinese">地板和护壁板都是白色大理石的，由于常常擦，一径都光耀夺目。</span><span class="english">Both floor and wainscot were of white marble, kept shiny by frequent polishing.</span></p>

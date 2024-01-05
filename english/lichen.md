@@ -1,5 +1,7 @@
 # lichen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lichen.md)
+
 <p><span class="chinese">单纯口唇部位扁平苔藓不多见。</span><span class="english">Simple oral lip lichen planus is parum.</span></p>
 
 <p><span class="chinese">这个地衣测试是基于颜色数据的。</span><span class="english">The lichen identification was based on color data.</span></p>

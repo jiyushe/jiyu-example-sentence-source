@@ -1,5 +1,7 @@
 # 弥勒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mile.md)
+
 <p><span class="chinese">弥勒榻一般体形较大，又有无束腰和有束腰两种类型。</span><span class="english">Maitreya couch General larger body, waist and no waist and two types.</span></p>
 
 <p><span class="chinese">传说此佛像，是弥勒菩萨亲手所制。</span><span class="english">This statue had been reportedly hand sculpted by Maitreya Bodhisattva.</span></p>

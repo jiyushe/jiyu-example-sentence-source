@@ -1,5 +1,7 @@
 # exact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exact.md)
+
 <p><span class="chinese">我忘了它切当的名字了。</span><span class="english">I forget the exact name.</span></p>
 
 <p><span class="chinese">这完全是在开脱罪责。</span><span class="english">His answer is quite exact.</span></p>

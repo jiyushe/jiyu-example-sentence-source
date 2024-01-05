@@ -1,5 +1,7 @@
 # 河床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hechuang.md)
+
 <p><span class="chinese">这对河床来说是一个未知的世界。</span><span class="english">This is an unknown world to River.</span></p>
 
 <p><span class="chinese">原本是古长江的河床。</span><span class="english">Used to be the bed of Yangzi River.</span></p>

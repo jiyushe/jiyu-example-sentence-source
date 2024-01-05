@@ -1,5 +1,7 @@
 # coverall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coverall.md)
+
 <p><span class="chinese">小孩穿的一种工作服。</span><span class="english">A coverall worn by children.</span></p>
 
 <p><span class="chinese">还有餐具套装系列。</span><span class="english">Also has the tableware coverall series.</span></p>

@@ -1,5 +1,7 @@
 # billiard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billiard.md)
+
 <p><span class="chinese">你有两个台球。</span><span class="english">You have two billiard balls.</span></p>
 
 <p><span class="chinese">咱们打一局台球吧。</span><span class="english">One billiard ball impinged on another.</span></p>

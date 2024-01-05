@@ -1,5 +1,7 @@
 # 市府
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifu.md)
+
 <p><span class="chinese">他在道尔市长设立由市府赞助的多元特别工作组供职。</span><span class="english">He serves on a city-sponsored Diversity Task Force set up by Mayor Doyle.</span></p>
 
 <p><span class="chinese">“波普”案的上诉人从其市府警察的工作上被解雇。</span><span class="english">The petitioner in Bishop had been fired from his job as a city policeman.</span></p>

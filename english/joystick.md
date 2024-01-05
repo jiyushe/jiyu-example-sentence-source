@@ -1,5 +1,7 @@
 # joystick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joystick.md)
+
 <p><span class="chinese">该操控杆还运用了电子线控技术。</span><span class="english">The joystick controls drive-by-wire technology.</span></p>
 
 <p><span class="chinese">使用操纵杆或者导航键来选择口袋。</span><span class="english">Use the joystick or navigation keys to select the pocket.</span></p>

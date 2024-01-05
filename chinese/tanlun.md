@@ -1,5 +1,7 @@
 # 谈论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanlun.md)
+
 <p><span class="chinese">他们常常谈论马。</span><span class="english">They often talk horse.</span></p>
 
 <p><span class="chinese">我们都谈论了些什么？</span><span class="english">What did we talk about?</span></p>

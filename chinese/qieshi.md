@@ -1,5 +1,7 @@
 # 切实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieshi.md)
+
 <p><span class="chinese">是的，切实是脂肪瘤。</span><span class="english">Yes. it's lipoma.</span></p>
 
 <p><span class="chinese">我们保证……切实可用。</span><span class="english">We do have available.</span></p>

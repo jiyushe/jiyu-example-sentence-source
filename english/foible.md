@@ -1,5 +1,7 @@
 # foible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foible.md)
+
 <p><span class="chinese">这是一个全体人民的大怪癖。</span><span class="english">It is a big foible of all the people.</span></p>
 
 <p><span class="chinese">这是一个很大的怪癖全体人民。</span><span class="english">It is a big foible of all the people.</span></p>

@@ -1,5 +1,7 @@
 # 翱翔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aoxiang.md)
+
 <p><span class="chinese">让我们乘着风的翅膀翱翔！</span><span class="english">Let's soar on the wind!</span></p>
 
 <p><span class="chinese">一个翱翔天际。</span><span class="english">One is flying in the sky.</span></p>

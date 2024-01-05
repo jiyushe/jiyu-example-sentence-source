@@ -1,5 +1,7 @@
 # requisite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/requisite.md)
+
 <p><span class="chinese">他说，该测试符合所有必备的参数。</span><span class="english">"The test met all the requisite parameters," he said.</span></p>
 
 <p><span class="chinese">对活动的瞻仰大略是一位王妃所必需的。</span><span class="english">A love of sport may possibly requisite for a princess.</span></p>

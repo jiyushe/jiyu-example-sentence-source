@@ -1,5 +1,7 @@
 # elopement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elopement.md)
+
 <p><span class="chinese">我女儿私奔，还要我买单。</span><span class="english">I paid for my daughter's elopement.</span></p>
 
 <p><span class="chinese">她的私奔令她父母非常吃惊。</span><span class="english">Her elopement astounded her parents.</span></p>

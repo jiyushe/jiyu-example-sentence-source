@@ -1,5 +1,7 @@
 # doting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doting.md)
+
 <p><span class="chinese">老盖茨的母亲对孩子比较溺爱，为人非常随和。</span><span class="english">His mother was doting and easygoing.</span></p>
 
 <p><span class="chinese">要怪溺爱这一代的父母、老师和辅导员。</span><span class="english">Blame it on doting parents, teachers and coaches.</span></p>

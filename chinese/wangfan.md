@@ -1,5 +1,7 @@
 # 往返
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangfan.md)
+
 <p><span class="chinese">机票有效期30天内往返。</span><span class="english">Validity for 30days only.</span></p>
 
 <p><span class="chinese">我想看他流连往返。</span><span class="english">I wanted to watch him mosey.</span></p>

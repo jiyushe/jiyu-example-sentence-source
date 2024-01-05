@@ -1,5 +1,7 @@
 # plural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plural.md)
+
 <p><span class="chinese">你在什麽场合用复数形？</span><span class="english">The plural number or form.</span></p>
 
 <p><span class="chinese">练习单词的单复数形式。</span><span class="english">Practice the plural of words.</span></p>

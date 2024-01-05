@@ -1,5 +1,7 @@
 # coccidiosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coccidiosis.md)
+
 <p><span class="chinese">牛球虫病是牛的重要寄生性原虫病之一。</span><span class="english">Bovine coccidiosis is one of important protozoa diseases.</span></p>
 
 <p><span class="chinese">另外牛这类家畜也会感染这个病菌。</span><span class="english">Other kinds of animals including caws also get coccidiosis.</span></p>

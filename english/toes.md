@@ -1,5 +1,7 @@
 # toes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toes.md)
+
 <p><span class="chinese">他的脚趾向内弯。</span><span class="english">His toes turn in.</span></p>
 
 <p><span class="chinese">他踩到我的脚趾了。</span><span class="english">He trod on my toes.</span></p>

@@ -1,5 +1,7 @@
 # 半路出家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banluchujia.md)
+
 <p><span class="chinese">实际上，如果你先学数学，然后半路出家做程序员的话，你会发现编程简直就是小菜一碟。</span><span class="english">In fact if you're a halfway decent programmer you'll find it's almost a snap.</span></p>
 
 <p><span class="chinese">生在做小买卖的家里的人，总是比半路出家的人懂得多些。</span><span class="english">They that be born in a business always know more about it than any ' prentice.</span></p>

@@ -1,5 +1,7 @@
 # 自我
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwo.md)
+
 <p><span class="chinese">自我仇恨。</span><span class="english">Self-hatred.</span></p>
 
 <p><span class="chinese">自我感觉安全。</span><span class="english">We feel safe.</span></p>

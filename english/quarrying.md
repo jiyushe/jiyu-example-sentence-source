@@ -1,5 +1,7 @@
 # quarrying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quarrying.md)
+
 <p><span class="chinese">他们正从山坡上采大理石。</span><span class="english">They are quarrying the hillside for marble.</span></p>
 
 <p><span class="chinese">该办法包括采石与取土两大方面。</span><span class="english">The approach includes the quarrying and sand two areas.</span></p>

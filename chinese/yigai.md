@@ -1,5 +1,7 @@
 # 一概
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yigai.md)
+
 <p><span class="chinese">它一概值得一看。</span><span class="english">Ithas worth seeing.</span></p>
 
 <p><span class="chinese">一概不要耗费食物。</span><span class="english">Never was well aste food.</span></p>

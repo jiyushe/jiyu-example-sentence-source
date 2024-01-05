@@ -1,5 +1,7 @@
 # samadhi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samadhi.md)
+
 <p><span class="chinese">一个人应该怎样修行禅定？</span><span class="english">How does one practise samadhi?</span></p>
 
 <p><span class="chinese">口头说三昧。</span><span class="english">Paying lip service to samadhi.</span></p>

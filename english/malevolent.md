@@ -1,5 +1,7 @@
 # malevolent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malevolent.md)
+
 <p><span class="chinese">那么他是恶毒的。</span><span class="english">Then he is malevolent.</span></p>
 
 <p><span class="chinese">但是外星人是恶意的吗？</span><span class="english">But what about being malevolent too?</span></p>

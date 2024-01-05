@@ -1,5 +1,7 @@
 # 土葬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuzang.md)
+
 <p><span class="chinese">他要火葬，不要土葬。</span><span class="english">He wants to be cremated, not buried.</span></p>
 
 <p><span class="chinese">通常来说，都是采用土葬、火葬或者海葬。</span><span class="english">In general, they adopt the inhumation, cremation and sea-burial.</span></p>

@@ -1,5 +1,7 @@
 # 遇事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushi_3.md)
+
 <p><span class="chinese">你必须学会遇事泰然处之。</span><span class="english">You must learn to play it cool.</span></p>
 
 <p><span class="chinese">像他父亲一样，遇事冷静。</span><span class="english">Like his father, he is of cool temper.</span></p>

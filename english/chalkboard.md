@@ -1,5 +1,7 @@
 # chalkboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chalkboard.md)
+
 <p><span class="chinese">黑板上有钉子。</span><span class="english">Nails on a chalkboard.</span></p>
 
 <p><span class="chinese">拿一块湿布来擦粉板。</span><span class="english">Wipe the chalkboard with a damp cloth.</span></p>

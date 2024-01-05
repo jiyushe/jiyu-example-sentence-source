@@ -1,5 +1,7 @@
 # 扒拉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bala.md)
+
 <p><span class="chinese">还是你自己到网上扒拉出来的？</span><span class="english">Are you seeking out information online?</span></p>
 
 <p><span class="chinese">上帝轻柔的扒拉醒她，然后问她，“你到这疙瘩以后，一切都还好不？”</span><span class="english">The Lord gently wakes the cat and asks him, "How are things since you got here?"</span></p>

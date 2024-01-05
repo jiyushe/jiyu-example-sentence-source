@@ -1,5 +1,7 @@
 # 杀机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaji.md)
+
 <p><span class="chinese">在当中把杀机深藏。</span><span class="english">For murder to hide.</span></p>
 
 <p><span class="chinese">小心他的礼物，那是包藏杀机的礼物！</span><span class="english">Eg. 1. Ware his gift, that is a Greek gift!</span></p>

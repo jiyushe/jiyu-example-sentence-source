@@ -1,5 +1,7 @@
 # analogous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analogous.md)
+
 <p><span class="chinese">它可能就相当于一本书的书脊吧。</span><span class="english">Maybe it’s analogous to a book’s spine.</span></p>
 
 <p><span class="chinese">对于软件而言，类似的设计文档是什么呢？</span><span class="english">What is the analogous design document for software?</span></p>

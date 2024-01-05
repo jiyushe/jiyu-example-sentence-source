@@ -1,5 +1,7 @@
 # boredom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boredom.md)
+
 <p><span class="chinese">我终因无聊厌烦，憋得面呈死色。</span><span class="english">My face turns dead with boredom.</span></p>
 
 <p><span class="chinese">你知道解除沈闷的任何方法吗？</span><span class="english">Do you know any way to relieve boredom?</span></p>

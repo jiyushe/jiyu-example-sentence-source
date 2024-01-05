@@ -1,5 +1,7 @@
 # ka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ka.md)
+
 <p><span class="chinese">嘉华在科大的生活非常忙碌。</span><span class="english">Life was busy for Ka Wah at HKUST.</span></p>
 
 <p><span class="chinese">你在这部剧里的角色是什么样的？</span><span class="english">What is your role in this lakorn ka ?</span></p>

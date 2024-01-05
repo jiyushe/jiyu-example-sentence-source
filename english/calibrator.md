@@ -1,5 +1,7 @@
 # calibrator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calibrator.md)
+
 <p><span class="chinese">你能给我看一看校准器？</span><span class="english">Could you show me the calibrator?</span></p>
 
 <p><span class="chinese">校准很容易与内置的3键校准器。</span><span class="english">Calibration is easy with the built-in 3-key calibrator.</span></p>

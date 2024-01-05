@@ -1,5 +1,7 @@
 # 夸张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuazhang.md)
+
 <p><span class="chinese">我这么写太夸张了。</span><span class="english">I so write too exaggerative.</span></p>
 
 <p><span class="chinese">但看看更夸张的。</span><span class="english">But look beyond the hyperbole.</span></p>

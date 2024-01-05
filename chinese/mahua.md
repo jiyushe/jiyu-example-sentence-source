@@ -1,5 +1,7 @@
 # 麻花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mahua.md)
+
 <p><span class="chinese">那我能吃这甜肉桂麻花了吗？</span><span class="english">Can I please have the cinnamon twist?</span></p>
 
 <p><span class="chinese">天津的特产是煎饼和麻花。</span><span class="english">Tianjin's specialties are battercake, twist dessert.</span></p>

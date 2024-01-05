@@ -1,5 +1,7 @@
 # crusader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crusader.md)
+
 <p><span class="chinese">一位叫做阿吉尔的雷蒙德的法国十字军这样写道。</span><span class="english">French crusader called Raymond of Agiles left this account.</span></p>
 
 <p><span class="chinese">一名十字军首领曾许诺给予他们保护。</span><span class="english">A crusader leader had promised them protection. He meant it.</span></p>

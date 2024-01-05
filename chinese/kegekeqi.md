@@ -1,5 +1,7 @@
 # 可歌可泣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kegekeqi.md)
+
 <p><span class="chinese">战争年代充满了可歌可泣的事件。</span><span class="english">The days of the war were full of stirring events.</span></p>
 
 <p><span class="chinese">这部小说里有许多可歌可泣的英雄事迹。</span><span class="english">The heroic deed has a great influence on the little boy.</span></p>

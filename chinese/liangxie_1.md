@@ -1,5 +1,7 @@
 # 凉鞋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangxie_1.md)
+
 <p><span class="chinese">短袜加凉鞋？</span><span class="english">Socks and sandals?</span></p>
 
 <p><span class="chinese">永不再穿凉鞋？</span><span class="english">Never wear sandals again?</span></p>

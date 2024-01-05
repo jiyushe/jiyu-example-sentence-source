@@ -1,5 +1,7 @@
 # 春寒料峭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunhanliaoqiao.md)
+
 <p><span class="chinese">春寒料峭。</span><span class="english">There is a chill in the air in early spring.</span></p>
 
 <p><span class="chinese">那是2003年2月16日星期天，比利时，一个安静的春寒料峭的夜晚。</span><span class="english">It was February 16, 2003 — a clear, frozen Sunday evening in Belgium.</span></p>

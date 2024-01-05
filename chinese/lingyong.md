@@ -1,5 +1,7 @@
 # 零用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingyong.md)
+
 <p><span class="chinese">从今天开始零用金将由我负责。</span><span class="english">I will be in charge of the petty cash from now on.</span></p>
 
 <p><span class="chinese">我们公司的零用金好像总是空的。</span><span class="english">Our company's petty cash always seems to be empty.</span></p>

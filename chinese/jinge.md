@@ -1,5 +1,7 @@
 # 惊愕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinge.md)
+
 <p><span class="chinese">这没什么好惊愕的，我仍旧62岁了。</span><span class="english">There's no panic, I'm 62.</span></p>
 
 <p><span class="chinese">他的冒失举动令我们惊愕。</span><span class="english">His impudence bowled us over.</span></p>

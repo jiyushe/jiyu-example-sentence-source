@@ -1,5 +1,7 @@
 # paranoiac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paranoiac.md)
+
 <p><span class="chinese">医生说他是妄想狂。</span><span class="english">The doctor says that he is paranoiac.</span></p>
 
 <p><span class="chinese">买黄金的人是地球上最多疑的人。</span><span class="english">People who trade gold are the most paranoiac on the planet.</span></p>

@@ -1,5 +1,7 @@
 # workover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workover.md)
+
 <p><span class="chinese">在钻机或修井作业机的绞车中使用提升滚筒。</span><span class="english">A hoisting drum is used in the drawworks of a drilling or workover rig.</span></p>
 
 <p><span class="chinese">修井机在额定负荷时，不应匹配在变矩器闭锁工况。</span><span class="english">The workover rig should not be matched under lockup conditions of the converter.</span></p>

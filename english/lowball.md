@@ -1,5 +1,7 @@
 # lowball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lowball.md)
+
 <p><span class="chinese">于是，老板们觉得开低薪水也照样能请到人。</span><span class="english">So employers feel they can get away with lowball offers.</span></p>
 
 <p><span class="chinese">我在哪里可以免费看电影在线虚报低价全流？</span><span class="english">Where can I watch Lowball movie online free full stream?</span></p>

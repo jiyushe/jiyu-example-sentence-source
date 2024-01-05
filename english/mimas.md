@@ -1,5 +1,7 @@
 # mimas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mimas.md)
+
 <p><span class="chinese">土卫一上这个巨型环形山为什么有这么古怪的颜色？</span><span class="english">Why is this giant crater on Mimas oddly colored?</span></p>
 
 <p><span class="chinese">陨石坑所产生的影响，几乎可以摧毁整个的土卫一。</span><span class="english">The impact that made this crater likely almost destroyed Mimas.</span></p>

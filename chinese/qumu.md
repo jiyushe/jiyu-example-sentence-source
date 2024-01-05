@@ -1,5 +1,7 @@
 # 曲目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qumu.md)
+
 <p><span class="chinese">曲目是怎么选择的？</span><span class="english">How were the tracks selected?</span></p>
 
 <p><span class="chinese">他开始演奏一首那支乐队的曲目。</span><span class="english">He begins to play one of their songs.</span></p>

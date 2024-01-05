@@ -1,5 +1,7 @@
 # dunce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dunce.md)
+
 <p><span class="chinese">我在化学方面是个劣等生。</span><span class="english">I was a dunce at chemistry.</span></p>
 
 <p><span class="chinese">他被暴打，被人往身上吐唾沫，被强迫戴上高帽。</span><span class="english">He is beaten, spit upon and forced to wear a dunce cap.</span></p>

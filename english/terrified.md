@@ -1,5 +1,7 @@
 # terrified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrified.md)
+
 <p><span class="chinese">他把我吓坏了。</span><span class="english">He terrified me.</span></p>
 
 <p><span class="chinese">但是，这也吓坏了我们。</span><span class="english">But it also terrified us.</span></p>

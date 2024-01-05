@@ -1,5 +1,7 @@
 # 书会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuhui.md)
+
 <p><span class="chinese">柯林顿巡迴签书会于纽约开跑。</span><span class="english">Clinton kicks off book tour with NY signing.</span></p>
 
 <p><span class="chinese">据说，在不久的将来会电子书会比纸的书还多。</span><span class="english">It is said that in the near future there will be more e-books than paper books.</span></p>

@@ -1,5 +1,7 @@
 # 临阵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linzhen.md)
+
 <p><span class="chinese">过河莫换马，临阵勿换将。</span><span class="english">Never swap horses while crossing the stream.</span></p>
 
 <p><span class="chinese">你所陷入的战争，主必临阵战而胜之。</span><span class="english">You will never enter a battle, He can not win.</span></p>

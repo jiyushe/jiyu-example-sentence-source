@@ -1,5 +1,7 @@
 # 走向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouxiang.md)
+
 <p><span class="chinese">我走向狗窝。</span><span class="english">I go to the doghouse.</span></p>
 
 <p><span class="chinese">小丑走向魔术师。</span><span class="english">Clowns go to Trickster.</span></p>

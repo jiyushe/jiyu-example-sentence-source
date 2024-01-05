@@ -1,5 +1,7 @@
 # coverage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coverage.md)
+
 <p><span class="chinese">是覆盖范围吗？</span><span class="english">Is it the coverage?</span></p>
 
 <p><span class="chinese">扩大了工伤保险适用范围。</span><span class="english">Insurance coverage expanded.</span></p>

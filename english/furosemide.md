@@ -1,5 +1,7 @@
 # furosemide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furosemide.md)
+
 <p><span class="chinese">本研究期间患者接受固定剂量的呋塞米。</span><span class="english">Patients received furosemide in a stable dose throughout the study.</span></p>
 
 <p><span class="chinese">通过计算速尿对内标物的峰高比求得速尿含量。</span><span class="english">The amount of furosemide was determined by measuring peak height ratio.</span></p>

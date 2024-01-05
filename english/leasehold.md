@@ -1,5 +1,7 @@
 # leasehold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leasehold.md)
+
 <p><span class="chinese">本文讨论的是租赁权的性质问题。</span><span class="english">The treatise discusses the nature of leasehold.</span></p>
 
 <p><span class="chinese">文章进一步论述租赁权在物权性方面的权利归属。</span><span class="english">The right to the lesser of leasehold is restricted.</span></p>

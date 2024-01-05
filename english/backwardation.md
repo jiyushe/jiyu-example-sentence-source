@@ -1,5 +1,7 @@
 # backwardation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backwardation.md)
+
 <p><span class="chinese">另外，贴水扩大也吸引了部分消费者的铜库存，因为订单活动减少。</span><span class="english">In addition, the wide backwardation is attracting some consumer material, as order activity fades.</span></p>
 
 <p><span class="chinese">期货升水是现货与期货价格之间的正常关系。</span><span class="english">Contango is the normal relationship between the spot price and the futures price and is the opposite of backwardation.</span></p>

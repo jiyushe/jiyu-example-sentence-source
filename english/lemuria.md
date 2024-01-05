@@ -1,5 +1,7 @@
 # lemuria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lemuria.md)
+
 <p><span class="chinese">十九世纪，亚特兰蒂斯的神话变得与姆大陆和利莫里亚合并起来。</span><span class="english">In the 19th century, the Atlantis myth became conflated with Mu and Lemuria.</span></p>
 
 <p><span class="chinese">考爱岛上许多人认为这里就是勒慕里亚——一个大西洋里失落的岛屿。</span><span class="english">Many people on Kauai believe that this is Lemuria – a lost island in the Atlantic.</span></p>

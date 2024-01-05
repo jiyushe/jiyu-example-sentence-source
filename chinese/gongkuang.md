@@ -1,5 +1,7 @@
 # 工矿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongkuang.md)
+
 <p><span class="chinese">电车线是电气化铁路、工矿电机车等用滑接馈电线的总称。</span><span class="english">Contact cable is an important part of the electrical railway system.</span></p>
 
 <p><span class="chinese">因此，开展工矿废渣作硅肥的研究具有重要意义。</span><span class="english">So making the study of slag mucks as silicon fertilizer was significant.</span></p>

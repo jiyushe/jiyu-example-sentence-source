@@ -1,5 +1,7 @@
 # peel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peel.md)
+
 <p><span class="chinese">它就会自己脱落。</span><span class="english">It will peel off.</span></p>
 
 <p><span class="chinese">把水果洗净后削皮。</span><span class="english">First, peel the fruit.</span></p>

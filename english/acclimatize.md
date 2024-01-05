@@ -1,5 +1,7 @@
 # acclimatize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acclimatize.md)
+
 <p><span class="chinese">我相信他们很快就会适应的。</span><span class="english">I believe they will quickly acclimatize.</span></p>
 
 <p><span class="chinese">你很快就会习惯这里的气候。</span><span class="english">You'll acclimatize yourself to local climate soon.</span></p>

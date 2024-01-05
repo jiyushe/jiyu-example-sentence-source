@@ -1,5 +1,7 @@
 # yinchuan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yinchuan.md)
+
 <p><span class="chinese">银川地处沙漠气候。</span><span class="english">Yinchuan has a desert climate.</span></p>
 
 <p><span class="chinese">宁夏银川哪里有卖流氓兔的？</span><span class="english">Where has Ningxia Yinchuan to sell rogue rabbit's?</span></p>

@@ -1,5 +1,7 @@
 # disintegrator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disintegrator.md)
+
 <p><span class="chinese">饲料粉碎机是饲料机械中应用最为广泛的一种机械。</span><span class="english">Forage disintegrator is machinery widely used in the forage machine.</span></p>
 
 <p><span class="chinese">一种引风铡草多功能粉碎机。</span><span class="english">The utility model relates to an air inducing and grass cutting multifunctional disintegrator.</span></p>

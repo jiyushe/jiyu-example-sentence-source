@@ -1,5 +1,7 @@
 # neighborliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neighborliness.md)
+
 <p><span class="chinese">第一，增进睦邻友好和政治互信。</span><span class="english">First, enhancing friendship and political trust and good- neighborliness.</span></p>
 
 <p><span class="chinese">中华文明历来注重亲仁善邻，讲求和睦相处。</span><span class="english">The Chinese civilization has always given prominence to good neighborliness.</span></p>

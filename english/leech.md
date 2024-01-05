@@ -1,5 +1,7 @@
 # leech
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leech.md)
+
 <p><span class="chinese">蚂蟥牧人欢欣鼓舞。</span><span class="english">Leech wranglers are exultant.</span></p>
 
 <p><span class="chinese">蚂蟥的市场价格是多少啊？</span><span class="english">How many is the leech market price?</span></p>

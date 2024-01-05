@@ -1,5 +1,7 @@
 # 张灯结彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangdengjiecai.md)
+
 <p><span class="chinese">街上张灯结彩以进行庆祝。</span><span class="english">The streets were illuminated for the celebration.</span></p>
 
 <p><span class="chinese">元宵节这天到处张灯结彩，喜气洋洋。</span><span class="english">Lantern Festival day everywhere decorated, beaming.</span></p>

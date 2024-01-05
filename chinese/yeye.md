@@ -1,5 +1,7 @@
 # 爷爷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeye.md)
+
 <p><span class="chinese">爷爷唱起来啊！</span><span class="english">Sing it, grandpa.</span></p>
 
 <p><span class="chinese">谢谢二爷爷！</span><span class="english">Thank two grandpas!</span></p>

@@ -1,5 +1,7 @@
 # dimness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimness.md)
+
 <p><span class="chinese">幽暗的黄昏中，房间一片宁静。</span><span class="english">The room was quiet in the dimness of early evening.</span></p>
 
 <p><span class="chinese">过了好一阵他的眼睛才适应了这昏暗的地方。</span><span class="english">It took a while for his eyes to adjust to the dimness.</span></p>

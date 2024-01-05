@@ -1,5 +1,7 @@
 # diabolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diabolic.md)
+
 <p><span class="chinese">火光映射出残忍的现场。</span><span class="english">Fires lit up a diabolic scene.</span></p>
 
 <p><span class="chinese">设计这么残忍的爆炸计划的人心有多狠毒啊！</span><span class="english">What kind of diabolical mind would devise such a diabolic scheme?</span></p>

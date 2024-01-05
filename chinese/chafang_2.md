@@ -1,5 +1,7 @@
 # 茶坊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chafang_2.md)
+
 <p><span class="chinese">我去百老汇找。你去俄罗斯茶坊。</span><span class="english">You go to the Russian Tea Room.</span></p>
 
 <p><span class="chinese">在这间茶坊里我好像活在中国古代。</span><span class="english">I feel like I'm in old China at this teahouse.</span></p>

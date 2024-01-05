@@ -1,5 +1,7 @@
 # 历时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lishi_2.md)
+
 <p><span class="chinese">施历时避开眼部唇部和口部。</span><span class="english">Keep wy from eyes, lips nd mouth.</span></p>
 
 <p><span class="chinese">这场关于自治的争论历时长久。</span><span class="english">The argument over self-rule is long.</span></p>

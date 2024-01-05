@@ -1,5 +1,7 @@
 # esr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esr.md)
+
 <p><span class="chinese">用电子自旋共振证实了BTF的自由基。</span><span class="english">Free radical of BTF was identified by ESR.</span></p>
 
 <p><span class="chinese">ESR表明，光照下纤维中有电子转移。</span><span class="english">One-electron transition was confirmed by ESR.</span></p>

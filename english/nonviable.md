@@ -1,5 +1,7 @@
 # nonviable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonviable.md)
+
 <p><span class="chinese">不幸地是，他妻子刚生下了一个不能成活的胎儿。</span><span class="english">Unfortunately, his wife had just given birth to a nonviable fetus.</span></p>
 
 <p><span class="chinese">所有无活性的组织，包括骨组织和软组织，都应清除。</span><span class="english">All nonviable tissue, both osseous and soft tissue, should be removed.</span></p>
